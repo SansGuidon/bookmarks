@@ -103,11 +103,20 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ray Smith](http://assets.en.oreilly.com/1/event/12/Shell%20Scripting%20Craftsmanship%20Presentation%201.pdf) - [PDF] Shell Scripting Craftsmanship
 * [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - Common shell script mistakes
 * [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
+* [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
+* [explainshell.com](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
+* [bats] - Bash Automated Testing System
 
-# Security / Penetration Testing
+## Shell Aliases
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
+* [nixCraft](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) - 30 Handy Bash Shell Aliases For Linux / Unix / Mac OS X
+
+# Security / Infosec
 * [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - Penetration Testing Tools Cheat Sheet
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
+* [bats] - Bash Automated Testing System
 
 [Dillinger]: <http://dillinger.io>
+[bats]: <https://github.com/sstephenson/bats>
