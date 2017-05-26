@@ -39,6 +39,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Linux
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
+* [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary 
+* [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
 
 # Music 
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
@@ -90,5 +92,22 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) - Mastering Bash and Terminal
 * [kvz.io](http://kvz.io/blog/2013/11/21/bash-best-practices/) - Best Practices for Writing Bash Scripts
 * [Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/) - 3 shell scripts to improve your writing
+* [Quickshiftin](https://quickshiftin.com/blog/2014/01/template-method-pattern-bash/) - Template method pattern in BASH
+* [Fahd Shariff](http://fahdshariff.blogspot.be/2013/10/shell-scripting-best-practices.html) - Shell Scripting - Best Practices
+* [Fahd Shariff](http://fahdshariff.blogspot.be/2017/05/shell-scripting-and.html) - Shell Scripting: <, << and <<<
+* [Nitin Bhadauria](http://www.tothenew.com/blog/foolproof-your-bash-script-some-best-practices/) - Foolproof Your Bash Script – Some Best Practices
+* [David Pashley](http://www.davidpashley.com/articles/writing-robust-shell-scripts/) - Writing Robust Bash Shell Scripts
+* [Paul Armstrong](https://google.github.io/styleguide/shell.xml) - Shell Style Guide by Google
+* [Aaron Maxwell](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)
+* [Aaron Maxwell](http://redsymbol.net/articles/bash-exit-traps/) - How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable
+* [Ray Smith](http://assets.en.oreilly.com/1/event/12/Shell%20Scripting%20Craftsmanship%20Presentation%201.pdf) - [PDF] Shell Scripting Craftsmanship
+* [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - Common shell script mistakes
+* [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
+
+# Security / Penetration Testing
+* [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - Penetration Testing Tools Cheat Sheet
+
+# Testing
+* [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
 
 [Dillinger]: <http://dillinger.io>
