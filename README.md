@@ -22,6 +22,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
 * [Simple Programmer](https://simpleprogrammer.com/2016/01/06/stop-improving-yourself/) - Stop Improving Yourself
 
+# IT OPS
+* [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
+* [nixCraft](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
+
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/the-two-minute-rule) - The Two-Minute Rule / When You’re Buried in Email
@@ -36,11 +40,39 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Troubleshooting
 * [pluralsight](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
 
-# Linux
+# Unix / Linux
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
 * [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary 
 * [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/2696541/operating-systems/unix--knowing-your-memory-commands.html) - Unix: Knowing your memory commands
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3184929/linux/lesser-known-but-still-handy-linux-commands.html) - Lesser known but still handy Linux commands
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3152772/linux/17-unix-tricks-for-a-happy-2017.html) - 17 Unix tricks for a happy 2017
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3154741/linux/profiling-your-users.html) - Using Unix commands to profile your users
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3066941/linux/administering-unix-systems-like-your-mom-taught-you.html) - Administering Unix systems like your mom taught you
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3069981/linux/the-linux-command-that-you-should-never-say-out-loud.html) - thefuck : The Linux command that you should never say out loud
+* [Scott Rippee](http://www.hypexr.org/linux_scp_help.php) - Example syntax for Secure Copy (scp)
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/2974753/linux/doing-math-with-awk.html) - Doing math with awk
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
+* [Vim Tips Wiki](http://vim.wikia.com/wiki/Search_and_replace) - Search and replace in VIM
+* [zzapper](http://rayninfo.co.uk/vimtips.html) - Best of Vim Tips / compiled from 16 Years of Vi + 10+ years of Vim 
+* [nixCraft](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/) - Top 32 Nmap Command Examples For Sys/Network Admins
+* [Lakshmanan Ganapathy](http://www.thegeekstuff.com/2012/08/lsof-command-examples) - 15 Linux lsof Command Examples (Identify Open Files)
+* [The Geek Stuff](http://www.thegeekstuff.com/2010/11/50-linux-commands/) - 50 Most Frequently Used UNIX / Linux Commands (With Examples)
+* [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
+* [Ramesh Natarajan](http://www.thegeekstuff.com/2011/06/iptables-rules-examples/) - 25 Most Frequently Used Linux IPTables Rules Examples
+* [The Geek Stuff](http://www.thegeekstuff.com/2010/09/linux-one-liners/) - 6 Useful Linux One Liners
+
+## Troubleshooting
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
+* [Narad Shrestha](https://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/) - 12 Tcpdump Commands – A Network Sniffer Tool
+* [Edoceo](http://edoceo.com/cli/tcpdump) - tcpdump examples
+* [rationallyPARANOID](https://rationallyparanoid.com/articles/tcpdump.html) - Tcpdump usage examples
+* [Sebastien Wains](https://www.wains.be/pub/networking/tcpdump_advanced_filters.txt) - tcpdump advanced filters
+* [Ravi Saive](https://www.tecmint.com/20-netstat-commands-for-linux-network-management/) - 20 Netstat Commands for Linux Network Management
+* [Milosz Galazka](https://blog.sleeplessbeastie.eu/2013/10/31/how-to-deal-with-dmesg-timestamps/) - How to deal with dmesg timestamps
+* [Stack Exchange](https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted) - Find and remove large files that are open but have been deleted
+* [Phil Rzewski](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/) - Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
 
 # Music 
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
@@ -66,6 +98,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Docker Documentation](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
 * [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
 * [SlideShare](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - Optimizing Docker Images
+
+## Debugging
+* [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
 
 ## Git
 * [Dissecting Git's Guts - Git Merge 2016](https://www.youtube.com/watch?v=Y2Msq90ZknI) + [Cheat Sheet of git commands](https://github.com/emilyxxie/gits_guts_commands/blob/master/git_cheat_sheet.pdf)
@@ -106,10 +141,16 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * [explainshell.com](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
 * [bats] - Bash Automated Testing System
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3015657/linux/changing-how-bash-behaves.html) - Changing how bash behaves
+* [FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting) - Bash tips: Colors and formatting
+* [SS64.com](https://ss64.com/bash/) - An A-Z Index of the Bash command line for Linux.
+* [SS64.com](https://ss64.com/bash/syntax-keyboard.html) - Bash Keyboard Shortcuts
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
 * [nixCraft](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) - 30 Handy Bash Shell Aliases For Linux / Unix / Mac OS X
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3121790/linux/making-troubleshooting-with-lsof-easier.html) - Unix tips: Making troubleshooting with lsof easier. See also [Unix commands: Troubleshooting with lsof](http://www.computerworld.com/article/3119775/linux/troubleshooting-with-lsof.html)
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3085495/linux/unix-aliases-for-good-and-evil.html) - Unix aliases for good and evil
 
 # Security / Infosec
 * [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - Penetration Testing Tools Cheat Sheet
