@@ -5,6 +5,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dale Emery](http://cwd.dhemery.com/2005/05/motivation) - model of motivation : Motivation = Ability × Results × Preferences
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/what-if-we-forget-to-write-the-tests) - What If We Forget To Write the Tests?
 - [Paul Kaye](https://www.linkedin.com/pulse/control-stifles-creativity-growth-paul-kaye) - Control stifles creativity and growth
+* [Corinna Baldauf](http://wall-skills.com/2017/glasls-stages-of-conflict-escalation/) - Glasl’s Stages of Conflict Escalation
+* [Wall-Skills](http://wall-skills.com/) - Great 1-pagers to share in your company
+* [Corinna Baldauf](http://wall-skills.com/2016/team-self-selection-kit/) - Team Self-Selection Kit
+* [Corinna Baldauf](http://wall-skills.com/2016/silence-a-room-in-5-seconds/) - Silence a Room in 5 Seconds
+* [Corinna Baldauf](http://wall-skills.com/2016/tuckmans-stages-of-team-development/) - Tuckman’s Stages of Team Development
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -19,7 +24,27 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Willem Meints](http://fizzylogic.nl/2015/01/27/building-containerized-apps-with-vagrant/) - Building Containerized Apps With Vagrant
 
 ## Ansible
+* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_best_practices.html) - Best Practices
 * [Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
+* [Ansible](https://www.ansible.com/blog/ansible-performance-tuning) - Ansible Performance Tuning (for Fun and Profit)
+* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_filters.html) - Jinja2 Filters 
+* [Jinja2 Docs](http://jinja.pocoo.org/docs/dev/templates/#builtin-filters) - Templates and Builtin filters
+* [Remy Van Elst](https://raymii.org/s/tutorials/Ansible_-_Only_if_a_file_exists_or_does_not_exist.html) - Ansible - Only if a file exists or does not exist
+* [Ansible Docs](http://docs.ansible.com/ansible/intro_configuration.html) - Available settings in Ansible configuration file
+* [Jensd](http://jensd.be/587/linux/tips-tricks-for-ansible) - Tips & tricks for Ansible
+* [Maxim Chernyak](http://hakunin.com/six-ansible-practices) - 6 practices for super smooth Ansible experience 
+* [Nick Janetakis](https://github.com/nickjj/rolespec) - RoleSpec : A test library for testing Ansible roles
+* [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-manage-multistage-environments-with-ansible) - How to Manage Multistage Environments with Ansible
+* [Stack Overflow](https://stackoverflow.com/questions/32526774/multistage-deployment-with-ansible) - Multistage deployment with ansible
+* [Osvaldo Toja](http://toja.io/using-host-and-group-vars-files-in-ansible/) - Organizing Group Vars Files in Ansible
+* [Ross Tuck](http://rosstuck.com/multistage-environments-with-ansible/) - Multistage environments with Ansible
+* [Ross Tuck](http://rosstuck.com/slightly-faster-ansible-testing-with-vagrant/) - (Slightly) Faster Ansible Testing with Vagrant
+* [Jeff Geerling](https://github.com/geerlingguy?utf8=%E2%9C%93&tab=repositories&q=ansible&type=&language=) - Lot of good ansible roles examples
+* [Maxime Thoonsen](https://www.theodo.fr/blog/2015/10/best-practices-to-build-great-ansible-playbooks/) - Best practices to build great Ansible playbooks
+* [Jon Warbrick](https://gist.github.com/andreicristianpetcu/b892338de279af9dac067891579cad7d) - (2014) An Ansible summary : Ansible Cheat Sheet (for Ansible 1.7)
+* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_lookups.html) - Lookups
+* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_variables.html) - Variables
+* [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - Useful command line options for ansible-playbook
 
 ## Containers
 * [DEV](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
@@ -101,6 +126,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
+* [leereilly/games](https://github.com/leereilly/games) - Games on GitHub - A list of popular/awesome videos games, add-ons, maps, etc.
+* [Soldat](https://www.soldat.pl/en/) - Soldat is still one of my favorite multiplayer games for 10+ years, mainly because it's free, its gameplay is simple, the engine can be modded easily and the game uses 2d rendering
 
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
@@ -120,6 +147,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [alicegoldfuss](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
 * [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - Lies My Parents Told Me (About Logs)
 * [Fedora](https://mirrors.fedoraproject.org/mirrorlist?repo=epel-6&arch=x86_64) - Fedora Mirrors list for EPEL-6 and arch x86_64 . see also [Fedora Mirror Manager](https://admin.fedoraproject.org/mirrormanager/)
+* [Aurore Malherbes](https://www.theodo.fr/blog/2017/05/prevent-command-with-a-specific-option-to-be-run-on-your-server/) - Prevent command with a specific option to be run on your server
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
@@ -134,6 +162,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [govdesign](https://github.com/alphagov/govdesign) - Lot of useful posters to print 
 * [Edouard-Malo HENRY](https://www.linkedin.com/pulse/moving-from-how-why-company-edouard-malo-henry) - Moving from a "how" to a "why" company
 * [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
+* [Wall-Skills](http://wall-skills.com/) - Great 1-pagers to share in your company
+* [Corinna Baldauf](http://wall-skills.com/2016/how-to-master-any-skill-badass/) - How to master any skill – Badass
 
 ## Troubleshooting
 * [pluralsight](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
@@ -160,6 +190,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
 * [Ramesh Natarajan](http://www.thegeekstuff.com/2011/06/iptables-rules-examples/) - 25 Most Frequently Used Linux IPTables Rules Examples
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/09/linux-one-liners/) - 6 Useful Linux One Liners
+* [Maxim Chernyak](http://hakunin.com/permissions) - Linux permissions cheatsheet 
+* [Corinna Baldauf](http://wall-skills.com/2015/the-find-command-in-examples/) - The find command in examples
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -188,17 +220,26 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [10 C99 tricks](https://blog.noctua-software.com/c-tricks.html)
 * [Java Performance Tuning](http://www.javaperformancetuning.com/) - regular tips and news about java performance tuning
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - The Joel Test: 12 Steps to Better Code
+* [Corinna Baldauf](http://wall-skills.com/2016/agile-engineering-self-assessment/) - Agile Engineering Self Assessment
 * [Emiliano Soldi](https://www.linkedin.com/pulse/relentlessly-avoid-technical-debt-emiliano-soldi) - Relentlessly Avoid Technical Debt
 * [Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs) - (Video) The Silver Bullet Syndrome (Devoxx Brussels 2015)
+* [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
+* [Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) - How to Pick a Good Monitor for Software Development
 
 ## Clean Code
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
+* [Corinna Baldauf](http://wall-skills.com/2014/simplicity-rules-from-extreme-programming/) - Simplicity Rules (from eXtreme Programming)
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
+
+## Gamedev
+* [libgdx/libgdx](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
+* [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
+* [angel2d](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
 
 ## Git
 * [Dissecting Git's Guts - Git Merge 2016](https://www.youtube.com/watch?v=Y2Msq90ZknI) + [Cheat Sheet of git commands](https://github.com/emilyxxie/gits_guts_commands/blob/master/git_cheat_sheet.pdf)
@@ -207,6 +248,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [James Coyle](https://www.jamescoyle.net/how-to/1891-git-ssl-certificate-problem-caused-by-self-signed-certificates) - Git SSL Certificate Problem Caused By Self Signed Certificates
 * [Scott Nonnenberg](https://blog.scottnonnenberg.com/better-git-configuration/) - Better Git configuration. See also the [shared .gitconfig file](https://gist.github.com/scottnonnenberg/fefa3f65fdb3715d25882f3023b31c29)
 * [Scott Chacon and Ben Straub](https://git-scm.com/docs/git-config#_variables) - available variables in git config
+* [Corinna Baldauf](http://wall-skills.com/2014/git-pretty-so-youve-got-a-mess-on-your-hand/) - git pretty – So you’ve got a mess on your hand …
+
+## Go
+* [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
 
 ## Productivity
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
@@ -215,6 +260,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Clean Coder Blog](http://blog.cleancoder.com/uncle-bob/2016/05/21/BlueNoYellow.html) - Blue. No! Yellow! Comparative Productivity of Programming Languages
 * [Paul Graham](https://www.linkedin.com/pulse/context-switching-developers-paul-graham) - How Context Switching destroys Developers Productivity and how to fix it.
 * [Dan Richman](https://www.geekwire.com/2016/just-shut-let-devs-concentrate-programming-expert-advises/) - Just shut up and let your devs concentrate
+* [Nick Janetakis](https://nickjanetakis.com/blog/who-else-wants-to-boost-their-productivity-with-tmux) - Who Else Wants to Boost Their Terminal Productivity With tmux?
+* [Aurore Malherbes](https://www.theodo.fr/blog/2017/04/become-a-better-developer-with-an-efficient-technical-watch/) - Become a better developer with an efficient technical watch
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
