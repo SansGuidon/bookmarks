@@ -31,6 +31,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - Useful Docker Bash Functions And Aliases
 * [Lucas Carlson](https://www.ctl.io/developers/blog/post/15-quick-docker-tips/) - (2014) 15 Quick Docker Tips
 * [Docker Store](https://store.docker.com/search?q=source%3Dverified&source=verified&type=image) - Containers from verified source
+* [Denis Gladkikh](https://www.splunk.com/blog/2015/08/24/collecting-docker-logs-and-stats-with-splunk/) - Collecting docker logs and stats with Splunk
+* [Docker Documentation](https://docs.docker.com/engine/admin/logging/splunk/) - Splunk logging driver
+* [Denis Gladkikh](https://www.splunk.com/blog/2015/12/16/splunk-logging-driver-for-docker/) - Splunk Logging Driver for Docker
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
