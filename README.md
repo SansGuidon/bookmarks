@@ -15,15 +15,17 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
 
 # DevOps
+* [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
-* [mitchellh/vagrant](https://github.com/mitchellh/vagrant/issues/1755) - Re-associate vagrant with vm
+* [mitchellh](https://github.com/mitchellh/vagrant/issues/1755) - Re-associate vagrant with vm
 * [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Connect-to-Your-Vagrant-Virtual-Machine-with-PuTTY) - Connect to Your Vagrant Virtual Machine with PuTTY
 * [Hashicorp](https://atlas.hashicorp.com/puppetlabs) - Official Puppet Vagrant boxes
 * [Willem Meints](http://fizzylogic.nl/2015/01/27/building-containerized-apps-with-vagrant/) - Building Containerized Apps With Vagrant
 
 ## Ansible
+* [Ansible](https://www.ansible.com/blog) - Ansible Blog 
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_best_practices.html) - Best Practices
 * [Ansible Galaxy](https://galaxy.ansible.com/list#/roles?page=1&page_size=10) - Ansible Galaxy Roles
 * [Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
@@ -58,6 +60,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marlon Bernardes](http://codeheaven.io/15-things-you-should-know-about-ansible/) - 15 Things You Should Know About Ansible
 * [ansible/ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 * [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
+* [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
+* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_vault.html#what-can-be-encrypted-with-vault) - Ansible Vault Documentation
+* [Michael DeHaan](https://www.ansible.com/blog/2014/02/19/ansible-vault) - Introducing Ansible Vault : keeping encrypted data in Playbooks
+
+## Consul
+* [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
 
 ## Containers
 * [DEV](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
@@ -89,13 +97,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Red Hat Customer Portal](https://access.redhat.com/containers/#/explore) - Red Hat Container Catalog
 * [Derek Chamorro](https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/) - Common Dockerfile Mistakes
 * [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
-* [jwilder/docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller
+* [Jason Wilder](https://github.com/jwilder/docker-squash) - docker-squash : Squash docker images to make them smaller
 * [Jason Wilder](http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/) - Squashing Docker Images
 * [Jason Wilder](https://github.com/jwilder/dockerize) - dockerize : Utility to simplify running applications in docker containers
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-07-03-Docker-Taming-the-Beast-Part-2.html) - Docker: Taming the Beast - Part II
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-10-12-Docker-Taming-the-Beast-Part-3.html) - Docker: Taming the Beast - Part III: Building Images
 * [ansible/ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 * [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
+* [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image 
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -107,6 +116,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins](https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/) - Pipeline Basic Steps
 * [Jenkins](https://jenkins.io/doc/pipeline/examples/) - Pipeline Examples 
 * [Jenkins](https://jenkins.ci.cloudbees.com/job/core/job/acceptance-test-harness-stable/changes) - Latest builds of Jenkins acceptance-test-harness-stable. See also [The new Jenkins CI page](https://ci.jenkins.io/)
+* [Vyacheslav Voronenko](https://www.codementor.io/slavko/setup-configure-jenkins-recommended-plugins-du107z6nr) - Setup & Configure Jenkins for Your Team
+
+## Kubernetes
+* [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
+
+## Microservices
+* [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
 
 ## Nexus
 * [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
@@ -133,6 +149,19 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenShift](https://www.openshift.com/container-platform/resources.html) - Learning Resources (webinars, datasheets, whitepapers, infographic, tools, videos...)
 * [OpenShift](https://blog.openshift.com/openshift-v3-deep-dive-docker-kubernetes/) - OpenShift V3 Deep Dive Tutorial | The Next Generation of PaaS
 * [OCTO Talks](http://blog.octo.com/openshift-3-le-paas-prive-avec-docker/) - (FR) OpenShift 3 : le PaaS privé avec Docker
+
+# Vault (by Hashicorp)
+* [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
+* [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image 
+* [Vault Docs](https://www.vaultproject.io/intro/getting-started/deploy.html) - Deploy Vault
+* [Aun Raza](https://linoxide.com/how-tos/secure-secret-store-vault/) - How to Securely Store Passwords and Api Keys Using Vault
+* [Katacoda](https://www.katacoda.com/courses/docker-production/vault-secrets) - Interactive Course : Docker in Production - Store Secrets using Hashicorp Vault
+* [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
+* [Vyacheslav Voronenko](https://www.codementor.io/slavko/how-to-install-vault-hashicorp-secure-deployment-secrets-du107xlqd) - Using Vault to Secure Your Deployment Secrets
+* [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Hashicorp Vault
+* [Vault Docs](https://www.vaultproject.io/docs/auth/userpass.html) - Auth Backend: Username & Password
+* [Hashicorp](https://www.hashicorp.com/blog/vault-0-6/) - Vault 0.6 Release announcement 
+* [Sreenivas Makam](https://sreeninet.wordpress.com/2016/10/01/vault-use-cases/) - Vault – Use cases
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -259,9 +288,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
 
 ## Gamedev
-* [libgdx/libgdx](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
-* [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
-* [angel2d](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
+* [libgdx](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
+* [Pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
+* [Angel 2D](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
+* [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 
 ## Git
 * [Dissecting Git's Guts - Git Merge 2016](https://www.youtube.com/watch?v=Y2Msq90ZknI) + [Cheat Sheet of git commands](https://github.com/emilyxxie/gits_guts_commands/blob/master/git_cheat_sheet.pdf)
@@ -273,6 +303,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Corinna Baldauf](http://wall-skills.com/2014/git-pretty-so-youve-got-a-mess-on-your-hand/) - git pretty – So you’ve got a mess on your hand …
 * [Joseph Kahn](https://blog.josephkahn.io/articles/pre-commit-hooks/) - Pre-commit Hooks: The Good, The Bad & The Ugly
 * [Rafael Eyng](http://codeheaven.io/simple-git-hooks-with-ghooks/) - Simple Git Hooks With Ghooks
+* [gogits/gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
 
 ## Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -287,6 +318,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nick Janetakis](https://nickjanetakis.com/blog/who-else-wants-to-boost-their-productivity-with-tmux) - Who Else Wants to Boost Their Terminal Productivity With tmux?
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/04/become-a-better-developer-with-an-efficient-technical-watch/) - Become a better developer with an efficient technical watch
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
+* [Dwijadas Dey](https://linoxide.com/linux-how-to/search-tools-developers-linux/) - 6 Tools to Search Source Code for Developers in Linux
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
