@@ -16,6 +16,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
+* [CloudBees](https://www.cloudbees.com/blog) - CloudBees Blog
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
@@ -60,14 +61,24 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marlon Bernardes](http://codeheaven.io/15-things-you-should-know-about-ansible/) - 15 Things You Should Know About Ansible
 * [ansible/ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 * [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
+* [Dan Tehranian](https://dantehranian.wordpress.com/2015/08/10/automating-linux-security-best-practices-with-ansible/) - Automating Linux Security Best Practices with Ansible
+* [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
+
+### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_vault.html#what-can-be-encrypted-with-vault) - Ansible Vault Documentation
 * [Michael DeHaan](https://www.ansible.com/blog/2014/02/19/ansible-vault) - Introducing Ansible Vault : keeping encrypted data in Playbooks
+* [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - (FR) Ansible Vault : Automatiser le chiffrement avec Git
+* [Dan Tehranian](https://dantehranian.wordpress.com/2015/07/24/managing-secrets-with-ansible-vault-the-missing-guide-part-1-of-2/) - Managing Secrets with Ansible Vault – The Missing Guide (Part 1 of 2)
+* [Dan Tehranian](https://dantehranian.wordpress.com/2015/07/24/managing-secrets-with-ansible-vault-the-missing-guide-part-2-of-2/) - Managing Secrets with Ansible Vault – The Missing Guide (Part 2 of 2)
+* [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - Using git diff with Ansible Vault encrypted files
+* [Michel Blanc](https://leucos.github.io/articles/transparent-vault-revisited/) - Transparent encryption with ansible vault revisited
 
 ## Consul
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
 
 ## Containers
+* [Docker](http://blog.docker.com/curated/) - Docker Blog
 * [DEV](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
 * [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
 * [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
@@ -105,6 +116,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ansible/ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 * [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
 * [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image 
+* [Sreenivas Makam](https://sreeninet.wordpress.com/2017/05/13/docker-for-windows-different-modes/) - Compare Docker for Windows options
+* [Dan Tehranian](https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/) - How Should I Get Application Configuration into my Docker Containers?
+* [Neil Batlivala](https://www.delphix.com/blog/data-virtualization/why-docker-not-enough) - Why Docker Is Not Enough. Related  [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira)
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -162,6 +176,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vault Docs](https://www.vaultproject.io/docs/auth/userpass.html) - Auth Backend: Username & Password
 * [Hashicorp](https://www.hashicorp.com/blog/vault-0-6/) - Vault 0.6 Release announcement 
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2016/10/01/vault-use-cases/) - Vault – Use cases
+* [Vault Docs](https://www.vaultproject.io/docs/secrets/ssh/) - SSH Secret Backend
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -196,6 +211,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - Lies My Parents Told Me (About Logs)
 * [Fedora](https://mirrors.fedoraproject.org/mirrorlist?repo=epel-6&arch=x86_64) - Fedora Mirrors list for EPEL-6 and arch x86_64 . see also [Fedora Mirror Manager](https://admin.fedoraproject.org/mirrormanager/)
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/05/prevent-command-with-a-specific-option-to-be-run-on-your-server/) - Prevent command with a specific option to be run on your server
+* [Marvin Pinto](https://disjoint.ca/writing/2015/11/26/a-framework-for-deployment-of-immutable-infrastructure/) - A Framework for Deployment of Immutable Infrastructure
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
@@ -243,6 +259,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/09/linux-one-liners/) - 6 Useful Linux One Liners
 * [Maxim Chernyak](http://hakunin.com/permissions) - Linux permissions cheatsheet 
 * [Corinna Baldauf](http://wall-skills.com/2015/the-find-command-in-examples/) - The find command in examples
+* [Dan Tehranian](https://dantehranian.wordpress.com/2015/08/10/automating-linux-security-best-practices-with-ansible/) - Automating Linux Security Best Practices with Ansible
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -304,6 +321,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joseph Kahn](https://blog.josephkahn.io/articles/pre-commit-hooks/) - Pre-commit Hooks: The Good, The Bad & The Ugly
 * [Rafael Eyng](http://codeheaven.io/simple-git-hooks-with-ghooks/) - Simple Git Hooks With Ghooks
 * [gogits/gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
+* [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - (FR) Ansible Vault : Automatiser le chiffrement avec Git
+* [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - Using git diff with Ansible Vault encrypted files
+* [Marvin Pinto](https://disjoint.ca/til/2016/03/18/modifying-the-date-of-a-commit/) - Modifying the date of a commit
 
 ## Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -351,6 +371,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting) - Bash tips: Colors and formatting
 * [SS64.com](https://ss64.com/bash/) - An A-Z Index of the Bash command line for Linux.
 * [SS64.com](https://ss64.com/bash/syntax-keyboard.html) - Bash Keyboard Shortcuts
+* [Marvin Pinto](https://disjoint.ca/til/2016/05/17/how-to-determine-the-file-size-of-a-remote-http-object/) - How to determine the file size of a remote HTTP object
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
