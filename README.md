@@ -45,6 +45,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_lookups.html) - Lookups
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_variables.html) - Variables
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - Useful command line options for ansible-playbook
+* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_checkmode.html) - Check Mode ("Dry Run") - because you just want to test sometimes 
+* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_roles.html#task-include-files-and-encouraging-reuse) - Playbook Roles and Include Statements
+* [Ansible Docs](http://docs.ansible.com/ansible/user_module.html) - user - Manage user accounts
+* [Ansible Docs](http://docs.ansible.com/ansible/authorized_key_module.html) - Authorized_key - Adds or removes an SSH authorized key 
+* [Joseph Kahn](https://blog.josephkahn.io/articles/ansible-modules/) - For a Few Ansible Modules More
+* [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
 
 ## Containers
 * [DEV](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
@@ -262,6 +268,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Richman](https://www.geekwire.com/2016/just-shut-let-devs-concentrate-programming-expert-advises/) - Just shut up and let your devs concentrate
 * [Nick Janetakis](https://nickjanetakis.com/blog/who-else-wants-to-boost-their-productivity-with-tmux) - Who Else Wants to Boost Their Terminal Productivity With tmux?
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/04/become-a-better-developer-with-an-efficient-technical-watch/) - Become a better developer with an efficient technical watch
+* [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
