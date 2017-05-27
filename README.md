@@ -6,6 +6,43 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/what-if-we-forget-to-write-the-tests) - What If We Forget To Write the Tests?
 - [Paul Kaye](https://www.linkedin.com/pulse/control-stifles-creativity-growth-paul-kaye) - Control stifles creativity and growth
 
+# Creativity
+* [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
+
+# DevOps
+* [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
+* [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
+* [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
+
+## Ansible
+* [Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
+
+## Containers
+* [DEV](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
+* [Docker Documentation](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
+* [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
+* [SlideShare](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - Optimizing Docker Images
+* [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
+* [Csaba Palfi](https://csabapalfi.github.io/random-docker-tips/) - (2014) 24 random docker tips
+* [Scarlz](http://www.tricksofthetrades.net/2016/03/14/docker-data-volumes/) - Tricks of the Trades : Docker - Data Volumes and Data Containers
+* [Deni Bertovic](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/) - Handling Permissions with Docker Volumes
+* [Docker Documentation](https://docs.docker.com/engine/swarm/secrets/) - Manage sensitive data with Docker secrets
+* [tcnksm](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases
+* [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - Useful Docker Bash Functions And Aliases
+* [Lucas Carlson](https://www.ctl.io/developers/blog/post/15-quick-docker-tips/) - (2014) 15 Quick Docker Tips
+* [Docker Store](https://store.docker.com/search?q=source%3Dverified&source=verified&type=image) - Containers from verified source
+
+## Jenkins
+* [Plugins Index](https://plugins.jenkins.io/)
+* [Cloudbees](https://support.cloudbees.com/hc/en-us/articles/226122247-How-to-Customize-Checkout-for-Pipeline-Multibranch) - How to Customize Checkout for Pipeline Multibranch
+* [Joel Wilsson](https://wjoel.com/posts/ansible-jenkins-pipeline-part-1.html) - Creating Jenkins pipelines with Ansible, Part 1. See also [Part 2](https://wjoel.com/posts/ansible-jenkins-pipeline-part-2.html)
+* [Robert Sandell / James Nord](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-no_you_shouldnt_do_that_lessons_from_using_pipeline.pdf) - No, You Shouldn't Do That! Lessons from Using Pipeline
+* [Wilson Mar](https://wilsonmar.github.io/jenkins2-pipeline) - Jenkins2 Pipeline jobs using Groovy code in Jenkinsfile
+* [tuxfight3r](https://gist.github.com/tuxfight3r/eca9442ff76649b057ab) - Decrypting Jenkins password 
+* [Jenkins](https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/) - Pipeline Basic Steps
+* [Jenkins](https://jenkins.io/doc/pipeline/examples/) - Pipeline Examples 
+* [Jenkins](https://jenkins.ci.cloudbees.com/job/core/job/acceptance-test-harness-stable/changes) - Latest builds of Jenkins acceptance-test-harness-stable. See also [The new Jenkins CI page](https://ci.jenkins.io/)
+
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
 * [Dillinger] - Online Markdown Editor
@@ -21,10 +58,19 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
 * [Simple Programmer](https://simpleprogrammer.com/2016/01/06/stop-improving-yourself/) - Stop Improving Yourself
+* [Adam Smiley Poswolsky](https://www.linkedin.com/pulse/10-truths-finding-meaningful-work-adam-smiley-poswolsky) - The 10 truths about finding meaningful work
+* [Tom Goodwin](https://www.linkedin.com/pulse/we-dont-need-teach-our-kids-code-them-how-dream-tom-goodwin) - We don’t need to teach our kids to code, we need to teach them how to dream
+* [govdesign](https://github.com/alphagov/govdesign/blob/master/Poster_its-ok-to.pdf) - [PDF] It's ok to ... (poster)
+* [Kristin Wong](http://lifehacker.com/the-biggest-wastes-of-time-we-regret-when-we-get-older-1755526646) - The Biggest Wastes of Time We Regret When We Get Older
+* [Dr. Travis Bradberry](https://www.linkedin.com/pulse/why-you-should-spend-your-money-experiences-things-bradberry) - Why You Should Spend Your Money on Experiences, Not Things
+* [Bob Sutton](https://www.linkedin.com/pulse/why-your-job-becoming-impossible-do-tragedy-overload-bob-sutton) - Why Your Job is Becoming Impossible to Do: The Tragedy of Well-Intentioned Organizational Overload
+* [Jen Horton](https://www.linkedin.com/pulse/inevitable-link-between-positivity-perspective-jen-horton) - The Inevitable Link between Positivity and Perspective
 
 # IT OPS
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
 * [nixCraft](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
+* [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server? 
+* [alicegoldfuss](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
@@ -33,9 +79,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [BugMeNot](http://bugmenot.com/) - enter a domain or url and find shared logins
 * [The Minds Journal](https://themindsjournal.com/japanese-technique-overcoming-laziness/) - A Japanese Technique for Overcoming Laziness / Kaizen, Or The One-Minute Principle
 * [Foundr](https://foundrmag.com/analog-methods-for-getting-things-done-superpower-your-productivity-with-pen-and-paper/) - GTD : Superpower Your Productivity With Pen and Paper
-* [HuffPost](http://www.huffingtonpost.com/dr-travis-bradberry/11-tweaks-to-your-morning_b_8965072.html) - 11 Tweaks to Your Morning Routine 
+* [Dr. Travis Bradberry](http://www.huffingtonpost.com/dr-travis-bradberry/11-tweaks-to-your-morning_b_8965072.html) - 11 Tweaks to Your Morning Routine 
 * [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - Splitting user stories -- the hamburger method
 * [Jeff Haden](https://www.linkedin.com/pulse/10-steps-make-each-day-incredibly-productive-jeff-haden) - 10 Steps to Make Each Day Exceptionally Productive
+* [govdesign](https://github.com/alphagov/govdesign) - Lot of useful posters to print 
+* [Edouard-Malo HENRY](https://www.linkedin.com/pulse/moving-from-how-why-company-edouard-malo-henry) - Moving from a "how" to a "why" company
+* [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
 
 ## Troubleshooting
 * [pluralsight](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
@@ -83,21 +132,21 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
-* [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
+* [InfoQ](https://www.infoq.com/) - news, videos, books for software developer s
 * [/r/programming](https://www.reddit.com/r/programming/) - reddit about programming
 * [Hack Reactor](http://www.hackreactor.com/blog/infographic-laurie-voss-things-everyone-knows-except-you) - Infographic of productivity tips for developers, to share with your teammates 
 * [javarevisited](http://javarevisited.blogspot.be/2015/08/how-to-become-better-interviewer-programming.html) - 11 Tips to become a better Interviewer?
 * [10 C99 tricks](https://blog.noctua-software.com/c-tricks.html)
 * [Java Performance Tuning](http://www.javaperformancetuning.com/) - regular tips and news about java performance tuning
+* [Joël Spolsky](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - The Joel Test: 12 Steps to Better Code
+* [Emiliano Soldi](https://www.linkedin.com/pulse/relentlessly-avoid-technical-debt-emiliano-soldi) - Relentlessly Avoid Technical Debt
+* [Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs) - (Video) The Silver Bullet Syndrome (Devoxx Brussels 2015)
 
 ## Clean Code
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
 
-## Containers
-* [DEV](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
-* [Docker Documentation](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
-* [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
-* [SlideShare](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - Optimizing Docker Images
+## ChatOps
+* [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -113,6 +162,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Moran Danieli-Cohen](https://dev.to/msscohen/3-effective-ways-to-maintain-high-energy-levels-at-work-for-software-engineers) - 3 Effective Ways to Maintain High Energy Levels at Work for Software Engineers
 * [Clean Coder Blog](http://blog.cleancoder.com/uncle-bob/2016/05/21/BlueNoYellow.html) - Blue. No! Yellow! Comparative Productivity of Programming Languages
 * [Paul Graham](https://www.linkedin.com/pulse/context-switching-developers-paul-graham) - How Context Switching destroys Developers Productivity and how to fix it.
+* [Dan Richman](https://www.geekwire.com/2016/just-shut-let-devs-concentrate-programming-expert-advises/) - Just shut up and let your devs concentrate
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -151,6 +201,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [nixCraft](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) - 30 Handy Bash Shell Aliases For Linux / Unix / Mac OS X
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3121790/linux/making-troubleshooting-with-lsof-easier.html) - Unix tips: Making troubleshooting with lsof easier. See also [Unix commands: Troubleshooting with lsof](http://www.computerworld.com/article/3119775/linux/troubleshooting-with-lsof.html)
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3085495/linux/unix-aliases-for-good-and-evil.html) - Unix aliases for good and evil
+* [tcnksm](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases for zsh
+* [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - Useful Docker Bash Functions And Aliases
 
 # Security / Infosec
 * [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - Penetration Testing Tools Cheat Sheet
