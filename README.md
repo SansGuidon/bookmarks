@@ -159,5 +159,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
 * [bats] - Bash Automated Testing System
 
+# Windows
+* [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
+
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
