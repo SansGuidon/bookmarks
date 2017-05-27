@@ -19,26 +19,26 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Containers
 * [DEV](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
-* [Docker Documentation](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
+* [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
 * [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
 * [SlideShare](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - Optimizing Docker Images
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Csaba Palfi](https://csabapalfi.github.io/random-docker-tips/) - (2014) 24 random docker tips
 * [Scarlz](http://www.tricksofthetrades.net/2016/03/14/docker-data-volumes/) - Tricks of the Trades : Docker - Data Volumes and Data Containers
 * [Deni Bertovic](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/) - Handling Permissions with Docker Volumes
-* [Docker Documentation](https://docs.docker.com/engine/swarm/secrets/) - Manage sensitive data with Docker secrets
+* [Docker Docs](https://docs.docker.com/engine/swarm/secrets/) - Manage sensitive data with Docker secrets
 * [tcnksm/docker-alias](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases
 * [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - Useful Docker Bash Functions And Aliases
 * [Lucas Carlson](https://www.ctl.io/developers/blog/post/15-quick-docker-tips/) - (2014) 15 Quick Docker Tips
 * [Docker Store](https://store.docker.com/search?q=source%3Dverified&source=verified&type=image) - Containers from verified source
 * [Denis Gladkikh](https://www.splunk.com/blog/2015/08/24/collecting-docker-logs-and-stats-with-splunk/) - Collecting docker logs and stats with Splunk
-* [Docker Documentation](https://docs.docker.com/engine/admin/logging/splunk/) - Splunk logging driver
+* [Docker Docs](https://docs.docker.com/engine/admin/logging/splunk/) - Splunk logging driver
 * [Denis Gladkikh](https://www.splunk.com/blog/2015/12/16/splunk-logging-driver-for-docker/) - Splunk Logging Driver for Docker
 * [Yohan Liyanage](http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/) - Docker – Clean Up After Yourself!
-* [Docker Documentation](https://docs.docker.com/engine/reference/commandline/build/) - docker build
-* [Docker Documentation](https://docs.docker.com/engine/reference/commandline/run/) - docker run
-* [Docker Documentation](https://docs.docker.com/engine/reference/commandline/exec/) - docker exec
-* [Docker Documentation](https://docs.docker.com/engine/reference/commandline/commit/#examples) - docker commit examples
+* [Docker Docs](https://docs.docker.com/engine/reference/commandline/build/) - docker build
+* [Docker Docs](https://docs.docker.com/engine/reference/commandline/run/) - docker run
+* [Docker Docs](https://docs.docker.com/engine/reference/commandline/exec/) - docker exec
+* [Docker Docs](https://docs.docker.com/engine/reference/commandline/commit/#examples) - docker commit examples
 * [Flux7 Labs](http://blog.flux7.com/blogs/docker/docker-tutorial-series-part-9-10-docker-remote-api-commands-for-images) - 10 Docker Remote API Commands for Images 
 * [Docker Forums](https://forums.docker.com/t/command-to-remove-all-unused-images/20/5) - Command to remove all unused images
 * [Stack Overflow](https://stackoverflow.com/questions/30604846/docker-error-no-space-left-on-device) - Docker error : no space left on device
@@ -63,6 +63,28 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins](https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/) - Pipeline Basic Steps
 * [Jenkins](https://jenkins.io/doc/pipeline/examples/) - Pipeline Examples 
 * [Jenkins](https://jenkins.ci.cloudbees.com/job/core/job/acceptance-test-harness-stable/changes) - Latest builds of Jenkins acceptance-test-harness-stable. See also [The new Jenkins CI page](https://ci.jenkins.io/)
+
+## OpenShift
+* [OpenShift Docs](https://ci.openshift.redhat.com/openshift-docs-master-testing/latest/welcome/index.html) - OpenShift Latest Documentation
+* [Marek Jelen](https://blog.openshift.com/deploying-from-private-git-repositories/) - Deploying From Private Git Repositories
+* [OpenShift Docs](https://docs.openshift.org/latest/minishift/using/interacting-with-openshift.html) - Interacting with OpenShift - Using Minishift
+* [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/cli_reference/basic_cli_operations.html) - Developer CLI Operations
+* [Rafael Benevides](https://developers.redhat.com/blog/2016/10/11/four-creative-ways-to-create-an-openshiftkubernetes-dev-environment/) - Four creative ways to create an OpenShift/Kubernetes dev environment
+* [Chris Houseknecht](https://galaxy.ansible.com/chouseknecht/minishift-up-role/) - Ansible Galaxy : chouseknecht.minishift-up-role - Run OpenShift locally using minishift
+* [OpenShift Docs](https://docs.openshift.com/enterprise/3.0/admin_guide/http_proxies.html) - Working with HTTP Proxies
+* [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/build_inputs.html#using-a-proxy-for-git-cloning) - Using a Proxy for Git cloning
+* [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/index.html) - How Builds Work
+* [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/dev_guide/builds.html) - Builds
+* [OpenShift Docs](https://docs.openshift.org/latest/minishift/getting-started/installing.html) - Installing Minishift 
+* [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/dev_guide/deployments.html) - Deployments
+* [OpenShift Docs](https://docs.openshift.com/container-platform/3.4/install_config/persistent_storage/persistent_storage_glusterfs.html) - Persistent Storage Using GlusterFS
+* [OpenShift Docs](https://access.redhat.com/solutions/1542293) - Troubleshooting OpenShift Container Platform: Basics
+* [Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/openshift_enterprise/3.1/html/cluster_administration/admin-guide-sdn-troubleshooting) - Troubleshooting OpenShift SDN
+* [openshift/origin](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
+* [OpenShift Docs](https://docs.openshift.com/enterprise/3.0/dev_guide/new_app.html) - Creating New Applications
+* [OpenShift](https://www.openshift.com/container-platform/resources.html) - Learning Resources (webinars, datasheets, whitepapers, infographic, tools, videos...)
+* [OpenShift](https://blog.openshift.com/openshift-v3-deep-dive-docker-kubernetes/) - OpenShift V3 Deep Dive Tutorial | The Next Generation of PaaS
+* [OCTO Talks](http://blog.octo.com/openshift-3-le-paas-prive-avec-docker/) - (FR) OpenShift 3 : le PaaS privé avec Docker
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -93,6 +115,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server? 
 * [alicegoldfuss](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
 * [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - Lies My Parents Told Me (About Logs)
+* [Fedora](https://mirrors.fedoraproject.org/mirrorlist?repo=epel-6&arch=x86_64) - Fedora Mirrors list for EPEL-6 and arch x86_64 . see also [Fedora Mirror Manager](https://admin.fedoraproject.org/mirrormanager/)
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
