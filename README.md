@@ -27,13 +27,31 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Scarlz](http://www.tricksofthetrades.net/2016/03/14/docker-data-volumes/) - Tricks of the Trades : Docker - Data Volumes and Data Containers
 * [Deni Bertovic](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/) - Handling Permissions with Docker Volumes
 * [Docker Documentation](https://docs.docker.com/engine/swarm/secrets/) - Manage sensitive data with Docker secrets
-* [tcnksm](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases
+* [tcnksm/docker-alias](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases
 * [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - Useful Docker Bash Functions And Aliases
 * [Lucas Carlson](https://www.ctl.io/developers/blog/post/15-quick-docker-tips/) - (2014) 15 Quick Docker Tips
 * [Docker Store](https://store.docker.com/search?q=source%3Dverified&source=verified&type=image) - Containers from verified source
 * [Denis Gladkikh](https://www.splunk.com/blog/2015/08/24/collecting-docker-logs-and-stats-with-splunk/) - Collecting docker logs and stats with Splunk
 * [Docker Documentation](https://docs.docker.com/engine/admin/logging/splunk/) - Splunk logging driver
 * [Denis Gladkikh](https://www.splunk.com/blog/2015/12/16/splunk-logging-driver-for-docker/) - Splunk Logging Driver for Docker
+* [Yohan Liyanage](http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/) - Docker – Clean Up After Yourself!
+* [Docker Documentation](https://docs.docker.com/engine/reference/commandline/build/) - docker build
+* [Docker Documentation](https://docs.docker.com/engine/reference/commandline/run/) - docker run
+* [Docker Documentation](https://docs.docker.com/engine/reference/commandline/exec/) - docker exec
+* [Docker Documentation](https://docs.docker.com/engine/reference/commandline/commit/#examples) - docker commit examples
+* [Flux7 Labs](http://blog.flux7.com/blogs/docker/docker-tutorial-series-part-9-10-docker-remote-api-commands-for-images) - 10 Docker Remote API Commands for Images 
+* [Docker Forums](https://forums.docker.com/t/command-to-remove-all-unused-images/20/5) - Command to remove all unused images
+* [Stack Overflow](https://stackoverflow.com/questions/30604846/docker-error-no-space-left-on-device) - Docker error : no space left on device
+* [James Coyle](https://www.jamescoyle.net/how-to/1512-export-and-import-a-docker-image-between-nodes) - Export and Import a Docker Image Between Nodes
+* [rhmjs/satellite5-docker](https://github.com/rhmjs/satellite5-docker/blob/master/README.md) - RHEL6 containers on a RHEL7 host registered to Satellite 5
+* [Red Hat Customer Portal](https://access.redhat.com/containers/#/explore) - Red Hat Container Catalog
+* [Derek Chamorro](https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/) - Common Dockerfile Mistakes
+* [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
+* [jwilder/docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller
+* [Jason Wilder](http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/) - Squashing Docker Images
+* [Jason Wilder](https://github.com/jwilder/dockerize) - dockerize : Utility to simplify running applications in docker containers
+* [Nicolas Schoemaeker](https://nschoe.com/articles/2016-07-03-Docker-Taming-the-Beast-Part-2.html) - Docker: Taming the Beast - Part II
+* [Nicolas Schoemaeker](https://nschoe.com/articles/2016-10-12-Docker-Taming-the-Beast-Part-3.html) - Docker: Taming the Beast - Part III: Building Images
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -74,6 +92,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [nixCraft](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
 * [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server? 
 * [alicegoldfuss](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
+* [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - Lies My Parents Told Me (About Logs)
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
@@ -158,6 +177,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dissecting Git's Guts - Git Merge 2016](https://www.youtube.com/watch?v=Y2Msq90ZknI) + [Cheat Sheet of git commands](https://github.com/emilyxxie/gits_guts_commands/blob/master/git_cheat_sheet.pdf)
 * [20 Tricks with Git and Shell - Git Merge 2016](https://www.youtube.com/watch?v=d-T51nhmFhQ)
 * [25 Tips for Intermediate Git Users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/) 
+* [James Coyle](https://www.jamescoyle.net/how-to/1891-git-ssl-certificate-problem-caused-by-self-signed-certificates) - Git SSL Certificate Problem Caused By Self Signed Certificates
+* [Scott Nonnenberg](https://blog.scottnonnenberg.com/better-git-configuration/) - Better Git configuration. See also the [shared .gitconfig file](https://gist.github.com/scottnonnenberg/fefa3f65fdb3715d25882f3023b31c29)
+* [Scott Chacon and Ben Straub](https://git-scm.com/docs/git-config#_variables) - available variables in git config
 
 ## Productivity
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
