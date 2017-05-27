@@ -25,6 +25,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Ansible
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_best_practices.html) - Best Practices
+* [Ansible Galaxy](https://galaxy.ansible.com/list#/roles?page=1&page_size=10) - Ansible Galaxy Roles
 * [Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
 * [Ansible](https://www.ansible.com/blog/ansible-performance-tuning) - Ansible Performance Tuning (for Fun and Profit)
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_filters.html) - Jinja2 Filters 
@@ -255,6 +256,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Scott Nonnenberg](https://blog.scottnonnenberg.com/better-git-configuration/) - Better Git configuration. See also the [shared .gitconfig file](https://gist.github.com/scottnonnenberg/fefa3f65fdb3715d25882f3023b31c29)
 * [Scott Chacon and Ben Straub](https://git-scm.com/docs/git-config#_variables) - available variables in git config
 * [Corinna Baldauf](http://wall-skills.com/2014/git-pretty-so-youve-got-a-mess-on-your-hand/) - git pretty – So you’ve got a mess on your hand …
+* [Joseph Kahn](https://blog.josephkahn.io/articles/pre-commit-hooks/) - Pre-commit Hooks: The Good, The Bad & The Ugly
 
 ## Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
