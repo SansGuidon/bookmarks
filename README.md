@@ -52,6 +52,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ansible Docs](http://docs.ansible.com/ansible/authorized_key_module.html) - Authorized_key - Adds or removes an SSH authorized key 
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible-modules/) - For a Few Ansible Modules More
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
+* [Ansible Docs](http://docs.ansible.com/ansible/dev_guide/developing_modules.html#example) - Developing Modules
+* [Raphael Campardou](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Ansible (Real Life) Good Practices
+* [Deni Bertović](https://goodcode.io/articles/ansible-tips/) - Ansible tips
+* [Marlon Bernardes](http://codeheaven.io/15-things-you-should-know-about-ansible/) - 15 Things You Should Know About Ansible
+* [ansible/ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
+* [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
 
 ## Containers
 * [DEV](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
@@ -88,6 +94,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jason Wilder](https://github.com/jwilder/dockerize) - dockerize : Utility to simplify running applications in docker containers
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-07-03-Docker-Taming-the-Beast-Part-2.html) - Docker: Taming the Beast - Part II
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-10-12-Docker-Taming-the-Beast-Part-3.html) - Docker: Taming the Beast - Part III: Building Images
+* [ansible/ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
+* [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -99,6 +107,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins](https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/) - Pipeline Basic Steps
 * [Jenkins](https://jenkins.io/doc/pipeline/examples/) - Pipeline Examples 
 * [Jenkins](https://jenkins.ci.cloudbees.com/job/core/job/acceptance-test-harness-stable/changes) - Latest builds of Jenkins acceptance-test-harness-stable. See also [The new Jenkins CI page](https://ci.jenkins.io/)
+
+## Nexus
+* [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
+* [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-3-docker-images/) - Using Nexus 3 as Your Repository - Part 3: Docker Images
 
 ## OpenShift
 * [OpenShift Docs](https://ci.openshift.redhat.com/openshift-docs-master-testing/latest/welcome/index.html) - OpenShift Latest Documentation
@@ -155,6 +167,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - Lies My Parents Told Me (About Logs)
 * [Fedora](https://mirrors.fedoraproject.org/mirrorlist?repo=epel-6&arch=x86_64) - Fedora Mirrors list for EPEL-6 and arch x86_64 . see also [Fedora Mirror Manager](https://admin.fedoraproject.org/mirrormanager/)
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/05/prevent-command-with-a-specific-option-to-be-run-on-your-server/) - Prevent command with a specific option to be run on your server
+
+## Monitoring
+* [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
@@ -257,6 +272,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Scott Chacon and Ben Straub](https://git-scm.com/docs/git-config#_variables) - available variables in git config
 * [Corinna Baldauf](http://wall-skills.com/2014/git-pretty-so-youve-got-a-mess-on-your-hand/) - git pretty – So you’ve got a mess on your hand …
 * [Joseph Kahn](https://blog.josephkahn.io/articles/pre-commit-hooks/) - Pre-commit Hooks: The Good, The Bad & The Ugly
+* [Rafael Eyng](http://codeheaven.io/simple-git-hooks-with-ghooks/) - Simple Git Hooks With Ghooks
 
 ## Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
