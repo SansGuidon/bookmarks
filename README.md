@@ -25,6 +25,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
 * [CloudBees](https://www.cloudbees.com/blog) - CloudBees Blog
+* [DZone](https://dzone.com/devops-tutorials-tools-news) - DZone Devops
+* [reddit](https://www.reddit.com/r/devops/) - Everything Devops on reddit
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
@@ -76,6 +78,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/08/10/automating-linux-security-best-practices-with-ansible/) - Automating Linux Security Best Practices with Ansible
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
 * [Michel Blanc](https://leucos.github.io/articles/ansible-contract-inventory/) - Making dynamic inventory usable with Ansible and Digital Ocean
+* [Dan Tehranian](https://dantehranian.wordpress.com/2015/01/20/ansible-vs-puppet-hands-on-with-ansible/) - Ansible vs Puppet – Hands-On with Ansible
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -88,8 +91,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michel Blanc](https://leucos.github.io/articles/transparent-vault-revisited/) - Transparent encryption with ansible vault revisited
 * [Tristan Fisher](https://gist.github.com/tristanfisher/e5a306144a637dc739e7) - Working with ansible-vault : A short tutorial on how to use Vault in your Ansible workflow
 
-## Consul
+## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
+* [Consul Docs](https://www.consul.io/docs/agent/checks.html) - health checks / check definitions
+* [Docker Hub](https://hub.docker.com/_/consul/) - Docker Image for Consul, maintained by HashiCorp
 
 ## Containers
 * [Docker](http://blog.docker.com/curated/) - Docker Blog
@@ -231,6 +236,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Bob Sutton](https://www.linkedin.com/pulse/why-your-job-becoming-impossible-do-tragedy-overload-bob-sutton) - Why Your Job is Becoming Impossible to Do: The Tragedy of Well-Intentioned Organizational Overload
 * [Jen Horton](https://www.linkedin.com/pulse/inevitable-link-between-positivity-perspective-jen-horton) - The Inevitable Link between Positivity and Perspective
 * [Mike Bushong](https://dzone.com/articles/dont-ask-you-take-vacation) - Don't Ask Before You Take Vacation
+* [Karen Wickre](https://backchannel.com/working-from-home-is-usually-a-disaster-unless-you-try-this-30f1cce6f5a6) - Working From Home Is Usually a Disaster — Unless You Try This
 
 # IT OPS
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
@@ -238,9 +244,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server? 
 * [alicegoldfuss](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
 * [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - Lies My Parents Told Me (About Logs)
-* [Fedora](https://mirrors.fedoraproject.org/mirrorlist?repo=epel-6&arch=x86_64) - Fedora Mirrors list for EPEL-6 and arch x86_64 . see also [Fedora Mirror Manager](https://admin.fedoraproject.org/mirrormanager/)
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/05/prevent-command-with-a-specific-option-to-be-run-on-your-server/) - Prevent command with a specific option to be run on your server
 * [Marvin Pinto](https://disjoint.ca/writing/2015/11/26/a-framework-for-deployment-of-immutable-infrastructure/) - A Framework for Deployment of Immutable Infrastructure
+* [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
@@ -289,6 +295,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Maxim Chernyak](http://hakunin.com/permissions) - Linux permissions cheatsheet 
 * [Corinna Baldauf](http://wall-skills.com/2015/the-find-command-in-examples/) - The find command in examples
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/08/10/automating-linux-security-best-practices-with-ansible/) - Automating Linux Security Best Practices with Ansible
+* [Fedora](https://mirrors.fedoraproject.org/mirrorlist?repo=epel-6&arch=x86_64) - Fedora Mirrors list for EPEL-6 and arch x86_64 . see also [Fedora Mirror Manager](https://admin.fedoraproject.org/mirrormanager/)
+* [Fedora](https://dl.fedoraproject.org/pub/epel/7/x86_64/a/) - All EPEL-7 and arch x6-x64 packages
+* [Christian Stankowic](https://www.stankowic-development.net/?p=7900&lang=en) - CentOS 7 and the incorrect dist RPM macro
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -359,8 +368,23 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - Using git diff with Ansible Vault encrypted files
 * [Marvin Pinto](https://disjoint.ca/til/2016/03/18/modifying-the-date-of-a-commit/) - Modifying the date of a commit
 
-## Go
+## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
+* [Go Docs](https://golang.org/pkg/flag/) - Package flag
+* [Pipat Methavanitpong](https://fulcronz27.wordpress.com/2016/03/07/setting-atom-for-golang-on-windows/) - Setting Atom for Golang on Windows
+* [Francesc Campoy Flores](https://talks.golang.org/2013/bestpractices.slide#1) - Twelve Go Best Practices
+* [Marcio Castilho](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/) - Handling 1 Million Requests per Minute with Go
+* [Marcio Castilho](http://marcio.io/2015/07/supercharging-atom-editor-for-go-development/) - Supercharging the Atom Editor for Go Development
+* [The Go Playground](https://play.golang.org/) - Useful for code snippet validation
+* [Golang](https://golang.org/src/) - Golang source code, useful for learning
+* [Go Docs](https://golang.org/pkg/) - Package list and documentation
+* [Go Docs](https://golang.org/pkg/crypto/) - Package crypto 
+* [Andrew Gerrand](https://talks.golang.org/2012/10things.slide#1) - (2012) 10 things you (probably) don't know about Go
+
+## Mac
+* [Apple Developer Docs](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
+* [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
+* [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
 
 ## Productivity
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
@@ -422,6 +446,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
 * [bats] - Bash Automated Testing System
 * [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing 
+
+# UX / UI
+* [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
