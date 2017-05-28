@@ -1,5 +1,13 @@
 I just want to centralize my findings and bookmarks in a central location, and share them.
 
+# Architecture / Design
+* [David Alia](http://blog.octo.com/design-for-failure/) - (FR) Les Patterns des Grands du Web – Design for failure
+* [Mathieu Poignant](http://blog.octo.com/zero-downtime-deployment/) - (FR) Les Patterns des Géants du Web – Zero Downtime Deployment
+* [Benoit Lafontaine](http://blog.octo.com/continuous-deployment/) - (FR) Les Patterns des Grands du Web – Continuous Deployment
+* [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - (FR) Les Patterns des Grands du Web – DevOps
+* [Don MacAskill](https://don.blogs.smugmug.com/2011/04/24/how-smugmug-survived-the-amazonpocalypse/) - How SmugMug survived the Amazonpocalypse
+* [Krishnan Subramanian](https://www.cloudave.com/11973/designing-for-failure-some-key-facts/) - Designing For Failure: Some Key Facts
+
 # Collaboration
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
 * [Dale Emery](http://cwd.dhemery.com/2005/05/motivation) - model of motivation : Motivation = Ability × Results × Preferences
@@ -24,6 +32,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Connect-to-Your-Vagrant-Virtual-Machine-with-PuTTY) - Connect to Your Vagrant Virtual Machine with PuTTY
 * [Hashicorp](https://atlas.hashicorp.com/puppetlabs) - Official Puppet Vagrant boxes
 * [Willem Meints](http://fizzylogic.nl/2015/01/27/building-containerized-apps-with-vagrant/) - Building Containerized Apps With Vagrant
+* [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - (FR) Les Patterns des Grands du Web – DevOps
+* [Martin Rusev](https://www.amon.cx/blog/how-i-replaced-ssh/) - How I Replaced SSH with ZeroMQ and Salt
+* [Martin Rusev](https://www.amon.cx/blog/saltstack-review/) - SaltStack - Review and how it fares against Ansible and Puppet?
+* [Josh Dreyfuss](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/) - Deployment Management Tools: Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -63,6 +75,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/08/10/automating-linux-security-best-practices-with-ansible/) - Automating Linux Security Best Practices with Ansible
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
+* [Michel Blanc](https://leucos.github.io/articles/ansible-contract-inventory/) - Making dynamic inventory usable with Ansible and Digital Ocean
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -73,6 +86,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/07/24/managing-secrets-with-ansible-vault-the-missing-guide-part-2-of-2/) - Managing Secrets with Ansible Vault – The Missing Guide (Part 2 of 2)
 * [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - Using git diff with Ansible Vault encrypted files
 * [Michel Blanc](https://leucos.github.io/articles/transparent-vault-revisited/) - Transparent encryption with ansible vault revisited
+* [Tristan Fisher](https://gist.github.com/tristanfisher/e5a306144a637dc739e7) - Working with ansible-vault : A short tutorial on how to use Vault in your Ansible workflow
 
 ## Consul
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
@@ -119,6 +133,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2017/05/13/docker-for-windows-different-modes/) - Compare Docker for Windows options
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/) - How Should I Get Application Configuration into my Docker Containers?
 * [Neil Batlivala](https://www.delphix.com/blog/data-virtualization/why-docker-not-enough) - Why Docker Is Not Enough. Related  [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira)
+* [Martin Rusev](https://www.amon.cx/blog/docker-in-production-for-the-average-devops/) - Docker in production for the average DevOps
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -177,6 +192,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hashicorp](https://www.hashicorp.com/blog/vault-0-6/) - Vault 0.6 Release announcement 
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2016/10/01/vault-use-cases/) - Vault – Use cases
 * [Vault Docs](https://www.vaultproject.io/docs/secrets/ssh/) - SSH Secret Backend
+* [Vault Docs](https://www.vaultproject.io/api/) - HTTP API
+* [Vault Docs](https://www.vaultproject.io/intro/getting-started/authentication.html) - Authentication
+* [Peter A. Tierno](https://wiki.jenkins-ci.org/display/JENKINS/HashiCorp+Vault+Plugin) - HashiCorp Vault Plugin for Jenkins
+* [Seth Vargo](https://www.hashicorp.com/blog/codifying-vault-policies-and-configuration/) - Codifying Vault Policies and Configuration
+* [Martin Rusev](https://www.amon.cx/blog/managing-all-secrets-with-vault/) - Managing all your secrets with Vault - Review and Walkthrough
+* [Vault Docs](https://www.vaultproject.io/intro/getting-started/acl.html) - Access Control Policies (ACLs)
+* [Vault Docs](https://www.vaultproject.io/docs/concepts/tokens.html) - Tokens
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -202,6 +224,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dr. Travis Bradberry](https://www.linkedin.com/pulse/why-you-should-spend-your-money-experiences-things-bradberry) - Why You Should Spend Your Money on Experiences, Not Things
 * [Bob Sutton](https://www.linkedin.com/pulse/why-your-job-becoming-impossible-do-tragedy-overload-bob-sutton) - Why Your Job is Becoming Impossible to Do: The Tragedy of Well-Intentioned Organizational Overload
 * [Jen Horton](https://www.linkedin.com/pulse/inevitable-link-between-positivity-perspective-jen-horton) - The Inevitable Link between Positivity and Perspective
+* [Mike Bushong](https://dzone.com/articles/dont-ask-you-take-vacation) - Don't Ask Before You Take Vacation
 
 # IT OPS
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
@@ -293,6 +316,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs) - (Video) The Silver Bullet Syndrome (Devoxx Brussels 2015)
 * [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
 * [Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) - How to Pick a Good Monitor for Software Development
+* [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know
 
 ## Clean Code
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
@@ -301,8 +325,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
 
+## Data
+* [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
+
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
+* [Jaroslav Tulach](http://www.methodsandtools.com/archive/debugger.php) - Use the Debugger. Stupid!
 
 ## Gamedev
 * [libgdx](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
@@ -387,6 +415,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
 * [bats] - Bash Automated Testing System
+* [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing 
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
