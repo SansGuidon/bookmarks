@@ -247,6 +247,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/05/prevent-command-with-a-specific-option-to-be-run-on-your-server/) - Prevent command with a specific option to be run on your server
 * [Marvin Pinto](https://disjoint.ca/writing/2015/11/26/a-framework-for-deployment-of-immutable-infrastructure/) - A Framework for Deployment of Immutable Infrastructure
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
+* [Pat Cable](https://blog.threatstack.com/balancing-security-and-your-on-call-rotation-using-deputize) - Balancing Security and Your On-Call Rotation Using Deputize
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
@@ -298,6 +299,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fedora](https://mirrors.fedoraproject.org/mirrorlist?repo=epel-6&arch=x86_64) - Fedora Mirrors list for EPEL-6 and arch x86_64 . see also [Fedora Mirror Manager](https://admin.fedoraproject.org/mirrormanager/)
 * [Fedora](https://dl.fedoraproject.org/pub/epel/7/x86_64/a/) - All EPEL-7 and arch x6-x64 packages
 * [Christian Stankowic](https://www.stankowic-development.net/?p=7900&lang=en) - CentOS 7 and the incorrect dist RPM macro
+* [docker-library/official-images](https://github.com/docker-library/official-images/issues/2815) - CentOS 5 has reached EOL in issues of docker-library/official-images on github
+* [Vultr](https://www.vultr.com/docs/use-dnf-to-manage-software-packages-on-centos-7) - Use DNF To Manage Software Packages On CentOS 7
+* [Server Fault](https://serverfault.com/questions/368602/how-do-i-update-a-centos-servers-time-from-an-authoritative-time-server) - How do I update a CentOS server's time from an authoritative time server?
+* [pkgs.org](https://pkgs.org/) - Linux Package Search
+* [Michael Heap](https://michaelheap.com/build-centos-5-generic-rpm-on-centos-6/) - Build CentOS 5 generic RPM on CentOS 6
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
