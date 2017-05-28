@@ -200,6 +200,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vault Docs](https://www.vaultproject.io/intro/getting-started/acl.html) - Access Control Policies (ACLs)
 * [Vault Docs](https://www.vaultproject.io/docs/concepts/tokens.html) - Tokens
 
+# Finding content
+* [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
+* [Library Genesis](http://libgen.io/) - ebooks and scientific articles
+* [b-ok.org](http://b-ok.org/) - ebooks
+* [Soulseek](http://www.slsknet.org/news/) - for hard to find music 
+
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
 * [Dillinger] - Online Markdown Editor
