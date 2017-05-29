@@ -38,10 +38,22 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Martin Rusev](https://www.amon.cx/blog/how-i-replaced-ssh/) - How I Replaced SSH with ZeroMQ and Salt
 * [Martin Rusev](https://www.amon.cx/blog/saltstack-review/) - SaltStack - Review and how it fares against Ansible and Puppet?
 * [Josh Dreyfuss](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/) - Deployment Management Tools: Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric
+* [Engin Yöyen ](http://enginyoyen.com/service-discovery-choosing-the-right-tool/) - Service Discovery : Choosing the Right Tool
+* [Viktor Farcic](https://technologyconversations.com/2017/03/06/the-ten-commandments-of-continuous-delivery/) - The Ten Commandments Of Continuous Delivery
+* [Pushkar Singh](https://theagilecoder.files.wordpress.com/2015/09/devops-maturity-model.png) - (Picture) Devops Maturity Model
+* [DevOpsGuys](https://www.devopsguys.com/2013/02/06/maturing-the-continuous-delivery-pipeline/) - Maturing the Continuous Delivery Pipeline
+* [Tony Bradley](https://devops.com/devops-just-automation/) - DevOps is More Than Just Automation
+* [Don Macvittie](https://devops.com/moving-big-project-cicd/) - Moving That Big Project to CI/CD
+* [Yaniv Yehuda](https://devops.com/7-highly-effective-continuous-delivery-principles/) - 7 Highly Effective Continuous Delivery Principles
+* [Automatic Software](https://automic.com/resources/tco-assessment-tools/devops-maturity-assessment) - DevOps Maturity model assessment : Where are you on your DevOps journey?
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_best_practices.html) - Best Practices
+* [Engin Yöyen](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
+* [Timothy Appnel](https://www.ansible.com/blog/ansible-best-practices-essentials) - Ansible Best Practices: The Essentials
+* [Pierre Baillet](http://blog.ippon.tech/ansible-tips-and-tricks/) - 10 Ansible tips and tricks
+* [Timothy Appnel, James Martin](https://www.redhat.com/en/about/videos/ansible-best-practices-startups-enterprises) - (Video) Ansible best practices for startups to enterprises
 * [Ansible Galaxy](https://galaxy.ansible.com/list#/roles?page=1&page_size=10) - Ansible Galaxy Roles
 * [Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
 * [Ansible](https://www.ansible.com/blog/ansible-performance-tuning) - Ansible Performance Tuning (for Fun and Profit)
@@ -139,6 +151,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/) - How Should I Get Application Configuration into my Docker Containers?
 * [Neil Batlivala](https://www.delphix.com/blog/data-virtualization/why-docker-not-enough) - Why Docker Is Not Enough. Related  [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira)
 * [Martin Rusev](https://www.amon.cx/blog/docker-in-production-for-the-average-devops/) - Docker in production for the average DevOps
+* [Nitin Agarwal](https://medium.com/@nagarwal/docker-containers-filesystem-demystified-b6ed8112a04a) - Docker Container’s Filesystem Demystified
+* [Nitin Agarwal](https://medium.com/@nagarwal/why-use-docker-for-development-f3d1d1b61b05) - Why use Docker for Development
+* [Nitin Agarwal](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe) - Understanding the Docker Internals
+* [Nitin Agarwal](https://medium.com/@nagarwal/lifecycle-of-docker-container-d2da9f85959) - Lifecycle of Docker Container
+* [Nitin Agarwal](https://medium.com/@nagarwal/docker-usecases-3b62f4d68bc4) - Docker Usecases
+* [Nitin Agarwal](https://medium.com/@nagarwal/best-practices-for-working-with-dockerfiles-fb2d22b78186) - Best Practices for working with Dockerfiles
+* [Gianluca Borello](https://sysdig.com/blog/container-isolation-gone-wrong/) - Container isolation gone wrong
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -338,6 +357,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
 * [Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) - How to Pick a Good Monitor for Software Development
 * [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know
+* [Engin Yöyen ](http://enginyoyen.com/improving-problem-solving-skills-for-developers/) - Improving problem-solving skills for developers
 
 ## Clean Code
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
