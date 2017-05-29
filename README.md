@@ -215,6 +215,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OCTO Talks](http://blog.octo.com/openshift-3-le-paas-prive-avec-docker/) - (FR) OpenShift 3 : le PaaS privé avec Docker
 * [Ansible Docs](https://docs.ansible.com/ansible-container/openshift/minishift.html) - Minishift role for Ansible
 
+## SecOps
+* [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
+
 # Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
 * [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image 
@@ -269,7 +272,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mike Bushong](https://dzone.com/articles/dont-ask-you-take-vacation) - Don't Ask Before You Take Vacation
 * [Karen Wickre](https://backchannel.com/working-from-home-is-usually-a-disaster-unless-you-try-this-30f1cce6f5a6) - Working From Home Is Usually a Disaster — Unless You Try This
 
-# IT OPS
+## Monitoring
+* [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
+
+# Operations / IT OPS
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
 * [nixCraft](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
 * [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server? 
@@ -280,9 +286,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
 * [Pat Cable](https://blog.threatstack.com/balancing-security-and-your-on-call-rotation-using-deputize) - Balancing Security and Your On-Call Rotation Using Deputize
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
-
-## Monitoring
-* [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
@@ -408,6 +411,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - (FR) Ansible Vault : Automatiser le chiffrement avec Git
 * [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - Using git diff with Ansible Vault encrypted files
 * [Marvin Pinto](https://disjoint.ca/til/2016/03/18/modifying-the-date-of-a-commit/) - Modifying the date of a commit
+* [Nicola Paolucci](https://www.atlassian.com/blog/git/advanced-git-aliases) - One weird trick for powerful Git aliases
+* [Nicola Paolucci](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/) - Must Have Git Aliases: Advanced Examples + [list available on BitBucket](https://bitbucket.org/durdn/cfg/src/master/.gitconfig?at=master)
+* [Nicola Paolucci](http://durdn.com/blog/2012/12/05/git-12-curated-git-tips-and-workflows/) - Git: Twelve Curated Tips And Workflows From The Trenches
+* [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
+* [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Aliases) - Collection of git aliases
+* [Nicola Paolucci](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/) - The power of Git subtree
+* [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
