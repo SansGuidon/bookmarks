@@ -46,6 +46,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Don Macvittie](https://devops.com/moving-big-project-cicd/) - Moving That Big Project to CI/CD
 * [Yaniv Yehuda](https://devops.com/7-highly-effective-continuous-delivery-principles/) - 7 Highly Effective Continuous Delivery Principles
 * [Automatic Software](https://automic.com/resources/tco-assessment-tools/devops-maturity-assessment) - DevOps Maturity model assessment : Where are you on your DevOps journey?
+* [Phillip Holmes](http://doatt.com/2015/02/02/fourth-the-build-system/index.html) - Fourth - The Build System
+* [Phillip Holmes](http://doatt.com/2015/04/27/the-build-methodology-decision/index.html) - The Build Methodology Decision
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
