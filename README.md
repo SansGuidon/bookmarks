@@ -21,9 +21,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Corinna Baldauf](http://wall-skills.com/2016/team-self-selection-kit/) - Team Self-Selection Kit
 * [Corinna Baldauf](http://wall-skills.com/2016/silence-a-room-in-5-seconds/) - Silence a Room in 5 Seconds
 * [Corinna Baldauf](http://wall-skills.com/2016/tuckmans-stages-of-team-development/) - Tuckman’s Stages of Team Development
+* [Jason Fried](https://m.signalvnoise.com/depend-less-on-each-other-507fe0e23e4b) - Depend less on each other
+* [Vaidehi Joshi](https://dev.to/vaidehijoshi/crafting-better-code-reviews) - Crafting Better Code Reviews
+* [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
+* [Jason Fried](https://m.signalvnoise.com/the-intimidating-zero-4d90fcdcc3b2) - The Intimidating Zero
 
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -288,6 +292,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jen Horton](https://www.linkedin.com/pulse/inevitable-link-between-positivity-perspective-jen-horton) - The Inevitable Link between Positivity and Perspective
 * [Mike Bushong](https://dzone.com/articles/dont-ask-you-take-vacation) - Don't Ask Before You Take Vacation
 * [Karen Wickre](https://backchannel.com/working-from-home-is-usually-a-disaster-unless-you-try-this-30f1cce6f5a6) - Working From Home Is Usually a Disaster — Unless You Try This
+* [Jason Fried](https://m.signalvnoise.com/being-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e) - Being tired isn’t a badge of honor
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -329,6 +334,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
 * [Wall-Skills](http://wall-skills.com/) - Great 1-pagers to share in your company
 * [Corinna Baldauf](http://wall-skills.com/2016/how-to-master-any-skill-badass/) - How to master any skill – Badass
+* [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
 
 ## Troubleshooting
 * [pluralsight](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
@@ -386,9 +392,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
+* [Joe L. Wroten](https://medium.com/@SharpShark28/whats-in-a-photo-e00637e9fc99) - What’s In A Photo?
 
 # Privacy
 * [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
+* [Walker Harrison](https://dev.to/walker/the-search-for-self-how-to-obtain-and-analyze-your-history-of-google-searches) - The Search for Self: How to obtain and analyze your history of Google searches
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -407,11 +415,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know
 * [Engin Yöyen ](http://enginyoyen.com/improving-problem-solving-skills-for-developers/) - Improving problem-solving skills for developers
 * [James Hood](https://dev.to/jlhcoder/tips-for-new-software-developers) - Tips for New Software Developers
+* [Mo Bitar](https://journal.standardnotes.org/surviving-in-open-source-47792a7c59dc) - Surviving Open-Source
 
 ## Clean Code
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
 * [Corinna Baldauf](http://wall-skills.com/2014/simplicity-rules-from-extreme-programming/) - Simplicity Rules (from eXtreme Programming)
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
+* [Vaidehi Joshi](https://dev.to/vaidehijoshi/crafting-better-code-reviews) - Crafting Better Code Reviews
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -431,6 +441,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 
 ## Git
+* [DEV](https://dev.to/t/git) - Git related articles on dev.to()
 * [Emily Xie](https://www.youtube.com/watch?v=Y2Msq90ZknI) - [Video] Dissecting Git's Guts - Git Merge 2016 + [Cheat Sheet of git commands](https://github.com/emilyxxie/gits_guts_commands/blob/master/git_cheat_sheet.pdf)
 * [Spencer Krum](https://www.youtube.com/watch?v=d-T51nhmFhQ) - [Video] 20 Tricks with Git and Shell - Git Merge 2016
 * [James Coyle](https://www.jamescoyle.net/how-to/1891-git-ssl-certificate-problem-caused-by-self-signed-certificates) - Git SSL Certificate Problem Caused By Self Signed Certificates
@@ -479,6 +490,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nicola Paolucci](https://www.atlassian.com/blog/archives/how-to-fetch-pull-requests) - Pull request proficiency: Fetching abilities unlocked!
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
 * [Joe L. Wroten](https://dev.to/sharpshark28/self-code-review-with-git-add-patch) - Self Code Review with Git Add Patch
+* [Joe L. Wroten](https://dev.to/sharpshark28/easy-git-commit-targeting) - Easy Git Commit Targeting
+* [Jason McCreary](https://dev.to/gonedark/3-git-commands-i-use-every-day) - 3 Git Commands I Use Every Day
+* [Jason McCreary](https://dev.to/gonedark/tweak-your-terminal-for-git) - Tweak your Terminal for Git
+* [Jason McCreary](https://dev.to/gonedark/stop-aliasing-core-git-commands) - Stop aliasing core Git commands
+* [Tamir Bahar](https://dev.to/tmr232/dont-amend-fix) - Don't Amend, Fix
+* [AbdulBasit KABIR](https://dev.to/abulkay/whichs-the-right-git-workflow-for-my-next-project) - Which is the right git workflow for my next project?
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -492,6 +509,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Go Docs](https://golang.org/pkg/) - Package list and documentation
 * [Go Docs](https://golang.org/pkg/crypto/) - Package crypto 
 * [Andrew Gerrand](https://talks.golang.org/2012/10things.slide#1) - (2012) 10 things you (probably) don't know about Go
+
+## JavaScript
+* [Ilse Garcia](https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - The JS Path: JavaScript Best Practices Pt. 1
 
 ## Mac
 * [Apple Developer Docs](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
