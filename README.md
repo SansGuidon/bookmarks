@@ -29,6 +29,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
 * [Jason Fried](https://m.signalvnoise.com/the-intimidating-zero-4d90fcdcc3b2) - The Intimidating Zero
 
+# Culture
+* [SensCritique](https://www.senscritique.com) - french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
+
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
 * [CloudBees](https://www.cloudbees.com/blog) - CloudBees Blog
@@ -262,7 +265,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music 
 * [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
 * [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
-* [ChangeDetection](https://www.changedetection.com/) -  Know automatically when any web page changes	
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -273,6 +275,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [YouTube to MP3 converter](http://www.youtube-mp3.org/) 
 * [Wayback Machine](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [Socialtalents](http://loadme.socialtalents.com/) - Loadme performance testing - load testing service (No registration required, just links to your website or API)
+* [ChangeDetection](https://www.changedetection.com/) -  Know automatically when any web page changes	
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
