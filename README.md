@@ -1,10 +1,10 @@
 I just want to centralize my findings and bookmarks in a central location, and share them.
 
 # Architecture / Design
-* [David Alia](http://blog.octo.com/design-for-failure/) - (FR) Les Patterns des Grands du Web – Design for failure
-* [Mathieu Poignant](http://blog.octo.com/zero-downtime-deployment/) - (FR) Les Patterns des Géants du Web – Zero Downtime Deployment
-* [Benoit Lafontaine](http://blog.octo.com/continuous-deployment/) - (FR) Les Patterns des Grands du Web – Continuous Deployment
-* [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - (FR) Les Patterns des Grands du Web – DevOps
+* [David Alia](http://blog.octo.com/design-for-failure/) - [FR] Les Patterns des Grands du Web – Design for failure
+* [Mathieu Poignant](http://blog.octo.com/zero-downtime-deployment/) - [FR] Les Patterns des Géants du Web – Zero Downtime Deployment
+* [Benoit Lafontaine](http://blog.octo.com/continuous-deployment/) - [FR] Les Patterns des Grands du Web – Continuous Deployment
+* [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] Les Patterns des Grands du Web – DevOps
 * [Don MacAskill](https://don.blogs.smugmug.com/2011/04/24/how-smugmug-survived-the-amazonpocalypse/) - How SmugMug survived the Amazonpocalypse
 * [Krishnan Subramanian](https://www.cloudave.com/11973/designing-for-failure-some-key-facts/) - Designing For Failure: Some Key Facts
 
@@ -34,13 +34,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Connect-to-Your-Vagrant-Virtual-Machine-with-PuTTY) - Connect to Your Vagrant Virtual Machine with PuTTY
 * [Hashicorp](https://atlas.hashicorp.com/puppetlabs) - Official Puppet Vagrant boxes
 * [Willem Meints](http://fizzylogic.nl/2015/01/27/building-containerized-apps-with-vagrant/) - Building Containerized Apps With Vagrant
-* [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - (FR) Les Patterns des Grands du Web – DevOps
+* [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] Les Patterns des Grands du Web – DevOps
 * [Martin Rusev](https://www.amon.cx/blog/how-i-replaced-ssh/) - How I Replaced SSH with ZeroMQ and Salt
 * [Martin Rusev](https://www.amon.cx/blog/saltstack-review/) - SaltStack - Review and how it fares against Ansible and Puppet?
 * [Josh Dreyfuss](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/) - Deployment Management Tools: Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric
 * [Engin Yöyen ](http://enginyoyen.com/service-discovery-choosing-the-right-tool/) - Service Discovery : Choosing the Right Tool
 * [Viktor Farcic](https://technologyconversations.com/2017/03/06/the-ten-commandments-of-continuous-delivery/) - The Ten Commandments Of Continuous Delivery
-* [Pushkar Singh](https://theagilecoder.files.wordpress.com/2015/09/devops-maturity-model.png) - (Picture) Devops Maturity Model
+* [Pushkar Singh](https://theagilecoder.files.wordpress.com/2015/09/devops-maturity-model.png) - [PNG] Devops Maturity Model
 * [DevOpsGuys](https://www.devopsguys.com/2013/02/06/maturing-the-continuous-delivery-pipeline/) - Maturing the Continuous Delivery Pipeline
 * [Tony Bradley](https://devops.com/devops-just-automation/) - DevOps is More Than Just Automation
 * [Don Macvittie](https://devops.com/moving-big-project-cicd/) - Moving That Big Project to CI/CD
@@ -93,14 +93,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
 * [Michel Blanc](https://leucos.github.io/articles/ansible-contract-inventory/) - Making dynamic inventory usable with Ansible and Digital Ocean
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/01/20/ansible-vs-puppet-hands-on-with-ansible/) - Ansible vs Puppet – Hands-On with Ansible
-* [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - (FR) DevOps avec Ansible et Docker
+* [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - [FR] DevOps avec Ansible et Docker
 * [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code 
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_vault.html#what-can-be-encrypted-with-vault) - Ansible Vault Documentation
 * [Michael DeHaan](https://www.ansible.com/blog/2014/02/19/ansible-vault) - Introducing Ansible Vault : keeping encrypted data in Playbooks
-* [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - (FR) Ansible Vault : Automatiser le chiffrement avec Git
+* [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - [FR] Ansible Vault : Automatiser le chiffrement avec Git
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/07/24/managing-secrets-with-ansible-vault-the-missing-guide-part-1-of-2/) - Managing Secrets with Ansible Vault – The Missing Guide (Part 1 of 2)
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/07/24/managing-secrets-with-ansible-vault-the-missing-guide-part-2-of-2/) - Managing Secrets with Ansible Vault – The Missing Guide (Part 2 of 2)
 * [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - Using git diff with Ansible Vault encrypted files
@@ -162,7 +162,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nitin Agarwal](https://medium.com/@nagarwal/docker-usecases-3b62f4d68bc4) - Docker Usecases
 * [Nitin Agarwal](https://medium.com/@nagarwal/best-practices-for-working-with-dockerfiles-fb2d22b78186) - Best Practices for working with Dockerfiles
 * [Gianluca Borello](https://sysdig.com/blog/container-isolation-gone-wrong/) - Container isolation gone wrong
-* [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - (FR) DevOps avec Ansible et Docker
+* [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - [FR] DevOps avec Ansible et Docker
 * [Thomas Graf](https://www.slideshare.net/ThomasGraf5/dockercon-2017-cilium-network-and-application-security-with-bpf-and-xdp) - DockerCon 2017 - Cilium - Network and Application Security with BPF and XDP
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Brendan Gregg](http://www.brendangregg.com/blog/2017-05-15/container-performance-analysis-dockercon-2017.html) - [Video] Container Performance Analysis at DockerCon 2017 + [Slides](https://www.slideshare.net/brendangregg/container-performance-analysis)
@@ -212,7 +212,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenShift Docs](https://docs.openshift.com/enterprise/3.0/dev_guide/new_app.html) - Creating New Applications
 * [OpenShift](https://www.openshift.com/container-platform/resources.html) - Learning Resources (webinars, datasheets, whitepapers, infographic, tools, videos...)
 * [OpenShift](https://blog.openshift.com/openshift-v3-deep-dive-docker-kubernetes/) - OpenShift V3 Deep Dive Tutorial | The Next Generation of PaaS
-* [OCTO Talks](http://blog.octo.com/openshift-3-le-paas-prive-avec-docker/) - (FR) OpenShift 3 : le PaaS privé avec Docker
+* [OCTO Talks](http://blog.octo.com/openshift-3-le-paas-prive-avec-docker/) - [FR] OpenShift 3 : le PaaS privé avec Docker
 * [Ansible Docs](https://docs.ansible.com/ansible-container/openshift/minishift.html) - Minishift role for Ansible
 
 ## SecOps
@@ -398,9 +398,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 
 ## Git
-* [Dissecting Git's Guts - Git Merge 2016](https://www.youtube.com/watch?v=Y2Msq90ZknI) + [Cheat Sheet of git commands](https://github.com/emilyxxie/gits_guts_commands/blob/master/git_cheat_sheet.pdf)
-* [20 Tricks with Git and Shell - Git Merge 2016](https://www.youtube.com/watch?v=d-T51nhmFhQ)
-* [25 Tips for Intermediate Git Users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/) 
+* [Emily Xie](https://www.youtube.com/watch?v=Y2Msq90ZknI) - [Video] Dissecting Git's Guts - Git Merge 2016 + [Cheat Sheet of git commands](https://github.com/emilyxxie/gits_guts_commands/blob/master/git_cheat_sheet.pdf)
+* [Spencer Krum](https://www.youtube.com/watch?v=d-T51nhmFhQ) - [Video] 20 Tricks with Git and Shell - Git Merge 2016
 * [James Coyle](https://www.jamescoyle.net/how-to/1891-git-ssl-certificate-problem-caused-by-self-signed-certificates) - Git SSL Certificate Problem Caused By Self Signed Certificates
 * [Scott Nonnenberg](https://blog.scottnonnenberg.com/better-git-configuration/) - Better Git configuration. See also the [shared .gitconfig file](https://gist.github.com/scottnonnenberg/fefa3f65fdb3715d25882f3023b31c29)
 * [Scott Chacon and Ben Straub](https://git-scm.com/docs/git-config#_variables) - available variables in git config
@@ -408,7 +407,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joseph Kahn](https://blog.josephkahn.io/articles/pre-commit-hooks/) - Pre-commit Hooks: The Good, The Bad & The Ugly
 * [Rafael Eyng](http://codeheaven.io/simple-git-hooks-with-ghooks/) - Simple Git Hooks With Ghooks
 * [gogits/gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
-* [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - (FR) Ansible Vault : Automatiser le chiffrement avec Git
+* [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - [FR] Ansible Vault : Automatiser le chiffrement avec Git
 * [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - Using git diff with Ansible Vault encrypted files
 * [Marvin Pinto](https://disjoint.ca/til/2016/03/18/modifying-the-date-of-a-commit/) - Modifying the date of a commit
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/advanced-git-aliases) - One weird trick for powerful Git aliases
@@ -436,6 +435,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christophe Porteneuve](https://medium.com/@porteneuve/video-collaboration-best-practices-with-git-and-github-2b5de9424af2) - [Video] Collaboration best practices with Git and GitHub - [Slides](http://drive.delicious-insights.com/legacy-files/git-github-collab-bp.pdf)
 * [Christophe Porteneuve](https://hackernoon.com/fix-conflicts-only-once-with-git-rerere-7d116b2cec67) - Fix conflicts only once with git rerere
 * [Buddy Reno](https://medium.freecodecamp.com/bash-shortcuts-to-enhance-your-git-workflow-5107d64ea0ff) - Bash Shortcuts to Enhance Your Git Workflow
+* [Buddy Reno](https://buddyreno.me/removing-git-commits-from-master-34d0efe931c6) - Removing Git Commits From Master (Safely)
+* [Buddy Reno](https://medium.freecodecamp.com/git-please-a182f28efeb5) - Git Please: how to force push without being a jerk
+* [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-reset-commit-alchemy-ba3a83bdfddc) - Mastering Git Reset: Commit Alchemy
+* [Alex Blewitt](http://alblue.bandlem.com/2011/05/git-tip-of-week-reflogs.html) - Git Tip of the Week: Reflogs. The same blog contains a [lot of git tips](http://alblue.bandlem.com/Tag/git/) 
+* [Markus Wein](http://nuclearsquid.com/writings/subtree-merging-and-you/) - Subtree merging and you
+* [Markus Wein](http://nuclearsquid.com/writings/git-new-workdir/) - git-new-workdir
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -454,6 +459,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Apple Developer Docs](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
 * [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
+* [Markus Wein](http://nuclearsquid.com/macos-terminal-cheat-sheet/) - macOS Terminal cheat sheet
 
 ## Productivity
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
@@ -499,6 +505,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SS64.com](https://ss64.com/bash/) - An A-Z Index of the Bash command line for Linux.
 * [SS64.com](https://ss64.com/bash/syntax-keyboard.html) - Bash Keyboard Shortcuts
 * [Marvin Pinto](https://disjoint.ca/til/2016/05/17/how-to-determine-the-file-size-of-a-remote-http-object/) - How to determine the file size of a remote HTTP object
+* [Vitaly Belman](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019) - My favorite command-line utilities / How I stopped worrying about GUI and learned to love the terminal
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
