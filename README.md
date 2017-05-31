@@ -253,6 +253,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [StackEdit](https://stackedit.io/editor) - in-browser markdown editor
 * [XKPasswd](https://xkpasswd.net/s/) - secure memorable password generator inspired by [XKCD](http://xkcd.com/936/)
 * [YouTube to MP3 converter](http://www.youtube-mp3.org/) 
+* [Wayback Machine](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -442,6 +443,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alex Blewitt](http://alblue.bandlem.com/2011/05/git-tip-of-week-reflogs.html) - Git Tip of the Week: Reflogs. The same blog contains a [lot of git tips](http://alblue.bandlem.com/Tag/git/) 
 * [Markus Wein](http://nuclearsquid.com/writings/subtree-merging-and-you/) - Subtree merging and you
 * [Markus Wein](http://nuclearsquid.com/writings/git-new-workdir/) - git-new-workdir
+* [Ryan Hodson](https://web.archive.org/web/20161121145327/http://rypress.com/tutorials/git/tips-and-tricks) - [Cached] Tips & Tricks (Ry’s Git Tutorial)
+* [Nicola Paolucci](https://www.atlassian.com/blog/software-teams/git-project-dependencies) - Git and project dependencies
+* [Nicola Paolucci](https://www.atlassian.com/blog/archives/how-to-fetch-pull-requests) - Pull request proficiency: Fetching abilities unlocked!
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -530,6 +534,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
+* [Chocolatey](https://chocolatey.org/packages) - All Packages for Chocolatey (package manager for windows)
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
