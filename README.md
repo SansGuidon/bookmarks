@@ -274,6 +274,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mike Bushong](https://dzone.com/articles/dont-ask-you-take-vacation) - Don't Ask Before You Take Vacation
 * [Karen Wickre](https://backchannel.com/working-from-home-is-usually-a-disaster-unless-you-try-this-30f1cce6f5a6) - Working From Home Is Usually a Disaster — Unless You Try This
 
+## Remote jobs
+* [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
+* [The Remote Working Company](http://www.remoteworking.co/) - Remote Jobs for people that don't like to go to work, mostly technology oriented
+* [Working Nomads](https://www.workingnomads.co/jobs) - Remote jobs, with most offers in development
+* [We Work Remotely](https://weworkremotely.com/) - Remote Jobs: Design, Programming, DevOps and more
+
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
 
@@ -523,6 +529,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Security / Infosec
 * [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - Penetration Testing Tools Cheat Sheet
+* [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
