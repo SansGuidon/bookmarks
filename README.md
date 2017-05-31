@@ -55,7 +55,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Engin Yöyen](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 * [Timothy Appnel](https://www.ansible.com/blog/ansible-best-practices-essentials) - Ansible Best Practices: The Essentials
 * [Pierre Baillet](http://blog.ippon.tech/ansible-tips-and-tricks/) - 10 Ansible tips and tricks
-* [Timothy Appnel, James Martin](https://www.redhat.com/en/about/videos/ansible-best-practices-startups-enterprises) - (Video) Ansible best practices for startups to enterprises
+* [Timothy Appnel, James Martin](https://www.redhat.com/en/about/videos/ansible-best-practices-startups-enterprises) - [Video] Ansible best practices for startups to enterprises
 * [Ansible Galaxy](https://galaxy.ansible.com/list#/roles?page=1&page_size=10) - Ansible Galaxy Roles
 * [Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
 * [Ansible](https://www.ansible.com/blog/ansible-performance-tuning) - Ansible Performance Tuning (for Fun and Profit)
@@ -94,7 +94,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michel Blanc](https://leucos.github.io/articles/ansible-contract-inventory/) - Making dynamic inventory usable with Ansible and Digital Ocean
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/01/20/ansible-vs-puppet-hands-on-with-ansible/) - Ansible vs Puppet – Hands-On with Ansible
 * [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - (FR) DevOps avec Ansible et Docker
-* [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - (Video) JaaC - Jenkins as a Code 
+* [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code 
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -165,7 +165,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - (FR) DevOps avec Ansible et Docker
 * [Thomas Graf](https://www.slideshare.net/ThomasGraf5/dockercon-2017-cilium-network-and-application-security-with-bpf-and-xdp) - DockerCon 2017 - Cilium - Network and Application Security with BPF and XDP
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
-* [Brendan Gregg](http://www.brendangregg.com/blog/2017-05-15/container-performance-analysis-dockercon-2017.html) - (Video) Container Performance Analysis at DockerCon 2017 + [Slides](https://www.slideshare.net/brendangregg/container-performance-analysis)
+* [Brendan Gregg](http://www.brendangregg.com/blog/2017-05-15/container-performance-analysis-dockercon-2017.html) - [Video] Container Performance Analysis at DockerCon 2017 + [Slides](https://www.slideshare.net/brendangregg/container-performance-analysis)
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -178,7 +178,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins](https://jenkins.io/doc/pipeline/examples/) - Pipeline Examples 
 * [Jenkins](https://jenkins.ci.cloudbees.com/job/core/job/acceptance-test-harness-stable/changes) - Latest builds of Jenkins acceptance-test-harness-stable. See also [The new Jenkins CI page](https://ci.jenkins.io/)
 * [Vyacheslav Voronenko](https://www.codementor.io/slavko/setup-configure-jenkins-recommended-plugins-du107z6nr) - Setup & Configure Jenkins for Your Team
-* [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - (Video) JaaC - Jenkins as a Code 
+* [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code 
 * [Afonso F](https://github.com/afonsof/jenkins-material-theme) - Material Design UI for Jenkins
 * [Damien Coraboeuf](https://jenkins.io/blog/2016/06/15/jenkins-pipeline-scalability/) - Jenkins Pipeline Scalability in the Enterprise
 
@@ -371,7 +371,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - The Joel Test: 12 Steps to Better Code
 * [Corinna Baldauf](http://wall-skills.com/2016/agile-engineering-self-assessment/) - Agile Engineering Self Assessment
 * [Emiliano Soldi](https://www.linkedin.com/pulse/relentlessly-avoid-technical-debt-emiliano-soldi) - Relentlessly Avoid Technical Debt
-* [Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs) - (Video) The Silver Bullet Syndrome (Devoxx Brussels 2015)
+* [Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs) - [Video] The Silver Bullet Syndrome (Devoxx Brussels 2015)
 * [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
 * [Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) - How to Pick a Good Monitor for Software Development
 * [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know
@@ -415,9 +415,27 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nicola Paolucci](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/) - Must Have Git Aliases: Advanced Examples + [list available on BitBucket](https://bitbucket.org/durdn/cfg/src/master/.gitconfig?at=master)
 * [Nicola Paolucci](http://durdn.com/blog/2012/12/05/git-12-curated-git-tips-and-workflows/) - Git: Twelve Curated Tips And Workflows From The Trenches
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
+* [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
+* [Michael White](https://gist.github.com/mwhite/6887990) - The Ultimate Git Alias Setup
 * [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Aliases) - Collection of git aliases
 * [Nicola Paolucci](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/) - The power of Git subtree
 * [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
+* [Nicola Paolucci](http://durdn.com/blog/2009/08/16/i-love-staring-at-branches-and-shuffle-reorder-and-squash-commits/) - I love staring at branches and shuffle, reorder and squash commits
+* [Robby Russell](https://github.com/robbyrussell/oh-my-zsh/blob/456341fd69c3e514e401f1c3c1726b77d733c86b/plugins/git/git.plugin.zsh) - git aliases from oh-my-zsh
+* [Kernel Docs](https://www.kernel.org/pub/software/scm/git/docs/git-push.html) - git-push
+* [Git-SCM Docs](https://git-scm.com/docs/git-diff) - git-diff
+* [Nicola Paolucci](https://www.atlassian.com/blog/git/git-submodules-workflows-tips#tip5) - Git submodules: core concept, workflows, and tips
+* [Hemanth.HM](https://github.com/git-tips/tips) - [git-tips/tips] Collection of git-tips
+* [Lars Vogel](http://www.vogella.com/tutorials/Git/article.html) - Git - Tutorial
+* [Pere Orga](https://orga.cat/posts/most-useful-git-commands) - The most useful git commands
+* [Christophe Porteneuve](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa) - Getting solid at Git rebase vs. merge
+* [Christophe Porteneuve](https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df) - 30 Git CLI options you should know about
+* [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) - Mastering Git submodules
+* [Markus Wein](http://nuclearsquid.com/writings/git-tricks-tips-workflows/) - A few of my Git tricks, tips and workflows
+* [Andy Jeffries](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/) - 25 Tips for Intermediate Git Users
+* [Christophe Porteneuve](https://medium.com/@porteneuve/video-collaboration-best-practices-with-git-and-github-2b5de9424af2) - [Video] Collaboration best practices with Git and GitHub - [Slides](http://drive.delicious-insights.com/legacy-files/git-github-collab-bp.pdf)
+* [Christophe Porteneuve](https://hackernoon.com/fix-conflicts-only-once-with-git-rerere-7d116b2cec67) - Fix conflicts only once with git rerere
+* [Buddy Reno](https://medium.freecodecamp.com/bash-shortcuts-to-enhance-your-git-workflow-5107d64ea0ff) - Bash Shortcuts to Enhance Your Git Workflow
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
