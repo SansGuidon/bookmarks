@@ -1,5 +1,8 @@
 I just want to centralize my findings and bookmarks in a central location, and share them.
 
+# Anime
+* [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
+
 # Architecture / Design
 * [David Alia](http://blog.octo.com/design-for-failure/) - [FR] Les Patterns des Grands du Web – Design for failure
 * [Mathieu Poignant](http://blog.octo.com/zero-downtime-deployment/) - [FR] Les Patterns des Géants du Web – Zero Downtime Deployment
@@ -27,6 +30,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CloudBees](https://www.cloudbees.com/blog) - CloudBees Blog
 * [DZone](https://dzone.com/devops-tutorials-tools-news) - DZone Devops
 * [reddit](https://www.reddit.com/r/devops/) - Everything Devops on reddit
+* [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
@@ -48,6 +52,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Automatic Software](https://automic.com/resources/tco-assessment-tools/devops-maturity-assessment) - DevOps Maturity model assessment : Where are you on your DevOps journey?
 * [Phillip Holmes](http://doatt.com/2015/02/02/fourth-the-build-system/index.html) - Fourth - The Build System
 * [Phillip Holmes](http://doatt.com/2015/04/27/the-build-methodology-decision/index.html) - The Build Methodology Decision
+* [Michael Hedgpeth](https://blog.chef.io/2017/04/13/guest-post-why-habitat/) - Why Habitat? - Chef Blog
+* [Samuele Resca](https://dev.to/samueleresca/continuos-delivery-using-feature-toggle) - Continuous Delivery using feature toggle
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -114,7 +120,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Containers
 * [Docker](http://blog.docker.com/curated/) - Docker Blog
-* [DEV](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
+* [DEV](https://dev.to/t/docker) - Docker related articles on dev.to()
+* [Mike Simons](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
 * [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
 * [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
 * [SlideShare](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - Optimizing Docker Images
@@ -167,6 +174,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Brendan Gregg](http://www.brendangregg.com/blog/2017-05-15/container-performance-analysis-dockercon-2017.html) - [Video] Container Performance Analysis at DockerCon 2017 + [Slides](https://www.slideshare.net/brendangregg/container-performance-analysis)
 * [Julien Bisconti](https://veggiemonk.github.io/awesome-docker/) - Awesome-docker : A curated list of Docker resources and projects
+* [Alex Hanson](https://dev.to/ahansondev/lessons-learned-with-docker) - Lessons Learned with Docker
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -240,11 +248,17 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vault Docs](https://www.vaultproject.io/intro/getting-started/acl.html) - Access Control Policies (ACLs)
 * [Vault Docs](https://www.vaultproject.io/docs/concepts/tokens.html) - Tokens
 
+# Finding events
+* [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
+
 # Finding content
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
 * [Library Genesis](http://libgen.io/) - ebooks and scientific articles
 * [b-ok.org](http://b-ok.org/) - ebooks
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music 
+* [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
+* [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
+* [ChangeDetection](https://www.changedetection.com/) -  Know automatically when any web page changes	
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -254,6 +268,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [XKPasswd](https://xkpasswd.net/s/) - secure memorable password generator inspired by [XKCD](http://xkcd.com/936/)
 * [YouTube to MP3 converter](http://www.youtube-mp3.org/) 
 * [Wayback Machine](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* [Socialtalents](http://loadme.socialtalents.com/) - Loadme performance testing - load testing service (No registration required, just links to your website or API)
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -279,9 +294,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Remote Working Company](http://www.remoteworking.co/) - Remote Jobs for people that don't like to go to work, mostly technology oriented
 * [Working Nomads](https://www.workingnomads.co/jobs) - Remote jobs, with most offers in development
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs: Design, Programming, DevOps and more
+* [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
 
-## Monitoring
-* [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
+# Manga
+* [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
 
 # Operations / IT OPS
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
@@ -294,6 +310,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
 * [Pat Cable](https://blog.threatstack.com/balancing-security-and-your-on-call-rotation-using-deputize) - Balancing Security and Your On-Call Rotation Using Deputize
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
+
+## Monitoring
+* [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
@@ -368,6 +387,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
 
+# Privacy
+* [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
+
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developer s
@@ -384,10 +406,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) - How to Pick a Good Monitor for Software Development
 * [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know
 * [Engin Yöyen ](http://enginyoyen.com/improving-problem-solving-skills-for-developers/) - Improving problem-solving skills for developers
+* [James Hood](https://dev.to/jlhcoder/tips-for-new-software-developers) - Tips for New Software Developers
 
 ## Clean Code
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
 * [Corinna Baldauf](http://wall-skills.com/2014/simplicity-rules-from-extreme-programming/) - Simplicity Rules (from eXtreme Programming)
+* [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -398,6 +422,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
 * [Jaroslav Tulach](http://www.methodsandtools.com/archive/debugger.php) - Use the Debugger. Stupid!
+* [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
 
 ## Gamedev
 * [libgdx](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
@@ -452,6 +477,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ryan Hodson](https://web.archive.org/web/20161121145327/http://rypress.com/tutorials/git/tips-and-tricks) - [Cached] Tips & Tricks (Ry’s Git Tutorial)
 * [Nicola Paolucci](https://www.atlassian.com/blog/software-teams/git-project-dependencies) - Git and project dependencies
 * [Nicola Paolucci](https://www.atlassian.com/blog/archives/how-to-fetch-pull-requests) - Pull request proficiency: Fetching abilities unlocked!
+* [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
+* [Joe L. Wroten](https://dev.to/sharpshark28/self-code-review-with-git-add-patch) - Self Code Review with Git Add Patch
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -471,6 +498,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
 * [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
 * [Markus Wein](http://nuclearsquid.com/macos-terminal-cheat-sheet/) - macOS Terminal cheat sheet
+
+## Mobile Development
+* [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
 
 ## Productivity
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
@@ -530,11 +560,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Security / Infosec
 * [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - Penetration Testing Tools Cheat Sheet
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
+* [IT Security Blog](http://blog.feedspot.com/information_security_blogs) - Top 100 Information Security Blogs for Data Security Professionals
+* [Max Veytsman](https://dev.to/appcanary/should-you-encrypt-or-compress-first) - Should you encrypt or compress first?
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
 * [bats] - Bash Automated Testing System
 * [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing 
+* [Joe Colantonio](https://www.joecolantonio.com/2017/03/02/automation-testing/) - Automation Testing Resources & Best Practices
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
