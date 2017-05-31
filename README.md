@@ -166,6 +166,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Thomas Graf](https://www.slideshare.net/ThomasGraf5/dockercon-2017-cilium-network-and-application-security-with-bpf-and-xdp) - DockerCon 2017 - Cilium - Network and Application Security with BPF and XDP
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Brendan Gregg](http://www.brendangregg.com/blog/2017-05-15/container-performance-analysis-dockercon-2017.html) - [Video] Container Performance Analysis at DockerCon 2017 + [Slides](https://www.slideshare.net/brendangregg/container-performance-analysis)
+* [Julien Bisconti](https://veggiemonk.github.io/awesome-docker/) - Awesome-docker : A curated list of Docker resources and projects
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -472,6 +473,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/04/become-a-better-developer-with-an-efficient-technical-watch/) - Become a better developer with an efficient technical watch
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
 * [Dwijadas Dey](https://linoxide.com/linux-how-to/search-tools-developers-linux/) - 6 Tools to Search Source Code for Developers in Linux
+* [Sindre Sorhus](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
