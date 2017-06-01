@@ -268,6 +268,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music 
 * [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
 * [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
+* [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
+
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
