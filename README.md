@@ -504,6 +504,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jason McCreary](https://dev.to/gonedark/stop-aliasing-core-git-commands) - Stop aliasing core Git commands
 * [Tamir Bahar](https://dev.to/tmr232/dont-amend-fix) - Don't Amend, Fix
 * [AbdulBasit KABIR](https://dev.to/abulkay/whichs-the-right-git-workflow-for-my-next-project) - Which is the right git workflow for my next project?
+* [Kenneth Truyers](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/) - Git as a NoSql database
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
