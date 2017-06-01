@@ -35,6 +35,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
 * [CloudBees](https://www.cloudbees.com/blog) - CloudBees Blog
+* [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
 * [DZone](https://dzone.com/devops-tutorials-tools-news) - DZone Devops
 * [reddit](https://www.reddit.com/r/devops/) - Everything Devops on reddit
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
@@ -128,6 +129,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Containers
 * [Docker](http://blog.docker.com/curated/) - Docker Blog
 * [DEV](https://dev.to/t/docker) - Docker related articles on dev.to()
+* [Docker](https://www.youtube.com/user/dockerrun) - Docker Youtube channel
+* [CoreOS](https://www.youtube.com/channel/UCGORzzCxacx2r_NsF6_DteQ) - CoreOS Youtube Channel
 * [Mike Simons](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
 * [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
 * [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
@@ -343,6 +346,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [pluralsight](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
 
 # Unix / Linux
+* [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
 * [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary 
@@ -419,6 +423,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Engin Yöyen ](http://enginyoyen.com/improving-problem-solving-skills-for-developers/) - Improving problem-solving skills for developers
 * [James Hood](https://dev.to/jlhcoder/tips-for-new-software-developers) - Tips for New Software Developers
 * [Mo Bitar](https://journal.standardnotes.org/surviving-in-open-source-47792a7c59dc) - Surviving Open-Source
+* [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
 
 ## Clean Code
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
