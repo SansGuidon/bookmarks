@@ -590,6 +590,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [IT Security Blog](http://blog.feedspot.com/information_security_blogs) - Top 100 Information Security Blogs for Data Security Professionals
 * [Max Veytsman](https://dev.to/appcanary/should-you-encrypt-or-compress-first) - Should you encrypt or compress first?
+* [pentestmonkey](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Reverse Shell Cheat Sheet
+* [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - Basic Linux Privilege Escalation
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
