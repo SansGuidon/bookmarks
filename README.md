@@ -62,6 +62,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Phillip Holmes](http://doatt.com/2015/04/27/the-build-methodology-decision/index.html) - The Build Methodology Decision
 * [Michael Hedgpeth](https://blog.chef.io/2017/04/13/guest-post-why-habitat/) - Why Habitat? - Chef Blog
 * [Samuele Resca](https://dev.to/samueleresca/continuos-delivery-using-feature-toggle) - Continuous Delivery using feature toggle
+* [Per-Gustaf Stenberg][http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] (Master's thesis) Container-based Continuous Delivery for Clusters, interesting for some parts
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -185,6 +186,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brendan Gregg](http://www.brendangregg.com/blog/2017-05-15/container-performance-analysis-dockercon-2017.html) - [Video] Container Performance Analysis at DockerCon 2017 + [Slides](https://www.slideshare.net/brendangregg/container-performance-analysis)
 * [Julien Bisconti](https://veggiemonk.github.io/awesome-docker/) - Awesome-docker : A curated list of Docker resources and projects
 * [Alex Hanson](https://dev.to/ahansondev/lessons-learned-with-docker) - Lessons Learned with Docker
+* [Per-Gustaf Stenberg][http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] (Master's thesis) Container-based Continuous Delivery for Clusters, interesting for some parts
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
