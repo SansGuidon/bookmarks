@@ -63,7 +63,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michael Hedgpeth](https://blog.chef.io/2017/04/13/guest-post-why-habitat/) - Why Habitat? - Chef Blog
 * [Samuele Resca](https://dev.to/samueleresca/continuos-delivery-using-feature-toggle) - Continuous Delivery using feature toggle
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] (Master's thesis) Container-based Continuous Delivery for Clusters, interesting for some parts
-* [Andrew Bayer](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - Seven Habits of Highly Effective Jenkins Users (2014 edition!
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -207,6 +206,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Damien Coraboeuf](https://jenkins.io/blog/2016/06/15/jenkins-pipeline-scalability/) - Jenkins Pipeline Scalability in the Enterprise
 * [Jenkins CI](https://github.com/jenkinsci/pipeline-model-definition-plugin/tree/master/pipeline-model-definition/src/test/resources) - Examples of Pipeline scripts (Tests source code), useful for exploring the possible for Jenkinsfile
 * [Funkwerk AG](https://github.com/funkwerk/jenkins-workflow/tree/master/vars) - jenkins-workflow : repository with examples of jenkins workflow scripts
+* [Andrew Bayer](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - Seven Habits of Highly Effective Jenkins Users (2014 edition!
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
