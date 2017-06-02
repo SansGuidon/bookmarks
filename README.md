@@ -215,6 +215,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Overflow](https://stackoverflow.com/questions/37657810/job-dsl-plugin-vs-pipeline-plugin) - Job DSL vs Pipeline Plugin
 * [Liam Newman](https://www.cloudbees.com/blog/sending-notifications-pipeline) - Sending Notifications in Pipeline, contains examples for Slack, Email, HipChat
 * [Andrew Bayer](https://gist.github.com/abayer) - examples of complex/advanced pipeline scripts 
+* [Stack Overflow](https://stackoverflow.com/questions/42290133/jenkins-pipeline-git-command-submodule-update) - Example Pipeline for git submodule update
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -398,6 +399,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michael Heap](https://michaelheap.com/build-centos-5-generic-rpm-on-centos-6/) - Build CentOS 5 generic RPM on CentOS 6
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Brendan Gregg](http://www.brendangregg.com/blog/2016-12-27/linux-tracing-in-15-minutes.html) - Give me 15 minutes and I'll change your view of Linux tracing
+* [nixCraft](https://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/) - How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?
+
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
