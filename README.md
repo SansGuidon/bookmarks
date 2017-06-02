@@ -199,7 +199,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [tuxfight3r](https://gist.github.com/tuxfight3r/eca9442ff76649b057ab) - Decrypting Jenkins password 
 * [Jenkins Docs](https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/) - Pipeline Basic Steps
 * [Jenkins Docs](https://jenkins.io/doc/pipeline/examples/) - Pipeline Examples 
-* [Jenkins Docs][https://jenkins.io/doc/book/pipeline/syntax/) - Pipeline syntax
+* [Jenkins Docs](https://jenkins.io/doc/book/pipeline/syntax/) - Pipeline syntax
 * [Jenkins Docs](https://jenkins.ci.cloudbees.com/job/core/job/acceptance-test-harness-stable/changes) - Latest builds of Jenkins acceptance-test-harness-stable. See also [The new Jenkins CI page](https://ci.jenkins.io/)
 * [Vyacheslav Voronenko](https://www.codementor.io/slavko/setup-configure-jenkins-recommended-plugins-du107z6nr) - Setup & Configure Jenkins for Your Team
 * [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code 
