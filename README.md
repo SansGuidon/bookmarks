@@ -62,8 +62,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Phillip Holmes](http://doatt.com/2015/04/27/the-build-methodology-decision/index.html) - The Build Methodology Decision
 * [Michael Hedgpeth](https://blog.chef.io/2017/04/13/guest-post-why-habitat/) - Why Habitat? - Chef Blog
 * [Samuele Resca](https://dev.to/samueleresca/continuos-delivery-using-feature-toggle) - Continuous Delivery using feature toggle
-* [Per-Gustaf Stenberg][http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] (Master's thesis) Container-based Continuous Delivery for Clusters, interesting for some parts
-* [](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - Seven Habits of Highly Effective Jenkins Users (2014 edition!) - Andrew Bayer
+* [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] (Master's thesis) Container-based Continuous Delivery for Clusters, interesting for some parts
+* [Andrew Bayer](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - Seven Habits of Highly Effective Jenkins Users (2014 edition!
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
