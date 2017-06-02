@@ -196,6 +196,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Robert Sandell / James Nord](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-no_you_shouldnt_do_that_lessons_from_using_pipeline.pdf) - No, You Shouldn't Do That! Lessons from Using Pipeline
 * [Wilson Mar](https://wilsonmar.github.io/jenkins2-pipeline) - Jenkins2 Pipeline jobs using Groovy code in Jenkinsfile
 * [tuxfight3r](https://gist.github.com/tuxfight3r/eca9442ff76649b057ab) - Decrypting Jenkins password 
+* [Jenkins Docs](https://jenkins.io/doc/pipeline/steps/) - Pipeline Steps reference
+* [Jenkins Docs](https://jenkins.io/doc/book/pipeline/jenkinsfile/) - Using a Jenkinsfile
 * [Jenkins Docs](https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/) - Pipeline Basic Steps
 * [Jenkins Docs](https://jenkins.io/doc/pipeline/examples/) - Pipeline Examples 
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/syntax/) - Pipeline syntax
@@ -207,7 +209,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins CI](https://github.com/jenkinsci/pipeline-model-definition-plugin/tree/master/pipeline-model-definition/src/test/resources) - Examples of Pipeline scripts (Tests source code), useful for exploring the possible for Jenkinsfile
 * [Funkwerk AG](https://github.com/funkwerk/jenkins-workflow/tree/master/vars) - jenkins-workflow : repository with examples of jenkins workflow scripts
 * [Andrew Bayer](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - Seven Habits of Highly Effective Jenkins Users (2014 edition!
-* [CloudBees](https://www.cloudbees.com/sites/default/files/declarative-pipeline-refcard.pdf) - Declarative Pipeline Quick Reference
+* [CloudBees](https://www.cloudbees.com/sites/default/files/declarative-pipeline-refcard.pdf) - [PDF] Declarative Pipeline Quick Reference
+* [Jenkins Doc](https://github.com/jenkinsci/pipeline-model-definition-plugin/wiki/Syntax-Reference) - full syntax for Jenkins Declarative Pipeline
+* [Jenkins CI](https://github.com/jenkinsci/job-dsl-plugin/blob/master/job-dsl-core/src/main/groovy/javaposse/jobdsl/dsl/helpers/step/MSBuildContext.groovy) - source code of msbuild step
+* [Stack Overflow](https://stackoverflow.com/questions/37657810/job-dsl-plugin-vs-pipeline-plugin) - Job DSL vs Pipeline Plugin
+* [Liam Newman](https://www.cloudbees.com/blog/sending-notifications-pipeline) - Sending Notifications in Pipeline, contains examples for Slack, Email, HipChat
+* [Andrew Bayer](https://gist.github.com/abayer) - examples of complex/advanced pipeline scripts 
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
