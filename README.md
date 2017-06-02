@@ -207,6 +207,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins CI](https://github.com/jenkinsci/pipeline-model-definition-plugin/tree/master/pipeline-model-definition/src/test/resources) - Examples of Pipeline scripts (Tests source code), useful for exploring the possible for Jenkinsfile
 * [Funkwerk AG](https://github.com/funkwerk/jenkins-workflow/tree/master/vars) - jenkins-workflow : repository with examples of jenkins workflow scripts
 * [Andrew Bayer](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - Seven Habits of Highly Effective Jenkins Users (2014 edition!
+* [CloudBees](https://www.cloudbees.com/sites/default/files/declarative-pipeline-refcard.pdf) - Declarative Pipeline Quick Reference
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
