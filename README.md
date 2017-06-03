@@ -85,6 +85,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joe Landsberger](http://www.studygs.net/problem/problemsolvingv1.htm) - Defining a problem; identifying causes; gathering information
 * [Jason Davis](http://engineering.simondata.com/effective-communication-in-a-remote-eng-setting) - Effective Communication in a Remote Engineering Setting
 * [Mike Walker](https://opensource.com/open-organization/17/6/team-differentiator-not-tech) - Your team's differentiator isn't its tech
+* [John Allspaw](http://www.kitchensoap.com/2017/03/06/book-suggestion-dialogue-the-art-of-thinking-together/) - Dialogue: The Art Of Thinking Together
+* [MindTools](https://www.mindtools.com/pages/article/Assertiveness.htm) - Assertiveness : Working WITH People, Not Against Them
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -363,6 +365,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
+* [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -423,9 +426,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
 * [Pat Cable](https://blog.threatstack.com/balancing-security-and-your-on-call-rotation-using-deputize) - Balancing Security and Your On-Call Rotation Using Deputize
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
+* [Jon Prall](http://jprall.typepad.com/blog/2010/10/85-operational-rules.html) - (2007) 85 Operations Rules to Live By
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
+* [John Allspaw](http://www.kitchensoap.com/2007/09/26/the-term-monitoring-needs-clarification/) - The term “monitoring” needs clarification.
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
@@ -460,9 +465,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3069981/linux/the-linux-command-that-you-should-never-say-out-loud.html) - thefuck : The Linux command that you should never say out loud
 * [Scott Rippee](http://www.hypexr.org/linux_scp_help.php) - Example syntax for Secure Copy (scp)
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2974753/linux/doing-math-with-awk.html) - Doing math with awk
-* [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
-* [Vim Tips Wiki](http://vim.wikia.com/wiki/Search_and_replace) - Search and replace in VIM
-* [zzapper](http://rayninfo.co.uk/vimtips.html) - Best of Vim Tips / compiled from 16 Years of Vi + 10+ years of Vim 
 * [nixCraft](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/) - Top 32 Nmap Command Examples For Sys/Network Admins
 * [Lakshmanan Ganapathy](http://www.thegeekstuff.com/2012/08/lsof-command-examples) - 15 Linux lsof Command Examples (Identify Open Files)
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/11/50-linux-commands/) - 50 Most Frequently Used UNIX / Linux Commands (With Examples)
@@ -483,6 +485,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Brendan Gregg](http://www.brendangregg.com/blog/2016-12-27/linux-tracing-in-15-minutes.html) - Give me 15 minutes and I'll change your view of Linux tracing
 * [nixCraft](https://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/) - How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?
+
+### Vim
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
+* [Vim Tips Wiki](http://vim.wikia.com/wiki/Search_and_replace) - Search and replace in VIM
+* [zzapper](http://rayninfo.co.uk/vimtips.html) - Best of Vim Tips / compiled from 16 Years of Vi + 10+ years of Vim 
+* [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
+* [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/chapters/17.html) - Status Lines
+* [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -528,6 +538,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [James Hood](https://dev.to/jlhcoder/tips-for-new-software-developers) - Tips for New Software Developers
 * [Mo Bitar](https://journal.standardnotes.org/surviving-in-open-source-47792a7c59dc) - Surviving Open-Source
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
+* [Ben Hilburn](https://dev.to/bhilburn/on-senior-engineers) - On Senior Engineers
+* [John Allspaw](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - On Being A Senior Engineer
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
