@@ -27,6 +27,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dr. Deborah Mowshowitz](http://www.columbia.edu/cu/biology/faculty/mowshowitz/explaining.html) - How to Explain
 * [Joe Landsberger](http://www.studygs.net/problem/problemsolvingv1.htm) - Defining a problem; identifying causes; gathering information
 * [Jason Davis](http://engineering.simondata.com/effective-communication-in-a-remote-eng-setting) - Effective Communication in a Remote Engineering Setting
+* [Mike Walker](https://opensource.com/open-organization/17/6/team-differentiator-not-tech) - Your team's differentiator isn't its tech
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -67,6 +68,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Samuele Resca](https://dev.to/samueleresca/continuos-delivery-using-feature-toggle) - Continuous Delivery using feature toggle
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] (Master's thesis) Container-based Continuous Delivery for Clusters, interesting for some parts
 * [Nathan Hurst](http://engineering.teacherspayteachers.com/2015/12/01/from-10-hours-to-10-minutes-scaling-release-automation-at-teachers-pay-teachers.html) - From 10 Hours to 10 Minutes: Scaling Release Automation at Teachers Pay Teachers
+* [Chris Short](https://opensource.com/open-organization/17/5/5-devops-laws) - 5 laws every aspiring DevOps engineer should know
+* [Viktor Farcic](https://www.cloudbees.com/blog/service-discovery-devops-20-toolkit) - Service Discovery (The DevOps 2.0 Toolkit)
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -114,6 +117,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/01/20/ansible-vs-puppet-hands-on-with-ansible/) - Ansible vs Puppet – Hands-On with Ansible
 * [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - [FR] DevOps avec Ansible et Docker
 * [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code 
+* [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -125,6 +129,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - Using git diff with Ansible Vault encrypted files
 * [Michel Blanc](https://leucos.github.io/articles/transparent-vault-revisited/) - Transparent encryption with ansible vault revisited
 * [Tristan Fisher](https://gist.github.com/tristanfisher/e5a306144a637dc739e7) - Working with ansible-vault : A short tutorial on how to use Vault in your Ansible workflow
+* [Chris Short](https://opensource.com/article/16/12/devops-security-ansible-vault) - Improve your DevOps security game with Ansible Vault
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
@@ -195,6 +200,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
+* [Cloudbees](https://www.cloudbees.com/blog/categories/Jenkins) - Jenkins articles on CloudBees site 
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
 * [Cloudbees](https://support.cloudbees.com/hc/en-us/articles/226122247-How-to-Customize-Checkout-for-Pipeline-Multibranch) - How to Customize Checkout for Pipeline Multibranch
 * [Joel Wilsson](https://wjoel.com/posts/ansible-jenkins-pipeline-part-1.html) - Creating Jenkins pipelines with Ansible, Part 1. See also [Part 2](https://wjoel.com/posts/ansible-jenkins-pipeline-part-2.html)
@@ -226,6 +232,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/devops](https://www.reddit.com/r/devops/comments/5mbb5g/jenkinsfiles/) - Interesting discussion about difficulties to work with Jenkinsfiles on /r/devops
 * [JFrog](https://github.com/JFrogDev/project-examples/tree/master/jenkins-pipeline-examples) - Jenkins pipeline example scripts
 * [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile syntax
+* [Isaac Cohen](https://www.cloudbees.com/blog/ensuring-corporate-standards-pipelines-custom-marker-files) - Ensuring Corporate Standards in Pipelines with Custom Marker Files
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -543,6 +550,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tamir Bahar](https://dev.to/tmr232/dont-amend-fix) - Don't Amend, Fix
 * [AbdulBasit KABIR](https://dev.to/abulkay/whichs-the-right-git-workflow-for-my-next-project) - Which is the right git workflow for my next project?
 * [Kenneth Truyers](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/) - Git as a NoSql database
+* [Think Like (a) Git](http://think-like-a-git.net/) - Git shouldn't be so hard to learn : a guide for the perplexed
+* [Mislav Marohnić](https://mislav.net/2010/07/git-tips/) - A few git tips you didn't know about
+* [Mislav Marohnić](https://mislav.net/2014/02/hidden-documentation/) - Every line of code is always documented
+* [Andrew Peterson](http://ndpsoftware.com/git-cheatsheet.html) - Interactive Git Cheatsheet with a weird UI
+* [Justin Hileman](http://justinhileman.info/article/git-pretty/git-pretty.png) - [Chart] git-pretty : Escape a Git mess, step by step
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -619,6 +631,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SS64.com](https://ss64.com/bash/syntax-keyboard.html) - Bash Keyboard Shortcuts
 * [Marvin Pinto](https://disjoint.ca/til/2016/05/17/how-to-determine-the-file-size-of-a-remote-http-object/) - How to determine the file size of a remote HTTP object
 * [Vitaly Belman](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019) - My favorite command-line utilities / How I stopped worrying about GUI and learned to love the terminal
+* [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
