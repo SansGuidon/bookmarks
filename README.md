@@ -44,7 +44,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Gamedev](#gamedev)
   * [Git](#git)
   * [Golang / Go](#golang--go)
-  * [Git](#git)
   * [JavaScript](#javascript)
   * [Mac](#mac)
   * [Mobile Development](#mobile-development)
