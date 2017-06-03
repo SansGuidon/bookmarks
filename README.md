@@ -1,5 +1,63 @@
 I just want to centralize my findings and bookmarks in a central location, and share them.
 
+## Contents
+
+* [Anime](#anime)
+* [Architecture / Design](#architecture--design)
+* [Collaboration & Problem solving](#collaboration--problem-solving)
+* [Creativity](#creativity)
+* [Culture](#culture)
+* [DevOps](#devops)
+  * [Ansible](#ansible)
+    * [Ansible Vault](#ansible-vault)
+  * [Consul (by Hashicorp)](#consul-by-hashicorp)
+  * [Containers](#containers)
+  * [Jenkins](#jenkins)
+  * [Kubernetes](#kubernetes)
+  * [Microservices](#microservices)
+  * [Nexus](#nexus)
+  * [OpenShift](#openshift)
+  * [SecOps](#secops)
+  * [OpenShift](#openshift)
+  * [Vault (by Hashicorp)](#vault-by-hashicorp)
+* [Finding events](#finding-events)
+* [Finding content](#finding-content)
+* [Free Online Tools](#free-online-tools)
+* [Gaming](#gaming)
+* [Health and Work-Life Balance](#health-and-work-life-balance)
+  * [Remote jobs](#remote-jobs)
+* [Images](#images)
+* [Manga](#manga)
+* [Operations / IT OPS](#operations--it-ops)
+  * [Monitoring](#monitoring)
+* [Productivity](#productivity)
+* [Unix / Linux](#unix--linux)
+  * [Troubleshooting](#troubleshooting)
+* [Music](#music)
+* [Photography](#photography)
+* [Privacy](#privacy)
+* [Programming](#programming)
+  * [API](#api)
+  * [Clean Code](#clean-code)
+  * [ChatOps](#chatops)
+  * [Debugging](#debugging)
+  * [Gamedev](#gamedev)
+  * [Git](#git)
+  * [Golang / Go](#golang--go)
+  * [Git](#git)
+  * [JavaScript](#javascript)
+  * [Mac](#mac)
+  * [Mobile Development](#mobile-development)
+  * [Productivity](#productivity)
+  * [Programmer Humor](#programmer-humor)
+* [Psychology](#psychology)
+* [Scripting](#scripting)
+  * [Shell Aliases](#shell-aliases)
+* [Security / Infosec](#security--infosec)
+* [Testing](#testing)
+* [UX / UI](#ux--ui)
+* [Windows](#windows)
+
 # Anime
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
 
@@ -198,6 +256,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] Master's thesis: Container-based Continuous Delivery for Clusters, interesting for some parts
 * [Faheetah](https://gist.github.com/Faheetah/a2a401a01d2d56fa7d1a9d7ab0d2831b) - Docker patterns/anti-patterns : Generic Dockerfile demonstrating good practices
 
+## ChatOps
+* [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
+
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
 * [Cloudbees](https://www.cloudbees.com/blog/categories/Jenkins) - Jenkins articles on CloudBees site 
@@ -270,7 +331,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
 
-# Vault (by Hashicorp)
+## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
 * [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image 
 * [Vault Docs](https://www.vaultproject.io/intro/getting-started/deploy.html) - Deploy Vault
@@ -384,8 +445,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Corinna Baldauf](http://wall-skills.com/2016/how-to-master-any-skill-badass/) - How to master any skill – Badass
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
 * [SlideShare](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement related presentations
-
-## Troubleshooting
 * [pluralsight](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
 
 # Unix / Linux
@@ -425,7 +484,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Brendan Gregg](http://www.brendangregg.com/blog/2016-12-27/linux-tracing-in-15-minutes.html) - Give me 15 minutes and I'll change your view of Linux tracing
 * [nixCraft](https://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/) - How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?
-
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -472,17 +530,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mo Bitar](https://journal.standardnotes.org/surviving-in-open-source-47792a7c59dc) - Surviving Open-Source
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
 
+## API
+* [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
+
 ## Clean Code
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
 * [Corinna Baldauf](http://wall-skills.com/2014/simplicity-rules-from-extreme-programming/) - Simplicity Rules (from eXtreme Programming)
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
 * [Vaidehi Joshi](https://dev.to/vaidehijoshi/crafting-better-code-reviews) - Crafting Better Code Reviews
-
-## ChatOps
-* [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
-
-## Data
-* [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -597,7 +652,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dwijadas Dey](https://linoxide.com/linux-how-to/search-tools-developers-linux/) - 6 Tools to Search Source Code for Developers in Linux
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 
-## Programmer humor
+## Programmer Humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
 * [Geek&Poke](http://geek-and-poke.com/) - cartoons
 * [The Profound Programmer](http://theprofoundprogrammer.com/) - Programming frustrations expressed through profane, beautiful photographs
