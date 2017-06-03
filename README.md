@@ -11,7 +11,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Don MacAskill](https://don.blogs.smugmug.com/2011/04/24/how-smugmug-survived-the-amazonpocalypse/) - How SmugMug survived the Amazonpocalypse
 * [Krishnan Subramanian](https://www.cloudave.com/11973/designing-for-failure-some-key-facts/) - Designing For Failure: Some Key Facts
 
-# Collaboration
+# Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
 * [Dale Emery](http://cwd.dhemery.com/2005/05/motivation) - model of motivation : Motivation = Ability × Results × Preferences
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/what-if-we-forget-to-write-the-tests) - What If We Forget To Write the Tests?
@@ -24,6 +24,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jason Fried](https://m.signalvnoise.com/depend-less-on-each-other-507fe0e23e4b) - Depend less on each other
 * [Vaidehi Joshi](https://dev.to/vaidehijoshi/crafting-better-code-reviews) - Crafting Better Code Reviews
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
+* [Dr. Deborah Mowshowitz](http://www.columbia.edu/cu/biology/faculty/mowshowitz/explaining.html) - How to Explain
+* [Joe Landsberger](http://www.studygs.net/problem/problemsolvingv1.htm) - Defining a problem; identifying causes; gathering information
+* [Jason Davis](http://engineering.simondata.com/effective-communication-in-a-remote-eng-setting) - Effective Communication in a Remote Engineering Setting
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -63,6 +66,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michael Hedgpeth](https://blog.chef.io/2017/04/13/guest-post-why-habitat/) - Why Habitat? - Chef Blog
 * [Samuele Resca](https://dev.to/samueleresca/continuos-delivery-using-feature-toggle) - Continuous Delivery using feature toggle
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] (Master's thesis) Container-based Continuous Delivery for Clusters, interesting for some parts
+* [Nathan Hurst](http://engineering.teacherspayteachers.com/2015/12/01/from-10-hours-to-10-minutes-scaling-release-automation-at-teachers-pay-teachers.html) - From 10 Hours to 10 Minutes: Scaling Release Automation at Teachers Pay Teachers
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -187,6 +191,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Julien Bisconti](https://veggiemonk.github.io/awesome-docker/) - Awesome-docker : A curated list of Docker resources and projects
 * [Alex Hanson](https://dev.to/ahansondev/lessons-learned-with-docker) - Lessons Learned with Docker
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] Master's thesis: Container-based Continuous Delivery for Clusters, interesting for some parts
+* [Faheetah](https://gist.github.com/Faheetah/a2a401a01d2d56fa7d1a9d7ab0d2831b) - Docker patterns/anti-patterns : Generic Dockerfile demonstrating good practices
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -216,6 +221,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Liam Newman](https://www.cloudbees.com/blog/sending-notifications-pipeline) - Sending Notifications in Pipeline, contains examples for Slack, Email, HipChat
 * [Andrew Bayer](https://gist.github.com/abayer) - examples of complex/advanced pipeline scripts 
 * [Stack Overflow](https://stackoverflow.com/questions/42290133/jenkins-pipeline-git-command-submodule-update) - Example Pipeline for git submodule update
+* [Jason Davis](http://engineering.simondata.com/can-we-use-jenkins-for-that) - Can We Use Jenkins for That?
+* [Keyan Pishdadian](http://engineering.teacherspayteachers.com/2017/05/16/unifying-deployments-for-microservices-via-jenkins.html) - Unifying Deployments for Microservices with Jenkinsfile Pipelines
+* [/r/devops](https://www.reddit.com/r/devops/comments/5mbb5g/jenkinsfiles/) - Interesting discussion about difficulties to work with Jenkinsfiles on /r/devops
+* [JFrog](https://github.com/JFrogDev/project-examples/tree/master/jenkins-pipeline-examples) - Jenkins pipeline example scripts
+* [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile syntax
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -285,7 +295,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
 * [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
-
+* [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -293,10 +303,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Air Mail](http://en.getairmail.com/) - temporary email service
 * [StackEdit](https://stackedit.io/editor) - in-browser markdown editor
 * [XKPasswd](https://xkpasswd.net/s/) - secure memorable password generator inspired by [XKCD](http://xkcd.com/936/)
+* [WhatsMyIP](http://www.whatsmyip.org/random-password-generator/) - password generator & other text related tools (hash lookup, regex tester)
 * [YouTube to MP3 converter](http://www.youtube-mp3.org/) 
 * [Wayback Machine](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [Socialtalents](http://loadme.socialtalents.com/) - Loadme performance testing - load testing service (No registration required, just links to your website or API)
-* [ChangeDetection](https://www.changedetection.com/) -  Know automatically when any web page changes	
+* [ChangeDetection](https://www.changedetection.com/) - Know automatically when any web page changes	
+* [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
+* [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -324,6 +337,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Working Nomads](https://www.workingnomads.co/jobs) - Remote jobs, with most offers in development
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs: Design, Programming, DevOps and more
 * [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
+
+# Images
+* [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
+* [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
 
 # Manga
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
@@ -416,6 +433,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Music 
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
 * [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
+* [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -547,6 +565,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
 * [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
 * [Markus Wein](http://nuclearsquid.com/macos-terminal-cheat-sheet/) - macOS Terminal cheat sheet
+* [Hanxue Lee](http://flummox-engineering.blogspot.com/2016/01/installing-jenkins-os-x-homebrew.html) - Installing Jenkins on OS X using Homebrew
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
@@ -568,6 +587,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
 * [Geek&Poke](http://geek-and-poke.com/) - cartoons
 * [The Profound Programmer](http://theprofoundprogrammer.com/) - Programming frustrations expressed through profane, beautiful photographs
+
+# Psychology
+* [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
 
 # Scripting
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
