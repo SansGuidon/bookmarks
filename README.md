@@ -48,7 +48,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [JavaScript](#javascript)
   * [Mac](#mac)
   * [Mobile Development](#mobile-development)
-  * [Productivity](#productivity)
+  * [Productivity](#productivity-1)
   * [Programmer Humor](#programmer-humor)
 * [Psychology](#psychology)
 * [Scripting](#scripting)
