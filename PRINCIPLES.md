@@ -38,6 +38,27 @@
 * Smile
 * Give, share
 * Take time for you, for important things and people
+* Keep in touch, maintain friendship
+* Market yourself. You're putting on the effort, make sure you show it
+* Go right to the point
+* Ask why
+* Keep your ability to be amazed by things and people, they won't last forever
+* Act to fight perfectionism
+* Take advantage of any opportunities that present themselves
+* Physical and visual contact rather than emails, sms, chat
+* Accept people as they are
+* Select your friends
+* More slow, minder stress
+* Remain calm and quiet about everything which you will experience
+* Reinvent yourself, evolve
+* Grow and progress in love, work, leisure
+* Be yourself, know yourself
+* Be curious, observe and play (mentally, physically) with what surrounds you
+* Be positive
+* Be realistic, concrete
+* Understand your goals and others' goals
+* Taking notes, writing things down is a way to free your mind and not forget or lose anything. It's also a way to train your senses of observation and reflection
+* Observe without judging, relate facts
 
 ## Art of Questions
 * Just ask
