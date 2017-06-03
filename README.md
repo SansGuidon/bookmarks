@@ -383,6 +383,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Wall-Skills](http://wall-skills.com/) - Great 1-pagers to share in your company
 * [Corinna Baldauf](http://wall-skills.com/2016/how-to-master-any-skill-badass/) - How to master any skill – Badass
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
+* [SlideShare](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement related presentations
 
 ## Troubleshooting
 * [pluralsight](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
@@ -452,7 +453,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
-* [InfoQ](https://www.infoq.com/) - news, videos, books for software developer s
+* [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
+* [SlideShare](https://www.slideshare.net/featured/category/software) - featured software related presentations on SlideShare
 * [/r/programming](https://www.reddit.com/r/programming/) - reddit about programming
 * [Hack Reactor](http://www.hackreactor.com/blog/infographic-laurie-voss-things-everyone-knows-except-you) - Infographic of productivity tips for developers, to share with your teammates 
 * [javarevisited](http://javarevisited.blogspot.be/2015/08/how-to-become-better-interviewer-programming.html) - 11 Tips to become a better Interviewer?
