@@ -259,6 +259,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
+* [Richard Jones](https://www.metabrew.com/article/how-we-use-irc-at-lastfm) - (2009) How we use IRC at Last.fm
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
