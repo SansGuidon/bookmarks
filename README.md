@@ -433,6 +433,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
 * [John Allspaw](http://www.kitchensoap.com/2007/09/26/the-term-monitoring-needs-clarification/) - The term “monitoring” needs clarification.
+* [John Allspaw](http://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/) - Owning Attention (Considerations for Alert Design)
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
