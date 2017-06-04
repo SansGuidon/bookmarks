@@ -4,3 +4,4 @@
 * CI is a practice, not a tool, and requires discipline from the development team.
 * Red is the new green
 * Do it, with <insert the name of a CI/CD tool here>, there is no try
+* It doesn't matter who you are, only what you will become
