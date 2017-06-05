@@ -18,8 +18,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Nexus](#nexus)
   * [OpenShift](#openshift)
   * [SecOps](#secops)
-  * [OpenShift](#openshift)
   * [Vault (by Hashicorp)](#vault-by-hashicorp)
+  * [VirtualBox](#vitualbox)
 * [Finding events](#finding-events)
 * [Finding content](#finding-content)
 * [Free Online Tools](#free-online-tools)
@@ -29,6 +29,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Images](#images)
 * [Manga](#manga)
 * [Operations / IT OPS](#operations--it-ops)
+  * [Logging](#logging)
   * [Monitoring](#monitoring)
 * [Productivity](#productivity)
 * [Unix / Linux](#unix--linux)
@@ -51,10 +52,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Mobile Development](#mobile-development)
   * [Productivity](#productivity-1)
   * [Programmer Humor](#programmer-humor)
+  * [Ruby](#ruby)
 * [Psychology](#psychology)
 * [Scripting](#scripting)
   * [Shell Aliases](#shell-aliases)
 * [Security / Infosec](#security--infosec)
+  * [OpenSSL](#openssl)
 * [Testing](#testing)
 * [UX / UI](#ux--ui)
 * [Windows](#windows)
@@ -137,6 +140,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Josh @ Overseer](https://engr.overseerlabs.io/fears-and-favorites-from-100-devops-sre-surveys-84a1365a9f18) - Fears and favorites from 100+ DevOps/SRE surveys
 * [Gregg Caines](http://caines.ca/blog/2013/03/16/release-ophobia/) - Release-ophobia
 * [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
+* [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -220,6 +224,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [tcnksm/docker-alias](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases
 * [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - Useful Docker Bash Functions And Aliases
 * [Lucas Carlson](https://www.ctl.io/developers/blog/post/15-quick-docker-tips/) - (2014) 15 Quick Docker Tips
+* [LZone](http://lzone.de/cheat-sheet/Docker) - Docker Cheat Sheet
 * [Docker Store](https://store.docker.com/search?q=source%3Dverified&source=verified&type=image) - Containers from verified source
 * [Denis Gladkikh](https://www.splunk.com/blog/2015/08/24/collecting-docker-logs-and-stats-with-splunk/) - Collecting docker logs and stats with Splunk
 * [Docker Docs](https://docs.docker.com/engine/admin/logging/splunk/) - Splunk logging driver
@@ -264,10 +269,16 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alex Hanson](https://dev.to/ahansondev/lessons-learned-with-docker) - Lessons Learned with Docker
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] Master's thesis: Container-based Continuous Delivery for Clusters, interesting for some parts
 * [Faheetah](https://gist.github.com/Faheetah/a2a401a01d2d56fa7d1a9d7ab0d2831b) - Docker patterns/anti-patterns : Generic Dockerfile demonstrating good practices
+* [Scott Coulton](https://speakerdeck.com/scottyc/if-its-in-a-container-its-secure-right-1) - If it’s in a container it’s secure right ?
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
 * [Richard Jones](https://www.metabrew.com/article/how-we-use-irc-at-lastfm) - (2009) How we use IRC at Last.fm
+* [Vinay Nadig](https://www.icicletech.com/blog/automate-your-development-activities-with-hubot) - Automate Your Development Activities with Hubot
+* [Pete Nicholls](http://hubot-script-catalog.herokuapp.com/) - Hubot Script Catalog. [Repository](https://github.com/Aupajo/hubot-script-catalog)
+* [GitHub](https://github.com/github/hubot) - Hubot on GitHub
+* [Hubot Docs](https://hubot.github.com/docs/) - Getting Started with Hubot
+* [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat) - Rocket.Chat Hubot adapter
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -317,6 +328,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## OpenShift
 * [OpenShift Docs](https://ci.openshift.redhat.com/openshift-docs-master-testing/latest/welcome/index.html) - OpenShift Latest Documentation
+* [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news 
 * [Marek Jelen](https://blog.openshift.com/deploying-from-private-git-repositories/) - Deploying From Private Git Repositories
 * [OpenShift Docs](https://docs.openshift.org/latest/minishift/using/interacting-with-openshift.html) - Interacting with OpenShift - Using Minishift
 * [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/cli_reference/basic_cli_operations.html) - Developer CLI Operations
@@ -337,9 +349,16 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenShift](https://blog.openshift.com/openshift-v3-deep-dive-docker-kubernetes/) - OpenShift V3 Deep Dive Tutorial | The Next Generation of PaaS
 * [OCTO Talks](http://blog.octo.com/openshift-3-le-paas-prive-avec-docker/) - [FR] OpenShift 3 : le PaaS privé avec Docker
 * [Ansible Docs](https://docs.ansible.com/ansible-container/openshift/minishift.html) - Minishift role for Ansible
+* [Michael Hausenblas](http://kubernetesbyexample.com/) - Kubernetes By Example
+* [Michael Hausenblas](https://github.com/mhausenblas/openshift-cheat-sheet) - Cheat sheet for OpenShift
+* [Michael Hausenblas](https://blog.openshift.com/kubernetes-application-coupling/) - Kubernetes: Application Coupling
+* [Laurent Broudoux](https://blog.openshift.com/multiple-deployment-methods-openshift/) - Multiple Deployment Methods for OpenShift
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
+
+## VirtualBox
+* [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -376,6 +395,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
 * [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. Bonus : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
+* [ThePirateBay Proxy List](https://thepiratebay-proxylist.org/)
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -440,6 +460,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Jon Prall](http://jprall.typepad.com/blog/2010/10/85-operational-rules.html) - (2007) 85 Operations Rules to Live By
 * [John Allspaw](http://www.kitchensoap.com/2007/10/11/knowing-when-you-can-fail-is-mandatory/) - Knowing when you can fail is mandatory.
+* [LZone](http://lzone.de/) - Various Cheat Sheets about sysadmin, development, it ops, services management and virtualization
+* [LZone](http://lzone.de/cheat-sheet/IT-Ops) - IT Ops Cheat Sheet
+
+## Logging
+* [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
+* [LZone](http://lzone.de/cheat-sheet/Splunk) - Splunk Cheat Sheet
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
@@ -503,6 +529,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [TuxRadar](http://www.tuxradar.com/content/more-linux-tips-every-geek-should-know) - More Linux tips every geek should know
 * [TuxRadar](http://www.tuxradar.com/content/linux-tips-every-geek-should-know) - Linux tips every geek should know
 * [Joel Lee](http://www.makeuseof.com/tag/9-lethal-linux-commands-never-run/) - 9 Lethal Linux Commands You Should Never Run
+* [LZone](http://lzone.de/) - Various Cheat Sheets about sysadmin, development, it ops, services management and virtualization
+* [LZone](http://lzone.de/cheat-sheet/GCC) - GCC Cheat Sheet
+* [Alexander Kuleshov aka 0xAX](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md) - Linux insides : A little bit about a linux kernel 
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -710,6 +739,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Geek&Poke](http://geek-and-poke.com/) - cartoons
 * [The Profound Programmer](http://theprofoundprogrammer.com/) - Programming frustrations expressed through profane, beautiful photographs
 
+## Ruby
+* [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
+
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
 
@@ -742,6 +774,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marvin Pinto](https://disjoint.ca/til/2016/05/17/how-to-determine-the-file-size-of-a-remote-http-object/) - How to determine the file size of a remote HTTP object
 * [Vitaly Belman](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019) - My favorite command-line utilities / How I stopped worrying about GUI and learned to love the terminal
 * [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
+* [LZone](http://lzone.de/cheat-sheet/Bash) - Bash Cheat Sheet
+* [LZone](http://lzone.de/cheat-sheet/Bash%20Regex) - Bash Regex Cheat Sheet
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -758,6 +792,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Max Veytsman](https://dev.to/appcanary/should-you-encrypt-or-compress-first) - Should you encrypt or compress first?
 * [pentestmonkey](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Reverse Shell Cheat Sheet
 * [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - Basic Linux Privilege Escalation
+* [Unhide](http://www.unhide-forensics.info/) - open source forensic tool to find hidden processes
+
+## OpenSSL 
+* [LZone](http://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
