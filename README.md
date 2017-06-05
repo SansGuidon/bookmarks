@@ -32,7 +32,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Monitoring](#monitoring)
 * [Productivity](#productivity)
 * [Unix / Linux](#unix--linux)
+  * [Linux for fun](#linux-for-fun)
   * [Troubleshooting](#troubleshooting)
+  * [Vim](#vim)
 * [Music](#music)
 * [Photography](#photography)
 * [Privacy](#privacy)
@@ -367,6 +369,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
+* [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. Bonus : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -387,6 +390,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
 * [leereilly/games](https://github.com/leereilly/games) - Games on GitHub - A list of popular/awesome videos games, add-ons, maps, etc.
 * [Soldat](https://www.soldat.pl/en/) - Soldat is still one of my favorite multiplayer games for 10+ years, mainly because it's free, its gameplay is simple, the engine can be modded easily and the game uses 2d rendering
+* [Illuminion](http://if.illuminion.de/infocom.html) - Classic text adventures masterpieces, to play with DOS or the Frotz-Z machine
 
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
@@ -488,14 +492,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Brendan Gregg](http://www.brendangregg.com/blog/2016-12-27/linux-tracing-in-15-minutes.html) - Give me 15 minutes and I'll change your view of Linux tracing
 * [nixCraft](https://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/) - How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?
+* [TuxRadar](http://www.tuxradar.com/content/command-line-tricks-smart-geeks) - Command line tricks for smart geeks
+* [TuxRadar](http://www.tuxradar.com/content/more-linux-tips-every-geek-should-know) - More Linux tips every geek should know
+* [TuxRadar](http://www.tuxradar.com/content/linux-tips-every-geek-should-know) - Linux tips every geek should know
+* [Joel Lee](http://www.makeuseof.com/tag/9-lethal-linux-commands-never-run/) - 9 Lethal Linux Commands You Should Never Run
 
-### Vim
-* [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
-* [Vim Tips Wiki](http://vim.wikia.com/wiki/Search_and_replace) - Search and replace in VIM
-* [zzapper](http://rayninfo.co.uk/vimtips.html) - Best of Vim Tips / compiled from 16 Years of Vi + 10+ years of Vim 
-* [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
-* [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/chapters/17.html) - Status Lines
-* [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
+## Linux for fun
+* [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
+* [Silver Moon](http://www.binarytides.com/linux-fun-commands/) - 20 amusing Linux commands to have fun with the terminal
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -507,6 +511,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Milosz Galazka](https://blog.sleeplessbeastie.eu/2013/10/31/how-to-deal-with-dmesg-timestamps/) - How to deal with dmesg timestamps
 * [Stack Exchange](https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted) - Find and remove large files that are open but have been deleted
 * [Phil Rzewski](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/) - Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
+
+## Vim
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
+* [Vim Tips Wiki](http://vim.wikia.com/wiki/Search_and_replace) - Search and replace in VIM
+* [zzapper](http://rayninfo.co.uk/vimtips.html) - Best of Vim Tips / compiled from 16 Years of Vi + 10+ years of Vim 
+* [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
+* [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/chapters/17.html) - Status Lines
+* [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
 
 # Music 
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
