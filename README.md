@@ -89,6 +89,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mike Walker](https://opensource.com/open-organization/17/6/team-differentiator-not-tech) - Your team's differentiator isn't its tech
 * [John Allspaw](http://www.kitchensoap.com/2017/03/06/book-suggestion-dialogue-the-art-of-thinking-together/) - Dialogue: The Art Of Thinking Together
 * [MindTools](https://www.mindtools.com/pages/article/Assertiveness.htm) - Assertiveness : Working WITH People, Not Against Them
+* [Gregg Caines](http://caines.ca/blog/2013/05/07/a-requiem-for-a-team/) - A Requiem for a Team
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -134,6 +135,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Josh @ Overseer](https://engr.overseerlabs.io/the-devops-tool-arsenal-results-from-100-devops-sre-surveys-c453483742f) - The DevOps tool arsenal: Results from ~100 DevOps/SRE surveys
 * [Josh @ Overseer](https://engr.overseerlabs.io/clouds-containers-microservices-infra-and-architecture-from-100-devops-sre-surveys-cb636b1a1589) - Clouds, containers & microservices: infra and architecture from ~100 DevOps/SRE surveys
 * [Josh @ Overseer](https://engr.overseerlabs.io/fears-and-favorites-from-100-devops-sre-surveys-84a1365a9f18) - Fears and favorites from 100+ DevOps/SRE surveys
+* [Gregg Caines](http://caines.ca/blog/2013/03/16/release-ophobia/) - Release-ophobia
+* [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -407,6 +410,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jen Horton](https://www.linkedin.com/pulse/inevitable-link-between-positivity-perspective-jen-horton) - The Inevitable Link between Positivity and Perspective
 * [Mike Bushong](https://dzone.com/articles/dont-ask-you-take-vacation) - Don't Ask Before You Take Vacation
 * [Karen Wickre](https://backchannel.com/working-from-home-is-usually-a-disaster-unless-you-try-this-30f1cce6f5a6) - Working From Home Is Usually a Disaster — Unless You Try This
+* [Gregg Caines](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - In Defence of the Office
 * [Jason Fried](https://m.signalvnoise.com/being-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e) - Being tired isn’t a badge of honor
 
 ## Remote jobs
@@ -558,17 +562,26 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
 * [Ben Hilburn](https://dev.to/bhilburn/on-senior-engineers) - On Senior Engineers
 * [John Allspaw](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - On Being A Senior Engineer
+* [Gregg Caines](http://caines.ca/blog/2017/06/04/so-you-want-to-be-a-more-senior-engineer/) - So You Want to Be a More Senior Engineer?
 * [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016? 
 * [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
+* [StackShare](https://stackshare.io/trending/tools) - trending tools, find which tools other companies are using
+* [StackShare](https://stackshare.io/trending/stacks) - trending technology stacks, find which stacks others companies are using
+* [GitHub](https://github.com/explore) - Project showcases, discover interesting repositories 
+* [GitHub](https://github.com/trending) - Explore trending projects in GitHub community
+* [GitHub](https://github.com/showcases) - Open source showcases, explore popular repositories
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
+* [Gregg Caines](http://caines.ca/blog/2013/09/13/you-probably-dont-need-to-version-your-web-api/) - You Probably Don’t Need to Version Your Web API.
 
 ## Clean Code
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
 * [Corinna Baldauf](http://wall-skills.com/2014/simplicity-rules-from-extreme-programming/) - Simplicity Rules (from eXtreme Programming)
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
 * [Vaidehi Joshi](https://dev.to/vaidehijoshi/crafting-better-code-reviews) - Crafting Better Code Reviews
+* [Gregg Caines](http://caines.ca/blog/2009/12/13/code-slower/) - Code Slower
+* [Gregg Caines](http://caines.ca/blog/2010/12/05/quality-is-the-constraint/) - Quality Is the Constraint
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -643,6 +656,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mislav Marohnić](https://mislav.net/2014/02/hidden-documentation/) - Every line of code is always documented
 * [Andrew Peterson](http://ndpsoftware.com/git-cheatsheet.html) - Interactive Git Cheatsheet with a weird UI
 * [Justin Hileman](http://justinhileman.info/article/git-pretty/git-pretty.png) - [Chart] git-pretty : Escape a Git mess, step by step
+* [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -660,6 +674,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## JavaScript
 * [Ilse Garcia](https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - The JS Path: JavaScript Best Practices Pt. 1
 * [Front-end Rescue](https://uptodate.frontendrescue.org/) - How to keep up to date on Front-End Technologies - The Recipe
+* [Michal Mikolajczyk](https://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes) - Top 18 Most Common Mistakes that AngularJS Developers Make
+* [Sindre Sorhus](https://github.com/avajs/ava) - AVA : Futuristic JavaScript test runner
+* [Alexandru Vladutu](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make) - Top 10 Mistakes Node.js Developers Make
 
 ## Mac
 * [Apple Developer Docs](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
@@ -684,6 +701,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
 * [Dwijadas Dey](https://linoxide.com/linux-how-to/search-tools-developers-linux/) - 6 Tools to Search Source Code for Developers in Linux
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
+* [Gregg Caines](http://caines.ca/blog/2015/06/14/were-in-the-stone-age-of-software-engineering-management/) - We're in the Stone Age of Software Engineering Management
+* [Gregg Caines](http://caines.ca/blog/2011/09/14/yoagile-the-good-parts/) - Agile: The Good Parts
 
 ## Programmer Humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -741,9 +760,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
-* [bats] - Bash Automated Testing System
+* [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing 
 * [Joe Colantonio](https://www.joecolantonio.com/2017/03/02/automation-testing/) - Automation Testing Resources & Best Practices
+* [Gregg Caines](http://caines.ca/blog/2015/01/29/continuous-testing/) - Continuous Testing
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
