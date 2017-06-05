@@ -677,6 +677,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michal Mikolajczyk](https://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes) - Top 18 Most Common Mistakes that AngularJS Developers Make
 * [Sindre Sorhus](https://github.com/avajs/ava) - AVA : Futuristic JavaScript test runner
 * [Alexandru Vladutu](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make) - Top 10 Mistakes Node.js Developers Make
+* [Azat Mardan](https://webapplog.com/seven-things-you-should-stop-doing-with-node-js/) - Seven Things You Should Stop Doing with Node.js
 
 ## Mac
 * [Apple Developer Docs](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
