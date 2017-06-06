@@ -112,6 +112,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
 * [DZone](https://dzone.com/devops-tutorials-tools-news) - DZone Devops
 * [reddit](https://www.reddit.com/r/devops/) - Everything Devops on reddit
+* [Netflix](https://medium.com/@NetflixTechBlog) - NetFlix Technology Blog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
@@ -457,6 +458,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
 * [nixCraft](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
 * [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server? 
+* [Sylvain Kalache](https://www.linux.com/blog/first-5-commands-when-i-connect-linux-server) - First 5 Commands When I Connect on a Linux Server
+* [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
+* [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
 * [alicegoldfuss](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
 * [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - Lies My Parents Told Me (About Logs)
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/05/prevent-command-with-a-specific-option-to-be-run-on-your-server/) - Prevent command with a specific option to be run on your server
@@ -539,6 +543,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [LZone](http://lzone.de/cheat-sheet/GCC) - GCC Cheat Sheet
 * [Alexander Kuleshov aka 0xAX](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md) - Linux insides : A little bit about a linux kernel 
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
+* [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
+* [Netflix](https://medium.com/netflix-techblog/netflix-at-velocity-2015-linux-performance-tools-51964ddb81cf) - Netflix at Velocity 2015: Linux Performance Tools (+[Slides](https://www.slideshare.net/brendangregg/velocity-2015-linux-perf-tools))
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
