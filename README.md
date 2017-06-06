@@ -757,6 +757,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aaron Bassett](http://www.codingexcuses.com/) - Excuses for programmers 
 * [Simran Savani](http://blog.taskworld.com/infographic-get-work/) - [IMG] How to Get Out of Doing Work ([Full size](http://editorial.designtaxi.com/editorial-images/NEWS-INFNoWork240715/5.jpg))
 * [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
+* [Jeff Atwood](https://blog.codinghorror.com/new-programming-jargon/) - New Programming Jargon
+* [MonkeyUser](http://www.monkeyuser.com/) - software development satire web comic
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
@@ -831,6 +833,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
 * [Jon Moore](https://medium.com/ux-power-tools/guilty-pleasures-for-designers-b34f2a3f604a) - Guilty Pleasures for Designers
 * [Christian Beck](https://medium.com/ux-power-tools/terrible-ux-trends-for-2017-de6faebf099e) - Terrible UX Trends for 2017
+* [Kamal Nayan](http://www.uxcuses.com/) - Designer Excuses, based on [Jon Moore' article on medium](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910)
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
