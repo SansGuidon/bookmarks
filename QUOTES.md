@@ -6,3 +6,4 @@
 * Do it, with <insert the name of a CI/CD tool here>, there is no try
 * It doesn't matter who you are, only what you will become
 * If you think good architecture is expensive, try bad architecture
+* Truth can only be found in one place: the code
