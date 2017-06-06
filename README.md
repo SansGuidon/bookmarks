@@ -186,7 +186,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Raphael Campardou](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Ansible (Real Life) Good Practices
 * [Deni Bertović](https://goodcode.io/articles/ansible-tips/) - Ansible tips
 * [Marlon Bernardes](http://codeheaven.io/15-things-you-should-know-about-ansible/) - 15 Things You Should Know About Ansible
-* [ansible/ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
+* [Ansible Container](https://github.com/ansible/ansible-container) -  a tool to build Docker images and orchestrate containers using only Ansible playbooks
 * [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/08/10/automating-linux-security-best-practices-with-ansible/) - Automating Linux Security Best Practices with Ansible
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
@@ -253,7 +253,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jason Wilder](https://github.com/jwilder/dockerize) - dockerize : Utility to simplify running applications in docker containers
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-07-03-Docker-Taming-the-Beast-Part-2.html) - Docker: Taming the Beast - Part II
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-10-12-Docker-Taming-the-Beast-Part-3.html) - Docker: Taming the Beast - Part III: Building Images
-* [ansible/ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
+* [Ansible Container](https://github.com/ansible/ansible-container) -  a tool to build Docker images and orchestrate containers using only Ansible playbooks
 * [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
 * [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image 
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2017/05/13/docker-for-windows-different-modes/) - Compare Docker for Windows options
