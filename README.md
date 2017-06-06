@@ -47,6 +47,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Gamedev](#gamedev)
   * [Git](#git)
   * [Golang / Go](#golang--go)
+  * [Java](#java)
   * [JavaScript](#javascript)
   * [Mac](#mac)
   * [Mobile Development](#mobile-development)
@@ -60,6 +61,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [OpenSSL](#openssl)
 * [Testing](#testing)
 * [UX / UI](#ux--ui)
+  * [Design Humor](#design-humor)
 * [Windows](#windows)
 
 # Anime
@@ -93,6 +95,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John Allspaw](http://www.kitchensoap.com/2017/03/06/book-suggestion-dialogue-the-art-of-thinking-together/) - Dialogue: The Art Of Thinking Together
 * [MindTools](https://www.mindtools.com/pages/article/Assertiveness.htm) - Assertiveness : Working WITH People, Not Against Them
 * [Gregg Caines](http://caines.ca/blog/2013/05/07/a-requiem-for-a-team/) - A Requiem for a Team
+* [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - How to Work with Engineers : A Cheat Sheet for Designers
+* [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - How to Work with Designers : A Cheat Sheet for Engineers and PMs
+* [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - How to Work with PMs : A Cheat Sheet for Designers
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -439,6 +444,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Working Nomads](https://www.workingnomads.co/jobs) - Remote jobs, with most offers in development
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs: Design, Programming, DevOps and more
 * [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
+* [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -599,6 +605,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GitHub](https://github.com/explore) - Project showcases, discover interesting repositories 
 * [GitHub](https://github.com/trending) - Explore trending projects in GitHub community
 * [GitHub](https://github.com/showcases) - Open source showcases, explore popular repositories
+* [Hugo Matilla](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -611,6 +618,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vaidehi Joshi](https://dev.to/vaidehijoshi/crafting-better-code-reviews) - Crafting Better Code Reviews
 * [Gregg Caines](http://caines.ca/blog/2009/12/13/code-slower/) - Code Slower
 * [Gregg Caines](http://caines.ca/blog/2010/12/05/quality-is-the-constraint/) - Quality Is the Constraint
+* [Hugo Matilla](https://github.com/HugoMatilla/Refactoring-Summary) - Summary of "Refactoring: Improving the Design of Existing Code" by Martin Fowler
+* [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29) - Summary of 'Clean code' by Robert C. Martin
+* [Deniz Ozger](https://github.com/denizozger/clean-code) - Notes of clean coding practices, mostly based on book Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* [Jose Angel Barroso](https://github.com/jbarroso/clean-code) - Notes on the book Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -700,6 +711,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Go Docs](https://golang.org/pkg/crypto/) - Package crypto 
 * [Andrew Gerrand](https://talks.golang.org/2012/10things.slide#1) - (2012) 10 things you (probably) don't know about Go
 
+## Java
+* [Hugo Matilla](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
+
 ## JavaScript
 * [Ilse Garcia](https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - The JS Path: JavaScript Best Practices Pt. 1
 * [Front-end Rescue](https://uptodate.frontendrescue.org/) - How to keep up to date on Front-End Technologies - The Recipe
@@ -738,6 +752,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
 * [Geek&Poke](http://geek-and-poke.com/) - cartoons
 * [The Profound Programmer](http://theprofoundprogrammer.com/) - Programming frustrations expressed through profane, beautiful photographs
+* [Programming excuses](http://programmingexcuses.com/) - Excuses for lazy coders
+* [Developer excuses](http://developerexcuses.com/) - Excuses for lazy coders
+* [Aaron Bassett](http://www.codingexcuses.com/) - Excuses for programmers 
+* [Simran Savani](http://blog.taskworld.com/infographic-get-work/) - [IMG] How to Get Out of Doing Work ([Full size](http://editorial.designtaxi.com/editorial-images/NEWS-INFNoWork240715/5.jpg))
+* [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
@@ -776,6 +795,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
 * [LZone](http://lzone.de/cheat-sheet/Bash) - Bash Cheat Sheet
 * [LZone](http://lzone.de/cheat-sheet/Bash%20Regex) - Bash Regex Cheat Sheet
+* [nixCraft](https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html) - zcommands: Read gzip Compressed Text Files On a Fly
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -806,6 +826,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
+
+## Design Humor
+* [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
+* [Jon Moore](https://medium.com/ux-power-tools/guilty-pleasures-for-designers-b34f2a3f604a) - Guilty Pleasures for Designers
+* [Christian Beck](https://medium.com/ux-power-tools/terrible-ux-trends-for-2017-de6faebf099e) - Terrible UX Trends for 2017
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
