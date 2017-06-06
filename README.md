@@ -538,6 +538,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [LZone](http://lzone.de/) - Various Cheat Sheets about sysadmin, development, it ops, services management and virtualization
 * [LZone](http://lzone.de/cheat-sheet/GCC) - GCC Cheat Sheet
 * [Alexander Kuleshov aka 0xAX](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md) - Linux insides : A little bit about a linux kernel 
+* [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
