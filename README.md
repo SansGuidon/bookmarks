@@ -114,6 +114,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [reddit](https://www.reddit.com/r/devops/) - Everything Devops on reddit
 * [Netflix](https://medium.com/@NetflixTechBlog) - NetFlix Technology Blog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
+* [Stack Exchange](https://devops.stackexchange.com/) - DevOps questions & answers
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
