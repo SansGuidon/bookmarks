@@ -148,6 +148,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gregg Caines](http://caines.ca/blog/2013/03/16/release-ophobia/) - Release-ophobia
 * [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
 * [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
+* [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -823,6 +824,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [pentestmonkey](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Reverse Shell Cheat Sheet
 * [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - Basic Linux Privilege Escalation
 * [Unhide](http://www.unhide-forensics.info/) - open source forensic tool to find hidden processes
+* [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
 
 ## OpenSSL 
 * [LZone](http://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
