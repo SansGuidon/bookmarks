@@ -361,6 +361,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michael Hausenblas](https://github.com/mhausenblas/openshift-cheat-sheet) - Cheat sheet for OpenShift
 * [Michael Hausenblas](https://blog.openshift.com/kubernetes-application-coupling/) - Kubernetes: Application Coupling
 * [Laurent Broudoux](https://blog.openshift.com/multiple-deployment-methods-openshift/) - Multiple Deployment Methods for OpenShift
+* [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -388,6 +389,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Martin Rusev](https://www.amon.cx/blog/managing-all-secrets-with-vault/) - Managing all your secrets with Vault - Review and Walkthrough
 * [Vault Docs](https://www.vaultproject.io/intro/getting-started/acl.html) - Access Control Policies (ACLs)
 * [Vault Docs](https://www.vaultproject.io/docs/concepts/tokens.html) - Tokens
+* [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
