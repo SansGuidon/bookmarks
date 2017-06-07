@@ -771,7 +771,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeff Atwood](https://blog.codinghorror.com/new-programming-jargon/) - New Programming Jargon
 * [MonkeyUser](http://www.monkeyuser.com/) - software development satire web comic
 * [The Coding Love](http://thecodinglove.com/) - the_coding_love(); /* epic gifs for developers */
-* [Scott Adams](http://dilbert.com/) - Dilbert comic : sattiric office humor
+* [Scott Adams](http://dilbert.com/) - Dilbert comic : satiric humor about a micromanaged office featuring engineer Dilbert
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
