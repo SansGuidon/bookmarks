@@ -323,6 +323,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [JFrog](https://github.com/JFrogDev/project-examples/tree/master/jenkins-pipeline-examples) - Jenkins pipeline example scripts
 * [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile syntax
 * [Isaac Cohen](https://www.cloudbees.com/blog/ensuring-corporate-standards-pipelines-custom-marker-files) - Ensuring Corporate Standards in Pipelines with Custom Marker Files
+* [Jenkins CI](https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md) - [jenkinsci/pipeline-plugin] Plugin Compatibility with Pipeline
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
