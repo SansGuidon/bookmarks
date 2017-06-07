@@ -853,6 +853,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
 * [Chocolatey](https://chocolatey.org/packages) - All Packages for Chocolatey (package manager for windows)
+* [Korben](https://korben.info/univers/windows) - [FR] Windows tips & tools
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
