@@ -83,7 +83,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
 * [Dale Emery](http://cwd.dhemery.com/2005/05/motivation) - model of motivation : Motivation = Ability × Results × Preferences
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/what-if-we-forget-to-write-the-tests) - What If We Forget To Write the Tests?
-- [Paul Kaye](https://www.linkedin.com/pulse/control-stifles-creativity-growth-paul-kaye) - Control stifles creativity and growth
+* [Paul Kaye](https://www.linkedin.com/pulse/control-stifles-creativity-growth-paul-kaye) - Control stifles creativity and growth
 * [Corinna Baldauf](http://wall-skills.com/2017/glasls-stages-of-conflict-escalation/) - Glasl’s Stages of Conflict Escalation
 * [Wall-Skills](http://wall-skills.com/) - Great 1-pagers to share in your company
 * [Corinna Baldauf](http://wall-skills.com/2016/team-self-selection-kit/) - Team Self-Selection Kit
