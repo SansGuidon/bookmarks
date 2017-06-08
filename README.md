@@ -342,6 +342,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
 
+## Maven
+* [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
+
 ## Nexus
 * [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
 * [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-3-docker-images/) - Using Nexus 3 as Your Repository - Part 3: Docker Images
@@ -869,6 +872,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
 * [Chocolatey](https://chocolatey.org/packages) - All Packages for Chocolatey, the package manager for windows
+* [Rob Reynolds](https://puppet.com/blog/chocolatey-creating-your-own-chocolatey-packages) - Chocolatey: Creating your own Chocolatey packages
 * [Korben](https://korben.info/univers/windows) - [FR] Windows tips & tools
 * [Nir Sofer](http://www.nirsoft.net/utils/) - Nirsoft : lot of free tools & utilities for windows, free of malwares and developed over decades by Nir Sofer, who's not stopping [More info about that](http://www.nirsoft.net/about_nirsoft_freeware.html)
 
