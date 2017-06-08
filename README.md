@@ -850,10 +850,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christian Beck](https://medium.com/ux-power-tools/terrible-ux-trends-for-2017-de6faebf099e) - Terrible UX Trends for 2017
 * [Kamal Nayan](http://www.uxcuses.com/) - Designer Excuses, based on [Jon Moore' article on medium](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910)
 
+# Web Development
+* [Steve Francia](https://gohugo.io/overview/introduction/) - Hugo is a fast & modern static site generator
+
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
-* [Chocolatey](https://chocolatey.org/packages) - All Packages for Chocolatey (package manager for windows)
+* [Chocolatey](https://chocolatey.org/packages) - All Packages for Chocolatey, the package manager for windows
 * [Korben](https://korben.info/univers/windows) - [FR] Windows tips & tools
+* [Nir Sofer](http://www.nirsoft.net/utils/) - Nirsoft : lot of free tools & utilities for windows, free of malwares and developed over decades by Nir Sofer, who's not stopping [More info about that](http://www.nirsoft.net/about_nirsoft_freeware.html)
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
