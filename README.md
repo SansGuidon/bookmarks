@@ -15,6 +15,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Jenkins](#jenkins)
   * [Kubernetes](#kubernetes)
   * [Microservices](#microservices)
+  * [Maven](#maven)
   * [Nexus](#nexus)
   * [OpenShift](#openshift)
   * [SecOps](#secops)
@@ -31,6 +32,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Operations / IT OPS](#operations--it-ops)
   * [Logging](#logging)
   * [Monitoring](#monitoring)
+* [Podcasts](#podcasts)
 * [Productivity](#productivity)
 * [Unix / Linux](#unix--linux)
   * [Linux for fun](#linux-for-fun)
@@ -54,6 +56,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Productivity](#productivity-1)
   * [Programmer Humor](#programmer-humor)
   * [Ruby](#ruby)
+* [Podcasts](#podcasts)
 * [Psychology](#psychology)
 * [Scripting](#scripting)
   * [Shell Aliases](#shell-aliases)
@@ -117,6 +120,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Netflix](https://medium.com/@NetflixTechBlog) - NetFlix Technology Blog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
 * [Stack Exchange](https://devops.stackexchange.com/) - DevOps questions & answers
+* [Puppet Blog](https://puppet.com/blog)
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
@@ -435,6 +439,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ChangeDetection](https://www.changedetection.com/) - Know automatically when any web page changes	
 * [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
+* [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
+* [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
+* [Whois](https://www.whois.com/whois/) - Whois to get domain name info + identity
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -469,6 +476,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
+* [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
+* [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
 
 # Manga
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
@@ -607,6 +616,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
 * [SlideShare](https://www.slideshare.net/featured/category/software) - featured software related presentations on SlideShare
 * [/r/programming](https://www.reddit.com/r/programming/) - reddit about programming
+* [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Hack Reactor](http://www.hackreactor.com/blog/infographic-laurie-voss-things-everyone-knows-except-you) - Infographic of productivity tips for developers, to share with your teammates 
 * [javarevisited](http://javarevisited.blogspot.be/2015/08/how-to-become-better-interviewer-programming.html) - 11 Tips to become a better Interviewer?
 * [10 C99 tricks](https://blog.noctua-software.com/c-tricks.html)
@@ -649,6 +659,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29) - Summary of 'Clean code' by Robert C. Martin
 * [Deniz Ozger](https://github.com/denizozger/clean-code) - Notes of clean coding practices, mostly based on book Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 * [Jose Angel Barroso](https://github.com/jbarroso/clean-code) - Notes on the book Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -741,6 +752,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Java
 * [Hugo Matilla](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
+* [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
 
 ## JavaScript
 * [Ilse Garcia](https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - The JS Path: JavaScript Best Practices Pt. 1
@@ -792,6 +804,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
+
+# Podcasts
+* [Player FM](http://player.fm/featured/programming) - Programming podcasts
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
@@ -875,6 +890,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rob Reynolds](https://puppet.com/blog/chocolatey-creating-your-own-chocolatey-packages) - Chocolatey: Creating your own Chocolatey packages
 * [Korben](https://korben.info/univers/windows) - [FR] Windows tips & tools
 * [Nir Sofer](http://www.nirsoft.net/utils/) - Nirsoft : lot of free tools & utilities for windows, free of malwares and developed over decades by Nir Sofer, who's not stopping [More info about that](http://www.nirsoft.net/about_nirsoft_freeware.html)
+* [Puppet Blog](https://puppet.com/blog-tags/chocolatey) - Posts about Chocolatey
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
