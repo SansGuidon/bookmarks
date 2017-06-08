@@ -332,6 +332,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins CI](https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md) - [jenkinsci/pipeline-plugin] Plugin Compatibility with Pipeline
 * [CloudBees](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_at_splunk.pdf) - Jenkins at Splunk and Splunking Jenkins +[Video on YouTube](https://www.youtube.com/watch?v=dlsEprySOrg)
 * [David Hoover](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_inside_google.pdf) - Jenkins inside Google +[YoutuBe Link](https://www.youtube.com/watch?v=7ERV9C20GSE&feature=youtu.be)
+* [Garry Newman](https://garry.tv/2017/05/06/jenkinsfile/) - Garry explains how to write Jenkinsfiles
+* [Garry Newman](https://garry.tv/2017/05/14/jenkins-library/) - Garry explains how he's using Global Jenkins library
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -654,6 +656,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
 * [Angel 2D](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
+* [Plastic SCM](https://www.plasticscm.com/) - Distributed Version Control for big projects. Discovered via [Garry' blog](https://garry.tv/2017/04/29/jenkins/)
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
