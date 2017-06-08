@@ -294,6 +294,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cloudbees](https://www.cloudbees.com/blog/categories/Jenkins) - Jenkins articles on CloudBees site 
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
 * [Cloudbees](https://support.cloudbees.com/hc/en-us/articles/226122247-How-to-Customize-Checkout-for-Pipeline-Multibranch) - How to Customize Checkout for Pipeline Multibranch
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/jenkins-blueocean) - Q&A about Blue Ocean
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/jenkins-pipeline) - Q&A about Jenkins pipeline
 * [Joel Wilsson](https://wjoel.com/posts/ansible-jenkins-pipeline-part-1.html) - Creating Jenkins pipelines with Ansible, Part 1. See also [Part 2](https://wjoel.com/posts/ansible-jenkins-pipeline-part-2.html)
 * [Robert Sandell / James Nord](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-no_you_shouldnt_do_that_lessons_from_using_pipeline.pdf) - No, You Shouldn't Do That! Lessons from Using Pipeline
 * [Wilson Mar](https://wilsonmar.github.io/jenkins2-pipeline) - Jenkins2 Pipeline jobs using Groovy code in Jenkinsfile
@@ -301,7 +303,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins Docs](https://jenkins.io/doc/pipeline/steps/) - Pipeline Steps reference
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/jenkinsfile/) - Using a Jenkinsfile
 * [Jenkins Docs](https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/) - Pipeline Basic Steps
-* [Jenkins Docs](https://jenkins.io/doc/pipeline/examples/) - Pipeline Examples 
+* [Jenkins Docs](https://jenkins.io/doc/pipeline/examples/) - Pipeline Examples + [Code on GitHub](https://github.com/jenkinsci/pipeline-examples)
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/syntax/) - Pipeline syntax
 * [Jenkins Docs](https://jenkins.ci.cloudbees.com/job/core/job/acceptance-test-harness-stable/changes) - Latest builds of Jenkins acceptance-test-harness-stable. See also [The new Jenkins CI page](https://ci.jenkins.io/)
 * [Vyacheslav Voronenko](https://www.codementor.io/slavko/setup-configure-jenkins-recommended-plugins-du107z6nr) - Setup & Configure Jenkins for Your Team
