@@ -19,7 +19,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [OpenShift](#openshift)
   * [SecOps](#secops)
   * [Vault (by Hashicorp)](#vault-by-hashicorp)
-  * [VirtualBox](#vitualbox)
+  * [VirtualBox](#virtualbox)
 * [Finding events](#finding-events)
 * [Finding content](#finding-content)
 * [Free Online Tools](#free-online-tools)
