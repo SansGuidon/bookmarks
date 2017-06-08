@@ -54,6 +54,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Mobile Development](#mobile-development)
   * [Productivity](#productivity-1)
   * [Programmer Humor](#programmer-humor)
+  * [Python](#python)
   * [Ruby](#ruby)
 * [Podcasts](#podcasts)
 * [Psychology](#psychology)
@@ -643,6 +644,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GitHub](https://github.com/trending) - Explore trending projects in GitHub community
 * [GitHub](https://github.com/showcases) - Open source showcases, explore popular repositories
 * [Hugo Matilla](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
+* [Methods & Tools](http://www.methodsandtools.com/mt/download.php) - magazine about software development & testing with free content. See also [Partner websites](http://www.methodsandtools.com/network.php)
+* [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -753,6 +756,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Java
 * [Hugo Matilla](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
+* [Nick Parlante](http://codingbat.com/java) - CodingBat : practice your java skills
 
 ## JavaScript
 * [Ilse Garcia](https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - The JS Path: JavaScript Best Practices Pt. 1
@@ -801,6 +805,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MonkeyUser](http://www.monkeyuser.com/) - software development satire web comic
 * [The Coding Love](http://thecodinglove.com/) - the_coding_love(); /* epic gifs for developers */
 * [Scott Adams](http://dilbert.com/) - Dilbert comic : satiric humor about a micromanaged office featuring engineer Dilbert
+
+## Python
+* [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
