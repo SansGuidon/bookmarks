@@ -62,6 +62,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Testing](#testing)
 * [UX / UI](#ux--ui)
   * [Design Humor](#design-humor)
+* [Web Development](#web-development)
 * [Windows](#windows)
 
 # Anime
