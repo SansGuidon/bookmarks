@@ -33,11 +33,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Troubleshooting](#troubleshooting)
   * [Vim](#vim)
 * [Manga](#manga)
+* [Music](#music)
+* [News](#news)
 * [Operations / IT OPS](#operations--it-ops)
   * [Logging](#logging)
   * [Monitoring](#monitoring)
-* [Music](#music)
-* [News](#news)
 * [Photography](#photography)
 * [Privacy](#privacy)
 * [Productivity](#productivity)
@@ -552,6 +552,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Manga
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
 
+# Music 
+* [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
+* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
+* [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
+
 # News
 * [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 * [Wayne Larsen](https://hckrnews.com/) - HCKR News : unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
@@ -585,11 +590,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
 * [John Allspaw](http://www.kitchensoap.com/2007/09/26/the-term-monitoring-needs-clarification/) - The term “monitoring” needs clarification.
 * [John Allspaw](http://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/) - Owning Attention (Considerations for Alert Design)
-
-# Music 
-* [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
-* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
-* [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
