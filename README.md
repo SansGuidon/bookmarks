@@ -431,7 +431,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
 * [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
-* [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load testing service for you website or API
+* [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dillinger](http://dillinger.io/) - Online Markdown Editor
 * [Air Mail](http://en.getairmail.com/) - temporary email service
 * [StackEdit](https://stackedit.io/editor) - in-browser markdown editor
@@ -439,7 +439,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [WhatsMyIP](http://www.whatsmyip.org/random-password-generator/) - password generator & other text related tools (hash lookup, regex tester)
 * [YouTube to MP3 converter](http://www.youtube-mp3.org/) 
 * [Wayback Machine](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
-* [Socialtalents](http://loadme.socialtalents.com/) - Loadme performance testing - load testing service (No registration required, just links to your website or API)
 * [ChangeDetection](https://www.changedetection.com/) - Know automatically when any web page changes	
 * [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
@@ -904,6 +903,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016? 
 * [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
 * [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
+* [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
