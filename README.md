@@ -64,6 +64,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Security / Infosec](#security--infosec)
   * [GPG](#gpg)
   * [OpenSSL](#openssl)
+  * [Web](#web)
 * [Testing](#testing)
 * [UX / UI](#ux--ui)
   * [Design Humor](#design-humor)
@@ -882,13 +883,23 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
+* [Riseup!](https://riseup.net/fr/security/message-security/openpgp/gpg-keys) - [FR] Gestion des clés OpenPGP
 * [Riseup!](https://riseup.net/fr/security/message-security/openpgp/best-practices) - [FR] Bonnes pratiques pour l'utilisation d'OpenPGP
 * [Jacob Appelbaum](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) - Example of hardened GPG config file from duraconf
+* [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/) - GNU Privacy Guard Manual
+* [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). [Discovered from Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
+* [Nitin Venkatesh ](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - PGP and SSH keys - Generate, export, backup and restore
+* [GnuPG Docs](https://www.gnupg.org/gph/en/manual/book1.html) - (1999) The GNU Privacy Handbook
 
 ## OpenSSL 
 * [LZone](http://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
 * [Remy van Elst](https://raymii.org/s/tutorials/Encrypt_and_decrypt_files_to_public_keys_via_the_OpenSSL_Command_Line.html) - Encrypt and decrypt files to public keys via the OpenSSL Command Line
 * [Tom Dryer](http://tombuntu.com/index.php/2007/12/12/simple-file-encryption-with-openssl/) - Simple File Encryption with OpenSSL
+
+## Web 
+* [Raymond Hill](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
+* [Raymond Hill](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
+* [EFF](https://github.com/EFForg/privacybadger) - Privacy Badger - Block third party tracking in your browser
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
