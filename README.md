@@ -62,6 +62,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Scripting](#scripting)
   * [Shell Aliases](#shell-aliases)
 * [Security / Infosec](#security--infosec)
+  * [GPG](#gpg)
   * [OpenSSL](#openssl)
 * [Testing](#testing)
 * [UX / UI](#ux--ui)
@@ -877,6 +878,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - Basic Linux Privilege Escalation
 * [Unhide](http://www.unhide-forensics.info/) - open source forensic tool to find hidden processes
 * [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
+* [Jacob Appelbaum](https://github.com/ioerror/duraconf) - duraconf : A collection of hardened configuration files for SSL/TLS services
+
+## GPG
+* [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
+* [Riseup!](https://riseup.net/fr/security/message-security/openpgp/best-practices) - [FR] Bonnes pratiques pour l'utilisation d'OpenPGP
+* [Jacob Appelbaum](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) - Example of hardened GPG config file from duraconf
 
 ## OpenSSL 
 * [LZone](http://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
