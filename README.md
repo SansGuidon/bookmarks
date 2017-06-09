@@ -430,7 +430,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
-* [Dillinger] - Online Markdown Editor
+* [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
+* [Dillinger](http://dillinger.io/) - Online Markdown Editor
 * [Air Mail](http://en.getairmail.com/) - temporary email service
 * [StackEdit](https://stackedit.io/editor) - in-browser markdown editor
 * [XKPasswd](https://xkpasswd.net/s/) - secure memorable password generator inspired by [XKCD](http://xkcd.com/936/)
@@ -845,7 +846,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * [explainshell.com](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
-* [bats] - Bash Automated Testing System
+* [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3015657/linux/changing-how-bash-behaves.html) - Changing how bash behaves
 * [FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting) - Bash tips: Colors and formatting
 * [SS64.com](https://ss64.com/bash/) - An A-Z Index of the Bash command line for Linux.
@@ -898,6 +899,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Web Development
 * [Steve Francia](https://gohugo.io/overview/introduction/) - Hugo is a fast & modern static site generator
+* [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
+* [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016? 
+* [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
+* [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
