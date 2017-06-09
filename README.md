@@ -37,6 +37,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Logging](#logging)
   * [Monitoring](#monitoring)
 * [Music](#music)
+* [News](#news)
 * [Photography](#photography)
 * [Privacy](#privacy)
 * [Productivity](#productivity)
@@ -480,11 +481,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
 * [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
 
-# Information
-* [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
-* [Wayne Larsen](https://hckrnews.com/) - HCKR News : unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
-* [Y Combinator](https://news.ycombinator.com/show) - HN Show : where people share their work. Related : [Newest Show HN](https://news.ycombinator.com/shownew)
-
 # Linux / Unix
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
@@ -555,6 +551,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Manga
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
+
+# News
+* [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
+* [Wayne Larsen](https://hckrnews.com/) - HCKR News : unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
+* [Y Combinator](https://news.ycombinator.com/show) - HN Show : where people share their work. Related : [Newest Show HN](https://news.ycombinator.com/shownew)
 
 # Operations / IT OPS
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
