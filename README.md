@@ -431,6 +431,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
 * [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
+* [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load testing service for you website or API
 * [Dillinger](http://dillinger.io/) - Online Markdown Editor
 * [Air Mail](http://en.getairmail.com/) - temporary email service
 * [StackEdit](https://stackedit.io/editor) - in-browser markdown editor
