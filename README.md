@@ -434,6 +434,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dillinger](http://dillinger.io/) - Online Markdown Editor
 * [Air Mail](http://en.getairmail.com/) - temporary email service
+* [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
+* [Broken Link Checker](http://www.brokenlinkcheck.com/broken-links.php#status) - Online Dead Link Checking Tool
 * [StackEdit](https://stackedit.io/editor) - in-browser markdown editor
 * [XKPasswd](https://xkpasswd.net/s/) - secure memorable password generator inspired by [XKCD](http://xkcd.com/936/)
 * [WhatsMyIP](http://www.whatsmyip.org/random-password-generator/) - password generator & other text related tools (hash lookup, regex tester)
@@ -904,6 +906,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
 * [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
+* [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
+* [Broken Link Checker](http://www.brokenlinkcheck.com/broken-links.php#status) - Online Dead Link Checking Tool
+* [W3C](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
+* [W3C](https://w3c.github.io/developers/tools/) - Various website validation tools 
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
