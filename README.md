@@ -21,8 +21,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [SecOps](#secops)
   * [Vault (by Hashicorp)](#vault-by-hashicorp)
   * [VirtualBox](#virtualbox)
-* [Finding events](#finding-events)
 * [Finding content](#finding-content)
+* [Finding events](#finding-events)
 * [Free Online Tools](#free-online-tools)
 * [Gaming](#gaming)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
@@ -411,9 +411,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vault Docs](https://www.vaultproject.io/docs/concepts/tokens.html) - Tokens
 * [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
 
-# Finding events
-* [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
-
 # Finding content
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
 * [Library Genesis](http://libgen.io/) - ebooks and scientific articles
@@ -426,6 +423,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
 * [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. Bonus : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
 * [ThePirateBay Proxy List](https://thepiratebay-proxylist.org/)
+
+# Finding events
+* [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
 
 # Free Online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -480,6 +480,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
 * [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
 
+# Information
+* [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
+* [Wayne Larsen](https://hckrnews.com/) - HCKR News : unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
+* [Y Combinator](https://news.ycombinator.com/show) - HN Show : where people share their work. Related : [Newest Show HN](https://news.ycombinator.com/shownew)
 
 # Linux / Unix
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
