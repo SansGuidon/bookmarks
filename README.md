@@ -871,6 +871,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## OpenSSL 
 * [LZone](http://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
+* [Remy van Elst](https://raymii.org/s/tutorials/Encrypt_and_decrypt_files_to_public_keys_via_the_OpenSSL_Command_Line.html) - Encrypt and decrypt files to public keys via the OpenSSL Command Line
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
