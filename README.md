@@ -428,6 +428,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
 * [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. Bonus : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
 * [ThePirateBay Proxy List](https://thepiratebay-proxylist.org/)
+* [Torrent9](http://www.torrent9.info/) - [FR] Torrents
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
