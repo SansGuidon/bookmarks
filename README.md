@@ -105,6 +105,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - How to Work with Engineers : A Cheat Sheet for Designers
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - How to Work with Designers : A Cheat Sheet for Engineers and PMs
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - How to Work with PMs : A Cheat Sheet for Designers
+* [Raúl Ávila](https://dev.to/raulavila/my-experience-with-pair-programming) - My Experience with Pair Programming
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
