@@ -10,6 +10,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DevOps](#devops)
   * [Ansible](#ansible)
     * [Ansible Vault](#ansible-vault)
+  * [Bitbucket](#bitbucket)
   * [Consul (by Hashicorp)](#consul-by-hashicorp)
   * [Containers](#containers)
   * [Jenkins](#jenkins)
@@ -221,6 +222,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michel Blanc](https://leucos.github.io/articles/transparent-vault-revisited/) - Transparent encryption with ansible vault revisited
 * [Tristan Fisher](https://gist.github.com/tristanfisher/e5a306144a637dc739e7) - Working with ansible-vault : A short tutorial on how to use Vault in your Ansible workflow
 * [Chris Short](https://opensource.com/article/16/12/devops-security-ansible-vault) - Improve your DevOps security game with Ansible Vault
+
+## Bitbucket
+* [Atlassian docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
