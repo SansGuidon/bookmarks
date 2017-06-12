@@ -602,6 +602,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [LZone](http://lzone.de/cheat-sheet/IT-Ops) - IT Ops Cheat Sheet
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [Matthew Skelton](https://blog.softwareoperability.com/2013/04/08/lets-talk-about-operational-features-not-non-functional-requirements/) - Let’s Talk About Operational Features, not Non-Functional Requirements
+* [David Mytton](https://blog.serverdensity.com/how-and-why-we-use-devops-checklists/) - How and why we use DevOps checklists
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
@@ -612,6 +613,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
 * [John Allspaw](http://www.kitchensoap.com/2007/09/26/the-term-monitoring-needs-clarification/) - The term “monitoring” needs clarification.
 * [John Allspaw](http://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/) - Owning Attention (Considerations for Alert Design)
+* [Server Density](https://www.serverdensity.com/monitor/linux/how-to/) - 80 Linux Monitoring Tools
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -897,6 +899,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Unhide](http://www.unhide-forensics.info/) - open source forensic tool to find hidden processes
 * [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
 * [Jacob Appelbaum](https://github.com/ioerror/duraconf) - duraconf : A collection of hardened configuration files for SSL/TLS services
+* [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
+* [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -946,6 +950,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Broken Link Checker](http://www.brokenlinkcheck.com/broken-links.php#status) - Online Dead Link Checking Tool
 * [W3C](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
 * [W3C](https://w3c.github.io/developers/tools/) - Various website validation tools 
+* [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
