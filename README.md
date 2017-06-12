@@ -347,6 +347,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrew Bayer](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-introducing_a_new_way_to_define_jenkins_pipelines_1.pdf) - [PDF] Introducing a New Way to Define Jenkins Pipelines
 * [Jenkins CI](https://github.com/jenkinsci/jenkins-scripts/tree/master/scriptler) - [jenkinsci/jenkins-scripts] collection of utility scripts for use with Jenkins
 * [Jenkins CI](https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md) - collection of tips, advice, gotchas and other best practices for using Jenkins Pipeline
+* [fabric8](https://github.com/fabric8io/fabric8-jenkinsfile-library) - library of reusable Jenkinsfile, which make use of Fabric8 Pipeline library
+* [fabric8](https://github.com/fabric8io/fabric8-pipeline-library) - Source code of Fabric8 Pipeline library for Jenkins
+* [Jenkins Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/) - Extending with Shared Libraries 
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
