@@ -590,6 +590,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John Allspaw](http://www.kitchensoap.com/2007/10/11/knowing-when-you-can-fail-is-mandatory/) - Knowing when you can fail is mandatory.
 * [LZone](http://lzone.de/) - Various Cheat Sheets about sysadmin, development, it ops, services management and virtualization
 * [LZone](http://lzone.de/cheat-sheet/IT-Ops) - IT Ops Cheat Sheet
+* [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
