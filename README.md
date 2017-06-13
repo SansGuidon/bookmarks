@@ -680,6 +680,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
 * [Philip Stark](https://gist.github.com/hellerbarde/2843375) - Latency numbers every programmer should know
 * [Sonkeng Maldini](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites for programmers
+* [Vinh Quốc Nguyễn](https://betterdev.link/) - Better Dev Link collects links around the web that aims to help you learn something new
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -729,6 +730,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nicola Paolucci](http://durdn.com/blog/2012/12/05/git-12-curated-git-tips-and-workflows/) - Git: Twelve Curated Tips And Workflows From The Trenches
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
 * [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
+* [Harry Roberts](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
 * [Michael White](https://gist.github.com/mwhite/6887990) - The Ultimate Git Alias Setup
 * [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Aliases) - Collection of git aliases
 * [Nicola Paolucci](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/) - The power of Git subtree
@@ -773,6 +775,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrew Peterson](http://ndpsoftware.com/git-cheatsheet.html) - Interactive Git Cheatsheet with a weird UI
 * [Justin Hileman](http://justinhileman.info/article/git-pretty/git-pretty.png) - [Chart] git-pretty : Escape a Git mess, step by step
 * [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
+* [Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - Little Things I Like to Do with Git
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
