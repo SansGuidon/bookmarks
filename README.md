@@ -583,6 +583,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 * [Wayne Larsen](https://hckrnews.com/) - HCKR News : unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
 * [Y Combinator](https://news.ycombinator.com/show) - HN Show : where people share their work. Related : [Newest Show HN](https://news.ycombinator.com/shownew)
+* [Joshua Stein](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
+* [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 
 # Operations / IT OPS
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
