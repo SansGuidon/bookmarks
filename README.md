@@ -678,6 +678,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hugo Matilla](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
 * [Methods & Tools](http://www.methodsandtools.com/mt/download.php) - magazine about software development & testing with free content. See also [Partner websites](http://www.methodsandtools.com/network.php)
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
+* [Philip Stark](https://gist.github.com/hellerbarde/2843375) - Latency numbers every programmer should know
+* [Sonkeng Maldini](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites for programmers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -943,6 +945,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Web Development
 * [Steve Francia](https://gohugo.io/overview/introduction/) - Hugo is a fast & modern static site generator
+* [Amanda Visconti](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) - Building a static website with Jekyll and GitHub Pages
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
 * [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016? 
 * [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
