@@ -355,6 +355,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins CI](https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md) - collection of tips, advice, gotchas and other best practices for using Jenkins Pipeline
 * [fabric8](https://github.com/fabric8io/fabric8-jenkinsfile-library) - library of reusable Jenkinsfile, which make use of Fabric8 Pipeline library
 * [fabric8](https://github.com/fabric8io/fabric8-pipeline-library) - Source code of Fabric8 Pipeline library for Jenkins
+* [Terradatum](https://github.com/terradatum/jenkins-pipeline-library/tree/master/vars) - source code of Terradatum Pipeline library for Jenkins
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/) - Extending with Shared Libraries 
 
 ## Kubernetes
