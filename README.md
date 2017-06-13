@@ -839,6 +839,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MonkeyUser](http://www.monkeyuser.com/) - software development satire web comic
 * [The Coding Love](http://thecodinglove.com/) - the_coding_love(); /* epic gifs for developers */
 * [Scott Adams](http://dilbert.com/) - Dilbert comic : satiric humor about a micromanaged office featuring engineer Dilbert
+* [Devhumor](http://devhumor.com/) - humor for developers
+* [reddit](https://www.reddit.com/r/ProgrammerHumor/) - /r/ProgrammerHumor
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
