@@ -6,6 +6,7 @@
 * [Jon Prall](http://jprall.typepad.com/blog/2010/10/85-operational-rules.html) - (2007) 85 Operations Rules to Live By
 * Make decisions using the path of least regret
 * The simplest explanation is always the most likely.
+* [Christopher Diggins](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) - The Principles of Good Programming
 
 # from my Bullet Journal
 ## Values 
