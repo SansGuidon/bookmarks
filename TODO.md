@@ -11,3 +11,4 @@
 * [ ] Add links from social networks (fb, google+)
 * [ ] Add links from rememberthemilk
 * [ ] Add lists from my bullet journal (developer values ...)
+* [ ] Add some must-watch youtube videos / channels 
