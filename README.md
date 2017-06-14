@@ -795,6 +795,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christopher Diggins](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) - The Principles of Good Programming
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
+* [Andrew Yurisich](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
