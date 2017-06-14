@@ -528,6 +528,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cyanide & Happiness](http://explosm.net/comics/archive) - controversial, dark humorous & sometimes surrealistic comic strips
 * [Joan Cornellà](http://joyreactor.com/tag/Joan+Cornella) - unsettling, surreal humor and black humorous comic strips
 * [David Firth](https://www.youtube.com/watch?v=wpVTORX_ifk) - [Youtube] Salad Fingers is a psychological horror, dark humorous animation movie ranked among the top 10 culture phenomenon for 2005
+* [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -621,6 +622,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Y Combinator](https://news.ycombinator.com/show) - HN Show : where people share their work. Related : [Newest Show HN](https://news.ycombinator.com/shownew)
 * [Joshua Stein](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
+* [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
 
 # Operations / IT OPS
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
