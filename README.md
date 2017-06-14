@@ -508,6 +508,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrew Wulf](http://thecodist.com/article/why_i_don_39_t_do_unpaid_overtime_and_neither_should_you) - Why I Don't Do Unpaid Overtime and Neither Should You
 * [/r/lostgeneration](https://www.reddit.com/r/lostgeneration/) - Lost generation : discussions & posts about what this generation is supposed to do
 * [/r/BasicIncome](https://www.reddit.com/r/BasicIncome/) - community space for discussion and advocacy of Basic Income schemes
+* [/r/antiwork](https://www.reddit.com/r/antiwork/) - discussion and advocacy of a world without work
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -675,7 +676,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/encryption](https://www.reddit.com/r/encryption/) - everything about encryption on reddit
 * [/r/privacy](https://www.reddit.com/r/privacy/) - everything about privacy on reddit
 * [Fried](https://fried.com/privacy/) - introduction guide to online privacy. a bit outdated on some advices 
-* [Privacy tools](https://privacytoolsio.github.io/privacytools.io/) - knowledge & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
+* [Privacy tools](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
 * [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
@@ -683,6 +684,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Edward Dickson](https://github.com/Kickball/awesome-selfhosted) - [Kickball/awesome-selfhosted] : list of Free Software network services and web applications which can be hosted locally
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
+* [Tails](https://tails.boum.org/index.en.html) - Tails is a live system that aims to preserve your privacy and anonymity 
+* [ProtonMail](https://protonmail.com/) - an friendly secure email service with built-in e2e encryption and state of the art security features. Based in Switzerland
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
