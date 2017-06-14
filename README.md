@@ -358,6 +358,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Terradatum](https://github.com/terradatum/jenkins-pipeline-library/tree/master/vars) - source code of Terradatum Pipeline library for Jenkins
 * [Pedro Amador Rodríguez](https://github.com/pedroamador/jenkins-pipeline-library) - another Jenkins Pipeline Library
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/) - Extending with Shared Libraries 
+* [James Linder](https://medium.com/garbage-collection/jenkins-pipelines-what-i-wish-i-knew-starting-out-6e3d4eb2ff5b) - Jenkins Pipelines: What I Wish I Knew Starting Out
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
