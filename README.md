@@ -371,6 +371,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/) - Extending with Shared Libraries 
 * [James Linder](https://medium.com/garbage-collection/jenkins-pipelines-what-i-wish-i-knew-starting-out-6e3d4eb2ff5b) - Jenkins Pipelines: What I Wish I Knew Starting Out
 * [Liam Newman](https://jenkins.io/blog/2017/02/15/declarative-notifications/) - Declarative Pipeline: Notifications and Shared Libraries 
+* [OpenStack](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
+* [OpenStack](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
+* [jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -457,6 +460,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. Bonus : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
 * [ThePirateBay Proxy List](https://thepiratebay-proxylist.org/)
 * [Torrent9](http://www.torrent9.info/) - [FR] Torrent9 because T411 starts to suck
+* [NextWarez](http://nextwarez.com/torrent/actu-torrent/) - [FR] news and ranking about download sites and downloaded contents
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -731,6 +735,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
 * [SlideShare](https://www.slideshare.net/featured/category/software) - featured software related presentations on SlideShare
+* [DZone](https://dzone.com/) - programming & devops news
 * [/r/programming](https://www.reddit.com/r/programming/) - everything about programming on reddit
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
@@ -963,6 +968,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
+* [Python Software Foundation](https://www.python.org/dev/peps/pep-0008/) - PEP 8 : Style Guide for Python
+* [Valentin Bryukhanov](http://pep8online.com/) - PEP 8 code checker 
+* [OpenStack](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
+* [OpenStack](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
+* [jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
