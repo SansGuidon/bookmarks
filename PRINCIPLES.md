@@ -67,6 +67,7 @@
 * Achieve what you're doing before you move to something else
 * Life doesn't get easier you just get stronger
 * living isn't fucking easy but at least you can make your life more fun
+* when you pause what you're doing, you find more interesting ways to do it. So pause often
 
 ## Art of Questions
 * Just ask
