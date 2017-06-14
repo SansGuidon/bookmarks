@@ -64,6 +64,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Ruby](#ruby)
 * [Psychology](#psychology)
 * [Quotes](QUOTES.md)
+* [Robots](#robots)
 * [Scripting](#scripting)
   * [Shell Aliases](#shell-aliases)
 * [Security / Infosec](#security--infosec)
@@ -932,6 +933,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
+
+# Robots
+* [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
