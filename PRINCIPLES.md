@@ -62,6 +62,9 @@
 * Understand your goals and others' goals
 * Taking notes, writing things down is a way to free your mind and not forget or lose anything. It's also a way to train your senses of observation and reflection
 * Observe without judging, relate facts
+* Choose the right tool for the job
+* Don't multitask
+* Achieve what you're doing before you move to something else
 
 ## Art of Questions
 * Just ask
