@@ -28,6 +28,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gaming](#gaming)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
   * [Remote jobs](#remote-jobs)
+* [Hobbies](#hobbies)
 * [Humor](#humor)
 * [Images](#images)
 * [Linux / Unix](#linux--unix)
@@ -503,6 +504,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
 * [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
 
+# Hobbies
+* [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers 
+* [Untappd](https://untappd.com/) - drink socially, and rate your beers
+
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 
@@ -676,6 +681,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vikas Kumar Yadav](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
 * [Johnny Webber](http://unplugthetv.com/) - Unplug the tv : What should you watch if not the television ?
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
+* [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
+* [Bullet Journal](http://bulletjournal.com/) - a simple system to improve your productivity using only paper
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -723,6 +730,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vinh Quốc Nguyễn](https://betterdev.link/) - Better Dev Link collects links around the web that aims to help you learn something new
 * [Andrew Wulf](http://thecodist.com/article/the-biggest-difference-between-coding-today-and-when-i-started-in-the-80-s) - The Biggest Difference Between Coding Today and When I Started in the 80’s
 * [Andrew Wulf](http://thecodist.com/article/what_makes_a_programmer_good) - What Makes a Programmer Good?
+* [Stack Overflow](http://chat.stackoverflow.com/) - chat rooms on stack overflow
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -820,6 +828,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Justin Hileman](http://justinhileman.info/article/git-pretty/git-pretty.png) - [Chart] git-pretty : Escape a Git mess, step by step
 * [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
 * [Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - Little Things I Like to Do with Git
+* [Donne Martin](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -873,6 +882,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gregg Caines](http://caines.ca/blog/2015/06/14/were-in-the-stone-age-of-software-engineering-management/) - We're in the Stone Age of Software Engineering Management
 * [Gregg Caines](http://caines.ca/blog/2011/09/14/yoagile-the-good-parts/) - Agile: The Good Parts
 * [Evan Hahn](https://evanhahn.com/atom-apm-install-list/) - Install a list of Atom packages from a file
+* [Habitica](https://habitica.com/static/front) - improve your habits by making a game of your life 
 
 ## Programmer Humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -890,6 +900,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Devhumor](http://devhumor.com/) - humor for developers
 * [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - programmer humor on reddit
 * [Jose Aguinaga](https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6) - What if companies interviewed translators the way they interview coders?
+* [Luís Silva](https://github.com/LudeeD/IdleWork) - IdleWork : Useful scripts to make you look like you're working and also look awesome doing so.
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
@@ -1001,6 +1012,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joe Colantonio](https://www.joecolantonio.com/2017/03/02/automation-testing/) - Automation Testing Resources & Best Practices
 * [Gregg Caines](http://caines.ca/blog/2015/01/29/continuous-testing/) - Continuous Testing
 * [Andrew Wulf](http://thecodist.com/article/my_job_as_a_programmer_is_to_make_testers_miserable) - My Job As A Programmer Is To Make Testers Miserable
+* [Locust](http://locust.io/) - a modern open source load testing framework
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
