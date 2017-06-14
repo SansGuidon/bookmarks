@@ -486,6 +486,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Whois](https://www.whois.com/whois/) - Whois to get domain name info + identity
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
+* [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
+* [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
+* [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
+* [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1059,6 +1063,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - various awesome lists for hackers, pentesters and security researchers
 * [sbilly](https://github.com/sbilly/awesome-security) - awesome-security : resources and cools stuffs about security.
+* [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
+* [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
+* [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
+* [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -1078,6 +1086,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Remy van Elst](https://raymii.org/s/tutorials/Encrypt_and_decrypt_files_to_public_keys_via_the_OpenSSL_Command_Line.html) - Encrypt and decrypt files to public keys via the OpenSSL Command Line
 * [Tom Dryer](http://tombuntu.com/index.php/2007/12/12/simple-file-encryption-with-openssl/) - Simple File Encryption with OpenSSL
 * [Stack Overflow](https://stackoverflow.com/a/31552829/2309958) - File encryption with OpenSSL and Why you should use GPG instead 
+* [Chandan Kumar](https://geekflare.com/openssl-commands-certificates/) - 21 OpenSSL command examples
+* [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
+* [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
+* [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
 
 ## Web 
 * [Raymond Hill](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
@@ -1119,6 +1131,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [First Site Guide Blog](https://firstsiteguide.com/blog/) - articles, [infographics](https://firstsiteguide.com/category/infographics/), [cheatsheets](https://firstsiteguide.com/category/cheat-sheets/) about site/blog creation
 * [A List Apart](https://alistapart.com/) - explores the design, development, and meaning of web content, with a special focus on web standards and best practices. 
 * [r/webdev](https://www.reddit.com/r/webdev/) - web development resources & news
+* [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
+* [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
