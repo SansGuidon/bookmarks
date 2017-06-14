@@ -837,6 +837,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [Gregg Caines](http://caines.ca/blog/2015/06/14/were-in-the-stone-age-of-software-engineering-management/) - We're in the Stone Age of Software Engineering Management
 * [Gregg Caines](http://caines.ca/blog/2011/09/14/yoagile-the-good-parts/) - Agile: The Good Parts
+* [Evan Hahn](https://evanhahn.com/atom-apm-install-list/) - Install a list of Atom packages from a file
 
 ## Programmer Humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
