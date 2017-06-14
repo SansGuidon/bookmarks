@@ -507,6 +507,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [Andrew Wulf](http://thecodist.com/article/why_i_don_39_t_do_unpaid_overtime_and_neither_should_you) - Why I Don't Do Unpaid Overtime and Neither Should You
 * [/r/lostgeneration](https://www.reddit.com/r/lostgeneration/) - Lost generation : discussions & posts about what this generation is supposed to do
+* [/r/BasicIncome](https://www.reddit.com/r/BasicIncome/) - community space for discussion and advocacy of Basic Income schemes
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -523,12 +524,16 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
+* [/r/DiWHY](https://www.reddit.com/r/DiWHY/) - when DIY goes wrong
+* [/r/redneckengineering](https://www.reddit.com/r/redneckengineering/) - white trash repairs, and other workarounds that make you laugh
+* [/r/techsupportmacgyver](https://www.reddit.com/r/techsupportmacgyver/) - Macgyvered solutions to problems
 * [/r/totallynotrobots](https://www.reddit.com/r/totallynotrobots/) - a place where ~~robots~~ humans share their thoughts
 * [/r/funnycharts](https://www.reddit.com/r/funnycharts/) - funny charts
 * [Cyanide & Happiness](http://explosm.net/comics/archive) - controversial, dark humorous & sometimes surrealistic comic strips
 * [Joan Cornellà](http://joyreactor.com/tag/Joan+Cornella) - unsettling, surreal humor and black humorous comic strips
 * [David Firth](https://www.youtube.com/watch?v=wpVTORX_ifk) - [Youtube] Salad Fingers is a psychological horror, dark humorous animation movie ranked among the top 10 culture phenomenon for 2005
 * [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
+* [/r/WhereIsMyFlyingCar](https://www.reddit.com/r/WhereIsMyFlyingCar/) - a lot of predictions made about the future that have or have not come to pass.
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -948,6 +953,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/badcode](https://www.reddit.com/r/badcode/) - the most terrible code you can find
 * [/r/shittyprogramming](https://www.reddit.com/r/shittyprogramming/) - like stack overflow, but with trolls only 
 * [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
+* [/r/Sysadminhumor](https://www.reddit.com/r/Sysadminhumor/) - for sysadmins with a sense of humor
+* [/r/PBSOD](https://www.reddit.com/r/PBSOD/) - public BSODs, crashes, and other errors
+* [/r/techsupportgore](https://www.reddit.com/r/techsupportgore/) - tech support horrors
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
@@ -1073,6 +1081,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
+* [Little Big Details](http://littlebigdetails.com/) -  a curated collection of the finer details of design, updated every day. 
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
