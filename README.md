@@ -650,8 +650,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
 * [SlideShare](https://www.slideshare.net/featured/category/software) - featured software related presentations on SlideShare
-* [/r/programming](https://www.reddit.com/r/programming/) - reddit about programming
+* [reddit](https://www.reddit.com/r/programming/) - /r/programming on reddit
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
+* [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
+* [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
+* [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
 * [Hack Reactor](http://www.hackreactor.com/blog/infographic-laurie-voss-things-everyone-knows-except-you) - Infographic of productivity tips for developers, to share with your teammates 
 * [javarevisited](http://javarevisited.blogspot.be/2015/08/how-to-become-better-interviewer-programming.html) - 11 Tips to become a better Interviewer?
 * [10 C99 tricks](https://blog.noctua-software.com/c-tricks.html)
@@ -660,13 +663,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Corinna Baldauf](http://wall-skills.com/2016/agile-engineering-self-assessment/) - Agile Engineering Self Assessment
 * [Emiliano Soldi](https://www.linkedin.com/pulse/relentlessly-avoid-technical-debt-emiliano-soldi) - Relentlessly Avoid Technical Debt
 * [Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs) - [Video] The Silver Bullet Syndrome (Devoxx Brussels 2015)
-* [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
 * [Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) - How to Pick a Good Monitor for Software Development
 * [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know
 * [Engin Yöyen ](http://enginyoyen.com/improving-problem-solving-skills-for-developers/) - Improving problem-solving skills for developers
 * [James Hood](https://dev.to/jlhcoder/tips-for-new-software-developers) - Tips for New Software Developers
 * [Mo Bitar](https://journal.standardnotes.org/surviving-in-open-source-47792a7c59dc) - Surviving Open-Source
-* [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
 * [Ben Hilburn](https://dev.to/bhilburn/on-senior-engineers) - On Senior Engineers
 * [John Allspaw](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - On Being A Senior Engineer
 * [Gregg Caines](http://caines.ca/blog/2017/06/04/so-you-want-to-be-a-more-senior-engineer/) - So You Want to Be a More Senior Engineer?
@@ -680,6 +681,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hugo Matilla](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
 * [Methods & Tools](http://www.methodsandtools.com/mt/download.php) - magazine about software development & testing with free content. See also [Partner websites](http://www.methodsandtools.com/network.php)
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
+* [Nick Parlante](http://codingbat.com) - CodingBat : practice your programming skills (exercices in java and python)
+* [Programming Praxis](https://programmingpraxis.com/) - A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer
+* [Hacker Rank](https://www.hackerrank.com/dashboard) - coding challenges (to make yourself ready for coding interviews
+* [reddit](https://www.reddit.com/r/dailyprogrammer/) - /r/dailyprogrammer : programming challenges on reddit
 * [Philip Stark](https://gist.github.com/hellerbarde/2843375) - Latency numbers every programmer should know
 * [Sonkeng Maldini](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites for programmers
 * [Vinh Quốc Nguyễn](https://betterdev.link/) - Better Dev Link collects links around the web that aims to help you learn something new
@@ -712,6 +717,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Angel 2D](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 * [Plastic SCM](https://www.plasticscm.com/) - Distributed Version Control for big projects. Discovered via [Garry' blog](https://garry.tv/2017/04/29/jenkins/)
+* [reddit](https://www.reddit.com/r/gamedev/) - /r/gamedev on reddit
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
@@ -860,6 +866,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
 
 # Scripting
+* [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
+* [Hacker Rank](https://www.hackerrank.com/domains/shell) - Linux Shell challenges  
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
 * [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make
 * [ShellCheck](https://www.shellcheck.net/) - finds bugs in your shell scripts.
@@ -912,6 +920,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jacob Appelbaum](https://github.com/ioerror/duraconf) - duraconf : A collection of hardened configuration files for SSL/TLS services
 * [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
 * [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
+* [reddit](https://www.reddit.com/r/netsec/) - network security on reddit
+* [reddit](https://www.reddit.com/r/blackhat/) - hackers on steroid
+* [reddit](https://www.reddit.com/r/crypto/) - cryptography news and discussions
+* [reddit](https://www.reddit.com/r/codes/) - Hiding data, cracking codes, finding hidden messages
+* [reddit](https://www.reddit.com/r/security/) - security news on reddit
+* [reddit](https://www.reddit.com/r/opsec/) - opsec, to learn about proper habits and policies for minimizing attack surfaces and SPOF
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -963,6 +977,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [W3C](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
 * [W3C](https://w3c.github.io/developers/tools/) - Various website validation tools 
 * [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
+* [First Site Guide Blog](https://firstsiteguide.com/blog/) - articles, [infographics](https://firstsiteguide.com/category/infographics/), [cheatsheets](https://firstsiteguide.com/category/cheat-sheets/) about site/blog creation
+* [A List Apart](https://alistapart.com/) - explores the design, development, and meaning of web content, with a special focus on web standards and best practices. 
+* [reddit](https://www.reddit.com/r/webdev/) - /r/webdev on reddit
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
