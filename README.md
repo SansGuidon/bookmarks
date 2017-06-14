@@ -7,6 +7,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Collaboration & Problem solving](#collaboration--problem-solving)
 * [Creativity](#creativity)
 * [Culture](#culture)
+* [Data](#data)
 * [DevOps](#devops)
   * [Ansible](#ansible)
     * [Ansible Vault](#ansible-vault)
@@ -119,6 +120,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
+
+# Data
+* [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
+* [/r/Infographics](https://www.reddit.com/r/Infographics/) - all the latest infographics
+* [/r/funnycharts](https://www.reddit.com/r/funnycharts/) - funny charts
 
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -500,6 +506,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jason Fried](https://m.signalvnoise.com/being-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e) - Being tired isn’t a badge of honor
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [Andrew Wulf](http://thecodist.com/article/why_i_don_39_t_do_unpaid_overtime_and_neither_should_you) - Why I Don't Do Unpaid Overtime and Neither Should You
+* [/r/lostgeneration](https://www.reddit.com/r/lostgeneration/) - Lost generation : discussions & posts about what this generation is supposed to do
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -516,6 +523,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
+* [/r/totallynotrobots](https://www.reddit.com/r/totallynotrobots/) - a place where ~~robots~~ humans share their thoughts
+* [/r/funnycharts](https://www.reddit.com/r/funnycharts/) - funny charts
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -701,6 +710,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Leo Babauta](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
+* [Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown Cheatsheet
+* [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
+* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -743,12 +755,16 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Programming Praxis](https://programmingpraxis.com/) - A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer
 * [Hacker Rank](https://www.hackerrank.com/dashboard) - coding challenges (to make yourself ready for coding interviews
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - programming challenges on reddit
+* [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * [Philip Stark](https://gist.github.com/hellerbarde/2843375) - Latency numbers every programmer should know
 * [Sonkeng Maldini](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites for programmers
 * [Vinh Quốc Nguyễn](https://betterdev.link/) - Better Dev Link collects links around the web that aims to help you learn something new
 * [Andrew Wulf](http://thecodist.com/article/the-biggest-difference-between-coding-today-and-when-i-started-in-the-80-s) - The Biggest Difference Between Coding Today and When I Started in the 80’s
 * [Andrew Wulf](http://thecodist.com/article/what_makes_a_programmer_good) - What Makes a Programmer Good?
 * [Stack Overflow](http://chat.stackoverflow.com/) - chat rooms on stack overflow
+* [RankRed](http://www.rankred.com/nasa-coding-rules/) - NASA’s 10 Coding Rules for Writing Safety Critical Program
+* [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
+* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -767,6 +783,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jose Angel Barroso](https://github.com/jbarroso/clean-code) - Notes on the book Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
 * [Christopher Diggins](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) - The Principles of Good Programming
+* [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
+* [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -903,6 +921,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Habitica](https://habitica.com/static/front) - improve your habits by making a game of your life 
 * [jamb0ss](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
+* [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 
 ## Programmer Humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -921,6 +940,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - programmer humor on reddit
 * [Jose Aguinaga](https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6) - What if companies interviewed translators the way they interview coders?
 * [Luís Silva](https://github.com/LudeeD/IdleWork) - IdleWork : Useful scripts to make you look like you're working and also look awesome doing so.
+* [/r/badcode](https://www.reddit.com/r/badcode/) - the most terrible code you can find
+* [/r/shittyprogramming](https://www.reddit.com/r/shittyprogramming/) - like stack overflow, but with trolls only 
+* [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
@@ -936,6 +958,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
+* [/r/Automate](https://www.reddit.com/r/Automate/) - automation & robots discussion on reddit
+* [/r/totallynotrobots](https://www.reddit.com/r/totallynotrobots/) - a place where ~~robots~~ humans share their thoughts (humor)
+* [/r/RobotNews](https://www.reddit.com/r/RobotNews/) - discussions and news about robotisation of society
+* [/r/shittyrobots](https://www.reddit.com/r/shittyrobots/) - useless, stupid, shitty funny robots
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -971,6 +997,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [LZone](http://lzone.de/cheat-sheet/Bash) - Bash Cheat Sheet
 * [LZone](http://lzone.de/cheat-sheet/Bash%20Regex) - Bash Regex Cheat Sheet
 * [nixCraft](https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html) - zcommands: Read gzip Compressed Text Files On a Fly
+* [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
