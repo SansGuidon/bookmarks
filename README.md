@@ -28,6 +28,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gaming](#gaming)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
   * [Remote jobs](#remote-jobs)
+* [Humor](#humor)
 * [Images](#images)
 * [Linux / Unix](#linux--unix)
   * [Linux for fun](#linux-for-fun)
@@ -123,7 +124,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
 * [CloudBees](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
 * [DZone](https://dzone.com/devops-tutorials-tools-news) - DZone Devops
-* [reddit](https://www.reddit.com/r/devops/) - Everything Devops on reddit
+* [/r/devops](https://www.reddit.com/r/devops/) - Everything Devops on reddit
 * [Netflix](https://medium.com/@NetflixTechBlog) - NetFlix Technology Blog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
 * [Stack Exchange](https://devops.stackexchange.com/) - DevOps questions & answers
@@ -163,6 +164,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
 * [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
+* [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
+* [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -500,6 +503,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
 * [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
 
+# Humor
+* [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
+
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
@@ -509,7 +515,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Linux / Unix
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
-* [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
+* [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
+* [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
 * [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary 
 * [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2696541/operating-systems/unix--knowing-your-memory-commands.html) - Unix: Knowing your memory commands
@@ -610,6 +617,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [Matthew Skelton](https://blog.softwareoperability.com/2013/04/08/lets-talk-about-operational-features-not-non-functional-requirements/) - Let’s Talk About Operational Features, not Non-Functional Requirements
 * [David Mytton](https://blog.serverdensity.com/how-and-why-we-use-devops-checklists/) - How and why we use DevOps checklists
+* [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
+* [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
@@ -630,6 +639,15 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Privacy
 * [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
 * [Walker Harrison](https://dev.to/walker/the-search-for-self-how-to-obtain-and-analyze-your-history-of-google-searches) - The Search for Self: How to obtain and analyze your history of Google searches
+* [/r/encryption](https://www.reddit.com/r/encryption/) - everything about encryption on reddit
+* [/r/privacy](https://www.reddit.com/r/privacy/) - everything about privacy on reddit
+* [Fried](https://fried.com/privacy/) - introduction guide to online privacy. a bit outdated on some advices 
+* [Privacy tools](https://privacytoolsio.github.io/privacytools.io/) - knowledge & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
+* [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
+* [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
+* [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
+* [r/selfhosted/](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
+* [Edward Dickson](https://github.com/Kickball/awesome-selfhosted) - [Kickball/awesome-selfhosted] : list of Free Software network services and web applications which can be hosted locally
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
@@ -649,12 +667,21 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
 * [SlideShare](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement related presentations
 * [pluralsight](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
+* [Jean-Yves Guyomarc'h](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
+* [MindTools](https://www.mindtools.com/pages/article/newHTE_96.htm) - tips for Overcoming Procrastination
+* [Google](http://www.powersearchingwithgoogle.com/) - Power searching with google
+* [How To Do Things](http://www.howtodothings.com/) - How to do things / Various how-to guides and tips for noobs
+* [HowStuffWorks](http://www.howstuffworks.com/) - easy-to-understand answers and explanations of how the world actually works
+* [Instructables](http://www.instructables.com/) - How to make anything
+* [Vikas Kumar Yadav](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
+* [Johnny Webber](http://unplugthetv.com/) - Unplug the tv : What should you watch if not the television ?
+* [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
 * [SlideShare](https://www.slideshare.net/featured/category/software) - featured software related presentations on SlideShare
-* [reddit](https://www.reddit.com/r/programming/) - /r/programming on reddit
+* [/r/programming](https://www.reddit.com/r/programming/) - everything about programming on reddit
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -690,7 +717,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nick Parlante](http://codingbat.com) - CodingBat : practice your programming skills (exercices in java and python)
 * [Programming Praxis](https://programmingpraxis.com/) - A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer
 * [Hacker Rank](https://www.hackerrank.com/dashboard) - coding challenges (to make yourself ready for coding interviews
-* [reddit](https://www.reddit.com/r/dailyprogrammer/) - /r/dailyprogrammer : programming challenges on reddit
+* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - programming challenges on reddit
 * [Philip Stark](https://gist.github.com/hellerbarde/2843375) - Latency numbers every programmer should know
 * [Sonkeng Maldini](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites for programmers
 * [Vinh Quốc Nguyễn](https://betterdev.link/) - Better Dev Link collects links around the web that aims to help you learn something new
@@ -726,7 +753,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Angel 2D](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 * [Plastic SCM](https://www.plasticscm.com/) - Distributed Version Control for big projects. Discovered via [Garry' blog](https://garry.tv/2017/04/29/jenkins/)
-* [reddit](https://www.reddit.com/r/gamedev/) - /r/gamedev on reddit
+* [/r/gamedev](https://www.reddit.com/r/gamedev/) - everything about game development on reddit
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
@@ -861,7 +888,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Coding Love](http://thecodinglove.com/) - the_coding_love(); /* epic gifs for developers */
 * [Scott Adams](http://dilbert.com/) - Dilbert comic : satiric humor about a micromanaged office featuring engineer Dilbert
 * [Devhumor](http://devhumor.com/) - humor for developers
-* [reddit](https://www.reddit.com/r/ProgrammerHumor/) - /r/ProgrammerHumor
+* [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - programmer humor on reddit
 * [Jose Aguinaga](https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6) - What if companies interviewed translators the way they interview coders?
 
 ## Python
@@ -931,12 +958,17 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jacob Appelbaum](https://github.com/ioerror/duraconf) - duraconf : A collection of hardened configuration files for SSL/TLS services
 * [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
 * [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
-* [reddit](https://www.reddit.com/r/netsec/) - network security on reddit
-* [reddit](https://www.reddit.com/r/blackhat/) - hackers on steroid
-* [reddit](https://www.reddit.com/r/crypto/) - cryptography news and discussions
-* [reddit](https://www.reddit.com/r/codes/) - Hiding data, cracking codes, finding hidden messages
-* [reddit](https://www.reddit.com/r/security/) - security news on reddit
-* [reddit](https://www.reddit.com/r/opsec/) - opsec, to learn about proper habits and policies for minimizing attack surfaces and SPOF
+* [/r/netsec](https://www.reddit.com/r/netsec/) - network security on reddit
+* [/r/blackhat](https://www.reddit.com/r/blackhat/) - hackers on steroid
+* [/r/crypto](https://www.reddit.com/r/crypto/) - cryptography news and discussions
+* [/r/codes](https://www.reddit.com/r/codes/) - Hiding data, cracking codes, finding hidden messages
+* [/r/security](https://www.reddit.com/r/security/) - security news on reddit
+* [/r/opsec](https://www.reddit.com/r/opsec/) - opsec, to learn about proper habits and policies for minimizing attack surfaces and SPOF
+* [/r/OperationsSecurity](https://www.reddit.com/r/OperationsSecurity/) - Operations security news, resources, questions & discussions
+* [/r/websec](https://www.reddit.com/r/websec/) - Web security
+* [/r/compsec](https://www.reddit.com/r/compsec/) - computer security
+* [/r/NSALeaks](https://www.reddit.com/r/NSALeaks/) - everything about NSA leaks, news from Edward Snowden or governmental abuses
+* [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -947,6 +979,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). [Discovered from Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
 * [Nitin Venkatesh ](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - PGP and SSH keys - Generate, export, backup and restore
 * [GnuPG Docs](https://www.gnupg.org/gph/en/manual/book1.html) - (1999) The GNU Privacy Handbook
+* [/r/GnuPG](https://www.reddit.com/r/GnuPG/) - resources on everything about GnuPG, PGP, OpenPGP 
+* [/r/pgp](https://www.reddit.com/r/pgp/) - everything about PGP 
+* [/r/GPGpractice](https://www.reddit.com/r/GPGpractice/) - community of people learning GPG (Gnu Privacy Guard). 
 
 ## OpenSSL 
 * [LZone](http://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
@@ -991,7 +1026,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
 * [First Site Guide Blog](https://firstsiteguide.com/blog/) - articles, [infographics](https://firstsiteguide.com/category/infographics/), [cheatsheets](https://firstsiteguide.com/category/cheat-sheets/) about site/blog creation
 * [A List Apart](https://alistapart.com/) - explores the design, development, and meaning of web content, with a special focus on web standards and best practices. 
-* [reddit](https://www.reddit.com/r/webdev/) - /r/webdev on reddit
+* [r/webdev](https://www.reddit.com/r/webdev/) - web development resources & news
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
