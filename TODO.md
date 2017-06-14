@@ -10,3 +10,4 @@
 * [ ] Add links from inbox (gmail)
 * [ ] Add links from social networks (fb, google+)
 * [ ] Add links from rememberthemilk
+* [ ] Add lists from my bullet journal (developer values ...)
