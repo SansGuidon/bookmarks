@@ -525,6 +525,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 * [/r/totallynotrobots](https://www.reddit.com/r/totallynotrobots/) - a place where ~~robots~~ humans share their thoughts
 * [/r/funnycharts](https://www.reddit.com/r/funnycharts/) - funny charts
+* [Cyanide & Happiness](http://explosm.net/comics/archive) - controversial, dark humorous & sometimes surrealistic comic strips
+* [Joan Cornellà](http://joyreactor.com/tag/Joan+Cornella) - unsettling, surreal humor and black humorous comic strips
+* [David Firth](https://www.youtube.com/watch?v=wpVTORX_ifk) - [Youtube] Salad Fingers is a psychological horror, dark humorous animation movie ranked among the top 10 culture phenomenon for 2005
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
