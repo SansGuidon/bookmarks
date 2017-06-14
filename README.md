@@ -445,9 +445,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
+* [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
+* [Alexander Bayandin](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. Bonus : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
 * [ThePirateBay Proxy List](https://thepiratebay-proxylist.org/)
-* [Torrent9](http://www.torrent9.info/) - [FR] Torrents
+* [Torrent9](http://www.torrent9.info/) - [FR] Torrent9 because T411 starts to suck
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -471,6 +473,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
 * [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
 * [Whois](https://www.whois.com/whois/) - Whois to get domain name info + identity
+* [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
+* [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -507,6 +511,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Hobbies
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers 
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers
+* [Harkirat Singh](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
@@ -562,7 +567,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 * [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
 * [Netflix](https://medium.com/netflix-techblog/netflix-at-velocity-2015-linux-performance-tools-51964ddb81cf) - Netflix at Velocity 2015: Linux Performance Tools (+[Slides](https://www.slideshare.net/brendangregg/velocity-2015-linux-perf-tools))
-
+* [Aleksandar Todorović](https://github.com/aleksandar-todorovic/awesome-linux) - list of awesome resources that make Linux awesome
+ 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
 * [Silver Moon](http://www.binarytides.com/linux-fun-commands/) - 20 amusing Linux commands to have fun with the terminal
@@ -593,6 +599,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
 * [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
+* [jamb0ss](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
+* [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 
 # News
 * [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
@@ -653,6 +661,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
 * [r/selfhosted/](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
 * [Edward Dickson](https://github.com/Kickball/awesome-selfhosted) - [Kickball/awesome-selfhosted] : list of Free Software network services and web applications which can be hosted locally
+* [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
+* [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
 
 # Productivity
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
@@ -683,6 +693,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
 * [Bullet Journal](http://bulletjournal.com/) - a simple system to improve your productivity using only paper
+* [Chris Barber](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+* [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
+* [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
+* [Alexander Bayandin](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+* [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
+* [Leo Babauta](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
+* [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -883,6 +900,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gregg Caines](http://caines.ca/blog/2011/09/14/yoagile-the-good-parts/) - Agile: The Good Parts
 * [Evan Hahn](https://evanhahn.com/atom-apm-install-list/) - Install a list of Atom packages from a file
 * [Habitica](https://habitica.com/static/front) - improve your habits by making a game of your life 
+* [jamb0ss](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
+* [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 
 ## Programmer Humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -980,6 +999,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/compsec](https://www.reddit.com/r/compsec/) - computer security
 * [/r/NSALeaks](https://www.reddit.com/r/NSALeaks/) - everything about NSA leaks, news from Edward Snowden or governmental abuses
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - various awesome lists for hackers, pentesters and security researchers
+* [sbilly](https://github.com/sbilly/awesome-security) - awesome-security : resources and cools stuffs about security.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -1047,6 +1068,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Korben](https://korben.info/univers/windows) - [FR] Windows tips & tools
 * [Nir Sofer](http://www.nirsoft.net/utils/) - Nirsoft : lot of free tools & utilities for windows, free of malwares and developed over decades by Nir Sofer, who's not stopping [More info about that](http://www.nirsoft.net/about_nirsoft_freeware.html)
 * [Puppet Blog](https://puppet.com/blog-tags/chocolatey) - Posts about Chocolatey
+* [Rahul Kapoor](https://github.com/Awesome-Windows/Awesome) - curated list of best applications and tools for Windows.
+* [Rahul Kapoor](https://github.com/Awesome-Windows/awesome-windows-command-line) - cool stuffs you can do with windows terminal
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
