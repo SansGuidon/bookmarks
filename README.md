@@ -691,7 +691,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
-* [r/selfhosted/](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
+* [/r/selfhosted/](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
 * [Edward Dickson](https://github.com/Kickball/awesome-selfhosted) - [Kickball/awesome-selfhosted] : list of Free Software network services and web applications which can be hosted locally
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
