@@ -40,6 +40,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Music](#music)
 * [News](#news)
 * [Operations / IT OPS](#operations--it-ops)
+  * [Apache](#apache)
   * [Logging](#logging)
   * [Monitoring](#monitoring)
 * [Photography](#photography)
@@ -501,6 +502,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
 * [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
 * [Rebex](https://sshcheck.com/) - SSL Check : checks the configuration of given server accessible over internet
+* [Rex Swain](http://www.rexswain.com/httpview.html) - HTTP Viewer : See exactly what an HTTP request returns to your browser
+* [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
+* [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -510,6 +514,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Illuminion](http://if.illuminion.de/infocom.html) - Classic text adventures masterpieces, to play with DOS or the Frotz-Z machine
 * [Hacknet](http://www.hacknet-os.com/) - a hacking game simulator (not free), potentially boring (move to hackmud)
 * [h a c k m u d](https://www.hackmud.com/) - hackmud, a hacking game simulator (not free) with programming challenges
+* [PortForward](https://portforward.com/ports.htm) - Port Forwarding Ports List
 
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
@@ -684,11 +689,22 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
 
+## Apache 
+* [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
+* [Duncan Crombie](http://www.the-art-of-web.com/system/apache-reverse-proxy/) - New Apache instance with Reverse Proxy
+* [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
+* [DigiCert](https://www.digicert.com/ssl-support/apache-multiple-ssl-certificates-using-sni.htm) - Using Multiple SSL Certificates in Apache with One IP Address
+* [SSL Shopper](https://www.sslshopper.com/apache-server-ssl-installation-instructions.html) - Apache SSL Installation Instructions
+* [SSL Shopper](https://www.sslshopper.com/apache-redirect-http-to-https.html) - Apache Redirect HTTP to HTTPS using mod_rewrite
+* [Apache Docs](https://httpd.apache.org/docs/2.4/en/rewrite/remapping.html) - Redirecting and Remapping with mod_rewrite
+* [Apache Docs](https://httpd.apache.org/docs/2.4/en/vhosts/examples.html) - VirtualHost usage examples
+
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
 * [LZone](http://lzone.de/cheat-sheet/Splunk) - Splunk Cheat Sheet
 * [CloudBees](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_at_splunk.pdf) - Jenkins at Splunk and Splunking Jenkins +[Video on YouTube](https://www.youtube.com/watch?v=dlsEprySOrg)
 * [Eugen Paraschiv](https://stackify.com/9-logging-sins-java/) - 9 Logging Sins in Your Java Applications
+* [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
@@ -769,6 +785,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move 
 * [Fost Plus](https://www.fostplus.be/en/all-about-sorting/sort-your-packaging) - Together good sorting, better recycling : Enter your packaging below and find out whether it belongs to. [French version](https://www.fostplus.be/fr/trier-recycler/tout-sur-le-tri/triez-votre-emballage)
 * [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the Hacker News community's favorite content
+* [PortForward](http://screenshots.portforward.com/) - Router Screenshots Listed by Manufacturer
+* [IANA](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) - Service Name and Transport Protocol Port Number Registry
+* [IANA](https://www.iana.org/domains/root/db) - Root Zone Database
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -851,14 +870,19 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
 
 ## Gamedev
+> News & Communities
+* [GameDev](https://www.gamedev.net/) - game development articles
+* [Stack Exchange](https://gamedev.stackexchange.com/) - Q&A & discussions about Game development 
+* [/r/gamedev](https://www.reddit.com/r/gamedev/) - everything about game development on reddit
+* [Indiedevhour on Slack](https://slack.pirrate.me/) - Community of Indie game developers and hobbyists
+* [Indie Game Developers on Slack](https://indie-game-devs-slack.herokuapp.com/) - Independent game developers group
+* [Gamasutra](http://www.gamasutra.com/) - articles about art and business of making games
+> Tools
 * [libgdx](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
 * [Pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
 * [Angel 2D](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 * [Plastic SCM](https://www.plasticscm.com/) - Distributed Version Control for big projects. Discovered via [Garry' blog](https://garry.tv/2017/04/29/jenkins/)
-* [/r/gamedev](https://www.reddit.com/r/gamedev/) - everything about game development on reddit
-* [Indiedevhour on Slack](https://slack.pirrate.me/) - Community of Indie game developers and hobbyists
-* [Indie Game Developers on Slack](https://indie-game-devs-slack.herokuapp.com/) - Independent game developers group
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
@@ -1119,6 +1143,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Offensive Security](https://www.exploit-db.com/browse/) - exploits database
 * [berzerk0 (Ben)](https://github.com/berzerk0/Probable-Wordlists) - 5+ Billion Passwords in Order of Most Popular... is yours in the list ?
 * [sgoedecke](https://sgoedecke.github.io/blockchain-for-beginners/) - A dead simple introduction to the blockchain (with ~90 line JavaScript demo)
+* [SSL247](https://www.ssl247.fr/kb/ssl-certificates/generalinformation/what-is-rsa-dsa-ecc) - What is RSA, DSA and ECC?
+* [James McGivern](https://fr.slideshare.net/JamesMcGivern/ecc-vs-rsa-battle-of-the-cryptoninjas) - (Devoxx UK 2014) [Slides] ECC vs RSA: Battle of the Crypto-Ninjas
+* [PortForward](https://portforward.com/router-password/) - The most comprehensive default router password list on the Internet.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -1153,6 +1180,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brusten Philip & Van der Velpen Jan](https://shib.kuleuven.be/docs/ssl_commands.shtml) - a few frequently used SSL commands (openssl, keytool, certutil)
 * [CheapSSLSecurity ](https://cheapsslsecurity.com/blog/various-types-ssl-commands-keytool/) - SSL commands list
 * [DigiCert](https://www.digicert.com/ssl-support/pem-ssl-creation.htm) - .pem SSL creation instructions
+* [Arun GP](https://myonlineusb.wordpress.com/2011/06/19/what-are-the-differences-between-pem-der-p7bpkcs7-pfxpkcs12-certificates/) - differences between PEM, DER, P7B/PKCS#7, PFX/PKCS#12 certificates
+* [SSL Shopper](https://www.sslshopper.com/special-ssl-certificate-types.html) - Special Types of SSL Certificates
+* [DigiCert](https://www.digicert.com/ssl-support/apache-multiple-ssl-certificates-using-sni.htm) - Using Multiple SSL Certificates in Apache with One IP Address
 
 ## Web 
 * [Raymond Hill](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
@@ -1196,6 +1226,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [r/webdev](https://www.reddit.com/r/webdev/) - web development resources & news
 * [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
 * [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
+* [Rex Swain](http://www.rexswain.com/httpview.html) - HTTP Viewer : See exactly what an HTTP request returns to your browser
+* [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
+* [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
