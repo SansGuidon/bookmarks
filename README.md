@@ -791,6 +791,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [RankRed](http://www.rankred.com/nasa-coding-rules/) - NASA’s 10 Coding Rules for Writing Safety Critical Program
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
+* [DemandRush](https://www.demandrush.com/) - Get paid to build your next side project
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
