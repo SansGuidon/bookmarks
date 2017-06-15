@@ -530,6 +530,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/lostgeneration](https://www.reddit.com/r/lostgeneration/) - Lost generation : discussions & posts about what this generation is supposed to do
 * [/r/BasicIncome](https://www.reddit.com/r/BasicIncome/) - community space for discussion and advocacy of Basic Income schemes
 * [/r/antiwork](https://www.reddit.com/r/antiwork/) - discussion and advocacy of a world without work
+* [PartTimer](https://parttimer.io/) - a job board for skilled work under 40 HRS/week
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -653,6 +654,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 * [Wayne Larsen](https://hckrnews.com/) - HCKR News : unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
 * [Y Combinator](https://news.ycombinator.com/show) - HN Show : where people share their work. Related : [Newest Show HN](https://news.ycombinator.com/shownew)
+* [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the community's favorite content
 * [Joshua Stein](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 * [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
@@ -766,6 +768,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Productivity Hackers on Slack](https://ipoli.typeform.com/to/P7pAqM) - Place to learn how to improve personal productivity
 * [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move 
 * [Fost Plus](https://www.fostplus.be/en/all-about-sorting/sort-your-packaging) - Together good sorting, better recycling : Enter your packaging below and find out whether it belongs to. [French version](https://www.fostplus.be/fr/trier-recycler/tout-sur-le-tri/triez-votre-emballage)
+* [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the Hacker News community's favorite content
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -923,6 +926,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
 * [Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - Little Things I Like to Do with Git
 * [Donne Martin](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
+* [Alain Gilbert](https://github.com/alaingilbert/git2graph) - git2graph : Generate a git graph structure from linear git history
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1113,6 +1117,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Offensive Security](https://www.exploit-db.com/google-hacking-database/) - Google Hacking Database (GHDB) Your Home for "googledorks"
 * [Offensive Security](https://www.exploit-db.com/shellcode/) - Archived Shellcode for various Operating Systems and Architectures
 * [Offensive Security](https://www.exploit-db.com/browse/) - exploits database
+* [berzerk0 (Ben)](https://github.com/berzerk0/Probable-Wordlists) - 5+ Billion Passwords in Order of Most Popular... is yours in the list ?
+* [sgoedecke](https://sgoedecke.github.io/blockchain-for-beginners/) - A dead simple introduction to the blockchain (with ~90 line JavaScript demo)
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
