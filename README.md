@@ -841,6 +841,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 * [Plastic SCM](https://www.plasticscm.com/) - Distributed Version Control for big projects. Discovered via [Garry' blog](https://garry.tv/2017/04/29/jenkins/)
 * [/r/gamedev](https://www.reddit.com/r/gamedev/) - everything about game development on reddit
+* [Indiedevhour on Slack](https://slack.pirrate.me/) - Community of Indie game developers and hobbyists
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
