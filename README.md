@@ -612,7 +612,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aleksandar Todorović](https://github.com/aleksandar-todorovic/awesome-linux) - list of awesome resources that make Linux awesome
 * [Geek Flare](https://geekflare.com/category/web-infrastructure/unix/) - general Unix articles, tips, tools for managing web infrastructure
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
- * [SathiyaMoorthy](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples) - cron job examples
+* [SathiyaMoorthy](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples) - cron job examples
+* [Shivam](http://www.trysudo.com/7-tips-for-a-productive-development-setup-on-linux/) - 7 tips for a productive development setup on Linux
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -685,6 +686,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
 * [LZone](http://lzone.de/cheat-sheet/Splunk) - Splunk Cheat Sheet
 * [CloudBees](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_at_splunk.pdf) - Jenkins at Splunk and Splunking Jenkins +[Video on YouTube](https://www.youtube.com/watch?v=dlsEprySOrg)
+* [Eugen Paraschiv](https://stackify.com/9-logging-sins-java/) - 9 Logging Sins in Your Java Applications
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
@@ -755,6 +757,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Leo Babauta](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
 * [Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown Cheatsheet
+* [CommonMark](http://commonmark.org/help/) - syntax reference for CommonMark, a rationalized version of Markdown syntax
+* [CommonMark](http://spec.commonmark.org/dingus/) - Try CommonMark / CommonMark Demo
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
 * [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
@@ -1021,6 +1025,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
+* [TruthTheory](https://truththeory.com/2017/06/08/16-things-youll-notice-youre-presence-empath) - 16 Things You’ll Notice When You’re In The Presence Of An Empath
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -1064,6 +1069,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [LZone](http://lzone.de/cheat-sheet/Bash%20Regex) - Bash Regex Cheat Sheet
 * [nixCraft](https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html) - zcommands: Read gzip Compressed Text Files On a Fly
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
+* [Eric Pement](http://www.pement.org/sed/sed1line.txt) - useful one-liners for sed. [FR version](http://sed.sourceforge.net/sed1line_fr.html)
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -1120,6 +1126,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/GnuPG](https://www.reddit.com/r/GnuPG/) - resources on everything about GnuPG, PGP, OpenPGP 
 * [/r/pgp](https://www.reddit.com/r/pgp/) - everything about PGP 
 * [/r/GPGpractice](https://www.reddit.com/r/GPGpractice/) - community of people learning GPG (Gnu Privacy Guard). 
+* [Saraev Nikita](https://www.reddit.com/r/GnuPG/comments/47f23m/gnupg_with_32kb_rsa_keys/) - GnuPG with 32kb RSA keys
 
 ## OpenSSL 
 * [LZone](http://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
