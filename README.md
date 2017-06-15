@@ -381,6 +381,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenStack](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
 * [OpenStack](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
 * [jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
+* [Developer code search](http://codegists.com/search?q=jenkinsfile) - Examples of Jenkinsfile (returned by a search engine)
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -1017,6 +1018,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [Atom on Slack](http://atom-slack.herokuapp.com/) - Slack community for Atom Text editor
 * [Automations Tools Bootcamp on Slack](https://automationtools-bootcamp-slack.herokuapp.com/) - Development tools that enable automation of software projects
+* [Code search for Developers](http://codegists.com/search/jenkinsfile-tutorial/) - search for code snippets
 
 ## Programmer Humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
