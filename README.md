@@ -472,6 +472,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Torrent9](http://www.torrent9.info/) - [FR] Torrent9 because T411 starts to suck
 * [NextWarez](http://nextwarez.com/torrent/actu-torrent/) - [FR] news and ranking about download sites and downloaded contents
 * [Kooba](http://koob.jake.run/) - an interactive graph for finding new books 
+* [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -739,10 +740,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ProtonMail](https://protonmail.com/) - an friendly secure email service with built-in e2e encryption and state of the art security features. Based in Switzerland
 
 # Productivity
+> Tips
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/the-two-minute-rule) - The Two-Minute Rule / When You’re Buried in Email
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/flow-requires-focus-not-time) - Flow Requires Focus, Not Time
-* [BugMeNot](http://bugmenot.com/) - enter a domain or url and find shared logins
 * [The Minds Journal](https://themindsjournal.com/japanese-technique-overcoming-laziness/) - A Japanese Technique for Overcoming Laziness / Kaizen, Or The One-Minute Principle
 * [Foundr](https://foundrmag.com/analog-methods-for-getting-things-done-superpower-your-productivity-with-pen-and-paper/) - GTD : Superpower Your Productivity With Pen and Paper
 * [Dr. Travis Bradberry](http://www.huffingtonpost.com/dr-travis-bradberry/11-tweaks-to-your-morning_b_8965072.html) - 11 Tweaks to Your Morning Routine 
@@ -767,27 +768,31 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
 * [Bullet Journal](http://bulletjournal.com/) - a simple system to improve your productivity using only paper
+* [Leo Babauta](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
+* [Hack Productivity on Slack](https://hackproductivity.herokuapp.com/) - Slack group with productivity tips and tricks
+* [Productivity Hackers on Slack](https://ipoli.typeform.com/to/P7pAqM) - Place to learn how to improve personal productivity
+> Learn
+* [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
+* [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
+* [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the Hacker News community's favorite content
+* [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
+> Tools
 * [Chris Barber](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+* [BugMeNot](http://bugmenot.com/) - enter a domain or url and find shared logins
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
 * [Alexander Bayandin](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
-* [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
-* [Leo Babauta](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
-* [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
 * [Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown Cheatsheet
 * [CommonMark](http://commonmark.org/help/) - syntax reference for CommonMark, a rationalized version of Markdown syntax
 * [CommonMark](http://spec.commonmark.org/dingus/) - Try CommonMark / CommonMark Demo
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
-* [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
-* [Hack Productivity on Slack](https://hackproductivity.herokuapp.com/) - Slack group with productivity tips and tricks
-* [Productivity Hackers on Slack](https://ipoli.typeform.com/to/P7pAqM) - Place to learn how to improve personal productivity
 * [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move 
 * [Fost Plus](https://www.fostplus.be/en/all-about-sorting/sort-your-packaging) - Together good sorting, better recycling : Enter your packaging below and find out whether it belongs to. [French version](https://www.fostplus.be/fr/trier-recycler/tout-sur-le-tri/triez-votre-emballage)
-* [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the Hacker News community's favorite content
 * [PortForward](http://screenshots.portforward.com/) - Router Screenshots Listed by Manufacturer
 * [IANA](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) - Service Name and Transport Protocol Port Number Registry
 * [IANA](https://www.iana.org/domains/root/db) - Root Zone Database
+* [PortForward](https://portforward.com/ports.htm) - Port Forwarding Ports List
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
