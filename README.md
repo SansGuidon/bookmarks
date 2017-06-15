@@ -543,6 +543,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [David Firth](https://www.youtube.com/watch?v=wpVTORX_ifk) - [Youtube] Salad Fingers is a psychological horror, dark humorous animation movie ranked among the top 10 culture phenomenon for 2005
 * [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
 * [/r/WhereIsMyFlyingCar](https://www.reddit.com/r/WhereIsMyFlyingCar/) - a lot of predictions made about the future that have or have not come to pass.
+* [Kimmo Lemetti](http://www.blastwave-comic.com/) - Gone with the blastwave is a post apocalyptic black humorous web comic
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
