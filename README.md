@@ -470,6 +470,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ThePirateBay Proxy List](https://thepiratebay-proxylist.org/)
 * [Torrent9](http://www.torrent9.info/) - [FR] Torrent9 because T411 starts to suck
 * [NextWarez](http://nextwarez.com/torrent/actu-torrent/) - [FR] news and ranking about download sites and downloaded contents
+* [Kooba](http://koob.jake.run/) - an interactive graph for finding new books 
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -507,6 +508,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [leereilly/games](https://github.com/leereilly/games) - Games on GitHub - A list of popular/awesome videos games, add-ons, maps, etc.
 * [Soldat](https://www.soldat.pl/en/) - Soldat is still one of my favorite multiplayer games for 10+ years, mainly because it's free, its gameplay is simple, the engine can be modded easily and the game uses 2d rendering
 * [Illuminion](http://if.illuminion.de/infocom.html) - Classic text adventures masterpieces, to play with DOS or the Frotz-Z machine
+* [Hacknet](http://www.hacknet-os.com/) - a hacking game simulator (not free), potentially boring (move to hackmud)
+* [h a c k m u d](https://www.hackmud.com/) - hackmud, a hacking game simulator (not free) with programming challenges
 
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
@@ -609,7 +612,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aleksandar Todorović](https://github.com/aleksandar-todorovic/awesome-linux) - list of awesome resources that make Linux awesome
 * [Geek Flare](https://geekflare.com/category/web-infrastructure/unix/) - general Unix articles, tips, tools for managing web infrastructure
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
- 
+ * [SathiyaMoorthy](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples) - cron job examples
+
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
 * [Silver Moon](http://www.binarytides.com/linux-fun-commands/) - 20 amusing Linux commands to have fun with the terminal
@@ -642,6 +646,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
 * [jamb0ss](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
+* [Tellement Nomade](http://www.tellementnomade.org/forum/) - [FR] forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
 
 # News
 * [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
@@ -755,6 +760,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
 * [Hack Productivity on Slack](https://hackproductivity.herokuapp.com/) - Slack group with productivity tips and tricks
 * [Productivity Hackers on Slack](https://ipoli.typeform.com/to/P7pAqM) - Place to learn how to improve personal productivity
+* [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move 
+* [Fost Plus](https://www.fostplus.be/en/all-about-sorting/sort-your-packaging) - Together good sorting, better recycling : Enter your packaging below and find out whether it belongs to. [French version](https://www.fostplus.be/fr/trier-recycler/tout-sur-le-tri/triez-votre-emballage)
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -1097,6 +1104,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
 * [Geek Flare](https://geekflare.com/category/security/) - general security articles, tips & tools
 * [SecurityHQ on Slack](https://securityhq.herokuapp.com/) - Security professionals and newbies
+* [Offensive Security](https://www.exploit-db.com/google-hacking-database/) - Google Hacking Database (GHDB) Your Home for "googledorks"
+* [Offensive Security](https://www.exploit-db.com/shellcode/) - Archived Shellcode for various Operating Systems and Architectures
+* [Offensive Security](https://www.exploit-db.com/browse/) - exploits database
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
