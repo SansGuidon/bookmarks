@@ -694,6 +694,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
 * [/r/selfhosted/](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
 * [Edward Dickson](https://github.com/Kickball/awesome-selfhosted) - [Kickball/awesome-selfhosted] : list of Free Software network services and web applications which can be hosted locally
+* [Selfhosted on Slack](https://selfhosted.herokuapp.com/) - community for everything about self-hosted web apps and related technologies
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
 * [Tails](https://tails.boum.org/index.en.html) - Tails is a live system that aims to preserve your privacy and anonymity 
@@ -738,6 +739,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown Cheatsheet
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
+* [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
