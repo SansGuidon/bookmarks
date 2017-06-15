@@ -44,6 +44,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Monitoring](#monitoring)
 * [Photography](#photography)
 * [Podcasts](#podcasts)
+* [Prepping](#prepping)
 * [Principles](PRINCIPLES.md)
 * [Privacy](#privacy)
 * [Productivity](#productivity)
@@ -174,6 +175,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
 * [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
+* [DevOps on Slack](https://devopschat.co/) - DevOps fans on Slack
+* [DevOpsLinks on Slack](http://devopslinks.com/) - Where “software DEVelopment” meets “information technology OPerationS”
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -223,6 +226,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code 
 * [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
 * [Corban Raun](https://blog.serverdensity.com/what-ive-learnt-from-using-ansible-exclusively-for-2-years/) - Lessons from using Ansible exclusively for 2 years.
+* [Ansible on Slack](http://www.ansiblenetwork.org/) - The Ansible Network
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -316,6 +320,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GitHub](https://github.com/github/hubot) - Hubot on GitHub
 * [Hubot Docs](https://hubot.github.com/docs/) - Getting Started with Hubot
 * [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat) - Rocket.Chat Hubot adapter
+* [Botmakers](https://botmakers.org/) - Slack Community of bot fans who make and share online bots for Twitter, Slack, etc.
+* [ChatBots & AI group](https://chatbotsgroup.engazify.com/) - Slack community of bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -377,6 +383,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
+* [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -683,6 +690,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
 * [Joe L. Wroten](https://medium.com/@SharpShark28/whats-in-a-photo-e00637e9fc99) - What’s In A Photo?
 
+# Prepping
+* [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
+
 # Privacy
 * [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
 * [Walker Harrison](https://dev.to/walker/the-search-for-self-how-to-obtain-and-analyze-your-history-of-google-searches) - The Search for Self: How to obtain and analyze your history of Google searches
@@ -741,6 +751,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
 * [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
+* [Hack Productivity on Slack](https://hackproductivity.herokuapp.com/) - Slack group with productivity tips and tricks
+* [Productivity Hackers on Slack](https://ipoli.typeform.com/to/P7pAqM) - Place to learn how to improve personal productivity
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -909,6 +921,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Go Docs](https://golang.org/pkg/) - Package list and documentation
 * [Go Docs](https://golang.org/pkg/crypto/) - Package crypto 
 * [Andrew Gerrand](https://talks.golang.org/2012/10things.slide#1) - (2012) 10 things you (probably) don't know about Go
+* [Gophers on Slack](https://gophersinvite.herokuapp.com/) - Group to discuss Go language
 
 ## Java
 * [Hugo Matilla](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
@@ -953,6 +966,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [jamb0ss](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
+* [Atom on Slack](http://atom-slack.herokuapp.com/) - Slack community for Atom Text editor
 
 ## Programmer Humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
