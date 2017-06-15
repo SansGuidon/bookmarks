@@ -4,7 +4,7 @@
 * [ ] Add [cheatsheets from bitbucket](https://bitbucket.org/morgangeek/cheatsheet)
 * [ ] Add links from [shaarli](http://www.morgangeek.be/shaarli/)
 * [ ] Add bookmarks from other computers
-* [ ] Add bookmarks from mobile device
+* [x] Add bookmarks from mobile device
 * [ ] Add links from [blog](http://www.morgangeek.be/blog/)
 * [ ] Add [saved links from reddit](https://www.reddit.com/user/MorganGeek/saved/)
 * [ ] Add [favorites](https://stackexchange.com/users/2315914/morgangeek?tab=favorites) from stack exchange communities
