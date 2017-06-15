@@ -384,6 +384,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
 * [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
+* [Stackpoint.io on Slack](http://slack.stackpoint.io/) - Web-based interface for deployment of Kubernetes cluster
+* [Fabric8 on Slack](https://slack.fabric8.io/) - Open source integrated development platform for Kubernetes
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -842,6 +844,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Plastic SCM](https://www.plasticscm.com/) - Distributed Version Control for big projects. Discovered via [Garry' blog](https://garry.tv/2017/04/29/jenkins/)
 * [/r/gamedev](https://www.reddit.com/r/gamedev/) - everything about game development on reddit
 * [Indiedevhour on Slack](https://slack.pirrate.me/) - Community of Indie game developers and hobbyists
+* [Indie Game Developers on Slack](https://indie-game-devs-slack.herokuapp.com/) - Independent game developers group
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
@@ -944,6 +947,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Markus Wein](http://nuclearsquid.com/macos-terminal-cheat-sheet/) - macOS Terminal cheat sheet
 * [Hanxue Lee](http://flummox-engineering.blogspot.com/2016/01/installing-jenkins-os-x-homebrew.html) - Installing Jenkins on OS X using Homebrew
 * [StackShare](https://stackshare.io/javascript-ui-libraries) - popular JavaScript UI libraries on StackShare
+* [MacAdmins on Slack](https://macadmins.herokuapp.com/) - Place where many of OS X Admins belong
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
@@ -968,6 +972,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [Atom on Slack](http://atom-slack.herokuapp.com/) - Slack community for Atom Text editor
+* [Automations Tools Bootcamp on Slack](https://automationtools-bootcamp-slack.herokuapp.com/) - Development tools that enable automation of software projects
 
 ## Programmer Humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -1091,6 +1096,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
 * [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
 * [Geek Flare](https://geekflare.com/category/security/) - general security articles, tips & tools
+* [SecurityHQ on Slack](https://securityhq.herokuapp.com/) - Security professionals and newbies
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -1177,6 +1183,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Puppet Blog](https://puppet.com/blog-tags/chocolatey) - Posts about Chocolatey
 * [Rahul Kapoor](https://github.com/Awesome-Windows/Awesome) - curated list of best applications and tools for Windows.
 * [Rahul Kapoor](https://github.com/Awesome-Windows/awesome-windows-command-line) - cool stuffs you can do with windows terminal
+* [WinAdmins on Slack](https://slofile.com/slack/winadmins) - Worldwide chat of Windows admins
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
