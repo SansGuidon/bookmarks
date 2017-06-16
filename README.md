@@ -43,6 +43,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Apache](#apache)
   * [Logging](#logging)
   * [Monitoring](#monitoring)
+  * [ServiceNow](#servicenow)
 * [Photography](#photography)
 * [Podcasts](#podcasts)
 * [Prepping](#prepping)
@@ -228,6 +229,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
 * [Corban Raun](https://blog.serverdensity.com/what-ive-learnt-from-using-ansible-exclusively-for-2-years/) - Lessons from using Ansible exclusively for 2 years.
 * [Ansible on Slack](http://www.ansiblenetwork.org/) - The Ansible Network
+* [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -323,6 +325,18 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat) - Rocket.Chat Hubot adapter
 * [Botmakers](https://botmakers.org/) - Slack Community of bot fans who make and share online bots for Twitter, Slack, etc.
 * [ChatBots & AI group](https://chatbotsgroup.engazify.com/) - Slack community of bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
+* [Lita](https://www.lita.io/) - A free extensible robot companion, written in Ruby, for your company's chat room. [Plugins here](https://plugins.lita.io/)
+* [Atlassian Docs](https://confluence.atlassian.com/hipchatkb/using-bots-in-hipchat-753404057.html) - Using bots in HipChat : Lita, Hubot, Will, wobot, Err...
+* [HipChat Docs](https://developer.atlassian.com/hipchat) - HipChat developer documentation. [Rest API here](https://developer.atlassian.com/hipchat/guide/hipchat-rest-api), [Sending Messages here](https://developer.atlassian.com/hipchat/guide/sending-messages), [Send room notifications](https://www.hipchat.com/docs/apiv2/method/send_room_notification), [Send room message](https://www.hipchat.com/docs/apiv2/method/send_message), [Capabilities description](https://www.hipchat.com/docs/apiv2/capabilities)
+* [Atlassian](http://botlab.hipch.at/) - HipChat Bot Lab : ready to use bots
+* [Dan Riti](https://gist.github.com/danriti/7345074) - example of how sending messages to a HipChat room using curl and API v2
+* [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
+* [Bill Cawthra](https://github.com/bonovoxly/ansible_snippets/blob/master/snippets.yml) - ansible snippet to notify hipchat room from ansible
+* [HipChat](https://github.com/hipchat/hubot-hipchat) - HipChat adapter for Hubot
+* [Jabber plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Jabber+Plugin)
+* [Cisco Spark](https://depot.ciscospark.com/integrations/categories/developer-tools) - Cisco Spark integrations with developer tools
+* [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - Chatops Pitfalls and Tips
+* [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -714,6 +728,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John Allspaw](http://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/) - Owning Attention (Considerations for Alert Design)
 * [Server Density](https://www.serverdensity.com/monitor/linux/how-to/) - 80 Linux Monitoring Tools
 * [Andrew Wulf](http://thecodist.com/article/monitor_or_fail) - Monitor Or Fail
+
+## ServiceNow
+* [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
+* [ServiceNow Community](https://community.servicenow.com/thread/224468) - Benefits of integrating ServiceNow with Git
+* [John Andersen](http://www.john-james-andersen.com/blog/service-now/rest-based-servicenow-jira-integration-poc.html) - REST Based ServiceNow / Jira Integration (PoC)
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
