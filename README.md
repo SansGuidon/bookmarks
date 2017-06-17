@@ -321,7 +321,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vinay Nadig](https://www.icicletech.com/blog/automate-your-development-activities-with-hubot) - Automate Your Development Activities with Hubot
 * [Pete Nicholls](http://hubot-script-catalog.herokuapp.com/) - Hubot Script Catalog. [Repository](https://github.com/Aupajo/hubot-script-catalog)
 * [GitHub](https://github.com/github/hubot) - Hubot on GitHub
-* [Hubot Docs](https://hubot.github.com/docs/) - Getting Started with Hubot
+* [Hubot Docs](https://hubot.github.com/docs/) - Getting started with Hubot. See also : [Adapters for Hubot](https://hubot.github.com/docs/adapters/), [Scripting Doc](https://hubot.github.com/docs/scripting/), [Deploying on Unix](https://hubot.github.com/docs/deploying/unix/)
+* [Hubot Scripts](https://github.com/hubot-scripts) - Hubot Scripts on GitHub. Other related repo on GitHub by tag : [hubot-scripts](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot-scripts+&type=Repositories), [hubot](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot+&type=Repositories), [hubot-adapter](https://github.com/search?q=topic%3Ahubot-adapter&type=Repositories)
+* [Rocket.Chat](https://rocket.chat/) - your self hosted cross-platform open source chat solution as an alternative to slack. Related : [GitHub repo](https://github.com/RocketChat/Rocket.Chat), [Integrate with Rocket.Chat !](https://github.com/RocketChat/Rocket.Chat.Ops)
 * [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat) - Rocket.Chat Hubot adapter
 * [Botmakers](https://botmakers.org/) - Slack Community of bot fans who make and share online bots for Twitter, Slack, etc.
 * [ChatBots & AI group](https://chatbotsgroup.engazify.com/) - Slack community of bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
