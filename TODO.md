@@ -3,7 +3,7 @@
 * [ ] Add [stars from github](https://github.com/MorganGeek?tab=stars)
 * [ ] Add [cheatsheets from bitbucket](https://bitbucket.org/morgangeek/cheatsheet)
 * [ ] Add links from [shaarli](http://www.morgangeek.be/shaarli/)
-* [ ] Add bookmarks from other computers
+* [ ] Add onetab links / bookmarks from other computers
   * [ ] work computer
   * [x] personal portable (windows)
   * [ ] personal portable (linux)
