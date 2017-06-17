@@ -58,6 +58,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Gamedev](#gamedev)
   * [Git](#git)
   * [Golang / Go](#golang--go)
+  * [Groovy](#groovy)
   * [Java](#java)
   * [JavaScript](#javascript)
   * [Mac](#mac)
@@ -449,6 +450,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## VirtualBox
 * [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
+* [Thomas-Krenn](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox) - Headless Mode for VirtualBox
+* [APK Downloader](https://apps.evozi.com/apk-downloader/) - download any APK directly in your browser
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -739,7 +742,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ServiceNow Community](https://community.servicenow.com/thread/224468) - Benefits of integrating ServiceNow with Git
 * [John Andersen](http://www.john-james-andersen.com/blog/service-now/rest-based-servicenow-jira-integration-poc.html) - REST Based ServiceNow / Jira Integration (PoC)
 * [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) - Service Now app store
-* [ServiceNow Wiki](http://wiki.servicenow.com/index.php?title=REST_API#gsc.tab=0) - REST API
+* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=REST_API#gsc.tab=0) - REST API
+* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Encoded_Query_Strings#Creating_Encoded_Query_Strings&gsc.tab=0) - Encoded Query Strings
+* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Scripting_in_Business_Rules#gsc.tab=0) - Scripting in Business Rules
+* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Debugging_Business_Rules#gsc.tab=0) - Debugging Business Rules
+* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Fix_Scripts#Testing_Fix_Scripts&gsc.tab=0) - Fix Scripts & Testing Fix Scripts
+* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Script_Includes#gsc.tab=0) - Script Includes. Related : [Use Script Includes](https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/server-scripting/concept/c_UseScriptIncludes.html)
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -998,6 +1006,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrew Gerrand](https://talks.golang.org/2012/10things.slide#1) - (2012) 10 things you (probably) don't know about Go
 * [Gophers on Slack](https://gophersinvite.herokuapp.com/) - Group to discuss Go language
 
+## Groovy 
+* [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
+* [Hubert Klein Ikkink](http://mrhaki.blogspot.be/2009/11/groovy-goodness-working-with-lines-in.html) - Groovy Goodness: Working with Lines in Strings
+* [Tess Thyer](https://coderwall.com/p/nswp1q/calling-other-processes-from-groovy) - Calling Other Processes From Groovy
+* [Joerg Mueller](http://www.joergm.com/2010/09/executing-shell-commands-in-groovy/) - Executing shell commands in Groovy
+
 ## Java
 * [Hugo Matilla](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
@@ -1022,6 +1036,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
+* [Bob Pan](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
 
 ## Productivity
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
