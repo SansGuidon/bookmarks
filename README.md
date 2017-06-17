@@ -493,6 +493,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [NextWarez](http://nextwarez.com/torrent/actu-torrent/) - [FR] news and ranking about download sites and downloaded contents
 * [Kooba](http://koob.jake.run/) - an interactive graph for finding new books 
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
+* [The Load Guru](http://theloadguru.com/how-to-get-started-with-xdcc/) - How To Get Started With XDCC
+* [The Load Guru](http://theloadguru.com/how-to-configure-mirc/) - How To Configure mIRC For Downloading
+* [Cr4wlGa](https://www.cr4wl.ga/) - A plain XDCC indexer 
+* [SunXDCC](http://sunxdcc.com/#search) - a XDCC indexer
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
