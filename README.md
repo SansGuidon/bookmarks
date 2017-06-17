@@ -728,11 +728,16 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John Allspaw](http://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/) - Owning Attention (Considerations for Alert Design)
 * [Server Density](https://www.serverdensity.com/monitor/linux/how-to/) - 80 Linux Monitoring Tools
 * [Andrew Wulf](http://thecodist.com/article/monitor_or_fail) - Monitor Or Fail
+* [Splunk Docs](http://docs.splunk.com/Documentation/SplunkCloud/6.6.0/AdvancedDev/ModAlertsAdvancedExample) - Splunk Web : HipChat example for custom alert actions
+* [Splunkbase](https://splunkbase.splunk.com/app/2879/) - Splunk App : HipChat Room Notification Alert
+* [Fortify8Fifty Labs](https://forty8fiftylabs.atlassian.net/wiki/display/DOCS/Configuring+Splunk+to+Send+HipChat+Notifications) - Configuring Splunk to Send HipChat Notifications
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
 * [ServiceNow Community](https://community.servicenow.com/thread/224468) - Benefits of integrating ServiceNow with Git
 * [John Andersen](http://www.john-james-andersen.com/blog/service-now/rest-based-servicenow-jira-integration-poc.html) - REST Based ServiceNow / Jira Integration (PoC)
+* [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) - Service Now app store
+* [ServiceNow Wiki](http://wiki.servicenow.com/index.php?title=REST_API#gsc.tab=0) - REST API
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
