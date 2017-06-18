@@ -533,6 +533,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rex Swain](http://www.rexswain.com/httpview.html) - HTTP Viewer : See exactly what an HTTP request returns to your browser
 * [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
 * [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
+* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -726,6 +727,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SSL Shopper](https://www.sslshopper.com/apache-redirect-http-to-https.html) - Apache Redirect HTTP to HTTPS using mod_rewrite
 * [Apache Docs](https://httpd.apache.org/docs/2.4/en/rewrite/remapping.html) - Redirecting and Remapping with mod_rewrite
 * [Apache Docs](https://httpd.apache.org/docs/2.4/en/vhosts/examples.html) - VirtualHost usage examples
+* [Jeff Starr](https://perishablepress.com/stupid-htaccess-tricks/) - Stupid .htaccess Tricks
+* [Jeff Starr](https://perishablepress.com/htaccess-cleanup/) - .htaccess Cleanup
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
@@ -782,6 +785,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ProtonMail](https://protonmail.com/) - an friendly secure email service with built-in e2e encryption and state of the art security features. Based in Switzerland
 * [Ernesto Van der Sar](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/) - Which VPN Services Keep You Anonymous in 2017?
 * [Golden Frog](https://www.goldenfrog.com/blog/myths-about-vpn-logging-and-anonymity) - I Am Anonymous When I Use a VPN – 10 Myths Debunked
+* [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted 
 
 # Productivity
 > Tips
@@ -1226,6 +1230,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Overflow](https://stackoverflow.com/a/31552829/2309958) - File encryption with OpenSSL and Why you should use GPG instead 
 * [Chandan Kumar](https://geekflare.com/openssl-commands-certificates/) - 21 OpenSSL command examples
 * [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
+* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
 * [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
 * [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
 * [SSL Shopper](https://www.sslshopper.com/article-most-common-openssl-commands.html) - The Most Common OpenSSL Commands
@@ -1282,6 +1287,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [A List Apart](https://alistapart.com/) - explores the design, development, and meaning of web content, with a special focus on web standards and best practices. 
 * [r/webdev](https://www.reddit.com/r/webdev/) - web development resources & news
 * [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
+* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
+* [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
+* [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
 * [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
 * [Rex Swain](http://www.rexswain.com/httpview.html) - HTTP Viewer : See exactly what an HTTP request returns to your browser
 * [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
