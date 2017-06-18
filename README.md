@@ -35,6 +35,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Linux / Unix](#linux--unix)
   * [Linux for fun](#linux-for-fun)
   * [Troubleshooting](#troubleshooting)
+  * [Tuning](#tuning)
   * [Vim](#vim)
 * [Manga](#manga)
 * [Music](#music)
@@ -664,6 +665,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Milosz Galazka](https://blog.sleeplessbeastie.eu/2013/10/31/how-to-deal-with-dmesg-timestamps/) - How to deal with dmesg timestamps
 * [Stack Exchange](https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted) - Find and remove large files that are open but have been deleted
 * [Phil Rzewski](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/) - Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
+
+## Tuning
+* [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
+* [Christophe Vanlancker](https://carroarmato0.wordpress.com/2012/04/30/how-to-change-dns-in-dhcp-on-the-bbox2/) - How to change DNS in DHCP on the BBox2
+* [Christophe Vanlancker ](https://carroarmato0.wordpress.com/2010/06/20/how-to-bridge-the-lan-ports-of-your-belgacom-bbox2/) - How to Bridge the Lan ports of your Belgacom BBox2
 
 ## Vim
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
