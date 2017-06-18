@@ -601,6 +601,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
 
 # Linux / Unix
+* [/r/linux](https://www.reddit.com/r/linux/) - discussions & news about linux on reddit
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
 * [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
@@ -1213,6 +1214,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SSL247](https://www.ssl247.fr/kb/ssl-certificates/generalinformation/what-is-rsa-dsa-ecc) - What is RSA, DSA and ECC?
 * [James McGivern](https://fr.slideshare.net/JamesMcGivern/ecc-vs-rsa-battle-of-the-cryptoninjas) - (Devoxx UK 2014) [Slides] ECC vs RSA: Battle of the Crypto-Ninjas
 * [PortForward](https://portforward.com/router-password/) - The most comprehensive default router password list on the Internet.
+* [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted 
+* [Maarten Billemont](http://masterpasswordapp.com/) - Master Password, a password generator algorithm to remove the need of password managers.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
