@@ -477,9 +477,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Finding content
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
+* [/r/piracy](https://www.reddit.com/r/Piracy/) - useful source of information on reddit
 * [Library Genesis](http://libgen.io/) - ebooks and scientific articles
 * [b-ok.org](http://b-ok.org/) - ebooks
-* [Soulseek](http://www.slsknet.org/news/) - for hard to find music 
+* [Soulseek](http://www.slsknet.org/news/) - for hard to find music . 
+* [RuTracker](https://rutracker.org/forum/index.php) - torrent for music
 * [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
 * [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
@@ -497,6 +499,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Load Guru](http://theloadguru.com/how-to-configure-mirc/) - How To Configure mIRC For Downloading
 * [Cr4wlGa](https://www.cr4wl.ga/) - A plain XDCC indexer 
 * [SunXDCC](http://sunxdcc.com/#search) - a XDCC indexer
+* Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -777,6 +780,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
 * [Tails](https://tails.boum.org/index.en.html) - Tails is a live system that aims to preserve your privacy and anonymity 
 * [ProtonMail](https://protonmail.com/) - an friendly secure email service with built-in e2e encryption and state of the art security features. Based in Switzerland
+* [Ernesto Van der Sar](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/) - Which VPN Services Keep You Anonymous in 2017?
+* [Golden Frog](https://www.goldenfrog.com/blog/myths-about-vpn-logging-and-anonymity) - I Am Anonymous When I Use a VPN – 10 Myths Debunked
 
 # Productivity
 > Tips
