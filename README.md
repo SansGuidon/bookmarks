@@ -478,7 +478,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Finding content
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
-* [/r/piracy](https://www.reddit.com/r/Piracy/) - useful source of information on reddit
+* [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
 * [Library Genesis](http://libgen.io/) - ebooks and scientific articles
 * [b-ok.org](http://b-ok.org/) - ebooks
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music . 
@@ -781,12 +781,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/encryption](https://www.reddit.com/r/encryption/) - everything about encryption on reddit
 * [/r/privacy](https://www.reddit.com/r/privacy/) - everything about privacy on reddit
 * [Fried](https://fried.com/privacy/) - introduction guide to online privacy. a bit outdated on some advices 
-* [Privacy tools](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
+* [**Privacy tools**](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
 * [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
-* [/r/selfhosted/](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
-* [Edward Dickson](https://github.com/Kickball/awesome-selfhosted) - [Kickball/awesome-selfhosted] : list of Free Software network services and web applications which can be hosted locally
+* [**/r/selfhosted/**](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
+* [Edward Dickson](https://github.com/Kickball/awesome-selfhosted) - [**Kickball/awesome-selfhosted**] : list of Free Software network services and web applications which can be hosted locally
 * [Selfhosted on Slack](https://selfhosted.herokuapp.com/) - community for everything about self-hosted web apps and related technologies
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
