@@ -122,6 +122,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
 * [Jason Fried](https://m.signalvnoise.com/the-intimidating-zero-4d90fcdcc3b2) - The Intimidating Zero
+* [DIY Projects](https://diyprojects.com/) - Craft Ideas & How To’s for Home Decor with Videos
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -774,6 +775,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
+* [Survival Sherpa](https://survivalsherpa.wordpress.com) - Helping each other on the climb to self-reliance and preparedness, one step at a time
+* [M.D. Creekmore](http://www.thesurvivalistblog.net/) - The Survivalist Blog
+* [Preparing for shtf](http://prepforshtf.com/) - for people who are interested in survival topics, gear and how to prepare for any shtf situation
+* [Homesteading](https://homesteading.com/homesteading-skills-every-homesteader-should-know/) - 133 Homesteading Skills for the Modern Day Homesteader
+* [SHTF Plan](http://www.shtfplan.com/) - When the Shit Hits The Fan, you had be warned
+* [Survival Life](https://survivallife.com/) - Emergency Preparedness | Survival Skills | Survival Gear Reviews
+* [Preparedness Community](http://topprepperwebsites.com/) - Top Prepper Sites
 
 # Privacy
 * [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
