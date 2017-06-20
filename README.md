@@ -511,6 +511,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SunXDCC](http://sunxdcc.com/#search) - a XDCC indexer
 * Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
+* [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -603,6 +604,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joan Cornellà](http://joyreactor.com/tag/Joan+Cornella) - unsettling, surreal humor and black humorous comic strips
 * [David Firth](https://www.youtube.com/watch?v=wpVTORX_ifk) - [Youtube] Salad Fingers is a psychological horror, dark humorous animation movie ranked among the top 10 culture phenomenon for 2005
 * [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
+* [Encyclopedia Dramatica](https://encyclopediadramatica.rs) - a satirical wiki, parodying encyclopedia topics and current events, especially those related or relevant to contemporary Internet culture
 * [/r/WhereIsMyFlyingCar](https://www.reddit.com/r/WhereIsMyFlyingCar/) - a lot of predictions made about the future that have or have not come to pass.
 * [Kimmo Lemetti](http://www.blastwave-comic.com/) - Gone with the blastwave is a post apocalyptic black humorous web comic
 
@@ -873,6 +875,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [IANA](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) - Service Name and Transport Protocol Port Number Registry
 * [IANA](https://www.iana.org/domains/root/db) - Root Zone Database
 * [PortForward](https://portforward.com/ports.htm) - Port Forwarding Ports List
+* [MorganGeek](https://gist.github.com/MorganGeek/70a89f69271e73b4d6fd491eb8c3b134) - Inbox by Google search tricks
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -1232,6 +1235,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Geek Flare](https://geekflare.com/category/security/) - general security articles, tips & tools
 * [SecurityHQ on Slack](https://securityhq.herokuapp.com/) - Security professionals and newbies
 * [Offensive Security](https://www.exploit-db.com/google-hacking-database/) - Google Hacking Database (GHDB) Your Home for "googledorks"
+* [rought](https://fr.scribd.com/doc/151644566/Google-Hacks) - Google Hacks (dork list). Similar lists by [hardikdobariya](https://fr.scribd.com/document/185683271/EthicalHacking1-Com-Google-Hacking-Dork-List)
+* [Julian Alexander Murillo](https://gist.github.com/64lines/248492a02a50c536903f) - Google tricks / dorks
 * [Offensive Security](https://www.exploit-db.com/shellcode/) - Archived Shellcode for various Operating Systems and Architectures
 * [Offensive Security](https://www.exploit-db.com/browse/) - exploits database
 * [berzerk0 (Ben)](https://github.com/berzerk0/Probable-Wordlists) - 5+ Billion Passwords in Order of Most Popular... is yours in the list ?
