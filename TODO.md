@@ -8,8 +8,11 @@ ___
   * [x] personal portable (windows)
   * [ ] personal portable (linux)
   * [ ] personal desktop
+* [ ] Add links from IM hipchat
 ___
 > foreseen 
+* [ ] Add links from IM slack
+* [ ] Add links from IM fb
 * [ ] Add [tweets](https://twitter.com/MorganGeek) and [bookmarks](https://twitter.com/MorganGeek/likes) from twitter
 * [ ] Add [stars from github](https://github.com/MorganGeek?tab=stars)
 * [ ] Add [cheatsheets from bitbucket](https://bitbucket.org/morgangeek/cheatsheet)
