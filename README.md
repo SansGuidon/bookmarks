@@ -790,6 +790,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SHTF Plan](http://www.shtfplan.com/) - When the Shit Hits The Fan, you had be warned
 * [Survival Life](https://survivallife.com/) - Emergency Preparedness | Survival Skills | Survival Gear Reviews
 * [Preparedness Community](http://topprepperwebsites.com/) - Top Prepper Sites
+* [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos) - Primitive Technology youtube channel :  Making primitive huts and tools from scratch using only natural materials in the wild 
+* [/r/PrimitiveTechnology](https://www.reddit.com/r/PrimitiveTechnology/) - discussions about primitive technology subject and official youtube channel
 
 # Privacy
 * [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
