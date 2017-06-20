@@ -510,6 +510,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cr4wlGa](https://www.cr4wl.ga/) - A plain XDCC indexer 
 * [SunXDCC](http://sunxdcc.com/#search) - a XDCC indexer
 * Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
+* [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
