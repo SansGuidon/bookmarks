@@ -548,6 +548,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
 * [Panopticlick](https://panopticlick.eff.org) - Test : Is your browser safe against tracking?
 * [Am I unique](https://amiunique.org/fp) - Test : are you unique ? (what your fingerprint reveals about you)
+* [Ookla](http://beta.speedtest.net/) - Speedtest : Test your internet connection speed
+* [TestMy](http://testmy.net/) - Internet speed test
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
