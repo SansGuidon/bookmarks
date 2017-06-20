@@ -26,7 +26,7 @@ ___
 * [ ] Add links from [blog](http://www.morgangeek.be/blog/)
 * [ ] Add [saved links from reddit](https://www.reddit.com/user/MorganGeek/saved/)
 * [ ] Add [favorites](https://stackexchange.com/users/2315914/morgangeek?tab=favorites) from stack exchange communities
-* [ ] Add likes from social networks ([fb](https://www.facebook.com/mwattiez/allactivity?privacy_source=activity_log&log_filter=likes), [google+](https://plus.google.com/+MorganWattiez))
+* [ ] Add likes from social networks ([fb](https://www.facebook.com/mwattiez/allactivity?privacy_source=activity_log&log_filter=likes), [google+](https://plus.google.com/+MorganWattiez)), mastodon (x2)
 * [ ] Add links from [rememberthemilk](https://www.rememberthemilk.com/app/#all)
 * [ ] Add lists from my bullet journal (developer values ...)
 * [ ] Add some must-watch youtube [likes](https://www.youtube.com/channel/UC3gqyF0Mvh7EaOIa31JkEXA/videos?view=15&sort=dd&shelf_id=0) / [channels](https://www.youtube.com/channel/UC3gqyF0Mvh7EaOIa31JkEXA/channels?view=56&shelf_id=0)
