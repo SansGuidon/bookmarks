@@ -21,6 +21,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Nexus](#nexus)
   * [OpenShift](#openshift)
   * [SecOps](#secops)
+  * [Vagrant](#vagrant)
   * [Vault (by Hashicorp)](#vault-by-hashicorp)
   * [VirtualBox](#virtualbox)
 * [Finding content](#finding-content)
@@ -123,6 +124,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
 * [Jason Fried](https://m.signalvnoise.com/the-intimidating-zero-4d90fcdcc3b2) - The Intimidating Zero
 * [DIY Projects](https://diyprojects.com/) - Craft Ideas & How To’s for Home Decor with Videos
+* [Hackaday](http://hackaday.com/) - fresh hacks every day 
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -145,11 +147,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Puppet Blog](https://puppet.com/blog)
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
-* [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
-* [mitchellh](https://github.com/mitchellh/vagrant/issues/1755) - Re-associate vagrant with vm
-* [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Connect-to-Your-Vagrant-Virtual-Machine-with-PuTTY) - Connect to Your Vagrant Virtual Machine with PuTTY
-* [Hashicorp](https://atlas.hashicorp.com/puppetlabs) - Official Puppet Vagrant boxes
-* [Willem Meints](http://fizzylogic.nl/2015/01/27/building-containerized-apps-with-vagrant/) - Building Containerized Apps With Vagrant
 * [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] Les Patterns des Grands du Web – DevOps
 * [Martin Rusev](https://www.amon.cx/blog/how-i-replaced-ssh/) - How I Replaced SSH with ZeroMQ and Salt
 * [Martin Rusev](https://www.amon.cx/blog/saltstack-review/) - SaltStack - Review and how it fares against Ansible and Puppet?
@@ -233,6 +230,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Corban Raun](https://blog.serverdensity.com/what-ive-learnt-from-using-ansible-exclusively-for-2-years/) - Lessons from using Ansible exclusively for 2 years.
 * [Ansible on Slack](http://www.ansiblenetwork.org/) - The Ansible Network
 * [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
+* [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -317,6 +315,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] Master's thesis: Container-based Continuous Delivery for Clusters, interesting for some parts
 * [Faheetah](https://gist.github.com/Faheetah/a2a401a01d2d56fa7d1a9d7ab0d2831b) - Docker patterns/anti-patterns : Generic Dockerfile demonstrating good practices
 * [Scott Coulton](https://speakerdeck.com/scottyc/if-its-in-a-container-its-secure-right-1) - If it’s in a container it’s secure right ?
+* [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -454,6 +453,15 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
 * [Thomas-Krenn](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox) - Headless Mode for VirtualBox
 * [APK Downloader](https://apps.evozi.com/apk-downloader/) - download any APK directly in your browser
+
+## Vagrant
+* [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
+* [Ross Tuck](http://rosstuck.com/slightly-faster-ansible-testing-with-vagrant/) - (Slightly) Faster Ansible Testing with Vagrant
+* [mitchellh](https://github.com/mitchellh/vagrant/issues/1755) - Re-associate vagrant with vm
+* [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Connect-to-Your-Vagrant-Virtual-Machine-with-PuTTY) - Connect to Your Vagrant Virtual Machine with PuTTY
+* [Hashicorp](https://atlas.hashicorp.com/puppetlabs) - Official Puppet Vagrant boxes
+* [Willem Meints](http://fizzylogic.nl/2015/01/27/building-containerized-apps-with-vagrant/) - Building Containerized Apps With Vagrant
+* [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -808,6 +816,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Productivity
 > Tips
+* [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/the-two-minute-rule) - The Two-Minute Rule / When You’re Buried in Email
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/flow-requires-focus-not-time) - Flow Requires Focus, Not Time
@@ -833,6 +842,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vikas Kumar Yadav](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
 * [Johnny Webber](http://unplugthetv.com/) - Unplug the tv : What should you watch if not the television ?
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
+* [Hackaday](http://hackaday.com/) - fresh hacks every day 
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
 * [Bullet Journal](http://bulletjournal.com/) - a simple system to improve your productivity using only paper
 * [Leo Babauta](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
@@ -1147,7 +1157,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hacker Rank](https://www.hackerrank.com/domains/shell) - Linux Shell challenges  
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
 * [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make
-* [ShellCheck](https://www.shellcheck.net/) - finds bugs in your shell scripts.
+* [ShellCheck](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck)
 * [Nicola Paolucci](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/) - Ten tips for wonderful bash productivity
 * [blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) - Mastering Bash and Terminal
 * [kvz.io](http://kvz.io/blog/2013/11/21/bash-best-practices/) - Best Practices for Writing Bash Scripts
