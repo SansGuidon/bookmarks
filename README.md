@@ -516,12 +516,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
 
-# Free Online tools
+# Free Online Tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
 * [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dillinger](http://dillinger.io/) - Online Markdown Editor
 * [Air Mail](http://en.getairmail.com/) - temporary email service
+* [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy 
 * [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
 * [Broken Link Checker](http://www.brokenlinkcheck.com/broken-links.php#status) - Online Dead Link Checking Tool
 * [StackEdit](https://stackedit.io/editor) - in-browser markdown editor
@@ -820,6 +821,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted 
 * [Panopticlick](https://panopticlick.eff.org) - Test : Is your browser safe against tracking?
 * [Am I unique](https://amiunique.org/fp) - Test : are you unique ? (what your fingerprint reveals about you)
+* [Air Mail](http://en.getairmail.com/) - temporary email service
+* [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy 
 
 # Productivity
 > Tips
