@@ -9,6 +9,7 @@ ___
   * [ ] personal portable (linux)
   * [ ] personal desktop
 * [ ] Add links from IM hipchat
+* [ ] Add links from chrome history (using [historyStats](https://chrome.google.com/webstore/detail/historystats/ffnaaljjakfkhpjjgfmjhcgamcoflinm/related) chrome extension)
 ___
 > foreseen 
 * [ ] Add links from IM slack
