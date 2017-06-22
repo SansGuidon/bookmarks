@@ -512,6 +512,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
+* [AlternativeTo](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -688,6 +689,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
 * [Christophe Vanlancker](https://carroarmato0.wordpress.com/2012/04/30/how-to-change-dns-in-dhcp-on-the-bbox2/) - How to change DNS in DHCP on the BBox2
 * [Christophe Vanlancker ](https://carroarmato0.wordpress.com/2010/06/20/how-to-bridge-the-lan-ports-of-your-belgacom-bbox2/) - How to Bridge the Lan ports of your Belgacom BBox2
+* [Philippe Teuwen](http://wiki.yobi.be/wiki/Modem_BBox-2) - wiki with useful detailed information about Belgacom BBox2
 
 ## Vim
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
