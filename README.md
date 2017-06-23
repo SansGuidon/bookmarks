@@ -772,6 +772,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Splunk Docs](http://docs.splunk.com/Documentation/SplunkCloud/6.6.0/AdvancedDev/ModAlertsAdvancedExample) - Splunk Web : HipChat example for custom alert actions
 * [Splunkbase](https://splunkbase.splunk.com/app/2879/) - Splunk App : HipChat Room Notification Alert
 * [Fortify8Fifty Labs](https://forty8fiftylabs.atlassian.net/wiki/display/DOCS/Configuring+Splunk+to+Send+HipChat+Notifications) - Configuring Splunk to Send HipChat Notifications
+* [BitMeter OS](https://github.com/codebox/bitmeteros) - a cross platform stupid simple and efficient bandwidth monitoring tool running locally with a web interface. [Downloads, FAQs, Docs](https://codebox.net/pages/tagged/BitMeter%20OS)
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
