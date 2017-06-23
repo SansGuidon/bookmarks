@@ -32,3 +32,4 @@ ___
 * [ ] Add lists from my bullet journal (developer values ...)
 * [ ] Add some must-watch youtube [likes](https://www.youtube.com/channel/UC3gqyF0Mvh7EaOIa31JkEXA/videos?view=15&sort=dd&shelf_id=0) / [channels](https://www.youtube.com/channel/UC3gqyF0Mvh7EaOIa31JkEXA/channels?view=56&shelf_id=0)
 * [ ] Add [likes from stumbleupon](http://www.stumbleupon.com/stumbler/MorganGeek/likes)
+* [ ] Add favorites searches (twitter, inbox, github, google ...)
