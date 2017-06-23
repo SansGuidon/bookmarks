@@ -513,6 +513,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
 * [AlternativeTo](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
+* [Similarsites](http://www.similarsites.com/) - easily find similar websites
 
 # Finding events
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
