@@ -827,6 +827,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Am I unique](https://amiunique.org/fp) - Test : are you unique ? (what your fingerprint reveals about you)
 * [Air Mail](http://en.getairmail.com/) - temporary email service
 * [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy 
+* [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
+* [DuckDuckGo](https://spreadprivacy.com/privacy-tips/home) - Fix Tracking : how to stop getting tracked on desktop and mobile
 
 # Productivity
 > Tips
