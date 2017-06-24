@@ -144,6 +144,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Netflix](https://medium.com/@NetflixTechBlog) - NetFlix Technology Blog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
 * [Stack Exchange](https://devops.stackexchange.com/) - DevOps questions & answers
+* [ThoughtWorks](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [Puppet Blog](https://puppet.com/blog)
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
@@ -923,6 +924,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrew Wulf](http://thecodist.com/article/your_progress_as_a_programmer_is_all_up_to_you) - Your Progress As A Programmer Is All Up To You
 * [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016? 
 * [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
+* [ThoughtWorks](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [StackShare](https://stackshare.io/trending/tools) - trending tools, find which tools other companies are using
 * [StackShare](https://stackshare.io/trending/stacks) - trending technology stacks, find which stacks others companies are using
 * [GitHub](https://github.com/explore) - Project showcases, discover interesting repositories 
@@ -1262,6 +1264,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [PortForward](https://portforward.com/router-password/) - The most comprehensive default router password list on the Internet.
 * [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted 
 * [Maarten Billemont](http://masterpasswordapp.com/) - Master Password, a password generator algorithm to remove the need of password managers.
+* [AV-TEST](https://www.av-test.org/en/antivirus/) - Antivirus test results on Mobile devices (Android), Windows, Mac
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
