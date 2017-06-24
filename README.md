@@ -563,6 +563,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hacknet](http://www.hacknet-os.com/) - a hacking game simulator (not free), potentially boring (move to hackmud)
 * [h a c k m u d](https://www.hackmud.com/) - hackmud, a hacking game simulator (not free) with programming challenges
 * [PortForward](https://portforward.com/ports.htm) - Port Forwarding Ports List
+* [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=game) - Linux & SteamOS gaming community
+* [Linux game database](https://lgdb.org/games)
 
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
@@ -674,6 +676,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
 * [Silver Moon](http://www.binarytides.com/linux-fun-commands/) - 20 amusing Linux commands to have fun with the terminal
+* [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=game) - Linux & SteamOS gaming community
+* [Linux game database](https://lgdb.org/games)
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
