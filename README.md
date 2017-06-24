@@ -718,6 +718,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 * [Tellement Nomade](http://www.tellementnomade.org/forum/) - [FR] forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
 
+# Networking
+* [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
+
 # News
 * [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 * [Wayne Larsen](https://hckrnews.com/) - HCKR News : unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
