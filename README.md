@@ -554,6 +554,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Am I unique](https://amiunique.org/fp) - Test : are you unique ? (what your fingerprint reveals about you)
 * [Ookla](http://beta.speedtest.net/) - Speedtest : Test your internet connection speed
 * [TestMy](http://testmy.net/) - Internet speed test
+* [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
+* [Jotti](https://virusscan.jotti.org/) - online virus scanner
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1265,6 +1267,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted 
 * [Maarten Billemont](http://masterpasswordapp.com/) - Master Password, a password generator algorithm to remove the need of password managers.
 * [AV-TEST](https://www.av-test.org/en/antivirus/) - Antivirus test results on Mobile devices (Android), Windows, Mac
+* [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
+* [Jotti](https://virusscan.jotti.org/) - online virus scanner
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
