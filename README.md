@@ -1077,6 +1077,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Go Docs](https://golang.org/pkg/crypto/) - Package crypto 
 * [Andrew Gerrand](https://talks.golang.org/2012/10things.slide#1) - (2012) 10 things you (probably) don't know about Go
 * [Gophers on Slack](https://gophersinvite.herokuapp.com/) - Group to discuss Go language
+* [Avelino](https://github.com/avelino/awesome-go) - curated list of awesome Go frameworks, libraries and software. See also [awesome-go.com](https://awesome-go.com/)
+* [GolangLibs](https://golanglibs.com) - inventory of go libraries an apps
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
