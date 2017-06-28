@@ -119,6 +119,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - How to Work with Designers : A Cheat Sheet for Engineers and PMs
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - How to Work with PMs : A Cheat Sheet for Designers
 * [Raúl Ávila](https://dev.to/raulavila/my-experience-with-pair-programming) - My Experience with Pair Programming
+* [Ben Hilburn](https://bhilburn.org/a-keystone-of-success/) - What mature engineers do and don't do / what it means to be a mature engineer.
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -876,6 +877,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Leo Babauta](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
 * [Hack Productivity on Slack](https://hackproductivity.herokuapp.com/) - Slack group with productivity tips and tricks
 * [Productivity Hackers on Slack](https://ipoli.typeform.com/to/P7pAqM) - Place to learn how to improve personal productivity
+* [Leo Babauta](https://zenhabits.net/clean/) - The Clean-as-You-Go Principle
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
@@ -954,6 +956,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
 * [DemandRush](https://www.demandrush.com/) - Get paid to build your next side project
+* [Ben Hilburn](https://bhilburn.org/a-keystone-of-success/) - What mature engineers do and don't do / what it means to be a mature engineer.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1017,6 +1020,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
 * [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
 * [Harry Roberts](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
+* [Ben Hilburn](https://github.com/bhilburn/dotfiles) - shared configs / dotfiles / rcfiles / etc.
 * [Michael White](https://gist.github.com/mwhite/6887990) - The Ultimate Git Alias Setup
 * [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Aliases) - Collection of git aliases
 * [Nicola Paolucci](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/) - The power of Git subtree
