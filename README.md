@@ -126,6 +126,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jason Fried](https://m.signalvnoise.com/the-intimidating-zero-4d90fcdcc3b2) - The Intimidating Zero
 * [DIY Projects](https://diyprojects.com/) - Craft Ideas & How To’s for Home Decor with Videos
 * [Hackaday](http://hackaday.com/) - fresh hacks every day 
+* [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -881,11 +882,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Leo Babauta](https://zenhabits.net/system/) - The Perfect System
 * [Leo Babauta](https://zenhabits.net/self-discipline/) - A Guide to Developing the Self-Discipline Habit
 * [Leo Babauta](https://zenhabits.net/tiny-victory/) - Small Actions, Huge Impact
+* [InterQuest Group](https://www.slideshare.net/IQGroup/iq-work-hacks-productivity) - [Slides] Work & productivity hacks
+* [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
 * [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the Hacker News community's favorite content
 * [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
+* [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
 > Tools
 * [Chris Barber](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [BugMeNot](http://bugmenot.com/) - enter a domain or url and find shared logins
