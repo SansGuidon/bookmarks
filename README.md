@@ -826,7 +826,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
 * [**/r/selfhosted/**](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
-* [Edward Dickson](https://github.com/Kickball/awesome-selfhosted) - [**Kickball/awesome-selfhosted**] : list of Free Software network services and web applications which can be hosted locally
+* [**Edward Dickson**](https://github.com/Kickball/awesome-selfhosted) - awesome-selfhosted : list of Free Software network services and web applications which can be hosted locally
 * [Selfhosted on Slack](https://selfhosted.herokuapp.com/) - community for everything about self-hosted web apps and related technologies
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
@@ -874,10 +874,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hackaday](http://hackaday.com/) - fresh hacks every day 
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
 * [Bullet Journal](http://bulletjournal.com/) - a simple system to improve your productivity using only paper
-* [Leo Babauta](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
+* [**Leo Babauta**](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
 * [Hack Productivity on Slack](https://hackproductivity.herokuapp.com/) - Slack group with productivity tips and tricks
 * [Productivity Hackers on Slack](https://ipoli.typeform.com/to/P7pAqM) - Place to learn how to improve personal productivity
 * [Leo Babauta](https://zenhabits.net/clean/) - The Clean-as-You-Go Principle
+* [Leo Babauta](https://zenhabits.net/system/) - The Perfect System
+* [Leo Babauta](https://zenhabits.net/self-discipline/) - A Guide to Developing the Self-Discipline Habit
+* [Leo Babauta](https://zenhabits.net/tiny-victory/) - Small Actions, Huge Impact
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
@@ -1187,6 +1190,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MBTI](http://www.16-types.fr/types/INFP/infp-01-travail.html) - [FR] INFP et travail selon Myers-Briggs. Related : [SenCampus](https://www.sencampus.com/personnalite-le-type-infp/) - [FR] Personnalité : le type INFP, [SenCampus](https://www.sencampus.com/personnalite-le-type-infj/) - [FR] Personnalité : le type INFJ
 * [MBTI](https://www.personalitypage.com/ISFJ.html) - Portrait of an ISFJ
 * [TruthTheory](https://truththeory.com/2017/06/08/16-things-youll-notice-youre-presence-empath) - 16 Things You’ll Notice When You’re In The Presence Of An Empath
+* [Leo Babauta](https://zenhabits.net/happy-things/) - How to Be Happy When You’re in an Unhappy Situation
+* [Leo Babauta](https://zenhabits.net/gollum/) - How to Love Your Dark Side
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
