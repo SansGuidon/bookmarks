@@ -1176,6 +1176,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
+* [College Match Up](http://www.collegematchup.net/features/best-jobs-for-your-personality-type/) - Best jobs for your personality type
+* [16Personalities](https://www.16personalities.com/free-personality-test) - Neris Type explorer : Free Personality Test
+* [16Personalities](https://www.16personalities.com/infp-personality) - INFP personality "The Mediator"
+* [MBTI](https://www.personalitypage.com/html/INFP.html) - INFP "The Idealist"
+* [MBTI](http://www.16-types.fr/types/INFP/infp-01-travail.html) - [FR] INFP et travail selon Myers-Briggs. Related : [SenCampus](https://www.sencampus.com/personnalite-le-type-infp/) - [FR] Personnalité : le type INFP, [SenCampus](https://www.sencampus.com/personnalite-le-type-infj/) - [FR] Personnalité : le type INFJ
+* [MBTI](https://www.personalitypage.com/ISFJ.html) - Portrait of an ISFJ
 * [TruthTheory](https://truththeory.com/2017/06/08/16-things-youll-notice-youre-presence-empath) - 16 Things You’ll Notice When You’re In The Presence Of An Empath
 
 # Robots
