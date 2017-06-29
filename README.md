@@ -25,6 +25,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Vault (by Hashicorp)](#vault-by-hashicorp)
   * [VirtualBox](#virtualbox)
 * [Finding content](#finding-content)
+  * [App discovery](#app-discovery)
 * [Finding events](#finding-events)
 * [Free Online Tools](#free-online-tools)
 * [Gaming](#gaming)
@@ -521,6 +522,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [TwoDDL](https://2ddl.unblocked.srl/) - a place for direct download links
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
+
+## App discovery
 * [AlternativeTo](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
 * [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
