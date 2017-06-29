@@ -531,6 +531,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
 * [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
 * [Product Hunt](http://500makers.com/) - a list of top 500 makers on [Product Hunt](https://www.producthunt.com/)
+* [AppRecs](https://apprecs.com) - app search engine 
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -584,6 +585,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [PortForward](https://portforward.com/ports.htm) - Port Forwarding Ports List
 * [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=game) - Linux & SteamOS gaming community
 * [Linux game database](https://lgdb.org/games)
+* [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
 
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
@@ -1022,6 +1024,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Angel 2D](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 * [Plastic SCM](https://www.plasticscm.com/) - Distributed Version Control for big projects. Discovered via [Garry' blog](https://garry.tv/2017/04/29/jenkins/)
+* [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
