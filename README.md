@@ -517,6 +517,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Opentrackers](https://opentrackers.org/) - private torrent trackers & file sharing
 * [Torrent Franais](http://www.xn--torrentfranais-qjb.fr/) - [FR] file sharing & torrent news
 * Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
+* [TorrentProject](https://torrentproject.se/) - torrent indexer with lot of content
 * [iDope](https://idope.se/) - torrent indexer / tribute to kickass 
 * [Zone Telechargement](https://www.zone-telechargement.ws/) - [FR] a place to find direct download links for various content
 * [TwoDDL](https://2ddl.unblocked.srl/) - a place for direct download links
@@ -524,9 +525,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
 
 ## App discovery
+* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [Newest Show HN](https://news.ycombinator.com/shownew)
+* [Product Hunt](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [AlternativeTo](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
 * [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
+* [Product Hunt](http://500makers.com/) - a list of top 500 makers on [Product Hunt](https://www.producthunt.com/)
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -659,6 +663,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ramesh Natarajan](http://www.thegeekstuff.com/2011/06/iptables-rules-examples/) - 25 Most Frequently Used Linux IPTables Rules Examples
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/09/linux-one-liners/) - 6 Useful Linux One Liners
 * [Maxim Chernyak](http://hakunin.com/permissions) - Linux permissions cheatsheet 
+* [CHMOD command calculator](https://chmodcommand.com/)
 * [Corinna Baldauf](http://wall-skills.com/2015/the-find-command-in-examples/) - The find command in examples
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/08/10/automating-linux-security-best-practices-with-ansible/) - Automating Linux Security Best Practices with Ansible
 * [Fedora](https://mirrors.fedoraproject.org/mirrorlist?repo=epel-6&arch=x86_64) - Fedora Mirrors list for EPEL-6 and arch x86_64 . see also [Fedora Mirror Manager](https://admin.fedoraproject.org/mirrormanager/)
