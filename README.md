@@ -512,6 +512,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Load Guru](http://theloadguru.com/how-to-configure-mirc/) - How To Configure mIRC For Downloading
 * [Cr4wlGa](https://www.cr4wl.ga/) - A plain XDCC indexer 
 * [SunXDCC](http://sunxdcc.com/#search) - a XDCC indexer
+* [TorrentFreak](https://torrentfreak.com/) - file sharing, privacy & copyright news
+* [Opentrackers](https://opentrackers.org/) - private torrent trackers & file sharing
+* [Torrent Franais](http://www.xn--torrentfranais-qjb.fr/) - [FR] file sharing & torrent news
 * Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
 * [iDope](https://idope.se/) - torrent indexer / tribute to kickass 
 * [Zone Telechargement](https://www.zone-telechargement.ws/) - [FR] a place to find direct download links for various content
