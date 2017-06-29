@@ -26,7 +26,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [VirtualBox](#virtualbox)
 * [Finding content](#finding-content)
   * [App discovery](#app-discovery)
-* [Finding events](#finding-events)
+  * [Event discovery](#event-discovery)
 * [Free Online Tools](#free-online-tools)
 * [Gaming](#gaming)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
@@ -528,7 +528,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
 * [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
 
-# Finding events
+## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
 
 # Free Online Tools
