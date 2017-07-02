@@ -517,6 +517,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Opentrackers](https://opentrackers.org/) - private torrent trackers & file sharing
 * [Torrent Franais](http://www.xn--torrentfranais-qjb.fr/) - [FR] file sharing & torrent news
 * Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
+* [MorganGeek](https://gist.github.com/MorganGeek/aa1f21c3b87e90a2cde567a73209ef13) - download sites compared using some searches
 * [TorrentProject](https://torrentproject.se/) - torrent indexer with lot of content
 * [iDope](https://idope.se/) - torrent indexer / tribute to kickass 
 * [Zone Telechargement](https://www.zone-telechargement.ws/) - [FR] a place to find direct download links for various content
@@ -805,6 +806,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fortify8Fifty Labs](https://forty8fiftylabs.atlassian.net/wiki/display/DOCS/Configuring+Splunk+to+Send+HipChat+Notifications) - Configuring Splunk to Send HipChat Notifications
 * [BitMeter OS](https://github.com/codebox/bitmeteros) - a cross platform stupid simple and efficient bandwidth monitoring tool running locally with a web interface. [Downloads, FAQs, Docs](https://codebox.net/pages/tagged/BitMeter%20OS)
 * [monitoring-fr](https://www.monitoring-fr.org/solutions/) - [FR] Inventory of most recommended open source monitoring solutions
+* [MorganGeek](https://gist.github.com/MorganGeek/73217d0cd8435b2c02e1f17be030b04c) - monitoring solutions compared
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
