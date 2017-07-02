@@ -1312,6 +1312,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted 
 * [Maarten Billemont](http://masterpasswordapp.com/) - Master Password, a password generator algorithm to remove the need of password managers.
 * [AV-TEST](https://www.av-test.org/en/antivirus/) - Antivirus test results on Mobile devices (Android), Windows, Mac
+* [AV-Comparatives](https://www.av-comparatives.org/) - independent tests of antivirus softwares
 * [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
 * [Jotti](https://virusscan.jotti.org/) - online virus scanner
 
