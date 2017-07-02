@@ -505,7 +505,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alexander Bayandin](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. Bonus : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
 * [ThePirateBay Proxy List](https://thepiratebay-proxylist.org/)
-* [Torrent9](http://www.torrent9.cc/) - [FR] Torrent9 because T411 ~~starts to suck~~ is out of business
 * [NextWarez](http://nextwarez.com/torrent/actu-torrent/) - [FR] news and ranking about download sites and downloaded contents
 * [Kooba](http://koob.jake.run/) - an interactive graph for finding new books 
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -518,10 +517,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Torrent Franais](http://www.xn--torrentfranais-qjb.fr/) - [FR] file sharing & torrent news
 * Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
 * [MorganGeek](https://gist.github.com/MorganGeek/aa1f21c3b87e90a2cde567a73209ef13) - download sites compared using some searches
-* [TorrentProject](https://torrentproject.se/) - torrent indexer with lot of content
+* [The Pirate Bay](https://thepiratebay.org/) - yet one of the best place to find good torrents
 * [iDope](https://idope.se/) - torrent indexer / tribute to kickass 
-* [Zone Telechargement](https://www.zone-telechargement.ws/) - [FR] a place to find direct download links for various content
-* [TwoDDL](https://2ddl.unblocked.srl/) - a place for direct download links
+* [Extreme Download](https://www.extreme-down.one/home.html) - [FR] a good place to find direct download links for various content
+* [Zone Telechargement](https://www.zone-telechargement.ws/) - [FR] an alternative place to find direct download links
+* [Torrent9](http://www.torrent9.cc/) - [FR] Torrent9 because T411 ~~starts to suck~~ is out of business
+* [torrents.me](https://torrents.me/) - good torrent indexer (lot of content), but results quality may depend on your criteria
+* [TorrentProject](https://torrentproject.se/) - torrent indexer with lot of content
+* [TwoDDL](https://2ddl.unblocked.srl/) - a place for direct download links, but not the best
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
 
