@@ -47,6 +47,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Logging](#logging)
   * [Monitoring](#monitoring)
   * [ServiceNow](#servicenow)
+* [Philosophy](#philosophy)
 * [Photography](#photography)
 * [Podcasts](#podcasts)
 * [Prepping](#prepping)
@@ -790,6 +791,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Apache Docs](https://httpd.apache.org/docs/2.4/en/vhosts/examples.html) - VirtualHost usage examples
 * [Jeff Starr](https://perishablepress.com/stupid-htaccess-tricks/) - Stupid .htaccess Tricks
 * [Jeff Starr](https://perishablepress.com/htaccess-cleanup/) - .htaccess Cleanup
+* [Server Fault](https://serverfault.com/questions/567320/difference-between-default-and-in-virtualhost-context) - difference between _default_:* and *:* in VirtualHost Context
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
@@ -822,6 +824,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Debugging_Business_Rules#gsc.tab=0) - Debugging Business Rules
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Fix_Scripts#Testing_Fix_Scripts&gsc.tab=0) - Fix Scripts & Testing Fix Scripts
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Script_Includes#gsc.tab=0) - Script Includes. Related : [Use Script Includes](https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/server-scripting/concept/c_UseScriptIncludes.html)
+
+# Philosophy
+* [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -915,7 +920,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
 > Tools
 * [Chris Barber](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
-* [BugMeNot](http://bugmenot.com/) - enter a domain or url and find shared logins
+* [BugMeNot](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
 * [Alexander Bayandin](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -989,6 +994,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
 * [DemandRush](https://www.demandrush.com/) - Get paid to build your next side project
 * [Ben Hilburn](https://bhilburn.org/a-keystone-of-success/) - What mature engineers do and don't do / what it means to be a mature engineer.
+* [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
+* [Zazzle](https://www.zazzle.com/software+developer+stickers) - Software Developer Stickers
+* [Redbubble](https://www.redbubble.com/shop/developer+stickers) - Moooaaar developer stickers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1010,6 +1018,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * [Andrew Yurisich](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code
+* [Salvatore Gentile](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -1054,6 +1063,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
 * [Harry Roberts](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
 * [Ben Hilburn](https://github.com/bhilburn/dotfiles) - shared configs / dotfiles / rcfiles / etc.
+* [Amber Yust](https://codingkilledthecat-wordpress-com.cdn.ampproject.org/c/s/codingkilledthecat.wordpress.com/2012/08/08/git-dotfiles-and-hardlinks/amp/) - Concerns about Git, Dotfiles, and Hardlinks
 * [Michael White](https://gist.github.com/mwhite/6887990) - The Ultimate Git Alias Setup
 * [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Aliases) - Collection of git aliases
 * [Nicola Paolucci](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/) - The power of Git subtree
@@ -1213,6 +1223,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
+* [Carl Golden](https://themindsjournal.com/the-12-different-personality-archetypes-and-what-you-must-know-about-each-one/) - The 12 Different Personality Archetypes
 * [College Match Up](http://www.collegematchup.net/features/best-jobs-for-your-personality-type/) - Best jobs for your personality type
 * [16Personalities](https://www.16personalities.com/free-personality-test) - Neris Type explorer : Free Personality Test
 * [16Personalities](https://www.16personalities.com/infp-personality) - INFP personality "The Mediator"
@@ -1239,6 +1250,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nicola Paolucci](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/) - Ten tips for wonderful bash productivity
 * [blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) - Mastering Bash and Terminal
 * [kvz.io](http://kvz.io/blog/2013/11/21/bash-best-practices/) - Best Practices for Writing Bash Scripts
+* [Aaron Zauner](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide. Discovered via [DevHub](https://devhub.io/repos/azet-community_bash_style_guide)
 * [Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/) - 3 shell scripts to improve your writing
 * [Quickshiftin](https://quickshiftin.com/blog/2014/01/template-method-pattern-bash/) - Template method pattern in BASH
 * [Fahd Shariff](http://fahdshariff.blogspot.be/2013/10/shell-scripting-best-practices.html) - Shell Scripting - Best Practices
@@ -1329,7 +1341,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Riseup!](https://riseup.net/fr/security/message-security/openpgp/best-practices) - [FR] Bonnes pratiques pour l'utilisation d'OpenPGP
 * [Jacob Appelbaum](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) - Example of hardened GPG config file from duraconf
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/) - GNU Privacy Guard Manual
-* [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). [Discovered from Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
+* [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). Discovered via [Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
 * [Nitin Venkatesh ](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - PGP and SSH keys - Generate, export, backup and restore
 * [GnuPG Docs](https://www.gnupg.org/gph/en/manual/book1.html) - (1999) The GNU Privacy Handbook
 * [/r/GnuPG](https://www.reddit.com/r/GnuPG/) - resources on everything about GnuPG, PGP, OpenPGP 
@@ -1338,6 +1350,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Saraev Nikita](https://www.reddit.com/r/GnuPG/comments/47f23m/gnupg_with_32kb_rsa_keys/) - GnuPG with 32kb RSA keys
 
 ## OpenSSL 
+* [ZyTrax](http://www.zytrax.com/tech/survival/ssl.html) - Survival guides - TLS/SSL and SSL (X.509) Certificates
 * [LZone](http://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
 * [Remy van Elst](https://raymii.org/s/tutorials/Encrypt_and_decrypt_files_to_public_keys_via_the_OpenSSL_Command_Line.html) - Encrypt and decrypt files to public keys via the OpenSSL Command Line
 * [LinuxConfig](https://linuxconfig.org/using-openssl-to-encrypt-messages-and-files-on-linux) - Using OpenSSL to encrypt messages and files on Linux
