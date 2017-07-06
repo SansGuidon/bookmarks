@@ -7,6 +7,7 @@
 * Make decisions using the path of least regret
 * The simplest explanation is always the most likely.
 * [Christopher Diggins](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) - The Principles of Good Programming
+* You are the books you read, the films you watch, the music you listen to, the people you spend time with, the conversations you engage in. Choose wisely what you feed your mind.
 
 # from my Bullet Journal
 ## Values 
