@@ -898,6 +898,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MindTools](https://www.mindtools.com/pages/article/newHTE_96.htm) - tips for Overcoming Procrastination
 * [Google](http://www.powersearchingwithgoogle.com/) - Power searching with google
 * [How To Do Things](http://www.howtodothings.com/) - How to do things / Various how-to guides and tips for noobs
+* [wikiHow](http://www.wikihow.com/Main-Page) - How to do anything. However, if you take a look at sections such as [Family Life](http://www.wikihow.com/Category:Family-Life) it can be creepy.... (I mean, do we need a site to learn what is family about  ?)
 * [HowStuffWorks](http://www.howstuffworks.com/) - easy-to-understand answers and explanations of how the world actually works
 * [Instructables](http://www.instructables.com/) - How to make anything
 * [Vikas Kumar Yadav](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
@@ -941,6 +942,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MorganGeek](https://gist.github.com/MorganGeek/70a89f69271e73b4d6fd491eb8c3b134) - Inbox by Google search tricks
 * [Robert Zak](https://www.maketecheasier.com/chrome-flags-better-browsing-experience/) - some useful chrome flags for a better UX in Google Chrome 
 * [Karrar Haider](https://www.maketecheasier.com/offline-mode-google-chrome/) - Use chrome flags to enable offline mode in Google Chrome
+* [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -1437,6 +1439,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rahul Kapoor](https://github.com/Awesome-Windows/Awesome) - curated list of best applications and tools for Windows.
 * [Rahul Kapoor](https://github.com/Awesome-Windows/awesome-windows-command-line) - cool stuffs you can do with windows terminal
 * [WinAdmins on Slack](https://slofile.com/slack/winadmins) - Worldwide chat of Windows admins
+* [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
