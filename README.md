@@ -499,6 +499,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [RuTracker](https://rutracker.org/forum/index.php) - torrent for music
 * [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
 * [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
+* [Addic7ed.com](http://www.addic7ed.com/) - free subtitles for tv show and movies
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
 * [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
@@ -870,7 +871,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy 
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 * [DuckDuckGo](https://spreadprivacy.com/privacy-tips/home) - Fix Tracking : how to stop getting tracked on desktop and mobile
+* [Google](https://www.google.com/safetycenter/everyone/start/) - Google' guide : How to keep your stuff secure and private
 * [That One Privacy Guy](https://thatoneprivacysite.net/) - That One Privacy Site : a resource for those who value their privacy, with amazing comparisons of existing VPN / Emails services
+* [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions 
 
 # Productivity
 > Tips
@@ -1334,6 +1337,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [AV-Comparatives](https://www.av-comparatives.org/) - independent tests of antivirus softwares
 * [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
 * [Jotti](https://virusscan.jotti.org/) - online virus scanner
+* [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions 
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
