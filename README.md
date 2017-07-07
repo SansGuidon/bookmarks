@@ -1160,6 +1160,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hanxue Lee](http://flummox-engineering.blogspot.com/2016/01/installing-jenkins-os-x-homebrew.html) - Installing Jenkins on OS X using Homebrew
 * [StackShare](https://stackshare.io/javascript-ui-libraries) - popular JavaScript UI libraries on StackShare
 * [MacAdmins on Slack](https://macadmins.herokuapp.com/) - Place where many of OS X Admins belong
+* [OS X Daily](http://osxdaily.com/2011/09/26/show-package-contents-unavailable-extract-pkg-files-without-installing-them/) - Command line : Extract .pkg Files Without Installing Them
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
