@@ -184,6 +184,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
 * [DevOps on Slack](https://devopschat.co/) - DevOps fans on Slack
 * [DevOpsLinks on Slack](http://devopslinks.com/) - Where “software DEVelopment” meets “information technology OPerationS”
+* [Joran Le Cren](http://squad-twelve.com/2017/07/03/7-specific-suggestions-to-sabotage-devops-simply/) - 7 Specific Suggestions to Sabotage DevOps Simply
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -556,6 +557,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [WhatsMyIP](http://www.whatsmyip.org/random-password-generator/) - password generator & other text related tools (hash lookup, regex tester)
 * [YouTube to MP3 converter](http://www.youtube-mp3.org/) 
 * [Wayback Machine](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* [Cached View](http://www.cachedview.com/) - Google + Wayback machine Cached Pages of any website
 * [ChangeDetection](https://www.changedetection.com/) - Know automatically when any web page changes	
 * [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
