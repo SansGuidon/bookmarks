@@ -71,6 +71,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Programmer Humor](#programmer-humor)
   * [Python](#python)
   * [Ruby](#ruby)
+  * [Rust](#rust)
 * [Psychology](#psychology)
 * [Quotes](QUOTES.md)
 * [Robots](#robots)
@@ -703,6 +704,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SathiyaMoorthy](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples) - cron job examples
 * [Shivam](http://www.trysudo.com/7-tips-for-a-productive-development-setup-on-linux/) - 7 tips for a productive development setup on Linux
 * [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server) - How To Configure SSH Key-Based Authentication on a Linux Server
+* [Al Williams](https://hackaday.com/2017/03/10/linux-fu-keeping-things-running/) - Linux-Fu: Keeping Things Running
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1192,6 +1194,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Atom on Slack](http://atom-slack.herokuapp.com/) - Slack community for Atom Text editor
 * [Automations Tools Bootcamp on Slack](https://automationtools-bootcamp-slack.herokuapp.com/) - Development tools that enable automation of software projects
 * [Code search for Developers](http://codegists.com/search/jenkinsfile-tutorial/) - search for code snippets
+* [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
+* [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 
 ## Programmer Humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -1227,6 +1231,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
+
+## Rust
+* [New Rustacean](https://www.newrustacean.com/) - a podcast about learning Rust
 
 # Podcasts
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
@@ -1314,6 +1321,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/crypto](https://www.reddit.com/r/crypto/) - cryptography news and discussions
 * [/r/codes](https://www.reddit.com/r/codes/) - Hiding data, cracking codes, finding hidden messages
 * [/r/security](https://www.reddit.com/r/security/) - security news on reddit
+* [DiabloHorn](https://diablohorn.com/) - a site for people attempting to understand security
 * [/r/opsec](https://www.reddit.com/r/opsec/) - opsec, to learn about proper habits and policies for minimizing attack surfaces and SPOF
 * [/r/OperationsSecurity](https://www.reddit.com/r/OperationsSecurity/) - Operations security news, resources, questions & discussions
 * [/r/websec](https://www.reddit.com/r/websec/) - Web security
@@ -1345,6 +1353,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
 * [Jotti](https://virusscan.jotti.org/) - online virus scanner
 * [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions 
+* [DiabloHorn](https://diablohorn.com/2015/09/04/discovering-the-secrets-of-a-pageant-minidump/) - Discovering the secrets of a pageant minidump
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
