@@ -718,6 +718,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [nixCraft](https://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html) - Linux Find Out Last System Reboot Time and Date Command
 * [nixCraft](https://www.cyberciti.biz/faq/linux-unix-last-command-examples/) - Linux / Unix: last Command Examples
 * [nixCraft](https://www.cyberciti.biz/hardware/howto-see-historical-statistical-uptime-on-linux-server/) - Linux Server See the Historical and Statistical Uptime of System With tuptime Utility
+* [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - Linux tracing systems & how they fit together
+* [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - 10 Basic Linux Networking and Monitoring Commands You Should Know
+* [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -832,6 +835,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [BitMeter OS](https://github.com/codebox/bitmeteros) - a cross platform stupid simple and efficient bandwidth monitoring tool running locally with a web interface. [Downloads, FAQs, Docs](https://codebox.net/pages/tagged/BitMeter%20OS)
 * [monitoring-fr](https://www.monitoring-fr.org/solutions/) - [FR] Inventory of most recommended open source monitoring solutions
 * [MorganGeek](https://gist.github.com/MorganGeek/73217d0cd8435b2c02e1f17be030b04c) - monitoring solutions compared
+* [MorganGeek](https://gist.github.com/MorganGeek/16e76740b5c3ed75481eea4972f583a7) - monitoring tools summarized
+* [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - Linux tracing systems & how they fit together
+* [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - 10 Basic Linux Networking and Monitoring Commands You Should Know
+* [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
+* [Steven Vaughan-Nichols](https://insights.hpe.com/articles/16-linux-server-monitoring-commands-you-really-need-to-know-1703.html) - 16 Linux server monitoring commands you really need to know
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
