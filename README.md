@@ -829,6 +829,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CloudBees](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_at_splunk.pdf) - Jenkins at Splunk and Splunking Jenkins +[Video on YouTube](https://www.youtube.com/watch?v=dlsEprySOrg)
 * [Eugen Paraschiv](https://stackify.com/9-logging-sins-java/) - 9 Logging Sins in Your Java Applications
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
+* [Splunk Docs](https://docs.splunk.com/Documentation/Splunk/6.4.3/SearchReference/Fields) - Splunk Search reference
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
@@ -1117,12 +1118,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kernel Docs](https://www.kernel.org/pub/software/scm/git/docs/git-push.html) - git-push
 * [Git-SCM Docs](https://git-scm.com/docs/git-diff) - git-diff
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/git-submodules-workflows-tips#tip5) - Git submodules: core concept, workflows, and tips
+* [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) - Mastering Git submodules
+* [Git-SCM Docs](https://git-scm.com/book/en/v2/Git-Tools-Submodules) - Submodules documentation
 * [Hemanth.HM](https://github.com/git-tips/tips) - [git-tips/tips] Collection of git-tips
 * [Lars Vogel](http://www.vogella.com/tutorials/Git/article.html) - Git - Tutorial
 * [Pere Orga](https://orga.cat/posts/most-useful-git-commands) - The most useful git commands
 * [Christophe Porteneuve](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa) - Getting solid at Git rebase vs. merge
 * [Christophe Porteneuve](https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df) - 30 Git CLI options you should know about
-* [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) - Mastering Git submodules
 * [Markus Wein](http://nuclearsquid.com/writings/git-tricks-tips-workflows/) - A few of my Git tricks, tips and workflows
 * [Andy Jeffries](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/) - 25 Tips for Intermediate Git Users
 * [Christophe Porteneuve](https://medium.com/@porteneuve/video-collaboration-best-practices-with-git-and-github-2b5de9424af2) - [Video] Collaboration best practices with Git and GitHub - [Slides](http://drive.delicious-insights.com/legacy-files/git-github-collab-bp.pdf)
@@ -1156,6 +1158,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alain Gilbert](https://github.com/alaingilbert/git2graph) - git2graph : Generate a git graph structure from linear git history
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - an alternative to git-filter-branch. [Sources on Github](https://github.com/rtyley/bfg-repo-cleaner)
 * [Sven Hofmann](https://gist.github.com/hofmannsven/6814451) - Simply git cheatsheet
+* [Markus Wein](http://nuclearsquid.com/writings/git-add/) - git add --patch and --interactive
+* [Git SCM Docs](https://git-scm.com/docs/git-archive) - git-archive
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1353,6 +1357,7 @@ Raw
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [Eric Pement](http://www.pement.org/sed/sed1line.txt) - useful one-liners for sed. [FR version](http://sed.sourceforge.net/sed1line_fr.html)
 * [raidzero](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
+* [Rich Felker](http://www.etalabs.net/sh_tricks.html) - Rich’s sh (POSIX shell) tricks
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
