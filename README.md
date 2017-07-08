@@ -27,7 +27,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Finding content](#finding-content)
   * [App discovery](#app-discovery)
   * [Event discovery](#event-discovery)
-* [Free Online Tools](#free-online-tools)
+* [Free online tools](#free-online-tools)
 * [Gaming](#gaming)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
   * [Remote jobs](#remote-jobs)
@@ -56,7 +56,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Productivity](#productivity)
 * [Programming](#programming)
   * [API](#api)
-  * [Clean Code](#clean-code)
+  * [Clean code](#clean-code)
   * [ChatOps](#chatops)
   * [Debugging](#debugging)
   * [Gamedev](#gamedev)
@@ -66,8 +66,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Java](#java)
   * [JavaScript](#javascript)
   * [Mac](#mac)
-  * [Machine Learning](#machine-learning)
-  * [Mobile Development](#mobile-development)
+  * [Machine learning](#machine-learning)
+  * [Mobile development](#mobile-development)
   * [Productivity](#productivity-1)
   * [Programmer humor](#programmer-humor)
   * [Python](#python)
@@ -78,15 +78,15 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Quotes](QUOTES.md)
 * [Robots](#robots)
 * [Scripting](#scripting)
-  * [Shell Aliases](#shell-aliases)
+  * [Shell aliases](#shell-aliases)
 * [Security / Infosec](#security--infosec)
   * [GPG](#gpg)
   * [OpenSSL](#openssl)
   * [Web](#web)
 * [Testing](#testing)
 * [UX / UI](#ux--ui)
-  * [Design Humor](#design-humor)
-* [Web Development](#web-development)
+  * [Design humor](#design-humor)
+* [Web development](#web-development)
 * [Windows](#windows)
 
 # Anime
@@ -539,6 +539,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
 * [dvdcompare.net](http://dvdcompare.net/) - dvd & blu-ray informations & comparisons
+* [VileR](http://int10h.org/oldschool-pc-fonts/) - world's biggest collection of classic text mode fonts, system fonts and BIOS fonts from DOS-era IBM PCs and compatibles
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -552,7 +553,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
 
-# Free Online Tools
+# Free online tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
 * [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
@@ -590,6 +591,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [TestMy](http://testmy.net/) - Internet speed test
 * [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
 * [Jotti](https://virusscan.jotti.org/) - online virus scanner
+* [Ethical hacking tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
+* [COMODO CA](https://crt.sh/) - Certificate search online
+* [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
+* [Ethical Hacking tools](https://pentest-tools.com/home) - online penetration testing tools
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -709,6 +714,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Netflix](https://medium.com/netflix-techblog/netflix-at-velocity-2015-linux-performance-tools-51964ddb81cf) - Netflix at Velocity 2015: Linux Performance Tools (+[Slides](https://www.slideshare.net/brendangregg/velocity-2015-linux-perf-tools))
 * [Aleksandar Todorović](https://github.com/aleksandar-todorovic/awesome-linux) - list of awesome resources that make Linux awesome
 * [Geek Flare](https://geekflare.com/category/web-infrastructure/unix/) - general Unix articles, tips, tools for managing web infrastructure
+* [LZone](https://lzone.de/cheat-sheet/Linux-Commands) - Linux commands cheatsheet
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
 * [SathiyaMoorthy](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples) - cron job examples
 * [Shivam](http://www.trysudo.com/7-tips-for-a-productive-development-setup-on-linux/) - 7 tips for a productive development setup on Linux
@@ -721,6 +727,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - Linux tracing systems & how they fit together
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - 10 Basic Linux Networking and Monitoring Commands You Should Know
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
+* [LZone](https://lzone.de/cheat-sheet/Linux-Networking) - Linux networking cheatsheet
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1031,6 +1038,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Zazzle](https://www.zazzle.com/software+developer+stickers) - Software Developer Stickers
 * [Redbubble](https://www.redbubble.com/shop/developer+stickers) - Moooaaar developer stickers
 * [Adam Williamson](https://www.happyassassin.net/2016/11/04/i-dont-like-computers/) - I don't like computers : touching testimonial... because sometimes, we also feel that the web loses us
+* [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices 
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1147,6 +1155,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Donne Martin](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
 * [Alain Gilbert](https://github.com/alaingilbert/git2graph) - git2graph : Generate a git graph structure from linear git history
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - an alternative to git-filter-branch. [Sources on Github](https://github.com/rtyley/bfg-repo-cleaner)
+* [Sven Hofmann](https://gist.github.com/hofmannsven/6814451) - Simply git cheatsheet
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1163,6 +1172,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gophers on Slack](https://gophersinvite.herokuapp.com/) - Group to discuss Go language
 * [Avelino](https://github.com/avelino/awesome-go) - curated list of awesome Go frameworks, libraries and software. See also [awesome-go.com](https://awesome-go.com/)
 * [GolangLibs](https://golanglibs.com) - inventory of go libraries an apps
+* [Checkmarx](https://checkmarx.gitbooks.io/go-scp/) - Go secure coding practices for web applications. [Sources on GitHub](https://github.com/Checkmarx/Go-SCP)
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -1252,6 +1262,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/PBSOD](https://www.reddit.com/r/PBSOD/) - public BSODs, crashes, and other errors
 * [/r/techsupportgore](https://www.reddit.com/r/techsupportgore/) - tech support horrors
 * [Mart Virkus](https://blog.toggl.com/2017/02/seven-circles-of-developer-hell/) - The Seven Circles of Developer Hell [Infographic]
+* [Christian Haschek](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html) - How to defend your website with ZIP bombs
+* [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
@@ -1271,6 +1283,8 @@ Raw
 * [The Android Arsenal](https://android-arsenal.com/tag/175) - android decompilers
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 * [JD Project](http://jd.benow.ca/) - yet another fast java decompiler
+* [Caleb Fenton](https://github.com/CalebFenton/apkfile) - ApkFile : Android app analysis and feature extraction library
+* [Caleb Fenton](https://github.com/CalebFenton/simplify) - Simplify : Generic Android Deobfuscator
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
@@ -1398,6 +1412,15 @@ Raw
 * [Jotti](https://virusscan.jotti.org/) - online virus scanner
 * [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions 
 * [DiabloHorn](https://diablohorn.com/2015/09/04/discovering-the-secrets-of-a-pageant-minidump/) - Discovering the secrets of a pageant minidump
+* [Aaron Toponce, Thomas H. Ptacek, ...](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a) - Cryptographic Best practices
+* [Ethical hacking tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
+* [Patrik Hudak](https://blog.sweepatic.com/art-of-subdomain-enumeration/) - the art of subdomain enumeration
+* [COMODO CA](https://crt.sh/) - crt.sh : Certificate search online for any domain
+* [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
+* [Ethical Hacking tools](https://pentest-tools.com/home) - online penetration testing tools
+* [Vincent Yiu](https://github.com/vysec/RedTips) - Red Team Tips
+* [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
+* [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices 
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -1462,7 +1485,7 @@ Raw
 * [Christian Beck](https://medium.com/ux-power-tools/terrible-ux-trends-for-2017-de6faebf099e) - Terrible UX Trends for 2017
 * [Kamal Nayan](http://www.uxcuses.com/) - Designer Excuses, based on [Jon Moore' article on medium](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910)
 
-# Web Development
+# Web development
 * [Steve Francia](https://gohugo.io/overview/introduction/) - Hugo is a fast & modern static site generator
 * [Amanda Visconti](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) - Building a static website with Jekyll and GitHub Pages
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -1486,6 +1509,7 @@ Raw
 * [Rex Swain](http://www.rexswain.com/httpview.html) - HTTP Viewer : See exactly what an HTTP request returns to your browser
 * [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
 * [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
+* [Christian Haschek](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html) - How to defend your website with ZIP bombs
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
