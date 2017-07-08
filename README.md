@@ -702,6 +702,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
 * [SathiyaMoorthy](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples) - cron job examples
 * [Shivam](http://www.trysudo.com/7-tips-for-a-productive-development-setup-on-linux/) - 7 tips for a productive development setup on Linux
+* [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server) - How To Configure SSH Key-Based Authentication on a Linux Server
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
