@@ -532,8 +532,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
 
 ## App discovery
-* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [Newest Show HN](https://news.ycombinator.com/shownew)
-* [Product Hunt](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
+* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
+* [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [AlternativeTo](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
 * [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
@@ -751,9 +751,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # News
 * [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 * [Wayne Larsen](https://hckrnews.com/) - HCKR News : unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
-* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [Newest Show HN](https://news.ycombinator.com/shownew)
+* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
 * [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the hacker news community's favorite content
-* [Product Hunt](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
+* [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [Joshua Stein](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 * [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
