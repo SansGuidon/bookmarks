@@ -66,10 +66,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Java](#java)
   * [JavaScript](#javascript)
   * [Mac](#mac)
+  * [Machine Learning](#machine-learning)
   * [Mobile Development](#mobile-development)
   * [Productivity](#productivity-1)
   * [Programmer Humor](#programmer-humor)
   * [Python](#python)
+  * [Reverse engineering](#reverse-engineering)
   * [Ruby](#ruby)
   * [Rust](#rust)
 * [Psychology](#psychology)
@@ -459,7 +461,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## VirtualBox
 * [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
 * [Thomas-Krenn](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox) - Headless Mode for VirtualBox
-* [APK Downloader](https://apps.evozi.com/apk-downloader/) - download any APK directly in your browser
 
 ## Vagrant
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
@@ -1168,9 +1169,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OS X Daily](http://osxdaily.com/2011/09/26/show-package-contents-unavailable-extract-pkg-files-without-installing-them/) - Command line : Extract .pkg Files Without Installing Them
 * [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - Mount & Unmount Drives from the Command Line in Mac OS X
 
+## Machine Learning
+* [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
+* [TensorFlow Docs](https://www.tensorflow.org/get_started/mnist/mechanics) - TensorFlow Mechanics 101
+
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
-* [Bob Pan](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
+* [The Android Arsenal](https://android-arsenal.com/) - inventory / categorized directory of libraries and tools for Android
+* [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 
 ## Productivity
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
@@ -1228,6 +1234,17 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenStack](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
 * [OpenStack](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
 * [jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
+
+## Reverse engineering
+* [Bob Pan](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
+* [APK Downloader](https://apps.evozi.com/apk-downloader/) - download any APK directly in your browser
+* [Decompilers online](http://www.javadecompilers.com/apk) - Decompile Apk and Dex Android files to Java
+* [raidzero](https://gist.github.com/raidzero/9378988) - rdump.py : Print all strings from android resources.arsc file
+Raw
+* [OVERSIMPLE](http://oversimple.fr/decompiler-une-application-android-complement/) - [FR] Désassembler une application Android 
+* [The Android Arsenal](https://android-arsenal.com/tag/175) - android decompilers
+* [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
+* [JD Project](http://jd.benow.ca/) - yet another fast java decompiler
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
@@ -1295,6 +1312,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [nixCraft](https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html) - zcommands: Read gzip Compressed Text Files On a Fly
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [Eric Pement](http://www.pement.org/sed/sed1line.txt) - useful one-liners for sed. [FR version](http://sed.sourceforge.net/sed1line_fr.html)
+* [raidzero](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
