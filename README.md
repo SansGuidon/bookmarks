@@ -69,7 +69,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Machine Learning](#machine-learning)
   * [Mobile Development](#mobile-development)
   * [Productivity](#productivity-1)
-  * [Programmer Humor](#programmer-humor)
+  * [Programmer humor](#programmer-humor)
   * [Python](#python)
   * [Reverse engineering](#reverse-engineering)
   * [Ruby](#ruby)
@@ -102,6 +102,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
+* [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
 * [Dale Emery](http://cwd.dhemery.com/2005/05/motivation) - model of motivation : Motivation = Ability × Results × Preferences
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/what-if-we-forget-to-write-the-tests) - What If We Forget To Write the Tests?
 * [Paul Kaye](https://www.linkedin.com/pulse/control-stifles-creativity-growth-paul-kaye) - Control stifles creativity and growth
@@ -125,6 +126,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - How to Work with PMs : A Cheat Sheet for Designers
 * [Raúl Ávila](https://dev.to/raulavila/my-experience-with-pair-programming) - My Experience with Pair Programming
 * [Ben Hilburn](https://bhilburn.org/a-keystone-of-success/) - What mature engineers do and don't do / what it means to be a mature engineer.
+* [Mart Virkus](https://blog.toggl.com/2017/02/seven-circles-of-developer-hell/) - The Seven Circles of Developer Hell [Infographic]
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -188,6 +190,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DevOps on Slack](https://devopschat.co/) - DevOps fans on Slack
 * [DevOpsLinks on Slack](http://devopslinks.com/) - Where “software DEVelopment” meets “information technology OPerationS”
 * [Joran Le Cren](http://squad-twelve.com/2017/07/03/7-specific-suggestions-to-sabotage-devops-simply/) - 7 Specific Suggestions to Sabotage DevOps Simply
+* [Mattias Geniar](https://ma.ttias.be/why-do-we-automate/) - Why do we automate?
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -351,6 +354,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cisco Spark](https://depot.ciscospark.com/integrations/categories/developer-tools) - Cisco Spark integrations with developer tools
 * [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - Chatops Pitfalls and Tips
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
+* [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -534,6 +538,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [TwoDDL](https://2ddl.unblocked.srl/) - a place for direct download links, but not the best
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
+* [dvdcompare.net](http://dvdcompare.net/) - dvd & blu-ray informations & comparisons
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -920,6 +925,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
 * [Hackaday](http://hackaday.com/) - fresh hacks every day 
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
+* [Mattias Geniar](https://ma.ttias.be/why-do-we-automate/) - Why do we automate?
 * [Bullet Journal](http://bulletjournal.com/) - a simple system to improve your productivity using only paper
 * [**Leo Babauta**](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
 * [Hack Productivity on Slack](https://hackproductivity.herokuapp.com/) - Slack group with productivity tips and tricks
@@ -1016,6 +1022,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
 * [Zazzle](https://www.zazzle.com/software+developer+stickers) - Software Developer Stickers
 * [Redbubble](https://www.redbubble.com/shop/developer+stickers) - Moooaaar developer stickers
+* [Adam Williamson](https://www.happyassassin.net/2016/11/04/i-dont-like-computers/) - I don't like computers : touching testimonial... because sometimes, we also feel that the web loses us
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1063,6 +1070,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
+* [Think Like (a) Git](http://think-like-a-git.net/) - Git shouldn't be so hard to learn : a guide for the perplexed
+* [Oh shit, git!](http://ohshitgit.com/) - git may be hard, screwing up is easy, here are some tips to fix your mistakes
 * [Emily Xie](https://www.youtube.com/watch?v=Y2Msq90ZknI) - [Video] Dissecting Git's Guts - Git Merge 2016 + [Cheat Sheet of git commands](https://github.com/emilyxxie/gits_guts_commands/blob/master/git_cheat_sheet.pdf)
 * [Spencer Krum](https://www.youtube.com/watch?v=d-T51nhmFhQ) - [Video] 20 Tricks with Git and Shell - Git Merge 2016
 * [James Coyle](https://www.jamescoyle.net/how-to/1891-git-ssl-certificate-problem-caused-by-self-signed-certificates) - Git SSL Certificate Problem Caused By Self Signed Certificates
@@ -1121,7 +1130,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tamir Bahar](https://dev.to/tmr232/dont-amend-fix) - Don't Amend, Fix
 * [AbdulBasit KABIR](https://dev.to/abulkay/whichs-the-right-git-workflow-for-my-next-project) - Which is the right git workflow for my next project?
 * [Kenneth Truyers](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/) - Git as a NoSql database
-* [Think Like (a) Git](http://think-like-a-git.net/) - Git shouldn't be so hard to learn : a guide for the perplexed
 * [Mislav Marohnić](https://mislav.net/2010/07/git-tips/) - A few git tips you didn't know about
 * [Mislav Marohnić](https://mislav.net/2014/02/hidden-documentation/) - Every line of code is always documented
 * [Andrew Peterson](http://ndpsoftware.com/git-cheatsheet.html) - Interactive Git Cheatsheet with a weird UI
@@ -1130,6 +1138,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - Little Things I Like to Do with Git
 * [Donne Martin](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
 * [Alain Gilbert](https://github.com/alaingilbert/git2graph) - git2graph : Generate a git graph structure from linear git history
+* [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - an alternative to git-filter-branch. [Sources on Github](https://github.com/rtyley/bfg-repo-cleaner)
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1211,7 +1220,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 
-## Programmer Humor
+## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
 * [Geek&Poke](http://geek-and-poke.com/) - cartoons
 * [The Profound Programmer](http://theprofoundprogrammer.com/) - Programming frustrations expressed through profane, beautiful photographs
@@ -1234,6 +1243,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/Sysadminhumor](https://www.reddit.com/r/Sysadminhumor/) - for sysadmins with a sense of humor
 * [/r/PBSOD](https://www.reddit.com/r/PBSOD/) - public BSODs, crashes, and other errors
 * [/r/techsupportgore](https://www.reddit.com/r/techsupportgore/) - tech support horrors
+* [Mart Virkus](https://blog.toggl.com/2017/02/seven-circles-of-developer-hell/) - The Seven Circles of Developer Hell [Infographic]
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
