@@ -263,6 +263,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Containers
 * [Docker](http://blog.docker.com/curated/) - Docker Blog
+* [Docker Forums](https://forums.docker.com/latest) - latest topics on docker forums
 * [DEV](https://dev.to/t/docker) - Docker related articles on dev.to()
 * [Docker](https://www.youtube.com/user/dockerrun) - Docker Youtube channel
 * [CoreOS](https://www.youtube.com/channel/UCGORzzCxacx2r_NsF6_DteQ) - CoreOS Youtube Channel
@@ -409,6 +410,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenStack](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
 * [jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
 * [Developer code search](http://codegists.com/search?q=jenkinsfile) - Examples of Jenkinsfile (returned by a search engine)
+* [Christian Galsterer](https://christiangalsterer.wordpress.com/2015/04/23/continuous-integration-for-pull-requests-with-jenkins-and-stash/) - Continuous Integration for Pull Requests with Jenkins and Bitbucket Server (Stash)
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -654,6 +656,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Linux / Unix
 * [/r/linux](https://www.reddit.com/r/linux/) - discussions & news about linux on reddit
+* [**nixCraft**](https://www.cyberciti.biz/) - linux tips, hacks, tutorials and ideas
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
 * [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
@@ -706,6 +709,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Shivam](http://www.trysudo.com/7-tips-for-a-productive-development-setup-on-linux/) - 7 tips for a productive development setup on Linux
 * [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server) - How To Configure SSH Key-Based Authentication on a Linux Server
 * [Al Williams](https://hackaday.com/2017/03/10/linux-fu-keeping-things-running/) - Linux-Fu: Keeping Things Running
+* [Vivek Gite](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Dig Command Find Out TTL (Time to Live) Value For DNS Records
+* [nixCraft](https://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html) - Linux Find Out Last System Reboot Time and Date Command
+* [nixCraft](https://www.cyberciti.biz/faq/linux-unix-last-command-examples/) - Linux / Unix: last Command Examples
+* [nixCraft](https://www.cyberciti.biz/hardware/howto-see-historical-statistical-uptime-on-linux-server/) - Linux Server See the Historical and Statistical Uptime of System With tuptime Utility
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -747,6 +754,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
 * [jamb0ss](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
+* [MorganGeek](https://gist.github.com/MorganGeek/66c9c8524e446550757d92c527c28c93) - work / programming playlists selection
 * [Tellement Nomade](http://www.tellementnomade.org/forum/) - [FR] forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
 
 # Networking
@@ -764,7 +772,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Operations / IT OPS
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
-* [nixCraft](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
+* [Vivek Gite](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
 * [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server? 
 * [Sylvain Kalache](https://www.linux.com/blog/first-5-commands-when-i-connect-linux-server) - First 5 Commands When I Connect on a Linux Server
 * [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
@@ -1298,7 +1306,7 @@ Raw
 * [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - Common shell script mistakes
 * [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
-* [explainshell.com](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
+* [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
 * [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3015657/linux/changing-how-bash-behaves.html) - Changing how bash behaves
 * [FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting) - Bash tips: Colors and formatting
@@ -1472,6 +1480,8 @@ Raw
 * [Rahul Kapoor](https://github.com/Awesome-Windows/awesome-windows-command-line) - cool stuffs you can do with windows terminal
 * [WinAdmins on Slack](https://slofile.com/slack/winadmins) - Worldwide chat of Windows admins
 * [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
+* [Rackspace](https://support.rackspace.com/how-to/nslookup-checking-dns-records-on-windows/) - Check DNS records on Windows with nslookup
+* [Microsoft Docs](https://support.microsoft.com/en-gb/help/2696547/how-to-enable-and-disable-smbv1-smbv2-and-smbv3-in-windows-and-windows) - How to enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
