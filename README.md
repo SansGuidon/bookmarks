@@ -331,6 +331,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Faheetah](https://gist.github.com/Faheetah/a2a401a01d2d56fa7d1a9d7ab0d2831b) - Docker patterns/anti-patterns : Generic Dockerfile demonstrating good practices
 * [Scott Coulton](https://speakerdeck.com/scottyc/if-its-in-a-container-its-secure-right-1) - If it’s in a container it’s secure right ?
 * [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
+* [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - Debugging - into rabbit hole with docker containers
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -854,6 +855,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - 10 Basic Linux Networking and Monitoring Commands You Should Know
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
 * [Steven Vaughan-Nichols](https://insights.hpe.com/articles/16-linux-server-monitoring-commands-you-really-need-to-know-1703.html) - 16 Linux server monitoring commands you really need to know
+* [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
@@ -1365,6 +1367,7 @@ Raw
 * [Eric Pement](http://www.pement.org/sed/sed1line.txt) - useful one-liners for sed. [FR version](http://sed.sourceforge.net/sed1line_fr.html)
 * [raidzero](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
 * [Rich Felker](http://www.etalabs.net/sh_tricks.html) - Rich’s sh (POSIX shell) tricks
+* [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
