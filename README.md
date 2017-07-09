@@ -36,6 +36,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Images](#images)
 * [Linux / Unix](#linux--unix)
   * [Linux for fun](#linux-for-fun)
+  * [Raspberry Pi](#raspberry-pi)
   * [Troubleshooting](#troubleshooting)
   * [Tuning](#tuning)
   * [Vim](#vim)
@@ -298,6 +299,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [James Coyle](https://www.jamescoyle.net/how-to/1512-export-and-import-a-docker-image-between-nodes) - Export and Import a Docker Image Between Nodes
 * [rhmjs/satellite5-docker](https://github.com/rhmjs/satellite5-docker/blob/master/README.md) - RHEL6 containers on a RHEL7 host registered to Satellite 5
 * [Red Hat Customer Portal](https://access.redhat.com/containers/#/explore) - Red Hat Container Catalog
+* [Red Hat Customer Portal](https://access.redhat.com/documentation/en-US/Red_Hat_Satellite/6.1/html/User_Guide/chap-Red_Hat_Satellite-User_Guide-Working_with_Containers.html#proc-Red_Hat_Satellite-User_Guide-Creating_Containers-To_Create_a_Container) - working with containers in Red Hat Satellite
 * [Derek Chamorro](https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/) - Common Dockerfile Mistakes
 * [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
 * [Jason Wilder](https://github.com/jwilder/docker-squash) - docker-squash : Squash docker images to make them smaller
@@ -734,6 +736,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Silver Moon](http://www.binarytides.com/linux-fun-commands/) - 20 amusing Linux commands to have fun with the terminal
 * [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=game) - Linux & SteamOS gaming community
 * [Linux game database](https://lgdb.org/games)
+
+## Raspberry Pi
+* [Ard Ray](http://blog.mxard.com/persistent-iptables-on-raspberry-pi-raspbian) - Persistent IPtables on Raspberry Pi (Raspbian)
+* [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/1247/what-should-be-done-to-secure-raspberry-pi) - What should be done to secure Raspberry Pi?
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -1177,6 +1183,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Avelino](https://github.com/avelino/awesome-go) - curated list of awesome Go frameworks, libraries and software. See also [awesome-go.com](https://awesome-go.com/)
 * [GolangLibs](https://golanglibs.com) - inventory of go libraries an apps
 * [Checkmarx](https://checkmarx.gitbooks.io/go-scp/) - Go secure coding practices for web applications. [Sources on GitHub](https://github.com/Checkmarx/Go-SCP)
+* [Justyna Ilczuk](http://tinystruggles.com/2015/08/29/golang-code-reuse.html) - Golang Code Reuse - Generalization tricks
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
