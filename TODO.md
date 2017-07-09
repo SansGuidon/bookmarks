@@ -7,7 +7,7 @@ ___
   * [ ] work computer
   * [x] personal portable (windows)
   * [ ] personal portable (linux)
-  * [ ] personal desktop
+  * [x] personal desktop
 * [ ] Add links from IM hipchat
 * [ ] Add links from chrome history (using [historyStats](https://chrome.google.com/webstore/detail/historystats/ffnaaljjakfkhpjjgfmjhcgamcoflinm/related) chrome extension)
 ___
