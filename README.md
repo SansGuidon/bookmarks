@@ -333,6 +333,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Scott Coulton](https://speakerdeck.com/scottyc/if-its-in-a-container-its-secure-right-1) - If it’s in a container it’s secure right ?
 * [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - Debugging - into rabbit hole with docker containers
+* [Sreenivas Makam](https://www.slideshare.net/SreenivasMakam/docker-networking-common-issues-and-troubleshooting-techniques) - Docker Networking - Common Issues and Troubleshooting Techniques
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1233,9 +1234,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/avoid-distractions-while-programming) - Avoiding Distractions While Programming
 * [Moran Danieli-Cohen](https://dev.to/msscohen/3-effective-ways-to-maintain-high-energy-levels-at-work-for-software-engineers) - 3 Effective Ways to Maintain High Energy Levels at Work for Software Engineers
-* [Clean Coder Blog](http://blog.cleancoder.com/uncle-bob/2016/05/21/BlueNoYellow.html) - Blue. No! Yellow! Comparative Productivity of Programming Languages
+* [Alex Thunder](http://alexthunder.livejournal.com/309815.html) - Don't wake up the programmer
+* [Marcos Placona](https://twitter.com/marcos_placona/status/882487720597237760) - That "5 minutes chat" with a developer
 * [Paul Graham](https://www.linkedin.com/pulse/context-switching-developers-paul-graham) - How Context Switching destroys Developers Productivity and how to fix it.
 * [Dan Richman](https://www.geekwire.com/2016/just-shut-let-devs-concentrate-programming-expert-advises/) - Just shut up and let your devs concentrate
+* [Clean Coder Blog](http://blog.cleancoder.com/uncle-bob/2016/05/21/BlueNoYellow.html) - Blue. No! Yellow! Comparative Productivity of Programming Languages
 * [Nick Janetakis](https://nickjanetakis.com/blog/who-else-wants-to-boost-their-productivity-with-tmux) - Who Else Wants to Boost Their Terminal Productivity With tmux?
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/04/become-a-better-developer-with-an-efficient-technical-watch/) - Become a better developer with an efficient technical watch
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
