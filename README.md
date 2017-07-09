@@ -135,6 +135,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DIY Projects](https://diyprojects.com/) - Craft Ideas & How To’s for Home Decor with Videos
 * [Hackaday](http://hackaday.com/) - fresh hacks every day 
 * [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
+* [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -1252,6 +1253,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Code search for Developers](http://codegists.com/search/jenkinsfile-tutorial/) - search for code snippets
 * [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
+* [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
