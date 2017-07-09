@@ -1,7 +1,7 @@
 ### self suggestions of content to import
 ___
 > currently working on
-* [ ] Highlight news sites in each section because everything seems equally important now
+* [ ] Highlight favorite sites & news sites in each section because everything seems equally important now
 * [ ] Add links from inbox (by gmail)
 * [ ] Add onetab links / bookmarks from other computers
   * [ ] work computer
