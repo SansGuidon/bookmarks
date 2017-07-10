@@ -84,6 +84,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [GPG](#gpg)
   * [OpenSSL](#openssl)
   * [Web](#web)
+* [Sports](#sports)
 * [Testing](#testing)
 * [UX / UI](#ux--ui)
   * [Design humor](#design-humor)
@@ -1503,6 +1504,9 @@ Raw
 * [Raymond Hill](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
 * [Raymond Hill](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 * [EFF](https://github.com/EFForg/privacybadger) - Privacy Badger - Block third party tracking in your browser
+
+# Sports
+* [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
