@@ -1455,6 +1455,7 @@ Raw
 * [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
 * [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices 
 * [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
+* [Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos) - [Videos] Introduction to Cryptography 
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
