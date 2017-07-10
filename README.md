@@ -1043,7 +1043,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - programming challenges on reddit
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * [Philip Stark](https://gist.github.com/hellerbarde/2843375) - Latency numbers every programmer should know
-* [Sonkeng Maldini](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
+* [**Sonkeng Maldini**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
 * [Vinh Quốc Nguyễn](https://betterdev.link/) - Better Dev Link collects links around the web that aims to help you learn something new
 * [Andrew Wulf](http://thecodist.com/article/the-biggest-difference-between-coding-today-and-when-i-started-in-the-80-s) - The Biggest Difference Between Coding Today and When I Started in the 80’s
 * [Andrew Wulf](http://thecodist.com/article/what_makes_a_programmer_good) - What Makes a Programmer Good?
