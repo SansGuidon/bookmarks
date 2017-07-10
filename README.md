@@ -696,6 +696,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/11/50-linux-commands/) - 50 Most Frequently Used UNIX / Linux Commands (With Examples)
 * [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
 * [Ramesh Natarajan](http://www.thegeekstuff.com/2011/06/iptables-rules-examples/) - 25 Most Frequently Used Linux IPTables Rules Examples
+* [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/09/linux-one-liners/) - 6 Useful Linux One Liners
 * [Maxim Chernyak](http://hakunin.com/permissions) - Linux permissions cheatsheet 
 * [CHMOD command calculator](https://chmodcommand.com/)
@@ -1453,6 +1454,7 @@ Raw
 * [Vincent Yiu](https://github.com/vysec/RedTips) - Red Team Tips
 * [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
 * [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices 
+* [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
