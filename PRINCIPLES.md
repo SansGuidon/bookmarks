@@ -8,6 +8,7 @@
 * The simplest explanation is always the most likely.
 * [Christopher Diggins](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) - The Principles of Good Programming
 * You are the books you read, the films you watch, the music you listen to, the people you spend time with, the conversations you engage in. Choose wisely what you feed your mind.
+* [Lars Kappert](https://webpro.github.io/programming-principles/) - Categorized Overview of Programming Principles
 
 # from my Bullet Journal
 ## Values 
@@ -70,8 +71,6 @@
 * living isn't fucking easy but at least you can make your life more fun
 * when you pause what you're doing, you find more interesting ways to do it. So pause often
 * Be you ! the world will adjust
-* [Programming Principles](https://webpro.github.io/programming-principles/) 
-
 
 ## Art of Questions
 * Just ask
