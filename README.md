@@ -193,6 +193,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DevOpsLinks on Slack](http://devopslinks.com/) - Where “software DEVelopment” meets “information technology OPerationS”
 * [Joran Le Cren](http://squad-twelve.com/2017/07/03/7-specific-suggestions-to-sabotage-devops-simply/) - 7 Specific Suggestions to Sabotage DevOps Simply
 * [Mattias Geniar](https://ma.ttias.be/why-do-we-automate/) - Why do we automate?
+* [Aaron Boodman](https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b) - how the team responsible for Google Chrome ships software
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
