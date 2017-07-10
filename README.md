@@ -1058,6 +1058,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Redbubble](https://www.redbubble.com/shop/developer+stickers) - Moooaaar developer stickers
 * [Adam Williamson](https://www.happyassassin.net/2016/11/04/i-dont-like-computers/) - I don't like computers : touching testimonial... because sometimes, we also feel that the web loses us
 * [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices 
+* [Lars Kappert](https://webpro.github.io/programming-principles/) - Categorized overview of Programming Principles. [Sources](https://github.com/webpro/programming-principles)
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
