@@ -1190,6 +1190,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GolangLibs](https://golanglibs.com) - inventory of go libraries an apps
 * [Checkmarx](https://checkmarx.gitbooks.io/go-scp/) - Go secure coding practices for web applications. [Sources on GitHub](https://github.com/Checkmarx/Go-SCP)
 * [Justyna Ilczuk](http://tinystruggles.com/2015/08/29/golang-code-reuse.html) - Golang Code Reuse - Generalization tricks
+* [Go Resources](https://www.golang-book.com/books/intro/9) - Structs and Interfaces
+* [Stack Overflow](https://stackoverflow.com/questions/13511203/why-cant-i-assign-a-struct-to-an-interface) - Why can't I assign a *Struct to an *Interface?
+* [Christoph Berger](https://appliedgo.net/generics/) - Who needs generics? Use ... instead!
+* [Nathan LeClaire](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/) - Interfaces and Composition for Effective Unit Testing in Golang
+* [Nathan LeClaire](https://nathanleclaire.com/blog/2015/03/09/youre-not-using-this-enough-part-one-go-interfaces/) - You're Not Using This Enough, Part One: Go Interfaces
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
