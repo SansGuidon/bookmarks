@@ -7,3 +7,4 @@
 * It doesn't matter who you are, only what you will become
 * If you think good architecture is expensive, try bad architecture
 * Truth can only be found in one place: the code
+* > "Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on." Richard Feynman
