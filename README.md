@@ -1062,6 +1062,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
 * [Gregg Caines](http://caines.ca/blog/2013/09/13/you-probably-dont-need-to-version-your-web-api/) - You Probably Don’t Need to Version Your Web API.
+* [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 
 ## Clean Code
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
@@ -1456,6 +1457,7 @@ Raw
 * [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices 
 * [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
 * [Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos) - [Videos] Introduction to Cryptography 
+* [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -1545,6 +1547,7 @@ Raw
 * [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
 * [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
 * [Christian Haschek](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html) - How to defend your website with ZIP bombs
+* [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
