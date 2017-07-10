@@ -196,7 +196,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aaron Boodman](https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b) - how the team responsible for Google Chrome ships software
 * [Vishal Naik](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines) - Enabling Trunk Based Development with Deployment Pipelines / learn from deployment pipeline anti patterns 
 * [Phu Ha](http://blog.asg-service.net/post/continuous-integration-part-1-setting-up-vms-docker-and-jenkins/) - Continuous Integration: Part 1 - Setting Up VMs, Docker, and Jenkins
-* [Phu H](http://blog.asg-service.net/post/continuous-integration-part-2-setup-a-jenkins-slave-docker-registry-jenkinsfile/) - Continuous Integration: Part 2 - Setup a Jenkins Slave, Docker Registry, and Jenkinsfile (Pipeline)
+* [Phu Ha](http://blog.asg-service.net/post/continuous-integration-part-2-setup-a-jenkins-slave-docker-registry-jenkinsfile/) - Continuous Integration: Part 2 - Setup a Jenkins Slave, Docker Registry, and Jenkinsfile (Pipeline)
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
