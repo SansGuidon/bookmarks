@@ -928,6 +928,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Google](https://www.google.com/safetycenter/everyone/start/) - Google' guide : How to keep your stuff secure and private
 * [That One Privacy Guy](https://thatoneprivacysite.net/) - That One Privacy Site : a resource for those who value their privacy, with amazing comparisons of existing VPN / Emails services
 * [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions 
+* [Steven J. Vaughan-Nichols](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/) - How to secure Windows 10: The paranoid's guide
+* [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
 
 # Productivity
 > Tips
@@ -1573,6 +1575,9 @@ Raw
 * [Just Install](https://github.com/just-install/just-install) - The simple package installer for Windows. I didn't tried yet, but it seems a good alternative to Chocolatey, following KISS principle
 * [CMD commands](https://ss64.com/nt/) - A-Z of windows terminal commands
 * [PowerShell commands](https://ss64.com/ps/) - A-Z of windows powershell commands
+* [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - script to automate tasks on a fresh windows 10 / windows server 2016
+* [Steven J. Vaughan-Nichols](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/) - How to secure Windows 10: The paranoid's guide
+* [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
