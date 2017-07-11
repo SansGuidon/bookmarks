@@ -137,6 +137,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hackaday](http://hackaday.com/) - fresh hacks every day 
 * [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
 * [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
+* [Nathan Kontny](https://m.signalvnoise.com/how-to-be-original-8877c5feeeb1) - How to be original / aka whom creative ideas come from ?
+* [Marion PoetzNikolaus FrankeMartin Schreier](https://hbr.org/2014/11/sometimes-the-best-ideas-come-from-outside-your-industry) - Sometimes the Best Ideas Come from Outside Your Industry
+* [Dan Kim](https://m.signalvnoise.com/its-ok-to-be-pragmatic-with-a-little-help-from-the-crazy-ones-461f7773a176) - It’s OK to be pragmatic (with a little help from the “crazy ones”)
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
