@@ -617,6 +617,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [COMODO CA](https://crt.sh/) - Certificate search online
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
 * [Ethical Hacking tools](https://pentest-tools.com/home) - online penetration testing tools
+* [Open Port Check Tool](https://www.yougetsignal.com/tools/open-ports/) - Port forwarding tester - open port finder
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1317,6 +1318,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mart Virkus](https://blog.toggl.com/2017/02/seven-circles-of-developer-hell/) - The Seven Circles of Developer Hell [Infographic]
 * [Christian Haschek](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html) - How to defend your website with ZIP bombs
 * [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
+* [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
+* [/r/ProgrammerReactions](https://www.reddit.com/r/programmerreactions/) - reactions related to Software Development
+* [Life of a Software Engineer](http://lifeofasoftwareengineer.tumblr.com/) - another reactions tumblr related to Software Development
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
@@ -1480,6 +1484,7 @@ Raw
 * [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
 * [Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos) - [Videos] Introduction to Cryptography 
 * [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
+* [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
