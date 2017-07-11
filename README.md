@@ -1570,6 +1570,7 @@ Raw
 * [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
 * [Rackspace](https://support.rackspace.com/how-to/nslookup-checking-dns-records-on-windows/) - Check DNS records on Windows with nslookup
 * [Microsoft Docs](https://support.microsoft.com/en-gb/help/2696547/how-to-enable-and-disable-smbv1-smbv2-and-smbv3-in-windows-and-windows) - How to enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server
+* [Just Install](https://github.com/just-install/just-install) - The simple package installer for Windows. I didn't tried yet, but it seems a good alternative to Chocolatey, following KISS principle
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
