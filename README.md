@@ -645,6 +645,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/BasicIncome](https://www.reddit.com/r/BasicIncome/) - community space for discussion and advocacy of Basic Income schemes
 * [/r/antiwork](https://www.reddit.com/r/antiwork/) - discussion and advocacy of a world without work
 * [PartTimer](https://parttimer.io/) - a job board for skilled work under 40 HRS/week
+* [Glassdoor](https://www.glassdoor.com/Reviews/index.htm) - company reviews and salaries posted anonymously by employees.
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
