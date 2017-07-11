@@ -1358,6 +1358,7 @@ Raw
 * [/r/totallynotrobots](https://www.reddit.com/r/totallynotrobots/) - a place where ~~robots~~ humans share their thoughts (humor)
 * [/r/RobotNews](https://www.reddit.com/r/RobotNews/) - discussions and news about robotisation of society
 * [/r/shittyrobots](https://www.reddit.com/r/shittyrobots/) - useless, stupid, shitty funny robots
+* [Kurzgesagt](https://www.youtube.com/watch?v=WSKi8HfcxEk) - The Rise of the Machines – Why Automation is Different this Time
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
