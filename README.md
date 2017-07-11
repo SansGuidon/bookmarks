@@ -370,6 +370,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - Chatops Pitfalls and Tips
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
 * [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
+* [XKCD](https://xkcd.com/1810/) - xKCD about chat systems
+* [Sameroom.io](https://cdn.sameroom.io/chat-timeline.pdf) - a brief history of chat services from 1973 to the present day
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
