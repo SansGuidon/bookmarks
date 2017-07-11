@@ -432,6 +432,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
 * [Stackpoint.io on Slack](http://slack.stackpoint.io/) - Web-based interface for deployment of Kubernetes cluster
 * [Fabric8 on Slack](https://slack.fabric8.io/) - Open source integrated development platform for Kubernetes
+* [Ramit Surana](https://github.com/ramitsurana/awesome-kubernetes) - Awesome Kubernetes resources
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -471,6 +472,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michael Hausenblas](https://blog.openshift.com/kubernetes-application-coupling/) - Kubernetes: Application Coupling
 * [Laurent Broudoux](https://blog.openshift.com/multiple-deployment-methods-openshift/) - Multiple Deployment Methods for OpenShift
 * [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
+* [Openshift Switzerland Community](https://github.com/oscp/awesome-openshift3) - Awesome Openshift 3 resources
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
