@@ -621,6 +621,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=game) - Linux & SteamOS gaming community
 * [Linux game database](https://lgdb.org/games)
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
+* [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday 
 
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
@@ -1242,6 +1243,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Machine Learning
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
 * [TensorFlow Docs](https://www.tensorflow.org/get_started/mnist/mechanics) - TensorFlow Mechanics 101
+* [Amirsina Torfi](https://github.com/astorfi/TensorFlow-World-Resources) - TensorFlow resources
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
