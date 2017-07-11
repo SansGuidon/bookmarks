@@ -555,6 +555,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
 * [dvdcompare.net](http://dvdcompare.net/) - dvd & blu-ray informations & comparisons
 * [VileR](http://int10h.org/oldschool-pc-fonts/) - world's biggest collection of classic text mode fonts, system fonts and BIOS fonts from DOS-era IBM PCs and compatibles
+* [Movie-Censorship.com](http://www.movie-censorship.com/) - News about movie censorship and comparisons of alternate versions (Movies, Comics, Series, Games and more)
+* [caps-a-holic.com](http://www.caps-a-holic.com/) - DVD und Blu-ray Comparisons
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -978,6 +980,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [InterQuest Group](https://www.slideshare.net/IQGroup/iq-work-hacks-productivity) - [Slides] Work & productivity hacks
 * [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
 * [Justyna Ilczuk](http://tinystruggles.com/2014/11/30/maker-productivity-101.html) - Maker Productivity 101
+* [Nathan Kontny](https://m.signalvnoise.com/speed-reading-2ff843053cc6) - Speed Reading tips
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
