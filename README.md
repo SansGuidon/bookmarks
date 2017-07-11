@@ -1271,6 +1271,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
+* [URL Encoded Characters](http://www.degraeve.com/reference/urlencoding.php) - mapping table of encoded characters in URLS (%20, %22, %7D, ...)
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
