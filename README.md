@@ -250,7 +250,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ansible on Slack](http://www.ansiblenetwork.org/) - The Ansible Network
 * [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
 * [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
-* [Nathan Leclaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - Using Ansible with Docker Machine to Bootstrap Host Nodes
+* [Nathan LeClaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - Using Ansible with Docker Machine to Bootstrap Host Nodes
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -1188,6 +1188,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sven Hofmann](https://gist.github.com/hofmannsven/6814451) - Simply git cheatsheet
 * [Markus Wein](http://nuclearsquid.com/writings/git-add/) - git add --patch and --interactive
 * [Git SCM Docs](https://git-scm.com/docs/git-archive) - git-archive
+* [Nathan LeClaire](https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/) - On the Matter of Beautiful git Diffs
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
