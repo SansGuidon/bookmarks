@@ -204,6 +204,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vishal Naik](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines) - Enabling Trunk Based Development with Deployment Pipelines / learn from deployment pipeline anti patterns 
 * [Phu Ha](http://blog.asg-service.net/post/continuous-integration-part-1-setting-up-vms-docker-and-jenkins/) - Continuous Integration: Part 1 - Setting Up VMs, Docker, and Jenkins
 * [Phu Ha](http://blog.asg-service.net/post/continuous-integration-part-2-setup-a-jenkins-slave-docker-registry-jenkinsfile/) - Continuous Integration: Part 2 - Setup a Jenkins Slave, Docker Registry, and Jenkinsfile (Pipeline)
+* [Suzie Prince](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre/) - It's not CI, it's just CI Theatre
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -821,6 +822,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
 
 # Operations / IT OPS
+* [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
 * [Vivek Gite](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
 * [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server? 
