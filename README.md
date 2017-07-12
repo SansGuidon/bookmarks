@@ -207,6 +207,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Suzie Prince](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre/) - It's not CI, it's just CI Theatre
 * [Maxime Choffat](https://nalysdevopsmeetup.github.io/devops_meetup_slides/#/cover) - [Slides] Introduction to DevOps - presentation of first [Belgium DevOps Meetup](https://www.meetup.com/fr-FR/belgium-devops-meetup/)
 * [XebiaLabs](https://xebialabs.com/the-ultimate-devops-tool-chest/) - The Ultimate DevOps Tool Chest
+* [Drue Placette](https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/) - (2015) 51 Best DevOps Tools for #DevOps Engineers
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -778,6 +779,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 * [Madhur Ahuja](https://dev.to/madhur/tuning-linux-servers-for-scalability) - Tuning Linux servers for scalability
 * [Calomel.org](https://calomel.org/samba_optimize.html) - Samba Optimizations and Speed Tuning for Performance
+* [Computer Hope](https://www.computerhope.com/unix/yum.htm) - yum command help + examples
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1137,6 +1139,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Awesome Static analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
 * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
 * [Lucas Medeiros Reis](https://dev.to/iamlucasmreis/the-single-most-important-driver-of-software-quality) - The Single Most Important Driver Of Software Quality
+* [GitHub](https://github.com/showcases/clean-code-linters) - Clean code linters
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -1374,6 +1377,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenStack](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
 * [OpenStack](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
 * [jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
+* [feedparser](https://pypi.python.org/pypi/feedparser) - Parse Atom and RSS feeds in Python.
 
 ## Reverse engineering
 * [Bob Pan](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
