@@ -1082,6 +1082,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Adam Williamson](https://www.happyassassin.net/2016/11/04/i-dont-like-computers/) - I don't like computers : touching testimonial... because sometimes, we also feel that the web loses us
 * [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices 
 * [Lars Kappert](https://webpro.github.io/programming-principles/) - Categorized overview of Programming Principles. [Sources](https://github.com/webpro/programming-principles)
+* [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1089,6 +1090,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 
 ## Clean code
+* [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
 * [Corinna Baldauf](http://wall-skills.com/2014/simplicity-rules-from-extreme-programming/) - Simplicity Rules (from eXtreme Programming)
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
@@ -1302,6 +1304,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
 * [URL Encoded Characters](http://www.degraeve.com/reference/urlencoding.php) - mapping table of encoded characters in URLS (%20, %22, %7D, ...)
 * [Awesome Atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources
+* [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
