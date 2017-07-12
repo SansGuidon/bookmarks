@@ -145,6 +145,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
 * [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
+* [Internet Movie Database](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
