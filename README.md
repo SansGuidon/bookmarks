@@ -1115,6 +1115,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lars Kappert](https://webpro.github.io/programming-principles/) - Categorized overview of Programming Principles. [Sources](https://github.com/webpro/programming-principles)
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 * [DigitalOcean](https://www.digitalocean.com/community/tutorials) - development and sysadmin tutorials.
+* [Gojko Adzic](https://gojko.net/posts.html) - all articles by Gojko Adzic
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1603,6 +1604,7 @@ Raw
 * [Gregg Caines](http://caines.ca/blog/2015/01/29/continuous-testing/) - Continuous Testing
 * [Andrew Wulf](http://thecodist.com/article/my_job_as_a_programmer_is_to_make_testers_miserable) - My Job As A Programmer Is To Make Testers Miserable
 * [Locust](http://locust.io/) - a modern open source load testing framework
+* [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html) - Five ways to reduce the cost of large test suites
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
