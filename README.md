@@ -695,6 +695,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
 * [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
 * [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
+* [François Dourlen](https://www.francoisdourlen.com/photos) - 'feel good' mash-up pictures, combining pop-culture characters and actual locations
 
 # Linux / Unix
 * [/r/linux](https://www.reddit.com/r/linux/) - discussions & news about linux on reddit
