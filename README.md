@@ -1021,6 +1021,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Robert Zak](https://www.maketecheasier.com/chrome-flags-better-browsing-experience/) - some useful chrome flags for a better UX in Google Chrome 
 * [Karrar Haider](https://www.maketecheasier.com/offline-mode-google-chrome/) - Use chrome flags to enable offline mode in Google Chrome
 * [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
+* [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
