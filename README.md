@@ -1606,6 +1606,7 @@ Raw
 * [Steven J. Vaughan-Nichols](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/) - How to secure Windows 10: The paranoid's guide
 * [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
 * [babypunchingrampage](https://www.reddit.com/r/sysadmin/comments/4gqq6q/add_chocolatey_repo_to_windows_10/) - Add Chocolatey repo to Windows 10 PackageManagement and install apps using Install-Package!
+* [ChocolateyGet](https://github.com/Jianyunt/ChocolateyGet) - a good provider of chocolatey packages for OneGet 
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
