@@ -348,6 +348,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sreenivas Makam](https://www.slideshare.net/SreenivasMakam/docker-networking-common-issues-and-troubleshooting-techniques) - Docker Networking - Common Issues and Troubleshooting Techniques
 * [Nathan Leclaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - Using Ansible with Docker Machine to Bootstrap Host Nodes
 * [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) 
+* [FROM:latest](https://www.fromlatest.io/#/) - an opinionated Dockerfile linter online
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
