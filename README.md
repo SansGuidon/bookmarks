@@ -1504,6 +1504,7 @@ Raw
 * [Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos) - [Videos] Introduction to Cryptography 
 * [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 * [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
+* [Johannes Gilger](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/) - SSH Agent Forwarding considered harmful
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
