@@ -212,7 +212,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_best_practices.html) - Best Practices
-* [Engin Yöyen](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
+* [Ansible Best Practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 * [Timothy Appnel](https://www.ansible.com/blog/ansible-best-practices-essentials) - Ansible Best Practices: The Essentials
 * [Pierre Baillet](http://blog.ippon.tech/ansible-tips-and-tricks/) - 10 Ansible tips and tricks
 * [Timothy Appnel, James Martin](https://www.redhat.com/en/about/videos/ansible-best-practices-startups-enterprises) - [Video] Ansible best practices for startups to enterprises
@@ -1145,6 +1145,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
 * [Lucas Medeiros Reis](https://dev.to/iamlucasmreis/the-single-most-important-driver-of-software-quality) - The Single Most Important Driver Of Software Quality
 * [GitHub](https://github.com/showcases/clean-code-linters) - Clean code linters
+* [Ansible Best Practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -1427,6 +1428,8 @@ Raw
 * [/r/RobotNews](https://www.reddit.com/r/RobotNews/) - discussions and news about robotisation of society
 * [/r/shittyrobots](https://www.reddit.com/r/shittyrobots/) - useless, stupid, shitty funny robots
 * [Kurzgesagt](https://www.youtube.com/watch?v=WSKi8HfcxEk) - The Rise of the Machines – Why Automation is Different this Time
+* [Gojko Adzic](https://gojko.net/2017/03/15/automation-horribly-wrong.html) - When automation goes horribly wrong
+* [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
