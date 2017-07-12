@@ -632,6 +632,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
 * [Ethical Hacking tools](https://pentest-tools.com/home) - online penetration testing tools
 * [Open Port Check Tool](https://www.yougetsignal.com/tools/open-ports/) - Port forwarding tester - open port finder
+* [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1055,6 +1056,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
+* [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
