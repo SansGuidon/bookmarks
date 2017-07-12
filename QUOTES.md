@@ -8,3 +8,4 @@
 * If you think good architecture is expensive, try bad architecture
 * Truth can only be found in one place: the code
 * > "Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on." Richard Feynman
+* > "Let's clarify : Jira is not Agile, Open Source is not Free, Using cloud is not DevOps, Rituals is not Scrum, Developed is not Done" Lemi Orhan Ergin. [Source](https://twitter.com/lemiorhan/status/859158123722010628)
