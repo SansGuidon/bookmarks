@@ -494,6 +494,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## VirtualBox
 * [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
 * [Thomas-Krenn](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox) - Headless Mode for VirtualBox
+* [VirtualBox issues tracker](https://www.virtualbox.org/ticket/14374) - Network adapters not working after host returns from sleep Win 7 host Linux Mint 17.2 guest
 
 ## Vagrant
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
@@ -772,6 +773,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Linux Stack Exchange](https://unix.stackexchange.com/questions/259640/how-to-use-yum-to-get-all-rpms-required-for-offline-use) - How to use yum to get all RPMs required, for offline use?
 * [Red Hat Customer Portal](https://access.redhat.com/solutions/10154) - How to use yum to download a package without installing it
 * [Fedora Project Docs](https://docs.fedoraproject.org/ro/Fedora_Draft_Documentation/0.1/html/RPM_Guide/ch08s02s04.html) - Building RPMs with the rpmbuild command
+* [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1229,6 +1231,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Markus Wein](http://nuclearsquid.com/writings/git-add/) - git add --patch and --interactive
 * [Git SCM Docs](https://git-scm.com/docs/git-archive) - git-archive
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/) - On the Matter of Beautiful git Diffs
+* [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1324,6 +1327,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Awesome Atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
+* [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -1448,6 +1452,7 @@ Raw
 * [Rich Felker](http://www.etalabs.net/sh_tricks.html) - Rich’s sh (POSIX shell) tricks
 * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
+* [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -1521,6 +1526,7 @@ Raw
 * [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 * [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
 * [Johannes Gilger](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/) - SSH Agent Forwarding considered harmful
+* [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
