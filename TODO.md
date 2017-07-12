@@ -3,10 +3,10 @@ ___
 > currently working on
 * [ ] Highlight favorite sites & news sites in each section because everything seems equally important now
 * [ ] Add links from inbox (by gmail)
-* [ ] Add onetab links / bookmarks from other computers
-  * [ ] work computer
+* [x] Add onetab links / bookmarks from other computers
+  * [x] work computer
   * [x] personal portable (windows)
-  * [ ] personal portable (linux)
+  * [x] personal portable (linux)
   * [x] personal desktop
 * [ ] Add links from IM hipchat
 * [ ] Add links from chrome history (using [historyStats](https://chrome.google.com/webstore/detail/historystats/ffnaaljjakfkhpjjgfmjhcgamcoflinm/related) chrome extension)
