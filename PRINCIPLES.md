@@ -9,6 +9,13 @@
 * [Christopher Diggins](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) - The Principles of Good Programming
 * You are the books you read, the films you watch, the music you listen to, the people you spend time with, the conversations you engage in. Choose wisely what you feed your mind.
 * [Lars Kappert](https://webpro.github.io/programming-principles/) - Categorized Overview of Programming Principles
+* don't change code you don't understand
+* never merge a branch with known defects
+* use checklists to make sure the whole problem is solved
+* static analysis tools for everything
+* code review for everything
+* test (automated and manual)
+* make small changes and iterate
 
 # from my Bullet Journal
 ## Values 
