@@ -317,6 +317,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Matt Smith](https://github.com/rhmjs/satellite5-docker) - RHEL6 containers on a RHEL7 host registered to Satellite 5
 * [Red Hat Customer Portal](https://access.redhat.com/containers/#/explore) - Red Hat Container Catalog
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-US/Red_Hat_Satellite/6.1/html/User_Guide/chap-Red_Hat_Satellite-User_Guide-Working_with_Containers.html#proc-Red_Hat_Satellite-User_Guide-Creating_Containers-To_Create_a_Container) - working with containers in Red Hat Satellite
+* [Pradipta Kumar Banerjee](http://cloudgeekz.com/625/howto-create-a-docker-image-for-rhel.html) - Howto create a Docker Image for RHEL
 * [Derek Chamorro](https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/) - Common Dockerfile Mistakes
 * [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
 * [Jason Wilder](https://github.com/jwilder/docker-squash) - docker-squash : Squash docker images to make them smaller
@@ -353,6 +354,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nathan Leclaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - Using Ansible with Docker Machine to Bootstrap Host Nodes
 * [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) 
 * [FROM:latest](https://www.fromlatest.io/#/) - an opinionated Dockerfile linter online
+* [Red Hat Customer Portal](https://access.redhat.com/articles/2772861) - Differences between RHEL Server and RHEL Atomic Host
+* [Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/getting_started_with_containers/using_red_hat_base_container_images_standard_and_minimal) - Using Red Hat Base Container Images (standard and minimal)
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -785,6 +788,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-US/Red_Hat_Network_Satellite/5.0/html/Channel_Management_Guide/Channel_Management_Guide-Uploading_Packages_to_SAT-Using_the_RHNPUSHapplication.html) - Using the RHN Push application
 * [Red Hat Customer Portal](https://access.redhat.com/solutions/737373) - Satellite 5.6: unable to register RHEL 7 client system due to rhn-setup package not included in Minimal installation
 * [Jens Depuydt](http://jensd.be/566/linux/install-and-use-spacewalk-2-3-on-centos-7) - Install and use Spacewalk 2.4 on CentOS 7 and RHEL 7
+* [Pradipta Kumar Banerjee](http://cloudgeekz.com/625/howto-create-a-docker-image-for-rhel.html) - Howto create a Docker Image for RHEL
+* [Red Hat Customer Portal](https://access.redhat.com/articles/2772861) - Differences between RHEL Server and RHEL Atomic Host
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
