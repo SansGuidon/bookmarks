@@ -820,6 +820,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joshua Stein](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 * [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
+* [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
 
 # Operations / IT OPS
 * [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
