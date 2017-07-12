@@ -731,8 +731,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [docker-library/official-images](https://github.com/docker-library/official-images/issues/2815) - CentOS 5 has reached EOL in issues of docker-library/official-images on github
 * [Vultr](https://www.vultr.com/docs/use-dnf-to-manage-software-packages-on-centos-7) - Use DNF To Manage Software Packages On CentOS 7
 * [Server Fault](https://serverfault.com/questions/368602/how-do-i-update-a-centos-servers-time-from-an-authoritative-time-server) - How do I update a CentOS server's time from an authoritative time server?
-* [pkgs.org](https://pkgs.org/) - Linux Package Search
+* [pkgs.org](https://pkgs.org/) - Linux Package Search online
+* [Rpmfind](https://www.rpmfind.net/linux/RPM/index.html) - RPM finder online
 * [Michael Heap](https://michaelheap.com/build-centos-5-generic-rpm-on-centos-6/) - Build CentOS 5 generic RPM on CentOS 6
+* [Gavin Carr](http://www.openfusion.net/linux/mocking_rpms) - Mocking RPMs on CentOS with Mock by Fedora
+* [Packagecloud blog](https://blog.packagecloud.io/eng/2015/05/11/building-rpm-packages-with-mock/) - Building RPM packages with mock
 * [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Brendan Gregg](http://www.brendangregg.com/blog/2016-12-27/linux-tracing-in-15-minutes.html) - Give me 15 minutes and I'll change your view of Linux tracing
 * [nixCraft](https://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/) - How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?
@@ -762,6 +765,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - 10 Basic Linux Networking and Monitoring Commands You Should Know
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
 * [LZone](https://lzone.de/cheat-sheet/Linux-Networking) - Linux networking cheatsheet
+* [FedoraProject Wiki](https://fedoraproject.org/wiki/Packaging:RPMMacros?rd=Packaging/RPMMacros) - definitions for some common RPM / specfile macros
+* [Stack Overflow](https://stackoverflow.com/questions/8076471/how-to-know-the-value-of-built-in-macro-in-rpm) - How to know the value of built-in macro in RPM?
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
