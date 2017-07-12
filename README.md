@@ -205,6 +205,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Phu Ha](http://blog.asg-service.net/post/continuous-integration-part-1-setting-up-vms-docker-and-jenkins/) - Continuous Integration: Part 1 - Setting Up VMs, Docker, and Jenkins
 * [Phu Ha](http://blog.asg-service.net/post/continuous-integration-part-2-setup-a-jenkins-slave-docker-registry-jenkinsfile/) - Continuous Integration: Part 2 - Setup a Jenkins Slave, Docker Registry, and Jenkinsfile (Pipeline)
 * [Suzie Prince](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre/) - It's not CI, it's just CI Theatre
+* [Maxime Choffat](https://nalysdevopsmeetup.github.io/devops_meetup_slides/#/cover) - [Slides] Introduction to DevOps - presentation of first [Belgium DevOps Meetup](https://www.meetup.com/fr-FR/belgium-devops-meetup/)
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
