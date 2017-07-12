@@ -859,6 +859,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
 * [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
+* [AskF5 Support](https://support.f5.com/csp/article/K12213214) - Overview of colored status icons in the Configuration utility
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1035,6 +1036,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Karrar Haider](https://www.maketecheasier.com/offline-mode-google-chrome/) - Use chrome flags to enable offline mode in Google Chrome
 * [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
+* [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -1321,6 +1323,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [URL Encoded Characters](http://www.degraeve.com/reference/urlencoding.php) - mapping table of encoded characters in URLS (%20, %22, %7D, ...)
 * [Awesome Atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
+* [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -1444,6 +1447,7 @@ Raw
 * [raidzero](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
 * [Rich Felker](http://www.etalabs.net/sh_tricks.html) - Rich’s sh (POSIX shell) tricks
 * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee
+* [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -1632,6 +1636,8 @@ Raw
 * [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
 * [babypunchingrampage](https://www.reddit.com/r/sysadmin/comments/4gqq6q/add_chocolatey_repo_to_windows_10/) - Add Chocolatey repo to Windows 10 PackageManagement and install apps using Install-Package!
 * [ChocolateyGet](https://github.com/Jianyunt/ChocolateyGet) - a good provider of chocolatey packages for OneGet 
+* [MoonPoint](http://support.moonpoint.com/network/proxy/putty/) - Using PuTTY to set up a SOCKS Proxy Connection
+* [MoonPoint](http://support.moonpoint.com/network/proxy/ie10-socks-proxy.php) - Configuring IE 10 to use an SSH SOCKS Proxy Server
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
