@@ -765,8 +765,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - 10 Basic Linux Networking and Monitoring Commands You Should Know
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
 * [LZone](https://lzone.de/cheat-sheet/Linux-Networking) - Linux networking cheatsheet
-* [FedoraProject Wiki](https://fedoraproject.org/wiki/Packaging:RPMMacros?rd=Packaging/RPMMacros) - definitions for some common RPM / specfile macros
+* [FedoraProject Wiki](https://fedoraproject.org/wiki/Packaging:RPMMacros?rd=Packaging/RPMMacros) - definitions for some common RPM specfile macros
 * [Stack Overflow](https://stackoverflow.com/questions/8076471/how-to-know-the-value-of-built-in-macro-in-rpm) - How to know the value of built-in macro in RPM?
+* [RPM](http://rpm.org/user_doc/macros.html) - Macro syntax
+* [Senthil Kumar](https://www.ostechnix.com/download-rpm-package-dependencies-centos/) - How To Download A RPM Package With All Dependencies In CentOS
+* [Linux Stack Exchange](https://unix.stackexchange.com/questions/259640/how-to-use-yum-to-get-all-rpms-required-for-offline-use) - How to use yum to get all RPMs required, for offline use?
+* [Red Hat Customer Portal](https://access.redhat.com/solutions/10154) - How to use yum to download a package without installing it
+* [Fedora Project Docs](https://docs.fedoraproject.org/ro/Fedora_Draft_Documentation/0.1/html/RPM_Guide/ch08s02s04.html) - Building RPMs with the rpmbuild command
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
