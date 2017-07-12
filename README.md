@@ -223,7 +223,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jinja2 Docs](http://jinja.pocoo.org/docs/dev/templates/#builtin-filters) - Templates and Builtin filters
 * [Remy Van Elst](https://raymii.org/s/tutorials/Ansible_-_Only_if_a_file_exists_or_does_not_exist.html) - Ansible - Only if a file exists or does not exist
 * [Ansible Docs](http://docs.ansible.com/ansible/intro_configuration.html) - Available settings in Ansible configuration file
-* [Jensd](http://jensd.be/587/linux/tips-tricks-for-ansible) - Tips & tricks for Ansible
+* [Jens Depuydt](http://jensd.be/587/linux/tips-tricks-for-ansible) - Tips & tricks for Ansible
 * [Maxim Chernyak](http://hakunin.com/six-ansible-practices) - 6 practices for super smooth Ansible experience 
 * [Nick Janetakis](https://github.com/nickjj/rolespec) - RoleSpec : A test library for testing Ansible roles
 * [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-manage-multistage-environments-with-ansible) - How to Manage Multistage Environments with Ansible
@@ -314,7 +314,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Docker Forums](https://forums.docker.com/t/command-to-remove-all-unused-images/20/5) - Command to remove all unused images
 * [Stack Overflow](https://stackoverflow.com/questions/30604846/docker-error-no-space-left-on-device) - Docker error : no space left on device
 * [James Coyle](https://www.jamescoyle.net/how-to/1512-export-and-import-a-docker-image-between-nodes) - Export and Import a Docker Image Between Nodes
-* [rhmjs/satellite5-docker](https://github.com/rhmjs/satellite5-docker/blob/master/README.md) - RHEL6 containers on a RHEL7 host registered to Satellite 5
+* [Matt Smith](https://github.com/rhmjs/satellite5-docker) - RHEL6 containers on a RHEL7 host registered to Satellite 5
 * [Red Hat Customer Portal](https://access.redhat.com/containers/#/explore) - Red Hat Container Catalog
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-US/Red_Hat_Satellite/6.1/html/User_Guide/chap-Red_Hat_Satellite-User_Guide-Working_with_Containers.html#proc-Red_Hat_Satellite-User_Guide-Creating_Containers-To_Create_a_Container) - working with containers in Red Hat Satellite
 * [Derek Chamorro](https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/) - Common Dockerfile Mistakes
@@ -780,6 +780,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Madhur Ahuja](https://dev.to/madhur/tuning-linux-servers-for-scalability) - Tuning Linux servers for scalability
 * [Calomel.org](https://calomel.org/samba_optimize.html) - Samba Optimizations and Speed Tuning for Performance
 * [Computer Hope](https://www.computerhope.com/unix/yum.htm) - yum command help + examples
+* [Red Hat Customer Portal](https://access.redhat.com/solutions/8036) - How to re-register the system with Red Hat Network (RHN) Classic or Red Hat Satellite?
+* [Red Hat Customer Portal](https://access.redhat.com/solutions/504583) - Package not available to the client systems after rhnpush
+* [Red Hat Customer Portal](https://access.redhat.com/documentation/en-US/Red_Hat_Network_Satellite/5.0/html/Channel_Management_Guide/Channel_Management_Guide-Uploading_Packages_to_SAT-Using_the_RHNPUSHapplication.html) - Using the RHN Push application
+* [Red Hat Customer Portal](https://access.redhat.com/solutions/737373) - Satellite 5.6: unable to register RHEL 7 client system due to rhn-setup package not included in Minimal installation
+* [Jens Depuydt](http://jensd.be/566/linux/install-and-use-spacewalk-2-3-on-centos-7) - Install and use Spacewalk 2.4 on CentOS 7 and RHEL 7
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
