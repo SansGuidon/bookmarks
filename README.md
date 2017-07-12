@@ -776,6 +776,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Red Hat Customer Portal](https://access.redhat.com/solutions/10154) - How to use yum to download a package without installing it
 * [Fedora Project Docs](https://docs.fedoraproject.org/ro/Fedora_Draft_Documentation/0.1/html/RPM_Guide/ch08s02s04.html) - Building RPMs with the rpmbuild command
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
+* [Madhur Ahuja](https://dev.to/madhur/tuning-linux-servers-for-scalability) - Tuning Linux servers for scalability
+* [Calomel.org](https://calomel.org/samba_optimize.html) - Samba Optimizations and Speed Tuning for Performance
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1650,6 +1652,7 @@ Raw
 * [ChocolateyGet](https://github.com/Jianyunt/ChocolateyGet) - a good provider of chocolatey packages for OneGet 
 * [MoonPoint](http://support.moonpoint.com/network/proxy/putty/) - Using PuTTY to set up a SOCKS Proxy Connection
 * [MoonPoint](http://support.moonpoint.com/network/proxy/ie10-socks-proxy.php) - Configuring IE 10 to use an SSH SOCKS Proxy Server
+* [Calomel.org](https://calomel.org/samba_optimize.html) - Samba Optimizations and Speed Tuning for Performance
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
