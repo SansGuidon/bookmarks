@@ -34,3 +34,4 @@ ___
 * [ ] Add [likes from stumbleupon](http://www.stumbleupon.com/stumbler/MorganGeek/likes)
 * [ ] Add links from linkedin ? 
 * [ ] Add favorites searches (twitter, inbox, github, google ...)
+* [ ] Add stars from FreshRSS
