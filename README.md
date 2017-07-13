@@ -676,6 +676,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/antiwork](https://www.reddit.com/r/antiwork/) - discussion and advocacy of a world without work
 * [PartTimer](https://parttimer.io/) - a job board for skilled work under 40 HRS/week
 * [Glassdoor](https://www.glassdoor.com/Reviews/index.htm) - company reviews and salaries posted anonymously by employees.
+* [BetaList JObs](https://betalist.com/jobs) - shape the future by joining one of the fastest growing technology startups
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -718,6 +719,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
 * [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
+* [Alltop](https://linux.alltop.com/) - Top Linux News aggregated
 * [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
 * [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary 
 * [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
@@ -862,6 +864,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 * [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
+* [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
+* [Alltop](https://alltop.com/new/) - News aggregator, similar to Popurls. Aggregates news by topic also 
 
 # Operations / IT OPS
 * [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
@@ -1068,6 +1072,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
+* [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -1266,6 +1271,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Git SCM Docs](https://git-scm.com/docs/git-archive) - git-archive
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/) - On the Matter of Beautiful git Diffs
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
+* [Gitdude.com](https://gitdude.com/) - code improvement tips posted as a comment on your Github commits
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1494,6 +1500,7 @@ Raw
 * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
+* [Eric Wendelin](https://www.eriwen.com/tools/grep-is-a-beautiful-tool/) - grep is a beautiful tool
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -1617,7 +1624,7 @@ Raw
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
-* [Grise Bouille](https://grisebouille.net/ailleurs-cest-pire/) - Ailleurs, c’est pire
+* [Grise Bouille](https://grisebouille.net/ailleurs-cest-pire/) - [FR] Ailleurs, c’est pire
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
