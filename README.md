@@ -796,6 +796,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jens Depuydt](http://jensd.be/566/linux/install-and-use-spacewalk-2-3-on-centos-7) - Install and use Spacewalk 2.4 on CentOS 7 and RHEL 7
 * [Pradipta Kumar Banerjee](http://cloudgeekz.com/625/howto-create-a-docker-image-for-rhel.html) - Howto create a Docker Image for RHEL
 * [Red Hat Customer Portal](https://access.redhat.com/articles/2772861) - Differences between RHEL Server and RHEL Atomic Host
+* [Vivek Gite](https://www.cyberciti.biz/faq/centos-redhat-fedora-yum-lock-package-version-command/) - CentOS / RHEL: Yum Lock Package Version At a Particular Version
+* [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 20 Linux Server Hardening Security Tips
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -885,6 +887,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
 * [AskF5 Support](https://support.f5.com/csp/article/K12213214) - Overview of colored status icons in the Configuration utility
+* [Deb Shinder](http://techgenix.com/fall-of-all-powerful-admin/) - The rise and fall of the all-powerful admin
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1480,7 +1483,7 @@ Raw
 * [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
 * [LZone](http://lzone.de/cheat-sheet/Bash) - Bash Cheat Sheet
 * [LZone](http://lzone.de/cheat-sheet/Bash%20Regex) - Bash Regex Cheat Sheet
-* [nixCraft](https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html) - zcommands: Read gzip Compressed Text Files On a Fly
+* [Vivek Gite](https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html) - zcommands: Read gzip Compressed Text Files On a Fly
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [Eric Pement](http://www.pement.org/sed/sed1line.txt) - useful one-liners for sed. [FR version](http://sed.sourceforge.net/sed1line_fr.html)
 * [raidzero](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
@@ -1491,7 +1494,7 @@ Raw
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
-* [nixCraft](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) - 30 Handy Bash Shell Aliases For Linux / Unix / Mac OS X
+* [Vivek Gite](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) - 30 Handy Bash Shell Aliases For Linux / Unix / Mac OS X
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3121790/linux/making-troubleshooting-with-lsof-easier.html) - Unix tips: Making troubleshooting with lsof easier. See also [Unix commands: Troubleshooting with lsof](http://www.computerworld.com/article/3119775/linux/troubleshooting-with-lsof.html)
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3085495/linux/unix-aliases-for-good-and-evil.html) - Unix aliases for good and evil
 * [tcnksm](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases for zsh
@@ -1562,6 +1565,7 @@ Raw
 * [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
 * [Johannes Gilger](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/) - SSH Agent Forwarding considered harmful
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
+* [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 20 Linux Server Hardening Security Tips
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
