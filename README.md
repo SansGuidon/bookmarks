@@ -579,6 +579,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [VileR](http://int10h.org/oldschool-pc-fonts/) - world's biggest collection of classic text mode fonts, system fonts and BIOS fonts from DOS-era IBM PCs and compatibles
 * [Movie-Censorship.com](http://www.movie-censorship.com/) - News about movie censorship and comparisons of alternate versions (Movies, Comics, Series, Games and more)
 * [caps-a-holic.com](http://www.caps-a-holic.com/) - DVD und Blu-ray Comparisons
+* [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -636,6 +637,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ethical Hacking tools](https://pentest-tools.com/home) - online penetration testing tools
 * [Open Port Check Tool](https://www.yougetsignal.com/tools/open-ports/) - Port forwarding tester - open port finder
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
+* [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
