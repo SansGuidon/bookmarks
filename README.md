@@ -384,6 +384,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
 * [XKCD](https://xkcd.com/1810/) - xKCD about chat systems
 * [Sameroom.io](https://cdn.sameroom.io/chat-timeline.pdf) - a brief history of chat services from 1973 to the present day
+* [Pidgin](https://bitbucket.org/pidgin/main/pull-requests/91/implmeth-webex-token-sasl-auth-for-jabber/diff) - Implmeth WEBEX-TOKEN SASL auth for jabber.
+* [matterbridge](https://github.com/42wim/matterbridge/commit/ee643de5b6031b6bdbf2e957f2fea8f1222ace64) - Add compatibility for Cisco Jabber (xmpp)
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -801,6 +803,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Raspberry Pi
 * [Ard Ray](http://blog.mxard.com/persistent-iptables-on-raspberry-pi-raspbian) - Persistent IPtables on Raspberry Pi (Raspbian)
 * [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/1247/what-should-be-done-to-secure-raspberry-pi) - What should be done to secure Raspberry Pi?
+* [Stefan Pröll](https://blog.stefanproell.at/2016/03/20/a-reasonable-secure-password-database-with-versioning-and-remote-access/) - A Reasonable Secure, Self-Hosted Password Database with Versioning and Remote Access
 
 ## Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -1123,6 +1126,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 * [DigitalOcean](https://www.digitalocean.com/community/tutorials) - development and sysadmin tutorials.
 * [Gojko Adzic](https://gojko.net/posts.html) - all articles by Gojko Adzic
+* [Ozan Onay](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) - You Are Not Google
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
