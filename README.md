@@ -1079,6 +1079,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
+* [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
