@@ -577,7 +577,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
 * [dvdcompare.net](http://dvdcompare.net/) - dvd & blu-ray informations & comparisons
 * [VileR](http://int10h.org/oldschool-pc-fonts/) - world's biggest collection of classic text mode fonts, system fonts and BIOS fonts from DOS-era IBM PCs and compatibles
-* [Movie-Censorship.com](http://www.movie-censorship.com/) - News about movie censorship and comparisons of alternate versions (Movies, Comics, Series, Games and more)
+* [Movie-Censorship.com](http://www.movie-censorship.com/) - News about movie censorship + comparisons of alternate versions (Movies, Comics, Series, Games and more)
 * [caps-a-holic.com](http://www.caps-a-holic.com/) - DVD und Blu-ray Comparisons
 * [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
 
@@ -589,6 +589,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
 * [Product Hunt](http://500makers.com/) - a list of top 500 makers on [Product Hunt](https://www.producthunt.com/)
 * [AppRecs](https://apprecs.com) - app search engine 
+* [StumbleUpon](https://www.stumbleupon.com/) - discover the best of the web, one click at a time. This service learns what you like and brings you more like it
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
