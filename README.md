@@ -497,6 +497,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Laurent Broudoux](https://blog.openshift.com/multiple-deployment-methods-openshift/) - Multiple Deployment Methods for OpenShift
 * [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
 * [Openshift Switzerland Community](https://github.com/oscp/awesome-openshift3) - Awesome Openshift 3 resources
+* [OpenShift Interactive Learning Portal](https://learn.openshift.com/) - Interactive learning scenarios. Can be used for experimentation
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -581,6 +582,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Movie-Censorship.com](http://www.movie-censorship.com/) - News about movie censorship + comparisons of alternate versions (Movies, Comics, Series, Games and more)
 * [caps-a-holic.com](http://www.caps-a-holic.com/) - DVD und Blu-ray Comparisons
 * [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
+* [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -712,6 +714,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
 * [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
 * [François Dourlen](https://www.francoisdourlen.com/photos) - 'feel good' mash-up pictures, combining pop-culture characters and actual locations
+* [WLPPR](http://wlppr.co/) - vibrant wallpapers from places of our planet
+* [Psiu Puxa](http://psiupuxa.com/) - wallpapers from all over the universe
 
 # Linux / Unix
 * [/r/linux](https://www.reddit.com/r/linux/) - discussions & news about linux on reddit
@@ -867,6 +871,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 * [Alltop](https://alltop.com/new/) - News aggregator, similar to Popurls. Aggregates news by topic also 
+* [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
 
 # Operations / IT OPS
 * [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
