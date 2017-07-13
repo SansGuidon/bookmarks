@@ -429,6 +429,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Isaac Cohen](https://www.cloudbees.com/blog/ensuring-corporate-standards-pipelines-custom-marker-files) - Ensuring Corporate Standards in Pipelines with Custom Marker Files
 * [Jenkins CI](https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md) - [jenkinsci/pipeline-plugin] Plugin Compatibility with Pipeline
 * [CloudBees](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_at_splunk.pdf) - Jenkins at Splunk and Splunking Jenkins +[Video on YouTube](https://www.youtube.com/watch?v=dlsEprySOrg)
+* [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Splunk+Plugin+for+Pipeline+Job+Support) - Splunk Plugin for Pipeline Job Support
 * [David Hoover](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_inside_google.pdf) - Jenkins inside Google +[YoutuBe Link](https://www.youtube.com/watch?v=7ERV9C20GSE&feature=youtu.be)
 * [Garry Newman](https://garry.tv/2017/05/06/jenkinsfile/) - Garry explains how to write Jenkinsfiles
 * [Garry Newman](https://garry.tv/2017/05/14/jenkins-library/) - Garry explains how he's using Global Jenkins library
@@ -1598,6 +1599,7 @@ Raw
 * [Arun GP](https://myonlineusb.wordpress.com/2011/06/19/what-are-the-differences-between-pem-der-p7bpkcs7-pfxpkcs12-certificates/) - differences between PEM, DER, P7B/PKCS#7, PFX/PKCS#12 certificates
 * [SSL Shopper](https://www.sslshopper.com/special-ssl-certificate-types.html) - Special Types of SSL Certificates
 * [DigiCert](https://www.digicert.com/ssl-support/apache-multiple-ssl-certificates-using-sni.htm) - Using Multiple SSL Certificates in Apache with One IP Address
+* [Deb Shinder](http://techgenix.com/SSL-Acceleration-Offloading-Security-Implications/) - SSL Acceleration and Offloading: What Are the Security Implications?
 
 ## Web 
 * [Raymond Hill](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
