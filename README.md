@@ -1363,6 +1363,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 * [jq Docs](https://stedolan.github.io/jq/manual/) - online manual for jq (a lightweight and flexible command-line JSON processor)
 * [Online syntax highlighting](https://tohtml.com/) - Online syntax highlighting for multiple languages
+* [Codeanywhere](https://codeanywhere.com/) - cross platform Cloud IDE
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
