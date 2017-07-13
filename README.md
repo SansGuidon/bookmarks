@@ -130,6 +130,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Raúl Ávila](https://dev.to/raulavila/my-experience-with-pair-programming) - My Experience with Pair Programming
 * [Ben Hilburn](https://bhilburn.org/a-keystone-of-success/) - What mature engineers do and don't do / what it means to be a mature engineer.
 * [Mart Virkus](https://blog.toggl.com/2017/02/seven-circles-of-developer-hell/) - The Seven Circles of Developer Hell [Infographic]
+* [David Mytton](https://blog.serverdensity.com/how-to-do-code-reviews/) - How to do code reviews
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
