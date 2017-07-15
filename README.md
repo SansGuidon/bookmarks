@@ -594,6 +594,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Product Hunt](http://500makers.com/) - a list of top 500 makers on [Product Hunt](https://www.producthunt.com/)
 * [AppRecs](https://apprecs.com) - app search engine 
 * [StumbleUpon](https://www.stumbleupon.com/) - discover the best of the web, one click at a time. This service learns what you like and brings you more like it
+* [Random Hunt](http://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
+* [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website 
+* [Discuvver](https://www.discuvver.com) - Take you to one random useful website
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -1410,6 +1413,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
 * [/r/ProgrammerReactions](https://www.reddit.com/r/programmerreactions/) - reactions related to Software Development
 * [Life of a Software Engineer](http://lifeofasoftwareengineer.tumblr.com/) - another reactions tumblr related to Software Development
+* [Passive Aggressive Passwords](http://www.trypap.com/) - The Passive Aggressive Password Machine
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
@@ -1584,6 +1588,7 @@ Raw
 * [Johannes Gilger](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/) - SSH Agent Forwarding considered harmful
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 20 Linux Server Hardening Security Tips
+* [Passive Aggressive Passwords](http://www.trypap.com/) - [Humor] The Passive Aggressive Password Machine
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
