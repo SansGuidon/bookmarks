@@ -211,6 +211,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [XebiaLabs](https://xebialabs.com/the-ultimate-devops-tool-chest/) - The Ultimate DevOps Tool Chest
 * [Drue Placette](https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/) - (2015) 51 Best DevOps Tools for #DevOps Engineers
 * [Electric Cloud](http://electric-cloud.com/plugins/continuous-integration/) - Continuous Integration Best Practices: Vision and Reality
+* [Electric Cloud](http://electric-cloud.com/plugins/build-automation/) - Build Automation: Top 3 Problems and How to Solve Them
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
