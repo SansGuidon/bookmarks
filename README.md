@@ -1725,6 +1725,10 @@ Raw
 * [MoonPoint](http://support.moonpoint.com/network/proxy/putty/) - Using PuTTY to set up a SOCKS Proxy Connection
 * [MoonPoint](http://support.moonpoint.com/network/proxy/ie10-socks-proxy.php) - Configuring IE 10 to use an SSH SOCKS Proxy Server
 * [Calomel.org](https://calomel.org/samba_optimize.html) - Samba Optimizations and Speed Tuning for Performance
+* [PSScriptAnalyzer](https://www.powershellgallery.com/packages/PSScriptAnalyzer/) -  provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
+* [Pester](https://github.com/pester/Pester) - PowerShell BDD style testing framework
+* [PowerShellScripts.com](http://powershellscripts.com/) - some scripts, tutoriels for powershell. Warning : some dead links here
+* [JeffOps](http://jeffwouters.nl/) - The Scripting dutchman : lot of scripts and tips for powershell 
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
