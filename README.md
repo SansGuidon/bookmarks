@@ -210,6 +210,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Maxime Choffat](https://nalysdevopsmeetup.github.io/devops_meetup_slides/#/cover) - [Slides] Introduction to DevOps - presentation of first [Belgium DevOps Meetup](https://www.meetup.com/fr-FR/belgium-devops-meetup/)
 * [XebiaLabs](https://xebialabs.com/the-ultimate-devops-tool-chest/) - The Ultimate DevOps Tool Chest
 * [Drue Placette](https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/) - (2015) 51 Best DevOps Tools for #DevOps Engineers
+* [Electric Cloud](http://electric-cloud.com/plugins/continuous-integration/) - Continuous Integration Best Practices: Vision and Reality
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
