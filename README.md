@@ -1521,6 +1521,7 @@ Raw
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 * [Eric Wendelin](https://www.eriwen.com/tools/grep-is-a-beautiful-tool/) - grep is a beautiful tool
+* [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
