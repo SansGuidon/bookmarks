@@ -102,6 +102,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] Les Patterns des Grands du Web – DevOps
 * [Don MacAskill](https://don.blogs.smugmug.com/2011/04/24/how-smugmug-survived-the-amazonpocalypse/) - How SmugMug survived the Amazonpocalypse
 * [Krishnan Subramanian](https://www.cloudave.com/11973/designing-for-failure-some-key-facts/) - Designing For Failure: Some Key Facts
+* [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
@@ -462,6 +463,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
+* [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
