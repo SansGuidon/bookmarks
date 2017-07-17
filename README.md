@@ -344,8 +344,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gianluca Borello](https://sysdig.com/blog/container-isolation-gone-wrong/) - Container isolation gone wrong
 * [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - [FR] DevOps avec Ansible et Docker
 * [Thomas Graf](https://www.slideshare.net/ThomasGraf5/dockercon-2017-cilium-network-and-application-security-with-bpf-and-xdp) - DockerCon 2017 - Cilium - Network and Application Security with BPF and XDP
-* [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
-* [Brendan Gregg](http://www.brendangregg.com/blog/2017-05-15/container-performance-analysis-dockercon-2017.html) - [Video] Container Performance Analysis at DockerCon 2017 + [Slides](https://www.slideshare.net/brendangregg/container-performance-analysis)
+* [Brendan D. Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
+* [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-05-15/container-performance-analysis-dockercon-2017.html) - [Video] Container Performance Analysis at DockerCon 2017 + [Slides](https://www.slideshare.net/brendangregg/container-performance-analysis)
 * [Julien Bisconti](https://veggiemonk.github.io/awesome-docker/) - Awesome-docker : A curated list of Docker resources and projects
 * [Alex Hanson](https://dev.to/ahansondev/lessons-learned-with-docker) - Lessons Learned with Docker
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] Master's thesis: Container-based Continuous Delivery for Clusters, interesting for some parts
@@ -762,8 +762,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michael Heap](https://michaelheap.com/build-centos-5-generic-rpm-on-centos-6/) - Build CentOS 5 generic RPM on CentOS 6
 * [Gavin Carr](http://www.openfusion.net/linux/mocking_rpms) - Mocking RPMs on CentOS with Mock by Fedora
 * [Packagecloud blog](https://blog.packagecloud.io/eng/2015/05/11/building-rpm-packages-with-mock/) - Building RPM packages with mock
-* [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
-* [Brendan Gregg](http://www.brendangregg.com/blog/2016-12-27/linux-tracing-in-15-minutes.html) - Give me 15 minutes and I'll change your view of Linux tracing
+* [Brendan D. Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
+* [Brendan D. Gregg](http://www.brendangregg.com/blog/2016-12-27/linux-tracing-in-15-minutes.html) - Give me 15 minutes and I'll change your view of Linux tracing
 * [nixCraft](https://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/) - How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?
 * [TuxRadar](http://www.tuxradar.com/content/command-line-tricks-smart-geeks) - Command line tricks for smart geeks
 * [TuxRadar](http://www.tuxradar.com/content/more-linux-tips-every-geek-should-know) - More Linux tips every geek should know
@@ -812,6 +812,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vivek Gite](https://www.cyberciti.biz/faq/centos-redhat-fedora-yum-lock-package-version-command/) - CentOS / RHEL: Yum Lock Package Version At a Particular Version
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 20 Linux Server Hardening Security Tips
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software/) - curated list of awesome applications, softwares, tools and other materials for Linux distros.
+* [Brendan D. Gregg](http://www.brendangregg.com/Perf/linux_observability_tools.png) - [IMG] Linux performance observability tools
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -892,7 +893,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marvin Pinto](https://disjoint.ca/writing/2015/11/26/a-framework-for-deployment-of-immutable-infrastructure/) - A Framework for Deployment of Immutable Infrastructure
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
 * [Pat Cable](https://blog.threatstack.com/balancing-security-and-your-on-call-rotation-using-deputize) - Balancing Security and Your On-Call Rotation Using Deputize
-* [Brendan Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
+* [Brendan D. Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Jon Prall](http://jprall.typepad.com/blog/2010/10/85-operational-rules.html) - (2007) 85 Operations Rules to Live By
 * [John Allspaw](http://www.kitchensoap.com/2007/10/11/knowing-when-you-can-fail-is-mandatory/) - Knowing when you can fail is mandatory.
 * [LZone](http://lzone.de/) - Various Cheat Sheets about sysadmin, development, it ops, services management and virtualization
