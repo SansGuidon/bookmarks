@@ -213,6 +213,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Drue Placette](https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/) - (2015) 51 Best DevOps Tools for #DevOps Engineers
 * [Electric Cloud](http://electric-cloud.com/plugins/continuous-integration/) - Continuous Integration Best Practices: Vision and Reality
 * [Electric Cloud](http://electric-cloud.com/plugins/build-automation/) - Build Automation: Top 3 Problems and How to Solve Them
+* [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -910,6 +911,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [AskF5 Support](https://support.f5.com/csp/article/K12213214) - Overview of colored status icons in the Configuration utility
 * [Deb Shinder](http://techgenix.com/fall-of-all-powerful-admin/) - The rise and fall of the all-powerful admin
 * [Rundeck](http://rundeck.org/) - Turn your operations procedures into self-service jobs.
+* [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
