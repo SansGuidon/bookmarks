@@ -1284,6 +1284,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/) - On the Matter of Beautiful git Diffs
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
 * [Gitdude.com](https://gitdude.com/) - code improvement tips posted as a comment on your Github commits
+* [Seth Robertson](https://sethrobertson.github.io/GitBestPractices/) - Git Best practices : commit often, perfect later, publish once, etc.
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
