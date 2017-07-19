@@ -589,6 +589,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [caps-a-holic.com](http://www.caps-a-holic.com/) - DVD und Blu-ray Comparisons
 * [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
+* [Fast Andes](https://fastandes.com/) - a search engine that shows you products highly scored by reddit comments and submissions.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
