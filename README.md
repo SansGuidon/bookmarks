@@ -594,6 +594,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SoMeFilm](https://somefilm.net/auth/guest) - Movies / tv shows recommendations : what will you watch tonight ?
 * [Book Suggestions Ninja](https://www.booksuggestions.ninja/) - books suggestions
 * [Reading Stash](http://readingstash.com/index) - Just a book recommender
+* [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows | Lost Music Soundtrack
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
