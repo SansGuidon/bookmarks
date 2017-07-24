@@ -1102,6 +1102,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
+* [Linguee](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web 
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
