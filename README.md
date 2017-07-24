@@ -214,6 +214,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Electric Cloud](http://electric-cloud.com/plugins/continuous-integration/) - Continuous Integration Best Practices: Vision and Reality
 * [Electric Cloud](http://electric-cloud.com/plugins/build-automation/) - Build Automation: Top 3 Problems and How to Solve Them
 * [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
+* [DevOps Topologies](http://web.devopstopologies.com/). There is no ‘right’ team topology, but several ‘bad’ topologies for any one organisation. Original article : [What Team Structure is Right for DevOps to Flourish?](https://blog.matthewskelton.net/2013/10/22/what-team-structure-is-right-for-devops-to-flourish/)
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
