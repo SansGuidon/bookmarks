@@ -134,6 +134,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [David Mytton](https://blog.serverdensity.com/how-to-do-code-reviews/) - How to do code reviews
 * [Select International](http://www.selectinternational.com/safety-blog/bid/189940/There-is-No-Shortcut-to-Safety) - There is No Shortcut to Safety
 * [Rajesh Setty](http://rajeshsetty.com/2010/05/03/why-many-smart-people-take-shortcuts-and-how-you-can-avoid-that-trap/) - Why MANY smart people take shortcuts and how you can avoid that trap
+* [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - 7 Shortcuts You Will Regret Taking in Life
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -1080,6 +1081,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the Hacker News community's favorite content
 * [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
 * [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
+* [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - 7 Shortcuts You Will Regret Taking in Life
 > Tools
 * [Chris Barber](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [BugMeNot](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
