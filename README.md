@@ -132,6 +132,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ben Hilburn](https://bhilburn.org/a-keystone-of-success/) - What mature engineers do and don't do / what it means to be a mature engineer.
 * [Mart Virkus](https://blog.toggl.com/2017/02/seven-circles-of-developer-hell/) - The Seven Circles of Developer Hell [Infographic]
 * [David Mytton](https://blog.serverdensity.com/how-to-do-code-reviews/) - How to do code reviews
+* [Select International](http://www.selectinternational.com/safety-blog/bid/189940/There-is-No-Shortcut-to-Safety) - There is No Shortcut to Safety
+* [Rajesh Setty](http://rajeshsetty.com/2010/05/03/why-many-smart-people-take-shortcuts-and-how-you-can-avoid-that-trap/) - Why MANY smart people take shortcuts and how you can avoid that trap
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
