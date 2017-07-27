@@ -10,3 +10,4 @@
 * > "Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on." Richard Feynman
 * > "Let's clarify : Jira is not Agile, Open Source is not Free, Using cloud is not DevOps, Rituals is not Scrum, Developed is not Done" Lemi Orhan Ergin. [Source](https://twitter.com/lemiorhan/status/859158123722010628)
 * > "Software being 'Done' is like lawn being 'Mowed'." - Jim Benson
+* React to someone's mistake and you are part of the problem. Support and help them, and you are part of the solution.
