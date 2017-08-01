@@ -1311,6 +1311,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
 * [Gitdude.com](https://gitdude.com/) - code improvement tips posted as a comment on your Github commits
 * [Seth Robertson](https://sethrobertson.github.io/GitBestPractices/) - Git Best practices : commit often, perfect later, publish once, etc.
+* [Bitbucket Docs](https://confluence.atlassian.com/bitbucket/code-search-in-bitbucket-873876782.html#CodesearchinBitbucket-Searchoperators) - Tips & tricks for code search in Bitbucket
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
