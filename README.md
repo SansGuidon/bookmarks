@@ -1334,6 +1334,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christoph Berger](https://appliedgo.net/generics/) - Who needs generics? Use ... instead!
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/) - Interfaces and Composition for Effective Unit Testing in Golang
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2015/03/09/youre-not-using-this-enough-part-one-go-interfaces/) - You're Not Using This Enough, Part One: Go Interfaces
+* [Go Styleguide](https://github.com/bahlo/go-styleguide) - Opinionated Styleguide for the Go language
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
