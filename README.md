@@ -103,6 +103,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Don MacAskill](https://don.blogs.smugmug.com/2011/04/24/how-smugmug-survived-the-amazonpocalypse/) - How SmugMug survived the Amazonpocalypse
 * [Krishnan Subramanian](https://www.cloudave.com/11973/designing-for-failure-some-key-facts/) - Designing For Failure: Some Key Facts
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
+* [Principles of Chaos Engineering](http://principlesofchaos.org/) 
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
@@ -167,6 +168,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DZone](https://dzone.com/devops-tutorials-tools-news) - DZone Devops
 * [/r/devops](https://www.reddit.com/r/devops/) - Everything Devops on reddit
 * [Netflix](https://medium.com/@NetflixTechBlog) - NetFlix Technology Blog
+* [Netflix](https://medium.com/netflix-techblog) - Netflix TechBlog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
 * [Stack Exchange](https://devops.stackexchange.com/) - DevOps questions & answers
 * [ThoughtWorks](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
