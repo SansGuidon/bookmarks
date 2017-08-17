@@ -462,7 +462,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Developer code search](http://codegists.com/search?q=jenkinsfile) - Examples of Jenkinsfile (returned by a search engine)
 * [Christian Galsterer](https://christiangalsterer.wordpress.com/2015/04/23/continuous-integration-for-pull-requests-with-jenkins-and-stash/) - Continuous Integration for Pull Requests with Jenkins and Bitbucket Server (Stash)
 * [Mark Waite](https://jenkins.io/blog/2017/08/07/intro-to-plugin-development/) - Plugin Development Tutorials, Videos, and More 
-* [David Hoover](https://www.youtube.com/watch?v=7ERV9C20GSE) - Jenkins World 2016 - Jenkins Inside Google
+* [David Hoover](https://www.youtube.com/watch?v=7ERV9C20GSE) - [Video] Jenkins World 2016 - Jenkins Inside Google
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -1316,6 +1316,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gitdude.com](https://gitdude.com/) - code improvement tips posted as a comment on your Github commits
 * [Seth Robertson](https://sethrobertson.github.io/GitBestPractices/) - Git Best practices : commit often, perfect later, publish once, etc.
 * [Bitbucket Docs](https://confluence.atlassian.com/bitbucket/code-search-in-bitbucket-873876782.html#CodesearchinBitbucket-Searchoperators) - Tips & tricks for code search in Bitbucket
+* [Gary Ewan Park](https://www.youtube.com/watch?v=SlM02V1tkSc) - Control your GitHub releases with GitVersion and GitReleaseManager
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
