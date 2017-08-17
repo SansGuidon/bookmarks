@@ -462,6 +462,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Developer code search](http://codegists.com/search?q=jenkinsfile) - Examples of Jenkinsfile (returned by a search engine)
 * [Christian Galsterer](https://christiangalsterer.wordpress.com/2015/04/23/continuous-integration-for-pull-requests-with-jenkins-and-stash/) - Continuous Integration for Pull Requests with Jenkins and Bitbucket Server (Stash)
 * [Mark Waite](https://jenkins.io/blog/2017/08/07/intro-to-plugin-development/) - Plugin Development Tutorials, Videos, and More 
+* [David Hoover](https://www.youtube.com/watch?v=7ERV9C20GSE) - Jenkins World 2016 - Jenkins Inside Google
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
