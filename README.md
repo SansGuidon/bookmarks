@@ -1452,6 +1452,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/ProgrammerReactions](https://www.reddit.com/r/programmerreactions/) - reactions related to Software Development
 * [Life of a Software Engineer](http://lifeofasoftwareengineer.tumblr.com/) - another reactions tumblr related to Software Development
 * [Passive Aggressive Passwords](http://www.trypap.com/) - The Passive Aggressive Password Machine
+* [turnoff.us](http://turnoff.us/) - geek comic site about developers 
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
