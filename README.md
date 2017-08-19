@@ -137,6 +137,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Select International](http://www.selectinternational.com/safety-blog/bid/189940/There-is-No-Shortcut-to-Safety) - There is No Shortcut to Safety
 * [Rajesh Setty](http://rajeshsetty.com/2010/05/03/why-many-smart-people-take-shortcuts-and-how-you-can-avoid-that-trap/) - Why MANY smart people take shortcuts and how you can avoid that trap
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - 7 Shortcuts You Will Regret Taking in Life
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR][IMG] Arguments réthoriques fallacieux 
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -1084,6 +1085,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
 * [Justyna Ilczuk](http://tinystruggles.com/2014/11/30/maker-productivity-101.html) - Maker Productivity 101
 * [Nathan Kontny](https://m.signalvnoise.com/speed-reading-2ff843053cc6) - Speed Reading tips
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR][IMG] Arguments réthoriques fallacieux 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
