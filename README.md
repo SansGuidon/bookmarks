@@ -1772,6 +1772,7 @@ Raw
 * [PowerShellScripts.com](http://powershellscripts.com/) - some scripts, tutoriels for powershell. Warning : some dead links here
 * [JeffOps](http://jeffwouters.nl/) - The Scripting dutchman : lot of scripts and tips for powershell 
 * [Eric Ravenscraft](http://lifehacker.com/how-to-save-the-windows-10-lock-screen-images-you-like-1768783711) - How to Save the Windows 10 Lock Screen Images You Like
+* [Garrett Serack](https://blogs.technet.microsoft.com/packagemanagement/2015/05/05/10-things-about-oneget-that-are-completely-different-than-you-think/) - 10 things about OneGet that are completely different than you think.
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
