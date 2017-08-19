@@ -1018,6 +1018,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**Privacy tools**](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
 * [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
+* [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
 * [**/r/selfhosted/**](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
 * [**Edward Dickson**](https://github.com/Kickball/awesome-selfhosted) - awesome-selfhosted : list of Free Software network services and web applications which can be hosted locally
@@ -1639,6 +1640,8 @@ Raw
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 20 Linux Server Hardening Security Tips
 * [Passive Aggressive Passwords](http://www.trypap.com/) - [Humor] The Passive Aggressive Password Machine
+* [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
+* [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
