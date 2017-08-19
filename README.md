@@ -1386,6 +1386,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MacAdmins on Slack](https://macadmins.herokuapp.com/) - Place where many of OS X Admins belong
 * [OS X Daily](http://osxdaily.com/2011/09/26/show-package-contents-unavailable-extract-pkg-files-without-installing-them/) - Command line : Extract .pkg Files Without Installing Them
 * [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - Mount & Unmount Drives from the Command Line in Mac OS X
+* [Apple Support](https://support.apple.com/en-us/HT201236) - Mac keyboard shortcuts
 
 ## Machine Learning
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
