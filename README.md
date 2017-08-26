@@ -537,6 +537,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hashicorp](https://atlas.hashicorp.com/puppetlabs) - Official Puppet Vagrant boxes
 * [Willem Meints](http://fizzylogic.nl/2015/01/27/building-containerized-apps-with-vagrant/) - Building Containerized Apps With Vagrant
 * [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
+* [Scott Keck-Warren](http://www.thisprogrammingthing.com/2015/multiple-vagrant-vms-in-one-vagrantfile/) - Multiple Vagrant VMs in One Vagrantfile
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
