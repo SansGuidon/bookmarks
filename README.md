@@ -156,6 +156,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
 * [Internet Movie Database](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
 * [Learn by Reading](https://learnbyreading.herokuapp.com/) - Discover your next favorite learnable (Non-fiction) book from Amazon Book
+* [Gnod](http://www.gnooks.com/faves.php) - Discover new books based on what you like
+* [Goodreads](https://www.goodreads.com/) - a home for you books, to manage your collection and discover new books
+* [LibraryThing](https://www.librarything.com/) - a home for your books, to manage your library and discover new books
+* [Whichbook](http://www.openingthebook.com/whichbook/) - a tool for selecting what book to read next
+* [What Should I Read Next?](http://www.whatshouldireadnext.com/) - another tool to discover new books based on what you like
+* [YourNextRead](http://www.yournextread.com/us/) - books recommendations based on what you like
+* [AllReaders](http://allreaders.com/booksearch.asp) - book search engine, get details and recommendations about books you like
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
