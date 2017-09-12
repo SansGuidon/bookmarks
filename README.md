@@ -690,6 +690,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 * [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
 * [Cactus2000](http://www.cactus2000.de/fr/unit/masswas.shtml) - [FR] Convertisseur de dureté de l'eau
+* [Cactus2000](http://www.cactus2000.de/uk/unit/masswas.shtml) - Converter for hardness of water
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
