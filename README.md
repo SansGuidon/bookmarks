@@ -376,6 +376,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/getting_started_with_containers/using_red_hat_base_container_images_standard_and_minimal) - Using Red Hat Base Container Images (standard and minimal)
 * [Thierry Carez](http://superuser.openstack.org/articles/openstack-relevant-containers) - What makes OpenStack relevant in a container-driven world. [Related Video](https://www.youtube.com/watch?v=2QnHdncpypI)
 * [Aymen El Amri](https://medium.com/statuscode/dockercheatsheet-9730ce03630d) - My Docker Cheat Sheet
+* [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -543,6 +544,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Scott Keck-Warren](http://www.thisprogrammingthing.com/2015/multiple-vagrant-vms-in-one-vagrantfile/) - Multiple Vagrant VMs in One Vagrantfile
 * [Sebastian Krysmanski](https://manski.net/2016/09/vagrant-multi-machine-tutorial/) - Vagrant Tutorial – From Nothing To Multi-Machine
+* [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
