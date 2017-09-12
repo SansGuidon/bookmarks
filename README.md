@@ -689,6 +689,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Open Port Check Tool](https://www.yougetsignal.com/tools/open-ports/) - Port forwarding tester - open port finder
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 * [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
+* [Cactus2000](http://www.cactus2000.de/fr/unit/masswas.shtml) - [FR] Convertisseur de dureté de l'eau
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
