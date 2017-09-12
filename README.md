@@ -384,6 +384,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Thierry Carez](http://superuser.openstack.org/articles/openstack-relevant-containers) - What makes OpenStack relevant in a container-driven world. [Related Video](https://www.youtube.com/watch?v=2QnHdncpypI)
 * [Aymen El Amri](https://medium.com/statuscode/dockercheatsheet-9730ce03630d) - My Docker Cheat Sheet
 * [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
+* [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -503,6 +504,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## OpenShift
 * [OpenShift Docs](https://ci.openshift.redhat.com/openshift-docs-master-testing/latest/welcome/index.html) - OpenShift Latest Documentation
 * [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news 
+* [OpenShift](https://www.openshift.com/container-platform/features.html) - Features and Benefits of OpenShift
 * [Marek Jelen](https://blog.openshift.com/deploying-from-private-git-repositories/) - Deploying From Private Git Repositories
 * [OpenShift Docs](https://docs.openshift.org/latest/minishift/using/interacting-with-openshift.html) - Interacting with OpenShift - Using Minishift
 * [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/cli_reference/basic_cli_operations.html) - Developer CLI Operations
@@ -859,6 +861,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software/) - curated list of awesome applications, softwares, tools and other materials for Linux distros.
 * [Brendan D. Gregg](http://www.brendangregg.com/Perf/linux_observability_tools.png) - [IMG] Linux performance observability tools
 * [Curl Docs](https://curl.haxx.se/docs/comparison-table.html) - Compare curl Features with Other Download Tools
+* [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -956,6 +959,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Deb Shinder](http://techgenix.com/fall-of-all-powerful-admin/) - The rise and fall of the all-powerful admin
 * [Rundeck](http://rundeck.org/) - Turn your operations procedures into self-service jobs.
 * [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
+* [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -996,6 +1000,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
 * [Steven Vaughan-Nichols](https://insights.hpe.com/articles/16-linux-server-monitoring-commands-you-really-need-to-know-1703.html) - 16 Linux server monitoring commands you really need to know
 * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee
+* [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
