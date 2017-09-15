@@ -253,7 +253,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Overflow](https://stackoverflow.com/questions/32526774/multistage-deployment-with-ansible) - Multistage deployment with ansible
 * [Osvaldo Toja](http://toja.io/using-host-and-group-vars-files-in-ansible/) - Organizing Group Vars Files in Ansible
 * [Ross Tuck](http://rosstuck.com/multistage-environments-with-ansible/) - Multistage environments with Ansible
-* [Ross Tuck](http://rosstuck.com/slightly-faster-ansible-testing-with-vagrant/) - (Slightly) Faster Ansible Testing with Vagrant
+* [Ross Tuck](http://rosstuck.com/slightly-faster-ansible-testing-with-vagrant) - (Slightly) Faster Ansible Testing with Vagrant
 * [Jeff Geerling](https://github.com/geerlingguy?utf8=%E2%9C%93&tab=repositories&q=ansible&type=&language=) - Lot of good ansible roles examples
 * [Maxime Thoonsen](https://www.theodo.fr/blog/2015/10/best-practices-to-build-great-ansible-playbooks/) - Best practices to build great Ansible playbooks
 * [Jon Warbrick](https://gist.github.com/andreicristianpetcu/b892338de279af9dac067891579cad7d) - (2014) An Ansible summary : Ansible Cheat Sheet (for Ansible 1.7)
