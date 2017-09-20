@@ -232,6 +232,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DevOps Topologies](http://web.devopstopologies.com/). There is no ‘right’ team topology, but several ‘bad’ topologies for any one organisation. Original article -> [Matthew Skelton](https://blog.matthewskelton.net/2013/10/22/what-team-structure-is-right-for-devops-to-flourish/) - What Team Structure is Right for DevOps to Flourish?
 * [RedHat](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack... 
 * [Ahmed Elsabbahy](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
+* [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -388,6 +389,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
 * [Ahmed Elsabbahy](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
+* [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1741,6 +1743,7 @@ Raw
 * [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html) - Five ways to reduce the cost of large test suites
 * [Ahmed Elsabbahy](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 * [Ahmed Elsabbahy](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
+* [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
