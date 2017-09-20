@@ -231,6 +231,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
 * [DevOps Topologies](http://web.devopstopologies.com/). There is no ‘right’ team topology, but several ‘bad’ topologies for any one organisation. Original article -> [Matthew Skelton](https://blog.matthewskelton.net/2013/10/22/what-team-structure-is-right-for-devops-to-flourish/) - What Team Structure is Right for DevOps to Flourish?
 * [RedHat](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack... 
+* [Ahmed Elsabbahy](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -965,6 +966,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rundeck](http://rundeck.org/) - Turn your operations procedures into self-service jobs.
 * [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
+* [Ahmed Elsabbahy](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1737,6 +1739,7 @@ Raw
 * [Andrew Wulf](http://thecodist.com/article/my_job_as_a_programmer_is_to_make_testers_miserable) - My Job As A Programmer Is To Make Testers Miserable
 * [Locust](http://locust.io/) - a modern open source load testing framework
 * [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html) - Five ways to reduce the cost of large test suites
+* [Ahmed Elsabbahy](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 * [Ahmed Elsabbahy](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
 
 # UX / UI
