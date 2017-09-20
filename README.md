@@ -386,6 +386,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
+* [Ahmed Elsabbahy](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -483,6 +484,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Randall Wood](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
 * [Alvin Huang](https://jenkins.io/blog/2017/07/27/standardizing-builds-with-shared-libraries/) - Codifying the Build and Release Process with a Pipeline Shared Library 
 * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
+* [Ahmed Elsabbahy](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples, including examples for jenkins
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -1735,6 +1737,7 @@ Raw
 * [Andrew Wulf](http://thecodist.com/article/my_job_as_a_programmer_is_to_make_testers_miserable) - My Job As A Programmer Is To Make Testers Miserable
 * [Locust](http://locust.io/) - a modern open source load testing framework
 * [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html) - Five ways to reduce the cost of large test suites
+* [Ahmed Elsabbahy](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
