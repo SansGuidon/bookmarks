@@ -870,6 +870,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brendan D. Gregg](http://www.brendangregg.com/Perf/linux_observability_tools.png) - [IMG] Linux performance observability tools
 * [Curl Docs](https://curl.haxx.se/docs/comparison-table.html) - Compare curl Features with Other Download Tools
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
+* [Sandeep Singh](https://linoxide.com/linux-how-to/lvm-configuration-linux/) - How to Configure LVM in Linux (pvcreate, lvcreate, vgcreate)
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
