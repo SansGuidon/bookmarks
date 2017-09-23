@@ -1432,7 +1432,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Azat Mardan](https://webapplog.com/seven-things-you-should-stop-doing-with-node-js/) - Seven Things You Should Stop Doing with Node.js
 
 ## Mac
-* [Apple Developer Docs](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
 * [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
 * [Markus Wein](http://nuclearsquid.com/macos-terminal-cheat-sheet/) - macOS Terminal cheat sheet
@@ -1445,7 +1444,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Randall Wood](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
 * [Apple Developer Docs](https://developer.apple.com/library/content/documentation/Security/Conceptual/CodeSigningGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005929-CH1-SW1) - About Code Signing
-* [Apple Developer Docs](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
+* [**Apple Developer Docs**](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
+* [Morten Johan Sørvig](http://blog.qt.io/blog/2014/10/29/an-update-on-os-x-code-signing/) - An update on OS X Code Signing
+* [ouchangjian](http://www.ouchangjian.com/question/588b48cce4a1ca4b30edaff5) - difference between codesign and productsign ?
+* [Stack Overflow](https://stackoverflow.com/a/21564967/2309958) - what to sign, with which certificate ?
+* [Andy Brice](https://successfulsoftware.net/2012/08/30/how-to-sign-your-mac-os-x-app-for-gatekeeper/) - How to sign your Mac OS X App for Gatekeeper. **Bonus** : [things have changed, see this article for the update](https://successfulsoftware.net/2014/10/17/signing-qt-applications-for-mac-os-x-10-9-5-and-10-10/)
 
 ## Machine Learning
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
