@@ -293,6 +293,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Animosity](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot%27s-introduction-to-yaml) - Complete idiot's introduction to yaml
 * [Ansible Docs](http://ansible-docs.readthedocs.io/zh/stable-2.0/rst/YAMLSyntax.html) - YAML Syntax
 * [Ansible](https://github.com/ansible/ansible-examples) - This repository contains examples and best practices for building Ansible Playbooks.
+* [Fred Alger / Mark Theunissen](https://gist.github.com/marktheunissen/2979474) - Insanely complete Ansible playbook, showing off all the options
+* [indusbox](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
