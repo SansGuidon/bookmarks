@@ -234,6 +234,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [RedHat](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack... 
 * [Ahmed Elsabbahy](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 * [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
+* [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -295,6 +296,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ansible](https://github.com/ansible/ansible-examples) - This repository contains examples and best practices for building Ansible Playbooks.
 * [Fred Alger / Mark Theunissen](https://gist.github.com/marktheunissen/2979474) - Insanely complete Ansible playbook, showing off all the options
 * [indusbox](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
+* [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -982,6 +984,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [Ahmed Elsabbahy](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
+* [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1023,6 +1026,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steven Vaughan-Nichols](https://insights.hpe.com/articles/16-linux-server-monitoring-commands-you-really-need-to-know-1703.html) - 16 Linux server monitoring commands you really need to know
 * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
+* [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
