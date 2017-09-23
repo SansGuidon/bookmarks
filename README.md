@@ -163,6 +163,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [What Should I Read Next?](http://www.whatshouldireadnext.com/) - another tool to discover new books based on what you like
 * [YourNextRead](http://www.yournextread.com/us/) - books recommendations based on what you like
 * [AllReaders](http://allreaders.com/booksearch.asp) - book search engine, get details and recommendations about books you like
+* [Readgeek](https://www.readgeek.com/rate_many) - Let Readgeek get to know your book taste to get recommendations
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
