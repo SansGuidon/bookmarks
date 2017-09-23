@@ -498,6 +498,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stackpoint.io on Slack](http://slack.stackpoint.io/) - Web-based interface for deployment of Kubernetes cluster
 * [Fabric8 on Slack](https://slack.fabric8.io/) - Open source integrated development platform for Kubernetes
 * [Ramit Surana](https://github.com/ramitsurana/awesome-kubernetes) - Awesome Kubernetes resources
+* [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -545,6 +546,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenShift Interactive Learning Portal](https://learn.openshift.com/) - Interactive learning scenarios. Can be used for experimentation
 * [OpenShift](https://commons.openshift.org/videos.html) - [Videos] Watch videos from OpenShift Commons Gathering events
 * [RedHat Summit](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack... 
+* [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
