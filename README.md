@@ -288,6 +288,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - Using Ansible with Docker Machine to Bootstrap Host Nodes
 * [Maxim Chernyak](http://hakunin.com/six-ansible-practices#avoid-perpetually-changed-and-skipping-tasks) - Avoid perpetually “changed” and “skipping” tasks 
 * [Andreas Sommer](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Ansible best practices
+* [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -701,6 +702,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
 * [Cactus2000](http://www.cactus2000.de/fr/unit/masswas.shtml) - [FR] Convertisseur de dureté de l'eau
 * [Cactus2000](http://www.cactus2000.de/uk/unit/masswas.shtml) - Converter for hardness of water
+* [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1255,6 +1257,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ansible Best Practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 * [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 * [Tom Preston-Werner](http://semver.org/) - Semantic Versioning 2.0.0
+* [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
