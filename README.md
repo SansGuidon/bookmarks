@@ -290,6 +290,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Maxim Chernyak](http://hakunin.com/six-ansible-practices#avoid-perpetually-changed-and-skipping-tasks) - Avoid perpetually “changed” and “skipping” tasks 
 * [Andreas Sommer](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Ansible best practices
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
+* [Animosity](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot%27s-introduction-to-yaml) - Complete idiot's introduction to yaml
+* [Ansible Docs](http://ansible-docs.readthedocs.io/zh/stable-2.0/rst/YAMLSyntax.html) - YAML Syntax
+* [Ansible](https://github.com/ansible/ansible-examples) - This repository contains examples and best practices for building Ansible Playbooks.
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
