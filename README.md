@@ -68,6 +68,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Java](#java)
   * [JavaScript](#javascript)
   * [Mac](#mac)
+    * [Code signing](#code-signing)
   * [Machine learning](#machine-learning)
   * [Mobile development](#mobile-development)
   * [Productivity](#productivity-1)
@@ -1442,6 +1443,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - Mount & Unmount Drives from the Command Line in Mac OS X
 * [Apple Support](https://support.apple.com/en-us/HT201236) - Mac keyboard shortcuts
 * [Randall Wood](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
+
+### Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
 * [Apple Developer Docs](https://developer.apple.com/library/content/documentation/Security/Conceptual/CodeSigningGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005929-CH1-SW1) - About Code Signing
 * [**Apple Developer Docs**](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
