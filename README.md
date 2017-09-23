@@ -1444,6 +1444,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Apple Support](https://support.apple.com/en-us/HT201236) - Mac keyboard shortcuts
 * [Randall Wood](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
+* [Apple Developer Docs](https://developer.apple.com/library/content/documentation/Security/Conceptual/CodeSigningGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005929-CH1-SW1) - About Code Signing
+* [Apple Developer Docs](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
 
 ## Machine Learning
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
