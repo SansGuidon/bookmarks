@@ -298,6 +298,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fred Alger / Mark Theunissen](https://gist.github.com/marktheunissen/2979474) - Insanely complete Ansible playbook, showing off all the options
 * [indusbox](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
+* [Venelux](https://velenux.wordpress.com/2017/07/31/ansible-how-to-skip-a-specific-host-or-group-in-a-playbook/) - Ansible: how to skip a specific host or group in a playbook
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
