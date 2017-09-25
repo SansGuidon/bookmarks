@@ -172,7 +172,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/Infographics](https://www.reddit.com/r/Infographics/) - all the latest infographics
 * [/r/funnycharts](https://www.reddit.com/r/funnycharts/) - funny charts
 
-# DevOps
+####Ops
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
 * [CloudBees](https://www.cloudbees.com/blog) - CloudBees Blog
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
@@ -1537,6 +1537,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Life of a Software Engineer](http://lifeofasoftwareengineer.tumblr.com/) - another reactions tumblr related to Software Development
 * [Passive Aggressive Passwords](http://www.trypap.com/) - The Passive Aggressive Password Machine
 * [turnoff.us](http://turnoff.us/) - geek comic site about developers 
+* [Classic Programmer Paintings](http://classicprogrammerpaintings.com/) - funny tumblr about software engineering as depicted by artists through history
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
