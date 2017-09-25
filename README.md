@@ -1422,7 +1422,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nick Parlante](http://codingbat.com/java) - CodingBat : practice your java skills
 * [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
 * [findJAR](http://findjar.com/index.x) - a JAR search engine to help developers finding JAR libraries containing specific Java classes.
-
+* [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
+* [Arjan Tijms](http://arjan-tijms.omnifaces.org/2012/11/implementing-container-authentication.html) - Implementing container authentication in Java EE with JASPIC
 
 ## JavaScript
 * [Ilse Garcia](https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - The JS Path: JavaScript Best Practices Pt. 1
