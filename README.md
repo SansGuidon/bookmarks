@@ -650,7 +650,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fast Andes](https://fastandes.com/) - a search engine that shows you products highly scored by reddit comments and submissions.
 * [IMSE](http://www.imse.co/) - Internet Movie Search Engine
 * [SoMeFilm](https://somefilm.net/auth/guest) - Movies / tv shows recommendations : what will you watch tonight ?
-* [Book Suggestions Ninja](https://www.booksuggestions.ninja/) - books suggestions
+* [Book Suggestions Ninja](https://www.booksuggestions.ninja/) - books suggestions based on book / author or genre
 * [Reading Stash](http://readingstash.com/index) - Just a book recommender
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
