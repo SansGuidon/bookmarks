@@ -786,6 +786,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/WhereIsMyFlyingCar](https://www.reddit.com/r/WhereIsMyFlyingCar/) - a lot of predictions made about the future that have or have not come to pass.
 * [Kimmo Lemetti](http://www.blastwave-comic.com/) - Gone with the blastwave is a post apocalyptic black humorous web comic
 * [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies 
+* [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website 
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
