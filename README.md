@@ -940,6 +940,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tellement Nomade](http://www.tellementnomade.org/forum/) - [FR] forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows 
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
+* [Ranker](http://www.ranker.com/list/songs-based-on-game-of-thrones/ranker-of-thrones) - Some of the Best Songs Based on Game of Thrones
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
