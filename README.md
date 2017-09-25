@@ -719,6 +719,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cactus2000](http://www.cactus2000.de/fr/unit/masswas.shtml) - [FR] Convertisseur de dureté de l'eau
 * [Cactus2000](http://www.cactus2000.de/uk/unit/masswas.shtml) - Converter for hardness of water
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
+* [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1762,6 +1763,7 @@ Raw
 * [Raymond Hill](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
 * [Raymond Hill](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 * [EFF](https://github.com/EFForg/privacybadger) - Privacy Badger - Block third party tracking in your browser
+* [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
