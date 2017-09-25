@@ -66,6 +66,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Golang / Go](#golang--go)
   * [Groovy](#groovy)
   * [Java](#java)
+    * [Java EE](#java-ee)
   * [JavaScript](#javascript)
   * [Mac](#mac)
     * [Code signing](#code-signing)
@@ -1422,6 +1423,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nick Parlante](http://codingbat.com/java) - CodingBat : practice your java skills
 * [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
 * [findJAR](http://findjar.com/index.x) - a JAR search engine to help developers finding JAR libraries containing specific Java classes.
+
+### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2012/11/implementing-container-authentication.html) - Implementing container authentication in Java EE with JASPIC
 * [Tom Alcott](https://www.ibm.com/developerworks/library/mw-1606-alcott-bluemix-trs/index.html) - What's new in WebSphere Application Server V9?
