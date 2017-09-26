@@ -654,6 +654,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Reading Stash](http://readingstash.com/index) - Just a book recommender
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
+* [What is my movie ?](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
