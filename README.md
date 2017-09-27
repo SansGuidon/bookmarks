@@ -566,6 +566,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
 * [Thomas-Krenn](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox) - Headless Mode for VirtualBox
 * [VirtualBox issues tracker](https://www.virtualbox.org/ticket/14374) - Network adapters not working after host returns from sleep Win 7 host Linux Mint 17.2 guest
+* [VirtualBox Docs](https://www.virtualbox.org/manual/) - Oracle VM VirtualBox Documentation / User manual
 
 ## Vagrant
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
