@@ -28,6 +28,7 @@
 * do pull requests
 * prioritize
 * finish what you're doing, focus on a small number of tasks in parallel. 
+* delegate some work to others if you already have lot of work to achieve, so you have more time to work on what matters for you
 
 # from my Bullet Journal
 ## Values 
