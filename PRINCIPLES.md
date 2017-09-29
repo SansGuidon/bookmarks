@@ -29,6 +29,7 @@
 * prioritize
 * finish what you're doing, focus on a small number of tasks in parallel. 
 * delegate some work to others if you already have lot of work to achieve, so you have more time to work on what matters for you
+* [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
 
 # from my Bullet Journal
 ## Values 
