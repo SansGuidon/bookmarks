@@ -172,7 +172,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/Infographics](https://www.reddit.com/r/Infographics/) - all the latest infographics
 * [/r/funnycharts](https://www.reddit.com/r/funnycharts/) - funny charts
 
-####Ops
+# DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
 * [CloudBees](https://www.cloudbees.com/blog) - CloudBees Blog
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
@@ -657,6 +657,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
 * [What is my movie ?](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
+* [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -897,12 +898,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Curl Docs](https://curl.haxx.se/docs/comparison-table.html) - Compare curl Features with Other Download Tools
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [Sandeep Singh](https://linoxide.com/linux-how-to/lvm-configuration-linux/) - How to Configure LVM in Linux (pvcreate, lvcreate, vgcreate)
+* [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
 * [Silver Moon](http://www.binarytides.com/linux-fun-commands/) - 20 amusing Linux commands to have fun with the terminal
 * [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=game) - Linux & SteamOS gaming community
 * [Linux game database](https://lgdb.org/games)
+* [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 
 ## Raspberry Pi
 * [Ard Ray](http://blog.mxard.com/persistent-iptables-on-raspberry-pi-raspbian) - Persistent IPtables on Raspberry Pi (Raspbian)
