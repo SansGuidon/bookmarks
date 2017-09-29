@@ -661,6 +661,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
 * [What is my movie ?](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+* [FileChef](http://filechef.com/) - Get direct download links for almost anything
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
