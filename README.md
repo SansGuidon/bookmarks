@@ -167,6 +167,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [AllReaders](http://allreaders.com/booksearch.asp) - book search engine, get details and recommendations about books you like
 * [Readgeek](https://www.readgeek.com/rate_many) - Let Readgeek get to know your book taste to get recommendations
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
+* [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1259,6 +1260,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DigitalOcean](https://www.digitalocean.com/community/tutorials) - development and sysadmin tutorials.
 * [Gojko Adzic](https://gojko.net/posts.html) - all articles by Gojko Adzic
 * [Ozan Onay](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) - You Are Not Google
+* [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
