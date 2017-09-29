@@ -1161,6 +1161,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Justyna Ilczuk](http://tinystruggles.com/2014/11/30/maker-productivity-101.html) - Maker Productivity 101
 * [Nathan Kontny](https://m.signalvnoise.com/speed-reading-2ff843053cc6) - Speed Reading tips
 * [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR][IMG] Arguments réthoriques fallacieux 
+* [James Clear](http://jamesclear.com/ivy-lee) - The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
