@@ -1406,6 +1406,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Bitbucket Docs](https://confluence.atlassian.com/bitbucket/code-search-in-bitbucket-873876782.html#CodesearchinBitbucket-Searchoperators) - Tips & tricks for code search in Bitbucket
 * [Gary Ewan Park](https://www.youtube.com/watch?v=SlM02V1tkSc) - Control your GitHub releases with GitVersion and GitReleaseManager
 * [Nicola Paolucci](https://www.slideshare.net/GoAtlassian/becoming-a-git-master-nicola-paolucci) - Becoming a Git Master / some interesting tips provided in this presentation
+* [top-regional-repositories](https://github.com/lorey/top-regional-repositories) - The most-relevant GitHub repositories for all countries and many cities worldwide.
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
