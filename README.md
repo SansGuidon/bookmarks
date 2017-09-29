@@ -759,7 +759,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/antiwork](https://www.reddit.com/r/antiwork/) - discussion and advocacy of a world without work
 * [PartTimer](https://parttimer.io/) - a job board for skilled work under 40 HRS/week
 * [Glassdoor](https://www.glassdoor.com/Reviews/index.htm) - company reviews and salaries posted anonymously by employees.
-* [BetaList JObs](https://betalist.com/jobs) - shape the future by joining one of the fastest growing technology startups
+* [BetaList Jobs](https://betalist.com/jobs) - shape the future by joining one of the fastest growing technology startups
+* [WorkWithUs](https://workwithus.io/) - hand-curated selection of best jobs
+* [Who is Hiring?](https://whoishiring.io/) - jobs search engine per location and some other criteria
+* [Gabriel Lewis](https://www.producthunt.com/@gabriel__lewis/collections/hack-your-job-search) - List of tools to hack your job search
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
