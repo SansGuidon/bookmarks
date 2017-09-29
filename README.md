@@ -168,6 +168,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Readgeek](https://www.readgeek.com/rate_many) - Let Readgeek get to know your book taste to get recommendations
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 * [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
+* [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1193,6 +1194,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
 * [Linguee](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web 
+* [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
