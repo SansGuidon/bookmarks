@@ -166,6 +166,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [YourNextRead](http://www.yournextread.com/us/) - books recommendations based on what you like
 * [AllReaders](http://allreaders.com/booksearch.asp) - book search engine, get details and recommendations about books you like
 * [Readgeek](https://www.readgeek.com/rate_many) - Let Readgeek get to know your book taste to get recommendations
+* [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -951,6 +952,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows 
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
 * [Ranker](http://www.ranker.com/list/songs-based-on-game-of-thrones/ranker-of-thrones) - Some of the Best Songs Based on Game of Thrones
+* [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
