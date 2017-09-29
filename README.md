@@ -1111,7 +1111,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 * [DuckDuckGo](https://spreadprivacy.com/privacy-tips/home) - Fix Tracking : how to stop getting tracked on desktop and mobile
 * [Google](https://www.google.com/safetycenter/everyone/start/) - Google' guide : How to keep your stuff secure and private
-* [That One Privacy Guy](https://thatoneprivacysite.net/) - That One Privacy Site : a resource for those who value their privacy, with amazing comparisons of existing VPN / Emails services
+* [That One Privacy Guy](https://thatoneprivacysite.net/) - That One Privacy Site : a resource for those who value their privacy, with amazing comparisons of existing [VPN](https://thatoneprivacysite.net/simple-vpn-comparison-chart/) / [Emails](https://thatoneprivacysite.net/simple-email-comparison-chart/) services
 * [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions 
 * [Steven J. Vaughan-Nichols](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/) - How to secure Windows 10: The paranoid's guide
 * [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
