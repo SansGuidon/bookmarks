@@ -305,6 +305,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [indusbox](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2017/07/31/ansible-how-to-skip-a-specific-host-or-group-in-a-playbook/) - Ansible: how to skip a specific host or group in a playbook
+* [Ansible Docs](http://docs.ansible.com/ansible/latest/list_of_all_modules.html) - All ansible modules
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -680,6 +681,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Random Hunt](http://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website 
 * [Discuvver](https://www.discuvver.com) - Take you to one random useful website
+* [AlternativeTo](https://alternativeto.net/platform/self-hosted/?license=opensource) - Open Source Self-Hosted apps on AlternativeTo
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -733,6 +735,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cactus2000](http://www.cactus2000.de/uk/unit/masswas.shtml) - Converter for hardness of water
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
+* [Random.org](https://www.random.org/) - true random number service, but not only
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1121,6 +1124,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions 
 * [Steven J. Vaughan-Nichols](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/) - How to secure Windows 10: The paranoid's guide
 * [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
+* [Reset The Net](https://pack.resetthenet.org/) - Privacy Pack : applications for your phone and computer
+* [Martin Brinkmann](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) - The ultimate Online Privacy Test Resource List
 
 # Productivity
 > Tips
