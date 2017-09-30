@@ -409,6 +409,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ahmed Elsabbahy](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
 * [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
+* [Nathan Osman](https://blog.quickmediasolutions.com/2017/09/28/a-1-kb-docker-container.html) - A 1 KB Docker Container
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
