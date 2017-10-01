@@ -752,6 +752,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
 * [Random.org](https://www.random.org/) - true random number service, but not only
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
+* [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
