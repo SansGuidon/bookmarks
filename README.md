@@ -939,6 +939,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kyle Johnson](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md) - Examples of possible questions during linux syadmin / devops interviews.
 * [Christian Assing](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
+* [Tom Limoncelli](https://everythingsysadmin.com/2012/09/unorthodoxunix.html) - 4 unix commands I abuse every day
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
