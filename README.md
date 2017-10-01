@@ -940,6 +940,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christian Assing](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
 * [Tom Limoncelli](https://everythingsysadmin.com/2012/09/unorthodoxunix.html) - 4 unix commands I abuse every day
+* [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1050,6 +1051,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CollectNode](https://collectnode.com/) - CollectNode makes easier the IT admin life
 * [DOESConsulting](http://www.doesconsulting.com/faq.shtml) - Load Balancing FAQs and Key Concepts
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
+* [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
