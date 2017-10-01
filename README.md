@@ -1758,6 +1758,7 @@ Raw
 * [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 * [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
 * [Kfir Lavi](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - Defensive BASH Programming
+* [GreyCat](http://mywiki.wooledge.org/BashWeaknesses) - BashWeaknesses : There are certain things BASH is not very good at.
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
