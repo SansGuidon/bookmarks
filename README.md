@@ -631,7 +631,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Finding content
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
 * [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
-* [Library Genesis](http://libgen.io/) - ebooks and scientific articles
+* [Library Genesis](http://libgen.io/) - ebooks and scientific articles. Mirror : [1](http://gen.lib.rus.ec/)
 * [b-ok.org](http://b-ok.org/) - ebooks
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music . 
 * [RuTracker](https://rutracker.org/forum/index.php) - torrent for music
