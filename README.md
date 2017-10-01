@@ -683,8 +683,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [What is my movie ?](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [FileChef](http://filechef.com/) - Get direct download links for almost anything
+* [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
 * [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - [TOR] a list of websites that have free ebooks.
 * [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
+* [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -755,6 +757,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Random.org](https://www.random.org/) - true random number service, but not only
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
+* [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
