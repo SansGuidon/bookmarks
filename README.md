@@ -247,6 +247,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
+* [Hacker News](https://hn.algolia.com/?query=Ansible&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year ansible news
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_best_practices.html) - Best Practices
 * [Ansible Best Practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 * [Timothy Appnel](https://www.ansible.com/blog/ansible-best-practices-essentials) - Ansible Best Practices: The Essentials
@@ -336,6 +337,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DEV](https://dev.to/t/docker) - Docker related articles on dev.to()
 * [Docker](https://www.youtube.com/user/dockerrun) - Docker Youtube channel
 * [CoreOS](https://www.youtube.com/channel/UCGORzzCxacx2r_NsF6_DteQ) - CoreOS Youtube Channel
+* [Hacker News](https://hn.algolia.com/?query=Docker&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year docker news
 * [Mike Simons](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
 * [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
 * [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
@@ -452,6 +454,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins Community Blog](https://jenkins.io/node/) - Jenkins articles
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
 * [CloudBees](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
+* [Hacker News](https://hn.algolia.com/?query=Jenkins&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year jenkins news
 * [Cloudbees](https://support.cloudbees.com/hc/en-us/articles/226122247-How-to-Customize-Checkout-for-Pipeline-Multibranch) - How to Customize Checkout for Pipeline Multibranch
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/jenkins-blueocean) - Q&A about Blue Ocean
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/jenkins-pipeline) - Q&A about Jenkins pipeline
