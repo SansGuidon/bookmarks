@@ -246,6 +246,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 * [Christian Assing](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
+* [awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
+* [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - list of resources about Continuous Integration and Continuous Delivery 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -941,6 +943,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
 * [Tom Limoncelli](https://everythingsysadmin.com/2012/09/unorthodoxunix.html) - 4 unix commands I abuse every day
 * [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
+* [Sysadmin Casts](https://sysadmincasts.com/) - Good resources for sysadmin / ops / devops
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1052,6 +1055,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DOESConsulting](http://www.doesconsulting.com/faq.shtml) - Load Balancing FAQs and Key Concepts
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
 * [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
+* [Sysadmin Casts](https://sysadmincasts.com/) - Good resources for sysadmin / ops / devops
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1318,6 +1322,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
 * [Geshan Manandhar](https://geshan.com.np/blog/2017/06/software-companies-tech-competency-matrix/) - Software Companies Tech Competency Matrix / useful skill matrix for devops, security, database...
 * [Redbubble](https://www.redbubble.com/fr/shop/sysadmin+stickers) - Sysadmin stickers
+* [awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
