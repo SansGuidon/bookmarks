@@ -687,6 +687,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - [TOR] a list of websites that have free ebooks.
 * [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
 * [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
+* [awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
