@@ -74,6 +74,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Mobile development](#mobile-development)
   * [Productivity](#productivity-1)
   * [Programmer humor](#programmer-humor)
+  * [Prolog](#prolog)
   * [Python](#python)
   * [Reverse engineering](#reverse-engineering)
   * [Ruby](#ruby)
@@ -1644,6 +1645,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
+* [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_executables/) - Creating Prolog executables
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
