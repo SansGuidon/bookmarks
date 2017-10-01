@@ -309,6 +309,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2017/07/31/ansible-how-to-skip-a-specific-host-or-group-in-a-playbook/) - Ansible: how to skip a specific host or group in a playbook
 * [Ansible Docs](http://docs.ansible.com/ansible/latest/list_of_all_modules.html) - All ansible modules
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/running-ansible-within-windows) - (2014) Running Ansible within Windows
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
 
 ### Ansible Vault
 * [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
@@ -1919,6 +1921,8 @@ Raw
 * [Garrett Serack](https://blogs.technet.microsoft.com/packagemanagement/2015/05/05/10-things-about-oneget-that-are-completely-different-than-you-think/) - 10 things about OneGet that are completely different than you think.
 * [Craig Buckler](https://www.sitepoint.com/outlook-unblock-unsafe-attachments/) - How to Unblock Unsafe Attachments in Microsoft Outlook
 * [Boxstarter](http://boxstarter.org/) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/running-ansible-within-windows) - (2014) Running Ansible within Windows
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
