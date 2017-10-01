@@ -1427,6 +1427,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gary Ewan Park](https://www.youtube.com/watch?v=SlM02V1tkSc) - Control your GitHub releases with GitVersion and GitReleaseManager
 * [Nicola Paolucci](https://www.slideshare.net/GoAtlassian/becoming-a-git-master-nicola-paolucci) - Becoming a Git Master / some interesting tips provided in this presentation
 * [top-regional-repositories](https://github.com/lorey/top-regional-repositories) - The most-relevant GitHub repositories for all countries and many cities worldwide.
+* [Amit Agarwal](https://www.labnol.org/internet/github-gist-tutorial/28499/) - What You Can Do With Gists on Github?
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1466,6 +1467,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nick Parlante](http://codingbat.com/java) - CodingBat : practice your java skills
 * [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
 * [findJAR](http://findjar.com/index.x) - a JAR search engine to help developers finding JAR libraries containing specific Java classes.
+* [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
