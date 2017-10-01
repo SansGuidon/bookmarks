@@ -177,6 +177,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/Infographics](https://www.reddit.com/r/Infographics/) - all the latest infographics
 * [/r/funnycharts](https://www.reddit.com/r/funnycharts/) - funny charts
 * [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
+* [Jeroen Janssens](http://datascienceatthecommandline.com/) - Data Science at the Command Line
 
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -1543,6 +1544,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - Mount & Unmount Drives from the Command Line in Mac OS X
 * [Apple Support](https://support.apple.com/en-us/HT201236) - Mac keyboard shortcuts
 * [Randall Wood](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
+* [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 
 ### Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
@@ -1744,6 +1746,8 @@ Raw
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Matthieu Parisot](http://blog.wescale.fr/2016/04/07/bash-pro-tips/) - [FR] Bash Pro Tips for logs / errors handling etc.
 * [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] tips & tricks with command line examples 
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+* [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
