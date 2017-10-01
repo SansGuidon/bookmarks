@@ -745,6 +745,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
 * [Random.org](https://www.random.org/) - true random number service, but not only
+* [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1705,6 +1706,7 @@ Raw
 * [Sam Rowe](http://samrowe.com/wordpress/advancing-in-the-bash-shell/) - Advancing in the Bash Shell
 * [Liquid Prompt](https://github.com/nojhan/liquidprompt) - a useful adaptive prompt for Bash & zsh
 * [Boris Huisgen](https://blog.hbis.fr) - [FR] various and interesting linux / sysadmin / devops tips & tricks with command line examples
+* [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
