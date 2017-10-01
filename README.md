@@ -222,8 +222,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
 * [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
-* [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
-* [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
+* [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
+* [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
 * [DevOps on Slack](https://devopschat.co/) - DevOps fans on Slack
 * [DevOpsLinks on Slack](http://devopslinks.com/) - Where “software DEVelopment” meets “information technology OPerationS”
 * [Joran Le Cren](http://squad-twelve.com/2017/07/03/7-specific-suggestions-to-sabotage-devops-simply/) - 7 Specific Suggestions to Sabotage DevOps Simply
@@ -849,9 +849,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**nixCraft**](https://www.cyberciti.biz/) - linux tips, hacks, tutorials and ideas
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
-* [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
+* [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
 * [Alltop](https://linux.alltop.com/) - Top Linux News aggregated
-* [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
+* [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
 * [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary 
 * [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2696541/operating-systems/unix--knowing-your-memory-commands.html) - Unix: Knowing your memory commands
@@ -1042,8 +1042,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [Matthew Skelton](https://blog.softwareoperability.com/2013/04/08/lets-talk-about-operational-features-not-non-functional-requirements/) - Let’s Talk About Operational Features, not Non-Functional Requirements
 * [David Mytton](https://blog.serverdensity.com/how-and-why-we-use-devops-checklists/) - How and why we use DevOps checklists
-* [Francisco Augusto](https://github.com/kahun/awesome-sysadmin) - kahun/awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources
-* [Crack Duck](https://github.com/n1trux/awesome-sysadmin) - n1trux/awesome-sysadmin : (fork of [Francisco Augusto](https://github.com/kahun/awesome-sysadmin))
+* [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
+* [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
 * [AskF5 Support](https://support.f5.com/csp/article/K12213214) - Overview of colored status icons in the Configuration utility
 * [Deb Shinder](http://techgenix.com/fall-of-all-powerful-admin/) - The rise and fall of the all-powerful admin
@@ -1146,7 +1146,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
 * [**/r/selfhosted/**](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
-* [**Edward Dickson**](https://github.com/Kickball/awesome-selfhosted) - awesome-selfhosted : list of Free Software network services and web applications which can be hosted locally
+* [**awesome-selfhosted**](https://github.com/Kickball/awesome-selfhosted) - list of Free Software network services and web applications which can be hosted locally
 * [Selfhosted on Slack](https://selfhosted.herokuapp.com/) - community for everything about self-hosted web apps and related technologies
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
