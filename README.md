@@ -540,6 +540,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices) - curated list of Microservice Architecture related principles and technologies.
 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
@@ -1365,6 +1366,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
+* [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md) - curated list of awesome MySQL software, libraries and resources
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -1748,6 +1750,7 @@ Raw
 * [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] tips & tricks with command line examples 
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 * [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
+* [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
