@@ -1367,6 +1367,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
 * [GNU](http://www.gnu.org/software/autoconf/manual/autoconf.html#Portable-Shell) - Portable Shell Programming
 * [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
+* [golang/go/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) - Go Code Review Comments : collects common comments made during reviews of Go code. This is a laundry list of common mistakes, not a style guide.
+* [Google](https://google.github.io/styleguide/javaguide.html) - Google Java Style Guide
+* [Google](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
+* [Google](https://google.github.io/styleguide/) - Google Style Guides
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -1506,6 +1510,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [bahlo/Go Styleguide](https://github.com/bahlo/go-styleguide) - Opinionated Styleguide for the Go language
 * [Peter Bourgon](https://peter.bourgon.org/go-best-practices-2016/) - (2016) Go best practices, six years in
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
+* [golang/go/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) - Go Code Review Comments : collects common comments made during reviews of Go code. This is a laundry list of common mistakes, not a style guide.
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -1520,6 +1525,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
 * [findJAR](http://findjar.com/index.x) - a JAR search engine to help developers finding JAR libraries containing specific Java classes.
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
+* [Google](https://google.github.io/styleguide/javaguide.html) - Google Java Style Guide
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
@@ -1657,6 +1663,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenStack/python-jenkins](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
 * [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
 * [pypi/feedparser](https://pypi.python.org/pypi/feedparser) - Parse Atom and RSS feeds in Python.
+* [Google](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
