@@ -1759,6 +1759,8 @@ Raw
 * [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
 * [Kfir Lavi](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - Defensive BASH Programming
 * [GreyCat](http://mywiki.wooledge.org/BashWeaknesses) - BashWeaknesses : There are certain things BASH is not very good at.
+* [GNU](http://www.gnu.org/software/autoconf/manual/autoconf.html#Portable-Shell) - Portable Shell Programming
+* [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
