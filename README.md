@@ -1363,6 +1363,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
 * [EditorConfig](http://editorconfig.org/) - EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs
+* [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -1640,6 +1641,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Passive Aggressive Passwords](http://www.trypap.com/) - The Passive Aggressive Password Machine
 * [turnoff.us](http://turnoff.us/) - geek comic site about developers 
 * [Classic Programmer Paintings](http://classicprogrammerpaintings.com/) - funny tumblr about software engineering as depicted by artists through history
+
+## Prolog
+* [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
