@@ -749,7 +749,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
-* [leereilly/games](https://github.com/leereilly/games) - Games on GitHub - A list of popular/awesome videos games, add-ons, maps, etc.
+* [leereilly/games](https://github.com/leereilly/games) - Games on GitHub - A list of open source games & add-ons, maps, etc.
 * [Soldat](https://www.soldat.pl/en/) - Soldat is still one of my favorite multiplayer games for 10+ years, mainly because it's free, its gameplay is simple, the engine can be modded easily and the game uses 2d rendering
 * [Illuminion](http://if.illuminion.de/infocom.html) - Classic text adventures masterpieces, to play with DOS or the Frotz-Z machine
 * [Hacknet](http://www.hacknet-os.com/) - a hacking game simulator (not free), potentially boring (move to hackmud)
