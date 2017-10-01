@@ -449,6 +449,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sameroom.io](https://cdn.sameroom.io/chat-timeline.pdf) - a brief history of chat services from 1973 to the present day
 * [Pidgin](https://bitbucket.org/pidgin/main/pull-requests/91/implmeth-webex-token-sasl-auth-for-jabber/diff) - Implmeth WEBEX-TOKEN SASL auth for jabber.
 * [matterbridge](https://github.com/42wim/matterbridge/commit/ee643de5b6031b6bdbf2e957f2fea8f1222ace64) - Add compatibility for Cisco Jabber (xmpp)
+* [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know 
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
