@@ -245,6 +245,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
+* [Christian Assing](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -936,6 +937,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [Freeduc-Sup](http://www.linux-france.org/prj/edu/archinet/systeme/ch13s04.html) - [FR] Comprendre la redirection de port (Port Forwarding)
 * [Kyle Johnson](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md) - Examples of possible questions during linux syadmin / devops interviews.
+* [Christian Assing](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
