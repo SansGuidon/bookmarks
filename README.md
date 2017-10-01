@@ -1365,6 +1365,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
 * [EditorConfig](http://editorconfig.org/) - EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
+* [GNU](http://www.gnu.org/software/autoconf/manual/autoconf.html#Portable-Shell) - Portable Shell Programming
+* [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
