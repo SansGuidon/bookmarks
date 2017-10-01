@@ -241,20 +241,20 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
 * [DevOps Topologies](http://web.devopstopologies.com/). There is no ‘right’ team topology, but several ‘bad’ topologies for any one organisation. Original article -> [Matthew Skelton](https://blog.matthewskelton.net/2013/10/22/what-team-structure-is-right-for-devops-to-flourish/) - What Team Structure is Right for DevOps to Flourish?
 * [RedHat](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack... 
-* [Ahmed Elsabbahy](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
+* [aelsabbahy/goss](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 * [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
-* [Christian Assing](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
-* [awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
-* [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - list of resources about Continuous Integration and Continuous Delivery 
+* [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
+* [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
+* [ciandcd/awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - list of resources about Continuous Integration and Continuous Delivery 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
 * [Hacker News](https://hn.algolia.com/?query=Ansible&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year ansible news
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_best_practices.html) - Best Practices
-* [Ansible Best Practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
+* [enginyoyen/ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practices of how to use ansible
 * [Timothy Appnel](https://www.ansible.com/blog/ansible-best-practices-essentials) - Ansible Best Practices: The Essentials
 * [Pierre Baillet](http://blog.ippon.tech/ansible-tips-and-tricks/) - 10 Ansible tips and tricks
 * [Timothy Appnel, James Martin](https://www.redhat.com/en/about/videos/ansible-best-practices-startups-enterprises) - [Video] Ansible best practices for startups to enterprises
@@ -267,7 +267,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ansible Docs](http://docs.ansible.com/ansible/intro_configuration.html) - Available settings in Ansible configuration file
 * [Jens Depuydt](http://jensd.be/587/linux/tips-tricks-for-ansible) - Tips & tricks for Ansible
 * [Maxim Chernyak](http://hakunin.com/six-ansible-practices) - 6 practices for super smooth Ansible experience 
-* [Nick Janetakis](https://github.com/nickjj/rolespec) - RoleSpec : A test library for testing Ansible roles
+* [nickjj/RoleSpec](https://github.com/nickjj/rolespec) - A test library for testing Ansible roles
 * [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-manage-multistage-environments-with-ansible) - How to Manage Multistage Environments with Ansible
 * [Stack Overflow](https://stackoverflow.com/questions/32526774/multistage-deployment-with-ansible) - Multistage deployment with ansible
 * [Osvaldo Toja](http://toja.io/using-host-and-group-vars-files-in-ansible/) - Organizing Group Vars Files in Ansible
@@ -301,7 +301,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Corban Raun](https://blog.serverdensity.com/what-ive-learnt-from-using-ansible-exclusively-for-2-years/) - Lessons from using Ansible exclusively for 2 years.
 * [Ansible on Slack](http://www.ansiblenetwork.org/) - The Ansible Network
 * [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
-* [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
+* [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - Using Ansible with Docker Machine to Bootstrap Host Nodes
 * [Maxim Chernyak](http://hakunin.com/six-ansible-practices#avoid-perpetually-changed-and-skipping-tasks) - Avoid perpetually “changed” and “skipping” tasks 
 * [**Andreas Sommer**](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Ansible best practices
@@ -310,7 +310,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ansible Docs](http://ansible-docs.readthedocs.io/zh/stable-2.0/rst/YAMLSyntax.html) - YAML Syntax
 * [Ansible](https://github.com/ansible/ansible-examples) - [ansible-examples] This repository contains examples and best practices for building Ansible Playbooks.
 * [Fred Alger / Mark Theunissen](https://gist.github.com/marktheunissen/2979474) - Insanely complete Ansible playbook, showing off all the options
-* [indusbox](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
+* [indusbox/goss-ansible](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2017/07/31/ansible-how-to-skip-a-specific-host-or-group-in-a-playbook/) - Ansible: how to skip a specific host or group in a playbook
 * [Ansible Docs](http://docs.ansible.com/ansible/latest/list_of_all_modules.html) - All ansible modules
@@ -318,7 +318,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
 
 ### Ansible Vault
-* [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Vault
+* [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_vault.html#what-can-be-encrypted-with-vault) - Ansible Vault Documentation
 * [Michael DeHaan](https://www.ansible.com/blog/2014/02/19/ansible-vault) - Introducing Ansible Vault : keeping encrypted data in Playbooks
 * [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - [FR] Ansible Vault : Automatiser le chiffrement avec Git
@@ -371,18 +371,18 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Docker Forums](https://forums.docker.com/t/command-to-remove-all-unused-images/20/5) - Command to remove all unused images
 * [Stack Overflow](https://stackoverflow.com/questions/30604846/docker-error-no-space-left-on-device) - Docker error : no space left on device
 * [James Coyle](https://www.jamescoyle.net/how-to/1512-export-and-import-a-docker-image-between-nodes) - Export and Import a Docker Image Between Nodes
-* [Matt Smith](https://github.com/rhmjs/satellite5-docker) - RHEL6 containers on a RHEL7 host registered to Satellite 5
+* [rhmjs/satellite5-docker](https://github.com/rhmjs/satellite5-docker) - RHEL6 containers on a RHEL7 host registered to Satellite 5
 * [Red Hat Customer Portal](https://access.redhat.com/containers/#/explore) - Red Hat Container Catalog
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-US/Red_Hat_Satellite/6.1/html/User_Guide/chap-Red_Hat_Satellite-User_Guide-Working_with_Containers.html#proc-Red_Hat_Satellite-User_Guide-Creating_Containers-To_Create_a_Container) - working with containers in Red Hat Satellite
 * [Pradipta Kumar Banerjee](http://cloudgeekz.com/625/howto-create-a-docker-image-for-rhel.html) - Howto create a Docker Image for RHEL
 * [Derek Chamorro](https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/) - Common Dockerfile Mistakes
 * [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
-* [Jason Wilder](https://github.com/jwilder/docker-squash) - docker-squash : Squash docker images to make them smaller
+* [jwilder/docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller
 * [Jason Wilder](http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/) - Squashing Docker Images
-* [Jason Wilder](https://github.com/jwilder/dockerize) - dockerize : Utility to simplify running applications in docker containers
+* [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-07-03-Docker-Taming-the-Beast-Part-2.html) - Docker: Taming the Beast - Part II
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-10-12-Docker-Taming-the-Beast-Part-3.html) - Docker: Taming the Beast - Part III: Building Images
-* [Ansible Container](https://github.com/ansible/ansible-container) -  a tool to build Docker images and orchestrate containers using only Ansible playbooks
+* [Ansible Container](https://github.com/ansible/ansible-container) - a tool to build Docker images and orchestrate containers using only Ansible playbooks
 * [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
 * [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image 
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2017/05/13/docker-for-windows-different-modes/) - Compare Docker for Windows options
@@ -405,7 +405,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] Master's thesis: Container-based Continuous Delivery for Clusters, interesting for some parts
 * [Faheetah](https://gist.github.com/Faheetah/a2a401a01d2d56fa7d1a9d7ab0d2831b) - Docker patterns/anti-patterns : Generic Dockerfile demonstrating good practices
 * [Scott Coulton](https://speakerdeck.com/scottyc/if-its-in-a-container-its-secure-right-1) - If it’s in a container it’s secure right ?
-* [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
+* [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - Debugging - into rabbit hole with docker containers
 * [Sreenivas Makam](https://www.slideshare.net/SreenivasMakam/docker-networking-common-issues-and-troubleshooting-techniques) - Docker Networking - Common Issues and Troubleshooting Techniques
 * [Nathan Leclaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - Using Ansible with Docker Machine to Bootstrap Host Nodes
@@ -418,13 +418,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
-* [Ahmed Elsabbahy](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
+* [aelsabbahy/dgoss-examples](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
 * [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 * [Nathan Osman](https://blog.quickmediasolutions.com/2017/09/28/a-1-kb-docker-container.html) - A 1 KB Docker Container
 * [Julia Evans](https://jvns.ca/blog/2016/10/26/running-container-without-docker/) - Running containers without Docker
 * [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-* [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet on GitHub
+* [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet on GitHub
 * [Aboullaite Mohammed](https://aboullaite.me/docker-hacks/) - 15 Docker Hacks & Tips!
 
 ## ChatOps
@@ -432,10 +432,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Richard Jones](https://www.metabrew.com/article/how-we-use-irc-at-lastfm) - (2009) How we use IRC at Last.fm
 * [Vinay Nadig](https://www.icicletech.com/blog/automate-your-development-activities-with-hubot) - Automate Your Development Activities with Hubot
 * [Pete Nicholls](http://hubot-script-catalog.herokuapp.com/) - Hubot Script Catalog. [Repository](https://github.com/Aupajo/hubot-script-catalog)
-* [GitHub](https://github.com/github/hubot) - Hubot on GitHub
+* [Hubot](https://github.com/github/hubot) - Hubot repository on GitHub
 * [Hubot Docs](https://hubot.github.com/docs/) - Getting started with Hubot. See also : [Adapters for Hubot](https://hubot.github.com/docs/adapters/), [Scripting Doc](https://hubot.github.com/docs/scripting/), [Deploying on Unix](https://hubot.github.com/docs/deploying/unix/)
 * [Hubot Scripts](https://github.com/hubot-scripts) - Hubot Scripts on GitHub. Other related repo on GitHub by tag : [hubot-scripts](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot-scripts+&type=Repositories), [hubot](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot+&type=Repositories), [hubot-adapter](https://github.com/search?q=topic%3Ahubot-adapter&type=Repositories)
-* [Rocket.Chat](https://rocket.chat/) - your self hosted cross-platform open source chat solution as an alternative to slack. Related : [GitHub repo](https://github.com/RocketChat/Rocket.Chat), [Integrate with Rocket.Chat !](https://github.com/RocketChat/Rocket.Chat.Ops)
+* [Rocket.Chat](https://rocket.chat/) - your self hosted cross-platform open source chat solution as an alternative to slack. Related : [RocketChat GitHub repo](https://github.com/RocketChat/Rocket.Chat), [Integrate with Rocket.Chat !](https://github.com/RocketChat/Rocket.Chat.Ops)
 * [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat) - Rocket.Chat Hubot adapter
 * [Botmakers](https://botmakers.org/) - Slack Community of bot fans who make and share online bots for Twitter, Slack, etc.
 * [ChatBots & AI group](https://chatbotsgroup.engazify.com/) - Slack community of bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
@@ -445,8 +445,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Atlassian](http://botlab.hipch.at/) - HipChat Bot Lab : ready to use bots
 * [Dan Riti](https://gist.github.com/danriti/7345074) - example of how sending messages to a HipChat room using curl and API v2
 * [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
-* [Bill Cawthra](https://github.com/bonovoxly/ansible_snippets/blob/master/snippets.yml) - ansible snippet to notify hipchat room from ansible
-* [HipChat](https://github.com/hipchat/hubot-hipchat) - HipChat adapter for Hubot
+* [bonovoxly/ansible_snippets](https://github.com/bonovoxly/ansible_snippets/blob/master/snippets.yml) - ansible snippet to notify hipchat room from ansible
+* [hipchat/hubot-hipchat](https://github.com/hipchat/hubot-hipchat) - HipChat adapter for Hubot
 * [Jabber plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Jabber+Plugin)
 * [Cisco Spark](https://depot.ciscospark.com/integrations/categories/developer-tools) - Cisco Spark integrations with developer tools
 * [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - Chatops Pitfalls and Tips
@@ -481,14 +481,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins Docs](https://jenkins.ci.cloudbees.com/job/core/job/acceptance-test-harness-stable/changes) - Latest builds of Jenkins acceptance-test-harness-stable. See also [The new Jenkins CI page](https://ci.jenkins.io/)
 * [Vyacheslav Voronenko](https://www.codementor.io/slavko/setup-configure-jenkins-recommended-plugins-du107z6nr) - Setup & Configure Jenkins for Your Team
 * [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code 
-* [Afonso F](https://github.com/afonsof/jenkins-material-theme) - Material Design UI for Jenkins
+* [afonsof/jenkins-material-theme](https://github.com/afonsof/jenkins-material-theme) - Material Design UI for Jenkins
 * [Damien Coraboeuf](https://jenkins.io/blog/2016/06/15/jenkins-pipeline-scalability/) - Jenkins Pipeline Scalability in the Enterprise
 * [Jenkins CI](https://github.com/jenkinsci/pipeline-model-definition-plugin/tree/master/pipeline-model-definition/src/test/resources) - Examples of Pipeline scripts (Tests source code), useful for exploring the possible for Jenkinsfile
-* [Funkwerk AG](https://github.com/funkwerk/jenkins-workflow/tree/master/vars) - jenkins-workflow : repository with examples of jenkins workflow scripts
+* [funkwerk/jenkins-workflow](https://github.com/funkwerk/jenkins-workflow/tree/master/vars) - repository with examples of jenkins workflow scripts
 * [Andrew Bayer](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - Seven Habits of Highly Effective Jenkins Users (2014 edition!
 * [CloudBees](https://www.cloudbees.com/sites/default/files/declarative-pipeline-refcard.pdf) - [PDF] Declarative Pipeline Quick Reference
 * [Jenkins Doc](https://github.com/jenkinsci/pipeline-model-definition-plugin/wiki/Syntax-Reference) - full syntax for Jenkins Declarative Pipeline
-* [Jenkins CI](https://github.com/jenkinsci/job-dsl-plugin/blob/master/job-dsl-core/src/main/groovy/javaposse/jobdsl/dsl/helpers/step/MSBuildContext.groovy) - source code of msbuild step
+* [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin/blob/master/job-dsl-core/src/main/groovy/javaposse/jobdsl/dsl/helpers/step/MSBuildContext.groovy) - source code of msbuild step
 * [Stack Overflow](https://stackoverflow.com/questions/37657810/job-dsl-plugin-vs-pipeline-plugin) - Job DSL vs Pipeline Plugin
 * [Liam Newman](https://www.cloudbees.com/blog/sending-notifications-pipeline) - Sending Notifications in Pipeline, contains examples for Slack, Email, HipChat
 * [Andrew Bayer](https://gist.github.com/abayer) - examples of complex/advanced pipeline scripts 
@@ -496,36 +496,36 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jason Davis](http://engineering.simondata.com/can-we-use-jenkins-for-that) - Can We Use Jenkins for That?
 * [Keyan Pishdadian](http://engineering.teacherspayteachers.com/2017/05/16/unifying-deployments-for-microservices-via-jenkins.html) - Unifying Deployments for Microservices with Jenkinsfile Pipelines
 * [/r/devops](https://www.reddit.com/r/devops/comments/5mbb5g/jenkinsfiles/) - Interesting discussion about difficulties to work with Jenkinsfiles on /r/devops
-* [JFrog](https://github.com/JFrogDev/project-examples/tree/master/jenkins-pipeline-examples) - Jenkins pipeline example scripts
+* [JFrogDev/jenkins-pipeline-examples](https://github.com/JFrogDev/project-examples/tree/master/jenkins-pipeline-examples) - Jenkins pipeline example scripts
 * [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile syntax
 * [Isaac Cohen](https://www.cloudbees.com/blog/ensuring-corporate-standards-pipelines-custom-marker-files) - Ensuring Corporate Standards in Pipelines with Custom Marker Files
-* [Jenkins CI](https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md) - [jenkinsci/pipeline-plugin] Plugin Compatibility with Pipeline
+* [jenkinsci/pipeline-plugin](https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md) - [jenkinsci/pipeline-plugin] Plugin Compatibility with Pipeline
 * [CloudBees](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_at_splunk.pdf) - Jenkins at Splunk and Splunking Jenkins +[Video on YouTube](https://www.youtube.com/watch?v=dlsEprySOrg)
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Splunk+Plugin+for+Pipeline+Job+Support) - Splunk Plugin for Pipeline Job Support
 * [David Hoover](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_inside_google.pdf) - Jenkins inside Google +[YoutuBe Link](https://www.youtube.com/watch?v=7ERV9C20GSE&feature=youtu.be)
 * [Garry Newman](https://garry.tv/2017/05/06/jenkinsfile/) - Garry explains how to write Jenkinsfiles
 * [Garry Newman](https://garry.tv/2017/05/14/jenkins-library/) - Garry explains how he's using Global Jenkins library
 * [Andrew Bayer](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-introducing_a_new_way_to_define_jenkins_pipelines_1.pdf) - [PDF] Introducing a New Way to Define Jenkins Pipelines
-* [Jenkins CI](https://github.com/jenkinsci/jenkins-scripts/tree/master/scriptler) - [jenkinsci/jenkins-scripts] collection of utility scripts for use with Jenkins
-* [Jenkins CI](https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md) - collection of tips, advice, gotchas and other best practices for using Jenkins Pipeline
-* [fabric8](https://github.com/fabric8io/fabric8-jenkinsfile-library) - library of reusable Jenkinsfile, which make use of Fabric8 Pipeline library
-* [fabric8](https://github.com/fabric8io/fabric8-pipeline-library) - Source code of Fabric8 Pipeline library for Jenkins
-* [Terradatum](https://github.com/terradatum/jenkins-pipeline-library/tree/master/vars) - source code of Terradatum Pipeline library for Jenkins
-* [Pedro Amador Rodríguez](https://github.com/pedroamador/jenkins-pipeline-library) - another Jenkins Pipeline Library
+* [jenkinsci/jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts/tree/master/scriptler) - [jenkinsci/jenkins-scripts] collection of utility scripts for use with Jenkins
+* [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md) - collection of tips, advice, gotchas and other best practices for using Jenkins Pipeline
+* [fabric8io/fabric8-jenkinsfile-library](https://github.com/fabric8io/fabric8-jenkinsfile-library) - library of reusable Jenkinsfile, which make use of Fabric8 Pipeline library
+* [fabric8io/fabric8-pipeline-library](https://github.com/fabric8io/fabric8-pipeline-library) - Source code of Fabric8 Pipeline library for Jenkins
+* [terradatum/jenkins-pipeline-library](https://github.com/terradatum/jenkins-pipeline-library/tree/master/vars) - source code of Terradatum Pipeline library for Jenkins
+* [pedroamador/jenkins-pipeline-library](https://github.com/pedroamador/jenkins-pipeline-library) - another Jenkins Pipeline Library
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/) - Extending with Shared Libraries 
 * [James Linder](https://medium.com/garbage-collection/jenkins-pipelines-what-i-wish-i-knew-starting-out-6e3d4eb2ff5b) - Jenkins Pipelines: What I Wish I Knew Starting Out
 * [Liam Newman](https://jenkins.io/blog/2017/02/15/declarative-notifications/) - Declarative Pipeline: Notifications and Shared Libraries 
-* [OpenStack](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
+* [openstack/python-jenkins](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
 * [OpenStack](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
-* [jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
+* [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
 * [Developer code search](http://codegists.com/search?q=jenkinsfile) - Examples of Jenkinsfile (returned by a search engine)
 * [Christian Galsterer](https://christiangalsterer.wordpress.com/2015/04/23/continuous-integration-for-pull-requests-with-jenkins-and-stash/) - Continuous Integration for Pull Requests with Jenkins and Bitbucket Server (Stash)
 * [Mark Waite](https://jenkins.io/blog/2017/08/07/intro-to-plugin-development/) - Plugin Development Tutorials, Videos, and More 
 * [David Hoover](https://www.youtube.com/watch?v=7ERV9C20GSE) - [Video] Jenkins World 2016 - Jenkins Inside Google
-* [Randall Wood](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
+* [rhwood/jenkins-slave-osx](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
 * [Alvin Huang](https://jenkins.io/blog/2017/07/27/standardizing-builds-with-shared-libraries/) - Codifying the Build and Release Process with a Pipeline Shared Library 
 * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
-* [Ahmed Elsabbahy](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples, including examples for jenkins
+* [aelsabbahy/dgoss-examples](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples, including examples for jenkins
 * [Hannah Inman](https://jenkins.io/blog/2017/06/27/speaker-blog-SAS-jenkins-world) - Extending your Pipeline with Shared Libraries, Global Functions and External Code. **Bonus** : [Slides from Brent Laster](https://www.slideshare.net/BrentLaster/2017-jenkins-world)
 * [Oleg Nenashev](https://speakerdeck.com/onenashev/oslo-jenkins-meetup-managing-security-in-jenkins-cheat-sheet) - Managing Security in Jenkins. Cheat Sheet
 
@@ -534,13 +534,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
 * [Stackpoint.io on Slack](http://slack.stackpoint.io/) - Web-based interface for deployment of Kubernetes cluster
 * [Fabric8 on Slack](https://slack.fabric8.io/) - Open source integrated development platform for Kubernetes
-* [Ramit Surana](https://github.com/ramitsurana/awesome-kubernetes) - Awesome Kubernetes resources
+* [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Awesome Kubernetes resources
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
-* [awesome-microservices](https://github.com/mfornos/awesome-microservices) - curated list of Microservice Architecture related principles and technologies.
+* [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - curated list of Microservice Architecture related principles and technologies.
 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
@@ -569,18 +569,18 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenShift Docs](https://docs.openshift.com/container-platform/3.4/install_config/persistent_storage/persistent_storage_glusterfs.html) - Persistent Storage Using GlusterFS
 * [OpenShift Docs](https://access.redhat.com/solutions/1542293) - Troubleshooting OpenShift Container Platform: Basics
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/openshift_enterprise/3.1/html/cluster_administration/admin-guide-sdn-troubleshooting) - Troubleshooting OpenShift SDN
-* [openshift/origin](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
+* [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
 * [OpenShift Docs](https://docs.openshift.com/enterprise/3.0/dev_guide/new_app.html) - Creating New Applications
 * [OpenShift](https://www.openshift.com/container-platform/resources.html) - Learning Resources (webinars, datasheets, whitepapers, infographic, tools, videos...)
 * [OpenShift](https://blog.openshift.com/openshift-v3-deep-dive-docker-kubernetes/) - OpenShift V3 Deep Dive Tutorial | The Next Generation of PaaS
 * [OCTO Talks](http://blog.octo.com/openshift-3-le-paas-prive-avec-docker/) - [FR] OpenShift 3 : le PaaS privé avec Docker
 * [Ansible Docs](https://docs.ansible.com/ansible-container/openshift/minishift.html) - Minishift role for Ansible
 * [Michael Hausenblas](http://kubernetesbyexample.com/) - Kubernetes By Example
-* [Michael Hausenblas](https://github.com/mhausenblas/openshift-cheat-sheet) - Cheat sheet for OpenShift
+* [mhausenblas/openshift-cheat-sheet](https://github.com/mhausenblas/openshift-cheat-sheet) - Cheat sheet for OpenShift
 * [Michael Hausenblas](https://blog.openshift.com/kubernetes-application-coupling/) - Kubernetes: Application Coupling
 * [Laurent Broudoux](https://blog.openshift.com/multiple-deployment-methods-openshift/) - Multiple Deployment Methods for OpenShift
 * [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
-* [Openshift Switzerland Community](https://github.com/oscp/awesome-openshift3) - Awesome Openshift 3 resources
+* [oscp/awesome-openshift3](https://github.com/oscp/awesome-openshift3) - Awesome Openshift 3 resources
 * [OpenShift Interactive Learning Portal](https://learn.openshift.com/) - Interactive learning scenarios. Can be used for experimentation
 * [OpenShift](https://commons.openshift.org/videos.html) - [Videos] Watch videos from OpenShift Commons Gathering events
 * [RedHat Summit](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack... 
@@ -601,11 +601,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Vagrant
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
 * [Ross Tuck](http://rosstuck.com/slightly-faster-ansible-testing-with-vagrant/) - (Slightly) Faster Ansible Testing with Vagrant
-* [mitchellh](https://github.com/mitchellh/vagrant/issues/1755) - Re-associate vagrant with vm
+* [mitchellh/vagrant](https://github.com/mitchellh/vagrant/issues/1755) - Re-associate vagrant with vm
 * [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Connect-to-Your-Vagrant-Virtual-Machine-with-PuTTY) - Connect to Your Vagrant Virtual Machine with PuTTY
 * [Hashicorp](https://atlas.hashicorp.com/puppetlabs) - Official Puppet Vagrant boxes
 * [Willem Meints](http://fizzylogic.nl/2015/01/27/building-containerized-apps-with-vagrant/) - Building Containerized Apps With Vagrant
-* [Viktor Farcic](https://github.com/vfarcic/ms-lifecycle) - ms-lifecycle is an interesting project used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
+* [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Scott Keck-Warren](http://www.thisprogrammingthing.com/2015/multiple-vagrant-vms-in-one-vagrantfile/) - Multiple Vagrant VMs in One Vagrantfile
 * [Sebastian Krysmanski](https://manski.net/2016/09/vagrant-multi-machine-tutorial/) - Vagrant Tutorial – From Nothing To Multi-Machine
 * [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
@@ -619,7 +619,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Katacoda](https://www.katacoda.com/courses/docker-production/vault-secrets) - Interactive Course : Docker in Production - Store Secrets using Hashicorp Vault
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
 * [Vyacheslav Voronenko](https://www.codementor.io/slavko/how-to-install-vault-hashicorp-secure-deployment-secrets-du107xlqd) - Using Vault to Secure Your Deployment Secrets
-* [brianshumate](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Hashicorp Vault
+* [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Hashicorp Vault
 * [Vault Docs](https://www.vaultproject.io/docs/auth/userpass.html) - Auth Backend: Username & Password
 * [Hashicorp](https://www.hashicorp.com/blog/vault-0-6/) - Vault 0.6 Release announcement 
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2016/10/01/vault-use-cases/) - Vault – Use cases
@@ -645,9 +645,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Addic7ed.com](http://www.addic7ed.com/) - free subtitles for tv show and movies
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
-* [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists 
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
-* [Alexander Bayandin](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. **Bonus** : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
 * [ThePirateBay Proxy List](https://thepiratebay-proxylist.org/)
 * [NextWarez](http://nextwarez.com/torrent/actu-torrent/) - [FR] news and ranking about download sites and downloaded contents
@@ -692,7 +692,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - [TOR] a list of websites that have free ebooks.
 * [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
 * [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
-* [awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
+* [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -784,7 +784,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Simple Programmer](https://simpleprogrammer.com/2016/01/06/stop-improving-yourself/) - Stop Improving Yourself
 * [Adam Smiley Poswolsky](https://www.linkedin.com/pulse/10-truths-finding-meaningful-work-adam-smiley-poswolsky) - The 10 truths about finding meaningful work
 * [Tom Goodwin](https://www.linkedin.com/pulse/we-dont-need-teach-our-kids-code-them-how-dream-tom-goodwin) - We don’t need to teach our kids to code, we need to teach them how to dream
-* [govdesign](https://github.com/alphagov/govdesign/blob/master/Poster_its-ok-to.pdf) - [PDF] It's ok to ... (poster)
+* [alphagov/govdesign](https://github.com/alphagov/govdesign/blob/master/Poster_its-ok-to.pdf) - [PDF] It's ok to ... (poster)
 * [Kristin Wong](http://lifehacker.com/the-biggest-wastes-of-time-we-regret-when-we-get-older-1755526646) - The Biggest Wastes of Time We Regret When We Get Older
 * [Dr. Travis Bradberry](https://www.linkedin.com/pulse/why-you-should-spend-your-money-experiences-things-bradberry) - Why You Should Spend Your Money on Experiences, Not Things
 * [Bob Sutton](https://www.linkedin.com/pulse/why-your-job-becoming-impossible-do-tragedy-overload-bob-sutton) - Why Your Job is Becoming Impossible to Do: The Tragedy of Well-Intentioned Organizational Overload
@@ -816,7 +816,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Hobbies
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers 
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers
-* [Harkirat Singh](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
+* [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
@@ -897,7 +897,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 * [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
 * [Netflix](https://medium.com/netflix-techblog/netflix-at-velocity-2015-linux-performance-tools-51964ddb81cf) - Netflix at Velocity 2015: Linux Performance Tools (+[Slides](https://www.slideshare.net/brendangregg/velocity-2015-linux-perf-tools))
-* [Aleksandar Todorović](https://github.com/aleksandar-todorovic/awesome-linux) - list of awesome resources that make Linux awesome
+* [aleksandar-todorovic/awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) - list of awesome resources that make Linux awesome
 * [Geek Flare](https://geekflare.com/category/web-infrastructure/unix/) - general Unix articles, tips, tools for managing web infrastructure
 * [LZone](https://lzone.de/cheat-sheet/Linux-Commands) - Linux commands cheatsheet
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
@@ -933,15 +933,15 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Red Hat Customer Portal](https://access.redhat.com/articles/2772861) - Differences between RHEL Server and RHEL Atomic Host
 * [Vivek Gite](https://www.cyberciti.biz/faq/centos-redhat-fedora-yum-lock-package-version-command/) - CentOS / RHEL: Yum Lock Package Version At a Particular Version
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 20 Linux Server Hardening Security Tips
-* [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software/) - curated list of awesome applications, softwares, tools and other materials for Linux distros.
+* [LewisVo/Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software/) - curated list of awesome applications, softwares, tools and other materials for Linux distros.
 * [Brendan D. Gregg](http://www.brendangregg.com/Perf/linux_observability_tools.png) - [IMG] Linux performance observability tools
 * [Curl Docs](https://curl.haxx.se/docs/comparison-table.html) - Compare curl Features with Other Download Tools
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [Sandeep Singh](https://linoxide.com/linux-how-to/lvm-configuration-linux/) - How to Configure LVM in Linux (pvcreate, lvcreate, vgcreate)
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [Freeduc-Sup](http://www.linux-france.org/prj/edu/archinet/systeme/ch13s04.html) - [FR] Comprendre la redirection de port (Port Forwarding)
-* [Kyle Johnson](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md) - Examples of possible questions during linux syadmin / devops interviews.
-* [Christian Assing](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
+* [kylejohnson/linux-sysadmin-interview-questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md) - Examples of possible questions during linux syadmin / devops interviews.
+* [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
 * [Tom Limoncelli](https://everythingsysadmin.com/2012/09/unorthodoxunix.html) - 4 unix commands I abuse every day
 * [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
@@ -991,7 +991,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
 * [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
-* [jamb0ss](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
+* [jamb0ss/awesome-ambient-noises](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 * [MorganGeek](https://gist.github.com/MorganGeek/66c9c8524e446550757d92c527c28c93) - work / programming playlists selection
 * [Tellement Nomade](http://www.tellementnomade.org/forum/) - [FR] forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
@@ -1028,7 +1028,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sylvain Kalache](https://www.linux.com/blog/first-5-commands-when-i-connect-linux-server) - First 5 Commands When I Connect on a Linux Server
 * [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
 * [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
-* [alicegoldfuss](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
+* [alicegoldfuss/oncall-handbook](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
 * [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - Lies My Parents Told Me (About Logs)
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/05/prevent-command-with-a-specific-option-to-be-run-on-your-server/) - Prevent command with a specific option to be run on your server
 * [Marvin Pinto](https://disjoint.ca/writing/2015/11/26/a-framework-for-deployment-of-immutable-infrastructure/) - A Framework for Deployment of Immutable Infrastructure
@@ -1050,7 +1050,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rundeck](http://rundeck.org/) - Turn your operations procedures into self-service jobs.
 * [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
-* [Ahmed Elsabbahy](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
+* [aelsabbahy/goss](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
 * [CollectNode](https://collectnode.com/) - CollectNode makes easier the IT admin life
@@ -1146,7 +1146,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
 * [**/r/selfhosted/**](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
-* [**awesome-selfhosted**](https://github.com/Kickball/awesome-selfhosted) - list of Free Software network services and web applications which can be hosted locally
+* [**Kickball/awesome-selfhosted**](https://github.com/Kickball/awesome-selfhosted) - list of Free Software network services and web applications which can be hosted locally
 * [Selfhosted on Slack](https://selfhosted.herokuapp.com/) - community for everything about self-hosted web apps and related technologies
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
@@ -1180,7 +1180,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dr. Travis Bradberry](http://www.huffingtonpost.com/dr-travis-bradberry/11-tweaks-to-your-morning_b_8965072.html) - 11 Tweaks to Your Morning Routine 
 * [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - Splitting user stories -- the hamburger method
 * [Jeff Haden](https://www.linkedin.com/pulse/10-steps-make-each-day-incredibly-productive-jeff-haden) - 10 Steps to Make Each Day Exceptionally Productive
-* [govdesign](https://github.com/alphagov/govdesign) - Lot of useful posters to print 
+* [alphagov/govdesign](https://github.com/alphagov/govdesign) - Lot of useful posters to print 
 * [Edouard-Malo HENRY](https://www.linkedin.com/pulse/moving-from-how-why-company-edouard-malo-henry) - Moving from a "how" to a "why" company
 * [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
 * [Wall-Skills](http://wall-skills.com/) - Great 1-pagers to share in your company
@@ -1188,14 +1188,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
 * [SlideShare](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement related presentations
 * [pluralsight](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
-* [Jean-Yves Guyomarc'h](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
+* [Jean-Yves Guyomarc'h/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 * [MindTools](https://www.mindtools.com/pages/article/newHTE_96.htm) - tips for Overcoming Procrastination
 * [Google](http://www.powersearchingwithgoogle.com/) - Power searching with google
 * [How To Do Things](http://www.howtodothings.com/) - How to do things / Various how-to guides and tips for noobs
 * [wikiHow](http://www.wikihow.com/Main-Page) - How to do anything. However, if you take a look at sections such as [Family Life](http://www.wikihow.com/Category:Family-Life) it can be creepy.... (I mean, do we need a site to learn what is family about  ?)
 * [HowStuffWorks](http://www.howstuffworks.com/) - easy-to-understand answers and explanations of how the world actually works
 * [Instructables](http://www.instructables.com/) - How to make anything
-* [Vikas Kumar Yadav](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
+* [Vikas Kumar Yadav/awesome-list-of-productive-websites](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
 * [Johnny Webber](http://unplugthetv.com/) - Unplug the tv : What should you watch if not the television ?
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
 * [Hackaday](http://hackaday.com/) - fresh hacks every day 
@@ -1223,12 +1223,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - 7 Shortcuts You Will Regret Taking in Life
 > Tools
-* [Chris Barber](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+* [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [BugMeNot](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
-* [Sindre Sorhus](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
-* [Alexander Bayandin](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
-* [Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown Cheatsheet
+* [Sindre Sorhus/awesome](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
+* [Alexander Bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+* [Adam Pritchard/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown Cheatsheet
 * [CommonMark](http://commonmark.org/help/) - syntax reference for CommonMark, a rationalized version of Markdown syntax
 * [CommonMark](http://spec.commonmark.org/dingus/) - Try CommonMark / CommonMark Demo
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
@@ -1250,9 +1250,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
 * [Linguee](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web 
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
-* [zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution 
+* [dswd/zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution 
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
-* [awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
+* [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -1288,9 +1288,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ThoughtWorks](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [StackShare](https://stackshare.io/trending/tools) - trending tools, find which tools other companies are using
 * [StackShare](https://stackshare.io/trending/stacks) - trending technology stacks, find which stacks others companies are using
-* [GitHub](https://github.com/explore) - Project showcases, discover interesting repositories 
-* [GitHub](https://github.com/trending) - Explore trending projects in GitHub community
-* [GitHub](https://github.com/showcases) - Open source showcases, explore popular repositories
+* [GitHub Explore](https://github.com/explore) - Project showcases, discover interesting repositories 
+* [GitHub Trending](https://github.com/trending) - Explore trending projects in GitHub community
+* [GitHub Showcases](https://github.com/showcases) - Open source showcases, explore popular repositories
 * [Hugo Matilla](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
 * [Methods & Tools](http://www.methodsandtools.com/mt/download.php) - magazine about software development & testing with free content. See also [Partner websites](http://www.methodsandtools.com/network.php)
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
@@ -1300,7 +1300,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - programming challenges on reddit
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * [Philip Stark](https://gist.github.com/hellerbarde/2843375) - Latency numbers every programmer should know
-* [**Sonkeng Maldini**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
+* [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
 * [Vinh Quốc Nguyễn](https://betterdev.link/) - Better Dev Link collects links around the web that aims to help you learn something new
 * [Andrew Wulf](http://thecodist.com/article/the-biggest-difference-between-coding-today-and-when-i-started-in-the-80-s) - The Biggest Difference Between Coding Today and When I Started in the 80’s
 * [Andrew Wulf](http://thecodist.com/article/what_makes_a_programmer_good) - What Makes a Programmer Good?
@@ -1324,12 +1324,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
 * [Geshan Manandhar](https://geshan.com.np/blog/2017/06/software-companies-tech-competency-matrix/) - Software Companies Tech Competency Matrix / useful skill matrix for devops, security, database...
 * [Redbubble](https://www.redbubble.com/fr/shop/sysadmin+stickers) - Sysadmin stickers
-* [awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
+* [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
 * [Gregg Caines](http://caines.ca/blog/2013/09/13/you-probably-dont-need-to-version-your-web-api/) - You Probably Don’t Need to Version Your Web API.
-* [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
+* [Shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 
 ## Clean code
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
@@ -1339,34 +1339,34 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vaidehi Joshi](https://dev.to/vaidehijoshi/crafting-better-code-reviews) - Crafting Better Code Reviews
 * [Gregg Caines](http://caines.ca/blog/2009/12/13/code-slower/) - Code Slower
 * [Gregg Caines](http://caines.ca/blog/2010/12/05/quality-is-the-constraint/) - Quality Is the Constraint
-* [Hugo Matilla](https://github.com/HugoMatilla/Refactoring-Summary) - Summary of "Refactoring: Improving the Design of Existing Code" by Martin Fowler
+* [Hugo Matilla/Refactoring-Summary](https://github.com/HugoMatilla/Refactoring-Summary) - Summary of "Refactoring: Improving the Design of Existing Code" by Martin Fowler
 * [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29) - Summary of 'Clean code' by Robert C. Martin
-* [Deniz Ozger](https://github.com/denizozger/clean-code) - Notes of clean coding practices, mostly based on book Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-* [Jose Angel Barroso](https://github.com/jbarroso/clean-code) - Notes on the book Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code) - Notes of clean coding practices, mostly based on book Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code) - Notes on the book Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
 * [Christopher Diggins](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) - The Principles of Good Programming
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
-* [Andrew Yurisich](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code
-* [Salvatore Gentile](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
+* [Andrew Yurisich/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code
+* [Salvatore Gentile/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
 * [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) 
-* [linters](https://github.com/mcandre/linters) - list of linters and introduction to static code analysis
-* [Awesome Static analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
-* [Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
+* [mcandre/linters](https://github.com/mcandre/linters) - list of linters and introduction to static code analysis
+* [mre/Awesome Static analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
+* [mre/Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
 * [Lucas Medeiros Reis](https://dev.to/iamlucasmreis/the-single-most-important-driver-of-software-quality) - The Single Most Important Driver Of Software Quality
-* [GitHub](https://github.com/showcases/clean-code-linters) - Clean code linters
-* [Ansible Best Practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
-* [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+* [clean-code-linters](https://github.com/showcases/clean-code-linters) - Clean code linters on GitHub
+* [enginyoyen/Ansible Best Practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
+* [Kristories/Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 * [Tom Preston-Werner](http://semver.org/) - Semantic Versioning 2.0.0
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
-* [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
 * [EditorConfig](http://editorconfig.org/) - EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
-* [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md) - curated list of awesome MySQL software, libraries and resources
+* [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md) - curated list of awesome MySQL software, libraries and resources
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -1384,7 +1384,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 > Tools
 * [libGDX](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
 * [Indie DB](http://www.indiedb.com/engines/libgdx/games) - games made with libGDX
-* [Pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
+* [faiface/Pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
 * [Angel 2D](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 * [Plastic SCM](https://www.plasticscm.com/) - Distributed Version Control for big projects. Discovered via [Garry' blog](https://garry.tv/2017/04/29/jenkins/)
@@ -1411,15 +1411,15 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nicola Paolucci](http://durdn.com/blog/2012/12/05/git-12-curated-git-tips-and-workflows/) - Git: Twelve Curated Tips And Workflows From The Trenches
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
 * [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
-* [Harry Roberts](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
-* [Ben Hilburn](https://github.com/bhilburn/dotfiles) - shared configs / dotfiles / rcfiles / etc.
+* [Harry Roberts/dotfiles](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
+* [Ben Hilburn/dotfiles](https://github.com/bhilburn/dotfiles) - shared configs / dotfiles / rcfiles / etc.
 * [Amber Yust](https://codingkilledthecat-wordpress-com.cdn.ampproject.org/c/s/codingkilledthecat.wordpress.com/2012/08/08/git-dotfiles-and-hardlinks/amp/) - Concerns about Git, Dotfiles, and Hardlinks
 * [Michael White](https://gist.github.com/mwhite/6887990) - The Ultimate Git Alias Setup
 * [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Aliases) - Collection of git aliases
 * [Nicola Paolucci](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/) - The power of Git subtree
 * [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 * [Nicola Paolucci](http://durdn.com/blog/2009/08/16/i-love-staring-at-branches-and-shuffle-reorder-and-squash-commits/) - I love staring at branches and shuffle, reorder and squash commits
-* [Robby Russell](https://github.com/robbyrussell/oh-my-zsh/blob/456341fd69c3e514e401f1c3c1726b77d733c86b/plugins/git/git.plugin.zsh) - git aliases from oh-my-zsh
+* [Robby Russell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/456341fd69c3e514e401f1c3c1726b77d733c86b/plugins/git/git.plugin.zsh) - git aliases from oh-my-zsh
 * [Kernel Docs](https://www.kernel.org/pub/software/scm/git/docs/git-push.html) - git-push
 * [Git-SCM Docs](https://git-scm.com/docs/git-diff) - git-diff
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/git-submodules-workflows-tips#tip5) - Git submodules: core concept, workflows, and tips
@@ -1459,9 +1459,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Justin Hileman](http://justinhileman.info/article/git-pretty/git-pretty.png) - [Chart] git-pretty : Escape a Git mess, step by step
 * [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
 * [Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - Little Things I Like to Do with Git
-* [Donne Martin](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
-* [Alain Gilbert](https://github.com/alaingilbert/git2graph) - git2graph : Generate a git graph structure from linear git history
-* [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - an alternative to git-filter-branch. [Sources on Github](https://github.com/rtyley/bfg-repo-cleaner)
+* [Donne Martin/gitsome](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
+* [Alain Gilbert/git2graph](https://github.com/alaingilbert/git2graph) - git2graph : Generate a git graph structure from linear git history
+* [rtyley/BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - an alternative to git-filter-branch. [Sources on Github](https://github.com/rtyley/bfg-repo-cleaner)
 * [Sven Hofmann](https://gist.github.com/hofmannsven/6814451) - Simply git cheatsheet
 * [Markus Wein](http://nuclearsquid.com/writings/git-add/) - git add --patch and --interactive
 * [Git SCM Docs](https://git-scm.com/docs/git-archive) - git-archive
@@ -1472,10 +1472,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Bitbucket Docs](https://confluence.atlassian.com/bitbucket/code-search-in-bitbucket-873876782.html#CodesearchinBitbucket-Searchoperators) - Tips & tricks for code search in Bitbucket
 * [Gary Ewan Park](https://www.youtube.com/watch?v=SlM02V1tkSc) - Control your GitHub releases with GitVersion and GitReleaseManager
 * [Nicola Paolucci](https://www.slideshare.net/GoAtlassian/becoming-a-git-master-nicola-paolucci) - Becoming a Git Master / some interesting tips provided in this presentation
-* [top-regional-repositories](https://github.com/lorey/top-regional-repositories) - The most-relevant GitHub repositories for all countries and many cities worldwide.
+* [lorey/top-regional-repositories](https://github.com/lorey/top-regional-repositories) - The most-relevant GitHub repositories for all countries and many cities worldwide.
 * [Amit Agarwal](https://www.labnol.org/internet/github-gist-tutorial/28499/) - What You Can Do With Gists on Github?
 * [Oli Young](https://gist.github.com/oliyoung/91a829ea21550a7a7d9469220a7c2f73) - shared .gitconfig with some useful Git aliases
-* [Git Style Guide](https://github.com/agis/git-style-guide) - inspired by [How to Get Your Change Into the Linux Kernel](https://kernel.org/doc/html/latest/process/submitting-patches.html), the [git man pages](http://git-scm.com/doc) and various practices popular among the community.
+* [agis/Git Style Guide](https://github.com/agis/git-style-guide) - inspired by [How to Get Your Change Into the Linux Kernel](https://kernel.org/doc/html/latest/process/submitting-patches.html), the [git man pages](http://git-scm.com/doc) and various practices popular among the community.
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1490,16 +1490,16 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Go Docs](https://golang.org/pkg/crypto/) - Package crypto 
 * [Andrew Gerrand](https://talks.golang.org/2012/10things.slide#1) - (2012) 10 things you (probably) don't know about Go
 * [Gophers on Slack](https://gophersinvite.herokuapp.com/) - Group to discuss Go language
-* [Avelino](https://github.com/avelino/awesome-go) - curated list of awesome Go frameworks, libraries and software. See also [awesome-go.com](https://awesome-go.com/)
+* [Avelino/awesome-go](https://github.com/avelino/awesome-go) - curated list of awesome Go frameworks, libraries and software. See also [awesome-go.com](https://awesome-go.com/)
 * [GolangLibs](https://golanglibs.com) - inventory of go libraries an apps
-* [Checkmarx](https://checkmarx.gitbooks.io/go-scp/) - Go secure coding practices for web applications. [Sources on GitHub](https://github.com/Checkmarx/Go-SCP)
+* [Checkmarx/Go-SCP](https://checkmarx.gitbooks.io/go-scp/) - Go secure coding practices for web applications. [Sources on GitHub](https://github.com/Checkmarx/Go-SCP)
 * [Justyna Ilczuk](http://tinystruggles.com/2015/08/29/golang-code-reuse.html) - Golang Code Reuse - Generalization tricks
 * [Go Resources](https://www.golang-book.com/books/intro/9) - Structs and Interfaces
 * [Stack Overflow](https://stackoverflow.com/questions/13511203/why-cant-i-assign-a-struct-to-an-interface) - Why can't I assign a *Struct to an *Interface?
 * [Christoph Berger](https://appliedgo.net/generics/) - Who needs generics? Use ... instead!
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/) - Interfaces and Composition for Effective Unit Testing in Golang
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2015/03/09/youre-not-using-this-enough-part-one-go-interfaces/) - You're Not Using This Enough, Part One: Go Interfaces
-* [Go Styleguide](https://github.com/bahlo/go-styleguide) - Opinionated Styleguide for the Go language
+* [bahlo/Go Styleguide](https://github.com/bahlo/go-styleguide) - Opinionated Styleguide for the Go language
 * [Peter Bourgon](https://peter.bourgon.org/go-best-practices-2016/) - (2016) Go best practices, six years in
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 
@@ -1510,7 +1510,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joerg Mueller](http://www.joergm.com/2010/09/executing-shell-commands-in-groovy/) - Executing shell commands in Groovy
 
 ## Java
-* [Hugo Matilla](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
+* [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
 * [Nick Parlante](http://codingbat.com/java) - CodingBat : practice your java skills
 * [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
@@ -1527,12 +1527,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ilse Garcia](https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - The JS Path: JavaScript Best Practices Pt. 1
 * [Front-end Rescue](https://uptodate.frontendrescue.org/) - How to keep up to date on Front-End Technologies - The Recipe
 * [Michal Mikolajczyk](https://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes) - Top 18 Most Common Mistakes that AngularJS Developers Make
-* [Sindre Sorhus](https://github.com/avajs/ava) - AVA : Futuristic JavaScript test runner
+* [Sindre Sorhus/avajs/ava](https://github.com/avajs/ava) - AVA : Futuristic JavaScript test runner
 * [Alexandru Vladutu](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make) - Top 10 Mistakes Node.js Developers Make
 * [Azat Mardan](https://webapplog.com/seven-things-you-should-stop-doing-with-node-js/) - Seven Things You Should Stop Doing with Node.js
-* [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
+* [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
 * [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
-* [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
 
 ## Mac
@@ -1545,8 +1545,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OS X Daily](http://osxdaily.com/2011/09/26/show-package-contents-unavailable-extract-pkg-files-without-installing-them/) - Command line : Extract .pkg Files Without Installing Them
 * [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - Mount & Unmount Drives from the Command Line in Mac OS X
 * [Apple Support](https://support.apple.com/en-us/HT201236) - Mac keyboard shortcuts
-* [Randall Wood](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
-* [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
+* [Randall Wood/jenkins-slave-osx](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
+* [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 
 ### Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
@@ -1560,7 +1560,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Machine Learning
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
 * [TensorFlow Docs](https://www.tensorflow.org/get_started/mnist/mechanics) - TensorFlow Mechanics 101
-* [Amirsina Torfi](https://github.com/astorfi/TensorFlow-World-Resources) - TensorFlow resources
+* [Amirsina Torfi/TensorFlow-World-Resources](https://github.com/astorfi/TensorFlow-World-Resources) - TensorFlow resources
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
@@ -1580,12 +1580,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/04/become-a-better-developer-with-an-efficient-technical-watch/) - Become a better developer with an efficient technical watch
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
 * [Dwijadas Dey](https://linoxide.com/linux-how-to/search-tools-developers-linux/) - 6 Tools to Search Source Code for Developers in Linux
-* [Sindre Sorhus](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
+* [Sindre Sorhus/awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [Gregg Caines](http://caines.ca/blog/2015/06/14/were-in-the-stone-age-of-software-engineering-management/) - We're in the Stone Age of Software Engineering Management
 * [Gregg Caines](http://caines.ca/blog/2011/09/14/yoagile-the-good-parts/) - Agile: The Good Parts
 * [Evan Hahn](https://evanhahn.com/atom-apm-install-list/) - Install a list of Atom packages from a file
 * [Habitica](https://habitica.com/static/front) - improve your habits by making a game of your life 
-* [jamb0ss](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
+* [jamb0ss/awesome-ambient-noises](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [Atom on Slack](http://atom-slack.herokuapp.com/) - Slack community for Atom Text editor
@@ -1595,7 +1595,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
 * [URL Encoded Characters](http://www.degraeve.com/reference/urlencoding.php) - mapping table of encoded characters in URLS (%20, %22, %7D, ...)
-* [Awesome Atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources
+* [mehcode/Awesome Atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
@@ -1624,7 +1624,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Devhumor](http://devhumor.com/) - humor for developers
 * [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - programmer humor on reddit
 * [Jose Aguinaga](https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6) - What if companies interviewed translators the way they interview coders?
-* [Luís Silva](https://github.com/LudeeD/IdleWork) - IdleWork : Useful scripts to make you look like you're working and also look awesome doing so.
+* [Luís Silva/IdleWork](https://github.com/LudeeD/IdleWork) - IdleWork : Useful scripts to make you look like you're working and also look awesome doing so.
 * [/r/badcode](https://www.reddit.com/r/badcode/) - the most terrible code you can find
 * [/r/shittyprogramming](https://www.reddit.com/r/shittyprogramming/) - like stack overflow, but with trolls only 
 * [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
@@ -1645,13 +1645,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
 * [Python Software Foundation](https://www.python.org/dev/peps/pep-0008/) - PEP 8 : Style Guide for Python
 * [Valentin Bryukhanov](http://pep8online.com/) - PEP 8 code checker 
-* [OpenStack](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
-* [OpenStack](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
-* [jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
-* [feedparser](https://pypi.python.org/pypi/feedparser) - Parse Atom and RSS feeds in Python.
+* [OpenStack/python-jenkins](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
+* [OpenStack/python-jenkins](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
+* [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
+* [pypi/feedparser](https://pypi.python.org/pypi/feedparser) - Parse Atom and RSS feeds in Python.
 
 ## Reverse engineering
-* [Bob Pan](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
+* [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
 * [APK Downloader](https://apps.evozi.com/apk-downloader/) - download any APK directly in your browser
 * [Decompilers online](http://www.javadecompilers.com/apk) - Decompile Apk and Dex Android files to Java
 * [raidzero](https://gist.github.com/raidzero/9378988) - rdump.py : Print all strings from android resources.arsc file
@@ -1660,15 +1660,15 @@ Raw
 * [The Android Arsenal](https://android-arsenal.com/tag/175) - android decompilers
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 * [JD Project](http://jd.benow.ca/) - yet another fast java decompiler
-* [Caleb Fenton](https://github.com/CalebFenton/apkfile) - ApkFile : Android app analysis and feature extraction library
-* [Caleb Fenton](https://github.com/CalebFenton/simplify) - Simplify : Generic Android Deobfuscator
+* [Caleb Fenton/apkfile](https://github.com/CalebFenton/apkfile) - ApkFile : Android app analysis and feature extraction library
+* [Caleb Fenton/simplify](https://github.com/CalebFenton/simplify) - Simplify : Generic Android Deobfuscator
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
 
 ## Rust
 * [New Rustacean](https://www.newrustacean.com/) - a podcast about learning Rust
-* [Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
+* [mre/Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
 
 # Podcasts
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
@@ -1707,7 +1707,7 @@ Raw
 * [Nicola Paolucci](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/) - Ten tips for wonderful bash productivity
 * [blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) - Mastering Bash and Terminal
 * [kvz.io](http://kvz.io/blog/2013/11/21/bash-best-practices/) - Best Practices for Writing Bash Scripts
-* [Aaron Zauner](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide. Discovered via [DevHub](https://devhub.io/repos/azet-community_bash_style_guide)
+* [Aaron Zauner/community_bash_style_guide](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide. Discovered via [DevHub](https://devhub.io/repos/azet-community_bash_style_guide)
 * [Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/) - 3 shell scripts to improve your writing
 * [Quickshiftin](https://quickshiftin.com/blog/2014/01/template-method-pattern-bash/) - Template method pattern in BASH
 * [Fahd Shariff](http://fahdshariff.blogspot.be/2013/10/shell-scripting-best-practices.html) - Shell Scripting - Best Practices
@@ -1722,7 +1722,7 @@ Raw
 * [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
-* [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3015657/linux/changing-how-bash-behaves.html) - Changing how bash behaves
 * [FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting) - Bash tips: Colors and formatting
 * [SS64.com](https://ss64.com/bash/) - An A-Z Index of the Bash command line for Linux.
@@ -1735,29 +1735,29 @@ Raw
 * [Vivek Gite](https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html) - zcommands: Read gzip Compressed Text Files On a Fly
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [Eric Pement](http://www.pement.org/sed/sed1line.txt) - useful one-liners for sed. [FR version](http://sed.sourceforge.net/sed1line_fr.html)
-* [raidzero](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
+* [raidzero/dotfiles](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
 * [Rich Felker](http://www.etalabs.net/sh_tricks.html) - Rich’s sh (POSIX shell) tricks
 * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 * [Eric Wendelin](https://www.eriwen.com/tools/grep-is-a-beautiful-tool/) - grep is a beautiful tool
-* [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+* [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 * [Sam Rowe](http://samrowe.com/wordpress/advancing-in-the-bash-shell/) - Advancing in the Bash Shell
-* [Liquid Prompt](https://github.com/nojhan/liquidprompt) - a useful adaptive prompt for Bash & zsh
+* [nojhan/Liquid Prompt](https://github.com/nojhan/liquidprompt) - a useful adaptive prompt for Bash & zsh
 * [Boris Huisgen](https://blog.hbis.fr) - [FR] various and interesting linux / sysadmin / devops tips & tricks with command line examples
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Matthieu Parisot](http://blog.wescale.fr/2016/04/07/bash-pro-tips/) - [FR] Bash Pro Tips for logs / errors handling etc.
 * [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] tips & tricks with command line examples 
-* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-* [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
+* [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+* [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 * [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
 
 ## Shell Aliases
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
+* [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
 * [Vivek Gite](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) - 30 Handy Bash Shell Aliases For Linux / Unix / Mac OS X
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3121790/linux/making-troubleshooting-with-lsof-easier.html) - Unix tips: Making troubleshooting with lsof easier. See also [Unix commands: Troubleshooting with lsof](http://www.computerworld.com/article/3119775/linux/troubleshooting-with-lsof.html)
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3085495/linux/unix-aliases-for-good-and-evil.html) - Unix aliases for good and evil
-* [tcnksm](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases for zsh
+* [tcnksm/docker-alias](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases for zsh
 * [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - Useful Docker Bash Functions And Aliases
 
 # Security / Infosec
@@ -1769,7 +1769,7 @@ Raw
 * [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - Basic Linux Privilege Escalation
 * [Unhide](http://www.unhide-forensics.info/) - open source forensic tool to find hidden processes
 * [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
-* [Jacob Appelbaum](https://github.com/ioerror/duraconf) - duraconf : A collection of hardened configuration files for SSL/TLS services
+* [Jacob Appelbaum/ioerror/duraconf](https://github.com/ioerror/duraconf) - duraconf : A collection of hardened configuration files for SSL/TLS services
 * [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
 * [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
 * [/r/netsec](https://www.reddit.com/r/netsec/) - network security on reddit
@@ -1784,8 +1784,8 @@ Raw
 * [/r/compsec](https://www.reddit.com/r/compsec/) - computer security
 * [/r/NSALeaks](https://www.reddit.com/r/NSALeaks/) - everything about NSA leaks, news from Edward Snowden or governmental abuses
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - various awesome lists for hackers, pentesters and security researchers
-* [sbilly](https://github.com/sbilly/awesome-security) - awesome-security : resources and cools stuffs about security.
+* [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - various awesome lists for hackers, pentesters and security researchers
+* [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - awesome-security : resources and cools stuffs about security.
 * [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
 * [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
 * [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
@@ -1797,7 +1797,7 @@ Raw
 * [Julian Alexander Murillo](https://gist.github.com/64lines/248492a02a50c536903f) - Google tricks / dorks
 * [Offensive Security](https://www.exploit-db.com/shellcode/) - Archived Shellcode for various Operating Systems and Architectures
 * [Offensive Security](https://www.exploit-db.com/browse/) - exploits database
-* [berzerk0 (Ben)](https://github.com/berzerk0/Probable-Wordlists) - 5+ Billion Passwords in Order of Most Popular... is yours in the list ?
+* [berzerk0 (Ben)/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - 5+ Billion Passwords in Order of Most Popular... is yours in the list ?
 * [sgoedecke](https://sgoedecke.github.io/blockchain-for-beginners/) - A dead simple introduction to the blockchain (with ~90 line JavaScript demo)
 * [SSL247](https://www.ssl247.fr/kb/ssl-certificates/generalinformation/what-is-rsa-dsa-ecc) - What is RSA, DSA and ECC?
 * [James McGivern](https://fr.slideshare.net/JamesMcGivern/ecc-vs-rsa-battle-of-the-cryptoninjas) - (Devoxx UK 2014) [Slides] ECC vs RSA: Battle of the Crypto-Ninjas
@@ -1816,12 +1816,12 @@ Raw
 * [COMODO CA](https://crt.sh/) - crt.sh : Certificate search online for any domain
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
 * [Ethical Hacking tools](https://pentest-tools.com/home) - online penetration testing tools
-* [Vincent Yiu](https://github.com/vysec/RedTips) - Red Team Tips
+* [Vincent Yiu/RedTips](https://github.com/vysec/RedTips) - Red Team Tips
 * [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
 * [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices 
 * [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
 * [Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos) - [Videos] Introduction to Cryptography 
-* [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
+* [Shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 * [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
 * [Johannes Gilger](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/) - SSH Agent Forwarding considered harmful
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
@@ -1835,7 +1835,7 @@ Raw
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
 * [Riseup!](https://riseup.net/fr/security/message-security/openpgp/gpg-keys) - [FR] Gestion des clés OpenPGP
 * [Riseup!](https://riseup.net/fr/security/message-security/openpgp/best-practices) - [FR] Bonnes pratiques pour l'utilisation d'OpenPGP
-* [Jacob Appelbaum](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) - Example of hardened GPG config file from duraconf
+* [Jacob Appelbaum/ioerror/duraconf](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) - Example of hardened GPG config file from duraconf
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/) - GNU Privacy Guard Manual
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). Discovered via [Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
 * [Nitin Venkatesh ](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - PGP and SSH keys - Generate, export, backup and restore
@@ -1873,9 +1873,9 @@ Raw
 * [Aptive](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - guide for SSL / TLS penetration testing
 
 ## Web 
-* [Raymond Hill](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
-* [Raymond Hill](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
-* [EFF](https://github.com/EFForg/privacybadger) - Privacy Badger - Block third party tracking in your browser
+* [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
+* [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
+* [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger - Block third party tracking in your browser
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
 
 # Society
@@ -1887,15 +1887,15 @@ Raw
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
-* [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing 
 * [Joe Colantonio](https://www.joecolantonio.com/2017/03/02/automation-testing/) - Automation Testing Resources & Best Practices
 * [Gregg Caines](http://caines.ca/blog/2015/01/29/continuous-testing/) - Continuous Testing
 * [Andrew Wulf](http://thecodist.com/article/my_job_as_a_programmer_is_to_make_testers_miserable) - My Job As A Programmer Is To Make Testers Miserable
 * [Locust](http://locust.io/) - a modern open source load testing framework
 * [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html) - Five ways to reduce the cost of large test suites
-* [Ahmed Elsabbahy](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
-* [Ahmed Elsabbahy](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
+* [aelsabbahy/goss](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
+* [aelsabbahy/dgoss-examples](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
 * [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
@@ -1935,7 +1935,7 @@ Raw
 * [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
 * [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
 * [Christian Haschek](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html) - How to defend your website with ZIP bombs
-* [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
+* [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
 
 # Windows
@@ -1945,8 +1945,8 @@ Raw
 * [Korben](https://korben.info/univers/windows) - [FR] Windows tips & tools
 * [Nir Sofer](http://www.nirsoft.net/utils/) - Nirsoft : lot of free tools & utilities for windows, free of malwares and developed over decades by Nir Sofer, who's not stopping [More info about that](http://www.nirsoft.net/about_nirsoft_freeware.html)
 * [Puppet Blog](https://puppet.com/blog-tags/chocolatey) - Posts about Chocolatey
-* [Rahul Kapoor](https://github.com/Awesome-Windows/Awesome) - curated list of best applications and tools for Windows.
-* [Rahul Kapoor](https://github.com/Awesome-Windows/awesome-windows-command-line) - cool stuffs you can do with windows terminal
+* [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - curated list of best applications and tools for Windows.
+* [Awesome-Windows/awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - cool stuffs you can do with windows terminal
 * [WinAdmins on Slack](https://slofile.com/slack/winadmins) - Worldwide chat of Windows admins
 * [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
 * [Rackspace](https://support.rackspace.com/how-to/nslookup-checking-dns-records-on-windows/) - Check DNS records on Windows with nslookup
@@ -1954,11 +1954,11 @@ Raw
 * [Just Install](https://github.com/just-install/just-install) - The simple package installer for Windows. I didn't tried yet, but it seems a good alternative to Chocolatey, following KISS principle
 * [CMD commands](https://ss64.com/nt/) - A-Z of windows terminal commands
 * [PowerShell commands](https://ss64.com/ps/) - A-Z of windows powershell commands
-* [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - script to automate tasks on a fresh windows 10 / windows server 2016
+* [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - script to automate tasks on a fresh windows 10 / windows server 2016
 * [Steven J. Vaughan-Nichols](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/) - How to secure Windows 10: The paranoid's guide
 * [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
 * [babypunchingrampage](https://www.reddit.com/r/sysadmin/comments/4gqq6q/add_chocolatey_repo_to_windows_10/) - Add Chocolatey repo to Windows 10 PackageManagement and install apps using Install-Package!
-* [ChocolateyGet](https://github.com/Jianyunt/ChocolateyGet) - a good provider of chocolatey packages for OneGet 
+* [Jianyunt/ChocolateyGet](https://github.com/Jianyunt/ChocolateyGet) - a good provider of chocolatey packages for OneGet 
 * [MoonPoint](http://support.moonpoint.com/network/proxy/putty/) - Using PuTTY to set up a SOCKS Proxy Connection
 * [MoonPoint](http://support.moonpoint.com/network/proxy/ie10-socks-proxy.php) - Configuring IE 10 to use an SSH SOCKS Proxy Server
 * [Calomel.org](https://calomel.org/samba_optimize.html) - Samba Optimizations and Speed Tuning for Performance
