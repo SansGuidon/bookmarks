@@ -579,6 +579,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenShift](https://commons.openshift.org/videos.html) - [Videos] Watch videos from OpenShift Commons Gathering events
 * [RedHat Summit](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack... 
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
+* [OpenShift Docs](https://docs.openshift.org/latest/using_images/other_images/jenkins.html) - Using Jenkins Images in OpenShift
+* [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/build_strategies.html) - Build Strategy Options in OpenShift
+* [OpenShift Origin](https://github.com/openshift/origin/tree/master/examples) - OpenShift Origin examples on GitHub
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -679,6 +682,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [What is my movie ?](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [FileChef](http://filechef.com/) - Get direct download links for almost anything
+* [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - a list of websites that have free ebooks.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1030,6 +1034,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
 * [CollectNode](https://collectnode.com/) - CollectNode makes easier the IT admin life
+* [DOESConsulting](http://www.doesconsulting.com/faq.shtml) - Load Balancing FAQs and Key Concepts
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
