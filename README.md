@@ -1228,6 +1228,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Linguee](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web 
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 * [zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution 
+* [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
