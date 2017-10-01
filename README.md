@@ -1545,6 +1545,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Online syntax highlighting](https://tohtml.com/) - Online syntax highlighting for multiple languages
 * [Codeanywhere](https://codeanywhere.com/) - cross platform Cloud IDE
 * [Coderwall](https://coderwall.com/) - programming tips / learn something new
+* [Atom](https://atom.io/packages) - All packages
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
