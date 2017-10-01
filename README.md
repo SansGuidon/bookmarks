@@ -1001,6 +1001,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alltop](https://alltop.com/new/) - News aggregator, similar to Popurls. Aggregates news by topic also 
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
 * [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
+* [Trendsmap](https://www.trendsmap.com/) - shows you the latest trends from Twitter, for anywhere in the world. 
 
 # Operations / IT OPS
 * [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
