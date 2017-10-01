@@ -1282,6 +1282,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ozan Onay](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) - You Are Not Google
 * [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
 * [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
+* [Geshan Manandhar](https://geshan.com.np/blog/2017/06/software-companies-tech-competency-matrix/) - Software Companies Tech Competency Matrix / useful skill matrix for devops, security, database...
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
