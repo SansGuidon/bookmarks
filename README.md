@@ -1709,11 +1709,11 @@ Raw
 * [Commandline Challenge](https://cmdchallenge.com/) - Linux Shell challenges
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
 * [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make
-* [ShellCheck](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck)
+* [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck)
 * [Nicola Paolucci](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/) - Ten tips for wonderful bash productivity
 * [blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) - Mastering Bash and Terminal
 * [kvz.io](http://kvz.io/blog/2013/11/21/bash-best-practices/) - Best Practices for Writing Bash Scripts
-* [Aaron Zauner/community_bash_style_guide](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide. Discovered via [DevHub](https://devhub.io/repos/azet-community_bash_style_guide)
+* [**Aaron Zauner/community_bash_style_guide**](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide. Discovered via [DevHub](https://devhub.io/repos/azet-community_bash_style_guide)
 * [Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/) - 3 shell scripts to improve your writing
 * [Quickshiftin](https://quickshiftin.com/blog/2014/01/template-method-pattern-bash/) - Template method pattern in BASH
 * [Fahd Shariff](http://fahdshariff.blogspot.be/2013/10/shell-scripting-best-practices.html) - Shell Scripting - Best Practices
@@ -1757,6 +1757,7 @@ Raw
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 * [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 * [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
+* [Kfir Lavi](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - Defensive BASH Programming
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
