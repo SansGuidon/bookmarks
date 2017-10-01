@@ -1455,6 +1455,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nicola Paolucci](https://www.slideshare.net/GoAtlassian/becoming-a-git-master-nicola-paolucci) - Becoming a Git Master / some interesting tips provided in this presentation
 * [top-regional-repositories](https://github.com/lorey/top-regional-repositories) - The most-relevant GitHub repositories for all countries and many cities worldwide.
 * [Amit Agarwal](https://www.labnol.org/internet/github-gist-tutorial/28499/) - What You Can Do With Gists on Github?
+* [Oli Young](https://gist.github.com/oliyoung/91a829ea21550a7a7d9469220a7c2f73) - shared .gitconfig with some useful Git aliases
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
