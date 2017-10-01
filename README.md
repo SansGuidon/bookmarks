@@ -1782,6 +1782,7 @@ Raw
 * [Passive Aggressive Passwords](http://www.trypap.com/) - [Humor] The Passive Aggressive Password Machine
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
+* [Aptive](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - guide for SSL / TLS penetration testing
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -1822,6 +1823,7 @@ Raw
 * [SSL Shopper](https://www.sslshopper.com/special-ssl-certificate-types.html) - Special Types of SSL Certificates
 * [DigiCert](https://www.digicert.com/ssl-support/apache-multiple-ssl-certificates-using-sni.htm) - Using Multiple SSL Certificates in Apache with One IP Address
 * [Deb Shinder](http://techgenix.com/SSL-Acceleration-Offloading-Security-Implications/) - SSL Acceleration and Offloading: What Are the Security Implications?
+* [Aptive](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - guide for SSL / TLS penetration testing
 
 ## Web 
 * [Raymond Hill](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
