@@ -1314,6 +1314,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 * [Tom Preston-Werner](http://semver.org/) - Semantic Versioning 2.0.0
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
+* [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -1477,6 +1478,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alexandru Vladutu](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make) - Top 10 Mistakes Node.js Developers Make
 * [Azat Mardan](https://webapplog.com/seven-things-you-should-stop-doing-with-node-js/) - Seven Things You Should Stop Doing with Node.js
 * [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
+* [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
 
 ## Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
