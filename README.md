@@ -1317,6 +1317,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
 * [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
+* [EditorConfig](http://editorconfig.org/) - EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
