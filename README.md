@@ -1315,6 +1315,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tom Preston-Werner](http://semver.org/) - Semantic Versioning 2.0.0
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
+* [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -1479,6 +1481,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Azat Mardan](https://webapplog.com/seven-things-you-should-stop-doing-with-node-js/) - Seven Things You Should Stop Doing with Node.js
 * [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
 * [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
+* [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
 
 ## Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -1868,6 +1872,7 @@ Raw
 * [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
 * [Christian Haschek](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html) - How to defend your website with ZIP bombs
 * [Shieldfy](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
+* [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
