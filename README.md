@@ -1559,6 +1559,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Coderwall](https://coderwall.com/) - programming tips / learn something new
 * [Atom](https://atom.io/packages) - All packages
 * [Jessica Kerr](https://blog.codeship.com/growing-tech-stack-say-no/) - Growing Your Tech Stack: When to Say No
+* [Heather Knight](https://hackernoon.com/how-to-solve-programmers-block-18363c040656) - What Writers Can Teach Programmers
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -1696,6 +1697,7 @@ Raw
 * [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 * [Sam Rowe](http://samrowe.com/wordpress/advancing-in-the-bash-shell/) - Advancing in the Bash Shell
 * [Liquid Prompt](https://github.com/nojhan/liquidprompt) - a useful adaptive prompt for Bash & zsh
+* [Boris Huisgen](https://blog.hbis.fr) - [FR] various and interesting linux / sysadmin / devops tips & tricks with command line examples
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
