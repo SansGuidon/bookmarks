@@ -174,6 +174,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
 * [/r/Infographics](https://www.reddit.com/r/Infographics/) - all the latest infographics
 * [/r/funnycharts](https://www.reddit.com/r/funnycharts/) - funny charts
+* [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
 
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -981,6 +982,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 * [Alltop](https://alltop.com/new/) - News aggregator, similar to Popurls. Aggregates news by topic also 
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
+* [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
 
 # Operations / IT OPS
 * [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
