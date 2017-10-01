@@ -1310,6 +1310,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
 * [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
 * [Geshan Manandhar](https://geshan.com.np/blog/2017/06/software-companies-tech-competency-matrix/) - Software Companies Tech Competency Matrix / useful skill matrix for devops, security, database...
+* [Redbubble](https://www.redbubble.com/fr/shop/sysadmin+stickers) - Sysadmin stickers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1409,7 +1410,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/git-submodules-workflows-tips#tip5) - Git submodules: core concept, workflows, and tips
 * [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) - Mastering Git submodules
 * [Git-SCM Docs](https://git-scm.com/book/en/v2/Git-Tools-Submodules) - Submodules documentation
-* [Hemanth.HM](https://github.com/git-tips/tips) - [git-tips/tips] Collection of most commonly used git tips and tricks 
+* [git-tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks 
 * [Lars Vogel](http://www.vogella.com/tutorials/Git/article.html) - Git - Tutorial
 * [Pere Orga](https://orga.cat/posts/most-useful-git-commands) - The most useful git commands
 * [Christophe Porteneuve](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa) - Getting solid at Git rebase vs. merge
