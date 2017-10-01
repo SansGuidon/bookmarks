@@ -938,6 +938,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Freeduc-Sup](http://www.linux-france.org/prj/edu/archinet/systeme/ch13s04.html) - [FR] Comprendre la redirection de port (Port Forwarding)
 * [Kyle Johnson](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md) - Examples of possible questions during linux syadmin / devops interviews.
 * [Christian Assing](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
+* [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1047,6 +1048,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
 * [CollectNode](https://collectnode.com/) - CollectNode makes easier the IT admin life
 * [DOESConsulting](http://www.doesconsulting.com/faq.shtml) - Load Balancing FAQs and Key Concepts
+* [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1592,6 +1594,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Atom](https://atom.io/packages) - All packages
 * [Jessica Kerr](https://blog.codeship.com/growing-tech-stack-say-no/) - Growing Your Tech Stack: When to Say No
 * [Heather Knight](https://hackernoon.com/how-to-solve-programmers-block-18363c040656) - What Writers Can Teach Programmers
+* [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
