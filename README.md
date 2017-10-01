@@ -934,6 +934,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sandeep Singh](https://linoxide.com/linux-how-to/lvm-configuration-linux/) - How to Configure LVM in Linux (pvcreate, lvcreate, vgcreate)
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [Freeduc-Sup](http://www.linux-france.org/prj/edu/archinet/systeme/ch13s04.html) - [FR] Comprendre la redirection de port (Port Forwarding)
+* [Kyle Johnson](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md) - Examples of possible questions during linux syadmin / devops interviews.
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
