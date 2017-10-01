@@ -1709,6 +1709,7 @@ Raw
 * [Boris Huisgen](https://blog.hbis.fr) - [FR] various and interesting linux / sysadmin / devops tips & tricks with command line examples
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Matthieu Parisot](http://blog.wescale.fr/2016/04/07/bash-pro-tips/) - [FR] Bash Pro Tips for logs / errors handling etc.
+* [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] tips & tricks with command line examples 
 
 ## Shell Aliases
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
