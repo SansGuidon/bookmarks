@@ -320,6 +320,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [openstack/ARA](https://github.com/openstack/ara) - ARA: Ansible Run Analysis records Ansible Playbook runs and provides intuitive interfaces to browse them
 * [metacloud/molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles. 
 * [ansible/awx](https://github.com/ansible/awx) - AWX provides an UI, API and task engine on top of Ansible. It is the open source upstream project for commercial Ansible Tower
+* [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -614,6 +615,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sebastian Krysmanski](https://manski.net/2016/09/vagrant-multi-machine-tutorial/) - Vagrant Tutorial – From Nothing To Multi-Machine
 * [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
 * [Stefan Wrobel](https://stefanwrobel.com/how-to-make-vagrant-performance-not-suck) - How to make Vagrant performance not suck
+* [emyl/vagrant-triggers](https://github.com/emyl/vagrant-triggers) - Trigger scripts execution on the host or guest before and/or after Vagrant commands.
+* [vvchik/vagrant-serverspec](https://github.com/vvchik/vagrant-serverspec) - a vagrant plugin that implements [serverspec](http://serverspec.org/) as a provisioner.
+* [miroswan/vagrant_spec](https://github.com/miroswan/vagrant_spec) - VagrantSpec : ServerSpec Testing for Clustered / Distributed Systems in Vagrant. **Bonus** : [Tutorial for VagrantSpec](https://github.com/miroswan/vagrant_spec/wiki/Welcome-to-VagrantSpec)
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -1925,6 +1929,9 @@ Raw
 * [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
+* [metacloud/molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles. 
+* [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
+* [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
