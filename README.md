@@ -1558,6 +1558,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Apple Support](https://support.apple.com/en-us/HT201236) - Mac keyboard shortcuts
 * [Randall Wood/jenkins-slave-osx](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
 * [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
+* [Apple](https://developer.apple.com/downloads/index.action) - Downloads for Apple Developers / useful to find old tools / OS versions
 
 ### Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
