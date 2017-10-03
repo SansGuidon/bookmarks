@@ -184,6 +184,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/funnycharts](https://www.reddit.com/r/funnycharts/) - funny charts
 * [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
 * [Jeroen Janssens](http://datascienceatthecommandline.com/) - Data Science at the Command Line
+* [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/lastfm) - The Last.fm Dataset
 
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -1028,6 +1029,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
 * [Ranker](http://www.ranker.com/list/songs-based-on-game-of-thrones/ranker-of-thrones) - Some of the Best Songs Based on Game of Thrones
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
+* [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -1365,6 +1367,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
 * [Gregg Caines](http://caines.ca/blog/2013/09/13/you-probably-dont-need-to-version-your-web-api/) - You Probably Don’t Need to Version Your Web API.
 * [Shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
+* [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
 
 ## Clean code
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
@@ -1654,6 +1657,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Heather Knight](https://hackernoon.com/how-to-solve-programmers-block-18363c040656) - What Writers Can Teach Programmers
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
 * [Ask Ubuntu](https://askubuntu.com/questions/45521/how-to-navigate-long-commands-faster) - How to navigate long commands faster?
+* [Whitson Gordon](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts) - Become a Command Line Ninja With These Time-Saving Shortcuts
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -1807,6 +1811,8 @@ Raw
 * [GreyCat](http://mywiki.wooledge.org/BashWeaknesses) - BashWeaknesses : There are certain things BASH is not very good at.
 * [GNU](http://www.gnu.org/software/autoconf/manual/autoconf.html#Portable-Shell) - Portable Shell Programming
 * [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
+* [Ask Ubuntu](https://askubuntu.com/questions/45521/how-to-navigate-long-commands-faster) - How to navigate long commands faster?
+* [Whitson Gordon](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts) - Become a Command Line Ninja With These Time-Saving Shortcuts
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
