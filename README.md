@@ -988,6 +988,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sysadmin Casts](https://sysadmincasts.com/) - Good resources for sysadmin / ops / devops
 * [Ramesh Natarajan](http://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/) - 50 UNIX / Linux Sysadmin Tutorials
 * [Gaurav Kumar Gupta](http://www.gauravkgupta.com/ten-best-cheat-sheets-first-time-linux-admins/) - Ten Of The Best Cheat Sheets For First Time Linux Admins
+* [DayDreamer](http://daydreamer66.blogspot.be/2014/06/rhel-how-can-non-root-users-can-run.html) - RHEL: How can non-root users can run tcpdump or Wireshark or use libpcap
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1011,6 +1012,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Milosz Galazka](https://blog.sleeplessbeastie.eu/2013/10/31/how-to-deal-with-dmesg-timestamps/) - How to deal with dmesg timestamps
 * [Stack Exchange](https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted) - Find and remove large files that are open but have been deleted
 * [Phil Rzewski](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/) - Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
+* [Steven Iveson](http://packetpushers.net/masterclass-tcpdump-interpreting-output/) - Masterclass – Tcpdump – Interpreting Output
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
