@@ -2,7 +2,7 @@
 ___
 > currently working on
 * [ ] Highlight favorite sites & news sites in each section because everything seems equally important now
-* [ ] Add links from inbox (by gmail)
+* [x] Add links from inbox (by gmail)
 * [x] Add onetab links / bookmarks from other computers
   * [x] work computer
   * [x] personal portable (windows)
