@@ -1917,6 +1917,7 @@ Raw
 * [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 * [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger - Block third party tracking in your browser
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
+* [chrome notifications settings](chrome://settings/content/notifications) open `chrome://settings/content/notifications` in Chrome to manage notifications exceptions 
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
