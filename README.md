@@ -439,6 +439,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 * [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet on GitHub
 * [Aboullaite Mohammed](https://aboullaite.me/docker-hacks/) - 15 Docker Hacks & Tips!
+* [Visakh S](https://bobcares.com/blog/coreos-docker-an-easy-way-to-deploy-secure-scalable-web-application-infrastructure/) - CoreOS & Docker – An easy way to deploy secure, scalable web application infrastructure
+* [Docker Docs](https://docs.docker.com/engine/security/https/) - Docker security : running your app in production
+* [Maxfield Stewart](https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial) - Tutorial: Building With Jenkins Inside an Ephemeral Docker Container
+* [Viktor Farcic](https://technologyconversations.com/2016/04/18/docker-flow/) - Docker Flow – Walkthrough
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -542,6 +546,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hannah Inman](https://jenkins.io/blog/2017/06/27/speaker-blog-SAS-jenkins-world) - Extending your Pipeline with Shared Libraries, Global Functions and External Code. **Bonus** : [Slides from Brent Laster](https://www.slideshare.net/BrentLaster/2017-jenkins-world)
 * [Oleg Nenashev](https://speakerdeck.com/onenashev/oslo-jenkins-meetup-managing-security-in-jenkins-cheat-sheet) - Managing Security in Jenkins. Cheat Sheet
 * [Philip Stroh](https://jenkins.io/blog/2017/10/02/pipeline-templates-with-shared-libraries/) - Share a standard Pipeline across multiple projects with Shared Libraries
+* [Maxfield Stewart](https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial) - Tutorial: Building With Jenkins Inside an Ephemeral Docker Container
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -1030,6 +1035,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ranker](http://www.ranker.com/list/songs-based-on-game-of-thrones/ranker-of-thrones) - Some of the Best Songs Based on Game of Thrones
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 * [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
+* [MusicIP](http://www.spicefly.com/article.php?page=what-is-musicip) - MusicIP analyses and fingerprints your music library 
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -1895,6 +1901,7 @@ Raw
 * [Computer Science Department at FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) - Offensive Computer Security Course with Lecture / Videos / Slides / Reading
 * [Walter Goulet](http://blog.securism.com/2009/01/summarizing-pki-certificate-validation/) - Summarizing PKI certificate validation
 * [Walter Goulet](http://blog.securism.com/2013/02/using-a-hsm-doesnt-automatically-make-you-more-secure/) - Using a HSM doesn't automatically make you more 'secure'
+* [Stack Exchange](https://security.stackexchange.com/) - Information Security Stack Exchange
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
