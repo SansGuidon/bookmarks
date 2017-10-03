@@ -321,6 +321,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [metacloud/molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles. 
 * [ansible/awx](https://github.com/ansible/awx) - AWX provides an UI, API and task engine on top of Ansible. It is the open source upstream project for commercial Ansible Tower
 * [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
+* [jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -615,9 +616,17 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sebastian Krysmanski](https://manski.net/2016/09/vagrant-multi-machine-tutorial/) - Vagrant Tutorial – From Nothing To Multi-Machine
 * [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
 * [Stefan Wrobel](https://stefanwrobel.com/how-to-make-vagrant-performance-not-suck) - How to make Vagrant performance not suck
+* [iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 * [emyl/vagrant-triggers](https://github.com/emyl/vagrant-triggers) - Trigger scripts execution on the host or guest before and/or after Vagrant commands.
 * [vvchik/vagrant-serverspec](https://github.com/vvchik/vagrant-serverspec) - a vagrant plugin that implements [serverspec](http://serverspec.org/) as a provisioner.
 * [miroswan/vagrant_spec](https://github.com/miroswan/vagrant_spec) - VagrantSpec : ServerSpec Testing for Clustered / Distributed Systems in Vagrant. **Bonus** : [Tutorial for VagrantSpec](https://github.com/miroswan/vagrant_spec/wiki/Welcome-to-VagrantSpec)
+* [fabriziopandini/vagrant-compose](https://github.com/fabriziopandini/vagrant-compose) - A Vagrant plugin that helps building complex scenarios with many VMs.
+* [Learnosity/vagrant-git](https://github.com/Learnosity/vagrant-git) - a Vagrant plugin to either clone or pull repositories after a VM boots (but before it's provisioned).
+* [maoueh/nugrant](https://github.com/maoueh/nugrant) - Vagrant plugin enabling user specific configuration values and handle parameters to be injected via different sources
+* [p0deje/vagrant-exec](https://github.com/p0deje/vagrant-exec) - Vagrant plugin to execute commands within the context of VM synced directory.
+* [sprotheroe/vagrant-disksize](https://github.com/sprotheroe/vagrant-disksize) - Vagrant plugin to resize disks in VirtualBox
+* [fgrehm/vagrant-notify](https://github.com/fgrehm/vagrant-notify) - Vagrant plugin that redirects `notify-send` from guest to host machine and notifies provisioning status.
+* [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Veewee is a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
