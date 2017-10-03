@@ -1748,6 +1748,9 @@ Raw
 * [Leo Babauta](https://zenhabits.net/happy-things/) - How to Be Happy When You’re in an Unhappy Situation
 * [Leo Babauta](https://zenhabits.net/gollum/) - How to Love Your Dark Side
 * [Luke Miller](https://truththeory.com/2017/06/03/5-reasons-infj-personality-type-hard-understand/) - 5 Reasons INFJ Personality Type Is So Hard To Understand
+* [LTO](http://www.temperamentorder.com/temperaments.php) - LTO (Lewis Temperament Order) Personality Types
+* [LTO](http://www.temperamentorder.com/personality-history.php) - LTO Personality History
+* [Curiosophy](http://curiosophy.org/2014/01/27/mbti-in-a-nutshell/) - MBTI in a nutshell
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
