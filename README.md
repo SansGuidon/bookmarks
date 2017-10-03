@@ -191,7 +191,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CloudBees](https://www.cloudbees.com/blog) - CloudBees Blog
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
 * [CloudBees](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
-* [DZone](https://dzone.com/devops-tutorials-tools-news) - DZone Devops
+* [DZone](https://dzone.com/devops-tutorials-tools-news/list) - DZone Devops latest articles
 * [/r/devops](https://www.reddit.com/r/devops/) - Everything Devops on reddit
 * [Netflix](https://medium.com/@NetflixTechBlog) - NetFlix Technology Blog
 * [Netflix](https://medium.com/netflix-techblog) - Netflix TechBlog
@@ -641,6 +641,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [sprotheroe/vagrant-disksize](https://github.com/sprotheroe/vagrant-disksize) - Vagrant plugin to resize disks in VirtualBox
 * [fgrehm/vagrant-notify](https://github.com/fgrehm/vagrant-notify) - Vagrant plugin that redirects `notify-send` from guest to host machine and notifies provisioning status.
 * [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Veewee is a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
+* [Anton Kalyaev](https://coderwall.com/p/17i72q/vagrant-tips) - Vagrant tips
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
