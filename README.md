@@ -1756,8 +1756,14 @@ Raw
 * [Open Source Psychometrics Project](https://openpsychometrics.org/) - a collection of interactive personality tests with detailed results
 * [College Match Up](https://www.collegematchup.net/features/best-jobs-for-your-personality-type/) - Best Jobs for Your Personality Type
 * [Business Insider](http://editorial.designtaxi.com/news-infpersonalityjobs080914/2.jpg) - [IMG] The Best Jobs for Every Personality Type
-* [Pinterest](https://www.pinterest.com/pin/302022718737949896/?lp=true) - Art and Pictures about personality types
-* [16Personalities](https://www.16personalities.com/fr/la-personnalite-isfj) - [FR] La Personnalité "Défenseur" (ISFJ-A / ISFJ-T)
+* [Pinterest](https://www.pinterest.com/pin/302022718737949896/?lp=true) - Art and Pictures about psychology of color
+* [Pinterest](https://www.pinterest.com/pin/210613720052178233/?lp=true) - Art and Pictures about MBTI types. 
+* [Pinterest](https://www.pinterest.com/pin/121949102387976923/?lp=true) - More Art and Pictures about MBTI Types
+* [Pinterest](https://www.pinterest.com/pin/202802789445614388/?lp=true) - More Art and Pictures about MBTI Types
+* [Pinterest](https://www.pinterest.com/pin/316096467577274221/?lp=true) - Art and Pictures about Zodiac Signs
+* [Pinterest](https://www.pinterest.com/pin/55872851600451918/?lp=true) - Art and Pictures about MBTI / Zodiac Signs
+* [16Personalities](https://www.16personalities.com/fr/la-personnalite-isfj) - [FR] La personnalité "Défenseur" (ISFJ-A / ISFJ-T)
+* [16Personalities](https://www.16personalities.com/fr/la-personnalite-infj) - [FR] La personnalité "Avocat" (INFJ-A / INFJ-T)
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
