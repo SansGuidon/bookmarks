@@ -965,6 +965,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tom Limoncelli](https://everythingsysadmin.com/2012/09/unorthodoxunix.html) - 4 unix commands I abuse every day
 * [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
 * [Sysadmin Casts](https://sysadmincasts.com/) - Good resources for sysadmin / ops / devops
+* [Ramesh Natarajan](http://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/) - 50 UNIX / Linux Sysadmin Tutorials
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1090,6 +1091,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeff Starr](https://perishablepress.com/stupid-htaccess-tricks/) - Stupid .htaccess Tricks
 * [Jeff Starr](https://perishablepress.com/htaccess-cleanup/) - .htaccess Cleanup
 * [Server Fault](https://serverfault.com/questions/567320/difference-between-default-and-in-virtualhost-context) - difference between _default_:* and *:* in VirtualHost Context
+* [Dave Child](https://www.cheatography.com/davechild/cheat-sheets/mod-rewrite/) - mod_rewrite Cheat Sheet
+* [Stack Overflow](https://stackoverflow.com/questions/11649944/apache-httpd-conf-for-redirecting-ip-to-hostname) - Apache httpd.conf for redirecting ip to hostname
+* [Apache Docs](http://httpd.apache.org/docs/2.4/mod/core.html#virtualhost) - [FR] Virtualhost directive in Apache 2.4
+* [TBS Internet](https://www.tbs-certificats.com/FAQ/fr/284.html) - [FR] Apache et VirtualHost SSL avec un wildcard ou multi-site
+* [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
@@ -1869,6 +1875,9 @@ Raw
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
 * [Aptive](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - guide for SSL / TLS penetration testing
+* [Computer Science Department at FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) - Offensive Computer Security Course with Lecture / Videos / Slides / Reading
+* [Walter Goulet](http://blog.securism.com/2009/01/summarizing-pki-certificate-validation/) - Summarizing PKI certificate validation
+* [Walter Goulet](http://blog.securism.com/2013/02/using-a-hsm-doesnt-automatically-make-you-more-secure/) - Using a HSM doesn't automatically make you more 'secure'
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -1912,6 +1921,9 @@ Raw
 * [Aptive](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - guide for SSL / TLS penetration testing
 * [University of Wisconsin KB](https://kb.wisc.edu/middleware/page.php?id=4064) - Verifying that a Private Key Matches a Certificate
 * [University of Wisconsin KB](https://kb.wisc.edu/middleware/page.php?id=4543) - Verifying that a Certificate is issued by a CA
+* [John Herbert](http://movingpackets.net/2015/03/18/telling-openssl-about-your-root-certificates/) - Telling OpenSSL About Your Root Certificates / for *Nix and OS X
+* [John Herbert](http://movingpackets.net/2015/03/16/five-essential-openssl-troubleshooting-commands) - Five Essential OpenSSL Troubleshooting Commands
+* [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
 
 ## Web 
 * [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
@@ -2017,6 +2029,7 @@ Raw
 * [Boxstarter](http://boxstarter.org/) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/running-ansible-within-windows) - (2014) Running Ansible within Windows
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
+* [Jason Stewart](https://eggplant.pro/blog/faster-samba-smb-cifs-share-performance/) - Faster Samba (SMB / CIFS) Share Performance
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
