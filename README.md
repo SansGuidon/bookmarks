@@ -1481,7 +1481,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/git-submodules-workflows-tips#tip5) - Git submodules: core concept, workflows, and tips
 * [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) - Mastering Git submodules
 * [Git-SCM Docs](https://git-scm.com/book/en/v2/Git-Tools-Submodules) - Submodules documentation
-* [git-tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks 
+* [**git-tips**](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks 
 * [Lars Vogel](http://www.vogella.com/tutorials/Git/article.html) - Git - Tutorial
 * [Pere Orga](https://orga.cat/posts/most-useful-git-commands) - The most useful git commands
 * [Christophe Porteneuve](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa) - Getting solid at Git rebase vs. merge
@@ -1532,6 +1532,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Amit Agarwal](https://www.labnol.org/internet/github-gist-tutorial/28499/) - What You Can Do With Gists on Github?
 * [Oli Young](https://gist.github.com/oliyoung/91a829ea21550a7a7d9469220a7c2f73) - shared .gitconfig with some useful Git aliases
 * [agis/Git Style Guide](https://github.com/agis/git-style-guide) - inspired by [How to Get Your Change Into the Linux Kernel](https://kernel.org/doc/html/latest/process/submitting-patches.html), the [git man pages](http://git-scm.com/doc) and various practices popular among the community.
+* [Sönke Sothmann](https://blog.oio.de/2013/05/08/how-to-rollback-changes-with-git/) - How to rollback changes with Git 
+* [Atlassian Docs](https://www.atlassian.com/git/tutorials/undoing-changes) - Tutorials : Undoing Changes with git checkout / revert / reset / clean
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
