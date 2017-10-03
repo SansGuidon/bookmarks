@@ -479,6 +479,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Pidgin](https://bitbucket.org/pidgin/main/pull-requests/91/implmeth-webex-token-sasl-auth-for-jabber/diff) - Implmeth WEBEX-TOKEN SASL auth for jabber.
 * [matterbridge](https://github.com/42wim/matterbridge/commit/ee643de5b6031b6bdbf2e957f2fea8f1222ace64) - Add compatibility for Cisco Jabber (xmpp)
 * [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know 
+* [bhuga/hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc) - hubot-chatops-rpc : Easily add RPC endpoints to your hubot.
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -560,6 +561,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fabric8 on Slack](https://slack.fabric8.io/) - Open source integrated development platform for Kubernetes
 * [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Awesome Kubernetes resources
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
+* [Jesse Newland](https://githubengineering.com/kubernetes-at-github/) - Kubernetes at GitHub
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
