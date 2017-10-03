@@ -1751,6 +1751,7 @@ Raw
 * [LTO](http://www.temperamentorder.com/temperaments.php) - LTO (Lewis Temperament Order) Personality Types
 * [LTO](http://www.temperamentorder.com/personality-history.php) - LTO Personality History
 * [Curiosophy](http://curiosophy.org/2014/01/27/mbti-in-a-nutshell/) - MBTI in a nutshell
+* [Open Source Psychometrics Project](https://openpsychometrics.org/) - a collection of interactive personality tests with detailed results
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
