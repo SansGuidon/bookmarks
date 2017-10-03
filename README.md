@@ -966,6 +966,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
 * [Sysadmin Casts](https://sysadmincasts.com/) - Good resources for sysadmin / ops / devops
 * [Ramesh Natarajan](http://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/) - 50 UNIX / Linux Sysadmin Tutorials
+* [Gaurav Kumar Gupta](http://www.gauravkgupta.com/ten-best-cheat-sheets-first-time-linux-admins/) - Ten Of The Best Cheat Sheets For First Time Linux Admins
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1924,6 +1925,13 @@ Raw
 * [John Herbert](http://movingpackets.net/2015/03/18/telling-openssl-about-your-root-certificates/) - Telling OpenSSL About Your Root Certificates / for *Nix and OS X
 * [John Herbert](http://movingpackets.net/2015/03/16/five-essential-openssl-troubleshooting-commands) - Five Essential OpenSSL Troubleshooting Commands
 * [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
+* [mdoehle](https://www.cheatography.com/mdoehle/cheat-sheets/pki-openssl/) - PKI / openSSL Cheat Sheet
+* [BogPeople](http://www.bogpeople.com/networking/openssl.shtml) - OpenSSL Cheat Sheet
+* [ThorneLabs](https://thornelabs.net/2014/05/18/openssl-commands-cheat-sheet.html) - OpenSSL Commands Cheat Sheet
+* [LZone](https://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
+* [James Coyle](https://www.jamescoyle.net/cheat-sheets/1078-openssl-certificate-cheat-sheet) - OpenSSL Certificate Cheat Sheet
+* [Jamie Nguyen](https://jamielinux.com/docs/openssl-certificate-authority/) - OpenSSL Certificate Authority / a guide to demonstrate how to act as your own CA using OpenSSL
+* [German Jaber](https://blog.talpor.com/2015/07/ssltls-certificates-beginners-tutorial/) - SSL/TLS certificates beginner's tutorial
 
 ## Web 
 * [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
