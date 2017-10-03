@@ -560,6 +560,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 * [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - curated list of Microservice Architecture related principles and technologies.
+* [Milen Dyankov](https://www.youtube.com/watch?v=O77777Zy_HE) - [Video] Microservices and Modularity or the difference between treatment and cure! 
 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
@@ -835,6 +836,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [WorkWithUs](https://workwithus.io/) - hand-curated selection of best jobs
 * [Who is Hiring?](https://whoishiring.io/) - jobs search engine per location and some other criteria
 * [Gabriel Lewis](https://www.producthunt.com/@gabriel__lewis/collections/hack-your-job-search) - List of tools to hack your job search
+* [College Match Up](https://www.collegematchup.net/features/best-jobs-for-your-personality-type/) - Best Jobs for Your Personality Type
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1752,6 +1754,10 @@ Raw
 * [LTO](http://www.temperamentorder.com/personality-history.php) - LTO Personality History
 * [Curiosophy](http://curiosophy.org/2014/01/27/mbti-in-a-nutshell/) - MBTI in a nutshell
 * [Open Source Psychometrics Project](https://openpsychometrics.org/) - a collection of interactive personality tests with detailed results
+* [College Match Up](https://www.collegematchup.net/features/best-jobs-for-your-personality-type/) - Best Jobs for Your Personality Type
+* [Business Insider](http://editorial.designtaxi.com/news-infpersonalityjobs080914/2.jpg) - [IMG] The Best Jobs for Every Personality Type
+* [Pinterest](https://www.pinterest.com/pin/302022718737949896/?lp=true) - Art and Pictures about personality types
+* [16Personalities](https://www.16personalities.com/fr/la-personnalite-isfj) - [FR] La Personnalité "Défenseur" (ISFJ-A / ISFJ-T)
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
