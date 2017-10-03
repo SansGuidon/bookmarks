@@ -444,6 +444,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Docker Docs](https://docs.docker.com/engine/security/https/) - Docker security : running your app in production
 * [Maxfield Stewart](https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial) - Tutorial: Building With Jenkins Inside an Ephemeral Docker Container
 * [Viktor Farcic](https://technologyconversations.com/2016/04/18/docker-flow/) - Docker Flow – Walkthrough
+* [Jérôme Petazzoni](https://fr.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon) - Anatomy of a Container: Namespaces, cgroups & Some Filesystem Magic - LinuxCon
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
