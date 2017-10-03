@@ -4,6 +4,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 * [Anime](#anime)
 * [Architecture / Design](#architecture--design)
+* [Art](#art)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
 * [Creativity](#creativity)
 * [Culture](#culture)
@@ -109,6 +110,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 * [Principles of Chaos Engineering](http://principlesofchaos.org/) 
 
+# Art 
+* [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
+
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
 * [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
@@ -154,6 +158,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nathan Kontny](https://m.signalvnoise.com/how-to-be-original-8877c5feeeb1) - How to be original / aka whom creative ideas come from ?
 * [Marion PoetzNikolaus FrankeMartin Schreier](https://hbr.org/2014/11/sometimes-the-best-ideas-come-from-outside-your-industry) - Sometimes the Best Ideas Come from Outside Your Industry
 * [Dan Kim](https://m.signalvnoise.com/its-ok-to-be-pragmatic-with-a-little-help-from-the-crazy-ones-461f7773a176) - It’s OK to be pragmatic (with a little help from the “crazy ones”)
+* [/r/GoogleCardboard](https://www.reddit.com/r/GoogleCardboard/) - Google Cardboard VR subreddit 
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -726,6 +731,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website 
 * [Discuvver](https://www.discuvver.com) - Take you to one random useful website
 * [AlternativeTo](https://alternativeto.net/platform/self-hosted/?license=opensource) - Open Source Self-Hosted apps on AlternativeTo
+* [Stack Exchange](https://softwarerecs.stackexchange.com/) - Software Recommendations Stack Exchange 
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -836,6 +842,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers 
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
+* [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing »
 
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
@@ -1004,6 +1011,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/chapters/17.html) - Status Lines
 * [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
+* [VimAwesome](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
 
 # Manga
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
@@ -1241,6 +1249,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nathan Kontny](https://m.signalvnoise.com/speed-reading-2ff843053cc6) - Speed Reading tips
 * [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR][IMG] Arguments réthoriques fallacieux 
 * [James Clear](http://jamesclear.com/ivy-lee) - The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity
+* [Stack Exchange](https://productivity.stackexchange.com/) - Personal Productivity Stack Exchange
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
@@ -1644,6 +1653,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jessica Kerr](https://blog.codeship.com/growing-tech-stack-say-no/) - Growing Your Tech Stack: When to Say No
 * [Heather Knight](https://hackernoon.com/how-to-solve-programmers-block-18363c040656) - What Writers Can Teach Programmers
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
+* [Ask Ubuntu](https://askubuntu.com/questions/45521/how-to-navigate-long-commands-faster) - How to navigate long commands faster?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
