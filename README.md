@@ -804,6 +804,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
 * [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
+* [Fuelly](http://www.fuelly.com/) - Track, Share, and Compare your Vehicle / Understanding your fuel consumption and vehicle's actual costs 
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
