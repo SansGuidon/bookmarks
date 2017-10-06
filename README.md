@@ -733,6 +733,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
 * [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
+* [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1055,6 +1056,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 * [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
 * [MusicIP](http://www.spicefly.com/article.php?page=what-is-musicip) - MusicIP analyses and fingerprints your music library 
+* [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -1288,7 +1290,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - 7 Shortcuts You Will Regret Taking in Life
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
-* [BugMeNot](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
+* [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
 * [Sindre Sorhus/awesome](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
 * [Alexander Bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
