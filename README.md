@@ -1047,6 +1047,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/study/tcpflags/) - How to Remember Your TCP Flags
 * [Working all day](http://workrobot.com/sysadmin/security/tcpdump_expressions.html) - TCPDUMP expressions
 * [Oleg Muravskiy](https://texnoblog.wordpress.com/2010/04/17/using-tcpdump/) - Using tcpdump to see HTTP requests and responses
+* [Steve Howard](http://appcrawler.com/wordpress/2012/08/01/tcpdump-to-see-oracle-errors/) - tcpdump to see Oracle errors
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
