@@ -1670,6 +1670,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christian Zibreg](http://www.idownloadblog.com/2015/09/14/how-to-start-up-mac-from-bootable-media/) - How to start up your Mac from a bootable CD/DVD, USB thumb drive or external storage device
 * [Daniel Miessler](https://danielmiessler.com/blog/8-powerful-features-of-safari-that-few-people-know-about/) - 8 Powerful Features of Safari That Few People Know About
 * [Daniel Miessler](https://danielmiessler.com/blog/first-10-things-new-mac/) - The First 10 Things I Do on a New Mac
+* [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - OS X: Creating Packages from the Command Line - Tutorial and a Makefile - Part I
 
 ### Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
