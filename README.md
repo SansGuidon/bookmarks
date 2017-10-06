@@ -734,6 +734,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 * [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
+* [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1057,6 +1058,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
 * [MusicIP](http://www.spicefly.com/article.php?page=what-is-musicip) - MusicIP analyses and fingerprints your music library 
 * [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
+* [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
