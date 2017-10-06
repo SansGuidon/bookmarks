@@ -164,6 +164,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/GoogleCardboard](https://www.reddit.com/r/GoogleCardboard/) - Google Cardboard VR subreddit 
 * [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
 * [Daniel Miessler](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
+* [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
