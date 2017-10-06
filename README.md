@@ -159,6 +159,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marion PoetzNikolaus FrankeMartin Schreier](https://hbr.org/2014/11/sometimes-the-best-ideas-come-from-outside-your-industry) - Sometimes the Best Ideas Come from Outside Your Industry
 * [Dan Kim](https://m.signalvnoise.com/its-ok-to-be-pragmatic-with-a-little-help-from-the-crazy-ones-461f7773a176) - It’s OK to be pragmatic (with a little help from the “crazy ones”)
 * [/r/GoogleCardboard](https://www.reddit.com/r/GoogleCardboard/) - Google Cardboard VR subreddit 
+* [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -1466,6 +1467,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 * [Plastic SCM](https://www.plasticscm.com/) - Distributed Version Control for big projects. Discovered via [Garry' blog](https://garry.tv/2017/04/29/jenkins/)
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
+* [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
