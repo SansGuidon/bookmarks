@@ -109,6 +109,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Krishnan Subramanian](https://www.cloudave.com/11973/designing-for-failure-some-key-facts/) - Designing For Failure: Some Key Facts
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 * [Principles of Chaos Engineering](http://principlesofchaos.org/) 
+* [Daniel Miessler](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -147,6 +148,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR][IMG] Arguments réthoriques fallacieux 
 * [Jessica Kerr](https://blog.codeship.com/growing-tech-stack-say-no/) - Growing Your Tech Stack: When to Say No
 * [Chris Parnin](http://blog.ninlabs.com/2013/01/programmer-interrupted/) - Programmer Interrupted
+* [Daniel Miessler](https://danielmiessler.com/blog/how-to-build-a-strong-argument/) - How to Build a Strong Argument
+* [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -160,6 +163,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Kim](https://m.signalvnoise.com/its-ok-to-be-pragmatic-with-a-little-help-from-the-crazy-ones-461f7773a176) - It’s OK to be pragmatic (with a little help from the “crazy ones”)
 * [/r/GoogleCardboard](https://www.reddit.com/r/GoogleCardboard/) - Google Cardboard VR subreddit 
 * [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
+* [Daniel Miessler](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -736,6 +740,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 * [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
 * [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
+* [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -809,6 +814,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
 * [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
 * [Fuelly](http://www.fuelly.com/) - Track, Share, and Compare your Vehicle / Understanding your fuel consumption and vehicle's actual costs 
+* [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -850,6 +856,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Who is Hiring?](https://whoishiring.io/) - jobs search engine per location and some other criteria
 * [Gabriel Lewis](https://www.producthunt.com/@gabriel__lewis/collections/hack-your-job-search) - List of tools to hack your job search
 * [College Match Up](https://www.collegematchup.net/features/best-jobs-for-your-personality-type/) - Best Jobs for Your Personality Type
+* [Daniel Miessler](https://danielmiessler.com/blog/thoughts-minimum-wage/) - My Thoughts on the Minimum Wage
+* [Daniel Miessler](https://danielmiessler.com/study/hiring/) - A Hiring Primer
+* [Daniel Miessler](https://danielmiessler.com/blog/the-tiger-hiring-algorithm/) - The Tiger Hiring Algorithm
+* [Daniel Miessler](https://danielmiessler.com/projects/gt-rating-system/) - The GT Rating System
+* [Daniel Miessler](https://danielmiessler.com/blog/the-peter-principle/) - The Peter Principle / Anything that works will be used in progressively more challenging applications until it fails.
+* [Daniel Miessler](https://danielmiessler.com/blog/measuring-quality-culture/) - Measuring the Quality of a Culture
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -864,6 +876,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 * [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing »
+* [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer
 
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
@@ -999,6 +1012,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
 * [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
 * [Media Temple](https://mediatemple.net/community/products/dv/204644740/using-ssh-keys-on-your-server) - Using SSH keys on your server 
+* [Daniel Miessler](https://danielmiessler.com/study/lsof/) - An lsof Primer
+* [Daniel Miessler](https://danielmiessler.com/study/grep/) - A grep Tutorial and Primer
+* [Daniel Miessler](https://danielmiessler.com/blog/collection-of-less-commonly-used-unix-commands/) - Collection of Less Commonly Used Commands
+* [Daniel Miessler](https://danielmiessler.com/study/unixlinux_permissions/) - A Unix and Linux Permissions Primer
+* [Daniel Miessler](https://danielmiessler.com/study/iptables/) - An IPTABLES Primer
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1025,6 +1043,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steven Iveson](http://packetpushers.net/masterclass-tcpdump-interpreting-output/) - Masterclass – Tcpdump – Interpreting Output
 * [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
 * [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
+* [Daniel Miessler](https://danielmiessler.com/study/tcpdump/) - A tcpdump Tutorial and Primer with Examples
+* [Daniel Miessler](https://danielmiessler.com/study/tcpflags/) - How to Remember Your TCP Flags
+* [Working all day](http://workrobot.com/sysadmin/security/tcpdump_expressions.html) - TCPDUMP expressions
+* [Oleg Muravskiy](https://texnoblog.wordpress.com/2010/04/17/using-tcpdump/) - Using tcpdump to see HTTP requests and responses
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
@@ -1040,6 +1062,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/chapters/17.html) - Status Lines
 * [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
 * [VimAwesome](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
+* [Daniel Miessler](https://danielmiessler.com/study/vim/) - A vim Tutorial and Primer
+* [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
 
 # Manga
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
@@ -1066,11 +1090,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # News
 * [Y Combinator](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
-* [Wayne Larsen](https://hckrnews.com/) - HCKR News : unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
+* [HCKR News](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
-* [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the hacker news community's favorite content
+* [HNfavorites](http://www.hnfavorites.com/) - HNfavorites – Explore the hacker news community's favorite content
 * [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
-* [Joshua Stein](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
+* [Lobsters](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 * [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
@@ -1079,6 +1103,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
 * [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
 * [Trendsmap](https://www.trendsmap.com/) - shows you the latest trends from Twitter, for anywhere in the world. 
+* [Daniel Miessler](https://danielmiessler.com/blog/) - a very interesting blog about InfoSec, technology and humans
 
 # Operations / IT OPS
 * [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
@@ -1169,6 +1194,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
 * [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
 * [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
+* [Daniel Miessler](https://danielmiessler.com/blog/security-how-to-monitor-your-network-connections/) - Security: How To Monitor Your Network Connections
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
@@ -1185,6 +1211,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Philosophy
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
 * [Real News](http://www.realnews24.com/socrates-was-one-of-the-smartest-people-who-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read/) - some Socrates quotes worth the reading
+* [Daniel Miessler](https://danielmiessler.com/blog/is-it-wrong-to-have-children/) - Is It Wrong to Have Children? 
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -1284,6 +1311,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR][IMG] Arguments réthoriques fallacieux 
 * [James Clear](http://jamesclear.com/ivy-lee) - The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity
 * [Stack Exchange](https://productivity.stackexchange.com/) - Personal Productivity Stack Exchange
+* [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips 
+* [Daniel Miessler](https://danielmiessler.com/blog/high-productivity/) - The Secret to High Productivity
+* [Daniel Miessler](https://danielmiessler.com/blog/on-giving-advice-to-friends/) - On Giving Advice to Friends
+* [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
@@ -1291,6 +1322,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
 * [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - 7 Shortcuts You Will Regret Taking in Life
+* [Daniel Miessler](https://danielmiessler.com/blog/how-to-decide-who-to-friend-on-facebook-linkedin-and-twitter/) - How To Decide Who To Friend on Facebook, LinkedIn, and Twitter
+* [Daniel Miessler](https://danielmiessler.com/projects/concepts/) - Lot of concepts summarized by Daniel Miessler
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
@@ -1322,6 +1355,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [dswd/zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution 
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
+* [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -1633,6 +1667,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Apple](https://developer.apple.com/downloads/index.action) - Downloads for Apple Developers / useful to find old tools / OS versions
 * [Vinod Yalburgi](http://www.ibtimes.co.uk/how-install-os-x-yosemite-new-partition-dual-boot-mavericks-1451812) - How to Install OS X Yosemite on New Partition and Dual-Boot with Mavericks
 * [Christian Zibreg](http://www.idownloadblog.com/2015/09/14/how-to-start-up-mac-from-bootable-media/) - How to start up your Mac from a bootable CD/DVD, USB thumb drive or external storage device
+* [Daniel Miessler](https://danielmiessler.com/blog/8-powerful-features-of-safari-that-few-people-know-about/) - 8 Powerful Features of Safari That Few People Know About
+* [Daniel Miessler](https://danielmiessler.com/blog/first-10-things-new-mac/) - The First 10 Things I Do on a New Mac
 
 ### Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
@@ -1695,6 +1731,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
 * [Ask Ubuntu](https://askubuntu.com/questions/45521/how-to-navigate-long-commands-faster) - How to navigate long commands faster?
 * [Whitson Gordon](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts) - Become a Command Line Ninja With These Time-Saving Shortcuts
+* [Daniel Miessler](https://danielmiessler.com/study/tmux/) - A tmux Primer
+* [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
+* [Daniel Miessler](https://danielmiessler.com/blog/connect-local-port-remote-ssh-server/) - How to Connect to a Local Port on a Remote SSH Server
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -1864,6 +1903,7 @@ Raw
 * [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 * [Ask Ubuntu](https://askubuntu.com/questions/45521/how-to-navigate-long-commands-faster) - How to navigate long commands faster?
 * [Whitson Gordon](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts) - Become a Command Line Ninja With These Time-Saving Shortcuts
+* [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -1947,6 +1987,18 @@ Raw
 * [Walter Goulet](http://blog.securism.com/2009/01/summarizing-pki-certificate-validation/) - Summarizing PKI certificate validation
 * [Walter Goulet](http://blog.securism.com/2013/02/using-a-hsm-doesnt-automatically-make-you-more-secure/) - Using a HSM doesn't automatically make you more 'secure'
 * [Stack Exchange](https://security.stackexchange.com/) - Information Security Stack Exchange
+* [Daniel Miessler](https://danielmiessler.com/blog/security-how-to-monitor-your-network-connections/) - Security: How To Monitor Your Network Connections
+* [Daniel Miessler](https://danielmiessler.com/projects/webappsec_testing_resources/) - Web Application Security Testing Resources
+* [Daniel Miessler](https://danielmiessler.com/blog/professional-firewall-iptables/) - Building a Professional Firewall with Linux and Iptables
+* [Daniel Miessler](https://danielmiessler.com/blog/putting-ssh-another-port-good-idea/) - Why Putting SSH On Another Port is a Good Idea
+* [Daniel Miessler](https://danielmiessler.com/blog/security-and-obscurity-does-changing-your-ssh-port-lower-your-risk/) - Security and Obscurity: Does Changing Your SSH Port Lower Your Risk
+* [Daniel Miessler](https://danielmiessler.com/study/security-by-obscurity/) - Obscurity is a Valid Security Layer
+* [Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/) - Information Security Interview Questions
+* [Daniel Miessler](https://danielmiessler.com/blog/10-essential-firefox-plugins-for-the-infosec-professional/) - 10 Essential Firefox Plugins for the Infosec Professional
+* [Daniel Miessler](https://danielmiessler.com/study/infosecconcepts/) - Information Security Concepts
+* [Daniel Miessler](https://danielmiessler.com/study/information-security-metrics/) - An Information Security Metrics Primer
+* [Daniel Miessler](https://danielmiessler.com/study/security-assessment-types/) - Information Security Assessment Types
+* [Daniel Miessler](https://danielmiessler.com/study/multi-dimensional-vulnerability-hierarchies/) - Multi-dimensional Vulnerability Hierarchies
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -2007,6 +2059,9 @@ Raw
 * [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger - Block third party tracking in your browser
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
 * [chrome notifications settings](chrome://settings/content/notifications) open `chrome://settings/content/notifications` in Chrome to manage notifications exceptions 
+* [Daniel Miessler](https://danielmiessler.com/study/http/) - A Security-focused HTTP Primer
+* [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
+* [Daniel Miessler](https://danielmiessler.com/blog/the-connected-web-why-its-time-for-strong-authentication/) - The Connected Web: Why It’s Time For Strong Authentication
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
@@ -2032,6 +2087,7 @@ Raw
 * [metacloud/molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles. 
 * [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
+* [Daniel Miessler](https://danielmiessler.com/projects/webappsec_testing_resources/) - Web Application Security Testing Resources
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
@@ -2070,6 +2126,11 @@ Raw
 * [Christian Haschek](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html) - How to defend your website with ZIP bombs
 * [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
+* [Daniel Miessler](https://danielmiessler.com/study/url-uri/) - The Difference Between URLs and URIs
+* [Daniel Miessler](https://danielmiessler.com/study/dns/) - A DNS Primer
+* [Daniel Miessler](https://danielmiessler.com/study/encoding/) - An Encoding Primer
+* [Daniel Miessler](https://danielmiessler.com/study/http/) - A Security-focused HTTP Primer
+* [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
