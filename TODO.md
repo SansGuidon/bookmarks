@@ -2,15 +2,7 @@
 ___
 > currently working on
 * [ ] Highlight favorite sites & news sites in each section because everything seems equally important now
-* [x] Add links from inbox (by gmail)
-* [x] Add onetab links / bookmarks from other computers
-  * [x] work computer
-  * [x] personal portable (windows)
-  * [x] personal portable (linux)
-  * [x] personal desktop
-* [x] Add links from IM hipchat
-* [x] Add links from IM slack
-* [x] Add links from chrome history (using [historyStats](https://chrome.google.com/webstore/detail/historystats/ffnaaljjakfkhpjjgfmjhcgamcoflinm/related) chrome extension)
+(https://chrome.google.com/webstore/detail/historystats/ffnaaljjakfkhpjjgfmjhcgamcoflinm/related) chrome extension)
 * [ ] Add [saved links from reddit](https://www.reddit.com/user/MorganGeek/saved/)
 * [ ] Add [favorites](https://stackexchange.com/users/2315914/morgangeek?tab=favorites) from stack exchange communities
 ___
@@ -35,3 +27,14 @@ ___
 * [ ] Add links from linkedin ? 
 * [ ] Add favorites searches (twitter, inbox, github, google ...)
 * [ ] Add stars from FreshRSS
+___
+> done
+* [x] Add links from inbox (by gmail)
+* [x] Add onetab links / bookmarks from other computers
+  * [x] work computer
+  * [x] personal portable (windows)
+  * [x] personal portable (linux)
+  * [x] personal desktop
+* [x] Add links from IM hipchat
+* [x] Add links from IM slack
+* [x] Add links from chrome history (using [historyStats]
