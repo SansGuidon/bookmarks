@@ -264,6 +264,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 * [ciandcd/awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - list of resources about Continuous Integration and Continuous Delivery 
 * [Pascal Welsch](https://medium.com/@passsy/use-different-build-numbers-for-every-build-automatically-using-a-gradle-script-35577cd31b19) - Use different build numbers for every build — automatically using a gradle script
+* [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -566,6 +567,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Maxfield Stewart](https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial) - Tutorial: Building With Jenkins Inside an Ephemeral Docker Container
 * [Jenkins JIRA](https://issues.jenkins-ci.org/issues/?jql=component%20%3D%20pipeline%20) - tickets realted to jenkins pipeline component 
 * [Jenkins Docs](https://jenkins.io/doc/book/architecting-for-scale/) - Architecting for Scale
+* [Justin Young](Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines) - Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -590,6 +592,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Nexus
 * [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
 * [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-3-docker-images/) - Using Nexus 3 as Your Repository - Part 3: Docker Images
+* [Tim OBrien](http://blog.sonatype.com/2010/04/nexus-tip-moving-artifacts-between-nexus-repositories/) - (2010) Nexus Tip: Moving Artifacts Between Nexus Repositories
+* [Curtis Yanko](http://blog.sonatype.com/nexus-in-openshift) - Nexus in Openshift
+* [Nexus Blog](http://blog.sonatype.com/) - latest news from the makers of Nexus
+* [Michael Prescott](http://blog.sonatype.com/nexus-repository-new-beta-rest-api-for-content) - Nexus Repository: New Beta REST API for Content
+* [Michael Prescott](http://blog.sonatype.com/nexus-repository-manager-3.5) - Nexus Repository Manager 3.5: Yum Proxy Support Now Available
+* [Justin Young](Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines) - Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
 
 ## OpenShift
 * [OpenShift Docs](https://ci.openshift.redhat.com/openshift-docs-master-testing/latest/welcome/index.html) - OpenShift Latest Documentation
@@ -628,6 +636,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenShift Docs](https://docs.openshift.org/latest/using_images/other_images/jenkins.html) - Using Jenkins Images in OpenShift
 * [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/build_strategies.html) - Build Strategy Options in OpenShift
 * [OpenShift Origin](https://github.com/openshift/origin/tree/master/examples) - OpenShift Origin examples on GitHub
+* [Curtis Yanko](http://blog.sonatype.com/nexus-in-openshift) - Nexus in Openshift
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -1159,6 +1168,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
 * [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
 * [Sysadmin Casts](https://sysadmincasts.com/) - Good resources for sysadmin / ops / devops
+* [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
