@@ -455,6 +455,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lachlan Evenson](https://medium.com/@LachlanEvenson/5-minutes-dabbling-with-docker-distributed-application-bundles-dab-60f2dca3829) - 5 minutes dabbling with Docker Distributed Application Bundles (DAB)
 * [Janakiram MSV](https://thenewstack.io/dockers-plan-dominate-enterprise-data-center/) - DockerCon 2016: Docker’s Plan to Dominate the Enterprise Data Center
 * [Josh Reichardt](https://thepracticalsysadmin.com/lint-your-dockerfiles-with-hadolint/) - Lint your Dockerfiles with Hadolint
+* [Jorge Morales Pou](http://unpoucode.blogspot.be/2015/06/docker-and-devicemappers-thinpool-in.html) - ...Docker and devicemapper's thinpool in RHEL 7
+* [Jorge Morales Pou](http://unpoucode.blogspot.be/2014/11/use-proxy-for-speeding-up-docker-images.html) - ...use a Proxy for speeding up docker images creation
+* [Jérôme Petazzoni](http://jpetazzo.github.io/2014/06/17/transparent-squid-proxy-docker/) - Setting up a transparent proxy for your Docker containers
+* [estesp/mquery](https://github.com/estesp/mquery) - mquery shows the list of architectures supported by a specific docker image. via [Dieter Reuter](https://twitter.com/Quintus23M/status/911965353806323712)
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
