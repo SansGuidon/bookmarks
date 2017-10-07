@@ -219,7 +219,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Martin Rusev](https://www.amon.cx/blog/saltstack-review/) - SaltStack - Review and how it fares against Ansible and Puppet?
 * [Josh Dreyfuss](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/) - Deployment Management Tools: Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric
 * [Engin Yöyen ](http://enginyoyen.com/service-discovery-choosing-the-right-tool/) - Service Discovery : Choosing the Right Tool
-* [Viktor Farcic](https://technologyconversations.com/2017/03/06/the-ten-commandments-of-continuous-delivery/) - The Ten Commandments Of Continuous Delivery. **Bonus from Jenkins World 2017** : [video](https://www.youtube.com/watch?v=mW_gkQnF4eU) & [my notes](cd/viktor_farcic_on_continuous_delivery.md)
+* [**Viktor Farcic**](https://technologyconversations.com/2017/03/06/the-ten-commandments-of-continuous-delivery/) - The Ten Commandments Of Continuous Delivery. **Bonus from Jenkins World 2017** : [video](https://www.youtube.com/watch?v=mW_gkQnF4eU) & [my notes](cd/viktor_farcic_on_continuous_delivery.md)
 * [Pushkar Singh](https://theagilecoder.files.wordpress.com/2015/09/devops-maturity-model.png) - [PNG] Devops Maturity Model
 * [DevOpsGuys](https://www.devopsguys.com/2013/02/06/maturing-the-continuous-delivery-pipeline/) - Maturing the Continuous Delivery Pipeline
 * [Tony Bradley](https://devops.com/devops-just-automation/) - DevOps is More Than Just Automation
@@ -927,6 +927,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kimmo Lemetti](http://www.blastwave-comic.com/) - Gone with the blastwave is a post apocalyptic black humorous web comic
 * [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies 
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website 
+* [Malaise TV](https://twitter.com/malaisetele) - [FR] Twitter account showing awkwardness in TV shows 
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -2154,6 +2155,7 @@ Raw
 * [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
 * [Daniel Miessler](https://danielmiessler.com/projects/webappsec_testing_resources/) - Web Application Security Testing Resources
+* [Rusty Harold](https://www.youtube.com/watch?v=cjxXv0eifhY) - [Video] Testing Legacy Code Elliotte
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
