@@ -454,6 +454,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jérôme Petazzoni](https://fr.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon) - Anatomy of a Container: Namespaces, cgroups & Some Filesystem Magic - LinuxCon
 * [Lachlan Evenson](https://medium.com/@LachlanEvenson/5-minutes-dabbling-with-docker-distributed-application-bundles-dab-60f2dca3829) - 5 minutes dabbling with Docker Distributed Application Bundles (DAB)
 * [Janakiram MSV](https://thenewstack.io/dockers-plan-dominate-enterprise-data-center/) - DockerCon 2016: Docker’s Plan to Dominate the Enterprise Data Center
+* [Josh Reichardt](https://thepracticalsysadmin.com/lint-your-dockerfiles-with-hadolint/) - Lint your Dockerfiles with Hadolint
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1019,6 +1020,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/collection-of-less-commonly-used-unix-commands/) - Collection of Less Commonly Used Commands
 * [Daniel Miessler](https://danielmiessler.com/study/unixlinux_permissions/) - A Unix and Linux Permissions Primer
 * [Daniel Miessler](https://danielmiessler.com/study/iptables/) - An IPTABLES Primer
+* [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
+* [Josh Reichardt](https://thepracticalsysadmin.com/7-useful-but-hard-to-remember-linux-commands/) - 7 useful but hard to remember Linux commands
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1067,6 +1070,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [VimAwesome](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
 * [Daniel Miessler](https://danielmiessler.com/study/vim/) - A vim Tutorial and Primer
 * [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
+* [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used in Vim through [ALE](https://github.com/w0rp/ale), [Neomake](https://github.com/neomake/neomake), or [Syntastic](https://github.com/vim-syntastic/syntastic)
+* [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - The NERDTree is a file system explorer for the Vim editor.
+* [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.  
+* [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
+* [Josh Reichardt](https://thepracticalsysadmin.com/useful-vim-plugins/) - Useful Vim Plugins
 
 # Manga
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
@@ -1478,6 +1486,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Google](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
 * [Google](https://google.github.io/styleguide/) - Google Style Guides
 * [sharipov-ru/all-coding-style-guides](https://github.com/sharipov-ru/all-coding-style-guides) - (2015) All coding style guides in one right place
+* [Josh Reichardt](https://thepracticalsysadmin.com/lint-your-dockerfiles-with-hadolint/) - Lint your Dockerfiles with Hadolint
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -1853,7 +1862,7 @@ Raw
 * [Commandline Challenge](https://cmdchallenge.com/) - Linux Shell challenges
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
 * [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make
-* [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck)
+* [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
 * [Nicola Paolucci](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/) - Ten tips for wonderful bash productivity
 * [blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) - Mastering Bash and Terminal
 * [kvz.io](http://kvz.io/blog/2013/11/21/bash-best-practices/) - Best Practices for Writing Bash Scripts
@@ -1908,6 +1917,7 @@ Raw
 * [Ask Ubuntu](https://askubuntu.com/questions/45521/how-to-navigate-long-commands-faster) - How to navigate long commands faster?
 * [Whitson Gordon](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts) - Become a Command Line Ninja With These Time-Saving Shortcuts
 * [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
+* [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -2171,6 +2181,7 @@ Raw
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/running-ansible-within-windows) - (2014) Running Ansible within Windows
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
 * [Jason Stewart](https://eggplant.pro/blog/faster-samba-smb-cifs-share-performance/) - Faster Samba (SMB / CIFS) Share Performance
+* [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
