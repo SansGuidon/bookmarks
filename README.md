@@ -190,6 +190,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 * [Cinesift](https://www.cinesift.com/) - 'Cinesift' Sorts Ratings and Streaming Services to Help Users Pick Films. **Bonus** : [Presentation of Cinesift by Trend Hunter](https://www.trendhunter.com/trends/film-database)
+* [Graph TV](http://graphtv.kevinformatics.com/) - Graph Ratings of Your Favorite TV Shows / Visualize IMDb ratings and trends of TV shows by episode.
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -198,6 +199,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
 * [Jeroen Janssens](http://datascienceatthecommandline.com/) - Data Science at the Command Line
 * [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/lastfm) - The Last.fm Dataset
+* [Graph TV](http://graphtv.kevinformatics.com/) - Graph Ratings of Your Favorite TV Shows / Visualize IMDb ratings and trends of TV shows by episode.
 
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
