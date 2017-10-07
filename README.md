@@ -1533,6 +1533,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
 * [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md) - curated list of awesome MySQL software, libraries and resources
+* [Brian Peasland](http://www.peasland.net/2016/10/19/slash-or-no-slash/) - Slash or no Slash in SQL scripts ?
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
