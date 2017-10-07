@@ -155,6 +155,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sam Knuth](https://opensource.com/open-organization/17/9/exercise-in-transparent-decisions) - A 3-step process for making more transparent decisions
 * [Lauri Apple](https://opensource.com/open-organization/17/10/readme-maturity-model) - Your step-by-step guide to more effective documentation
 * [Chastity Blackwell](https://opensource.com/article/17/10/7-deadly-sins-documentation) - 7 deadly sins of documentation
+* [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -1260,6 +1261,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
 * [Real News](http://www.realnews24.com/socrates-was-one-of-the-smartest-people-who-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read/) - some Socrates quotes worth the reading
 * [Daniel Miessler](https://danielmiessler.com/blog/is-it-wrong-to-have-children/) - Is It Wrong to Have Children? 
+* [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -1643,6 +1645,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sönke Sothmann](https://blog.oio.de/2013/05/08/how-to-rollback-changes-with-git/) - How to rollback changes with Git 
 * [Atlassian Docs](https://www.atlassian.com/git/tutorials/undoing-changes) - Tutorials : Undoing Changes with git checkout / revert / reset / clean
 * [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - JIRA ID in Git Commit Messages
+* [Delicious Insights](https://delicious-insights.com/fr/articles/git-subtrees/) - [FR] Comprendre et maîtriser les subtrees Git
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1825,6 +1828,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Classic Programmer Paintings](http://classicprogrammerpaintings.com/) - funny tumblr about software engineering as depicted by artists through history
 * [Access Main Computer File](http://accessmaincomputerfile.net/) - a Visual Study of computer GUI in cinema
 * [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
+* [Fast Good Cheap](http://fastgood.cheap/) - pick any two ...
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
