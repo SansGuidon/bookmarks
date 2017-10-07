@@ -584,6 +584,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins Docs](https://jenkins.io/doc/book/architecting-for-scale/) - Architecting for Scale
 * [Justin Young](http://blog.sonatype.com/shift-security-practices-left-new-nexus-plugin-for-jenkins-pipelines-1) - Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
 * [Maksym Grebenets](http://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node) - Jenkins Remote Node on Mac OS X
+* [Anthony Panozzo](http://www.panozzaj.com/blog/2014/05/02/replace-local-cron-with-jenkins/) - Replace Local Cron With Jenkins
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
