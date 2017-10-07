@@ -30,6 +30,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Event discovery](#event-discovery)
 * [Free online tools](#free-online-tools)
 * [Gaming](#gaming)
+  * [Role-playing](#role-playing)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
   * [Remote jobs](#remote-jobs)
 * [Hobbies](#hobbies)
@@ -150,6 +151,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chris Parnin](http://blog.ninlabs.com/2013/01/programmer-interrupted/) - Programmer Interrupted
 * [Daniel Miessler](https://danielmiessler.com/blog/how-to-build-a-strong-argument/) - How to Build a Strong Argument
 * [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
+* [Ingrid Towey](https://opensource.com/open-organization/17/9/culture-building-onboarding-buddies) - Growing your team's open culture, one buddy at a time
+* [Sam Knuth](https://opensource.com/open-organization/17/9/exercise-in-transparent-decisions) - A 3-step process for making more transparent decisions
+* [Lauri Apple](https://opensource.com/open-organization/17/10/readme-maturity-model) - Your step-by-step guide to more effective documentation
+* [Chastity Blackwell](https://opensource.com/article/17/10/7-deadly-sins-documentation) - 7 deadly sins of documentation
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -265,6 +270,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ciandcd/awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - list of resources about Continuous Integration and Continuous Delivery 
 * [Pascal Welsch](https://medium.com/@passsy/use-different-build-numbers-for-every-build-automatically-using-a-gradle-script-35577cd31b19) - Use different build numbers for every build — automatically using a gradle script
 * [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
+* [E.G. Nadhan](https://enterprisersproject.com/article/2017/5/9-key-phrases-devops) - 9 key phrases of DevOps
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -460,6 +466,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jorge Morales Pou](http://unpoucode.blogspot.be/2014/11/use-proxy-for-speeding-up-docker-images.html) - ...use a Proxy for speeding up docker images creation
 * [Jérôme Petazzoni](http://jpetazzo.github.io/2014/06/17/transparent-squid-proxy-docker/) - Setting up a transparent proxy for your Docker containers
 * [estesp/mquery](https://github.com/estesp/mquery) - mquery shows the list of architectures supported by a specific docker image. via [Dieter Reuter](https://twitter.com/Quintus23M/status/911965353806323712)
+* [Scott McCarty](http://rhelblog.redhat.com/2016/10/31/understanding-docker-latest-package/) - Container Tidbits: Understanding the docker-latest Package
+* [Dan Walsh](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/) - Secure Your Containers with this One Weird Trick
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -637,6 +645,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/build_strategies.html) - Build Strategy Options in OpenShift
 * [OpenShift Origin](https://github.com/openshift/origin/tree/master/examples) - OpenShift Origin examples on GitHub
 * [Curtis Yanko](http://blog.sonatype.com/nexus-in-openshift) - Nexus in Openshift
+* [Christoph Görn](http://rhelblog.redhat.com/2016/10/03/peace-in-our-time/) - Peace in Our Time: Bringing Ops and Dev Together
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -846,6 +855,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
 * [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday 
 
+## Role-playing
+* [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
+
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
 * [Simple Programmer](https://simpleprogrammer.com/2016/01/06/stop-improving-yourself/) - Stop Improving Yourself
@@ -923,6 +935,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Linux / Unix
 * [/r/linux](https://www.reddit.com/r/linux/) - discussions & news about linux on reddit
 * [**nixCraft**](https://www.cyberciti.biz/) - linux tips, hacks, tutorials and ideas
+* [Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/) - latest information on Red Hat's IT infrastructure products, offerings, and solutions
+* [Opensource.com](https://opensource.com/) - stories about creating, adopting, and sharing open source solutions
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
@@ -1035,6 +1049,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/study/iptables/) - An IPTABLES Primer
 * [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
 * [Josh Reichardt](https://thepracticalsysadmin.com/7-useful-but-hard-to-remember-linux-commands/) - 7 useful but hard to remember Linux commands
+* [Daniel J Walsh](https://opensource.com/business/13/11/selinux-policy-guide) - Your visual how-to guide for SELinux policy enforcement
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1066,6 +1081,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Working all day](http://workrobot.com/sysadmin/security/tcpdump_expressions.html) - TCPDUMP expressions
 * [Oleg Muravskiy](https://texnoblog.wordpress.com/2010/04/17/using-tcpdump/) - Using tcpdump to see HTTP requests and responses
 * [Steve Howard](http://appcrawler.com/wordpress/2012/08/01/tcpdump-to-see-oracle-errors/) - tcpdump to see Oracle errors
+* [SystemRescueCd](http://www.system-rescue-cd.org/) - a Linux system rescue disk available as a bootable CD-ROM or USB stick for fixing your system and data after a crash.
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
@@ -1169,6 +1185,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
 * [Sysadmin Casts](https://sysadmincasts.com/) - Good resources for sysadmin / ops / devops
 * [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
+* [Charity Majors](https://opensource.com/article/17/7/state-systems-administration) - Ops: It's everyone's job now
+* [Paul English](https://opensource.com/article/17/7/truth-about-sysadmins) - The truth about sysadmins
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1454,6 +1472,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Redbubble](https://www.redbubble.com/fr/shop/sysadmin+stickers) - Sysadmin stickers
 * [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 * [Raphael Brugier](http://blog.ippon.tech/5-laws-every-developer-should-know/) - 5 laws every developer should know
+* [Anni Bond](https://opensource.com/article/17/9/adopting-minimalism-your-docs) - Adopting minimalism in your docs
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1660,6 +1679,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [findJAR](http://findjar.com/index.x) - a JAR search engine to help developers finding JAR libraries containing specific Java classes.
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
 * [Google](https://google.github.io/styleguide/javaguide.html) - Google Java Style Guide
+* [oci-pronghorn/GreenLightning](https://github.com/oci-pronghorn/GreenLightning) - Small Java HTTP/s server many times faster than Netty or NGINX
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
@@ -1697,6 +1717,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/8-powerful-features-of-safari-that-few-people-know-about/) - 8 Powerful Features of Safari That Few People Know About
 * [Daniel Miessler](https://danielmiessler.com/blog/first-10-things-new-mac/) - The First 10 Things I Do on a New Mac
 * [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - OS X: Creating Packages from the Command Line - Tutorial and a Makefile - Part I
+* [Lucas Hall](https://opensource.com/article/17/5/8-open-source-tools-managing-macos) - 8 open source tools for managing macOS
 
 ### Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
@@ -1765,7 +1786,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
-* [Geek&Poke](http://geek-and-poke.com/) - cartoons
+* [**Geek&Poke**](http://geek-and-poke.com/) - cartoons
 * [The Profound Programmer](http://theprofoundprogrammer.com/) - Programming frustrations expressed through profane, beautiful photographs
 * [Programming excuses](http://programmingexcuses.com/) - Excuses for lazy coders
 * [Developer excuses](http://developerexcuses.com/) - Excuses for lazy coders
@@ -2028,6 +2049,8 @@ Raw
 * [Daniel Miessler](https://danielmiessler.com/study/information-security-metrics/) - An Information Security Metrics Primer
 * [Daniel Miessler](https://danielmiessler.com/study/security-assessment-types/) - Information Security Assessment Types
 * [Daniel Miessler](https://danielmiessler.com/study/multi-dimensional-vulnerability-hierarchies/) - Multi-dimensional Vulnerability Hierarchies
+* [Dan Walsh](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/) - Secure Your Containers with this One Weird Trick
+* [Daniel J Walsh](https://opensource.com/business/13/11/selinux-policy-guide) - Your visual how-to guide for SELinux policy enforcement
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
