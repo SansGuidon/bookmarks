@@ -1140,7 +1140,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - OS X: Creating Packages from the Command Line - Tutorial and a Makefile - Part I
 * [Lucas Hall](https://opensource.com/article/17/5/8-open-source-tools-managing-macos) - 8 open source tools for managing macOS
 * [Maksym Grebenets](http://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node) - Jenkins Remote Node on Mac OS X
-* [Praval Singh](http://praval.com/2015/10/your-mac-is-probably-eating-your-internet-bandwidth-look-for-nsurlsessiond/) - Your Mac is probably eating your Internet bandwidth (and you don’t know about it!)
+* [Praval Singh](http://praval.com/2015/10/your-mac-is-probably-eating-your-internet-bandwidth-look-for-nsurlsessiond/) - Your Mac is probably eating your Internet bandwidth (and you don’t know about it!). **Bonus** : other links on the subject : [1](https://paulromer.net/iot-nsurlsessiond-and-trust/)[2](https://ayteck.blogspot.be/2015/09/limited-bandwidth-apple-and-hell-caused.html)[3](https://discussions.apple.com/thread/6605949?tstart=0)[4](https://theblogmatic.wordpress.com/2015/11/26/solution-nsurlsessiond-taking-up-bandwidth-and-downloading-data-mac/)
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
