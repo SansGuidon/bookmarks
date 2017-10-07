@@ -8,11 +8,11 @@ ___
   * [x] personal portable (windows)
   * [x] personal portable (linux)
   * [x] personal desktop
-* [ ] Add links from IM hipchat
+* [x] Add links from IM hipchat
+* [ ] Add links from IM slack
 * [ ] Add links from chrome history (using [historyStats](https://chrome.google.com/webstore/detail/historystats/ffnaaljjakfkhpjjgfmjhcgamcoflinm/related) chrome extension)
 ___
 > foreseen 
-* [ ] Add links from IM slack
 * [ ] Add links from IM fb
 * [ ] Add [tweets](https://twitter.com/MorganGeek) and [bookmarks](https://twitter.com/MorganGeek/likes) from twitter
 * [ ] Add [stars from github](https://github.com/MorganGeek?tab=stars)
