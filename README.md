@@ -575,7 +575,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Maxfield Stewart](https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial) - Tutorial: Building With Jenkins Inside an Ephemeral Docker Container
 * [Jenkins JIRA](https://issues.jenkins-ci.org/issues/?jql=component%20%3D%20pipeline%20) - tickets realted to jenkins pipeline component 
 * [Jenkins Docs](https://jenkins.io/doc/book/architecting-for-scale/) - Architecting for Scale
-* [Justin Young](Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines) - Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
+* [Justin Young](http://blog.sonatype.com/shift-security-practices-left-new-nexus-plugin-for-jenkins-pipelines-1) - Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
