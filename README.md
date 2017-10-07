@@ -344,6 +344,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
 * [jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
 * [ansible-console](https://docs.ansible.com/ansible/latest/ansible-console.html) - a REPL that allows for running ad-hoc tasks against a chosen inventory (based [dominis/ansible-shell](https://github.com/dominis/ansible-shell))
+* [Cliffano Subagio](http://blog.cliffano.com/2014/04/06/human-readable-ansible-playbook-log-output-using-callback-plugin/) - Human-Readable Ansible Playbook Log Output Using Callback Plugin
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -576,6 +577,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins JIRA](https://issues.jenkins-ci.org/issues/?jql=component%20%3D%20pipeline%20) - tickets realted to jenkins pipeline component 
 * [Jenkins Docs](https://jenkins.io/doc/book/architecting-for-scale/) - Architecting for Scale
 * [Justin Young](http://blog.sonatype.com/shift-security-practices-left-new-nexus-plugin-for-jenkins-pipelines-1) - Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
+* [Maksym Grebenets](http://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node) - Jenkins Remote Node on Mac OS X
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -1637,6 +1639,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [agis/Git Style Guide](https://github.com/agis/git-style-guide) - inspired by [How to Get Your Change Into the Linux Kernel](https://kernel.org/doc/html/latest/process/submitting-patches.html), the [git man pages](http://git-scm.com/doc) and various practices popular among the community.
 * [Sönke Sothmann](https://blog.oio.de/2013/05/08/how-to-rollback-changes-with-git/) - How to rollback changes with Git 
 * [Atlassian Docs](https://www.atlassian.com/git/tutorials/undoing-changes) - Tutorials : Undoing Changes with git checkout / revert / reset / clean
+* [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - JIRA ID in Git Commit Messages
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1718,6 +1721,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/first-10-things-new-mac/) - The First 10 Things I Do on a New Mac
 * [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - OS X: Creating Packages from the Command Line - Tutorial and a Makefile - Part I
 * [Lucas Hall](https://opensource.com/article/17/5/8-open-source-tools-managing-macos) - 8 open source tools for managing macOS
+* [Maksym Grebenets](http://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node) - Jenkins Remote Node on Mac OS X
 
 ### Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
@@ -1816,6 +1820,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Passive Aggressive Passwords](http://www.trypap.com/) - The Passive Aggressive Password Machine
 * [turnoff.us](http://turnoff.us/) - geek comic site about developers 
 * [Classic Programmer Paintings](http://classicprogrammerpaintings.com/) - funny tumblr about software engineering as depicted by artists through history
+* [Access Main Computer File](http://accessmaincomputerfile.net/) - a Visual Study of computer GUI in cinema
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
