@@ -1093,6 +1093,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Oleg Muravskiy](https://texnoblog.wordpress.com/2010/04/17/using-tcpdump/) - Using tcpdump to see HTTP requests and responses
 * [Steve Howard](http://appcrawler.com/wordpress/2012/08/01/tcpdump-to-see-oracle-errors/) - tcpdump to see Oracle errors
 * [SystemRescueCd](http://www.system-rescue-cd.org/) - a Linux system rescue disk available as a bootable CD-ROM or USB stick for fixing your system and data after a crash.
+* [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
@@ -1574,6 +1575,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
 * [Jaroslav Tulach](http://www.methodsandtools.com/archive/debugger.php) - Use the Debugger. Stupid!
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
+* [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - Debugging - into rabbit hole with docker containers
+* [Aaron Maxwell](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - Use the Unofficial Bash Strict Mode (Unless You Looove Debugging). **Bonus** : [some bash tips when dealing with bash strict mode](https://gist.github.com/Integralist/0fc25edb5d9ceeae74cc)
+* [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
+* [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
+* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Debugging_Business_Rules#gsc.tab=0) - Debugging Business Rules
 
 ## Gamedev
 > News & Communities
