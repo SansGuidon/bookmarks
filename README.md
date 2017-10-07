@@ -1403,6 +1403,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/high-productivity/) - The Secret to High Productivity
 * [Daniel Miessler](https://danielmiessler.com/blog/on-giving-advice-to-friends/) - On Giving Advice to Friends
 * [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
+* [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - How to Actually Publish More Things
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
