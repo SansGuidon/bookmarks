@@ -269,7 +269,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
 * [Hacker News](https://hn.algolia.com/?query=Ansible&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year ansible news
-* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_best_practices.html) - Best Practices
+* [Ansible Docs](http://docs.ansible.com/ansible/latest/playbooks_best_practices.html) - Best Practices
 * [enginyoyen/ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practices of how to use ansible
 * [Timothy Appnel](https://www.ansible.com/blog/ansible-best-practices-essentials) - Ansible Best Practices: The Essentials
 * [Pierre Baillet](http://blog.ippon.tech/ansible-tips-and-tricks/) - 10 Ansible tips and tricks
@@ -1453,6 +1453,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Geshan Manandhar](https://geshan.com.np/blog/2017/06/software-companies-tech-competency-matrix/) - Software Companies Tech Competency Matrix / useful skill matrix for devops, security, database...
 * [Redbubble](https://www.redbubble.com/fr/shop/sysadmin+stickers) - Sysadmin stickers
 * [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
+* [Raphael Brugier](http://blog.ippon.tech/5-laws-every-developer-should-know/) - 5 laws every developer should know
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
