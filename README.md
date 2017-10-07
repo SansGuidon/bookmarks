@@ -1094,6 +1094,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steve Howard](http://appcrawler.com/wordpress/2012/08/01/tcpdump-to-see-oracle-errors/) - tcpdump to see Oracle errors
 * [SystemRescueCd](http://www.system-rescue-cd.org/) - a Linux system rescue disk available as a bootable CD-ROM or USB stick for fixing your system and data after a crash.
 * [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
+* [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
@@ -1564,6 +1565,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Google](https://google.github.io/styleguide/) - Google Style Guides
 * [sharipov-ru/all-coding-style-guides](https://github.com/sharipov-ru/all-coding-style-guides) - (2015) All coding style guides in one right place
 * [Josh Reichardt](https://thepracticalsysadmin.com/lint-your-dockerfiles-with-hadolint/) - Lint your Dockerfiles with Hadolint
+* [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -1580,6 +1582,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
 * [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Debugging_Business_Rules#gsc.tab=0) - Debugging Business Rules
+* [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 
 ## Gamedev
 > News & Communities
