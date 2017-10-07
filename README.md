@@ -272,6 +272,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Pascal Welsch](https://medium.com/@passsy/use-different-build-numbers-for-every-build-automatically-using-a-gradle-script-35577cd31b19) - Use different build numbers for every build — automatically using a gradle script
 * [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
 * [E.G. Nadhan](https://enterprisersproject.com/article/2017/5/9-key-phrases-devops) - 9 key phrases of DevOps
+* [DevelopIntelligence Blog](http://www.developintelligence.com/blog/devops-for-non-technical-people/) - DevOps Simplified for Non-Technical People
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
