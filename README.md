@@ -156,6 +156,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lauri Apple](https://opensource.com/open-organization/17/10/readme-maturity-model) - Your step-by-step guide to more effective documentation
 * [Chastity Blackwell](https://opensource.com/article/17/10/7-deadly-sins-documentation) - 7 deadly sins of documentation
 * [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
+* [Anthony Panozzo](http://www.panozzaj.com/blog/2015/09/01/if-something-is-hard-do-it-more-often/) - If Something Is Hard, Do It More Often
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -1139,6 +1140,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - OS X: Creating Packages from the Command Line - Tutorial and a Makefile - Part I
 * [Lucas Hall](https://opensource.com/article/17/5/8-open-source-tools-managing-macos) - 8 open source tools for managing macOS
 * [Maksym Grebenets](http://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node) - Jenkins Remote Node on Mac OS X
+* [Praval Singh](http://praval.com/2015/10/your-mac-is-probably-eating-your-internet-bandwidth-look-for-nsurlsessiond/) - Your Mac is probably eating your Internet bandwidth (and you don’t know about it!)
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
