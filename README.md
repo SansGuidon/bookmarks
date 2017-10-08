@@ -170,7 +170,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Kim](https://m.signalvnoise.com/its-ok-to-be-pragmatic-with-a-little-help-from-the-crazy-ones-461f7773a176) - It’s OK to be pragmatic (with a little help from the “crazy ones”)
 * [/r/GoogleCardboard](https://www.reddit.com/r/GoogleCardboard/) - Google Cardboard VR subreddit 
 * [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
-* [Daniel Miessler](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
+* [**Daniel Miessler**](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
 * [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
 
 # Culture
@@ -1365,8 +1365,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/the-two-minute-rule) - The Two-Minute Rule / When You’re Buried in Email
 * [Jbrains.ca](http://blog.jbrains.ca/permalink/flow-requires-focus-not-time) - Flow Requires Focus, Not Time
-* [The Minds Journal](https://themindsjournal.com/japanese-technique-overcoming-laziness/) - A Japanese Technique for Overcoming Laziness / Kaizen, Or The One-Minute Principle
-* [Foundr](https://foundrmag.com/analog-methods-for-getting-things-done-superpower-your-productivity-with-pen-and-paper/) - GTD : Superpower Your Productivity With Pen and Paper
+* [**The Minds Journal**](https://themindsjournal.com/japanese-technique-overcoming-laziness/) - A Japanese Technique for Overcoming Laziness / Kaizen, Or The One-Minute Principle
+* [**Foundr**](https://foundrmag.com/analog-methods-for-getting-things-done-superpower-your-productivity-with-pen-and-paper/) - GTD : Superpower Your Productivity With Pen and Paper
 * [Dr. Travis Bradberry](http://www.huffingtonpost.com/dr-travis-bradberry/11-tweaks-to-your-morning_b_8965072.html) - 11 Tweaks to Your Morning Routine 
 * [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - Splitting user stories -- the hamburger method
 * [Jeff Haden](https://www.linkedin.com/pulse/10-steps-make-each-day-incredibly-productive-jeff-haden) - 10 Steps to Make Each Day Exceptionally Productive
