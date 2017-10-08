@@ -1529,6 +1529,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Anni Bond](https://opensource.com/article/17/9/adopting-minimalism-your-docs) - Adopting minimalism in your docs
 * [Joel Grus](http://joelgrus.com/2013/12/24/why-programming-language-x-is-unambiguously-better-than-programming-language-y/) - Why [Programming Language X] Is Unambiguously Better than [Programming Language Y]
 * [Chris Parnin](http://blog.ninlabs.com/2013/12/software-engineering-the-next-50-years/) - (2013) Software Engineering: The Next 50 Years
+* [The Daily WTF](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
+* [Trey Harris](http://www.ibiblio.org/harris/500milemail.html) - The case of the 500-mile email
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1595,6 +1597,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Debugging_Business_Rules#gsc.tab=0) - Debugging Business Rules
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
+* [Trey Harris](http://www.ibiblio.org/harris/500milemail.html) - The case of the 500-mile email
 
 ## Gamedev
 > News & Communities
