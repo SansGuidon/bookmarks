@@ -31,7 +31,10 @@
 * delegate some work to others if you already have lot of work to achieve, so you have more time to work on what matters for you
 * [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
 * [Daniel Miessler](https://danielmiessler.com/projects/concepts/) - Lot of concepts summarized by Daniel Miessler
+
+# from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
+* [MorganGeek](https://twitter.com/MorganGeek/statuses/450614047608934400) - Productivity tip : To find a solution, first eliminate the impossible ones. Astuce : Trouver la solution en éliminant d'abord les non solutions.
 
 # from my Bullet Journal
 ## Values 
