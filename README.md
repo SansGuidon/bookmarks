@@ -905,6 +905,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/measuring-quality-culture/) - Measuring the Quality of a Culture
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
 * [Sanna](https://twitter.com/Nikkitita69/status/407949378251280384/photo/1) - [IMG] What if physical illness was treated the same way mental illness is...?
+* [Gil](http://blog.lesoir.be/hashtag25/2014/01/08/billet-dhumeur-dune-desperate-diplomee/) - (2014) [FR] Billet d'humeur d'une "desperate diplômée" / De la difficulté de trouver un emploi même avec un bon diplôme
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1195,6 +1196,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
 * [Trendsmap](https://www.trendsmap.com/) - shows you the latest trends from Twitter, for anywhere in the world. 
 * [Daniel Miessler](https://danielmiessler.com/blog/) - a very interesting blog about InfoSec, technology and humans
+* [Le blog d'un odieux connard](https://unodieuxconnard.com/) - [FR] caustic news / news satire 
 
 # Operations / IT OPS
 * [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
@@ -1414,6 +1416,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - How to Actually Publish More Things
 * [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
+* [Morgangeek blog](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] La sélection naturelle de contenus
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
@@ -1456,6 +1459,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar) - this Android app let you listen to or read on screen the text from other Android apps, e.g. web pages, news articles, long emails, TXT, PDF, DOC, DOCX, RTF ... useful to do multitasking specialists !!
+* [Morgangeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] FileBot : le couteau suisse du renommage de films et séries
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -1535,6 +1539,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Daily WTF](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
 * [Trey Harris](http://www.ibiblio.org/harris/500milemail.html) - The case of the 500-mile email
 * [Jonathan Callahan](https://dzone.com/articles/best-best-practices-ever) - Best Best Practices Ever (for scientific computing)
+* [openjck/best-practices](https://github.com/openjck/best-practices) - Programming Best Practices Tidbits : A Collection of quotes and paraphrases for developers from around the web. **Bonus** : source repo at [timoxley/best-practices](https://github.com/timoxley/best-practices)
+* [Ed Finkler](https://the-pastry-box-project.net/ed-finkler/2014-january-6) - (2014) How To Be A Great Developer
+* [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1869,6 +1876,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
 * [Fast Good Cheap](http://fastgood.cheap/) - pick any two ...
 * [presquejamais](http://www.cfsl.net/forums/viewtopic.php?f=45&t=25587) - [FR] [STRIPS] Les aventures d'une barre de téléchargement
+* [I Am Devloper](https://twitter.com/iamdevloper/statuses/420870754675478528) - Leave Me Alone Driven Development.
+* [I Am Devloper](https://twitter.com/iamdevloper) - the funniest developer on twitter
+
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_executables/) - Creating Prolog executables
@@ -2178,6 +2188,10 @@ Raw
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
 * [Grise Bouille](https://grisebouille.net/ailleurs-cest-pire/) - [FR] Ailleurs, c’est pire
+* [Topito](https://twitter.com/topito_com/status/420918985870172161/photo/1) - (2014) [FR] [IMG] Plus fort que la pancarte de manif’ : le miroir
+* [Yves Miserey](http://www.lefigaro.fr/environnement/2012/05/25/01029-20120525ARTFIG00710-les-ogm-ont-perdu-la-guerre-contre-les-mauvaises-herbes.php) - (2012) [FR] Les OGM ont perdu la guerre contre les mauvaises herbes
+* [Le blog d'un odieux connard](https://odieuxconnard.files.wordpress.com/2014/01/extrc3aame-final-2.jpg) - (2014) [FR] [IMG] - Les Aventures Magiques de l'Extrême-Droite
+* [Horace Dediu](https://twitter.com/asymco/status/418845332349661184/photo/1) - (2014) [IMG] There are two types of people in the world. // using the Internet vs not using the Internet
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
