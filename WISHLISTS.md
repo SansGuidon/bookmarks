@@ -1,3 +1,6 @@
+## Public wishlists on internet ##
+
+### Books / Movies / TV Shows ###
 * [SensCritique](https://www.senscritique.com/MorganGeek/collection/wish/all/all/all/all/all/all/all/list/page-1) - MorganGeek wishlist
 * [Amazon](https://www.amazon.fr/gp/registry/wishlist/14HF95ODPK8AI/) - Morgan wishlist
 * [Goodreads](https://www.goodreads.com/review/list/17205528?shelf=to-read-x3) - Books x3
@@ -20,3 +23,11 @@
 * [SensCritique](https://www.senscritique.com/liste/Envies_de_gloire_et_de_heros_de_la_baston_quoi/562578) - Dumb action movies  
 * [SensCritique](https://www.senscritique.com/liste/Envies_de_films_de_science_fiction/1041728) - Sci-fi movies  
 * [SensCritique](https://www.senscritique.com/liste/Envies_de_films_a_venger/1552465) - Revenge movies 
+
+### Material misc ###
+
+* wireless high fidelity headphone
+* agenda / bullet journal (or even both combined) for 2018
+* powerful laptop for personal projects
+* ultra wide curved computer monitor
+* kindle / ebook reader
