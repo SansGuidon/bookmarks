@@ -201,6 +201,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeroen Janssens](http://datascienceatthecommandline.com/) - Data Science at the Command Line
 * [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/lastfm) - The Last.fm Dataset
 * [Graph TV](http://graphtv.kevinformatics.com/) - Graph Ratings of Your Favorite TV Shows / Visualize IMDb ratings and trends of TV shows by episode.
+* [Information is Beautiful](http://www.informationisbeautiful.net/) - the world’s data, information and knowledge distilled into beautiful and useful graphs & diagrams.
 
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -1469,7 +1470,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Emiliano Soldi](https://www.linkedin.com/pulse/relentlessly-avoid-technical-debt-emiliano-soldi) - Relentlessly Avoid Technical Debt
 * [Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs) - [Video] The Silver Bullet Syndrome (Devoxx Brussels 2015)
 * [Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) - How to Pick a Good Monitor for Software Development
-* [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know
+* [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know. **Bonus** [alternative link](http://www.tuicool.com/articles/YvIvMj)
 * [Engin Yöyen ](http://enginyoyen.com/improving-problem-solving-skills-for-developers/) - Improving problem-solving skills for developers
 * [James Hood](https://dev.to/jlhcoder/tips-for-new-software-developers) - Tips for New Software Developers
 * [Andrew Wulf](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) - Lessons From A Lifetime Of Being A Programmer
@@ -2156,6 +2157,7 @@ Raw
 * [Daniel Miessler](https://danielmiessler.com/study/http/) - A Security-focused HTTP Primer
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [Daniel Miessler](https://danielmiessler.com/blog/the-connected-web-why-its-time-for-strong-authentication/) - The Connected Web: Why It’s Time For Strong Authentication
+* [Frédéric Kayser](https://openweb.eu.org/articles/https-de-ssl-a-tls-1-3) - (2017) [FR] HTTPS : de SSL à TLS 1.3
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
@@ -2183,6 +2185,7 @@ Raw
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
 * [Daniel Miessler](https://danielmiessler.com/projects/webappsec_testing_resources/) - Web Application Security Testing Resources
 * [Rusty Harold](https://www.youtube.com/watch?v=cjxXv0eifhY) - [Video] Testing Legacy Code Elliotte
+* [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing) - (2013) How the Usability Matrix of Emotions Can Benefit Your Software Testing
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
@@ -2226,6 +2229,10 @@ Raw
 * [Daniel Miessler](https://danielmiessler.com/study/encoding/) - An Encoding Primer
 * [Daniel Miessler](https://danielmiessler.com/study/http/) - A Security-focused HTTP Primer
 * [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
+* [Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - (2011) How Browsers Work: Behind the scenes of modern web browsers
+* [Kevin Marks](https://www.wired.com/2016/10/how-the-web-became-unreadable/) - (2016) How the Web Became Unreadable
+* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document
+* [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Check that your HTML code conforms to your coding standard
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
