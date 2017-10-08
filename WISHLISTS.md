@@ -1,4 +1,4 @@
-## Public wishlists on internet ##
+## My wishlists on internet ##
 
 ### Books / Movies / TV Shows ###
 * [SensCritique](https://www.senscritique.com/MorganGeek/collection/wish/all/all/all/all/all/all/all/list/page-1) - MorganGeek wishlist
