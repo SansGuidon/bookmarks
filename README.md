@@ -1356,6 +1356,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
 * [Reset The Net](https://pack.resetthenet.org/) - Privacy Pack : applications for your phone and computer
 * [Martin Brinkmann](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) - The ultimate Online Privacy Test Resource List
+* [cafai](https://shaarli.cafai.fr/?7WCMIg) - Tor best practices | Privacy in Digital Era 
+* [Le Monde.fr](http://www.lemonde.fr/technologies/article/2013/12/16/nsa-un-juge-americain-estime-la-collecte-de-donnees-contraire-a-la-constitution_4335463_651865.html) - [FR] (2013) NSA : un juge américain estime la collecte de données contraire à la Constitution
 
 # Productivity
 > Tips
@@ -1524,6 +1526,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 * [Raphael Brugier](http://blog.ippon.tech/5-laws-every-developer-should-know/) - 5 laws every developer should know
 * [Anni Bond](https://opensource.com/article/17/9/adopting-minimalism-your-docs) - Adopting minimalism in your docs
+* [Joel Grus](http://joelgrus.com/2013/12/24/why-programming-language-x-is-unambiguously-better-than-programming-language-y/) - Why [Programming Language X] Is Unambiguously Better than [Programming Language Y]
+* [Chris Parnin](http://blog.ninlabs.com/2013/12/software-engineering-the-next-50-years/) - (2013) Software Engineering: The Next 50 Years
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1817,6 +1821,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/study/tmux/) - A tmux Primer
 * [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
 * [Daniel Miessler](https://danielmiessler.com/blog/connect-local-port-remote-ssh-server/) - How to Connect to a Local Port on a Remote SSH Server
+* [Stack Exchange](https://skeptics.stackexchange.com/questions/18539/has-stack-overflow-saved-billions-of-dollars-in-programmer-productivity) - Has Stack Overflow saved billions of dollars in programmer productivity?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -1853,7 +1858,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Access Main Computer File](http://accessmaincomputerfile.net/) - a Visual Study of computer GUI in cinema
 * [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
 * [Fast Good Cheap](http://fastgood.cheap/) - pick any two ...
-
+* [presquejamais](http://www.cfsl.net/forums/viewtopic.php?f=45&t=25587) - [FR] [STRIPS] Les aventures d'une barre de téléchargement
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_executables/) - Creating Prolog executables
@@ -2189,13 +2194,15 @@ Raw
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
-* [Little Big Details](http://littlebigdetails.com/) -  a curated collection of the finer details of design, updated every day. 
+* [Little Big Details](http://littlebigdetails.com/) - a curated collection of the finer details of design, updated every day. 
+* [Christelle Mozzati](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/) - (2013) [FR] Les dark patterns en design d’interface
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
 * [Jon Moore](https://medium.com/ux-power-tools/guilty-pleasures-for-designers-b34f2a3f604a) - Guilty Pleasures for Designers
 * [Christian Beck](https://medium.com/ux-power-tools/terrible-ux-trends-for-2017-de6faebf099e) - Terrible UX Trends for 2017
 * [Kamal Nayan](http://www.uxcuses.com/) - Designer Excuses, based on [Jon Moore' article on medium](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910)
+* [Bored Elon Musk](https://twitter.com/BoredElonMusk/statuses/412994747632857089) - Modern web design explained in a simple Venn Diagram
 
 # Web development
 * [Steve Francia](https://gohugo.io/overview/introduction/) - Hugo is a fast & modern static site generator
@@ -2233,6 +2240,9 @@ Raw
 * [Kevin Marks](https://www.wired.com/2016/10/how-the-web-became-unreadable/) - (2016) How the Web Became Unreadable
 * [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Check that your HTML code conforms to your coding standard
+* [gulpjs/gulp](https://github.com/gulpjs/gulp) - Gulp: The streaming build system
+* [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
+* [Maxime Thirouin](http://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - (2013) [FR] Automatisez votre workflow front-end
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
