@@ -937,6 +937,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies 
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website 
 * [Malaise TV](https://twitter.com/malaisetele) - [FR] Twitter account showing awkwardness in TV shows 
+* [Mattia Quarta](https://twitter.com/squartadoc/status/380805479414239232/photo/1) - How to read a scientific paper.... brilliant
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -1531,6 +1532,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chris Parnin](http://blog.ninlabs.com/2013/12/software-engineering-the-next-50-years/) - (2013) Software Engineering: The Next 50 Years
 * [The Daily WTF](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
 * [Trey Harris](http://www.ibiblio.org/harris/500milemail.html) - The case of the 500-mile email
+* [Jonathan Callahan](https://dzone.com/articles/best-best-practices-ever) - Best Best Practices Ever (for scientific computing)
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2200,6 +2202,7 @@ Raw
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
 * [Little Big Details](http://littlebigdetails.com/) - a curated collection of the finer details of design, updated every day. 
 * [Christelle Mozzati](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/) - (2013) [FR] Les dark patterns en design d’interface
+* [Anthony Tseng](http://uxmovement.com/forms/9-small-user-experience-details-most-websites-miss/) - 9 Small User Experience Details Most Websites Miss
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
