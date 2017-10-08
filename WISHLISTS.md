@@ -23,6 +23,8 @@
 * [SensCritique](https://www.senscritique.com/liste/Envies_de_gloire_et_de_heros_de_la_baston_quoi/562578) - Dumb action movies  
 * [SensCritique](https://www.senscritique.com/liste/Envies_de_films_de_science_fiction/1041728) - Sci-fi movies  
 * [SensCritique](https://www.senscritique.com/liste/Envies_de_films_a_venger/1552465) - Revenge movies 
+* [Anime-Planet](http://www.anime-planet.com/users/MorganGeek/anime/wanttowatch) - Anime list
+* [Anime-Planet](http://www.anime-planet.com/users/MorganGeek/manga/wanttoread) - Manga list
 
 ### Material misc ###
 
