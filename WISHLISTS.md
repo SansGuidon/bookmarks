@@ -25,6 +25,8 @@
 * [SensCritique](https://www.senscritique.com/liste/Envies_de_films_a_venger/1552465) - Revenge movies 
 * [Anime-Planet](http://www.anime-planet.com/users/MorganGeek/anime/wanttowatch) - Anime list
 * [Anime-Planet](http://www.anime-planet.com/users/MorganGeek/manga/wanttoread) - Manga list
+* [RateYourMusic](https://fr.rateyourmusic.com/collection/MorganGeek/stag/to+listen/) - music to listen to
+* [RateYourMusic](https://fr.rateyourmusic.com/collection/MorganGeek/wishlist) - Wishlist (music to buy)
 
 ### Material misc ###
 
