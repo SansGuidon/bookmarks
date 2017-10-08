@@ -872,6 +872,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Linux game database](https://lgdb.org/games)
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
 * [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday 
+* [UnDropDansLaMare](https://www.youtube.com/watch?v=KzvHvc41qpk) - (Video) [FR] Le Paradoxe du Joueur [2 minutes pour convaincre] short analysis of insatisfaction with modern video games / why video games were best before
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -911,6 +912,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
 * [Sanna](https://twitter.com/Nikkitita69/status/407949378251280384/photo/1) - [IMG] What if physical illness was treated the same way mental illness is...?
 * [Gil](http://blog.lesoir.be/hashtag25/2014/01/08/billet-dhumeur-dune-desperate-diplomee/) - (2014) [FR] Billet d'humeur d'une "desperate diplômée" / De la difficulté de trouver un emploi même avec un bon diplôme
+* [Tom Lloyd](https://twitter.com/TomALloyd/status/441601100794585088/photo/1) - A good advice about the CV for Design students
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -945,6 +947,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website 
 * [Malaise TV](https://twitter.com/malaisetele) - [FR] Twitter account showing awkwardness in TV shows 
 * [Mattia Quarta](https://twitter.com/squartadoc/status/380805479414239232/photo/1) - How to read a scientific paper.... brilliant
+* [Philippe Shiu](https://twitter.com/PhilipsShiu/statuses/448760592405241856) - [IMG] math students tip
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -1245,6 +1248,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
 * [Charity Majors](https://opensource.com/article/17/7/state-systems-administration) - Ops: It's everyone's job now
 * [Paul English](https://opensource.com/article/17/7/truth-about-sysadmins) - The truth about sysadmins
+* [plop_plop_sys](http://linuxfr.org/users/plop_plop_sys/journaux/so-you-wanna-be-a-sysadmin-trolldi-inside) - (2014) [FR] - Journal So, you wanna be a sysadmin ? (Trolldi inside)
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1547,6 +1551,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [openjck/best-practices](https://github.com/openjck/best-practices) - Programming Best Practices Tidbits : A Collection of quotes and paraphrases for developers from around the web. **Bonus** : source repo at [timoxley/best-practices](https://github.com/timoxley/best-practices)
 * [Ed Finkler](https://the-pastry-box-project.net/ed-finkler/2014-january-6) - (2014) How To Be A Great Developer
 * [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
+* [Alfred Thompson](http://blog.acthompson.net/2013/07/5-programming-mistakes-to-warn-students.html) - (2013) 5 Programming Mistakes To Warn Students About
+* [John Sonmez](https://simpleprogrammer.com/2013/08/19/software-development-career/) - (2013) 4 Things I Wish I Would Have Known When I Started My Software Development Career
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1884,6 +1890,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [I Am Devloper](https://twitter.com/iamdevloper) - the funniest developer on twitter
 * [I Am Devloper](https://twitter.com/iamdevloper/statuses/420870754675478528) - Leave Me Alone Driven Development.
 * [I Am Devloper](https://twitter.com/iamdevloper/statuses/429307137601576961) - Things to try when fixing a bug: 1. Google 2. Stack Overflow 3. Documentation ... 8277. Disturb your co-worker who has headphones in
+* [Lauris Beinerts](https://www.youtube.com/watch?v=BKorP55Aqvg) - (2014) [Video] The Expert (Short Comedy Sketch) Funny business meeting illustrating how hard it is for an engineer to fit into the corporate world! 
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -2198,6 +2205,7 @@ Raw
 * [Yves Miserey](http://www.lefigaro.fr/environnement/2012/05/25/01029-20120525ARTFIG00710-les-ogm-ont-perdu-la-guerre-contre-les-mauvaises-herbes.php) - (2012) [FR] Les OGM ont perdu la guerre contre les mauvaises herbes
 * [Le blog d'un odieux connard](https://odieuxconnard.files.wordpress.com/2014/01/extrc3aame-final-2.jpg) - (2014) [FR] [IMG] - Les Aventures Magiques de l'Extrême-Droite
 * [Horace Dediu](https://twitter.com/asymco/status/418845332349661184/photo/1) - (2014) [IMG] There are two types of people in the world. // using the Internet vs not using the Internet
+* [Cameron Power](https://twitter.com/cap0w/status/431176293590106112/photo/1) - (2014) [IMG] Wtf is wrong with this dude? What is he looking at? The world?
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
@@ -2228,6 +2236,7 @@ Raw
 * [Little Big Details](http://littlebigdetails.com/) - a curated collection of the finer details of design, updated every day. 
 * [Christelle Mozzati](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/) - (2013) [FR] Les dark patterns en design d’interface
 * [Anthony Tseng](http://uxmovement.com/forms/9-small-user-experience-details-most-websites-miss/) - 9 Small User Experience Details Most Websites Miss
+* [Tom Lloyd](https://twitter.com/TomALloyd/status/441601100794585088/photo/1) - A good advice about the CV for Design students
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
