@@ -7,8 +7,8 @@
 * It doesn't matter who you are, only what you will become
 * If you think good architecture is expensive, try bad architecture
 * Truth can only be found in one place: the code
-* > "Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on." Richard Feynman
-* > "Let's clarify : Jira is not Agile, Open Source is not Free, Using cloud is not DevOps, Rituals is not Scrum, Developed is not Done" Lemi Orhan Ergin. [Source](https://twitter.com/lemiorhan/status/859158123722010628)
-* > "Software being 'Done' is like lawn being 'Mowed'." - Jim Benson
+* Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on. - Richard Feynman
+* Let's clarify : Jira is not Agile, Open Source is not Free, Using cloud is not DevOps, Rituals is not Scrum, Developed is not Done" Lemi Orhan Ergin. [Source](https://twitter.com/lemiorhan/status/859158123722010628)
+* Software being 'Done' is like lawn being 'Mowed'. - Jim Benson
 * React to someone's mistake and you are part of the problem. Support and help them, and you are part of the solution.
-* Ask a programmer to review 10 lines of code, he'll find 10 issues. Ask him to do 500 lines and he'll say it looks good.
+* Ask a programmer to review 10 lines of code, he'll find 10 issues. Ask him to do 500 lines and he'll say it looks good. [Source](https://twitter.com/girayozil/statuses/306836785739210752)
