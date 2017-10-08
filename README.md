@@ -1452,6 +1452,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
+* [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar) - this Android app let you listen to or read on screen the text from other Android apps, e.g. web pages, news articles, long emails, TXT, PDF, DOC, DOCX, RTF ... useful to do multitasking specialists !!
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
