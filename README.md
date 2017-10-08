@@ -5,6 +5,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Anime](#anime)
 * [Architecture / Design](#architecture--design)
 * [Art](#art)
+* [Business & Economics](#business--economics)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
 * [Creativity](#creativity)
 * [Culture](#culture)
@@ -114,6 +115,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
+
+# Business & Economics
+* [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
+* [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] Les confessions d’un mineur de bitcoin
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
@@ -1876,8 +1881,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
 * [Fast Good Cheap](http://fastgood.cheap/) - pick any two ...
 * [presquejamais](http://www.cfsl.net/forums/viewtopic.php?f=45&t=25587) - [FR] [STRIPS] Les aventures d'une barre de téléchargement
-* [I Am Devloper](https://twitter.com/iamdevloper/statuses/420870754675478528) - Leave Me Alone Driven Development.
 * [I Am Devloper](https://twitter.com/iamdevloper) - the funniest developer on twitter
+* [I Am Devloper](https://twitter.com/iamdevloper/statuses/420870754675478528) - Leave Me Alone Driven Development.
+* [I Am Devloper](https://twitter.com/iamdevloper/statuses/429307137601576961) - Things to try when fixing a bug: 1. Google 2. Stack Overflow 3. Documentation ... 8277. Disturb your co-worker who has headphones in
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
