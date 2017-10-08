@@ -515,7 +515,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cloudbees](https://www.cloudbees.com/blog/categories/Jenkins) - Jenkins articles on CloudBees site 
 * [Jenkins Community Blog](https://jenkins.io/node/) - Jenkins articles
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
-* [CloudBees](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
+* [**CloudBees**](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
 * [Hacker News](https://hn.algolia.com/?query=Jenkins&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year jenkins news
 * [Cloudbees](https://support.cloudbees.com/hc/en-us/articles/226122247-How-to-Customize-Checkout-for-Pipeline-Multibranch) - How to Customize Checkout for Pipeline Multibranch
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/jenkins-blueocean) - Q&A about Blue Ocean
@@ -904,6 +904,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/the-peter-principle/) - The Peter Principle / Anything that works will be used in progressively more challenging applications until it fails.
 * [Daniel Miessler](https://danielmiessler.com/blog/measuring-quality-culture/) - Measuring the Quality of a Culture
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
+* [Sanna](https://twitter.com/Nikkitita69/status/407949378251280384/photo/1) - [IMG] What if physical illness was treated the same way mental illness is...?
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1412,6 +1413,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/on-giving-advice-to-friends/) - On Giving Advice to Friends
 * [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - How to Actually Publish More Things
+* [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
