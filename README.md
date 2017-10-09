@@ -1078,6 +1078,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Josh Reichardt](https://thepracticalsysadmin.com/7-useful-but-hard-to-remember-linux-commands/) - 7 useful but hard to remember Linux commands
 * [Daniel J Walsh](https://opensource.com/business/13/11/selinux-policy-guide) - Your visual how-to guide for SELinux policy enforcement
 * [SathiyaMoorthy](http://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/) - Understand at, atq, atrm, batch Commands using 9 Examples
+* [Robert Viseur](https://fr.slideshare.net/ecocentric/rv-jdllicences20140220online) - (2014) [FR] Comprendre les licences de logiciels libres. **Bonus** : [summary in picture](https://twitter.com/netpublic/status/466082953752489984/photo/1)
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -2210,6 +2211,7 @@ Raw
 * [Le blog d'un odieux connard](https://odieuxconnard.files.wordpress.com/2014/01/extrc3aame-final-2.jpg) - (2014) [FR] [IMG] - Les Aventures Magiques de l'Extrême-Droite
 * [Horace Dediu](https://twitter.com/asymco/status/418845332349661184/photo/1) - (2014) [IMG] There are two types of people in the world. // using the Internet vs not using the Internet
 * [Cameron Power](https://twitter.com/cap0w/status/431176293590106112/photo/1) - (2014) [IMG] Wtf is wrong with this dude? What is he looking at? The world?
+* [Etienne Chouard](https://www.youtube.com/watch?v=oN5tdMSXWV8) - [FR] [Video] Chercher la cause des causes - TED // Questioning democracy / questionnement et remise en cause de la démocratie
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
