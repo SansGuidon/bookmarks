@@ -1891,6 +1891,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [I Am Devloper](https://twitter.com/iamdevloper/statuses/420870754675478528) - Leave Me Alone Driven Development.
 * [I Am Devloper](https://twitter.com/iamdevloper/statuses/429307137601576961) - Things to try when fixing a bug: 1. Google 2. Stack Overflow 3. Documentation ... 8277. Disturb your co-worker who has headphones in
 * [Lauris Beinerts](https://www.youtube.com/watch?v=BKorP55Aqvg) - (2014) [Video] The Expert (Short Comedy Sketch) Funny business meeting illustrating how hard it is for an engineer to fit into the corporate world! 
+* [Est-ce qu’on met un site en production aujourd’hui](https://www.estcequonmetenprodaujourdhui.info/) - ?
+* [Geek&Poke](https://twitter.com/MorganGeek/status/452803771693674497/photo/1) - [IMG] Stacktraces
+* [About Programming](https://twitter.com/abt_programming/statuses/452556061804072960) - Inverse bus factor: "how many developers have to be hit by a bus before a project starts to proceed smoothly?”
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -2237,6 +2240,7 @@ Raw
 * [Christelle Mozzati](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/) - (2013) [FR] Les dark patterns en design d’interface
 * [Anthony Tseng](http://uxmovement.com/forms/9-small-user-experience-details-most-websites-miss/) - 9 Small User Experience Details Most Websites Miss
 * [Tom Lloyd](https://twitter.com/TomALloyd/status/441601100794585088/photo/1) - A good advice about the CV for Design students
+* [Luke Wroblewski](https://twitter.com/lukew/statuses/455742093839724544) - [IMG] Don't port your desktop UI to mobile. Optimize your UI for mobile. 
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
