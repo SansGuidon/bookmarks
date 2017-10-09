@@ -1620,6 +1620,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md) - curated list of awesome MySQL software, libraries and resources
 * [Brian Peasland](http://www.peasland.net/2016/10/19/slash-or-no-slash/) - Slash or no Slash in SQL scripts ?
 * [Kenneth Truyers](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/) - Git as a NoSql database
+* [Geoff Wozniak](http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql)  - (2014) What ORMs have taught me: just learn SQL
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -1742,6 +1743,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - JIRA ID in Git Commit Messages
 * [Delicious Insights](https://delicious-insights.com/fr/articles/git-subtrees/) - [FR] Comprendre et maîtriser les subtrees Git
 * [Joshua Wehner](https://github.com/blog/2019-how-to-undo-almost-anything-with-git) - How to undo (almost) anything with Git
+* [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
