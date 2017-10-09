@@ -859,6 +859,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
 * [Fuelly](http://www.fuelly.com/) - Track, Share, and Compare your Vehicle / Understanding your fuel consumption and vehicle's actual costs 
 * [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
+* [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -874,9 +875,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
 * [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday 
 * [UnDropDansLaMare](https://www.youtube.com/watch?v=KzvHvc41qpk) - (Video) [FR] Le Paradoxe du Joueur [2 minutes pour convaincre] short analysis of insatisfaction with modern video games / why video games were best before
+* [Tom's Hardware](http://www.tomshardware.com/reviews/best-gpus,4380.html) - Top-Rated Graphics Cards for Gaming / best GPU for the money 
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
+* [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
@@ -949,6 +952,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Malaise TV](https://twitter.com/malaisetele) - [FR] Twitter account showing awkwardness in TV shows 
 * [Mattia Quarta](https://twitter.com/squartadoc/status/380805479414239232/photo/1) - How to read a scientific paper.... brilliant
 * [Philippe Shiu](https://twitter.com/PhilipsShiu/statuses/448760592405241856) - [IMG] math students tip
+* [Topissimo](http://www.topissimo.fr/lol/40-verites-du-quotidien-illustrees-humour.html) - [FR] TOP 40 des vérités du quotidien illustrées avec humour !
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -1186,6 +1190,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MusicIP](http://www.spicefly.com/article.php?page=what-is-musicip) - MusicIP analyses and fingerprints your music library 
 * [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
 * [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
+* [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -1555,6 +1560,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
 * [Alfred Thompson](http://blog.acthompson.net/2013/07/5-programming-mistakes-to-warn-students.html) - (2013) 5 Programming Mistakes To Warn Students About
 * [John Sonmez](https://simpleprogrammer.com/2013/08/19/software-development-career/) - (2013) 4 Things I Wish I Would Have Known When I Started My Software Development Career
+* [JAX Editorial Team](https://jaxenter.com/the-most-dangerous-word-in-the-english-language-for-all-developers-108018.html) - (2014) The most dangerous word in the English language for all developers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
