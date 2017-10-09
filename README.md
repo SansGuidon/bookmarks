@@ -282,6 +282,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
 * [E.G. Nadhan](https://enterprisersproject.com/article/2017/5/9-key-phrases-devops) - 9 key phrases of DevOps
 * [DevelopIntelligence Blog](http://www.developintelligence.com/blog/devops-for-non-technical-people/) - DevOps Simplified for Non-Technical People
+* [Jan Krag](https://www.praqma.com/stories/survival-of-the-fittest/) - (2017) Survival of the Fittest; Evolution in the CI ecosystem
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
