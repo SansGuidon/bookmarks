@@ -1565,6 +1565,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John Sonmez](https://simpleprogrammer.com/2013/08/19/software-development-career/) - (2013) 4 Things I Wish I Would Have Known When I Started My Software Development Career
 * [JAX Editorial Team](https://jaxenter.com/the-most-dangerous-word-in-the-english-language-for-all-developers-108018.html) - (2014) The most dangerous word in the English language for all developers
 * [Dale Myers](https://myers.io/2017/04/04/the-joel-test-for-2017/) - The Joel Test for 2017
+* [Martin Fowler Site](https://martinfowler.com/) - author, speaker, and loud-mouth on the design of enterprise software. Evangelist of refactoring and CI/CD
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
