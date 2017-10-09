@@ -860,6 +860,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fuelly](http://www.fuelly.com/) - Track, Share, and Compare your Vehicle / Understanding your fuel consumption and vehicle's actual costs 
 * [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
+* [Free Online Picture Resizer](http://www.picresize.com/batch.php) - Easily crop, resize and edit your images online for free
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -962,6 +963,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [François Dourlen](https://www.francoisdourlen.com/photos) - 'feel good' mash-up pictures, combining pop-culture characters and actual locations
 * [WLPPR](http://wlppr.co/) - vibrant wallpapers from places of our planet
 * [Psiu Puxa](http://psiupuxa.com/) - wallpapers from all over the universe
+* [Free Online Picture Resizer](http://www.picresize.com/batch.php) - Easily crop, resize and edit your images online for free
+* [Dale Myers](https://myers.io/2014/07/30/everything-you-ever-wanted-to-know-about-png/) - (2014) Everything You Ever Wanted to Know About PNGs
 
 # Linux / Unix
 * [/r/linux](https://www.reddit.com/r/linux/) - discussions & news about linux on reddit
@@ -1561,6 +1564,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alfred Thompson](http://blog.acthompson.net/2013/07/5-programming-mistakes-to-warn-students.html) - (2013) 5 Programming Mistakes To Warn Students About
 * [John Sonmez](https://simpleprogrammer.com/2013/08/19/software-development-career/) - (2013) 4 Things I Wish I Would Have Known When I Started My Software Development Career
 * [JAX Editorial Team](https://jaxenter.com/the-most-dangerous-word-in-the-english-language-for-all-developers-108018.html) - (2014) The most dangerous word in the English language for all developers
+* [Dale Myers](https://myers.io/2017/04/04/the-joel-test-for-2017/) - The Joel Test for 2017
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
