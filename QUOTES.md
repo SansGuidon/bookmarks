@@ -14,3 +14,4 @@
 * Ask a programmer to review 10 lines of code, he'll find 10 issues. Ask him to do 500 lines and he'll say it looks good. [Source](https://twitter.com/girayozil/statuses/306836785739210752)
 * In my experience teams that don't do scrum 'properly' work better. They focus more on their productivity than getting the process right - [Daniel Grant](https://twitter.com/djgrant_/statuses/436536267330039809)
 * One bad programmer can easily create two new jobs a year - David Parnas
+* How to stop time: kiss. How to travel in time: read. How to escape time: music. How to feel time: write. How to waste time: social media. - [Matt Haig](https://twitter.com/matthaig1/statuses/450238719858323456)
