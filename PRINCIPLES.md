@@ -39,6 +39,7 @@
 * "The Principle of Least Astonishment: Make a user interface as consistent and as predictable as possible"
 * "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576)
 * encourage others when they need it. [relevant reference](https://imgur.com/gallery/ihRohVQ)
+* [Tim Lister](https://twitter.com/abt_programming/statuses/538015028574945280) - If you don't get innate pleasure from writing code, it's time to move on
 
 # from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
