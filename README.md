@@ -16,6 +16,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Bitbucket](#bitbucket)
   * [Consul (by Hashicorp)](#consul-by-hashicorp)
   * [Containers](#containers)
+  * [Gradle](#gradle)
   * [Jenkins](#jenkins)
   * [Kubernetes](#kubernetes)
   * [Microservices](#microservices)
@@ -115,14 +116,17 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Derek Greer](http://aspiringcraftsman.com/2008/01/03/art-of-separation-of-concerns/) - (2008) The Art of Separation of Concerns
 * [Marty Madrid](https://twitter.com/abt_programming/status/516018172072587264/photo/1) - (2014) [IMG] How to build an MVP (Minimum Viable Product)
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
+* [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
+* [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 
 # Business & Economics
 * [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] Les confessions d’un mineur de bitcoin
 * [SEO'Brien](https://seobrien.com/startups-work-silicon-valley) - Why Do Startups Work in Silicon Valley?
+* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] 
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
@@ -168,6 +172,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2015/09/01/if-something-is-hard-do-it-more-often/) - If Something Is Hard, Do It More Often
 * [John D. Cook](https://www.johndcook.com/blog/2009/04/22/being-indispensable/) - (2009) Do you really want to be indispensable?
 * [Tobias Fors](https://twitter.com/tofo/status/512666251055742977/photo/1) - (2014) [IMG] The project paradox: making the biggest decisions when knowledge is at it's absolute lowest.
+* [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -185,6 +190,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
 * [The Next Web](https://twitter.com/Shaun_Springer/status/498529232545669121/photo/1) - (2014) [IMG] It's not about being first to market, it's about being the best. / It's Never Too Late / Just do it better.
 * [John D. Cook](https://www.johndcook.com/blog/2009/12/16/good-work-with-bad-tools/) - Doing good work with bad tools
+* [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -526,6 +532,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know 
 * [bhuga/hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc) - hubot-chatops-rpc : Easily add RPC endpoints to your hubot.
 
+## C/C++
+* [Mike Acton](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - (2014) [Slides] Data oriented design principles and c++
+
+## Gradle
+* [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
+* [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
+
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
 * [Cloudbees](https://www.cloudbees.com/blog/categories/Jenkins) - Jenkins articles on CloudBees site 
@@ -628,6 +641,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
 * [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
 * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
+* [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
+* [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
+* [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
 
 ## Nexus
 * [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
@@ -895,6 +911,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Can You RUN It?](https://www.systemrequirementslab.com/cyri) - System Requirements Lab analyzes your computer and tell you which games you can / can't run
 * [NotebookCheck](https://www.notebookcheck.net/Computer-Games-on-Laptop-Graphic-Cards.13849.0.html) - list of GPUs of Laptop Graphic Cards sorted by approximate performance in games
 * [CheezBurger](http://cheezburger.com/8271579136) - How the Gaming Landscape Has Changed (2004 vs 2013)
+* [UnDropDansLaMare](https://www.youtube.com/watch?v=ilLrptqGdqM) - [Video] ... Ce Héros Mis Au Placard [2 minutes pour convaincre] // Death of the polygon 
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -983,6 +1000,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Topissimo](http://www.topissimo.fr/lol/40-verites-du-quotidien-illustrees-humour.html) - [FR] TOP 40 des vérités du quotidien illustrées avec humour !
 * [Mashable](http://mashable.com/2014/08/10/maria-scrivan-kickstarter) - (2014) [IMG] Young entrepreneurs these days
 * [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/?id=1883) - (2010) [IMG] Why are there so few women in engineering / science ?
+* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] 
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -1116,6 +1134,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SathiyaMoorthy](http://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/) - Understand at, atq, atrm, batch Commands using 9 Examples
 * [Robert Viseur](https://fr.slideshare.net/ecocentric/rv-jdllicences20140220online) - (2014) [FR] Comprendre les licences de logiciels libres. **Bonus** : [summary in picture](https://twitter.com/netpublic/status/466082953752489984/photo/1)
 * [GNU Parallel](https://www.gnu.org/software/parallel/) - GNU parallel is a shell tool for executing jobs in parallel using one or more computers.
+* [Bryan Lunduke](https://www.youtube.com/watch?v=5pOxlazS3zs) - (2014) [Video] Linux Sucks // spoiler : this is not a video against Linux ;)
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1224,6 +1243,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
 * [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
+* [foobar2000](http://www.foobar2000.org/components/by+date) - List of all plugins for foobar2000
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -1612,6 +1632,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrey Karpov](https://www.viva64.com/en/b/0260/) - The Last Line Effect // about evil copy paste
 * [Neal Ford](https://vimeo.com/103403448) - (2013) [Video] 5 Reasons you should care about Functional Programming
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
+* [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/musings-on-refactoring-as-waste) - (2014) Musings on Refactoring as Waste
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1663,6 +1684,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 * [Douglas Crockford](https://twitter.com/EPoberezkin/status/525209820555907072/photo/1) - (2014) [IMG] Good parts of JavaScript reconsidered 
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
+* [Venkat Subramaniam](https://twitter.com/venkat_s/statuses/521625754485157889) - "Poor quality code is a reflection of lack of respect we carry for what we do, often with out realizing it."
+* [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/musings-on-refactoring-as-waste) - (2014) Musings on Refactoring as Waste
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -1982,6 +2005,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Super User](https://superuser.com/questions/792607/why-does-windows-think-that-my-wireless-keyboard-is-a-toaster) - Why does Windows think that my wireless keyboard is a toaster?
 * [DevHumor](http://devhumor.com/media/programmer-vs-lawyer) - (2014) [IMG] Programmer VS Lawyer
 * [Brian Wisti](https://twitter.com/brianwisti/status/503987766032494592) - You are in a legacy codebase ... what do you do ?
+* [If programmers have make a plane](https://www.youtube.com/watch?v=UZq4sZz56qM) - (2007) [Video] 
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -2331,6 +2355,8 @@ Raw
 * [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing) - (2013) How the Usability Matrix of Emotions Can Benefit Your Software Testing
 * [Fabio Pereira](https://www.thoughtworks.com/insights/blog/introducing-software-testing-cupcake-anti-pattern) - (2014) Introducing the Software Testing Cupcake (Anti-Pattern)
 * [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Gremlins.js : JS monkey testing library that tests webapp robustness through random user actions
+* [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam) - Integrated Tests Are A Scam
+* [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." 
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
@@ -2396,6 +2422,7 @@ Raw
 * [Clay](http://fvisser.nl/clay/) - is a CSS preprocessor like LESS and Sass, but implemented as an embedded domain specific language (EDSL) in Haskell.
 * [CSS Diner](http://flukeout.github.io/) - a game to improve your knowledge of CSS selectors
 * [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
+* [SEO'Brien](https://seobrien.com/writing-search-optimized-blog-posts) - (2011) Writing Search Optimized Blog Posts
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
