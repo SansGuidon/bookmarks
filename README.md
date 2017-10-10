@@ -1593,6 +1593,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Richard Clayton](https://rclayton.silvrback.com/software-estimation-is-a-losing-game) - Software Estimation is a Losing Game
 * [John Sonmez](https://dzone.com/articles/4-levels-freedom-software) - (2014) The 4 Levels of Freedom For Software Developers
 * [NUS Computing](http://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm?type=bestQuotes) - Quotes for Software Engineers
+* [Jason McCreary](https://jason.pureconcepts.net/2015/01/are-you-a-boy-scout/) - (2015) A look at how the simple practice of "boyscouting" can improve your code.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
