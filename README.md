@@ -112,6 +112,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 * [Principles of Chaos Engineering](http://principlesofchaos.org/) 
 * [Daniel Miessler](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
+* [Derek Greer](http://aspiringcraftsman.com/2008/01/03/art-of-separation-of-concerns/) - (2008) The Art of Separation of Concerns
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -285,6 +286,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [E.G. Nadhan](https://enterprisersproject.com/article/2017/5/9-key-phrases-devops) - 9 key phrases of DevOps
 * [DevelopIntelligence Blog](http://www.developintelligence.com/blog/devops-for-non-technical-people/) - DevOps Simplified for Non-Technical People
 * [Jan Krag](https://www.praqma.com/stories/survival-of-the-fittest/) - (2017) Survival of the Fittest; Evolution in the CI ecosystem
+* [Derek Greer](http://aspiringcraftsman.com/2016/02/28/separation-of-concerns-application-builds-continuous-integration/) - Separation of Concerns: Application Builds & Continuous Integration
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -612,6 +614,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 * [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - curated list of Microservice Architecture related principles and technologies.
 * [Milen Dyankov](https://www.youtube.com/watch?v=O77777Zy_HE) - [Video] Microservices and Modularity or the difference between treatment and cure! 
+* [Richard Clayton](https://rclayton.silvrback.com/failing-at-microservices) - Failing at Microservices.
 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
@@ -881,6 +884,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tom's Hardware](http://www.tomshardware.com/reviews/best-gpus,4380.html) - Top-Rated Graphics Cards for Gaming / best GPU for the money 
 * [Can You RUN It?](https://www.systemrequirementslab.com/cyri) - System Requirements Lab analyzes your computer and tell you which games you can / can't run
 * [NotebookCheck](https://www.notebookcheck.net/Computer-Games-on-Laptop-Graphic-Cards.13849.0.html) - list of GPUs of Laptop Graphic Cards sorted by approximate performance in games
+* [CheezBurger](http://cheezburger.com/8271579136) - How the Gaming Landscape Has Changed (2004 vs 2013)
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -923,6 +927,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gil](http://blog.lesoir.be/hashtag25/2014/01/08/billet-dhumeur-dune-desperate-diplomee/) - (2014) [FR] Billet d'humeur d'une "desperate diplômée" / De la difficulté de trouver un emploi même avec un bon diplôme
 * [Tom Lloyd](https://twitter.com/TomALloyd/status/441601100794585088/photo/1) - A good advice about the CV for Design students
 * [American Psychological Association](http://www.apa.org/news/press/releases/2014/08/pushed-back.pdf) - [PDF] Why women leave engineering
+* [Richard Clayton](https://rclayton.silvrback.com/10-things-i-learned-working-remotely) - 10 Things I learned Working Remotely
+* [Le Pharmachien](http://lepharmachien.com/la-vraie-difference-entre-les-medicaments-generiques-et-originaux/) - [FR] La VRAIE différence entre les médicaments génériques et originaux / real difference between brand names and generic drugs
+* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] Caféine : toxique et délicieuse / Coffee : good and bad parts
+* [Le Pharmachien](http://lepharmachien.com/intoxication-alimentaire/) - [FR] 8 façons de t’intoxiquer à un barbecue ( intoxication alimentaire ) / 8 ways to cause food poisoning with the barbecue
+* [John Sonmez](https://dzone.com/articles/4-levels-freedom-software) - (2014) The 4 Levels of Freedom For Software Developers
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -938,6 +947,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 * [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing »
 * [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer
+* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] Caféine : toxique et délicieuse / Coffee : good and bad parts
 
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
@@ -960,6 +970,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Philippe Shiu](https://twitter.com/PhilipsShiu/statuses/448760592405241856) - [IMG] math students tip
 * [Topissimo](http://www.topissimo.fr/lol/40-verites-du-quotidien-illustrees-humour.html) - [FR] TOP 40 des vérités du quotidien illustrées avec humour !
 * [Mashable](http://mashable.com/2014/08/10/maria-scrivan-kickstarter) - (2014) [IMG] Young entrepreneurs these days
+* [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/?id=1883) - (2010) [IMG] Why are there so few women in engineering / science ?
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -1577,6 +1588,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Martin Fowler](https://www.martinfowler.com/bliki/BoiledCarrot.html) - (2016) When a technique fails ask yourself if it's a faulty technique or a faulty use of the technique
 * [Seph Gentle](https://josephg.com/blog/what-i-tell-all-new-programmers/) - (2014) What I tell all new programmers
 * [Billy Hollis](https://www.youtube.com/watch?v=LiGsw_k8JhY) - (2006) [Video] about programmer code addiction
+* [Richard Clayton](https://rclayton.silvrback.com/software-estimation-is-a-losing-game) - Software Estimation is a Losing Game
+* [John Sonmez](https://dzone.com/articles/4-levels-freedom-software) - (2014) The 4 Levels of Freedom For Software Developers
+* [NUS Computing](http://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm?type=bestQuotes) - Quotes for Software Engineers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1654,6 +1668,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Indiedevhour on Slack](https://slack.pirrate.me/) - Community of Indie game developers and hobbyists
 * [Indie Game Developers on Slack](https://indie-game-devs-slack.herokuapp.com/) - Independent game developers group
 * [Gamasutra](http://www.gamasutra.com/) - articles about art and business of making games
+* [Gaylord](http://www.journaldugamer.com/2014/08/08/interview-out-there-ecrire-un-bon-jeu/) - (2014) [Interview] Un des créateurs d’Out There vous explique comment écrire un bon jeu
 > Tools
 * [libGDX](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
 * [Indie DB](http://www.indiedb.com/engines/libgdx/games) - games made with libGDX
@@ -1801,6 +1816,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [oci-pronghorn/GreenLightning](https://github.com/oci-pronghorn/GreenLightning) - Small Java HTTP/s server many times faster than Netty or NGINX
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
 * [Encyclopedia of things considered harmful](http://harmful.cat-v.org/software/java) - Java Sucks
+* [Oracle](http://cr.openjdk.java.net/~jrose/pres/201407-JVMEvolution.pdf) - (2014) [PDF] Evolving the JVM: Principles and Directions / Oracle about challenges faced with implementation of new features for Java and JVM
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
@@ -1820,6 +1836,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
+* [Derek Greer](http://aspiringcraftsman.com/2016/08/30/exploring-typescript/) - (2016) Exploring TypeScript
+* [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Gremlins.js : JS monkey testing library that tests webapp robustness through random user actions
 
 ## Machine Learning
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
@@ -1923,6 +1941,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [About Programming](https://twitter.com/abt_programming/statuses/452556061804072960) - Inverse bus factor: "how many developers have to be hit by a bus before a project starts to proceed smoothly?”
 * [Encyclopedia of things considered harmful](http://harmful.cat-v.org/software/java) - Java Sucks
 * [CommitStrip](http://www.commitstrip.com/en/2014/08/14/front-end-vs-back-end/) - (2014) [IMG] Front-End vs Back-End
+* [Ken Scambler](https://twitter.com/KenScambler/status/477322711039893504/photo/1) - [IMG] Legacy. "Looks easy; should be done in half an hour I reckon"
+* [Christina Cardoza](http://sdtimes.com/fifteen-catty-programmers/) - (2014) If programmers were cats…
+* [I Am Devloper](https://twitter.com/iamdevloper/statuses/494212969975529472) - "1. Gonna make an app 2. Need to make a todo list, however no app suits my needs 3. Making a todo app, this'll be great The Developer Cycle™"
+* [Super User](https://superuser.com/questions/792607/why-does-windows-think-that-my-wireless-keyboard-is-a-toaster) - Why does Windows think that my wireless keyboard is a toaster?
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -1961,6 +1983,7 @@ Raw
 
 # Podcasts
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
+* [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] podcast for Java programmers 
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
@@ -2240,6 +2263,7 @@ Raw
 * [Horace Dediu](https://twitter.com/asymco/status/418845332349661184/photo/1) - (2014) [IMG] There are two types of people in the world. // using the Internet vs not using the Internet
 * [Cameron Power](https://twitter.com/cap0w/status/431176293590106112/photo/1) - (2014) [IMG] Wtf is wrong with this dude? What is he looking at? The world?
 * [Etienne Chouard](https://www.youtube.com/watch?v=oN5tdMSXWV8) - [FR] [Video] Chercher la cause des causes - TED // Questioning democracy / questionnement et remise en cause de la démocratie
+* [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/?id=1883) - (2010) [IMG] Why are there so few women in engineering / science ?
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
@@ -2264,6 +2288,8 @@ Raw
 * [Daniel Miessler](https://danielmiessler.com/projects/webappsec_testing_resources/) - Web Application Security Testing Resources
 * [Rusty Harold](https://www.youtube.com/watch?v=cjxXv0eifhY) - [Video] Testing Legacy Code Elliotte
 * [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing) - (2013) How the Usability Matrix of Emotions Can Benefit Your Software Testing
+* [Fabio Pereira](https://www.thoughtworks.com/insights/blog/introducing-software-testing-cupcake-anti-pattern) - (2014) Introducing the Software Testing Cupcake (Anti-Pattern)
+* [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Gremlins.js : JS monkey testing library that tests webapp robustness through random user actions
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
@@ -2322,6 +2348,9 @@ Raw
 * [gulpjs/gulp](https://github.com/gulpjs/gulp) - Gulp: The streaming build system
 * [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 * [Maxime Thirouin](http://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - (2013) [FR] Automatisez votre workflow front-end
+* [Opquast](https://checklists.opquast.com/oqs-v3/) - [FR] reference check-list for web quality
+* [Opquast](https://checklists.opquast.com/fr/) - [FR] several check-lists for performance / SEO related to web & mobile development
+* [Clay](http://fvisser.nl/clay/) - is a CSS preprocessor like LESS and Sass, but implemented as an embedded domain specific language (EDSL) in Haskell.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
