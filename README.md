@@ -164,6 +164,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chastity Blackwell](https://opensource.com/article/17/10/7-deadly-sins-documentation) - 7 deadly sins of documentation
 * [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2015/09/01/if-something-is-hard-do-it-more-often/) - If Something Is Hard, Do It More Often
+* [John D. Cook](https://www.johndcook.com/blog/2009/04/22/being-indispensable/) - (2009) Do you really want to be indispensable?
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -180,6 +181,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**Daniel Miessler**](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
 * [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
 * [The Next Web](https://twitter.com/Shaun_Springer/status/498529232545669121/photo/1) - (2014) [IMG] It's not about being first to market, it's about being the best. / It's Never Too Late / Just do it better.
+* [John D. Cook](https://www.johndcook.com/blog/2009/12/16/good-work-with-bad-tools/) - Doing good work with bad tools
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -287,6 +289,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DevelopIntelligence Blog](http://www.developintelligence.com/blog/devops-for-non-technical-people/) - DevOps Simplified for Non-Technical People
 * [Jan Krag](https://www.praqma.com/stories/survival-of-the-fittest/) - (2017) Survival of the Fittest; Evolution in the CI ecosystem
 * [Derek Greer](http://aspiringcraftsman.com/2016/02/28/separation-of-concerns-application-builds-continuous-integration/) - Separation of Concerns: Application Builds & Continuous Integration
+* [The Pragmatic Programmers](https://media.pragprog.com/titles/auto/PragmaticAutomationSummary.pdf) - [PDF] Pragmatic Project Automation Summary Road Map / good one-page summary of [Pragmatic Project Automation](http://www.pragprog.com/titles/auto) book
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -792,6 +795,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
 * [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
 * [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips 
+* [TopAchat](https://www.topachat.com/configomatic/index.php) - [FR] Config'O'Matic helps you to get the right components to assemble your dream computer, this is how I built mine in 2014
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -868,6 +872,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 * [Free Online Picture Resizer](http://www.picresize.com/batch.php) - Easily crop, resize and edit your images online for free
+* [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -934,6 +939,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] Caféine : toxique et délicieuse / Coffee : good and bad parts
 * [Le Pharmachien](http://lepharmachien.com/intoxication-alimentaire/) - [FR] 8 façons de t’intoxiquer à un barbecue ( intoxication alimentaire ) / 8 ways to cause food poisoning with the barbecue
 * [John Sonmez](https://dzone.com/articles/4-levels-freedom-software) - (2014) The 4 Levels of Freedom For Software Developers
+* [Shaun Boyd](http://www.lifereboot.com/2007/10-reasons-it-doesnt-pay-to-be-the-computer-guy/) - (2007) 10 Reasons It Doesn’t Pay To Be “The Computer Guy”
+* [Steve Pavlina](https://www.stevepavlina.com/blog/2005/01/dont-die-with-your-music-still-in-you/) - (2005) Don’t Die With Your Music Still In You
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1105,6 +1112,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel J Walsh](https://opensource.com/business/13/11/selinux-policy-guide) - Your visual how-to guide for SELinux policy enforcement
 * [SathiyaMoorthy](http://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/) - Understand at, atq, atrm, batch Commands using 9 Examples
 * [Robert Viseur](https://fr.slideshare.net/ecocentric/rv-jdllicences20140220online) - (2014) [FR] Comprendre les licences de logiciels libres. **Bonus** : [summary in picture](https://twitter.com/netpublic/status/466082953752489984/photo/1)
+* [GNU Parallel](https://www.gnu.org/software/parallel/) - GNU parallel is a shell tool for executing jobs in parallel using one or more computers.
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1594,6 +1602,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John Sonmez](https://dzone.com/articles/4-levels-freedom-software) - (2014) The 4 Levels of Freedom For Software Developers
 * [NUS Computing](http://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm?type=bestQuotes) - Quotes for Software Engineers
 * [Jason McCreary](https://jason.pureconcepts.net/2015/01/are-you-a-boy-scout/) - (2015) A look at how the simple practice of "boyscouting" can improve your code.
+* [John D. Cook](https://www.johndcook.com/blog/2009/03/19/the-buck-stops-with-the-programmer/) - (2009) The buck stops with the programmer
+* [John D. Cook](https://www.johndcook.com/blog/2008/10/27/why-there-will-always-be-programmers/) - (2008) Why there will always be programmers
+* [John D. Cook](https://www.johndcook.com/blog/2017/08/19/programming-language-life-expectancy/) - (2017) Programming language life expectancy : about Go, C#, Java, Python, Haskell, Lisp and Fortran future deaths
+* [John D. Cook](https://www.johndcook.com/blog/2017/06/09/one-practical-advantage-of-functional-programming/) - One practical application of functional programming
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1671,7 +1683,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Indiedevhour on Slack](https://slack.pirrate.me/) - Community of Indie game developers and hobbyists
 * [Indie Game Developers on Slack](https://indie-game-devs-slack.herokuapp.com/) - Independent game developers group
 * [Gamasutra](http://www.gamasutra.com/) - articles about art and business of making games
-* [Gaylord](http://www.journaldugamer.com/2014/08/08/interview-out-there-ecrire-un-bon-jeu/) - (2014) [Interview] Un des créateurs d’Out There vous explique comment écrire un bon jeu
+* [Gaylord](http://www.journaldugamer.com/2014/08/08/interview-out-there-ecrire-un-bon-jeu/) - (2014) [FR] [Interview] Un des créateurs d’Out There vous explique comment écrire un bon jeu
+* [Gergo Vas](https://kotaku.com/5991061/the-best-looking-isometric-games) - The Best-Looking Isometric Games
+
 > Tools
 * [libGDX](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
 * [Indie DB](http://www.indiedb.com/engines/libgdx/games) - games made with libGDX
@@ -1775,6 +1789,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joshua Wehner](https://github.com/blog/2019-how-to-undo-almost-anything-with-git) - How to undo (almost) anything with Git
 * [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
 * [Mark Waite](https://www.youtube.com/watch?v=n0mnVtbQA0I) - [Video] (2017) Git in the Large : Tips and Tricks. **Bonus** : [Slides](https://www.slideshare.net/markewaite/git-inthelarge)
+* [John Wiegley](http://jwiegley.github.io/git-from-the-bottom-up/) - Git from the Bottom Up
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1821,6 +1836,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
 * [Encyclopedia of things considered harmful](http://harmful.cat-v.org/software/java) - Java Sucks
 * [Oracle](http://cr.openjdk.java.net/~jrose/pres/201407-JVMEvolution.pdf) - (2014) [PDF] Evolving the JVM: Principles and Directions / Oracle about challenges faced with implementation of new features for Java and JVM
+* [Javin Paul](http://javarevisited.blogspot.be/2012/05/best-practices-while-dealing-with.html?m=1) - (2012) Best Practices while dealing with Password in Java
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
@@ -1899,6 +1915,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
 * [Daniel Miessler](https://danielmiessler.com/blog/connect-local-port-remote-ssh-server/) - How to Connect to a Local Port on a Remote SSH Server
 * [Stack Exchange](https://skeptics.stackexchange.com/questions/18539/has-stack-overflow-saved-billions-of-dollars-in-programmer-productivity) - Has Stack Overflow saved billions of dollars in programmer productivity?
+* [John D. Cook](https://www.johndcook.com/blog/2009/03/18/where-does-the-programming-effort-go/) - (2009) Where does the programming effort go?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -2027,6 +2044,7 @@ Raw
 * [Kurzgesagt](https://www.youtube.com/watch?v=WSKi8HfcxEk) - The Rise of the Machines – Why Automation is Different this Time
 * [Gojko Adzic](https://gojko.net/2017/03/15/automation-horribly-wrong.html) - When automation goes horribly wrong
 * [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
+* [John D. Cook](https://www.johndcook.com/blog/2008/10/27/why-there-will-always-be-programmers/) - (2008) Why there will always be programmers
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -2095,6 +2113,7 @@ Raw
 * [PowerShellScripts.com](http://powershellscripts.com/) - some scripts, tutoriels for powershell. Warning : some dead links here
 * [JeffOps](http://jeffwouters.nl/) - The Scripting dutchman : lot of scripts and tips for powershell 
 * [PSScriptAnalyzer](https://www.powershellgallery.com/packages/PSScriptAnalyzer/) -  provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
+* [Eric Pement](http://www.pement.org/awk/awk_sed.txt) - (2001) Comparing similar operations with sed and awk
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -2193,6 +2212,8 @@ Raw
 * [Dan Walsh](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/) - Secure Your Containers with this One Weird Trick
 * [Daniel J Walsh](https://opensource.com/business/13/11/selinux-policy-guide) - Your visual how-to guide for SELinux policy enforcement
 * [Dan Walsh](http://www.projectatomic.io/blog/2015/08/why-we-dont-let-non-root-users-run-docker-in-centos-fedora-or-rhel/) - Why we don't let non-root users run Docker in CentOS, Fedora, or RHEL
+* [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
+* [Javin Paul](http://javarevisited.blogspot.be/2012/05/best-practices-while-dealing-with.html?m=1) - (2012) Best Practices while dealing with Password in Java
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -2355,6 +2376,8 @@ Raw
 * [Opquast](https://checklists.opquast.com/oqs-v3/) - [FR] reference check-list for web quality
 * [Opquast](https://checklists.opquast.com/fr/) - [FR] several check-lists for performance / SEO related to web & mobile development
 * [Clay](http://fvisser.nl/clay/) - is a CSS preprocessor like LESS and Sass, but implemented as an embedded domain specific language (EDSL) in Haskell.
+* [CSS Diner](http://flukeout.github.io/) - a game to improve your knowledge of CSS selectors
+* [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
