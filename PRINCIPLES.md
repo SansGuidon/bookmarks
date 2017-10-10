@@ -32,6 +32,7 @@
 * [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
 * [Daniel Miessler](https://danielmiessler.com/projects/concepts/) - Lot of concepts summarized by Daniel Miessler
 * [Kent Beck](https://twitter.com/KentBeck/statuses/499584833929367552) - If you break a problem into sub-problems and the sub-problems aren't simpler than the original problem, git reset --hard and try again
+* [Stuart Sierra](https://twitter.com/stuartsierra/statuses/512009723282206722) - There's always a reason, no matter how strange the bug
 
 # from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
