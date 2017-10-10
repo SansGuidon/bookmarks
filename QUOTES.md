@@ -26,3 +26,4 @@
 * Poor quality code is a reflection of lack of respect we carry for what we do, often with out realizing it. [Venkat Subramaniam](https://twitter.com/venkat_s/statuses/521625754485157889)
 * Solving problems you probably don’t have creates more problems you definitely do - [Mike Acton](https://www.slideshare.net/cellperformance/data-oriented-design-and-c)
 * Enemies of creativity: 1 desire to please all 2 big ego 3 self-doubt 4 control 5 fear of failure 6 process rigor 7 impatience 8 abundance. - [Vala Afshar](https://twitter.com/ValaAfshar/statuses/538067497023311872)
+* Train people well enough so they can leave, treat them well enough so they don't want to. - [Richard Branson](https://twitter.com/ValaAfshar/statuses/538086077861748736)
