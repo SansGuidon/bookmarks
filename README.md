@@ -8,6 +8,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Business & Economics](#business--economics)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
 * [Creativity](#creativity)
+* [CRM](#CRM)
 * [Culture](#culture)
 * [Data](#data)
 * [DevOps](#devops)
@@ -174,6 +175,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John D. Cook](https://www.johndcook.com/blog/2009/04/22/being-indispensable/) - (2009) Do you really want to be indispensable?
 * [Tobias Fors](https://twitter.com/tofo/status/512666251055742977/photo/1) - (2014) [IMG] The project paradox: making the biggest decisions when knowledge is at it's absolute lowest.
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
+* [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -192,6 +194,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Next Web](https://twitter.com/Shaun_Springer/status/498529232545669121/photo/1) - (2014) [IMG] It's not about being first to market, it's about being the best. / It's Never Too Late / Just do it better.
 * [John D. Cook](https://www.johndcook.com/blog/2009/12/16/good-work-with-bad-tools/) - Doing good work with bad tools
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
+* [Vala Afshar](https://twitter.com/ValaAfshar/status/538001419702657024/photo/1) - (2014) [IMG] knowledge vs experience vs creativity
+
+# CRM
+* [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -968,6 +974,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John Sonmez](https://dzone.com/articles/4-levels-freedom-software) - (2014) The 4 Levels of Freedom For Software Developers
 * [Shaun Boyd](http://www.lifereboot.com/2007/10-reasons-it-doesnt-pay-to-be-the-computer-guy/) - (2007) 10 Reasons It Doesn’t Pay To Be “The Computer Guy”
 * [Steve Pavlina](https://www.stevepavlina.com/blog/2005/01/dont-die-with-your-music-still-in-you/) - (2005) Don’t Die With Your Music Still In You
+* [Harvard Biz Review](https://twitter.com/HarvardBiz/status/534858622439022592/photo/1) - (2014) What employees value at work
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1251,6 +1258,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 * [foobar2000](http://www.foobar2000.org/components/by+date) - List of all plugins for foobar2000
+* [foobar2000](http://mobile.foobar2000.com/) - There exist a mobile version of foobar2000 
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -1494,6 +1502,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
 * [Morgangeek blog](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] La sélection naturelle de contenus
 * [Mike Davidson](https://twitter.com/iok/status/497749033918558209/photo/1) - [IMG] Wisdom : A prototype is worth a thousand meetings
+* [Jeff Atwood](https://blog.codinghorror.com/because-reading-is-fundamental-2/) - (2014) Because Reading is Fundamental / spend less time talking and more time reading 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
@@ -1539,6 +1548,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Morgangeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] FileBot : le couteau suisse du renommage de films et séries
 * [Things I Learned Today](http://thingsilearnedtoday.net/2013/07/20/too-many-tabs-in-google-chrome/) - Too Many Tabs in Google Chrome? try this extension
 * [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
+* [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
+* [Stéphane le calme](https://www.developpez.com/actu/77483/Des-retards-dans-les-delais-de-livraison-d-un-projet-Oui-mais-a-qui-la-faute-Une-etude-en-recherche-la-cause/) - (2014) [FR] Des retards dans les délais de livraison d'un projet ? Oui, mais à qui la faute ?
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -1654,6 +1665,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mike Acton](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - (2014) [Slides] Data oriented design principles and c++
 * [Angel 2D](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
+* [Vicky Chijwani](https://vickychijwani.me/cpp-gotchas/) - (2014) Common C++ Gotchas
 
 ## Clean code
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
@@ -2025,6 +2037,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brian Wisti](https://twitter.com/brianwisti/status/503987766032494592) - You are in a legacy codebase ... what do you do ?
 * [If programmers have make a plane](https://www.youtube.com/watch?v=UZq4sZz56qM) - (2007) [Video] 
 * [The Oatmeal](http://theoatmeal.com/comics/computers) - Why It's Better To Pretend You Don't Know Anything About Computers
+* [Les joies du code](http://lesjoiesducode.fr) - [FR] l'instant GIF des développeurs !
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -2104,6 +2117,8 @@ Raw
 * [Gojko Adzic](https://gojko.net/2017/03/15/automation-horribly-wrong.html) - When automation goes horribly wrong
 * [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
 * [John D. Cook](https://www.johndcook.com/blog/2008/10/27/why-there-will-always-be-programmers/) - (2008) Why there will always be programmers
+* [Andrew McAfee](https://hbr.org/2014/07/the-kind-of-work-humans-still-do-better-than-robots) - (2014) The Kind of Work Humans Still Do Better Than Robots
+* [Dan Finnigan](https://hbr.org/2016/11/robots-and-automation-may-not-take-your-desk-job-after-all) - (2016) Robots and Automation May Not Take Your Desk Job After All
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -2443,6 +2458,7 @@ Raw
 * [CSS Diner](http://flukeout.github.io/) - a game to improve your knowledge of CSS selectors
 * [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
 * [SEO'Brien](https://seobrien.com/writing-search-optimized-blog-posts) - (2011) Writing Search Optimized Blog Posts
+* [Matias Meno](http://www.colorglare.com/2014/11/24/stateless-html.html) - (2014) Stop writing stateful HTML
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
