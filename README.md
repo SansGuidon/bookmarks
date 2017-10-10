@@ -1772,7 +1772,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Delicious Insights](https://delicious-insights.com/fr/articles/git-subtrees/) - [FR] Comprendre et maîtriser les subtrees Git
 * [Joshua Wehner](https://github.com/blog/2019-how-to-undo-almost-anything-with-git) - How to undo (almost) anything with Git
 * [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
-* [Mark Waite](https://www.youtube.com/watch?v=n0mnVtbQA0I) - [Video] (2017) Git in the Large : Tips and Tricks
+* [Mark Waite](https://www.youtube.com/watch?v=n0mnVtbQA0I) - [Video] (2017) Git in the Large : Tips and Tricks. **Bonus** : [Slides](https://www.slideshare.net/markewaite/git-inthelarge)
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
