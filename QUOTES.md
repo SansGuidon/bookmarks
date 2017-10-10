@@ -24,3 +24,4 @@
 * [NUS Computing](http://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm?type=bestQuotes) - Quotes for Software Engineers
 * I have a feeling that each task I strike off on my todo list gives birth to a few more tasks. - [Venkat Subramaniam](https://twitter.com/venkat_s/status/526145900515962880)
 * Poor quality code is a reflection of lack of respect we carry for what we do, often with out realizing it. [Venkat Subramaniam](https://twitter.com/venkat_s/statuses/521625754485157889)
+* Solving problems you probably don’t have creates more problems you definitely do - [Mike Acton](https://www.slideshare.net/cellperformance/data-oriented-design-and-c)
