@@ -16,3 +16,4 @@
 * One bad programmer can easily create two new jobs a year - David Parnas
 * How to stop time: kiss. How to travel in time: read. How to escape time: music. How to feel time: write. How to waste time: social media. - [Matt Haig](https://twitter.com/matthaig1/statuses/450238719858323456)
 * Sometimes it seems like 80% of my job is convincing decision makers to listen to the people who work for them. - [Jesse James Garrett](https://twitter.com/jjg/statuses/474987558154153984)
+* Software developers think their job is writing code. But it's not. Their job is to solve the customer's problem. [Billy Hollis](https://blog.codinghorror.com/can-your-team-pass-the-elevator-test/) + [Video] [Billy Hollis - CodeHeads Anonymous](https://www.youtube.com/watch?v=LiGsw_k8JhY)
