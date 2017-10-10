@@ -119,6 +119,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Business & Economics
 * [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] Les confessions d’un mineur de bitcoin
+* [SEO'Brien](https://seobrien.com/startups-work-silicon-valley) - Why Do Startups Work in Silicon Valley?
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
@@ -177,6 +178,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
 * [**Daniel Miessler**](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
 * [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
+* [The Next Web](https://twitter.com/Shaun_Springer/status/498529232545669121/photo/1) - (2014) [IMG] It's not about being first to market, it's about being the best. / It's Never Too Late / Just do it better.
 
 # Culture
 * [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -920,6 +922,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sanna](https://twitter.com/Nikkitita69/status/407949378251280384/photo/1) - [IMG] What if physical illness was treated the same way mental illness is...?
 * [Gil](http://blog.lesoir.be/hashtag25/2014/01/08/billet-dhumeur-dune-desperate-diplomee/) - (2014) [FR] Billet d'humeur d'une "desperate diplômée" / De la difficulté de trouver un emploi même avec un bon diplôme
 * [Tom Lloyd](https://twitter.com/TomALloyd/status/441601100794585088/photo/1) - A good advice about the CV for Design students
+* [American Psychological Association](http://www.apa.org/news/press/releases/2014/08/pushed-back.pdf) - [PDF] Why women leave engineering
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -956,6 +959,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mattia Quarta](https://twitter.com/squartadoc/status/380805479414239232/photo/1) - How to read a scientific paper.... brilliant
 * [Philippe Shiu](https://twitter.com/PhilipsShiu/statuses/448760592405241856) - [IMG] math students tip
 * [Topissimo](http://www.topissimo.fr/lol/40-verites-du-quotidien-illustrees-humour.html) - [FR] TOP 40 des vérités du quotidien illustrées avec humour !
+* [Mashable](http://mashable.com/2014/08/10/maria-scrivan-kickstarter) - (2014) [IMG] Young entrepreneurs these days
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -1572,6 +1576,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ron Jeffries](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/) - (2014) why you shouldn't put refactoring stories on your backlog
 * [Martin Fowler](https://www.martinfowler.com/bliki/BoiledCarrot.html) - (2016) When a technique fails ask yourself if it's a faulty technique or a faulty use of the technique
 * [Seph Gentle](https://josephg.com/blog/what-i-tell-all-new-programmers/) - (2014) What I tell all new programmers
+* [Billy Hollis](https://www.youtube.com/watch?v=LiGsw_k8JhY) - (2006) [Video] about programmer code addiction
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1984,6 +1989,7 @@ Raw
 * [Pinterest](https://www.pinterest.com/pin/55872851600451918/?lp=true) - Art and Pictures about MBTI / Zodiac Signs
 * [16Personalities](https://www.16personalities.com/fr/la-personnalite-isfj) - [FR] La personnalité "Défenseur" (ISFJ-A / ISFJ-T)
 * [16Personalities](https://www.16personalities.com/fr/la-personnalite-infj) - [FR] La personnalité "Avocat" (INFJ-A / INFJ-T)
+* [Psychologie-luxeuil](http://www.psy-luxeuil.fr/article-fin-de-vie-les-5-grands-regrets-des-mourants-117710234.html) - [FR] what dying people regret the most in their life / les 5 grands regrets des mourants
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -2267,6 +2273,8 @@ Raw
 * [Tom Lloyd](https://twitter.com/TomALloyd/status/441601100794585088/photo/1) - A good advice about the CV for Design students
 * [Luke Wroblewski](https://twitter.com/lukew/statuses/455742093839724544) - [IMG] Don't port your desktop UI to mobile. Optimize your UI for mobile. 
 * [fireurgunz](https://www.youtube.com/watch?v=YdHTlUGN1zw) - (1957) [Video] Disney did use parallax long before web designers, it was called MultiPlane Camera
+* [Keith Clark](http://keithclark.co.uk/articles/pure-css-parallax-websites/) - (2014) Pure CSS Parallax Websites
+* [Rémi Parmentier](http://www.hteumeuleu.fr/attribut-srcset-images-responsive/) - (2014) [FR] L’attribut srcset pour des images responsive
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
