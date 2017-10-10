@@ -618,6 +618,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [docker/jenkins-pipeline-scripts](https://github.com/docker/jenkins-pipeline-scripts) - Shared Jenkins Pipeline Scripts of Docker, Inc.
 * [Dave Hunt](http://davehunt.co.uk/2017/03/23/migrating-to-declarative-jenkins-pipelines.html) - Migrating to declarative Jenkins pipelines
 * [Luca Milanesio](https://www.youtube.com/watch?v=qU7igt71KRo) - (2017) [Video] Jenkins Forever: Never Delete Anything and Keep Optimal Speed
+* [samrocketman/jervis](https://github.com/samrocketman/jervis) - Travis-like Jenkins job generation using Job DSL plugin groovy scripts. Reads .travis.yml and generates a job in Jenkins.
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
