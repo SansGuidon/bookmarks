@@ -20,3 +20,4 @@
 * It's not about being first to market, it's about being the best. / It's Never Too Late / Just do it better. [The Next Web](https://twitter.com/Shaun_Springer/statuses/498529232545669121)
 * The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. - Edsger W. Dijkstra
 * Le talent ça n'existe pas. Le talent c'est avoir envie de faire quelque chose / Talent does not exist. Talent is only hard work . - [Jacques Brel](https://www.youtube.com/watch?v=K_ylq9CU2lg)
+* Le succès vient souvent d’un faux pas dans la bonne direction.  - Al Bernstein
