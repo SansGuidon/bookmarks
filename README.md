@@ -620,6 +620,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Luca Milanesio](https://www.youtube.com/watch?v=qU7igt71KRo) - (2017) [Video] Jenkins Forever: Never Delete Anything and Keep Optimal Speed
 * [samrocketman/jervis](https://github.com/samrocketman/jervis) - Travis-like Jenkins job generation using Job DSL plugin groovy scripts. Reads .travis.yml and generates a job in Jenkins.
 * [Sam Gleske](https://www.youtube.com/watch?v=qaUPESDcsGg) - [Video] Jenkins World 2017: Mastering the Jenkins Script Console. **Bonus** : [demos source code](https://github.com/samrocketman/demo-jenkins-world-2017) and [source code to demo what has been learned during the video](https://github.com/samrocketman/jenkins-bootstrap-jervis)
+* [samrocketman/jenkins-script-console-scripts](https://github.com/samrocketman/jenkins-script-console-scripts) - A repository of one-off script console scripts for Jenkins.
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
