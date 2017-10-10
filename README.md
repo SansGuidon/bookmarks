@@ -113,6 +113,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Principles of Chaos Engineering](http://principlesofchaos.org/) 
 * [Daniel Miessler](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
 * [Derek Greer](http://aspiringcraftsman.com/2008/01/03/art-of-separation-of-concerns/) - (2008) The Art of Separation of Concerns
+* [Marty Madrid](https://twitter.com/abt_programming/status/516018172072587264/photo/1) - (2014) [IMG] How to build an MVP (Minimum Viable Product)
+* [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -165,6 +167,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2015/09/01/if-something-is-hard-do-it-more-often/) - If Something Is Hard, Do It More Often
 * [John D. Cook](https://www.johndcook.com/blog/2009/04/22/being-indispensable/) - (2009) Do you really want to be indispensable?
+* [Tobias Fors](https://twitter.com/tofo/status/512666251055742977/photo/1) - (2014) [IMG] The project paradox: making the biggest decisions when knowledge is at it's absolute lowest.
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -1606,6 +1609,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John D. Cook](https://www.johndcook.com/blog/2008/10/27/why-there-will-always-be-programmers/) - (2008) Why there will always be programmers
 * [John D. Cook](https://www.johndcook.com/blog/2017/08/19/programming-language-life-expectancy/) - (2017) Programming language life expectancy : about Go, C#, Java, Python, Haskell, Lisp and Fortran future deaths
 * [John D. Cook](https://www.johndcook.com/blog/2017/06/09/one-practical-advantage-of-functional-programming/) - One practical application of functional programming
+* [Andrey Karpov](https://www.viva64.com/en/b/0260/) - The Last Line Effect // about evil copy paste
+* [Neal Ford](https://vimeo.com/103403448) - (2013) [Video] 5 Reasons you should care about Functional Programming
+* [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1655,6 +1661,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [sharipov-ru/all-coding-style-guides](https://github.com/sharipov-ru/all-coding-style-guides) - (2015) All coding style guides in one right place
 * [Josh Reichardt](https://thepracticalsysadmin.com/lint-your-dockerfiles-with-hadolint/) - Lint your Dockerfiles with Hadolint
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
+* [Douglas Crockford](https://twitter.com/EPoberezkin/status/525209820555907072/photo/1) - (2014) [IMG] Good parts of JavaScript reconsidered 
+* [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -1662,6 +1670,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brian Peasland](http://www.peasland.net/2016/10/19/slash-or-no-slash/) - Slash or no Slash in SQL scripts ?
 * [Kenneth Truyers](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/) - Git as a NoSql database
 * [Geoff Wozniak](http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql)  - (2014) What ORMs have taught me: just learn SQL
+* [Matt Butcher](https://dzone.com/articles/nosql-no-more) - (2014) NoSQL No More / NoSQL is not a silver bullet 
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -1674,6 +1683,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Debugging_Business_Rules#gsc.tab=0) - Debugging Business Rules
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 * [Trey Harris](http://www.ibiblio.org/harris/500milemail.html) - The case of the 500-mile email
+* [Andrey Karpov](https://www.viva64.com/en/b/0260/) - The Last Line Effect // about evil copy paste
+* [Stuart Sierra](https://twitter.com/stuartsierra/statuses/512009723282206722) - "There's always a reason, no matter how strange the bug"
 
 ## Gamedev
 > News & Communities
@@ -1837,6 +1848,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Encyclopedia of things considered harmful](http://harmful.cat-v.org/software/java) - Java Sucks
 * [Oracle](http://cr.openjdk.java.net/~jrose/pres/201407-JVMEvolution.pdf) - (2014) [PDF] Evolving the JVM: Principles and Directions / Oracle about challenges faced with implementation of new features for Java and JVM
 * [Javin Paul](http://javarevisited.blogspot.be/2012/05/best-practices-while-dealing-with.html?m=1) - (2012) Best Practices while dealing with Password in Java
+* [Michael G. Schwern](http://www.guild.net/~schwern/papers/Why_I_Am_Not_A_Java_Programmer/why.html) - a questionable comparison between Perl and Java
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
@@ -1858,6 +1870,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
 * [Derek Greer](http://aspiringcraftsman.com/2016/08/30/exploring-typescript/) - (2016) Exploring TypeScript
 * [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Gremlins.js : JS monkey testing library that tests webapp robustness through random user actions
+* [Douglas Crockford](https://twitter.com/EPoberezkin/status/525209820555907072/photo/1) - (2014) [IMG] Good parts of JavaScript reconsidered 
 
 ## Machine Learning
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
@@ -1916,6 +1929,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/connect-local-port-remote-ssh-server/) - How to Connect to a Local Port on a Remote SSH Server
 * [Stack Exchange](https://skeptics.stackexchange.com/questions/18539/has-stack-overflow-saved-billions-of-dollars-in-programmer-productivity) - Has Stack Overflow saved billions of dollars in programmer productivity?
 * [John D. Cook](https://www.johndcook.com/blog/2009/03/18/where-does-the-programming-effort-go/) - (2009) Where does the programming effort go?
+* [Scott Davis](https://www.ibm.com/developerworks/web/library/wa-mean1/) - (2014) From LAMP to MEAN : Introducing the MEAN stack
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -1966,6 +1980,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christina Cardoza](http://sdtimes.com/fifteen-catty-programmers/) - (2014) If programmers were cats…
 * [I Am Devloper](https://twitter.com/iamdevloper/statuses/494212969975529472) - "1. Gonna make an app 2. Need to make a todo list, however no app suits my needs 3. Making a todo app, this'll be great The Developer Cycle™"
 * [Super User](https://superuser.com/questions/792607/why-does-windows-think-that-my-wireless-keyboard-is-a-toaster) - Why does Windows think that my wireless keyboard is a toaster?
+* [DevHumor](http://devhumor.com/media/programmer-vs-lawyer) - (2014) [IMG] Programmer VS Lawyer
+* [Brian Wisti](https://twitter.com/brianwisti/status/503987766032494592) - You are in a legacy codebase ... what do you do ?
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -2326,6 +2342,7 @@ Raw
 * [fireurgunz](https://www.youtube.com/watch?v=YdHTlUGN1zw) - (1957) [Video] Disney did use parallax long before web designers, it was called MultiPlane Camera
 * [Keith Clark](http://keithclark.co.uk/articles/pure-css-parallax-websites/) - (2014) Pure CSS Parallax Websites
 * [Rémi Parmentier](http://www.hteumeuleu.fr/attribut-srcset-images-responsive/) - (2014) [FR] L’attribut srcset pour des images responsive
+* [Zombidev](https://twitter.com/scottdavis99/statuses/524442305764552705) - "The web is just rectangles inside of rectangles..."
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
@@ -2333,6 +2350,7 @@ Raw
 * [Christian Beck](https://medium.com/ux-power-tools/terrible-ux-trends-for-2017-de6faebf099e) - Terrible UX Trends for 2017
 * [Kamal Nayan](http://www.uxcuses.com/) - Designer Excuses, based on [Jon Moore' article on medium](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910)
 * [Bored Elon Musk](https://twitter.com/BoredElonMusk/statuses/412994747632857089) - Modern web design explained in a simple Venn Diagram
+* [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX 
 
 # Web development
 * [Steve Francia](https://gohugo.io/overview/introduction/) - Hugo is a fast & modern static site generator
