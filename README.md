@@ -300,6 +300,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jan Krag](https://www.praqma.com/stories/survival-of-the-fittest/) - (2017) Survival of the Fittest; Evolution in the CI ecosystem
 * [Derek Greer](http://aspiringcraftsman.com/2016/02/28/separation-of-concerns-application-builds-continuous-integration/) - Separation of Concerns: Application Builds & Continuous Integration
 * [The Pragmatic Programmers](https://media.pragprog.com/titles/auto/PragmaticAutomationSummary.pdf) - [PDF] Pragmatic Project Automation Summary Road Map / good one-page summary of [Pragmatic Project Automation](http://www.pragprog.com/titles/auto) book
+* [Slant](https://www.slant.co/topics/799/~best-continuous-integration-tools) - Best CI (Continuous Integration) tools 
+* [Stackify](https://stackify.com/top-continuous-integration-tools/) - (2017) Top Continuous Integration Tools: 51 Tools to Streamline Your Development Process, Boost Quality, and Enhance Accuracy
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -578,14 +580,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [JFrogDev/jenkins-pipeline-examples](https://github.com/JFrogDev/project-examples/tree/master/jenkins-pipeline-examples) - Jenkins pipeline example scripts
 * [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile syntax
 * [Isaac Cohen](https://www.cloudbees.com/blog/ensuring-corporate-standards-pipelines-custom-marker-files) - Ensuring Corporate Standards in Pipelines with Custom Marker Files
-* [jenkinsci/pipeline-plugin](https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md) - [jenkinsci/pipeline-plugin] Plugin Compatibility with Pipeline
+* [jenkinsci/pipeline-plugin](https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md) - Plugin Compatibility with Pipeline
 * [CloudBees](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_at_splunk.pdf) - Jenkins at Splunk and Splunking Jenkins +[Video on YouTube](https://www.youtube.com/watch?v=dlsEprySOrg)
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Splunk+Plugin+for+Pipeline+Job+Support) - Splunk Plugin for Pipeline Job Support
 * [David Hoover](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_inside_google.pdf) - Jenkins inside Google +[YoutuBe Link](https://www.youtube.com/watch?v=7ERV9C20GSE&feature=youtu.be)
 * [Garry Newman](https://garry.tv/2017/05/06/jenkinsfile/) - Garry explains how to write Jenkinsfiles
 * [Garry Newman](https://garry.tv/2017/05/14/jenkins-library/) - Garry explains how he's using Global Jenkins library
 * [Andrew Bayer](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-introducing_a_new_way_to_define_jenkins_pipelines_1.pdf) - [PDF] Introducing a New Way to Define Jenkins Pipelines
-* [jenkinsci/jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts/tree/master/scriptler) - [jenkinsci/jenkins-scripts] collection of utility scripts for use with Jenkins
+* [jenkinsci/jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts/tree/master/scriptler) - collection of utility scripts for use with Jenkins
 * [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md) - collection of tips, advice, gotchas and other best practices for using Jenkins Pipeline
 * [fabric8io/fabric8-jenkinsfile-library](https://github.com/fabric8io/fabric8-jenkinsfile-library) - library of reusable Jenkinsfile, which make use of Fabric8 Pipeline library
 * [fabric8io/fabric8-pipeline-library](https://github.com/fabric8io/fabric8-pipeline-library) - Source code of Fabric8 Pipeline library for Jenkins
@@ -816,6 +818,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
 * [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips 
 * [TopAchat](https://www.topachat.com/configomatic/index.php) - [FR] Config'O'Matic helps you to get the right components to assemble your dream computer, this is how I built mine in 2014
+* [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -831,6 +834,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Discuvver](https://www.discuvver.com) - Take you to one random useful website
 * [AlternativeTo](https://alternativeto.net/platform/self-hosted/?license=opensource) - Open Source Self-Hosted apps on AlternativeTo
 * [Stack Exchange](https://softwarerecs.stackexchange.com/) - Software Recommendations Stack Exchange 
+* [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -913,6 +917,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [NotebookCheck](https://www.notebookcheck.net/Computer-Games-on-Laptop-Graphic-Cards.13849.0.html) - list of GPUs of Laptop Graphic Cards sorted by approximate performance in games
 * [CheezBurger](http://cheezburger.com/8271579136) - How the Gaming Landscape Has Changed (2004 vs 2013)
 * [UnDropDansLaMare](https://www.youtube.com/watch?v=ilLrptqGdqM) - [Video] ... Ce Héros Mis Au Placard [2 minutes pour convaincre] // Death of the polygon 
+* [Korben](https://korben.info/console-jaunie.html) - (2014) [FR] Console jaunie ? Voici comment la traiter pour lui redonner sa couleur d’origine
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -1531,6 +1536,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar) - this Android app let you listen to or read on screen the text from other Android apps, e.g. web pages, news articles, long emails, TXT, PDF, DOC, DOCX, RTF ... useful to do multitasking specialists !!
 * [Morgangeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] FileBot : le couteau suisse du renommage de films et séries
+* [Things I Learned Today](http://thingsilearnedtoday.net/2013/07/20/too-many-tabs-in-google-chrome/) - Too Many Tabs in Google Chrome?
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -1634,6 +1640,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Neal Ford](https://vimeo.com/103403448) - (2013) [Video] 5 Reasons you should care about Functional Programming
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/musings-on-refactoring-as-waste) - (2014) Musings on Refactoring as Waste
+* [Win flex-bison](https://sourceforge.net/projects/winflexbison/files/) - Win flex-bison is a port Flex & Bison tools to the Windows platform
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1830,6 +1837,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
 * [Mark Waite](https://www.youtube.com/watch?v=n0mnVtbQA0I) - [Video] (2017) Git in the Large : Tips and Tricks. **Bonus** : [Slides](https://www.slideshare.net/markewaite/git-inthelarge)
 * [John Wiegley](http://jwiegley.github.io/git-from-the-bottom-up/) - Git from the Bottom Up
+* [Hammer Principle](http://hammerprinciple.com/versioncontrol/items/git/svn) - Git vs SVN features comparison
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -1863,6 +1871,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hubert Klein Ikkink](http://mrhaki.blogspot.be/2009/11/groovy-goodness-working-with-lines-in.html) - Groovy Goodness: Working with Lines in Strings
 * [Tess Thyer](https://coderwall.com/p/nswp1q/calling-other-processes-from-groovy) - Calling Other Processes From Groovy
 * [Joerg Mueller](http://www.joergm.com/2010/09/executing-shell-commands-in-groovy/) - Executing shell commands in Groovy
+* [Groovy](http://groovy-lang.org/learn.html) - learning section of the Groovy website.
 
 ## Java
 * [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
@@ -1959,6 +1968,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Exchange](https://skeptics.stackexchange.com/questions/18539/has-stack-overflow-saved-billions-of-dollars-in-programmer-productivity) - Has Stack Overflow saved billions of dollars in programmer productivity?
 * [John D. Cook](https://www.johndcook.com/blog/2009/03/18/where-does-the-programming-effort-go/) - (2009) Where does the programming effort go?
 * [Scott Davis](https://www.ibm.com/developerworks/web/library/wa-mean1/) - (2014) From LAMP to MEAN : Introducing the MEAN stack
+* [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -2012,6 +2022,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DevHumor](http://devhumor.com/media/programmer-vs-lawyer) - (2014) [IMG] Programmer VS Lawyer
 * [Brian Wisti](https://twitter.com/brianwisti/status/503987766032494592) - You are in a legacy codebase ... what do you do ?
 * [If programmers have make a plane](https://www.youtube.com/watch?v=UZq4sZz56qM) - (2007) [Video] 
+* [The Oatmeal](http://theoatmeal.com/comics/computers) - Why It's Better To Pretend You Don't Know Anything About Computers
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
