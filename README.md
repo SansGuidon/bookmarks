@@ -835,6 +835,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [AlternativeTo](https://alternativeto.net/platform/self-hosted/?license=opensource) - Open Source Self-Hosted apps on AlternativeTo
 * [Stack Exchange](https://softwarerecs.stackexchange.com/) - Software Recommendations Stack Exchange 
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
+* [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -1536,7 +1537,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar) - this Android app let you listen to or read on screen the text from other Android apps, e.g. web pages, news articles, long emails, TXT, PDF, DOC, DOCX, RTF ... useful to do multitasking specialists !!
 * [Morgangeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] FileBot : le couteau suisse du renommage de films et séries
-* [Things I Learned Today](http://thingsilearnedtoday.net/2013/07/20/too-many-tabs-in-google-chrome/) - Too Many Tabs in Google Chrome?
+* [Things I Learned Today](http://thingsilearnedtoday.net/2013/07/20/too-many-tabs-in-google-chrome/) - Too Many Tabs in Google Chrome? try this extension
+* [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -2386,6 +2388,7 @@ Raw
 * [Keith Clark](http://keithclark.co.uk/articles/pure-css-parallax-websites/) - (2014) Pure CSS Parallax Websites
 * [Rémi Parmentier](http://www.hteumeuleu.fr/attribut-srcset-images-responsive/) - (2014) [FR] L’attribut srcset pour des images responsive
 * [Zombidev](https://twitter.com/scottdavis99/statuses/524442305764552705) - "The web is just rectangles inside of rectangles..."
+* [Guillaume Gouessan](http://guillaumegouessan.com/talk/move/) - Making things move when you are a front-end developer / good animating advices 
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
