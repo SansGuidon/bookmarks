@@ -877,6 +877,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday 
 * [UnDropDansLaMare](https://www.youtube.com/watch?v=KzvHvc41qpk) - (Video) [FR] Le Paradoxe du Joueur [2 minutes pour convaincre] short analysis of insatisfaction with modern video games / why video games were best before
 * [Tom's Hardware](http://www.tomshardware.com/reviews/best-gpus,4380.html) - Top-Rated Graphics Cards for Gaming / best GPU for the money 
+* [Can You RUN It?](https://www.systemrequirementslab.com/cyri) - System Requirements Lab analyzes your computer and tell you which games you can / can't run
+* [NotebookCheck](https://www.notebookcheck.net/Computer-Games-on-Laptop-Graphic-Cards.13849.0.html) - list of GPUs of Laptop Graphic Cards sorted by approximate performance in games
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -1436,6 +1438,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - How to Actually Publish More Things
 * [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
 * [Morgangeek blog](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] La sélection naturelle de contenus
+* [Mike Davidson](https://twitter.com/iok/status/497749033918558209/photo/1) - [IMG] Wisdom : A prototype is worth a thousand meetings
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
@@ -1566,6 +1569,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [JAX Editorial Team](https://jaxenter.com/the-most-dangerous-word-in-the-english-language-for-all-developers-108018.html) - (2014) The most dangerous word in the English language for all developers
 * [Dale Myers](https://myers.io/2017/04/04/the-joel-test-for-2017/) - The Joel Test for 2017
 * [Martin Fowler Site](https://martinfowler.com/) - author, speaker, and loud-mouth on the design of enterprise software. Evangelist of refactoring and CI/CD
+* [Ron Jeffries](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/) - (2014) why you shouldn't put refactoring stories on your backlog
+* [Martin Fowler](https://www.martinfowler.com/bliki/BoiledCarrot.html) - (2016) When a technique fails ask yourself if it's a faulty technique or a faulty use of the technique
+* [Seph Gentle](https://josephg.com/blog/what-i-tell-all-new-programmers/) - (2014) What I tell all new programmers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1789,6 +1795,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Google](https://google.github.io/styleguide/javaguide.html) - Google Java Style Guide
 * [oci-pronghorn/GreenLightning](https://github.com/oci-pronghorn/GreenLightning) - Small Java HTTP/s server many times faster than Netty or NGINX
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
+* [Encyclopedia of things considered harmful](http://harmful.cat-v.org/software/java) - Java Sucks
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
@@ -1909,6 +1916,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Est-ce qu’on met un site en production aujourd’hui](https://www.estcequonmetenprodaujourdhui.info/) - ?
 * [Geek&Poke](https://twitter.com/MorganGeek/status/452803771693674497/photo/1) - [IMG] Stacktraces
 * [About Programming](https://twitter.com/abt_programming/statuses/452556061804072960) - Inverse bus factor: "how many developers have to be hit by a bus before a project starts to proceed smoothly?”
+* [Encyclopedia of things considered harmful](http://harmful.cat-v.org/software/java) - Java Sucks
+* [CommitStrip](http://www.commitstrip.com/en/2014/08/14/front-end-vs-back-end/) - (2014) [IMG] Front-End vs Back-End
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
