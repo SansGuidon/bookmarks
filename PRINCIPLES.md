@@ -38,6 +38,7 @@
 * [Stuart Halloway](https://twitter.com/stuarthalloway/statuses/502906568569286657) - the #1 source of software defects is easy presumtion. Presume nothing.
 * "The Principle of Least Astonishment: Make a user interface as consistent and as predictable as possible"
 * "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576)
+* encourage others when they need it. [relevant reference](https://imgur.com/gallery/ihRohVQ)
 
 # from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
