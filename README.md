@@ -904,6 +904,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 * [Free Online Picture Resizer](http://www.picresize.com/batch.php) - Easily crop, resize and edit your images online for free
 * [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
+* [PDF Merge](https://www.pdfmerge.com/) - merge PDF files online
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
