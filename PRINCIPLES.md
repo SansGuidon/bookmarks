@@ -41,6 +41,7 @@
 * encourage others when they need it. [relevant reference](https://imgur.com/gallery/ihRohVQ)
 * [Tim Lister](https://twitter.com/abt_programming/statuses/538015028574945280) - If you don't get innate pleasure from writing code, it's time to move on
 * [Raphaël Yharrassarry](https://twitter.com/QuentinG/status/532974296269062144/photo/1) - Il faut s'attaquer aux comportements et non aux idées
+* [Natanael Copa](https://www.youtube.com/watch?v=5FHYdwQlAMs) - don't install / start things unless explicitly asked for or needed (to improve security)
 
 # from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
