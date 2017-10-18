@@ -119,6 +119,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marty Madrid](https://twitter.com/abt_programming/status/516018172072587264/photo/1) - (2014) [IMG] How to build an MVP (Minimum Viable Product)
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
+* [The Twelve-Factor App](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -128,7 +129,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] Les confessions d’un mineur de bitcoin
 * [SEO'Brien](https://seobrien.com/startups-work-silicon-valley) - Why Do Startups Work in Silicon Valley?
-* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] 
+* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] Competitivity 
+* [Crypto Lite](http://cryptolite.net/) - A quick way to check the top-100 cryptocurrencies price
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
@@ -308,6 +310,11 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Pragmatic Programmers](https://media.pragprog.com/titles/auto/PragmaticAutomationSummary.pdf) - [PDF] Pragmatic Project Automation Summary Road Map / good one-page summary of [Pragmatic Project Automation](http://www.pragprog.com/titles/auto) book
 * [Slant](https://www.slant.co/topics/799/~best-continuous-integration-tools) - Best CI (Continuous Integration) tools 
 * [Stackify](https://stackify.com/top-continuous-integration-tools/) - (2017) Top Continuous Integration Tools: 51 Tools to Streamline Your Development Process, Boost Quality, and Enhance Accuracy
+* [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
+* [TotalCloud](https://totalcloud.io/devops_checklists.html) - A collection of DevOps checklists
+* [Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops) - DevOps Checklist
+* [Aymen El Amri](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - The 15-point DevOps Check List
+* [Steve Pereira](http://devopschecklist.com/) - The DevOps Checklist
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -383,6 +390,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ansible-console](https://docs.ansible.com/ansible/latest/ansible-console.html) - a REPL that allows for running ad-hoc tasks against a chosen inventory (based [dominis/ansible-shell](https://github.com/dominis/ansible-shell))
 * [Cliffano Subagio](http://blog.cliffano.com/2014/04/06/human-readable-ansible-playbook-log-output-using-callback-plugin/) - Human-Readable Ansible Playbook Log Output Using Callback Plugin
 * [Ansible Docs](http://docs.ansible.com/ansible/latest/playbooks_intro.html#handlers-running-operations-on-change) - Handlers: Running Operations On Change + notify & listen
+* [volanja/ansible_spec](https://github.com/volanja/ansible_spec) - a ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration (or TDD).
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -481,7 +489,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Red Hat Customer Portal](https://access.redhat.com/articles/2772861) - Differences between RHEL Server and RHEL Atomic Host
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/getting_started_with_containers/using_red_hat_base_container_images_standard_and_minimal) - Using Red Hat Base Container Images (standard and minimal)
 * [Thierry Carez](http://superuser.openstack.org/articles/openstack-relevant-containers) - What makes OpenStack relevant in a container-driven world. [Related Video](https://www.youtube.com/watch?v=2QnHdncpypI)
-* [Aymen El Amri](https://medium.com/statuscode/dockercheatsheet-9730ce03630d) - My Docker Cheat Sheet
+* [**Aymen El Amri**](https://medium.com/statuscode/dockercheatsheet-9730ce03630d) - My Docker Cheat Sheet
 * [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
@@ -629,6 +637,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [samrocketman/jervis](https://github.com/samrocketman/jervis) - Travis-like Jenkins job generation using Job DSL plugin groovy scripts. Reads .travis.yml and generates a job in Jenkins.
 * [Sam Gleske](https://www.youtube.com/watch?v=qaUPESDcsGg) - [Video] Jenkins World 2017: Mastering the Jenkins Script Console. **Bonus** : [demos source code](https://github.com/samrocketman/demo-jenkins-world-2017) and [source code to demo what has been learned during the video](https://github.com/samrocketman/jenkins-bootstrap-jervis)
 * [samrocketman/jenkins-script-console-scripts](https://github.com/samrocketman/jenkins-script-console-scripts) - A repository of one-off script console scripts for Jenkins.
+* [rusty-dev/jenkins-job-builder-pipeline](https://github.com/rusty-dev/jenkins-job-builder-pipeline) - Pipeline support for jenkins-job-builder
+* [OpenStack Docs](https://docs.openstack.org/infra/system-config/jjb.html) - Documentation for Jenkins Job Builder; a system for configuring Jenkins jobs using simple YAML files stored in Git.
+* [OpenStack Docs](https://docs.openstack.org/infra/jenkins-job-builder/project_pipeline.html) - Jenkins Job Builder documentation for the Pipeline Project module
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -903,8 +914,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 * [Free Online Picture Resizer](http://www.picresize.com/batch.php) - Easily crop, resize and edit your images online for free
-* [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
+* [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyze the HTTP response headers
 * [PDF Merge](https://www.pdfmerge.com/) - merge PDF files online
+* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -926,6 +938,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CheezBurger](http://cheezburger.com/8271579136) - How the Gaming Landscape Has Changed (2004 vs 2013)
 * [UnDropDansLaMare](https://www.youtube.com/watch?v=ilLrptqGdqM) - [Video] ... Ce Héros Mis Au Placard [2 minutes pour convaincre] // Death of the polygon 
 * [Korben](https://korben.info/console-jaunie.html) - (2014) [FR] Console jaunie ? Voici comment la traiter pour lui redonner sa couleur d’origine
+* [Pencil and Paper games](http://www.papg.com/) - Because I enjoy good games that don't depend on any modern technology 
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -1325,6 +1338,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Charity Majors](https://opensource.com/article/17/7/state-systems-administration) - Ops: It's everyone's job now
 * [Paul English](https://opensource.com/article/17/7/truth-about-sysadmins) - The truth about sysadmins
 * [plop_plop_sys](http://linuxfr.org/users/plop_plop_sys/journaux/so-you-wanna-be-a-sysadmin-trolldi-inside) - (2014) [FR] - Journal So, you wanna be a sysadmin ? (Trolldi inside)
+* [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1513,6 +1527,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - 7 Shortcuts You Will Regret Taking in Life
 * [Daniel Miessler](https://danielmiessler.com/blog/how-to-decide-who-to-friend-on-facebook-linkedin-and-twitter/) - How To Decide Who To Friend on Facebook, LinkedIn, and Twitter
 * [Daniel Miessler](https://danielmiessler.com/projects/concepts/) - Lot of concepts summarized by Daniel Miessler
+* [Lecture Hunt](http://lecturehunt.com/) - find and share best learning material online (How to's, courses, ...)
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
@@ -1655,6 +1670,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/musings-on-refactoring-as-waste) - (2014) Musings on Refactoring as Waste
 * [Win flex-bison](https://sourceforge.net/projects/winflexbison/files/) - Win flex-bison is a port Flex & Bison tools to the Windows platform
+* [The Twelve-Factor App](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
+* [mr-mig/every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1714,6 +1731,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [Venkat Subramaniam](https://twitter.com/venkat_s/statuses/521625754485157889) - "Poor quality code is a reflection of lack of respect we carry for what we do, often with out realizing it."
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/musings-on-refactoring-as-waste) - (2014) Musings on Refactoring as Waste
+* [The Twelve-Factor App](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -1984,6 +2002,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John D. Cook](https://www.johndcook.com/blog/2009/03/18/where-does-the-programming-effort-go/) - (2009) Where does the programming effort go?
 * [Scott Davis](https://www.ibm.com/developerworks/web/library/wa-mean1/) - (2014) From LAMP to MEAN : Introducing the MEAN stack
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
+* [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -2189,6 +2208,7 @@ Raw
 * [JeffOps](http://jeffwouters.nl/) - The Scripting dutchman : lot of scripts and tips for powershell 
 * [PSScriptAnalyzer](https://www.powershellgallery.com/packages/PSScriptAnalyzer/) -  provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
 * [Eric Pement](http://www.pement.org/awk/awk_sed.txt) - (2001) Comparing similar operations with sed and awk
+* [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash + some tips
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -2290,6 +2310,10 @@ Raw
 * [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
 * [Javin Paul](http://javarevisited.blogspot.be/2012/05/best-practices-while-dealing-with.html?m=1) - (2012) Best Practices while dealing with Password in Java
 * [Google](https://www.youtube.com/watch?v=d90Ov6QM1jE) - [Video] How Google Protects Its Corporate Security Perimeter without Firewalls / Very interesting insight into Google's BeyondCorp Zero Trust Network.
+* [Google Security Blog](https://security.googleblog.com/) - latest news and insights from Google on security and safety on the Internet
+* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
+* [OWASP](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet) - OWASP Top Ten Cheat Sheet
+* [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -2393,6 +2417,8 @@ Raw
 * [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Gremlins.js : JS monkey testing library that tests webapp robustness through random user actions
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam) - Integrated Tests Are A Scam
 * [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." 
+* [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
+* [volanja/ansible_spec](https://github.com/volanja/ansible_spec) - a ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration (or TDD).
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
@@ -2461,6 +2487,7 @@ Raw
 * [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
 * [SEO'Brien](https://seobrien.com/writing-search-optimized-blog-posts) - (2011) Writing Search Optimized Blog Posts
 * [Matias Meno](http://www.colorglare.com/2014/11/24/stateless-html.html) - (2014) Stop writing stateful HTML
+* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
