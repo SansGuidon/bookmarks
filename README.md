@@ -315,6 +315,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops) - DevOps Checklist
 * [Aymen El Amri](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - The 15-point DevOps Check List
 * [Steve Pereira](http://devopschecklist.com/) - The DevOps Checklist
+* [fagnerbrack](https://imgur.com/gallery/SWDy6) - [IMG] The Periodic Table Of Software Engineering
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
