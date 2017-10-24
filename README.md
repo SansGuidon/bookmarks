@@ -179,6 +179,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 * [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
 * [Wesley Moore](http://www.wezm.net/technical/2017/10/pair-programming/) - Pair Programming
+* [Jacob Shriar](http://switchandshift.com/13-scary-statistics-on-employee-engagement) - 13 Scary Statistics on Employee Engagement
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -994,6 +995,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Shaun Boyd](http://www.lifereboot.com/2007/10-reasons-it-doesnt-pay-to-be-the-computer-guy/) - (2007) 10 Reasons It Doesn’t Pay To Be “The Computer Guy”
 * [Steve Pavlina](https://www.stevepavlina.com/blog/2005/01/dont-die-with-your-music-still-in-you/) - (2005) Don’t Die With Your Music Still In You
 * [Harvard Biz Review](https://twitter.com/HarvardBiz/status/534858622439022592/photo/1) - (2014) What employees value at work
+* [Jacob Shriar](http://switchandshift.com/13-scary-statistics-on-employee-engagement) - 13 Scary Statistics on Employee Engagement
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
