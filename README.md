@@ -199,6 +199,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John D. Cook](https://www.johndcook.com/blog/2009/12/16/good-work-with-bad-tools/) - Doing good work with bad tools
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 * [Vala Afshar](https://twitter.com/ValaAfshar/status/538001419702657024/photo/1) - (2014) [IMG] knowledge vs experience vs creativity
+* [Roy Osing](https://talentculture.com/11-ways-to-lose-yourself-in-the-crowd/) - Anti principles (Don't do this !) / 11 Ways To Lose Yourself In The Crowd
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
