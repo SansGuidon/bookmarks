@@ -28,4 +28,4 @@
 * Enemies of creativity: 1 desire to please all 2 big ego 3 self-doubt 4 control 5 fear of failure 6 process rigor 7 impatience 8 abundance. - [Vala Afshar](https://twitter.com/ValaAfshar/statuses/538067497023311872)
 * Train people well enough so they can leave, treat them well enough so they don't want to. - [Richard Branson](https://twitter.com/ValaAfshar/statuses/538086077861748736)
 * Pour avoir l'attention de qqn il suffit de crier dans son oreille - [Toby Cooper](https://twitter.com/tkoopa/statuses/532992339003068416)
-* La ponctualité c'est un truc que tu regrettes quand t'es le seul con à être arrivé à l'heure au rendez-vous - [MorganGeek](https://twitter.com/MorganGeek/statuses/537579386778959873)
+* Punctuality is something you regret when everyone else does not care and is late / La ponctualité c'est un truc que tu regrettes quand t'es le seul con à être arrivé à l'heure au rendez-vous - [MorganGeek](https://twitter.com/MorganGeek/statuses/537579386778959873)
