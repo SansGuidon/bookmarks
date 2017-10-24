@@ -220,6 +220,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 * [Cinesift](https://www.cinesift.com/) - 'Cinesift' Sorts Ratings and Streaming Services to Help Users Pick Films. **Bonus** : [Presentation of Cinesift by Trend Hunter](https://www.trendhunter.com/trends/film-database)
 * [Graph TV](http://graphtv.kevinformatics.com/) - Graph Ratings of Your Favorite TV Shows / Visualize IMDb ratings and trends of TV shows by episode.
+* [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
+* [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1530,6 +1532,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/projects/concepts/) - Lot of concepts summarized by Daniel Miessler
 * [Lecture Hunt](http://lecturehunt.com/) - find and share best learning material online (How to's, courses, ...)
 * [Thoughtbot's playbook](https://thoughtbot.com/playbook) - a guide explaining how Thoughtbot build products and run their company
+* [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
+* [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
