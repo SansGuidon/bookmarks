@@ -2030,6 +2030,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
 * [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
 * [Andrew Bosworth](http://boz.com/articles/say-no.html) - Say No
+* [Andre Meyer](http://www.felienne.com/archives/3665) - (2014) Software developer’s perceptions of productivity
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
