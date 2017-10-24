@@ -183,6 +183,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Wesley Moore](http://www.wezm.net/technical/2017/10/pair-programming/) - Pair Programming
 * [Jacob Shriar](http://switchandshift.com/13-scary-statistics-on-employee-engagement) - 13 Scary Statistics on Employee Engagement
 * [Fred Hebert](https://ferd.ca/don-t-be-a-jerk-write-documentation.html) - Don't be a Jerk: Write Documentation
+* [Andrew Bosworth](http://boz.com/articles/say-no.html) - Say No
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -2027,6 +2028,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Scott Davis](https://www.ibm.com/developerworks/web/library/wa-mean1/) - (2014) From LAMP to MEAN : Introducing the MEAN stack
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
 * [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
+* [Andrew Bosworth](http://boz.com/articles/say-no.html) - Say No
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
