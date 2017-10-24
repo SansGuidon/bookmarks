@@ -843,6 +843,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [TopAchat](https://www.topachat.com/configomatic/index.php) - [FR] Config'O'Matic helps you to get the right components to assemble your dream computer, this is how I built mine in 2014
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
 * [dupeGuru](https://www.hardcoded.net/dupeguru/) - is a tool to find duplicate files on your computer.
+* [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) - +27 million content in biomedical literature from MEDLINE, life science journals, and online books.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
