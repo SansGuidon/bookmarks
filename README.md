@@ -1380,6 +1380,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Eugen Paraschiv](https://stackify.com/9-logging-sins-java/) - 9 Logging Sins in Your Java Applications
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
 * [Splunk Docs](https://docs.splunk.com/Documentation/Splunk/6.4.3/SearchReference/Fields) - Splunk Search reference
+* [Tim O'Brien](https://discursive.com/2013/10/30/how-to-get-your-crazy-logs-under-control/) - 10 Steps to Get Your Crazy Logs Under Control
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
