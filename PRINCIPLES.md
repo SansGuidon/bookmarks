@@ -47,6 +47,7 @@
 * [Vala Afshar](https://twitter.com/ValaAfshar/statuses/537441340842582017) - Tell people where you're going and why. Some may volunteer their time and effort to help you get there sooner.
 * [Goethe](https://twitter.com/ValaAfshar/statuses/537084241268727808) - The way you see people is the way you treat them, and the way you treat them is what they become.
 * [Amelia Earhart](https://twitter.com/GlenGilmore/statuses/536974002557042689) - The most effective way to do it, is to do it. ~ Amelia Earhart RT 
+* [Vala Afshar](https://twitter.com/ValaAfshar/statuses/536662076924915712) - The best way to achieve mediocrity is by often choosing the path of least resistance.
 
 # from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
