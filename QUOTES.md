@@ -38,3 +38,4 @@
 * "Your idea is better, but we're going to ignore it, since that's not the way we've always done it," said no good leader, ever. - [Vala Afshar](https://twitter.com/ValaAfshar/statuses/537080571693105152)
 * Practice isn't the thing you do once you're good. It's the thing you do that makes you good. - [Malcolm Gladwell](https://twitter.com/ValaAfshar/statuses/537075225352212480)
 * You are not a team because you work together. You are a team because you trust, respect and care for each other. [Vala Afshar](https://twitter.com/ValaAfshar/statuses/536976229828952064)
+* If something is taboo, it's probably worth discussing. - [Daily Zen](https://twitter.com/dailyzen/statuses/536700792435376128)
