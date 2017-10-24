@@ -43,6 +43,7 @@
 * [Raphaël Yharrassarry](https://twitter.com/QuentinG/status/532974296269062144/photo/1) - Il faut s'attaquer aux comportements et non aux idées
 * [Natanael Copa](https://www.youtube.com/watch?v=5FHYdwQlAMs) - don't install / start things unless explicitly asked for or needed (to improve security)
 * [Paul Graham](https://twitter.com/ValaAfshar/statuses/538015468146393088) - Don't let other people tell you the problems you're working on don't matter. People are frequently mistaken about this.
+* [Meir Lehman](https://twitter.com/CodeWisdom/status/921139649661284352) - An evolving system increases its complexity unless work is done to reduce it.
 
 # from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
