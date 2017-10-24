@@ -1970,6 +1970,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Derek Greer](http://aspiringcraftsman.com/2016/08/30/exploring-typescript/) - (2016) Exploring TypeScript
 * [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Gremlins.js : JS monkey testing library that tests webapp robustness through random user actions
 * [Douglas Crockford](https://twitter.com/EPoberezkin/status/525209820555907072/photo/1) - (2014) [IMG] Good parts of JavaScript reconsidered 
+* [Stoyan Stefanov](http://www.phpied.com/files/location-location/location-location.html) - 535 ways to reload the page with JavaScript
 
 ## Machine Learning
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
