@@ -2069,6 +2069,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [If programmers have make a plane](https://www.youtube.com/watch?v=UZq4sZz56qM) - (2007) [Video] 
 * [The Oatmeal](http://theoatmeal.com/comics/computers) - Why It's Better To Pretend You Don't Know Anything About Computers
 * [Les joies du code](http://lesjoiesducode.fr) - [FR] l'instant GIF des développeurs !
+* [Leftover Salad](http://leftoversalad.tumblr.com/post/103503118002) - Difference between Java and JavaScript
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
