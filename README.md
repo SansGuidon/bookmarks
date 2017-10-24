@@ -1219,7 +1219,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/chapters/17.html) - Status Lines
 * [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
-* [VimAwesome](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
+* [**VimAwesome](https://vimawesome.com/**) - Awesome Vim Plugins from Accross the universe
 * [Daniel Miessler](https://danielmiessler.com/study/vim/) - A vim Tutorial and Primer
 * [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
 * [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used in Vim through [ALE](https://github.com/w0rp/ale), [Neomake](https://github.com/neomake/neomake), or [Syntastic](https://github.com/vim-syntastic/syntastic)
@@ -1294,7 +1294,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [Lobsters](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
-* [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
+* [**Le Gorafi**](http://www.legorafi.fr/) - [FR] news satire
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 * [Alltop](https://alltop.com/new/) - News aggregator, similar to Popurls. Aggregates news by topic also 
@@ -2031,7 +2031,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
 * [Jeff Atwood](https://blog.codinghorror.com/new-programming-jargon/) - New Programming Jargon
 * [MonkeyUser](http://www.monkeyuser.com/) - software development satire web comic
-* [The Coding Love](http://thecodinglove.com/) - the_coding_love(); /* epic gifs for developers */
+* [**The Coding Love**](http://thecodinglove.com/) - the_coding_love(); /* epic gifs for developers */
 * [Scott Adams](http://dilbert.com/) - Dilbert comic : satiric humor about a micromanaged office featuring engineer Dilbert
 * [Devhumor](http://devhumor.com/) - humor for developers
 * [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - programmer humor on reddit
