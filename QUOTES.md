@@ -29,7 +29,7 @@
 * Train people well enough so they can leave, treat them well enough so they don't want to. - [Richard Branson](https://twitter.com/ValaAfshar/statuses/538086077861748736)
 * Pour avoir l'attention de qqn il suffit de crier dans son oreille - [Toby Cooper](https://twitter.com/tkoopa/statuses/532992339003068416)
 * Punctuality is something you regret when everyone else does not care and is late / La ponctualité c'est un truc que tu regrettes quand t'es le seul con à être arrivé à l'heure au rendez-vous - [MorganGeek](https://twitter.com/MorganGeek/statuses/537579386778959873)
-* [Mike Veerman](https://twitter.com/mikeveerman/status/920274432148561920) - The backlog is a tool for development, not planning. Throw it away monthly. If you fear forgetting something, it's prob. not that important.
-* [Mike Veerman](https://twitter.com/mikeveerman/status/920937671287066624) - Your organisation should be adapted to your product, not the other way around.
-* [Jochen Wolters](https://twitter.com/jochenWolters/status/918685909549178882) - “Employees don’t quit companies; they quit managers.” Yes, and they also _stay on_ for managers. Let great managers leave at your peril.
-* [Mike Veerman](https://twitter.com/mikeveerman/status/921439736107098115) - Technology is the easy part of automation.
+* The backlog is a tool for development, not planning. Throw it away monthly. If you fear forgetting something, it's prob. not that important. - [Mike Veerman](https://twitter.com/mikeveerman/status/920274432148561920)
+* Your organisation should be adapted to your product, not the other way around. - [Mike Veerman](https://twitter.com/mikeveerman/status/920937671287066624)
+* “Employees don’t quit companies; they quit managers.” Yes, and they also _stay on_ for managers. Let great managers leave at your peril. - [Jochen Wolters](https://twitter.com/jochenWolters/status/918685909549178882)
+* Technology is the easy part of automation. - [Mike Veerman](https://twitter.com/mikeveerman/status/921439736107098115)
