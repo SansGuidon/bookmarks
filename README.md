@@ -1523,6 +1523,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Morgangeek blog](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] La sélection naturelle de contenus
 * [Mike Davidson](https://twitter.com/iok/status/497749033918558209/photo/1) - [IMG] Wisdom : A prototype is worth a thousand meetings
 * [Jeff Atwood](https://blog.codinghorror.com/because-reading-is-fundamental-2/) - (2014) Because Reading is Fundamental / spend less time talking and more time reading 
+* [Mike Veerman](https://medium.com/@mikeveerman/simple-is-the-opposite-of-easy-56d585f95039) - Simple is the opposite of easy
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
