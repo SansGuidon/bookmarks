@@ -1107,7 +1107,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alexander Kuleshov aka 0xAX](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md) - Linux insides : A little bit about a linux kernel 
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 * [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
-* [Netflix](https://medium.com/netflix-techblog/netflix-at-velocity-2015-linux-performance-tools-51964ddb81cf) - Netflix at Velocity 2015: Linux Performance Tools (+[Slides](https://www.slideshare.net/brendangregg/velocity-2015-linux-perf-tools))
+* [Brendan Gregg](https://medium.com/netflix-techblog/netflix-at-velocity-2015-linux-performance-tools-51964ddb81cf) - Netflix at Velocity 2015: Linux Performance Tools (+[Slides](https://www.slideshare.net/brendangregg/velocity-2015-linux-perf-tools))
 * [aleksandar-todorovic/awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) - list of awesome resources that make Linux awesome
 * [Geek Flare](https://geekflare.com/category/web-infrastructure/unix/) - general Unix articles, tips, tools for managing web infrastructure
 * [LZone](https://lzone.de/cheat-sheet/Linux-Commands) - Linux commands cheatsheet
