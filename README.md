@@ -1947,6 +1947,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Oracle](http://cr.openjdk.java.net/~jrose/pres/201407-JVMEvolution.pdf) - (2014) [PDF] Evolving the JVM: Principles and Directions / Oracle about challenges faced with implementation of new features for Java and JVM
 * [Javin Paul](http://javarevisited.blogspot.be/2012/05/best-practices-while-dealing-with.html?m=1) - (2012) Best Practices while dealing with Password in Java
 * [Michael G. Schwern](http://www.guild.net/~schwern/papers/Why_I_Am_Not_A_Java_Programmer/why.html) - a questionable comparison between Perl and Java
+* [Venkat Subramaniam](https://www.youtube.com/watch?v=j9nj5dTo54Q) - [Video] Hilarious presentation : Java 8 Language Capabilities, What's in it for you?
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
