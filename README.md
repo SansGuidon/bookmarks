@@ -2070,6 +2070,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Oatmeal](http://theoatmeal.com/comics/computers) - Why It's Better To Pretend You Don't Know Anything About Computers
 * [Les joies du code](http://lesjoiesducode.fr) - [FR] l'instant GIF des développeurs !
 * [Leftover Salad](http://leftoversalad.tumblr.com/post/103503118002) - Difference between Java and JavaScript
+* [Feminist Hacker Barbie](http://computer-engineer-barbie.herokuapp.com/browse) - Comics about Barbie seen as a developer / sysadmin
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
