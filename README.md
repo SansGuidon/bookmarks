@@ -1743,6 +1743,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kenneth Truyers](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/) - Git as a NoSql database
 * [Geoff Wozniak](http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql)  - (2014) What ORMs have taught me: just learn SQL
 * [Matt Butcher](https://dzone.com/articles/nosql-no-more) - (2014) NoSQL No More / NoSQL is not a silver bullet 
+* [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -2212,6 +2213,7 @@ Raw
 * [PSScriptAnalyzer](https://www.powershellgallery.com/packages/PSScriptAnalyzer/) -  provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
 * [Eric Pement](http://www.pement.org/awk/awk_sed.txt) - (2001) Comparing similar operations with sed and awk
 * [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash + some tips
+* [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
