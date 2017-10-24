@@ -36,3 +36,4 @@
 * A complex system that works is invariably found to have evolved from a simple system that worked - [John Gall](https://twitter.com/abt_programming/statuses/537307993151246336)
 * If someone tell you he understand your build process, you probably have to explain him better / Si quelqu'un comprend notre processus de build, c'est qu'on lui a pas bien expliqué.... [MorganGeek](https://twitter.com/MorganGeek/statuses/537192681609658368)
 * "Your idea is better, but we're going to ignore it, since that's not the way we've always done it," said no good leader, ever. - [Vala Afshar](https://twitter.com/ValaAfshar/statuses/537080571693105152)
+* Practice isn't the thing you do once you're good. It's the thing you do that makes you good. - [Malcolm Gladwell](https://twitter.com/ValaAfshar/statuses/537075225352212480)
