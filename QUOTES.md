@@ -34,3 +34,4 @@
 * “Employees don’t quit companies; they quit managers.” Yes, and they also _stay on_ for managers. Let great managers leave at your peril. - [Jochen Wolters](https://twitter.com/jochenWolters/status/918685909549178882)
 * Technology is the easy part of automation. - [Mike Veerman](https://twitter.com/mikeveerman/status/921439736107098115)
 * A complex system that works is invariably found to have evolved from a simple system that worked - [John Gall](https://twitter.com/abt_programming/statuses/537307993151246336)
+* If someone tell you he understand your build process, you probably have to explain him better / Si quelqu'un comprend notre processus de build, c'est qu'on lui a pas bien expliqué.... [MorganGeek](https://twitter.com/MorganGeek/statuses/537192681609658368)
