@@ -178,6 +178,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tobias Fors](https://twitter.com/tofo/status/512666251055742977/photo/1) - (2014) [IMG] The project paradox: making the biggest decisions when knowledge is at it's absolute lowest.
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 * [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
+* [Wesley Moore](http://www.wezm.net/technical/2017/10/pair-programming/) - Pair Programming
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
