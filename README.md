@@ -956,6 +956,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
+* [NESblog / Speed Game](https://www.youtube.com/watch?v=VKvcQNLk9yA) - [FR] [Video] Le Jeu de Rôle Papier, analyse des spécificités de cette famille de jeu
 
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
