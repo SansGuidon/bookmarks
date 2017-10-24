@@ -840,6 +840,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips 
 * [TopAchat](https://www.topachat.com/configomatic/index.php) - [FR] Config'O'Matic helps you to get the right components to assemble your dream computer, this is how I built mine in 2014
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
+* [dupeGuru](https://www.hardcoded.net/dupeguru/) - is a tool to find duplicate files on your computer.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1575,6 +1576,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
 * [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
 * [Stéphane le calme](https://www.developpez.com/actu/77483/Des-retards-dans-les-delais-de-livraison-d-un-projet-Oui-mais-a-qui-la-faute-Une-etude-en-recherche-la-cause/) - (2014) [FR] Des retards dans les délais de livraison d'un projet ? Oui, mais à qui la faute ?
+* [dupeGuru](https://www.hardcoded.net/dupeguru/) - is a tool to find duplicate files on your computer.
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
