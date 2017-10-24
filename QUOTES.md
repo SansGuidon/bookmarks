@@ -39,3 +39,4 @@
 * Practice isn't the thing you do once you're good. It's the thing you do that makes you good. - [Malcolm Gladwell](https://twitter.com/ValaAfshar/statuses/537075225352212480)
 * You are not a team because you work together. You are a team because you trust, respect and care for each other. [Vala Afshar](https://twitter.com/ValaAfshar/statuses/536976229828952064)
 * If something is taboo, it's probably worth discussing. - [Daily Zen](https://twitter.com/dailyzen/statuses/536700792435376128)
+* People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily - [Zig Ziglar](https://twitter.com/abt_programming/status/536549776687628289)
