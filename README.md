@@ -120,6 +120,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
 * [The Twelve-Factor App](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
+* [Fred Hebert](https://ferd.ca/queues-don-t-fix-overload.html) - Queues Don't Fix Overload
+* [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -180,6 +182,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
 * [Wesley Moore](http://www.wezm.net/technical/2017/10/pair-programming/) - Pair Programming
 * [Jacob Shriar](http://switchandshift.com/13-scary-statistics-on-employee-engagement) - 13 Scary Statistics on Employee Engagement
+* [Fred Hebert](https://ferd.ca/don-t-be-a-jerk-write-documentation.html) - Don't be a Jerk: Write Documentation
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -1220,7 +1223,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/chapters/17.html) - Status Lines
 * [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
-* [**VimAwesome](https://vimawesome.com/**) - Awesome Vim Plugins from Accross the universe
+* [**VimAwesome**](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
 * [Daniel Miessler](https://danielmiessler.com/study/vim/) - A vim Tutorial and Primer
 * [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
 * [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used in Vim through [ALE](https://github.com/w0rp/ale), [Neomake](https://github.com/neomake/neomake), or [Syntastic](https://github.com/vim-syntastic/syntastic)
@@ -1228,6 +1231,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.  
 * [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
 * [Josh Reichardt](https://thepracticalsysadmin.com/useful-vim-plugins/) - Useful Vim Plugins
+* [Fred Hebert](https://ferd.ca/vim-and-composability.html) - Vim and Composability
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -1349,6 +1353,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Paul English](https://opensource.com/article/17/7/truth-about-sysadmins) - The truth about sysadmins
 * [plop_plop_sys](http://linuxfr.org/users/plop_plop_sys/journaux/so-you-wanna-be-a-sysadmin-trolldi-inside) - (2014) [FR] - Journal So, you wanna be a sysadmin ? (Trolldi inside)
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
+* [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2229,6 +2234,7 @@ Raw
 * [Eric Pement](http://www.pement.org/awk/awk_sed.txt) - (2001) Comparing similar operations with sed and awk
 * [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash + some tips
 * [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
+* [Fred Hebert](https://ferd.ca/awk-in-20-minutes.html) - Awk in 20 Minutes
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
