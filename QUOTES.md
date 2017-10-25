@@ -42,3 +42,4 @@
 * People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily - [Zig Ziglar](https://twitter.com/abt_programming/status/536549776687628289)
 * "Surprise in movies and novels is good. Surprise in computer code is bad" - [Patrick Burns](https://twitter.com/abt_programming/statuses/534330650355306496)
 * A good professional places quality over quantity - [Venkat Subramaniam](https://twitter.com/venkat_s/statuses/533987853379047424)
+* The most impressive people I know are almost never mean, and the meanest people I know are almost never impressive. - [Paul Graham](https://twitter.com/paulg/statuses/533813744128647169)
