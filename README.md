@@ -1943,6 +1943,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tess Thyer](https://coderwall.com/p/nswp1q/calling-other-processes-from-groovy) - Calling Other Processes From Groovy
 * [Joerg Mueller](http://www.joergm.com/2010/09/executing-shell-commands-in-groovy/) - Executing shell commands in Groovy
 * [Groovy](http://groovy-lang.org/learn.html) - learning section of the Groovy website.
+* [Iván López Martín](https://www.slideshare.net/ilopmar/metaprogramming-with-groovy) - (2014) [Slides] Metaprogramming with groovy
 
 ## Java
 * [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
