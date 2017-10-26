@@ -120,7 +120,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marty Madrid](https://twitter.com/abt_programming/status/516018172072587264/photo/1) - (2014) [IMG] How to build an MVP (Minimum Viable Product)
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
-* [The Twelve-Factor App](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
+* [**The Twelve-Factor App**](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 * [Fred Hebert](https://ferd.ca/queues-don-t-fix-overload.html) - Queues Don't Fix Overload
 * [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 
