@@ -139,7 +139,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
 * [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
 * [Dale Emery](http://cwd.dhemery.com/2005/05/motivation) - model of motivation : Motivation = Ability × Results × Preferences
-* [Jbrains.ca](http://blog.jbrains.ca/permalink/what-if-we-forget-to-write-the-tests) - What If We Forget To Write the Tests?
+* [J. B. Rainsberger](http://blog.jbrains.ca/permalink/what-if-we-forget-to-write-the-tests) - What If We Forget To Write the Tests?
 * [Paul Kaye](https://www.linkedin.com/pulse/control-stifles-creativity-growth-paul-kaye) - Control stifles creativity and growth
 * [Corinna Baldauf](http://wall-skills.com/2017/glasls-stages-of-conflict-escalation/) - Glasl’s Stages of Conflict Escalation
 * [Wall-Skills](http://wall-skills.com/) - Great 1-pagers to share in your company
@@ -1498,8 +1498,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 > Tips
 * [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
-* [Jbrains.ca](http://blog.jbrains.ca/permalink/the-two-minute-rule) - The Two-Minute Rule / When You’re Buried in Email
-* [Jbrains.ca](http://blog.jbrains.ca/permalink/flow-requires-focus-not-time) - Flow Requires Focus, Not Time
+* [J. B. Rainsberger](http://blog.jbrains.ca/permalink/the-two-minute-rule) - The Two-Minute Rule / When You’re Buried in Email
+* [J. B. Rainsberger](http://blog.jbrains.ca/permalink/flow-requires-focus-not-time) - Flow Requires Focus, Not Time
 * [**The Minds Journal**](https://themindsjournal.com/japanese-technique-overcoming-laziness/) - A Japanese Technique for Overcoming Laziness / Kaizen, Or The One-Minute Principle
 * [**Foundr**](https://foundrmag.com/analog-methods-for-getting-things-done-superpower-your-productivity-with-pen-and-paper/) - GTD : Superpower Your Productivity With Pen and Paper
 * [Dr. Travis Bradberry](http://www.huffingtonpost.com/dr-travis-bradberry/11-tweaks-to-your-morning_b_8965072.html) - 11 Tweaks to Your Morning Routine 
@@ -2011,7 +2011,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Productivity
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
-* [Jbrains.ca](http://blog.jbrains.ca/permalink/avoid-distractions-while-programming) - Avoiding Distractions While Programming
+* [**J. B. Rainsberger**](http://blog.jbrains.ca/permalink/avoid-distractions-while-programming) - Avoiding Distractions While Programming
 * [Moran Danieli-Cohen](https://dev.to/msscohen/3-effective-ways-to-maintain-high-energy-levels-at-work-for-software-engineers) - 3 Effective Ways to Maintain High Energy Levels at Work for Software Engineers
 * [Alex Thunder](http://alexthunder.livejournal.com/309815.html) - Don't wake up the programmer
 * [Marcos Placona](https://twitter.com/marcos_placona/status/882487720597237760) - That "5 minutes chat" with a developer
