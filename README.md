@@ -1293,6 +1293,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 * [foobar2000](http://www.foobar2000.org/components/by+date) - List of all plugins for foobar2000
 * [foobar2000](http://mobile.foobar2000.com/) - There exist a mobile version of foobar2000 
+* [Tunefind](https://www.tunefind.com/show/the-walking-dead) - Walking Dead tv show soundtracks online
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
