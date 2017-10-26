@@ -1806,6 +1806,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Plastic SCM](https://www.plasticscm.com/) - Distributed Version Control for big projects. Discovered via [Garry' blog](https://garry.tv/2017/04/29/jenkins/)
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
 * [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
+* [Video Game Preservation](https://github.com/videogamepreservation) - An archive of commercial video game source code.
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
