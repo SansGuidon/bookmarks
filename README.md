@@ -328,6 +328,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steve Pereira](http://devopschecklist.com/) - The DevOps Checklist
 * [fagnerbrack](https://imgur.com/gallery/SWDy6) - [IMG] The Periodic Table Of Software Engineering
 * [John Allspaw](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr/49-httpwwwickrcomphotoschrisdag2286198568_Respect_other_peoples_expertise) - (2009) [Slides] 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr
+* [Patrick Debois](https://fr.slideshare.net/jedi4ever/devops-the-war-is-over-if-you-want-it/108-Systems_ThinkingOptimize_the_whole_notjust) - (2010) [Slides] Devops: The War is over - If you want it
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
