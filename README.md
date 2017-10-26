@@ -204,6 +204,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 * [Vala Afshar](https://twitter.com/ValaAfshar/status/538001419702657024/photo/1) - (2014) [IMG] knowledge vs experience vs creativity
 * [Roy Osing](https://talentculture.com/11-ways-to-lose-yourself-in-the-crowd/) - Anti principles (Don't do this !) / 11 Ways To Lose Yourself In The Crowd
+* [Julia Evans](https://jvns.ca/blog/2017/03/20/blogging-principles/) - Blogging principles
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1760,6 +1761,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style. **Bonus** : [Thoughtbot's playbook](https://thoughtbot.com/playbook) - explaining how they build products and run their company
 * [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
 * [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
+* [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -2248,6 +2250,9 @@ Raw
 * [Fred Hebert](https://ferd.ca/awk-in-20-minutes.html) - Awk in 20 Minutes
 * [GreyCat](http://mywiki.wooledge.org/BashFAQ/082) - Why is $(...) preferred over `...` (backticks)?
 * [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
+* [GreyCat's Wiki](http://mywiki.wooledge.org/BashFAQ) - BASH Frequently Asked Questions
+* [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide) - BASH Guide
+* [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
