@@ -2231,7 +2231,7 @@ Raw
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 * [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 * [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
-* [Kfir Lavi](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - Defensive BASH Programming
+* [**Kfir Lavi**](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - (2012) Defensive BASH Programming
 * [GreyCat](http://mywiki.wooledge.org/BashWeaknesses) - BashWeaknesses : There are certain things BASH is not very good at.
 * [GNU](http://www.gnu.org/software/autoconf/manual/autoconf.html#Portable-Shell) - Portable Shell Programming
 * [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
