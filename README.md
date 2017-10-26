@@ -2591,6 +2591,7 @@ Raw
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
 * [Jason Stewart](https://eggplant.pro/blog/faster-samba-smb-cifs-share-performance/) - Faster Samba (SMB / CIFS) Share Performance
 * [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
+* [coreight](http://coreight.com/content/logiciels-outils-indispensables-windows) - (2014) [FR] 8 logiciels à toujours garder sous la main sur Windows
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
