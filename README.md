@@ -1758,6 +1758,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/musings-on-refactoring-as-waste) - (2014) Musings on Refactoring as Waste
 * [The Twelve-Factor App](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 * [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style. **Bonus** : [Thoughtbot's playbook](https://thoughtbot.com/playbook) - explaining how they build products and run their company
+* [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
+* [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
