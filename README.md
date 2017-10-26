@@ -1014,6 +1014,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steve Pavlina](https://www.stevepavlina.com/blog/2005/01/dont-die-with-your-music-still-in-you/) - (2005) Don’t Die With Your Music Still In You
 * [Harvard Biz Review](https://twitter.com/HarvardBiz/status/534858622439022592/photo/1) - (2014) What employees value at work
 * [Jacob Shriar](http://switchandshift.com/13-scary-statistics-on-employee-engagement) - 13 Scary Statistics on Employee Engagement
+* [J. B. Rainsberger](http://blog.jbrains.ca/permalink/productivity-for-the-depressed) - Productivity for the Depressed
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1563,6 +1564,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Thoughtbot's playbook](https://thoughtbot.com/playbook) - a guide explaining how Thoughtbot build products and run their company
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
 * [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
+* [J. B. Rainsberger](http://blog.jbrains.ca/permalink/productivity-for-the-depressed) - Productivity for the Depressed
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
