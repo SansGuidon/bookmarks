@@ -2245,6 +2245,7 @@ Raw
 * [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
 * [Fred Hebert](https://ferd.ca/awk-in-20-minutes.html) - Awk in 20 Minutes
 * [GreyCat](http://mywiki.wooledge.org/BashFAQ/082) - Why is $(...) preferred over `...` (backticks)?
+* [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
