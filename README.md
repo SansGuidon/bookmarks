@@ -405,7 +405,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cliffano Subagio](http://blog.cliffano.com/2014/04/06/human-readable-ansible-playbook-log-output-using-callback-plugin/) - Human-Readable Ansible Playbook Log Output Using Callback Plugin
 * [Ansible Docs](http://docs.ansible.com/ansible/latest/playbooks_intro.html#handlers-running-operations-on-change) - Handlers: Running Operations On Change + notify & listen
 * [volanja/ansible_spec](https://github.com/volanja/ansible_spec) - a ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration (or TDD).
-* [Bjoern Meier](http://reinout.vanrees.org/weblog/2017/10/26/6-ansible.html) - PyCon.de: use ansible properly or stick to your scripts
+* [Bjoern Meier](http://reinout.vanrees.org/weblog/2017/10/26/6-ansible.html) - PyCon.de: use ansible properly or stick to your scripts. **Bonus** : [Slides in PDF](https://github.com/blue-yonder/documents/blob/master/presentations/PyCon.DE%202017/No_Compromise-Use_Ansible_properly%20_or_stick_to_your_scripts.pdf)
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
