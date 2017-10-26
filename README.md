@@ -1699,6 +1699,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Twelve-Factor App](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 * [mr-mig/every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know.
 * [Philip Guo](http://pgbovine.net/programmers-talking-to-beginners.htm) - Programmers: Please don't ever say this to beginners ...
+* [Sam Bessalah](https://speakerdeck.com/samklr/structures-de-donnees-exotiques) - [Slides] some useful, interesting but less known data structures
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
