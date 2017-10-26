@@ -10,3 +10,4 @@
 * [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year DevOps news
 * [Untappd](https://untappd.com/user/MorganGeek/beers?sort=highest_rated_their) - MorganGeek' favorite beers
 * [Untappd](https://untappd.com/user/MorganGeek/wishlist) - MorganGeek' wishlist of beers
+* [GitHub](https://github.com/search?utf8=%E2%9C%93&q=declarative+stage+steps&type=Code) - Examples of declarative jenkins pipelines
