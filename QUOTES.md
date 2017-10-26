@@ -43,3 +43,4 @@
 * "Surprise in movies and novels is good. Surprise in computer code is bad" - [Patrick Burns](https://twitter.com/abt_programming/statuses/534330650355306496)
 * A good professional places quality over quantity - [Venkat Subramaniam](https://twitter.com/venkat_s/statuses/533987853379047424)
 * The most impressive people I know are almost never mean, and the meanest people I know are almost never impressive. - [Paul Graham](https://twitter.com/paulg/statuses/533813744128647169)
+* Innovation does not require a plan, it requires courage / L'innovation c'est une désobéissance, pas un plan - [Pierre Pezziardi](https://twitter.com/vallettea/statuses/527815924070748160)
