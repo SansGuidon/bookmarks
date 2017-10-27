@@ -334,6 +334,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts 
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [All Day DevOps](https://www.alldaydevops.com/addo17-links-to-presentations) - [Videos] All Day DevOps 2017 videos
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - dockrun oneshot — quick local environments for testing infrastructure
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -413,6 +414,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Bjoern Meier](http://reinout.vanrees.org/weblog/2017/10/26/6-ansible.html) - PyCon.de: use ansible properly or stick to your scripts. **Bonus** : [Slides in PDF](https://github.com/blue-yonder/documents/blob/master/presentations/PyCon.DE%202017/No_Compromise-Use_Ansible_properly%20_or_stick_to_your_scripts.pdf)
 * [Ansible-Semaphore](https://github.com/ansible-semaphore/semaphore) - open source Ansible UI
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/get-started-using-ansible-awx-open-source-tower-version-one-minute) - Get started using Ansible AWX (Open Source Tower version) in one minute
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - How I test Ansible configuration on 7 different OSes with Docker
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -540,6 +542,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Walsh](http://www.projectatomic.io/blog/2015/08/why-we-dont-let-non-root-users-run-docker-in-centos-fedora-or-rhel/) - Why we don't let non-root users run Docker in CentOS, Fedora, or RHEL
 * [Ian Miell](https://zwischenzugs.com/2017/10/23/a-checklist-for-docker-in-the-enterprise-updated/) - A Checklist for Docker in the Enterprise (Updated)
 * [Ian Miell](https://zwischenzugs.com/2017/06/18/convert-any-server-to-a-docker-container-update-ii/) - Convert a Server to a Docker Container (Update II)
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/stopping-docker-containers-fuzzy-matching-on-name) - Stopping Docker containers via fuzzy matching on the name
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - dockrun oneshot — quick local environments for testing infrastructure
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -741,6 +745,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
+
+## Travis CI
+* [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
 
 ## VirtualBox
 * [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
@@ -2064,6 +2071,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
 * [Andrew Bosworth](http://boz.com/articles/say-no.html) - Say No
 * [Andre Meyer](http://www.felienne.com/archives/3665) - (2014) Software developer’s perceptions of productivity
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - dockrun oneshot — quick local environments for testing infrastructure
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
