@@ -11,3 +11,4 @@
 * [Untappd](https://untappd.com/user/MorganGeek/beers?sort=highest_rated_their) - MorganGeek' favorite beers
 * [Untappd](https://untappd.com/user/MorganGeek/wishlist) - MorganGeek' wishlist of beers
 * [GitHub](https://github.com/search?utf8=%E2%9C%93&q=declarative+stage+steps&type=Code) - Examples of declarative jenkins pipelines
+* [Caracol](http://www.webopac.cfwb.be/nivelles/dispatcher.aspx?action=historySearch&database=ChoiceBooks&search=((ex-%3Eej%20=%20%22Gembloux*%22))&limit=25&SRT0=ti&TYP0=&SEQ0=ascending&position=1) - [FR] Gembloux / Bibloux Books catalog 
