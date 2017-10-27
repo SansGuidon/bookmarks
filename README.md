@@ -544,6 +544,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ian Miell](https://zwischenzugs.com/2017/06/18/convert-any-server-to-a-docker-container-update-ii/) - Convert a Server to a Docker Container (Update II)
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/stopping-docker-containers-fuzzy-matching-on-name) - Stopping Docker containers via fuzzy matching on the name
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - dockrun oneshot — quick local environments for testing infrastructure
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - How I test Ansible configuration on 7 different OSes with Docker
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -748,6 +749,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - How I test Ansible configuration on 7 different OSes with Docker
 
 ## VirtualBox
 * [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
