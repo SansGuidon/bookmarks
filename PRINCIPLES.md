@@ -51,6 +51,9 @@
 * [Roy Osing](https://talentculture.com/11-ways-to-lose-yourself-in-the-crowd/) - Anti principles (Don't do this !) / 11 Ways To Lose Yourself In The Crowd
 * [Martin Fowler](https://twitter.com/abt_programming/statuses/531036428948738048) - When you feel the need to write a comment, first try to refactor the code so that any comment becomes superflouus 
 * [Craig Zerouni](https://twitter.com/abt_programming/statuses/548978665221267458) - "If you have too many special cases, you are doing it wrong"
+* You learn nothing from life if you think you're right all the time
+* Mark Twain : If you tell the truth, you don't have to remember anything. 
+* One day, you will be at the place you always wanted to be. Don't stop believing.
 
 # from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
