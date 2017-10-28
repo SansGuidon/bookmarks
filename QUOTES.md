@@ -47,3 +47,5 @@
 * The greatness of a nation and its moral progress can be judged by the way its animals are treated / On peut juger la grandeur et la valeur morale d'une nation à la façon dont elle traite ses animaux - [Gandhi](https://twitter.com/monde_biodi/statuses/544574581986840576)
 * Sometimes, change is what we need most
 * If you're struggling and your people are just sitting there watching you struggle... They aren't your people
+* "Why are you so quiet ?" Because I am. That's how I function. I don't ask others "Why are you so noisy ? Why do you talk so much ?" It's rude.
+* Sometimes the reason things are not happening to you is because you are the good thing that needs to happen to other people.
