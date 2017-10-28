@@ -2183,6 +2183,8 @@ Raw
 * [New Rustacean](https://www.newrustacean.com/) - a podcast about learning Rust
 * [mre/Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
 * [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
+* [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
+* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 
 # Podcasts
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
