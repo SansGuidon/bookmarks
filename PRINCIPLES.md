@@ -54,6 +54,7 @@
 * You learn nothing from life if you think you're right all the time
 * Mark Twain : If you tell the truth, you don't have to remember anything. 
 * One day, you will be at the place you always wanted to be. Don't stop believing.
+* There is no elevator to success. You have to take the stairs.
 
 # from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
