@@ -186,6 +186,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fred Hebert](https://ferd.ca/don-t-be-a-jerk-write-documentation.html) - Don't be a Jerk: Write Documentation
 * [Andrew Bosworth](http://boz.com/articles/say-no.html) - Say No
 * [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
+* [Shubhro Saha](http://www.shubhro.com/2017/09/15/two-sentences-better-meetings/) - (2017) Two sentences for better meetings
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -207,6 +208,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vala Afshar](https://twitter.com/ValaAfshar/status/538001419702657024/photo/1) - (2014) [IMG] knowledge vs experience vs creativity
 * [Roy Osing](https://talentculture.com/11-ways-to-lose-yourself-in-the-crowd/) - Anti principles (Don't do this !) / 11 Ways To Lose Yourself In The Crowd
 * [Julia Evans](https://jvns.ca/blog/2017/03/20/blogging-principles/) - Blogging principles
+* [Steve Yegge](https://sites.google.com/site/steveyegge2/you-should-write-blogs) - You Should Write Blogs 
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1565,6 +1567,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeff Atwood](https://blog.codinghorror.com/because-reading-is-fundamental-2/) - (2014) Because Reading is Fundamental / spend less time talking and more time reading 
 * [Mike Veerman](https://medium.com/@mikeveerman/simple-is-the-opposite-of-easy-56d585f95039) - Simple is the opposite of easy
 * [Luis Mizutani](https://www.thoughtworks.com/insights/blog/slicing-your-development-work-multi-layer-cake) - Slicing your development work as a multi-layer cake
+* [Shubhro Saha](http://www.shubhro.com/2017/09/15/two-sentences-better-meetings/) - Two sentences for better meetings
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
