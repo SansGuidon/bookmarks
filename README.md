@@ -187,6 +187,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrew Bosworth](http://boz.com/articles/say-no.html) - Say No
 * [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
 * [Shubhro Saha](http://www.shubhro.com/2017/09/15/two-sentences-better-meetings/) - (2017) Two sentences for better meetings
+* [J. B. Rainsberger](http://blog.jbrains.ca/permalink/change-your-life-one-habit-at-a-time) - (2014) Change Your Life One Habit At A Time
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -1030,6 +1031,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Harvard Biz Review](https://twitter.com/HarvardBiz/status/534858622439022592/photo/1) - (2014) What employees value at work
 * [Jacob Shriar](http://switchandshift.com/13-scary-statistics-on-employee-engagement) - 13 Scary Statistics on Employee Engagement
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/productivity-for-the-depressed) - Productivity for the Depressed
+* [Drew Falkman](https://moduscreate.com/sometimes-great-employees-leave-and-its-ok/) - Sometimes Great Employees Leave and It’s OK
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
