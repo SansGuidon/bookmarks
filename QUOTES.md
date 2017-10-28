@@ -44,3 +44,4 @@
 * A good professional places quality over quantity - [Venkat Subramaniam](https://twitter.com/venkat_s/statuses/533987853379047424)
 * The most impressive people I know are almost never mean, and the meanest people I know are almost never impressive. - [Paul Graham](https://twitter.com/paulg/statuses/533813744128647169)
 * Innovation does not require a plan, it requires courage / L'innovation c'est une désobéissance, pas un plan - [Pierre Pezziardi](https://twitter.com/vallettea/statuses/527815924070748160)
+* The greatness of a nation and its moral progress can be judged by the way its animals are treated / On peut juger la grandeur et la valeur morale d'une nation à la façon dont elle traite ses animaux - [Gandhi](https://twitter.com/monde_biodi/statuses/544574581986840576)
