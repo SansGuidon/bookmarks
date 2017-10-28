@@ -1263,6 +1263,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
 * [Josh Reichardt](https://thepracticalsysadmin.com/useful-vim-plugins/) - Useful Vim Plugins
 * [Fred Hebert](https://ferd.ca/vim-and-composability.html) - Vim and Composability
+* [Ian Langworth](https://statico.github.io/vim3.html) - Vim After 15 Years
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -1749,6 +1750,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vicky Chijwani](https://vickychijwani.me/cpp-gotchas/) - (2014) Common C++ Gotchas
 * [Chris Wellons](http://nullprogram.com/blog/2014/12/23/) - (2014) Interactive Programming in C
 * [Chris Wellons](http://nullprogram.com/blog/2014/12/09/) - (2014) How to build DOS COM files with GCC
+* [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
 
 ## Clean code
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
@@ -1801,6 +1803,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
 * [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices
+* [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -2085,6 +2088,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrew Bosworth](http://boz.com/articles/say-no.html) - Say No
 * [Andre Meyer](http://www.felienne.com/archives/3665) - (2014) Software developer’s perceptions of productivity
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - dockrun oneshot — quick local environments for testing infrastructure
+* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
+* [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -2177,6 +2182,7 @@ Raw
 ## Rust
 * [New Rustacean](https://www.newrustacean.com/) - a podcast about learning Rust
 * [mre/Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
+* [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 
 # Podcasts
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
@@ -2302,6 +2308,8 @@ Raw
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide) - BASH Guide
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices
 * [Ian Miell](https://github.com/ianmiell/learn-bash-the-hard-way/blob/master/learnbashthehardway.pdf) - [PDF] Learn Bash The Hard Way
+* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
+* [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
