@@ -185,6 +185,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jacob Shriar](http://switchandshift.com/13-scary-statistics-on-employee-engagement) - 13 Scary Statistics on Employee Engagement
 * [Fred Hebert](https://ferd.ca/don-t-be-a-jerk-write-documentation.html) - Don't be a Jerk: Write Documentation
 * [Andrew Bosworth](http://boz.com/articles/say-no.html) - Say No
+* [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
