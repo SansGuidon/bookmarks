@@ -1751,6 +1751,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chris Wellons](http://nullprogram.com/blog/2014/12/23/) - (2014) Interactive Programming in C
 * [Chris Wellons](http://nullprogram.com/blog/2014/12/09/) - (2014) How to build DOS COM files with GCC
 * [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
+* [Chris Wellons](http://nullprogram.com/blog/2017/03/30/) - (2017) How to Write Portable C Without Complicating Your Build
 
 ## Clean code
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
@@ -1804,6 +1805,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices
 * [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
+* [Chris Wellons](http://nullprogram.com/blog/2017/03/30/) - (2017) How to Write Portable C Without Complicating Your Build
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
