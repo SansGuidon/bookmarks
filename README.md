@@ -1747,6 +1747,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Angel 2D](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 * [Vicky Chijwani](https://vickychijwani.me/cpp-gotchas/) - (2014) Common C++ Gotchas
+* [Chris Wellons](http://nullprogram.com/blog/2014/12/23/) - (2014) Interactive Programming in C
+* [Chris Wellons](http://nullprogram.com/blog/2014/12/09/) - (2014) How to build DOS COM files with GCC
 
 ## Clean code
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
@@ -1833,6 +1835,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gamasutra](http://www.gamasutra.com/) - articles about art and business of making games
 * [Gaylord](http://www.journaldugamer.com/2014/08/08/interview-out-there-ecrire-un-bon-jeu/) - (2014) [FR] [Interview] Un des créateurs d’Out There vous explique comment écrire un bon jeu
 * [Gergo Vas](https://kotaku.com/5991061/the-best-looking-isometric-games) - The Best-Looking Isometric Games
+* [Jeff Bradberry](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) - (2015) Introduction to Monte Carlo Tree Search
 
 > Tools
 * [libGDX](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
@@ -1844,6 +1847,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
 * [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
 * [Video Game Preservation](https://github.com/videogamepreservation) - An archive of commercial video game source code.
+* [Chris Wellons](http://nullprogram.com/blog/2014/12/09/) - (2014) How to build DOS COM files with GCC
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
@@ -2219,6 +2223,7 @@ Raw
 * [John D. Cook](https://www.johndcook.com/blog/2008/10/27/why-there-will-always-be-programmers/) - (2008) Why there will always be programmers
 * [Andrew McAfee](https://hbr.org/2014/07/the-kind-of-work-humans-still-do-better-than-robots) - (2014) The Kind of Work Humans Still Do Better Than Robots
 * [Dan Finnigan](https://hbr.org/2016/11/robots-and-automation-may-not-take-your-desk-job-after-all) - (2016) Robots and Automation May Not Take Your Desk Job After All
+* [Jeff Bradberry](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) - (2015) Introduction to Monte Carlo Tree Search
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
