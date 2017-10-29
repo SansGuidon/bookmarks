@@ -126,6 +126,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [StackExchange](https://stackexchange.com/performance) - Amazing presentation of Stack Exchange infrastructure. All about performance
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
+* [John D. Cook](https://www.johndcook.com/blog/2008/02/18/what-to-make-flexible/) - (2008) What to make flexible // about art of good design
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
