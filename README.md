@@ -342,6 +342,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - dockrun oneshot — quick local environments for testing infrastructure
 * [versioneye/ops_contrib](https://github.com/versioneye/ops_contrib) - Infrastructure code to setup your own VersionEye instance.
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
+* [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1396,6 +1397,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [versioneye/ops_contrib](https://github.com/versioneye/ops_contrib) - Infrastructure code to setup your own VersionEye instance.
+* [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1423,6 +1425,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
 * [Splunk Docs](https://docs.splunk.com/Documentation/Splunk/6.4.3/SearchReference/Fields) - Splunk Search reference
 * [Tim O'Brien](https://discursive.com/2013/10/30/how-to-get-your-crazy-logs-under-control/) - 10 Steps to Get Your Crazy Logs Under Control
+* [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
@@ -1449,6 +1452,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
 * [Daniel Miessler](https://danielmiessler.com/blog/security-how-to-monitor-your-network-connections/) - Security: How To Monitor Your Network Connections
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
+* [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
@@ -1748,6 +1752,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Omar El Gabry](https://hackernoon.com/refactoring-the-hygienic-habit-b2ee0f5528ba) - Refactoring — The Hygienic Habit
 * [Jeff Atwood](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/) - (2008) Regular Expressions: Now You Have Two Problems
 * [John D. Cook](https://www.johndcook.com/blog/2014/05/01/look-behind-regex/) - (2014) Look-behind regex
+* [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1842,6 +1847,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Trey Harris](http://www.ibiblio.org/harris/500milemail.html) - The case of the 500-mile email
 * [Andrey Karpov](https://www.viva64.com/en/b/0260/) - The Last Line Effect // about evil copy paste
 * [Stuart Sierra](https://twitter.com/stuartsierra/statuses/512009723282206722) - "There's always a reason, no matter how strange the bug"
+* [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 
 ## Gamedev
 > News & Communities
@@ -2013,6 +2019,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Javin Paul](http://javarevisited.blogspot.be/2012/05/best-practices-while-dealing-with.html?m=1) - (2012) Best Practices while dealing with Password in Java
 * [Michael G. Schwern](http://www.guild.net/~schwern/papers/Why_I_Am_Not_A_Java_Programmer/why.html) - a questionable comparison between Perl and Java
 * [Venkat Subramaniam](https://www.youtube.com/watch?v=j9nj5dTo54Q) - [Video] Hilarious presentation : Java 8 Language Capabilities, What's in it for you?
+* [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
@@ -2540,6 +2547,7 @@ Raw
 * [volanja/ansible_spec](https://github.com/volanja/ansible_spec) - a ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration (or TDD).
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - How I test Ansible configuration on 7 different OSes with Docker
 * [nickjj/RoleSpec](https://github.com/nickjj/rolespec) - A test library for testing Ansible roles
+* [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
