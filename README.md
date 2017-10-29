@@ -1761,6 +1761,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
 * [Lin Taylor](http://linbug.github.io/programming/2017/10/11/Pseudocode-Programming-fake-it-before-you-make-it/) - (2017) Pseudocode Programming: fake it before you make it
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
+* [Gregg Caines](http://caines.ca/blog/2017/10/21/working-without-estimates/) - (2017) Working Without Estimates
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
