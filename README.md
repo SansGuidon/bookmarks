@@ -1599,6 +1599,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mike Veerman](https://medium.com/@mikeveerman/simple-is-the-opposite-of-easy-56d585f95039) - Simple is the opposite of easy
 * [Luis Mizutani](https://www.thoughtworks.com/insights/blog/slicing-your-development-work-multi-layer-cake) - Slicing your development work as a multi-layer cake
 * [Shubhro Saha](http://www.shubhro.com/2017/09/15/two-sentences-better-meetings/) - Two sentences for better meetings
+* [Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U) - (2012) [Video] Scaling Yourself / productivity for professionals 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
