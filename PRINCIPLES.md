@@ -55,6 +55,7 @@
 * Mark Twain : If you tell the truth, you don't have to remember anything. 
 * One day, you will be at the place you always wanted to be. Don't stop believing.
 * There is no elevator to success. You have to take the stairs.
+* [Andy Hunt & Dave Thomas](https://twitter.com/nicolopigna/status/921280768697143296) - the original DRY principle : "Every piece of knowledge must have a single, unambiguous, authoritative representation, within a system"
 
 # from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
