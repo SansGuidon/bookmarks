@@ -1032,6 +1032,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jacob Shriar](http://switchandshift.com/13-scary-statistics-on-employee-engagement) - 13 Scary Statistics on Employee Engagement
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/productivity-for-the-depressed) - Productivity for the Depressed
 * [Drew Falkman](https://moduscreate.com/sometimes-great-employees-leave-and-its-ok/) - Sometimes Great Employees Leave and It’s OK
+* [Jacki Keys](https://the-pastry-box-project.net/jacki-keys/2014-december-18) - (2014) It's Broken, Don't Fix It / on being "the happiest & healthiest version of yourself"
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
