@@ -219,6 +219,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steve Yegge](https://sites.google.com/site/steveyegge2/you-should-write-blogs) - You Should Write Blogs 
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
+* [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -969,6 +970,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [PDF Merge](https://www.pdfmerge.com/) - merge PDF files online
 * [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
 * [unv.is](https://unv.is/) - Just put unv.is/ in front of http:// when sharing clickbait articles, unv.is will capture the content of an article or blog post without passing on your visit as a pageview. 
+* [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1533,6 +1535,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [cafai](https://shaarli.cafai.fr/?7WCMIg) - Tor best practices | Privacy in Digital Era 
 * [Le Monde.fr](http://www.lemonde.fr/technologies/article/2013/12/16/nsa-un-juge-americain-estime-la-collecte-de-donnees-contraire-a-la-constitution_4335463_651865.html) - [FR] (2013) NSA : un juge américain estime la collecte de données contraire à la Constitution
 * [unv.is](https://unv.is/) - Just put unv.is/ in front of http:// when sharing clickbait articles, unv.is will capture the content of an article or blog post without passing on your visit as a pageview. 
+* [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 
 # Productivity
 > Tips
@@ -2452,6 +2455,7 @@ Raw
 * [OWASP](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet) - OWASP Top Ten Cheat Sheet
 * [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
+* [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
