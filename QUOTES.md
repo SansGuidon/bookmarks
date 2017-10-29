@@ -52,3 +52,4 @@
 * It is not easy to do something good, but it is extremely difficult to do something bad - [Charles Eames](https://twitter.com/abt_programming/statuses/542409128274956288)
 * Dealing with other people, that's the easy part. Dealing with yourself is a relentless task that only ends when you do. - [Jeff Atwood](https://twitter.com/codinghorror/status/916539378398146560)
 * Don't wait for the perfect moment. Take the moment and make it perfect. - [Zoey Sayward](https://twitter.com/wealthbits/statuses/542490804535566336)
+* Good design is not about making everything flexible. It's about making the right things flexible. - [John D. Cook](https://www.johndcook.com/blog/2008/02/18/what-to-make-flexible/)
