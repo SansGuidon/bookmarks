@@ -123,6 +123,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**The Twelve-Factor App**](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 * [Fred Hebert](https://ferd.ca/queues-don-t-fix-overload.html) - Queues Don't Fix Overload
 * [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
+* [StackExchange](https://stackexchange.com/performance) - Amazing presentation of Stack Exchange infrastructure. All about performance
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
