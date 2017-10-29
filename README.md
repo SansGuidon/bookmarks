@@ -1791,6 +1791,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chris Wellons](http://nullprogram.com/blog/2014/12/09/) - (2014) How to build DOS COM files with GCC
 * [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
 * [Chris Wellons](http://nullprogram.com/blog/2017/03/30/) - (2017) How to Write Portable C Without Complicating Your Build
+* [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape : embeddable Javascript engine with a focus on portability and compact footprint
 
 ## Clean code
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
@@ -2069,6 +2070,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Douglas Crockford](https://twitter.com/EPoberezkin/status/525209820555907072/photo/1) - (2014) [IMG] Good parts of JavaScript reconsidered 
 * [Stoyan Stefanov](http://www.phpied.com/files/location-location/location-location.html) - 535 ways to reload the page with JavaScript
 * [Keith Cirkel](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - (2014) Why we should stop using Grunt & Gulp
+* [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape : embeddable Javascript engine with a focus on portability and compact footprint
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
