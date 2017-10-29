@@ -221,6 +221,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
+* [Lionel Dricot](http://ploum.net/votre-idee-ne-vaut-rien/) - [FR] Votre idée ne vaut rien
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -2040,6 +2041,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Michael G. Schwern](http://www.guild.net/~schwern/papers/Why_I_Am_Not_A_Java_Programmer/why.html) - a questionable comparison between Perl and Java
 * [Venkat Subramaniam](https://www.youtube.com/watch?v=j9nj5dTo54Q) - [Video] Hilarious presentation : Java 8 Language Capabilities, What's in it for you?
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
+* [James Ward](http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong) - (2014) Java Doesn’t Suck – You’re Just Using it Wrong
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
@@ -2190,6 +2192,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Les joies du code](http://lesjoiesducode.fr) - [FR] l'instant GIF des développeurs !
 * [Leftover Salad](http://leftoversalad.tumblr.com/post/103503118002) - Difference between Java and JavaScript
 * [Feminist Hacker Barbie](http://computer-engineer-barbie.herokuapp.com/browse) - Comics about Barbie seen as a developer / sysadmin
+* [codecrap](http://codecrap.com/) - worst snippets of code / where developers go to laugh and cry
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
