@@ -193,6 +193,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Shubhro Saha](http://www.shubhro.com/2017/09/15/two-sentences-better-meetings/) - (2017) Two sentences for better meetings
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/change-your-life-one-habit-at-a-time) - (2014) Change Your Life One Habit At A Time
 * [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
+* [Mike Cannon-Brookes](https://medium.com/smells-like-team-spirit/an-amateurs-guide-to-turning-impostor-syndrome-into-an-asset-1bac56917d46) - An amateur’s guide to turning impostor syndrome into an asset
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
