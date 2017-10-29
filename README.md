@@ -1095,6 +1095,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mashable](http://mashable.com/2014/08/10/maria-scrivan-kickstarter) - (2014) [IMG] Young entrepreneurs these days
 * [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/?id=1883) - (2010) [IMG] Why are there so few women in engineering / science ?
 * [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] 
+* [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
 
 # Images
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -2285,6 +2286,7 @@ Raw
 * [Andrew McAfee](https://hbr.org/2014/07/the-kind-of-work-humans-still-do-better-than-robots) - (2014) The Kind of Work Humans Still Do Better Than Robots
 * [Dan Finnigan](https://hbr.org/2016/11/robots-and-automation-may-not-take-your-desk-job-after-all) - (2016) Robots and Automation May Not Take Your Desk Job After All
 * [Jeff Bradberry](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) - (2015) Introduction to Monte Carlo Tree Search
+* [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
