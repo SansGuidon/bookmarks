@@ -125,6 +125,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 * [StackExchange](https://stackexchange.com/performance) - Amazing presentation of Stack Exchange infrastructure. All about performance
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
+* [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -191,6 +192,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
 * [Shubhro Saha](http://www.shubhro.com/2017/09/15/two-sentences-better-meetings/) - (2017) Two sentences for better meetings
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/change-your-life-one-habit-at-a-time) - (2014) Change Your Life One Habit At A Time
+* [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -214,6 +216,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Julia Evans](https://jvns.ca/blog/2017/03/20/blogging-principles/) - Blogging principles
 * [Steve Yegge](https://sites.google.com/site/steveyegge2/you-should-write-blogs) - You Should Write Blogs 
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
+* [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1756,6 +1759,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeff Atwood](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/) - (2008) Regular Expressions: Now You Have Two Problems
 * [John D. Cook](https://www.johndcook.com/blog/2014/05/01/look-behind-regex/) - (2014) Look-behind regex
 * [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
+* [Lin Taylor](http://linbug.github.io/programming/2017/10/11/Pseudocode-Programming-fake-it-before-you-make-it/) - (2017) Pseudocode Programming: fake it before you make it
+* [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1851,6 +1856,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrey Karpov](https://www.viva64.com/en/b/0260/) - The Last Line Effect // about evil copy paste
 * [Stuart Sierra](https://twitter.com/stuartsierra/statuses/512009723282206722) - "There's always a reason, no matter how strange the bug"
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
+* [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
 
 ## Gamedev
 > News & Communities
