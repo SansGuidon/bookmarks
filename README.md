@@ -339,6 +339,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [All Day DevOps](https://www.alldaydevops.com/addo17-links-to-presentations) - [Videos] All Day DevOps 2017 videos
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - dockrun oneshot — quick local environments for testing infrastructure
+* [versioneye/ops_contrib](https://github.com/versioneye/ops_contrib) - Infrastructure code to setup your own VersionEye instance.
+* [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1389,6 +1391,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
 * [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
+* [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
+* [versioneye/ops_contrib](https://github.com/versioneye/ops_contrib) - Infrastructure code to setup your own VersionEye instance.
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1441,6 +1445,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
 * [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
 * [Daniel Miessler](https://danielmiessler.com/blog/security-how-to-monitor-your-network-connections/) - Security: How To Monitor Your Network Connections
+* [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
@@ -2420,6 +2425,7 @@ Raw
 * [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
 * [OWASP](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet) - OWASP Top Ten Cheat Sheet
 * [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
+* [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
