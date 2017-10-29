@@ -135,6 +135,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SEO'Brien](https://seobrien.com/startups-work-silicon-valley) - Why Do Startups Work in Silicon Valley?
 * [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] Competitivity 
 * [Crypto Lite](http://cryptolite.net/) - A quick way to check the top-100 cryptocurrencies price
+* [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
@@ -211,6 +212,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Roy Osing](https://talentculture.com/11-ways-to-lose-yourself-in-the-crowd/) - Anti principles (Don't do this !) / 11 Ways To Lose Yourself In The Crowd
 * [Julia Evans](https://jvns.ca/blog/2017/03/20/blogging-principles/) - Blogging principles
 * [Steve Yegge](https://sites.google.com/site/steveyegge2/you-should-write-blogs) - You Should Write Blogs 
+* [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
