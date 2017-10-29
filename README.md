@@ -140,6 +140,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Crypto Lite](http://cryptolite.net/) - A quick way to check the top-100 cryptocurrencies price
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Sacha Greif](https://medium.com/@sachagreif/the-spiderweb-strategy-12ebd2f35595) - (2014) The Spiderweb Strategy : Why it’s OK if some of your projects don’t make money
+* [Andy Adams](http://andyadams.org/you-can-charge-more/) - (2014) How to talk yourself into charging more
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
