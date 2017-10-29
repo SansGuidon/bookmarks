@@ -124,6 +124,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fred Hebert](https://ferd.ca/queues-don-t-fix-overload.html) - Queues Don't Fix Overload
 * [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 * [StackExchange](https://stackexchange.com/performance) - Amazing presentation of Stack Exchange infrastructure. All about performance
+* [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
