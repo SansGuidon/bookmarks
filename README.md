@@ -1746,6 +1746,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cyriac Thomas](https://www.compile.com/blog/product/be-lazy-build-better-systems/) - Be lazy, build better systems
 * [Deon Thomas](https://www.thoughtworks.com/insights/blog/good-programer-avoid-being-one) - (2014) A Good Programmer: Why You Need to Avoid Being One
 * [Omar El Gabry](https://hackernoon.com/refactoring-the-hygienic-habit-b2ee0f5528ba) - Refactoring — The Hygienic Habit
+* [Jeff Atwood](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/) - (2008) Regular Expressions: Now You Have Two Problems
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
