@@ -1864,6 +1864,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stuart Sierra](https://twitter.com/stuartsierra/statuses/512009723282206722) - "There's always a reason, no matter how strange the bug"
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
+* [Mark Isaacson](http://maintainablecode.logdown.com/posts/245425-valgrind-is-not-a-leak-checker) - (2014) Valgrind is *NOT* a leak checker
 
 ## Gamedev
 > News & Communities
