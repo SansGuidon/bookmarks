@@ -50,3 +50,4 @@
 * "Why are you so quiet ?" Because I am. That's how I function. I don't ask others "Why are you so noisy ? Why do you talk so much ?" It's rude.
 * Sometimes the reason things are not happening to you is because you are the good thing that needs to happen to other people.
 * It is not easy to do something good, but it is extremely difficult to do something bad - [Charles Eames](https://twitter.com/abt_programming/statuses/542409128274956288)
+* Dealing with other people, that's the easy part. Dealing with yourself is a relentless task that only ends when you do. - [Jeff Atwood](https://twitter.com/codinghorror/status/916539378398146560)
