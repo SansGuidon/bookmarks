@@ -911,7 +911,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [XKPasswd](https://xkpasswd.net/s/) - secure memorable password generator inspired by [XKCD](http://xkcd.com/936/)
 * [WhatsMyIP](http://www.whatsmyip.org/random-password-generator/) - password generator & other text related tools (hash lookup, regex tester)
 * [YouTube to MP3 converter](http://www.youtube-mp3.org/) 
-* [Wayback Machine](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* [Internet Archive: Wayback Machine](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [Cached View](http://www.cachedview.com/) - Google + Wayback machine Cached Pages of any website
 * [ChangeDetection](https://www.changedetection.com/) - Know automatically when any web page changes	
 * [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
@@ -1744,6 +1744,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sam Bessalah](https://speakerdeck.com/samklr/structures-de-donnees-exotiques) - [Slides] some useful, interesting but less known data structures
 * [Cyriac Thomas](https://www.compile.com/blog/product/be-lazy-build-better-systems/) - Be lazy, build better systems
 * [Deon Thomas](https://www.thoughtworks.com/insights/blog/good-programer-avoid-being-one) - (2014) A Good Programmer: Why You Need to Avoid Being One
+* [Omar El Gabry](https://hackernoon.com/refactoring-the-hygienic-habit-b2ee0f5528ba) - Refactoring — The Hygienic Habit
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
