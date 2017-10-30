@@ -1788,6 +1788,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
 * [Gregg Caines](http://caines.ca/blog/2017/10/21/working-without-estimates/) - (2017) Working Without Estimates
 * [Umer Mansoor](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/) - YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard
+* [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/the_language_squint_test.html) - (2008) The Language Squint Test
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1862,6 +1863,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
 * [Chris Wellons](http://nullprogram.com/blog/2017/03/30/) - (2017) How to Write Portable C Without Complicating Your Build
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+* [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/the_language_squint_test.html) - (2008) The Language Squint Test
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
