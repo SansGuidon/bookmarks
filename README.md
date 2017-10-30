@@ -2064,6 +2064,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Venkat Subramaniam](https://www.youtube.com/watch?v=j9nj5dTo54Q) - [Video] Hilarious presentation : Java 8 Language Capabilities, What's in it for you?
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [James Ward](http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong) - (2014) Java Doesn’t Suck – You’re Just Using it Wrong
+* [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/java-for-everything.html) - (2014) I started to form a strange idea: That Java is the right language for all jobs.
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
