@@ -704,6 +704,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Awesome Kubernetes resources
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
 * [Jesse Newland](https://githubengineering.com/kubernetes-at-github/) - Kubernetes at GitHub
+* [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes. 
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
