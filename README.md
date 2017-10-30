@@ -1848,6 +1848,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices
 * [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
 * [Chris Wellons](http://nullprogram.com/blog/2017/03/30/) - (2017) How to Write Portable C Without Complicating Your Build
+* [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
 ## Database
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
@@ -1995,6 +1996,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John Wiegley](http://jwiegley.github.io/git-from-the-bottom-up/) - Git from the Bottom Up
 * [Hammer Principle](http://hammerprinciple.com/versioncontrol/items/git/svn) - Git vs SVN features comparison
 * [Emma Jane Westby](https://24ways.org/2014/dealing-with-emergencies-in-git/) - Dealing with Emergencies in Git
+* [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -2143,6 +2145,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 * [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 * [Rachel Andrew](https://24ways.org/2014/developing-robust-deployment-procedures/) - Developing Robust Deployment Procedures
+* [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -2582,6 +2585,7 @@ Raw
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - How I test Ansible configuration on 7 different OSes with Docker
 * [nickjj/RoleSpec](https://github.com/nickjj/rolespec) - A test library for testing Ansible roles
 * [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
+* [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
