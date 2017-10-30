@@ -1065,6 +1065,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jacki Keys](https://the-pastry-box-project.net/jacki-keys/2014-december-18) - (2014) It's Broken, Don't Fix It / on being "the happiest & healthiest version of yourself"
 * [Chess Media Group](https://twitter.com/GlenGilmore/status/541672473637695488/photo/1) - (2014) [IMG] 7 Principles of The Future Employee 
 * [Maria Konnikova](https://www.newyorker.com/business/currency/the-open-office-trap) - (2014) The Open-Office Trap
+* [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/perception_of_time.html) - (2006) Perception of Time
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
