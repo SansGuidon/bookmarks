@@ -712,7 +712,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - curated list of Microservice Architecture related principles and technologies.
 * [Milen Dyankov](https://www.youtube.com/watch?v=O77777Zy_HE) - [Video] Microservices and Modularity or the difference between treatment and cure! 
 * [Richard Clayton](https://rclayton.silvrback.com/failing-at-microservices) - Failing at Microservices.
-
+* [Martin Nally](https://apigee.com/about/blog/developer/12-goals-microservices) - (2016) The 12 Goals of Microservices
+ 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
 * [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
