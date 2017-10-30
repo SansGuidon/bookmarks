@@ -53,3 +53,4 @@
 * Dealing with other people, that's the easy part. Dealing with yourself is a relentless task that only ends when you do. - [Jeff Atwood](https://twitter.com/codinghorror/status/916539378398146560)
 * Don't wait for the perfect moment. Take the moment and make it perfect. - [Zoey Sayward](https://twitter.com/wealthbits/statuses/542490804535566336)
 * Good design is not about making everything flexible. It's about making the right things flexible. - [John D. Cook](https://www.johndcook.com/blog/2008/02/18/what-to-make-flexible/)
+* Google is software developer’s best friend - [Umer Mansoor](https://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/)
