@@ -2153,6 +2153,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 * [Rachel Andrew](https://24ways.org/2014/developing-robust-deployment-procedures/) - Developing Robust Deployment Procedures
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+* [Umer Mansoor](https://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/) - Do Experienced Programmers Use Google Frequently?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
