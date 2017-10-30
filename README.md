@@ -200,6 +200,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mike Cannon-Brookes](https://medium.com/smells-like-team-spirit/an-amateurs-guide-to-turning-impostor-syndrome-into-an-asset-1bac56917d46) - An amateur’s guide to turning impostor syndrome into an asset
 * [Chris Parnin](https://github.com/chrisparnin/notes/blob/master/interruptions.md) - (2014) Notes on Interruption for Programmers
 * [Write the Docs](http://www.writethedocs.org/guide/) - Documentation Guide : a best practice handbook for building, structuring, and writing software documentation, for creating more wonderful documentation in the world
+* [Umer Mansoor](https://codeahoy.com/2017/07/26/fix-employee-weaknesses-or-focus-on-their-strengths/) - Fix Employee Weaknesses or Focus on Their Strengths?
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
