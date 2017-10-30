@@ -1788,6 +1788,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 * [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
 * [Lexicalscope Ltd](http://www.lexicalscope.com/blog/2012/03/12/how-are-rest-apis-versioned/) - How are REST APIs versioned?
+* [Martin Nally](https://apigee.com/about/blog/api-technology/api-design-choosing-between-names-and-identifiers-urls) - (2017) API Design: Choosing Between Names and Identifiers in URLs
 
 ## C/C++
 * [Mike Acton](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - (2014) [Slides] Data oriented design principles and c++
