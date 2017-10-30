@@ -2001,6 +2001,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hammer Principle](http://hammerprinciple.com/versioncontrol/items/git/svn) - Git vs SVN features comparison
 * [Emma Jane Westby](https://24ways.org/2014/dealing-with-emergencies-in-git/) - Dealing with Emergencies in Git
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+* [Stef Walter](http://stef.thewalter.net/git-coverage-useful-code-coverage.html) - (2012) git-coverage: Useful code coverage
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -2590,6 +2591,7 @@ Raw
 * [nickjj/RoleSpec](https://github.com/nickjj/rolespec) - A test library for testing Ansible roles
 * [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+* [Stef Walter](http://stef.thewalter.net/git-coverage-useful-code-coverage.html) - (2012) git-coverage: Useful code coverage
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
