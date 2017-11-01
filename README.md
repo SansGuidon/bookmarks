@@ -1658,7 +1658,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
-* [Linguee](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web 
+* [**Linguee**](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web 
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 * [dswd/zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution 
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
