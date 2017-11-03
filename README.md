@@ -1833,6 +1833,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
 * [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language | TOML aims to be a minimal configuration file format that's easy to read due to obvious semantics.
 * [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
+* [onaclov2000/PassionateProgrammer](https://github.com/onaclov2000/PassionateProgrammer) - a list of the tips from the book "Passionate Programmer"
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1865,9 +1866,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gregg Caines](http://caines.ca/blog/2009/12/13/code-slower/) - Code Slower
 * [Gregg Caines](http://caines.ca/blog/2010/12/05/quality-is-the-constraint/) - Quality Is the Constraint
 * [Hugo Matilla/Refactoring-Summary](https://github.com/HugoMatilla/Refactoring-Summary) - Summary of "Refactoring: Improving the Design of Existing Code" by Martin Fowler
-* [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29) - Summary of 'Clean code' by Robert C. Martin
-* [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code) - Notes of clean coding practices, mostly based on book Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-* [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code) - Notes on the book Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
 * [Christopher Diggins](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) - The Principles of Good Programming
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
@@ -1912,6 +1910,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/the_language_squint_test.html) - (2008) The Language Squint Test
 * [blue.penguin](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/) - Bash scripting tutorial: A coding style guideline
+* Some GitHub resources on clean coding practices, mostly based on book 'Clean Code: A Handbook of Agile Software Craftsmanship' by Robert C. Martin : [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29), [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code), [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code), [harry830622/clean-code-notes](https://github.com/harry830622/clean-code-notes), [thebentern/clean-code-study](https://github.com/thebentern/clean-code-study), [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes), [timkendall/clean-code](https://github.com/timkendall/clean-code)
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
