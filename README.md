@@ -210,6 +210,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Umer Mansoor](https://codeahoy.com/2017/07/26/fix-employee-weaknesses-or-focus-on-their-strengths/) - Fix Employee Weaknesses or Focus on Their Strengths?
 * [Umer Mansoor](https://codeahoy.com/2016/04/03/effective-code-reviews/) - (2016) Effective Code Reviews
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
+* [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -1812,6 +1813,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brian Kelly](https://morethancoding.com/2011/02/27/the-greatest-software-stories-ever-told/) - [Books] The Greatest Software Stories Ever Told
 * [Amir Rachum](http://amir.rachum.com/blog/2016/09/17/shared-libraries/) - (2016) Shared Libraries: Understanding Dynamic Loading
 * [Erik Helin and Adam Renberg](http://littleosbook.github.io/#a-simple-read-only-file-system) - [Book] The little book about OS development
+* [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2071,6 +2073,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 * [golang/go/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) - Go Code Review Comments : collects common comments made during reviews of Go code. This is a laundry list of common mistakes, not a style guide.
 * [Kevin Burke](https://kev.inburke.com/kevin/install-homebrew-go/) - Make your Go Binaries Homebrew Installable
+* [Jeff Rouse](https://opensource.com/article/17/11/why-go-grows) - (2017) Why Go is skyrocketing in popularity
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
