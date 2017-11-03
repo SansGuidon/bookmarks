@@ -134,6 +134,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
 * [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing 
 * [Queues](http://queues.io/) - Job queues, message queues and other queues listed and compared in one place
+* [Wikipedia](https://en.wikipedia.org/wiki/Composition_over_inheritance) - Choose Composition over inheritance
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -725,6 +726,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Martin Nally](https://apigee.com/about/blog/developer/12-goals-microservices) - (2016) The 12 Goals of Microservices
 * [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing 
 * [Brian Kelly](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/) - Creating a Microservice? Answer these 10 Questions First 
+* [Sumit Maingi](https://cloudncode.blog/2016/07/22/msa-getting-started/) - (2016) Building Microservices? Here is what you should know
 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
@@ -1465,6 +1467,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Splunk Docs](https://docs.splunk.com/Documentation/Splunk/6.4.3/SearchReference/Fields) - Splunk Search reference
 * [Tim O'Brien](https://discursive.com/2013/10/30/how-to-get-your-crazy-logs-under-control/) - 10 Steps to Get Your Crazy Logs Under Control
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
+* [Sumit Maingi](https://cloudncode.blog/2016/12/30/what-should-you-log-in-an-application-and-how-to-avoid-having-24x7-support-looking-at-them/) - (2016) What should you log in an application and how to avoid having 24×7 support looking at them?
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
@@ -1805,6 +1808,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brian Kelly](https://morethancoding.com/2011/05/22/the-programmer-pyramid/) - (2011) The Programmer Pyramid
 * [Brian Kelly](https://morethancoding.com/2011/02/27/the-greatest-software-stories-ever-told/) - [Books] The Greatest Software Stories Ever Told
 * [Amir Rachum](http://amir.rachum.com/blog/2016/09/17/shared-libraries/) - (2016) Shared Libraries: Understanding Dynamic Loading
+* [Erik Helin and Adam Renberg](http://littleosbook.github.io/#a-simple-read-only-file-system) - [Book] The little book about OS development
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
