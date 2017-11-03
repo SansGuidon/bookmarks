@@ -15,3 +15,4 @@
 * [Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - fake o'reilly books pictures on Google
 * [Twitter](https://twitter.com/search?q=%23QuickTip&src=savs) - #QuickTip on twitter
 * [GitHub](https://github.com/topics/awesome) - Topic: awesome on GitHub
+* [Twitter](https://twitter.com/search?q=practices%20list%20programming%20&src=typd) - list of programming practices on Twitter
