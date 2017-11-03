@@ -130,6 +130,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Scott McCarty](http://rhelblog.redhat.com/2016/03/16/container-tidbits-when-should-i-break-my-application-into-multiple-containers/) - (2016) Container Tidbits: When Should I Break My Application into Multiple Containers?
 * [Umer Mansoor](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/) - YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard
 * [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
+* [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -204,6 +205,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Write the Docs](http://www.writethedocs.org/guide/) - Documentation Guide : a best practice handbook for building, structuring, and writing software documentation, for creating more wonderful documentation in the world
 * [Umer Mansoor](https://codeahoy.com/2017/07/26/fix-employee-weaknesses-or-focus-on-their-strengths/) - Fix Employee Weaknesses or Focus on Their Strengths?
 * [Umer Mansoor](https://codeahoy.com/2016/04/03/effective-code-reviews/) - (2016) Effective Code Reviews
+* [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -230,6 +232,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [Lionel Dricot](http://ploum.net/votre-idee-ne-vaut-rien/) - [FR] Votre idée ne vaut rien
+* [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1144,7 +1147,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lakshmanan Ganapathy](http://www.thegeekstuff.com/2012/08/lsof-command-examples) - 15 Linux lsof Command Examples (Identify Open Files)
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/11/50-linux-commands/) - 50 Most Frequently Used UNIX / Linux Commands (With Examples)
 * [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
-* [Ramesh Natarajan](http://www.thegeekstuff.com/2011/06/iptables-rules-examples/) - 25 Most Frequently Used Linux IPTables Rules Examples
+* [Ramesh Natarajan](http://www.thegeekstuff.com/2011/06/iptables-rules-examples/) - 25 Most Frequently Used Linux IPTables Rules Examples. **Bonus** : [Gist on GitHub](https://gist.github.com/virtualstaticvoid/1024546)
 * [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/09/linux-one-liners/) - 6 Useful Linux One Liners
 * [Maxim Chernyak](http://hakunin.com/permissions) - Linux permissions cheatsheet 
@@ -1725,7 +1728,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andrew Wulf](http://thecodist.com/article/the-biggest-difference-between-coding-today-and-when-i-started-in-the-80-s) - The Biggest Difference Between Coding Today and When I Started in the 80’s
 * [Andrew Wulf](http://thecodist.com/article/what_makes_a_programmer_good) - What Makes a Programmer Good?
 * [Stack Overflow](http://chat.stackoverflow.com/) - chat rooms on stack overflow
-* [RankRed](http://www.rankred.com/nasa-coding-rules/) - NASA’s 10 Coding Rules for Writing Safety Critical Program
+* [**RankRed**](http://www.rankred.com/nasa-coding-rules/) - NASA’s 10 Coding Rules for Writing Safety Critical Program
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
 * [DemandRush](https://www.demandrush.com/) - Get paid to build your next side project
@@ -1792,6 +1795,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gregg Caines](http://caines.ca/blog/2017/10/21/working-without-estimates/) - (2017) Working Without Estimates
 * [Umer Mansoor](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/) - YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/the_language_squint_test.html) - (2008) The Language Squint Test
+* [c9x](http://c9x.me/compile/bib/) - Resources for Amateur Compiler Writers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1811,6 +1815,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
 * [Chris Wellons](http://nullprogram.com/blog/2017/03/30/) - (2017) How to Write Portable C Without Complicating Your Build
 * [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape : embeddable Javascript engine with a focus on portability and compact footprint
+* [RMB Consulting](https://rmbconsulting.us/publications/a-c-test-the-0x10-best-questions-for-would-be-embedded-programmers/) - A ‘C’ Test: The 0x10 Best Questions for Would-be Embedded Programmers
 
 ## Clean code
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
@@ -2625,6 +2630,7 @@ Raw
 * [Rémi Parmentier](http://www.hteumeuleu.fr/attribut-srcset-images-responsive/) - (2014) [FR] L’attribut srcset pour des images responsive
 * [Zombidev](https://twitter.com/scottdavis99/statuses/524442305764552705) - "The web is just rectangles inside of rectangles..."
 * [Guillaume Gouessan](http://guillaumegouessan.com/talk/move/) - Making things move when you are a front-end developer / good animating advices 
+* [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
