@@ -1620,7 +1620,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Corinna Baldauf](http://wall-skills.com/2016/how-to-master-any-skill-badass/) - How to master any skill – Badass
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
 * [SlideShare](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement related presentations
-* [pluralsight](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
+* [Adam Bertram](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
 * [Jean-Yves Guyomarc'h/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 * [MindTools](https://www.mindtools.com/pages/article/newHTE_96.htm) - tips for Overcoming Procrastination
 * [Google](http://www.powersearchingwithgoogle.com/) - Power searching with google
