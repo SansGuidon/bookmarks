@@ -58,6 +58,7 @@
 * [Andy Hunt & Dave Thomas](https://twitter.com/nicolopigna/status/921280768697143296) - the original DRY principle : "Every piece of knowledge must have a single, unambiguous, authoritative representation, within a system"
 * A prototype is worth a thousand meetings
 * Business software implementation and development is unpredictable. There will always be things to alter timeline and priorities. [Tina Marie Parker](https://twitter.com/Nozeyparkers/status/922403525950353409)
+* As a developer you should strive to at least understand one level of abstraction deeper than you work on - [Scott Davis](https://twitter.com/danielbryantuk/status/919866216222724096)
 
 # from my twitter
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
