@@ -2243,6 +2243,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Leftover Salad](http://leftoversalad.tumblr.com/post/103503118002) - Difference between Java and JavaScript
 * [Feminist Hacker Barbie](http://computer-engineer-barbie.herokuapp.com/browse) - Comics about Barbie seen as a developer / sysadmin
 * [codecrap](http://codecrap.com/) - worst snippets of code / where developers go to laugh and cry
+* [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books. 
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
