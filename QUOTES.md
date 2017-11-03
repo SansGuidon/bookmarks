@@ -55,3 +55,4 @@
 * Good design is not about making everything flexible. It's about making the right things flexible. - [John D. Cook](https://www.johndcook.com/blog/2008/02/18/what-to-make-flexible/)
 * Google is software developer’s best friend - [Umer Mansoor](https://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/)
 * Being a good programmer is 3% Talent 97% Not being distracted by the Internet - [Programming Knot‏](https://twitter.com/PrototypeChain/statuses/539658036474691586)
+* Each new user of a new system uncovers a new class of bugs - [Brian W. Kernighan](https://twitter.com/CodeWisdom/status/797146627215605760)
