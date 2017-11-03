@@ -1800,6 +1800,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Umer Mansoor](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/) - YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/the_language_squint_test.html) - (2008) The Language Squint Test
 * [c9x](http://c9x.me/compile/bib/) - Resources for Amateur Compiler Writers
+* [Brian Kelly](https://morethancoding.com/2012/08/17/the-programming-language-skill-scale/) - (2012) The Programming Language Skill Scale
+* [Brian Kelly](https://morethancoding.com/2011/05/22/the-programmer-pyramid/) - (2011) The Programmer Pyramid
+* [Brian Kelly](https://morethancoding.com/2011/02/27/the-greatest-software-stories-ever-told/) - [Books] The Greatest Software Stories Ever Told
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
