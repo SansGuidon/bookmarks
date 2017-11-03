@@ -2113,6 +2113,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stoyan Stefanov](http://www.phpied.com/files/location-location/location-location.html) - 535 ways to reload the page with JavaScript
 * [Keith Cirkel](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - (2014) Why we should stop using Grunt & Gulp
 * [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape : embeddable Javascript engine with a focus on portability and compact footprint
+* [Una Kravets](http://youmightnotneedjs.com/) - You Might Not Need JavaScript
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
@@ -2700,6 +2701,7 @@ Raw
 * [SEO'Brien](https://seobrien.com/writing-search-optimized-blog-posts) - (2011) Writing Search Optimized Blog Posts
 * [Matias Meno](http://www.colorglare.com/2014/11/24/stateless-html.html) - (2014) Stop writing stateful HTML
 * [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
+* [Una Kravets](http://youmightnotneedjs.com/) - You Might Not Need JavaScript
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
