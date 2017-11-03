@@ -132,6 +132,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
+* [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing 
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -721,7 +722,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Milen Dyankov](https://www.youtube.com/watch?v=O77777Zy_HE) - [Video] Microservices and Modularity or the difference between treatment and cure! 
 * [Richard Clayton](https://rclayton.silvrback.com/failing-at-microservices) - Failing at Microservices.
 * [Martin Nally](https://apigee.com/about/blog/developer/12-goals-microservices) - (2016) The 12 Goals of Microservices
- 
+* [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing 
+* [Brian Kelly](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/) - Creating a Microservice? Answer these 10 Questions First 
+
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
 * [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
@@ -2633,6 +2636,7 @@ Raw
 * [Zombidev](https://twitter.com/scottdavis99/statuses/524442305764552705) - "The web is just rectangles inside of rectangles..."
 * [Guillaume Gouessan](http://guillaumegouessan.com/talk/move/) - Making things move when you are a front-end developer / good animating advices 
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
+* [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
