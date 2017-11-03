@@ -1255,6 +1255,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GNU Parallel](https://www.gnu.org/software/parallel/) - GNU parallel is a shell tool for executing jobs in parallel using one or more computers.
 * [Bryan Lunduke](https://www.youtube.com/watch?v=5pOxlazS3zs) - (2014) [Video] Linux Sucks // spoiler : this is not a video against Linux ;)
 * [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCrashAndMore) - (2014) The bad side of systemd: two recent systemd failures
+* [Alexander Blagoev](http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html) - Adventures in /usr/bin and the likes
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
