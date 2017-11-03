@@ -216,6 +216,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeff Wainwright](https://css-tricks.com/code-review-etiquette/) - (2017) Code Review Etiquette
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
 * [Doug Tedder](https://www.dougtedder.com/2017/07/02/cab-dead-long-live-cab/) - (2017) The CAB is Dead. Long Live the CAB.
+* [Jon Cairns](https://medium.com/techspiration-ideas-making-it-happen/communication-how-to-be-a-better-software-developer-869c50767701) - Communication: how to be a better software developer
+* [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic 
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -1654,6 +1656,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U) - (2012) [Video] Scaling Yourself / productivity for professionals 
 * [Ken Krogue](http://todolist.twoodo.com/caa9602ecff5455d9d9a9933b2564685/A-Checklist-For-Great-Presentations-(-By-Ken-Krogue-)) - A Checklist For Great Presentations
 * [d2s/knowledge](https://github.com/d2s/knowledge/tree/master/productivity) - curated list of resources about productivity
+* [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
@@ -1847,6 +1850,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [dhilipsiva/awesome-programmer](https://github.com/dhilipsiva/awesome-programmer) - A collection of resources to learn from and become a self-taught awesome programmer.
 * [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Curated list of falsehoods programmers believe in
 * [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer
+* [Jon Cairns](https://medium.com/techspiration-ideas-making-it-happen/communication-how-to-be-a-better-software-developer-869c50767701) - Communication: how to be a better software developer
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2084,6 +2088,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Roger Dudler](https://rogerdudler.github.io/git-guide/) - git - the simple guide | just a simple guide for getting started with git. no deep shit ;)
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/31/getting-out-of-your-first-git-mess.html) - (2015)  Getting Out of Your First Git Mess 
 * [GitHub](https://github.com/topics) - Topics on GitHub
+* [Jon Cairns](http://blog.joncairns.com/2015/09/use-git-to-comment-your-code/) - (2015) Use git to comment your code (and stop writing rubbish commit messages, please)
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
