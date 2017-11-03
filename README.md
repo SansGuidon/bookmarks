@@ -1850,6 +1850,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chris Wellons](http://nullprogram.com/blog/2017/03/30/) - (2017) How to Write Portable C Without Complicating Your Build
 * [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape : embeddable Javascript engine with a focus on portability and compact footprint
 * [RMB Consulting](https://rmbconsulting.us/publications/a-c-test-the-0x10-best-questions-for-would-be-embedded-programmers/) - A ‘C’ Test: The 0x10 Best Questions for Would-be Embedded Programmers
+* [Bartlomiej Filipek](http://www.bfilipek.com/2017/10/notnull.html) - (2017) How not_null can improve your code?
 
 ## Clean code
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
