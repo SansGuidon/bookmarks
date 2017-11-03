@@ -1861,12 +1861,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Salvatore Gentile/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
 * [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) 
 * [mcandre/linters](https://github.com/mcandre/linters) - list of linters and introduction to static code analysis
-* [mre/Awesome Static analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
+* [**mre/Awesome Static analysis**](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
 * [mre/Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
 * [Lucas Medeiros Reis](https://dev.to/iamlucasmreis/the-single-most-important-driver-of-software-quality) - The Single Most Important Driver Of Software Quality
 * [clean-code-linters](https://github.com/showcases/clean-code-linters) - Clean code linters on GitHub
 * [enginyoyen/Ansible Best Practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
-* [Kristories/Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+* [**Kristories/Awesome Guidelines**](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 * [Tom Preston-Werner](http://semver.org/) - Semantic Versioning 2.0.0
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
