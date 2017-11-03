@@ -328,7 +328,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
-* [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
+* [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
 * [DevOps on Slack](https://devopschat.co/) - DevOps fans on Slack
 * [DevOpsLinks on Slack](http://devopslinks.com/) - Where “software DEVelopment” meets “information technology OPerationS”
 * [Joran Le Cren](http://squad-twelve.com/2017/07/03/7-specific-suggestions-to-sabotage-devops-simply/) - 7 Specific Suggestions to Sabotage DevOps Simply
@@ -934,6 +934,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - curated list of awesome open source intelligence (OSINT) tools and resources. 
 * [GitHub](https://github.com/topics) - Topics on GitHub
+* [GitLogs](http://www.gitlogs.com/resource-guides) - definitive list of top resources of GitHub
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1098,6 +1099,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chess Media Group](https://twitter.com/GlenGilmore/status/541672473637695488/photo/1) - (2014) [IMG] 7 Principles of The Future Employee 
 * [Maria Konnikova](https://www.newyorker.com/business/currency/the-open-office-trap) - (2014) The Open-Office Trap
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/perception_of_time.html) - (2006) Perception of Time
+* [Meghan Hebel](https://codeburst.io/why-you-dont-deserve-that-dream-developer-job-60d5e5adb8d7) - Why You Don’t Deserve That Dream Developer Job
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1161,7 +1163,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
 * [Alltop](https://linux.alltop.com/) - Top Linux News aggregated
-* [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
+* [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
 * [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary 
 * [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2696541/operating-systems/unix--knowing-your-memory-commands.html) - Unix: Knowing your memory commands
@@ -1440,7 +1442,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Matthew Skelton](https://blog.softwareoperability.com/2013/04/08/lets-talk-about-operational-features-not-non-functional-requirements/) - Let’s Talk About Operational Features, not Non-Functional Requirements
 * [David Mytton](https://blog.serverdensity.com/how-and-why-we-use-devops-checklists/) - How and why we use DevOps checklists
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
-* [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
+* [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
 * [AskF5 Support](https://support.f5.com/csp/article/K12213214) - Overview of colored status icons in the Configuration utility
 * [Deb Shinder](http://techgenix.com/fall-of-all-powerful-admin/) - The rise and fall of the all-powerful admin
@@ -1856,6 +1858,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Curated list of falsehoods programmers believe in
 * [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer
 * [Jon Cairns](https://medium.com/techspiration-ideas-making-it-happen/communication-how-to-be-a-better-software-developer-869c50767701) - Communication: how to be a better software developer
+* [GitLogs](http://www.gitlogs.com/resource-guides) - definitive list of top resources of GitHub
+* [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1934,6 +1938,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [blue.penguin](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/) - Bash scripting tutorial: A coding style guideline
 * Some GitHub resources on clean coding practices, mostly based on book 'Clean Code: A Handbook of Agile Software Craftsmanship' by Robert C. Martin : [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29), [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code), [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code), [harry830622/clean-code-notes](https://github.com/harry830622/clean-code-notes), [thebentern/clean-code-study](https://github.com/thebentern/clean-code-study), [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes), [timkendall/clean-code](https://github.com/timkendall/clean-code)
 * [jbelmont/pragmatic-programmer-and-clean-code](https://github.com/jbelmont/pragmatic-programmer-and-clean-code) - principles from Pragmatic Programmer and Clean Code books
+* [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
@@ -1964,6 +1969,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
 * [Mark Isaacson](http://maintainablecode.logdown.com/posts/245425-valgrind-is-not-a-leak-checker) - (2014) Valgrind is *NOT* a leak checker
 * [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
+* [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
 
 ## Gamedev
 > News & Communities
@@ -2094,6 +2100,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/31/getting-out-of-your-first-git-mess.html) - (2015)  Getting Out of Your First Git Mess 
 * [GitHub](https://github.com/topics) - Topics on GitHub
 * [Jon Cairns](http://blog.joncairns.com/2015/09/use-git-to-comment-your-code/) - (2015) Use git to comment your code (and stop writing rubbish commit messages, please)
+* [Jason Chen](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 45 Github Issues Dos and Don’ts
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -2250,6 +2257,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Umer Mansoor](https://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/) - Do Experienced Programmers Use Google Frequently?
 * [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Curated list of falsehoods programmers believe in
 * [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer
+* [Meghan Hebel](https://codeburst.io/why-you-dont-deserve-that-dream-developer-job-60d5e5adb8d7) - Why You Don’t Deserve That Dream Developer Job
+* [Meghan Hebel](https://codeburst.io/stop-sabotaging-your-code-4ed67424a17a) - Stop Sabotaging Your Code…Before You Even Code
+* [Artem Stepanenko](https://medium.freecodecamp.org/5-steps-to-become-a-better-stack-overflow-user-4ce85711c0f9) - How to become a better Stack Overflow user in five simple steps
+* [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -2380,6 +2391,7 @@ Raw
 * [16Personalities](https://www.16personalities.com/fr/la-personnalite-isfj) - [FR] La personnalité "Défenseur" (ISFJ-A / ISFJ-T)
 * [16Personalities](https://www.16personalities.com/fr/la-personnalite-infj) - [FR] La personnalité "Avocat" (INFJ-A / INFJ-T)
 * [Psychologie-luxeuil](http://www.psy-luxeuil.fr/article-fin-de-vie-les-5-grands-regrets-des-mourants-117710234.html) - [FR] what dying people regret the most in their life / les 5 grands regrets des mourants
+* [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - list of awesome social engineering resources
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -2480,6 +2492,7 @@ Raw
 * [blue.penguin](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/) - Bash scripting tutorial: A coding style guideline
 * [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools 
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - list of Terminal frameworks, plugins & resources for CLI lovers
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -2592,6 +2605,7 @@ Raw
 * [Asankhaya Sharma](https://www.linkedin.com/pulse/how-can-you-ensure-your-open-source-components-secure-sharma/) - (2016) How can you ensure that your open source components are secure?
 * [Julien Pivotto](https://fr.slideshare.net/roidelapluie/enhance-openssh-for-fun-and-security) - (2015) Enhance OpenSSH for fun and security 
 * [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - A curated list of SSH resources. 
+* [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - list of awesome social engineering resources
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
