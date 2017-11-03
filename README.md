@@ -149,6 +149,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Sacha Greif](https://medium.com/@sachagreif/the-spiderweb-strategy-12ebd2f35595) - (2014) The Spiderweb Strategy : Why it’s OK if some of your projects don’t make money
 * [Andy Adams](http://andyadams.org/you-can-charge-more/) - (2014) How to talk yourself into charging more
+* [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
@@ -375,6 +376,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Keith Cirkel](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - (2014) Why we should stop using Grunt & Gulp
 * [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way 
+* [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
