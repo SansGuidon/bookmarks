@@ -1804,6 +1804,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brian Kelly](https://morethancoding.com/2012/08/17/the-programming-language-skill-scale/) - (2012) The Programming Language Skill Scale
 * [Brian Kelly](https://morethancoding.com/2011/05/22/the-programmer-pyramid/) - (2011) The Programmer Pyramid
 * [Brian Kelly](https://morethancoding.com/2011/02/27/the-greatest-software-stories-ever-told/) - [Books] The Greatest Software Stories Ever Told
+* [Amir Rachum](http://amir.rachum.com/blog/2016/09/17/shared-libraries/) - (2016) Shared Libraries: Understanding Dynamic Loading
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2516,6 +2517,7 @@ Raw
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [stribika](https://stribika.github.io/2015/01/04/secure-secure-shell.html) - (2015) Secure Secure Shell
+* [Gert van Dijk](https://blog.g3rt.nl/upgrade-your-ssh-keys.html) - Upgrade your SSH keys!
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
