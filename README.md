@@ -1890,6 +1890,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/the_language_squint_test.html) - (2008) The Language Squint Test
 
 ## Database
+* [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
 * [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
 * [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md) - curated list of awesome MySQL software, libraries and resources
 * [Brian Peasland](http://www.peasland.net/2016/10/19/slash-or-no-slash/) - Slash or no Slash in SQL scripts ?
@@ -1897,6 +1898,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Geoff Wozniak](http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql)  - (2014) What ORMs have taught me: just learn SQL
 * [Matt Butcher](https://dzone.com/articles/nosql-no-more) - (2014) NoSQL No More / NoSQL is not a silver bullet 
 * [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
+* [jOOQ Blog](https://blog.jooq.org/2017/01/12/a-probably-incomplete-comprehensive-guide-to-the-many-different-ways-to-join-tables-in-sql/) - (2017) A Probably Incomplete, Comprehensive Guide to the Many Different Ways to JOIN Tables in SQL
+* [jOOQ Blog](https://blog.jooq.org/2017/09/28/10-cool-sql-optimisations-that-do-not-depend-on-the-cost-model/) - (2017) 10 Cool SQL Optimisations That do not Depend on the Cost Model
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
