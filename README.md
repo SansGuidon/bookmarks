@@ -1743,7 +1743,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GitHub Explore](https://github.com/explore) - Project showcases, discover interesting repositories 
 * [GitHub Trending](https://github.com/trending) - Explore trending projects in GitHub community
 * [GitHub Showcases](https://github.com/showcases) - Open source showcases, explore popular repositories
-* [Hugo Matilla](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
+* [**Hugo Matilla**](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
 * [Methods & Tools](http://www.methodsandtools.com/mt/download.php) - magazine about software development & testing with free content. See also [Partner websites](http://www.methodsandtools.com/network.php)
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
 * [Nick Parlante](http://codingbat.com) - CodingBat : practice your programming skills (exercices in java and python)
@@ -1834,6 +1834,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language | TOML aims to be a minimal configuration file format that's easy to read due to obvious semantics.
 * [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
 * [onaclov2000/PassionateProgrammer](https://github.com/onaclov2000/PassionateProgrammer) - a list of the tips from the book "Passionate Programmer"
+* [sfrapoport/daily-pragmatic-tip](https://github.com/sfrapoport/daily-pragmatic-tip/blob/master/pragmaticprogrammer.txt) - notes from book "Pragmatic Programmer"
+* [AdesisNetlife/coder-bible](https://github.com/AdesisNetlife/coder-bible) - Thoughts and resources to be a pragmatic programmer 
+* [jbelmont/pragmatic-programmer-and-clean-code](https://github.com/jbelmont/pragmatic-programmer-and-clean-code) - principles from Pragmatic Programmer and Clean Code books
+* [braydie/PragProgTips](https://github.com/braydie/PragProgTips/blob/master/index.html) - some tips from pragmatic programmer book
+* [benas/awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship) - A curated list of awesome software craftsmanship resources
+* [asciamanna/software-craftsmanship-catalog](https://github.com/asciamanna/software-craftsmanship-catalog/blob/master/catalog.md) - a collection of resources about software craftsmanship, TDD, XP, etc.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1911,6 +1917,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/the_language_squint_test.html) - (2008) The Language Squint Test
 * [blue.penguin](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/) - Bash scripting tutorial: A coding style guideline
 * Some GitHub resources on clean coding practices, mostly based on book 'Clean Code: A Handbook of Agile Software Craftsmanship' by Robert C. Martin : [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29), [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code), [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code), [harry830622/clean-code-notes](https://github.com/harry830622/clean-code-notes), [thebentern/clean-code-study](https://github.com/thebentern/clean-code-study), [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes), [timkendall/clean-code](https://github.com/timkendall/clean-code)
+* [jbelmont/pragmatic-programmer-and-clean-code](https://github.com/jbelmont/pragmatic-programmer-and-clean-code) - principles from Pragmatic Programmer and Clean Code books
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
