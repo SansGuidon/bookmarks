@@ -61,13 +61,12 @@
 * As a developer you should strive to at least understand one level of abstraction deeper than you work on - [Scott Davis](https://twitter.com/danielbryantuk/status/919866216222724096)
 * [DhilipSiva Bijju](http://dhilipsiva.blogspot.be/2013/06/best-practices.html) - (2013) some Best Practices. **Bonus** : [Related GitHub repo](https://github.com/dhilipsiva/best-practices)
 
-# from my twitter
+## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/450614047608934400) - Productivity : To find a solution, first eliminate the impossible ones. Astuce : Trouver la solution en éliminant d'abord les non solutions.
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/450218285129531392) - Readability / Reusability : If you wan write a 100 lines function, you can also replace it with a dozen more legible functions
 
-# from my Bullet Journal
-## Values 
+## Values I adhere to 
 * Learn the basics of a language before learning frameworks
 * DRY (Don't Repeat Yourself) is not about code, but about knowledge
 * Refactoring is a development technique, not a project
@@ -127,6 +126,7 @@
 * living isn't fucking easy but at least you can make your life more fun
 * when you pause what you're doing, you find more interesting ways to do it. So pause often
 * Be you ! the world will adjust
+* Write simple code that does not need to be refactored immediately : build solutions that can still be used or adapted to tomorrow needs
 
 ## Art of Questions
 * Just ask
