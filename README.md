@@ -131,6 +131,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Umer Mansoor](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/) - YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard
 * [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
+* [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -1804,6 +1805,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
 * [Lexicalscope Ltd](http://www.lexicalscope.com/blog/2012/03/12/how-are-rest-apis-versioned/) - How are REST APIs versioned?
 * [Martin Nally](https://apigee.com/about/blog/api-technology/api-design-choosing-between-names-and-identifiers-urls) - (2017) API Design: Choosing Between Names and Identifiers in URLs
+* [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
 
 ## C/C++
 * [Mike Acton](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - (2014) [Slides] Data oriented design principles and c++
