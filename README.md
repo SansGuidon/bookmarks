@@ -211,6 +211,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Umer Mansoor](https://codeahoy.com/2016/04/03/effective-code-reviews/) - (2016) Effective Code Reviews
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
+* [Wikipedia](https://en.wikipedia.org/wiki/Oblique_Strategies) - Oblique Strategies
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -238,6 +239,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [Lionel Dricot](http://ploum.net/votre-idee-ne-vaut-rien/) - [FR] Votre idée ne vaut rien
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
+* [Wikipedia](https://en.wikipedia.org/wiki/Oblique_Strategies) - Oblique Strategies
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -294,7 +296,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Martin Rusev](https://www.amon.cx/blog/how-i-replaced-ssh/) - How I Replaced SSH with ZeroMQ and Salt
 * [Martin Rusev](https://www.amon.cx/blog/saltstack-review/) - SaltStack - Review and how it fares against Ansible and Puppet?
 * [Josh Dreyfuss](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/) - Deployment Management Tools: Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric
-* [Engin Yöyen ](http://enginyoyen.com/service-discovery-choosing-the-right-tool/) - Service Discovery : Choosing the Right Tool
+* [Engin Yöyen](http://enginyoyen.com/service-discovery-choosing-the-right-tool/) - Service Discovery : Choosing the Right Tool
 * [**Viktor Farcic**](https://technologyconversations.com/2017/03/06/the-ten-commandments-of-continuous-delivery/) - The Ten Commandments Of Continuous Delivery. **Bonus from Jenkins World 2017** : [video](https://www.youtube.com/watch?v=mW_gkQnF4eU) & [my notes](cd/viktor_farcic_on_continuous_delivery.md)
 * [Pushkar Singh](https://theagilecoder.files.wordpress.com/2015/09/devops-maturity-model.png) - [PNG] Devops Maturity Model
 * [DevOpsGuys](https://www.devopsguys.com/2013/02/06/maturing-the-continuous-delivery-pipeline/) - Maturing the Continuous Delivery Pipeline
@@ -1291,11 +1293,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SystemRescueCd](http://www.system-rescue-cd.org/) - a Linux system rescue disk available as a bootable CD-ROM or USB stick for fixing your system and data after a crash.
 * [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
+* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
 * [Christophe Vanlancker](https://carroarmato0.wordpress.com/2012/04/30/how-to-change-dns-in-dhcp-on-the-bbox2/) - How to change DNS in DHCP on the BBox2
-* [Christophe Vanlancker ](https://carroarmato0.wordpress.com/2010/06/20/how-to-bridge-the-lan-ports-of-your-belgacom-bbox2/) - How to Bridge the Lan ports of your Belgacom BBox2
+* [Christophe Vanlancker](https://carroarmato0.wordpress.com/2010/06/20/how-to-bridge-the-lan-ports-of-your-belgacom-bbox2/) - How to Bridge the Lan ports of your Belgacom BBox2
 * [Philippe Teuwen](http://wiki.yobi.be/wiki/Modem_BBox-2) - wiki with useful detailed information about Belgacom BBox2
 
 ## Vim
@@ -1709,7 +1712,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs) - [Video] The Silver Bullet Syndrome (Devoxx Brussels 2015)
 * [Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) - How to Pick a Good Monitor for Software Development
 * [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know. **Bonus** [alternative link](http://www.tuicool.com/articles/YvIvMj)
-* [Engin Yöyen ](http://enginyoyen.com/improving-problem-solving-skills-for-developers/) - Improving problem-solving skills for developers
+* [Engin Yöyen](http://enginyoyen.com/improving-problem-solving-skills-for-developers/) - Improving problem-solving skills for developers
 * [James Hood](https://dev.to/jlhcoder/tips-for-new-software-developers) - Tips for New Software Developers
 * [Andrew Wulf](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) - Lessons From A Lifetime Of Being A Programmer
 * [Mo Bitar](https://journal.standardnotes.org/surviving-in-open-source-47792a7c59dc) - Surviving Open-Source
@@ -1814,6 +1817,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Amir Rachum](http://amir.rachum.com/blog/2016/09/17/shared-libraries/) - (2016) Shared Libraries: Understanding Dynamic Loading
 * [Erik Helin and Adam Renberg](http://littleosbook.github.io/#a-simple-read-only-file-system) - [Book] The little book about OS development
 * [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
+* [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language | TOML aims to be a minimal configuration file format that's easy to read due to obvious semantics.
+* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1920,6 +1925,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
 * [Mark Isaacson](http://maintainablecode.logdown.com/posts/245425-valgrind-is-not-a-leak-checker) - (2014) Valgrind is *NOT* a leak checker
+* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
 
 ## Gamedev
 > News & Communities
@@ -2534,7 +2540,7 @@ Raw
 * [stribika](https://stribika.github.io/2015/01/04/secure-secure-shell.html) - (2015) Secure Secure Shell
 * [Gert van Dijk](https://blog.g3rt.nl/upgrade-your-ssh-keys.html) - Upgrade your SSH keys!
 * [Asankhaya Sharma](https://www.linkedin.com/pulse/how-can-you-ensure-your-open-source-components-secure-sharma/) - (2016) How can you ensure that your open source components are secure?
-* [ Julien Pivotto](https://fr.slideshare.net/roidelapluie/enhance-openssh-for-fun-and-security) - (2015) Enhance OpenSSH for fun and security 
+* [Julien Pivotto](https://fr.slideshare.net/roidelapluie/enhance-openssh-for-fun-and-security) - (2015) Enhance OpenSSH for fun and security 
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -2543,7 +2549,7 @@ Raw
 * [Jacob Appelbaum/ioerror/duraconf](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) - Example of hardened GPG config file from duraconf
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/) - GNU Privacy Guard Manual
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). Discovered via [Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
-* [Nitin Venkatesh ](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - PGP and SSH keys - Generate, export, backup and restore
+* [Nitin Venkatesh](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - PGP and SSH keys - Generate, export, backup and restore
 * [GnuPG Docs](https://www.gnupg.org/gph/en/manual/book1.html) - (1999) The GNU Privacy Handbook
 * [/r/GnuPG](https://www.reddit.com/r/GnuPG/) - resources on everything about GnuPG, PGP, OpenPGP 
 * [/r/pgp](https://www.reddit.com/r/pgp/) - everything about PGP 
@@ -2569,7 +2575,7 @@ Raw
 * [Andrej](https://gist.github.com/4ndrej/4547029) - SSLPoke.java for quick validation of Java SSL configuration 
 * [SSL Shopper](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html) - java keytool keystore cheatsheet
 * [Brusten Philip & Van der Velpen Jan](https://shib.kuleuven.be/docs/ssl_commands.shtml) - a few frequently used SSL commands (openssl, keytool, certutil)
-* [CheapSSLSecurity ](https://cheapsslsecurity.com/blog/various-types-ssl-commands-keytool/) - SSL commands list
+* [CheapSSLSecurity](https://cheapsslsecurity.com/blog/various-types-ssl-commands-keytool/) - SSL commands list
 * [DigiCert](https://www.digicert.com/ssl-support/pem-ssl-creation.htm) - .pem SSL creation instructions
 * [Arun GP](https://myonlineusb.wordpress.com/2011/06/19/what-are-the-differences-between-pem-der-p7bpkcs7-pfxpkcs12-certificates/) - differences between PEM, DER, P7B/PKCS#7, PFX/PKCS#12 certificates
 * [SSL Shopper](https://www.sslshopper.com/special-ssl-certificate-types.html) - Special Types of SSL Certificates
