@@ -595,6 +595,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes. 
 * [William Henry](http://www.projectatomic.io/blog/2017/11/getting-started-with-buildah/) - Getting Started with Buildah | how to build container images compliant with the Open Container Initiative (OCI) image specification
 * [Eric Chiang](https://ericchiang.github.io/post/containers-from-scratch/) - (2017) Containers from Scratch **Bonus** : [Talk](https://www.youtube.com/watch?v=wyqoi52k5jM)
+* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -928,6 +929,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) - +27 million content in biomedical literature from MEDLINE, life science journals, and online books.
 * [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - curated list of awesome open source intelligence (OSINT) tools and resources. 
+* [GitHub](https://github.com/topics) - Topics on GitHub
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1842,6 +1844,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [benas/awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship) - A curated list of awesome software craftsmanship resources
 * [asciamanna/software-craftsmanship-catalog](https://github.com/asciamanna/software-craftsmanship-catalog/blob/master/catalog.md) - a collection of resources about software craftsmanship, TDD, XP, etc.
 * [futurice/backend-best-practices](https://github.com/futurice/backend-best-practices) - An evolving description of general best practices for backend development.
+* [dhilipsiva/awesome-programmer](https://github.com/dhilipsiva/awesome-programmer) - A collection of resources to learn from and become a self-taught awesome programmer.
+* [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Curated list of falsehoods programmers believe in
+* [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2078,6 +2083,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of add-ons that extend/enhance the git CLI. 
 * [Roger Dudler](https://rogerdudler.github.io/git-guide/) - git - the simple guide | just a simple guide for getting started with git. no deep shit ;)
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/31/getting-out-of-your-first-git-mess.html) - (2015)  Getting Out of Your First Git Mess 
+* [GitHub](https://github.com/topics) - Topics on GitHub
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -2232,6 +2238,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rachel Andrew](https://24ways.org/2014/developing-robust-deployment-procedures/) - Developing Robust Deployment Procedures
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * [Umer Mansoor](https://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/) - Do Experienced Programmers Use Google Frequently?
+* [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Curated list of falsehoods programmers believe in
+* [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -2572,6 +2580,7 @@ Raw
 * [Gert van Dijk](https://blog.g3rt.nl/upgrade-your-ssh-keys.html) - Upgrade your SSH keys!
 * [Asankhaya Sharma](https://www.linkedin.com/pulse/how-can-you-ensure-your-open-source-components-secure-sharma/) - (2016) How can you ensure that your open source components are secure?
 * [Julien Pivotto](https://fr.slideshare.net/roidelapluie/enhance-openssh-for-fun-and-security) - (2015) Enhance OpenSSH for fun and security 
+* [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - A curated list of SSH resources. 
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
