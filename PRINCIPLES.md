@@ -127,6 +127,7 @@
 * when you pause what you're doing, you find more interesting ways to do it. So pause often
 * Be you ! the world will adjust
 * Write simple code that does not need to be refactored immediately : build solutions that can still be used or adapted to tomorrow needs
+* Build solutions for today but anticipate future changes and always be at least one step ahead
 
 ## Art of Questions
 * Just ask
