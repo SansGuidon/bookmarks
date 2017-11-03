@@ -1651,6 +1651,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Shubhro Saha](http://www.shubhro.com/2017/09/15/two-sentences-better-meetings/) - Two sentences for better meetings
 * [Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U) - (2012) [Video] Scaling Yourself / productivity for professionals 
 * [Ken Krogue](http://todolist.twoodo.com/caa9602ecff5455d9d9a9933b2564685/A-Checklist-For-Great-Presentations-(-By-Ken-Krogue-)) - A Checklist For Great Presentations
+* [d2s/knowledge](https://github.com/d2s/knowledge/tree/master/productivity) - curated list of resources about productivity
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
@@ -1840,6 +1841,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [braydie/PragProgTips](https://github.com/braydie/PragProgTips/blob/master/index.html) - some tips from pragmatic programmer book
 * [benas/awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship) - A curated list of awesome software craftsmanship resources
 * [asciamanna/software-craftsmanship-catalog](https://github.com/asciamanna/software-craftsmanship-catalog/blob/master/catalog.md) - a collection of resources about software craftsmanship, TDD, XP, etc.
+* [futurice/backend-best-practices](https://github.com/futurice/backend-best-practices) - An evolving description of general best practices for backend development.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2074,6 +2076,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stef Walter](http://stef.thewalter.net/git-coverage-useful-code-coverage.html) - (2012) git-coverage: Useful code coverage
 * [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
 * [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of add-ons that extend/enhance the git CLI. 
+* [Roger Dudler](https://rogerdudler.github.io/git-guide/) - git - the simple guide | just a simple guide for getting started with git. no deep shit ;)
+* [Daniel Doubrovkine](http://code.dblock.org/2015/08/31/getting-out-of-your-first-git-mess.html) - (2015)  Getting Out of Your First Git Mess 
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -2425,7 +2429,7 @@ Raw
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Matthieu Parisot](http://blog.wescale.fr/2016/04/07/bash-pro-tips/) - [FR] Bash Pro Tips for logs / errors handling etc.
 * [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] tips & tricks with command line examples 
-* [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+* [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 * [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 * [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
 * [**Kfir Lavi**](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - (2012) Defensive BASH Programming
@@ -2456,6 +2460,7 @@ Raw
 * [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps 
 * [blue.penguin](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/) - Bash scripting tutorial: A coding style guideline
 * [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools 
+* [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -2693,6 +2698,8 @@ Raw
 * [Guillaume Gouessan](http://guillaumegouessan.com/talk/move/) - Making things move when you are a front-end developer / good animating advices 
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
+* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document
+* [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y 
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
