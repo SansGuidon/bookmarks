@@ -935,6 +935,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - curated list of awesome open source intelligence (OSINT) tools and resources. 
 * [GitHub](https://github.com/topics) - Topics on GitHub
 * [GitLogs](http://www.gitlogs.com/resource-guides) - definitive list of top resources of GitHub
+* [Fox eBook](https://www.foxebook.net) - ebooks site
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
