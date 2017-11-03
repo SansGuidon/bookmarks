@@ -129,6 +129,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [John D. Cook](https://www.johndcook.com/blog/2008/02/18/what-to-make-flexible/) - (2008) What to make flexible // about art of good design
 * [Scott McCarty](http://rhelblog.redhat.com/2016/03/16/container-tidbits-when-should-i-break-my-application-into-multiple-containers/) - (2016) Container Tidbits: When Should I Break My Application into Multiple Containers?
 * [Umer Mansoor](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/) - YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard
+* [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -1916,6 +1917,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
 * [Video Game Preservation](https://github.com/videogamepreservation) - An archive of commercial video game source code.
 * [Chris Wellons](http://nullprogram.com/blog/2014/12/09/) - (2014) How to build DOS COM files with GCC
+* [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
