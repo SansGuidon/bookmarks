@@ -135,6 +135,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing 
 * [Queues](http://queues.io/) - Job queues, message queues and other queues listed and compared in one place
 * [Wikipedia](https://en.wikipedia.org/wiki/Composition_over_inheritance) - Choose Composition over inheritance
+* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources 
 
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -630,6 +631,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [matterbridge](https://github.com/42wim/matterbridge/commit/ee643de5b6031b6bdbf2e957f2fea8f1222ace64) - Add compatibility for Cisco Jabber (xmpp)
 * [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know 
 * [bhuga/hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc) - hubot-chatops-rpc : Easily add RPC endpoints to your hubot.
+* [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -1104,6 +1106,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs: Design, Programming, DevOps and more
 * [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
 * [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
+* [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - list of awesome remote jobs and resources
 
 # Hobbies
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers 
@@ -1464,6 +1467,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way 
 * [David Mytton](https://blog.serverdensity.com/server-naming-conventions-and-best-practices/) - (2015) Server Naming Conventions and Best Practices
+* [Principles of Chaos Engineering](http://principlesofchaos.org/) 
+* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources 
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2390,6 +2395,7 @@ Raw
 * [Dan Finnigan](https://hbr.org/2016/11/robots-and-automation-may-not-take-your-desk-job-after-all) - (2016) Robots and Automation May Not Take Your Desk Job After All
 * [Jeff Bradberry](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) - (2015) Introduction to Monte Carlo Tree Search
 * [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
+* [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -2650,6 +2656,7 @@ Raw
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [Daniel Miessler](https://danielmiessler.com/blog/the-connected-web-why-its-time-for-strong-authentication/) - The Connected Web: Why It’s Time For Strong Authentication
 * [Frédéric Kayser](https://openweb.eu.org/articles/https-de-ssl-a-tls-1-3) - (2017) [FR] HTTPS : de SSL à TLS 1.3
+* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources. 
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
@@ -2697,6 +2704,7 @@ Raw
 * [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * [Stef Walter](http://stef.thewalter.net/git-coverage-useful-code-coverage.html) - (2012) git-coverage: Useful code coverage
+* [PaulWaltersDev/FreeLearningResourcesForSoftwareTesters](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - free Online Learning Resources for New and Experienced Software Testers.
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
@@ -2771,6 +2779,7 @@ Raw
 * [Matias Meno](http://www.colorglare.com/2014/11/24/stateless-html.html) - (2014) Stop writing stateful HTML
 * [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
 * [Una Kravets](http://youmightnotneedjs.com/) - You Might Not Need JavaScript
+* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources. 
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
