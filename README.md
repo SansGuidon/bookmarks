@@ -214,6 +214,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
 * [Wikipedia](https://en.wikipedia.org/wiki/Oblique_Strategies) - Oblique Strategies
 * [Jeff Wainwright](https://css-tricks.com/code-review-etiquette/) - (2017) Code Review Etiquette
+* [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
+* [Doug Tedder](https://www.dougtedder.com/2017/07/02/cab-dead-long-live-cab/) - (2017) The CAB is Dead. Long Live the CAB.
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -377,6 +379,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Keith Cirkel](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - (2014) Why we should stop using Grunt & Gulp
 * [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way 
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
+* [Doug Tedder](https://www.dougtedder.com/2017/07/02/cab-dead-long-live-cab/) - (2017) The CAB is Dead. Long Live the CAB.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
