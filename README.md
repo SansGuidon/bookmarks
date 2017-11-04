@@ -151,6 +151,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sacha Greif](https://medium.com/@sachagreif/the-spiderweb-strategy-12ebd2f35595) - (2014) The Spiderweb Strategy : Why it’s OK if some of your projects don’t make money
 * [Andy Adams](http://andyadams.org/you-can-charge-more/) - (2014) How to talk yourself into charging more
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
+* [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
+* [Greg Kogan](https://www.gkogan.co/blog/progression/) - (2017) Progression
 
 # Collaboration & Problem solving
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
@@ -219,6 +221,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Doug Tedder](https://www.dougtedder.com/2017/07/02/cab-dead-long-live-cab/) - (2017) The CAB is Dead. Long Live the CAB.
 * [Jon Cairns](https://medium.com/techspiration-ideas-making-it-happen/communication-how-to-be-a-better-software-developer-869c50767701) - Communication: how to be a better software developer
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic 
+* [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -247,6 +250,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lionel Dricot](http://ploum.net/votre-idee-ne-vaut-rien/) - [FR] Votre idée ne vaut rien
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Wikipedia](https://en.wikipedia.org/wiki/Oblique_Strategies) - Oblique Strategies
+* [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
