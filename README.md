@@ -28,6 +28,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Vagrant](#vagrant)
   * [Vault (by Hashicorp)](#vault-by-hashicorp)
   * [VirtualBox](#virtualbox)
+* [Digital marketing](#digital-marketing)
 * [Finding content](#finding-content)
   * [App discovery](#app-discovery)
   * [Event discovery](#event-discovery)
@@ -222,6 +223,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jon Cairns](https://medium.com/techspiration-ideas-making-it-happen/communication-how-to-be-a-better-software-developer-869c50767701) - Communication: how to be a better software developer
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic 
 * [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
+* [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
 
 # Creativity
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
@@ -251,6 +253,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Wikipedia](https://en.wikipedia.org/wiki/Oblique_Strategies) - Oblique Strategies
 * [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
+* [Katie McKenna](https://www.portent.com/blog/copywriting/better-content-5-lessons-learned-from-yoga-teacher-training.htm) - (2017) Be a Better Writer: 5 Lessons Learned From Yoga Teacher Training
+* [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
+* [Cate McGehee](https://www.portent.com/blog/content-strategy/best-thing-ever-heard-ideation-brainstorming.htm) - (2017) The Single Best Thing I’ve Ever Heard About Ideation and Brainstorming
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -868,6 +873,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vault Docs](https://www.vaultproject.io/docs/concepts/tokens.html) - Tokens
 * [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
 
+# Digital marketing
+* [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
+* [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
+
 # Finding content
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
 * [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
@@ -1024,6 +1033,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
 * [unv.is](https://unv.is/) - Just put unv.is/ in front of http:// when sharing clickbait articles, unv.is will capture the content of an article or blog post without passing on your visit as a pageview. 
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
+* [REDbot](https://redbot.org/?) - checks HTTP resources to see how they'll behave, pointing out common problems and suggesting improvements.
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2742,6 +2752,8 @@ Raw
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
 * [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document
 * [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y 
+* [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
+* [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
@@ -2800,6 +2812,9 @@ Raw
 * [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
 * [Una Kravets](http://youmightnotneedjs.com/) - You Might Not Need JavaScript
 * [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources. 
+* [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
+* [REDbot](https://redbot.org/?) - checks HTTP resources to see how they'll behave, pointing out common problems and suggesting improvements.
+* [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
