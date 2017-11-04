@@ -62,6 +62,7 @@
 * [DhilipSiva Bijju](http://dhilipsiva.blogspot.be/2013/06/best-practices.html) - (2013) some Best Practices. **Bonus** : [Related GitHub repo](https://github.com/dhilipsiva/best-practices)
 * Keep your code absolutely simple. Keep looking at your functions and figure out how you simplify further - [John Romero](https://twitter.com/CodeWisdom/status/926568192729894912)
 * Fix it immediately, but plan for the future fix. Document the fix. Automate the solution. [Adam Bertram](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips)
+* Finding errors in your past decisions and ideas means you’re progressing. - [Greg Kogan](https://www.gkogan.co/blog/progression/)
 
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
