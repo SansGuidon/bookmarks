@@ -1306,6 +1306,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=game) - Linux & SteamOS gaming community
 * [Linux game database](https://lgdb.org/games)
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+* [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
 
 ## Raspberry Pi
 * [Ard Ray](http://blog.mxard.com/persistent-iptables-on-raspberry-pi-raspbian) - Persistent IPtables on Raspberry Pi (Raspbian)
@@ -2514,6 +2515,7 @@ Raw
 * [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools 
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - list of Terminal frameworks, plugins & resources for CLI lovers
+* [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
