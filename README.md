@@ -157,6 +157,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer 
 
 # Collaboration & Problem solving
+* [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
 * [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
 * [Dale Emery](http://cwd.dhemery.com/2005/05/motivation) - model of motivation : Motivation = Ability × Results × Preferences
