@@ -401,6 +401,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
 * [Doug Tedder](https://www.dougtedder.com/2017/07/02/cab-dead-long-live-cab/) - (2017) The CAB is Dead. Long Live the CAB.
 * [Aymen El Amri](https://medium.com/devopslinks/the-most-popular-devops-stories-in-2016-954d10698d67) - The Most Popular DevOps Stories In 2016
+* [eon01/DevOpsLinks-Is-Awesome](https://github.com/eon01/DevOpsLinks-Is-Awesome) - curated list of useful resources for DevOps, SysAdmin and Full Stack Developers
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
