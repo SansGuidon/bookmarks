@@ -1649,7 +1649,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [HowStuffWorks](http://www.howstuffworks.com/) - easy-to-understand answers and explanations of how the world actually works
 * [Instructables](http://www.instructables.com/) - How to make anything
 * [Vikas Kumar Yadav/awesome-list-of-productive-websites](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
-* [Johnny Webber](http://unplugthetv.com/) - Unplug the tv : What should you watch if not the television ?
+* [**UnplugTheTV**](http://unplugthetv.com/) - Unplug the tv : What should you watch if not the television ?
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
 * [Hackaday](http://hackaday.com/) - fresh hacks every day 
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
