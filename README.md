@@ -284,6 +284,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Graph TV](http://graphtv.kevinformatics.com/) - Graph Ratings of Your Favorite TV Shows / Visualize IMDb ratings and trends of TV shows by episode.
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
 * [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
+* [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
+* [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1649,7 +1651,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [HowStuffWorks](http://www.howstuffworks.com/) - easy-to-understand answers and explanations of how the world actually works
 * [Instructables](http://www.instructables.com/) - How to make anything
 * [Vikas Kumar Yadav/awesome-list-of-productive-websites](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
-* [**UnplugTheTV**](http://unplugthetv.com/) - Unplug the tv : What should you watch if not the television ?
+* [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
 * [Hackaday](http://hackaday.com/) - fresh hacks every day 
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
