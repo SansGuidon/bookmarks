@@ -314,6 +314,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ThoughtWorks](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [Puppet Blog](https://puppet.com/blog)
 * [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year DevOps news
+* [InfoWorld](https://www.infoworld.com/category/devops/) - information, news, how-to advices about DevOps
+* [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels' (Amazon' CTO) weblog on building scalable and robust distributed systems.
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 * [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] Les Patterns des Grands du Web – DevOps
@@ -402,6 +404,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Doug Tedder](https://www.dougtedder.com/2017/07/02/cab-dead-long-live-cab/) - (2017) The CAB is Dead. Long Live the CAB.
 * [Aymen El Amri](https://medium.com/devopslinks/the-most-popular-devops-stories-in-2016-954d10698d67) - The Most Popular DevOps Stories In 2016
 * [eon01/DevOpsLinks-Is-Awesome](https://github.com/eon01/DevOpsLinks-Is-Awesome) - curated list of useful resources for DevOps, SysAdmin and Full Stack Developers
+* [The Disciplined Agile (DA) Framework](http://www.disciplinedagiledelivery.com/disciplineddevops/) - Disciplined DevOps
+* [Werner Vogels](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) - (2016) 10 Lessons from 10 Years of Amazon Web Services
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -617,6 +621,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [William Henry](http://www.projectatomic.io/blog/2017/11/getting-started-with-buildah/) - Getting Started with Buildah | how to build container images compliant with the Open Container Initiative (OCI) image specification
 * [Eric Chiang](https://ericchiang.github.io/post/containers-from-scratch/) - (2017) Containers from Scratch **Bonus** : [Talk](https://www.youtube.com/watch?v=wyqoi52k5jM)
 * [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
+* [Julian Friedman](https://www.infoq.com/articles/build-a-container-golang) - (2016) Build Your Own Container Using Less than 100 Lines of Go
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -2160,6 +2165,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [golang/go/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) - Go Code Review Comments : collects common comments made during reviews of Go code. This is a laundry list of common mistakes, not a style guide.
 * [Kevin Burke](https://kev.inburke.com/kevin/install-homebrew-go/) - Make your Go Binaries Homebrew Installable
 * [Jeff Rouse](https://opensource.com/article/17/11/why-go-grows) - (2017) Why Go is skyrocketing in popularity
+* [Julian Friedman](https://www.infoq.com/articles/build-a-container-golang) - (2016) Build Your Own Container Using Less than 100 Lines of Go
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
