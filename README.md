@@ -487,6 +487,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ansible-Semaphore](https://github.com/ansible-semaphore/semaphore) - open source Ansible UI
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/get-started-using-ansible-awx-open-source-tower-version-one-minute) - Get started using Ansible AWX (Open Source Tower version) in one minute
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - How I test Ansible configuration on 7 different OSes with Docker
+* [oravirt/ansible-oracle-modules](https://github.com/oravirt/ansible-oracle-modules) - Oracle modules for Ansible
+* [Will Thames](http://willthames.github.io/2017/10/31/making-the-most-of-inventory.html) - (2017) Making The Most Of Inventory
+* [Roland Wolters](https://liquidat.wordpress.com/2016/02/25/howto-keeping-temporary-ansible-scripts/) - (2016) [Howto] Keeping temporary Ansible scripts
+* [[Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -629,6 +633,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Container Journal](https://containerjournal.com/2017/10/17/using-cicd-containerization-drive-pre-production-costs/) - (2017) Using CI/CD Over Containerization to Drive Down Pre-Production Costs
 * [Rafael Benevides](https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/) - (2016) 10 things to avoid in docker containers
 * [Tatiana Kochedykova](https://opensource.com/business/16/4/5-reasons-use-docker-productivity) - (2016) 5 reasons to use Docker for productivity software installation
+* [George Bolo](https://linuxctl.com/2017/03/building-tiny-secure-docker-containers/) - (2017) Building Tiny Secure Docker Containers
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1998,6 +2003,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
 * [jOOQ Blog](https://blog.jooq.org/2017/01/12/a-probably-incomplete-comprehensive-guide-to-the-many-different-ways-to-join-tables-in-sql/) - (2017) A Probably Incomplete, Comprehensive Guide to the Many Different Ways to JOIN Tables in SQL
 * [jOOQ Blog](https://blog.jooq.org/2017/09/28/10-cool-sql-optimisations-that-do-not-depend-on-the-cost-model/) - (2017) 10 Cool SQL Optimisations That do not Depend on the Cost Model
+* [oravirt/ansible-oracle-modules](https://github.com/oravirt/ansible-oracle-modules) - Oracle modules for Ansible
+* [python-cx_Oracle](https://oracle.github.io/python-cx_Oracle/) - cx_Oracle - Python Interface for Oracle Databas
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -2017,6 +2024,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mark Isaacson](http://maintainablecode.logdown.com/posts/245425-valgrind-is-not-a-leak-checker) - (2014) Valgrind is *NOT* a leak checker
 * [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
 * [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
+* [Roland Wolters](https://liquidat.wordpress.com/2016/02/25/howto-keeping-temporary-ansible-scripts/) - (2016) [Howto] Keeping temporary Ansible scripts
+* [[Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
 
 ## Gamedev
 > News & Communities
@@ -2382,6 +2391,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
 * [pypi/feedparser](https://pypi.python.org/pypi/feedparser) - Parse Atom and RSS feeds in Python.
 * [Google](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
+* [python-cx_Oracle](https://oracle.github.io/python-cx_Oracle/) - cx_Oracle - Python Interface for Oracle Databas
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
@@ -2656,6 +2666,7 @@ Raw
 * [Julien Pivotto](https://fr.slideshare.net/roidelapluie/enhance-openssh-for-fun-and-security) - (2015) Enhance OpenSSH for fun and security 
 * [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - A curated list of SSH resources. 
 * [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - list of awesome social engineering resources
+* [George Bolo](https://linuxctl.com/2017/03/building-tiny-secure-docker-containers/) - (2017) Building Tiny Secure Docker Containers
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -2709,6 +2720,8 @@ Raw
 * [James Coyle](https://www.jamescoyle.net/cheat-sheets/1078-openssl-certificate-cheat-sheet) - OpenSSL Certificate Cheat Sheet
 * [Jamie Nguyen](https://jamielinux.com/docs/openssl-certificate-authority/) - OpenSSL Certificate Authority / a guide to demonstrate how to act as your own CA using OpenSSL
 * [German Jaber](https://blog.talpor.com/2015/07/ssltls-certificates-beginners-tutorial/) - SSL/TLS certificates beginner's tutorial
+* [George Bolo](https://linuxctl.com/2016/12/openssl---reference/) - (2016) OpenSSL - Reference
+* [George Bolo](https://linuxctl.com/2017/02/x509-certificate-manual-signature-verification/) - (2017) x509 Certificate Manual Signature Verification
 
 ## Web 
 * [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
