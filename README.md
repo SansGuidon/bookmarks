@@ -230,6 +230,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Charles Duhigg](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - (2016) What Google Learned From Its Quest to Build the Perfect Team
 
 # Creativity
+* [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
 * [Jason Fried](https://m.signalvnoise.com/the-intimidating-zero-4d90fcdcc3b2) - The Intimidating Zero
 * [DIY Projects](https://diyprojects.com/) - Craft Ideas & How To’s for Home Decor with Videos
