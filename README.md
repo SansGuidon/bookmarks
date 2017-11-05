@@ -2430,6 +2430,7 @@ Raw
 * [Jeff Bradberry](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) - (2015) Introduction to Monte Carlo Tree Search
 * [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
 * [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
+* [Tim Wheeler](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/) - AlphaGo Zero - How and Why it Works
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
