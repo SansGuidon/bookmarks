@@ -266,6 +266,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
 
 # Culture
+* [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
 * [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
@@ -287,7 +288,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
 * [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
 * [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
-* [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
+* [Khan Academy](https://www.khanacademy.org/) - free online courses, lessons and practice
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -957,6 +958,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GitLogs](http://www.gitlogs.com/resource-guides) - definitive list of top resources of GitHub
 * [Fox eBook](https://www.foxebook.net) - ebooks site
 * [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer 
+* [Khan Academy](https://www.khanacademy.org/) - free online courses, lessons and practice
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
