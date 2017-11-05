@@ -228,6 +228,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
 * [Carl Hembrough](https://dev.to/carlhembrough/programming-used-to-be-fun) - (2017)  When programming was no longer fun | another story about impostor syndrome 
 * [Charles Duhigg](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - (2016) What Google Learned From Its Quest to Build the Perfect Team
+* [MetEdge](https://twitter.com/GlenGilmore/status/539042747190358016) - [IMG] Successful vs Unsuccessful People
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1714,6 +1715,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Ken Krogue](http://todolist.twoodo.com/caa9602ecff5455d9d9a9933b2564685/A-Checklist-For-Great-Presentations-(-By-Ken-Krogue-)) - A Checklist For Great Presentations
 * [d2s/knowledge](https://github.com/d2s/knowledge/tree/master/productivity) - curated list of resources about productivity
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic 
+* [MetEdge](https://twitter.com/GlenGilmore/status/539042747190358016) - [IMG] Successful vs Unsuccessful People
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
