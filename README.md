@@ -490,7 +490,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [oravirt/ansible-oracle-modules](https://github.com/oravirt/ansible-oracle-modules) - Oracle modules for Ansible
 * [Will Thames](http://willthames.github.io/2017/10/31/making-the-most-of-inventory.html) - (2017) Making The Most Of Inventory
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/25/howto-keeping-temporary-ansible-scripts/) - (2016) [Howto] Keeping temporary Ansible scripts
-* [[Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
+* [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
