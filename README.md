@@ -406,6 +406,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [eon01/DevOpsLinks-Is-Awesome](https://github.com/eon01/DevOpsLinks-Is-Awesome) - curated list of useful resources for DevOps, SysAdmin and Full Stack Developers
 * [The Disciplined Agile (DA) Framework](http://www.disciplinedagiledelivery.com/disciplineddevops/) - Disciplined DevOps
 * [Werner Vogels](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) - (2016) 10 Lessons from 10 Years of Amazon Web Services
+* [Container Journal](https://containerjournal.com/2017/10/17/using-cicd-containerization-drive-pre-production-costs/) - (2017) Using CI/CD Over Containerization to Drive Down Pre-Production Costs
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -515,6 +516,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Docker](https://www.youtube.com/user/dockerrun) - Docker Youtube channel
 * [CoreOS](https://www.youtube.com/channel/UCGORzzCxacx2r_NsF6_DteQ) - CoreOS Youtube Channel
 * [Hacker News](https://hn.algolia.com/?query=Docker&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year docker news
+* [Container Journal](https://containerjournal.com/) - news about containers security, ecosystem, management, etc
 * [Mike Simons](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
 * [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
 * [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
@@ -622,6 +624,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Eric Chiang](https://ericchiang.github.io/post/containers-from-scratch/) - (2017) Containers from Scratch **Bonus** : [Talk](https://www.youtube.com/watch?v=wyqoi52k5jM)
 * [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
 * [Julian Friedman](https://www.infoq.com/articles/build-a-container-golang) - (2016) Build Your Own Container Using Less than 100 Lines of Go
+* [Tony Bradley](https://containerjournal.com/2016/03/21/5-docker-best-practices-follow/) - (2016) 5 Docker Best Practices You Should Follow
+* [Container Journal](https://containerjournal.com/2017/10/17/using-cicd-containerization-drive-pre-production-costs/) - (2017) Using CI/CD Over Containerization to Drive Down Pre-Production Costs
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -757,6 +761,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
 * [Jesse Newland](https://githubengineering.com/kubernetes-at-github/) - Kubernetes at GitHub
 * [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes. 
+* [William Jimenez](https://containerjournal.com/2017/11/02/kubernetes-because-everyone-doing/) - (2017) Kubernetes: Because Everyone is Doing It
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
