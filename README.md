@@ -249,7 +249,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 * [Vala Afshar](https://twitter.com/ValaAfshar/status/538001419702657024/photo/1) - (2014) [IMG] knowledge vs experience vs creativity
 * [Roy Osing](https://talentculture.com/11-ways-to-lose-yourself-in-the-crowd/) - Anti principles (Don't do this !) / 11 Ways To Lose Yourself In The Crowd
-* [Julia Evans](https://jvns.ca/blog/2017/03/20/blogging-principles/) - Blogging principles
+* [Julia Evans](https://jvns.ca/blog/2017/03/20/blogging-principles/) - (2017) Blogging principles
 * [Steve Yegge](https://sites.google.com/site/steveyegge2/you-should-write-blogs) - You Should Write Blogs 
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
@@ -517,6 +517,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CoreOS](https://www.youtube.com/channel/UCGORzzCxacx2r_NsF6_DteQ) - CoreOS Youtube Channel
 * [Hacker News](https://hn.algolia.com/?query=Docker&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year docker news
 * [Container Journal](https://containerjournal.com/) - news about containers security, ecosystem, management, etc
+* [Red Hat Blog](https://developers.redhat.com/blog/category/containers/) - containers articles
 * [Mike Simons](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
 * [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
 * [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
@@ -626,6 +627,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Julian Friedman](https://www.infoq.com/articles/build-a-container-golang) - (2016) Build Your Own Container Using Less than 100 Lines of Go
 * [Tony Bradley](https://containerjournal.com/2016/03/21/5-docker-best-practices-follow/) - (2016) 5 Docker Best Practices You Should Follow
 * [Container Journal](https://containerjournal.com/2017/10/17/using-cicd-containerization-drive-pre-production-costs/) - (2017) Using CI/CD Over Containerization to Drive Down Pre-Production Costs
+* [Rafael Benevides](https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/) - (2016) 10 things to avoid in docker containers
+* [Tatiana Kochedykova](https://opensource.com/business/16/4/5-reasons-use-docker-productivity) - (2016) 5 reasons to use Docker for productivity software installation
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1317,6 +1320,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Alexander Blagoev](http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html) - Adventures in /usr/bin and the likes
 * [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps 
 * [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools 
+* [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1354,6 +1358,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 * [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
 * [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
+* [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
@@ -1900,6 +1905,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GitLogs](http://www.gitlogs.com/resource-guides) - definitive list of top resources of GitHub
 * [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
 * [Carl Hembrough](https://dev.to/carlhembrough/programming-used-to-be-fun) - (2017)  When programming was no longer fun | another story about impostor syndrome 
+* [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -1979,6 +1985,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * Some GitHub resources on clean coding practices, mostly based on book 'Clean Code: A Handbook of Agile Software Craftsmanship' by Robert C. Martin : [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29), [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code), [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code), [harry830622/clean-code-notes](https://github.com/harry830622/clean-code-notes), [thebentern/clean-code-study](https://github.com/thebentern/clean-code-study), [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes), [timkendall/clean-code](https://github.com/timkendall/clean-code)
 * [jbelmont/pragmatic-programmer-and-clean-code](https://github.com/jbelmont/pragmatic-programmer-and-clean-code) - principles from Pragmatic Programmer and Clean Code books
 * [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
+* [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
