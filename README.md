@@ -491,6 +491,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Will Thames](http://willthames.github.io/2017/10/31/making-the-most-of-inventory.html) - (2017) Making The Most Of Inventory
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/25/howto-keeping-temporary-ansible-scripts/) - (2016) [Howto] Keeping temporary Ansible scripts
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
+* [Will Thames](http://willthames.github.io/2014/04/28/debugging-ansible-for-fun-and-no-profit.html) - (2014) Debugging Ansible for fun and no profit
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -2025,7 +2026,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
 * [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/25/howto-keeping-temporary-ansible-scripts/) - (2016) [Howto] Keeping temporary Ansible scripts
-* [[Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
+* [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
+* [Will Thames](http://willthames.github.io/2014/04/28/debugging-ansible-for-fun-and-no-profit.html) - (2014) Debugging Ansible for fun and no profit
 
 ## Gamedev
 > News & Communities
