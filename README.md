@@ -231,6 +231,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Charles Duhigg](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - (2016) What Google Learned From Its Quest to Build the Perfect Team
 * [MetEdge](https://twitter.com/GlenGilmore/status/539042747190358016) - [IMG] Successful vs Unsuccessful People
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
+* [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -264,6 +265,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Katie McKenna](https://www.portent.com/blog/copywriting/better-content-5-lessons-learned-from-yoga-teacher-training.htm) - (2017) Be a Better Writer: 5 Lessons Learned From Yoga Teacher Training
 * [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
 * [Cate McGehee](https://www.portent.com/blog/content-strategy/best-thing-ever-heard-ideation-brainstorming.htm) - (2017) The Single Best Thing I’ve Ever Heard About Ideation and Brainstorming
+* [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1719,6 +1721,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [d2s/knowledge](https://github.com/d2s/knowledge/tree/master/productivity) - curated list of resources about productivity
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic 
 * [MetEdge](https://twitter.com/GlenGilmore/status/539042747190358016) - [IMG] Successful vs Unsuccessful People
+* [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
