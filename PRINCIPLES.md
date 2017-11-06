@@ -64,6 +64,7 @@
 * Fix it immediately, but plan for the future fix. Document the fix. Automate the solution. [Adam Bertram](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips)
 * Finding errors in your past decisions and ideas means you’re progressing. - [Greg Kogan](https://www.gkogan.co/blog/progression/)
 * You can’t go fast when everyone is spending their time fighting with the poor decisions of yesterday - [Adam Chester](https://twitter.com/adamchester/status/925479016798109696)
+* Better to Say "Oops" Than "What If…" (= avoid analysis-paralysis, or paralysis by analysis, aka the state of over-analyzing / over-thinking)
 
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
