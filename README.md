@@ -413,6 +413,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Disciplined Agile (DA) Framework](http://www.disciplinedagiledelivery.com/disciplineddevops/) - Disciplined DevOps
 * [Werner Vogels](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) - (2016) 10 Lessons from 10 Years of Amazon Web Services
 * [Container Journal](https://containerjournal.com/2017/10/17/using-cicd-containerization-drive-pre-production-costs/) - (2017) Using CI/CD Over Containerization to Drive Down Pre-Production Costs
+* [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -985,6 +986,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fox eBook](https://www.foxebook.net) - ebooks site
 * [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer 
 * [Khan Academy](https://www.khanacademy.org/) - free online courses, lessons and practice
+* [Awesome Repos](https://awesomerepos.com/) -  the top of awesome repositories
+* [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2332,6 +2335,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Meghan Hebel](https://codeburst.io/stop-sabotaging-your-code-4ed67424a17a) - Stop Sabotaging Your Code…Before You Even Code
 * [Artem Stepanenko](https://medium.freecodecamp.org/5-steps-to-become-a-better-stack-overflow-user-4ce85711c0f9) - How to become a better Stack Overflow user in five simple steps
 * [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
+* [Awesome Repos](https://awesomerepos.com/) -  the top of awesome repositories
+* [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -2798,6 +2803,7 @@ Raw
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * [Stef Walter](http://stef.thewalter.net/git-coverage-useful-code-coverage.html) - (2012) git-coverage: Useful code coverage
 * [PaulWaltersDev/FreeLearningResourcesForSoftwareTesters](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - free Online Learning Resources for New and Experienced Software Testers.
+* [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
@@ -2817,6 +2823,7 @@ Raw
 * [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y 
 * [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
+* [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
@@ -2878,6 +2885,7 @@ Raw
 * [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
 * [REDbot](https://redbot.org/?) - checks HTTP resources to see how they'll behave, pointing out common problems and suggesting improvements.
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
+* [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
