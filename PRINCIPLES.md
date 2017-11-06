@@ -65,7 +65,10 @@
 * Finding errors in your past decisions and ideas means you’re progressing. - [Greg Kogan](https://www.gkogan.co/blog/progression/)
 * You can’t go fast when everyone is spending their time fighting with the poor decisions of yesterday - [Adam Chester](https://twitter.com/adamchester/status/925479016798109696)
 * Better to Say "Oops" Than "What If…" (= avoid analysis-paralysis, or paralysis by analysis, aka the state of over-analyzing / over-thinking)
-
+* The Art Of Clean Code by [Victor Rentea](https://www.youtube.com/watch?v=J4OIo4T7I_E)
+  * Make it more readable even if it makes writing harder : We read 10x more times than we write
+  * Boy scout rule : always check in code cleaner than you found it
+  
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/450614047608934400) - Productivity : To find a solution, first eliminate the impossible ones. Astuce : Trouver la solution en éliminant d'abord les non solutions.
