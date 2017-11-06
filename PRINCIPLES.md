@@ -76,6 +76,9 @@
   * Names : Names should be at least pronounceable. Don't abbreviate ! Unless it's a basic business concept, like VAT
   * Names : should be consistent and unique (synonyms confuse). 
   * Names should have meaningful context. eg: order.customerFirstName. But don't repeat yourself (DRY) : Order.~~order~~CreationDate
+  * Functions should be small : 5-10 lines, ... or at least should be understandable in 5 sec no more.
+  * Functions do one thing
+  * Functions have max 2-3 parameters
   
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
