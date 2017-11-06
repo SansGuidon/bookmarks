@@ -1997,6 +1997,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [jbelmont/pragmatic-programmer-and-clean-code](https://github.com/jbelmont/pragmatic-programmer-and-clean-code) - principles from Pragmatic Programmer and Clean Code books
 * [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
 * [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
+* [Victor Rentea](https://www.youtube.com/watch?v=J4OIo4T7I_E) - (2017) [Video] The Art Of Clean Code
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
