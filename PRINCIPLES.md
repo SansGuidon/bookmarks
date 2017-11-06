@@ -68,6 +68,11 @@
 * The Art Of Clean Code by [Victor Rentea](https://www.youtube.com/watch?v=J4OIo4T7I_E)
   * Make it more readable even if it makes writing harder : We read 10x more times than we write
   * Boy scout rule : always check in code cleaner than you found it
+  * Functions are verbs
+  * Boolean names should always answer yes/no
+  * Classes are nouns. Avoid meaningless names (OrderInfo, OrderData vs Order)
+  * Delete the interfaces : except for Remoting/API client jars and strategy pattern implementation.
+  * Make the name speak for itself
   
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
