@@ -72,7 +72,10 @@
   * Boolean names should always answer yes/no
   * Classes are nouns. Avoid meaningless names (OrderInfo, OrderData vs Order)
   * Delete the interfaces : except for Remoting/API client jars and strategy pattern implementation.
-  * Make the name speak for itself
+  * Names : Make the name speak for itself. Apply Continuous renaming as your learn the application
+  * Names : Names should be at least pronounceable. Don't abbreviate ! Unless it's a basic business concept, like VAT
+  * Names : should be consistent and unique (synonyms confuse). 
+  * Names should have meaningful context. eg: order.customerFirstName. But don't repeat yourself (DRY) : Order.~~order~~CreationDate
   
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
