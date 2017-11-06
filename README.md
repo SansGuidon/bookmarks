@@ -141,7 +141,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Art 
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
-* [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game
+* [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 
 # Business & Economics
 * [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
@@ -1093,7 +1093,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [UnDropDansLaMare](https://www.youtube.com/watch?v=ilLrptqGdqM) - [Video] ... Ce Héros Mis Au Placard [2 minutes pour convaincre] // Death of the polygon 
 * [Korben](https://korben.info/console-jaunie.html) - (2014) [FR] Console jaunie ? Voici comment la traiter pour lui redonner sa couleur d’origine
 * [Pencil and Paper games](http://www.papg.com/) - Because I enjoy good games that don't depend on any modern technology 
-* [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game
+* [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -2051,7 +2051,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gaylord](http://www.journaldugamer.com/2014/08/08/interview-out-there-ecrire-un-bon-jeu/) - (2014) [FR] [Interview] Un des créateurs d’Out There vous explique comment écrire un bon jeu
 * [Gergo Vas](https://kotaku.com/5991061/the-best-looking-isometric-games) - The Best-Looking Isometric Games
 * [Jeff Bradberry](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) - (2015) Introduction to Monte Carlo Tree Search
-* [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game
+* [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 
 > Tools
 * [libGDX](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
