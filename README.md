@@ -414,6 +414,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Werner Vogels](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) - (2016) 10 Lessons from 10 Years of Amazon Web Services
 * [Container Journal](https://containerjournal.com/2017/10/17/using-cicd-containerization-drive-pre-production-costs/) - (2017) Using CI/CD Over Containerization to Drive Down Pre-Production Costs
 * [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
+* [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1532,6 +1533,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [David Mytton](https://blog.serverdensity.com/server-naming-conventions-and-best-practices/) - (2015) Server Naming Conventions and Best Practices
 * [Principles of Chaos Engineering](http://principlesofchaos.org/) 
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources 
+* [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
