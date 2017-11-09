@@ -1075,6 +1075,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [REDbot](https://redbot.org/?) - checks HTTP resources to see how they'll behave, pointing out common problems and suggesting improvements.
 * [Open Source Psychometrics Project](https://openpsychometrics.org/) - a collection of interactive personality tests with detailed results
+* [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE 
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2402,6 +2403,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_executables/) - Creating Prolog executables
+* [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE. **Bonus** : git repo [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish)
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
