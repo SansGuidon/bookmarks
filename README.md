@@ -2009,6 +2009,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
 * [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
 * [Victor Rentea](https://www.youtube.com/watch?v=J4OIo4T7I_E) - (2017) [Video] The Art Of Clean Code
+* [Paul Draper](https://www.lucidchart.com/techblog/2017/03/15/package-management-stop-using-version-ranges/) - (2017) Package Management: Stop Using Version Ranges
+* [Kartik Agaram](http://akkartik.name/post/versioning) - (2017) The cargo cult of versioning
+* [joelparkerhenderson/versioning](https://github.com/joelparkerhenderson/versioning) - notes and summary of article "The cargo cult of versioning"
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
