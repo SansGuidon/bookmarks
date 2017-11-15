@@ -1159,6 +1159,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/perception_of_time.html) - (2006) Perception of Time
 * [Meghan Hebel](https://codeburst.io/why-you-dont-deserve-that-dream-developer-job-60d5e5adb8d7) - Why You Don’t Deserve That Dream Developer Job
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
+* [Ezekiel Buchheit](https://www.codementor.io/ezekielbuchheit/no-i-have-no-side-code-projects-to-show-you-cz1tyhgdz) - (2017) No, I have no side code projects to show you
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1928,6 +1929,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
 * [Carl Hembrough](https://dev.to/carlhembrough/programming-used-to-be-fun) - (2017)  When programming was no longer fun | another story about impostor syndrome 
 * [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
+* [Ezekiel Buchheit](https://www.codementor.io/ezekielbuchheit/no-i-have-no-side-code-projects-to-show-you-cz1tyhgdz) - (2017) No, I have no side code projects to show you
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
