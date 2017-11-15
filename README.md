@@ -1930,6 +1930,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Carl Hembrough](https://dev.to/carlhembrough/programming-used-to-be-fun) - (2017)  When programming was no longer fun | another story about impostor syndrome 
 * [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
 * [Ezekiel Buchheit](https://www.codementor.io/ezekielbuchheit/no-i-have-no-side-code-projects-to-show-you-cz1tyhgdz) - (2017) No, I have no side code projects to show you
+* [Ganeshwara Herawan Hananda](https://medium.com/@lolski/career-tips-for-young-software-engineers-21f7422ac95e) - (2017) 7 Tips On How To Become A Competent Software Engineer
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2345,6 +2346,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
 * [Awesome Repos](https://awesomerepos.com/) -  the top of awesome repositories
 * [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
+* [Itamar Turner-Trauring](https://codewithoutrules.com/saneworkweek/) - (2017) The Programmer’s Guide to a Sane Workweek
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
