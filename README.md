@@ -1731,6 +1731,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic 
 * [MetEdge](https://twitter.com/GlenGilmore/status/539042747190358016) - [IMG] Successful vs Unsuccessful People
 * [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/08/03/stay-focused/) - (2017) Staying focused: it’s not just your environment
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
