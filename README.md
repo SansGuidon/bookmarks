@@ -990,6 +990,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Khan Academy](https://www.khanacademy.org/) - free online courses, lessons and practice
 * [Awesome Repos](https://awesomerepos.com/) -  the top of awesome repositories
 * [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
+* [UncommonGoods](https://www.uncommongoods.com/) - Find cool and unusual gifts for any occasion
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
