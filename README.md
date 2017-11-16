@@ -500,6 +500,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/25/howto-keeping-temporary-ansible-scripts/) - (2016) [Howto] Keeping temporary Ansible scripts
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
 * [Will Thames](http://willthames.github.io/2014/04/28/debugging-ansible-for-fun-and-no-profit.html) - (2014) Debugging Ansible for fun and no profit
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/yaml-best-practices-ansible-playbooks-tasks) - (2014) YAML best practices for Ansible playbooks - tasks
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
