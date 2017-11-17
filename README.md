@@ -991,6 +991,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Awesome Repos](https://awesomerepos.com/) -  the top of awesome repositories
 * [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
 * [UncommonGoods](https://www.uncommongoods.com/) - Find cool and unusual gifts for any occasion
+* [Socratease](https://www.socratease.in/) - A Joyful, Engaging Way to Learn New Things : black holes, quantum mechanics, bitcoins, ...
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1755,6 +1756,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
 * [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/productivity-for-the-depressed) - Productivity for the Depressed
+* [Socratease](https://www.socratease.in/) - A Joyful, Engaging Way to Learn New Things : black holes, quantum mechanics, bitcoins, ...
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
