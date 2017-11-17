@@ -1406,6 +1406,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Josh Reichardt](https://thepracticalsysadmin.com/useful-vim-plugins/) - Useful Vim Plugins
 * [Fred Hebert](https://ferd.ca/vim-and-composability.html) - Vim and Composability
 * [Ian Langworth](https://statico.github.io/vim3.html) - Vim After 15 Years
+* [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - YouCompleteMe : A code-completion engine for Vim **Bonus** : [website](http://valloric.github.io/YouCompleteMe/)
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
