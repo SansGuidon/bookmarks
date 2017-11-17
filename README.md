@@ -1167,6 +1167,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Meghan Hebel](https://codeburst.io/why-you-dont-deserve-that-dream-developer-job-60d5e5adb8d7) - Why You Don’t Deserve That Dream Developer Job
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
 * [Ezekiel Buchheit](https://www.codementor.io/ezekielbuchheit/no-i-have-no-side-code-projects-to-show-you-cz1tyhgdz) - (2017) No, I have no side code projects to show you
+* [Agnès Crepet](https://superyesmore.com/dont-say-that-you-dont-have-enough-time-d7ead9497abf1b458f5be14bd33b6c11) - (2017) Don't say that you don't have enough time
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1745,6 +1746,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MetEdge](https://twitter.com/GlenGilmore/status/539042747190358016) - [IMG] Successful vs Unsuccessful People
 * [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/08/03/stay-focused/) - (2017) Staying focused: it’s not just your environment
+* [Agnès Crepet](https://superyesmore.com/dont-say-that-you-dont-have-enough-time-d7ead9497abf1b458f5be14bd33b6c11) - (2017) Don't say that you don't have enough time
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
