@@ -2219,6 +2219,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kevin Burke](https://kev.inburke.com/kevin/install-homebrew-go/) - Make your Go Binaries Homebrew Installable
 * [Jeff Rouse](https://opensource.com/article/17/11/why-go-grows) - (2017) Why Go is skyrocketing in popularity
 * [Julian Friedman](https://www.infoq.com/articles/build-a-container-golang) - (2016) Build Your Own Container Using Less than 100 Lines of Go
+* [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go. **Bonus** : [website](https://neugram.io)
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -2589,6 +2590,7 @@ Raw
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - list of Terminal frameworks, plugins & resources for CLI lovers
 * [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
+* [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go. **Bonus** : [website](https://neugram.io)
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
