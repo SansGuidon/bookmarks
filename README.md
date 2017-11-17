@@ -1081,6 +1081,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE 
 * [BonPatron](http://bonpatron.com/) - [FR] online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
 * [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
+* [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2925,6 +2926,8 @@ Raw
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 * [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
 * [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
+* [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
+
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
 * [Chocolatey](https://chocolatey.org/packages) - All Packages for Chocolatey, the package manager for windows
