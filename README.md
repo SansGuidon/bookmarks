@@ -2288,6 +2288,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
 * [TensorFlow Docs](https://www.tensorflow.org/get_started/mnist/mechanics) - TensorFlow Mechanics 101
 * [Amirsina Torfi/TensorFlow-World-Resources](https://github.com/astorfi/TensorFlow-World-Resources) - TensorFlow resources
+* [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
