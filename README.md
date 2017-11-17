@@ -2441,6 +2441,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_executables/) - Creating Prolog executables
 * [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE. **Bonus** : git repo [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish)
+* [Markus Triska](https://www.metalevel.at/prolog) - [Book] The Power of Prolog. **Bonus** : git repo [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog)
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
