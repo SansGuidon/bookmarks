@@ -415,6 +415,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Container Journal](https://containerjournal.com/2017/10/17/using-cicd-containerization-drive-pre-production-costs/) - (2017) Using CI/CD Over Containerization to Drive Down Pre-Production Costs
 * [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
 * [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
+* [Steve Smith](https://www.continuousdeliveryconsulting.com/blog/aim-for-operability-not-devops-as-a-cult/) - (2017) Aim for Operability, not DevOps As A Cult
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1549,6 +1550,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Matthew Skelton](https://blog.softwareoperability.com/2013/10/16/operability-can-improve-if-developers-write-a-draft-run-book/) - (2013) Operability can Improve if Developers Write a Draft Run Book
 * [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template) - Run Book / Operations Manual template for modern software systems. **Bonus** : [Link to template markdown](https://github.com/SkeltonThatcher/run-book-template/blob/master/run-book-template.md) + [Run Book Dialog Sheet v1.0](https://github.com/SkeltonThatcher/run-book-template/releases/download/v1.0/Run-Book-dialogue-sheet-A1.pdf) [PDF]
 * [Matthew Skelton](https://www.slideshare.net/slideshow/embed_code/key/k8BhSNPZ3o1bM3) - (2017) [Slides] Practical Operability Techniques for Teams
+* [Steve Smith](https://www.continuousdeliveryconsulting.com/blog/aim-for-operability-not-devops-as-a-cult/) - (2017) Aim for Operability, not DevOps As A Cult
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
