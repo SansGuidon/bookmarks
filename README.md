@@ -1795,6 +1795,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stéphane le calme](https://www.developpez.com/actu/77483/Des-retards-dans-les-delais-de-livraison-d-un-projet-Oui-mais-a-qui-la-faute-Une-etude-en-recherche-la-cause/) - (2014) [FR] Des retards dans les délais de livraison d'un projet ? Oui, mais à qui la faute ?
 * [dupeGuru](https://www.hardcoded.net/dupeguru/) - is a tool to find duplicate files on your computer.
 * [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts 
+* [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
@@ -2917,6 +2918,7 @@ Raw
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
 * [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
+* [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
