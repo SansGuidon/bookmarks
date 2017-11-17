@@ -1942,6 +1942,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
 * [Ezekiel Buchheit](https://www.codementor.io/ezekielbuchheit/no-i-have-no-side-code-projects-to-show-you-cz1tyhgdz) - (2017) No, I have no side code projects to show you
 * [Ganeshwara Herawan Hananda](https://medium.com/@lolski/career-tips-for-young-software-engineers-21f7422ac95e) - (2017) 7 Tips On How To Become A Competent Software Engineer
+* [Shane Fast](https://medium.com/paper-engineering/what-a-kids-cartoon-taught-me-about-software-7cbd3bf45c6a) - (2017) What a kid’s cartoon taught me about software
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2029,6 +2030,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marc Eaddy](https://testing.googleblog.com/2017/11/obsessed-with-primitives.html) - (2017) Code Health: Obsessed With Primitives?
 * [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
 * [Dori Reuveni and Kevin Bourrillion](https://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html) - (2017) Code Health: To Comment or Not to Comment?
+* [Shane Fast](https://medium.com/paper-engineering/what-a-kids-cartoon-taught-me-about-software-7cbd3bf45c6a) - (2017) What a kid’s cartoon taught me about software
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
