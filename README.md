@@ -2358,6 +2358,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Awesome Repos](https://awesomerepos.com/) -  the top of awesome repositories
 * [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
 * [Itamar Turner-Trauring](https://codewithoutrules.com/saneworkweek/) - (2017) The Programmer’s Guide to a Sane Workweek
+* [Recalll](https://recalll.co/) - search engine for programmers, to search programming queries from sites such as stackoverflow
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
