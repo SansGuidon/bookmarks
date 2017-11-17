@@ -1078,6 +1078,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [REDbot](https://redbot.org/?) - checks HTTP resources to see how they'll behave, pointing out common problems and suggesting improvements.
 * [Open Source Psychometrics Project](https://openpsychometrics.org/) - a collection of interactive personality tests with detailed results
 * [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE 
+* [BonPatron](http://bonpatron.com/) - [FR] online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
