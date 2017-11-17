@@ -1082,6 +1082,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [BonPatron](http://bonpatron.com/) - [FR] online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
 * [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
 * [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
+* [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
