@@ -2027,6 +2027,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [joelparkerhenderson/versioning](https://github.com/joelparkerhenderson/versioning) - notes and summary of article "The cargo cult of versioning"
 * [Marc Eaddy](https://testing.googleblog.com/2017/11/obsessed-with-primitives.html) - (2017) Code Health: Obsessed With Primitives?
 * [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
+* [Dori Reuveni and Kevin Bourrillion](https://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html) - (2017) Code Health: To Comment or Not to Comment?
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
