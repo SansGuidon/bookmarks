@@ -270,6 +270,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cate McGehee](https://www.portent.com/blog/content-strategy/best-thing-ever-heard-ideation-brainstorming.htm) - (2017) The Single Best Thing I’ve Ever Heard About Ideation and Brainstorming
 * [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
 * [Benjamin P. Hardy](https://medium.com/personal-growth/this-10-minute-routine-will-increase-your-clarity-and-creativity-c8ee786586cd) - (2017) This 10-Minute Routine Will Increase Your Clarity And Creativity
+* [Kim Roach](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1776,6 +1777,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nathan Kontny](https://m.signalvnoise.com/how-do-you-focus-cbc3d6d78463) - (2017) How Do You Focus? Especially when you have a lot to do
 * [Benjamin P. Hardy](https://medium.com/personal-growth/this-10-minute-routine-will-increase-your-clarity-and-creativity-c8ee786586cd) - (2017) This 10-Minute Routine Will Increase Your Clarity And Creativity
 * [Jeff Goins](https://medium.com/@jeffgoins/im-not-busy-i-m-just-focused-6b8bd45c8bf2) - (2017) I’m not busy, I’m just focused
+* [Kim Roach](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
