@@ -1004,6 +1004,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Smashwords](https://www.smashwords.com/books/category/1/newest/0/free/any) - ebooks from independent authors and publishers
 * [The Mastodon Project](https://joinmastodon.org/) - Mastodon instances list. **Bonus** : [helper to choose instance](https://instances.social/) 
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
+* [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1099,6 +1100,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
 * [Convertio](https://convertio.co/epub-pdf/) - Advanced online tool to convert EPUB files to PDF
 * [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
+* [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you 
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
