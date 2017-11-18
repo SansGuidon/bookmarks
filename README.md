@@ -425,6 +425,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Russ Collier](https://www.devopsonwindows.com/a-devops-checklist/) - (2013) A DevOps Checklist
 * [Russ Collier](https://www.devopsonwindows.com/it-takes-dev-and-ops-to-make-devops/) - (2013) It Takes Dev and Ops to Make DevOps
 * [Cindy Sridharan](https://medium.com/@copyconstruct/the-death-of-ops-is-greatly-exaggerated-ff3bd4a67f24) - (2017) Everyone is not Ops
+* [Carlos Leon](https://container-solutions.com/tagging-docker-images-the-right-way/) - (2017) Semantic versioning and Tagging Docker images the right way
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
