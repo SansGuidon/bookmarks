@@ -416,6 +416,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
 * [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
 * [Steve Smith](https://www.continuousdeliveryconsulting.com/blog/aim-for-operability-not-devops-as-a-cult/) - (2017) Aim for Operability, not DevOps As A Cult
+* [Russ Collier](https://www.devopsonwindows.com/a-devops-checklist/) - (2013) A DevOps Checklist
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
