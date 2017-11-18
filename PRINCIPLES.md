@@ -80,6 +80,7 @@
   * Functions do one thing
   * Functions have max 2-3 parameters
 * [Shirky Principle](https://twitter.com/OlafLewitz/statuses/560711454434025472) : Institutions will try to preserve the problem to which they are the solution.
+* [Shower Thoughts](https://twitter.com/TheWeirdWorld/status/930155807651528706) - Don’t forget to drink water, get sunlight, and that we are basically a house plant with complicated feelings.
 
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
