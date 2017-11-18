@@ -1002,6 +1002,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [UncommonGoods](https://www.uncommongoods.com/) - Find cool and unusual gifts for any occasion
 * [Socratease](https://www.socratease.in/) - A Joyful, Engaging Way to Learn New Things : black holes, quantum mechanics, bitcoins, ...
 * [Smashwords](https://www.smashwords.com/books/category/1/newest/0/free/any) - ebooks from independent authors and publishers
+* [The Mastodon Project](https://joinmastodon.org/) - Mastodon instances list / helper to choose instances 
+* [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1832,7 +1834,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
 
 # Programming
-* [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
 * [SlideShare](https://www.slideshare.net/featured/category/software) - featured software related presentations on SlideShare
 * [DZone](https://dzone.com/) - programming & devops news
