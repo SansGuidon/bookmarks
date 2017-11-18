@@ -282,7 +282,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Internet Movie Database](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
 * [Learn by Reading](https://learnbyreading.herokuapp.com/) - Discover your next favorite learnable (Non-fiction) book from Amazon Book
 * [Gnod](http://www.gnooks.com/faves.php) - Discover new books based on what you like
-* [Goodreads](https://www.goodreads.com/) - a home for you books, to manage your collection and discover new books
+* [**Goodreads**](https://www.goodreads.com/) - a home for you books, to manage your collection and discover new books
 * [**LibraryThing**](https://www.librarything.com/) - a home for your books, to manage your library and discover new books. | Recommendations are numerous and usually relevant to me for every book I tried
 * [Whichbook](http://www.openingthebook.com/whichbook/) - a tool for selecting what book to read next
 * [What Should I Read Next?](http://www.whatshouldireadnext.com/) - another tool to discover new books based on what you like
