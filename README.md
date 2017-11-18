@@ -952,7 +952,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Torrent Franais](http://www.xn--torrentfranais-qjb.fr/) - [FR] file sharing & torrent news
 * Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
 * [MorganGeek](https://gist.github.com/MorganGeek/aa1f21c3b87e90a2cde567a73209ef13) - download sites compared using some searches
-* [The Pirate Bay](https://thepiratebay.org/) - yet one of the best place to find good torrents
+* [The Pirate Bay](https://thepiratebay.org/) - yet one of the best place to find good torrents. **Bonus** : [Pirate Bay Proxies sites](https://proxybay.one/)
 * [iDope](https://idope.se/) - torrent indexer / tribute to kickass 
 * [Extreme Download](https://www.extreme-down.one/home.html) - [FR] a good place to find direct download links for various content
 * [Zone Telechargement](https://www.zone-telechargement.ws/) - [FR] an alternative place to find direct download links
