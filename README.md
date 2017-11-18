@@ -1002,7 +1002,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [UncommonGoods](https://www.uncommongoods.com/) - Find cool and unusual gifts for any occasion
 * [Socratease](https://www.socratease.in/) - A Joyful, Engaging Way to Learn New Things : black holes, quantum mechanics, bitcoins, ...
 * [Smashwords](https://www.smashwords.com/books/category/1/newest/0/free/any) - ebooks from independent authors and publishers
-* [The Mastodon Project](https://joinmastodon.org/) - Mastodon instances list / helper to choose instances 
+* [The Mastodon Project](https://joinmastodon.org/) - Mastodon instances list. **Bonus** : [helper to choose instance](https://instances.social/) 
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
 
 ## App discovery
