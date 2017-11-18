@@ -1758,6 +1758,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/08/03/stay-focused/) - (2017) Staying focused: it’s not just your environment
 * [Agnès Crepet](https://superyesmore.com/dont-say-that-you-dont-have-enough-time-d7ead9497abf1b458f5be14bd33b6c11) - (2017) Don't say that you don't have enough time
+* [Nathan Kontny](https://m.signalvnoise.com/how-do-you-focus-cbc3d6d78463) - (2017) How Do You Focus? Especially when you have a lot to do
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
