@@ -2245,6 +2245,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [GitHub](https://github.com/topics) - Topics on GitHub
 * [Jon Cairns](http://blog.joncairns.com/2015/09/use-git-to-comment-your-code/) - (2015) Use git to comment your code (and stop writing rubbish commit messages, please)
 * [Jason Chen](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 45 Github Issues Dos and Don’ts
+* [Fredrik V. Mørken](https://blogg.bekk.no/why-you-should-stop-using-git-rebase-5552bee4fed1) - (2017) Why you should stop using Git rebase
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
