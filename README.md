@@ -1762,6 +1762,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Agnès Crepet](https://superyesmore.com/dont-say-that-you-dont-have-enough-time-d7ead9497abf1b458f5be14bd33b6c11) - (2017) Don't say that you don't have enough time
 * [Nathan Kontny](https://m.signalvnoise.com/how-do-you-focus-cbc3d6d78463) - (2017) How Do You Focus? Especially when you have a lot to do
 * [Benjamin P. Hardy](https://medium.com/personal-growth/this-10-minute-routine-will-increase-your-clarity-and-creativity-c8ee786586cd) - (2017) This 10-Minute Routine Will Increase Your Clarity And Creativity
+* [Jeff Goins](https://medium.com/@jeffgoins/im-not-busy-i-m-just-focused-6b8bd45c8bf2) - (2017) I’m not busy, I’m just focused
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
