@@ -1195,6 +1195,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Darius Foroux](https://medium.com/personal-growth/declutter-your-life-declutter-your-mind-4c7f965d6839) - (2017) Declutter Your Life. Declutter Your Mind.
 * [Thibaut Schepman](https://tempsreel.nouvelobs.com/rue89/rue89-sante/20150120.RUE7459/rester-assis-tue-plus-que-le-tabac-j-ai-essaye-d-ecrire-cet-article-debout.html) - (2015) [FR] Rester assis tue plus que le tabac ? J’ai essayé d’écrire cet article debout / sitting down is dangerous for your health
 * [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] [Video] Technophobe / what if you could not use technology anymore
+* [Pierluigi Vernetto](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1991,6 +1992,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Shane Fast](https://medium.com/paper-engineering/what-a-kids-cartoon-taught-me-about-software-7cbd3bf45c6a) - (2017) What a kid’s cartoon taught me about software
 * [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
 * [Phil Johnson](https://www.itworld.com/article/2876179/csi-computer-science-your-coding-style-can-give-you-away.html) - (2015) CSI Computer Science: Your coding style can give you away
+* [Pierluigi Vernetto](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2292,6 +2294,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Java
 * [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] podcast for Java programmers 
+* [Java mon amour](http://www.javamonamour.org/) - Blog about Java, Weblogic, OSB, Linux etc
 * [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
 * [Nick Parlante](http://codingbat.com/java) - CodingBat : practice your java skills
