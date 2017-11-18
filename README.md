@@ -391,7 +391,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
 * [TotalCloud](https://totalcloud.io/devops_checklists.html) - A collection of DevOps checklists
 * [Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops) - DevOps Checklist
-* [Aymen El Amri](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - The 15-point DevOps Check List
+* [**Aymen El Amri**](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - The 15-point DevOps Check List
 * [Steve Pereira](http://devopschecklist.com/) - The DevOps Checklist
 * [fagnerbrack](https://imgur.com/gallery/SWDy6) - [IMG] The Periodic Table Of Software Engineering
 * [John Allspaw](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr/49-httpwwwickrcomphotoschrisdag2286198568_Respect_other_peoples_expertise) - (2009) [Slides] 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr
