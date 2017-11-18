@@ -1096,6 +1096,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
 * [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
 * [Convertio](https://convertio.co/epub-pdf/) - Advanced online tool to convert EPUB files to PDF
+* [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1828,6 +1829,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts 
 * [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
 * [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
+* [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
