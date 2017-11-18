@@ -268,6 +268,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
 * [Cate McGehee](https://www.portent.com/blog/content-strategy/best-thing-ever-heard-ideation-brainstorming.htm) - (2017) The Single Best Thing I’ve Ever Heard About Ideation and Brainstorming
 * [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
+* [Benjamin P. Hardy](https://medium.com/personal-growth/this-10-minute-routine-will-increase-your-clarity-and-creativity-c8ee786586cd) - (2017) This 10-Minute Routine Will Increase Your Clarity And Creativity
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1759,6 +1760,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/08/03/stay-focused/) - (2017) Staying focused: it’s not just your environment
 * [Agnès Crepet](https://superyesmore.com/dont-say-that-you-dont-have-enough-time-d7ead9497abf1b458f5be14bd33b6c11) - (2017) Don't say that you don't have enough time
 * [Nathan Kontny](https://m.signalvnoise.com/how-do-you-focus-cbc3d6d78463) - (2017) How Do You Focus? Especially when you have a lot to do
+* [Benjamin P. Hardy](https://medium.com/personal-growth/this-10-minute-routine-will-increase-your-clarity-and-creativity-c8ee786586cd) - (2017) This 10-Minute Routine Will Increase Your Clarity And Creativity
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
