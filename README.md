@@ -1085,6 +1085,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
 * [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
 * [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
+* [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1806,6 +1807,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [dupeGuru](https://www.hardcoded.net/dupeguru/) - is a tool to find duplicate files on your computer.
 * [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts 
 * [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
+* [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
 
 # Programming
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
