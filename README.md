@@ -1179,6 +1179,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
 * [Ezekiel Buchheit](https://www.codementor.io/ezekielbuchheit/no-i-have-no-side-code-projects-to-show-you-cz1tyhgdz) - (2017) No, I have no side code projects to show you
 * [Agnès Crepet](https://superyesmore.com/dont-say-that-you-dont-have-enough-time-d7ead9497abf1b458f5be14bd33b6c11) - (2017) Don't say that you don't have enough time
+* [Kris Gage](https://medium.com/personal-growth/the-moment-when-youll-finally-change-ee451cc230cf) - (2017) The Moment When You’ll Finally Change | Getting fed up is incredibly motivating
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
