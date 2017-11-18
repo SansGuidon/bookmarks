@@ -1095,6 +1095,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
 * [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
 * [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
+* [Convertio](https://convertio.co/epub-pdf/) - Advanced online tool to convert EPUB files to PDF
 
 # Gaming
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
