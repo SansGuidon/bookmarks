@@ -321,6 +321,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Puppet Blog](https://puppet.com/blog)
 * [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year DevOps news
 * [InfoWorld](https://www.infoworld.com/category/devops/) - information, news, how-to advices about DevOps
+* [Medium](https://medium.com/tag/devops) - DevOps Stories on medium
 * [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels' (Amazon' CTO) weblog on building scalable and robust distributed systems.
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
