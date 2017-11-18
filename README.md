@@ -1566,6 +1566,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Matthew Skelton](https://www.slideshare.net/slideshow/embed_code/key/k8BhSNPZ3o1bM3) - (2017) [Slides] Practical Operability Techniques for Teams
 * [Steve Smith](https://www.continuousdeliveryconsulting.com/blog/aim-for-operability-not-devops-as-a-cult/) - (2017) Aim for Operability, not DevOps As A Cult
 * [Russ Collier](https://www.devopsonwindows.com/it-takes-dev-and-ops-to-make-devops/) - (2013) It Takes Dev and Ops to Make DevOps
+* [Cindy Sridharan](https://medium.com/@copyconstruct/the-death-of-ops-is-greatly-exaggerated-ff3bd4a67f24) - (2017) Everyone is not Ops
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
