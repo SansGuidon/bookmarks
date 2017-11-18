@@ -234,6 +234,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MetEdge](https://twitter.com/GlenGilmore/status/539042747190358016) - [IMG] Successful vs Unsuccessful People
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
 * [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
+* [Jeff Goins](https://medium.com/personal-growth/the-single-most-overlooked-secret-to-influencing-other-people-32433b7ae285) - (2017) The Single Most Overlooked Secret To Influencing Other People
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2528,6 +2529,7 @@ Raw
 * [16Personalities](https://www.16personalities.com/fr/la-personnalite-infj) - [FR] La personnalité "Avocat" (INFJ-A / INFJ-T)
 * [Psychologie-luxeuil](http://www.psy-luxeuil.fr/article-fin-de-vie-les-5-grands-regrets-des-mourants-117710234.html) - [FR] what dying people regret the most in their life / les 5 grands regrets des mourants
 * [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - list of awesome social engineering resources
+* [Jeff Goins](https://medium.com/personal-growth/the-single-most-overlooked-secret-to-influencing-other-people-32433b7ae285) - (2017) The Single Most Overlooked Secret To Influencing Other People
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
