@@ -16,4 +16,4 @@
 * [Twitter](https://twitter.com/search?q=%23QuickTip&src=savs) - #QuickTip on twitter
 * [GitHub](https://github.com/topics/awesome) - Topic: awesome on GitHub
 * [Twitter](https://twitter.com/search?q=practices%20list%20programming%20&src=typd) - list of programming practices on Twitter
-* [Twitter](https://twitter.com/search?q=operability&src=typd) - operability on twitter
+* [Twitter](https://twitter.com/search?q=dev%20operability&src=typd) - dev + operability on twitter
