@@ -1193,6 +1193,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Agnès Crepet](https://superyesmore.com/dont-say-that-you-dont-have-enough-time-d7ead9497abf1b458f5be14bd33b6c11) - (2017) Don't say that you don't have enough time
 * [Kris Gage](https://medium.com/personal-growth/the-moment-when-youll-finally-change-ee451cc230cf) - (2017) The Moment When You’ll Finally Change | Getting fed up is incredibly motivating
 * [Darius Foroux](https://medium.com/personal-growth/declutter-your-life-declutter-your-mind-4c7f965d6839) - (2017) Declutter Your Life. Declutter Your Mind.
+* [Thibaut Schepman](https://tempsreel.nouvelobs.com/rue89/rue89-sante/20150120.RUE7459/rester-assis-tue-plus-que-le-tabac-j-ai-essaye-d-ecrire-cet-article-debout.html) - (2015) [FR] Rester assis tue plus que le tabac ? J’ai essayé d’écrire cet article debout / sitting down is dangerous for your health
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
