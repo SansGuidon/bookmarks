@@ -417,6 +417,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
 * [Steve Smith](https://www.continuousdeliveryconsulting.com/blog/aim-for-operability-not-devops-as-a-cult/) - (2017) Aim for Operability, not DevOps As A Cult
 * [Russ Collier](https://www.devopsonwindows.com/a-devops-checklist/) - (2013) A DevOps Checklist
+* [Russ Collier](https://www.devopsonwindows.com/it-takes-dev-and-ops-to-make-devops/) - (2013) It Takes Dev and Ops to Make DevOps
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1555,6 +1556,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template) - Run Book / Operations Manual template for modern software systems. **Bonus** : [Link to template markdown](https://github.com/SkeltonThatcher/run-book-template/blob/master/run-book-template.md) + [Run Book Dialog Sheet v1.0](https://github.com/SkeltonThatcher/run-book-template/releases/download/v1.0/Run-Book-dialogue-sheet-A1.pdf) [PDF]
 * [Matthew Skelton](https://www.slideshare.net/slideshow/embed_code/key/k8BhSNPZ3o1bM3) - (2017) [Slides] Practical Operability Techniques for Teams
 * [Steve Smith](https://www.continuousdeliveryconsulting.com/blog/aim-for-operability-not-devops-as-a-cult/) - (2017) Aim for Operability, not DevOps As A Cult
+* [Russ Collier](https://www.devopsonwindows.com/it-takes-dev-and-ops-to-make-devops/) - (2013) It Takes Dev and Ops to Make DevOps
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
