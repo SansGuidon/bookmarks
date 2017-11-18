@@ -654,6 +654,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Rafael Benevides](https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/) - (2016) 10 things to avoid in docker containers
 * [Tatiana Kochedykova](https://opensource.com/business/16/4/5-reasons-use-docker-productivity) - (2016) 5 reasons to use Docker for productivity software installation
 * [George Bolo](https://linuxctl.com/2017/03/building-tiny-secure-docker-containers/) - (2017) Building Tiny Secure Docker Containers
+* [Carlos Leon](https://container-solutions.com/tagging-docker-images-the-right-way/) - (2017) Semantic versioning and Tagging Docker images the right way
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -2072,6 +2073,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
 * [Dori Reuveni and Kevin Bourrillion](https://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html) - (2017) Code Health: To Comment or Not to Comment?
 * [Shane Fast](https://medium.com/paper-engineering/what-a-kids-cartoon-taught-me-about-software-7cbd3bf45c6a) - (2017) What a kid’s cartoon taught me about software
+* [Carlos Leon](https://container-solutions.com/tagging-docker-images-the-right-way/) - (2017) Semantic versioning and Tagging Docker images the right way
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
@@ -2282,6 +2284,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Gregory Dickson](https://medium.com/@gregory.d.dickson/why-groovy-is-so-groovy-or-a-beginners-guide-to-hacking-groovy-e0ad6f32c300) - (2017) Why Groovy is so groovy or a beginners guide to hacking Groovy
 
 ## Java
+* [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] podcast for Java programmers 
 * [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
 * [Nick Parlante](http://codingbat.com/java) - CodingBat : practice your java skills
