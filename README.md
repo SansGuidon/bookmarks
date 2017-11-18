@@ -543,6 +543,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hacker News](https://hn.algolia.com/?query=Docker&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year docker news
 * [Container Journal](https://containerjournal.com/) - news about containers security, ecosystem, management, etc
 * [Red Hat Blog](https://developers.redhat.com/blog/category/containers/) - containers articles
+* [Container Solutions Blog](https://container-solutions.com/blog/) - thinking, news and research at Container Solutions.
 * [Mike Simons](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
 * [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
 * [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
