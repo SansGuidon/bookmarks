@@ -1012,6 +1012,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
 * [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - curated list of awesome open source intelligence (OSINT) tools and resources. 
+* [DARK MODE LIST](https://www.darkmodelist.com/) - A List of Apps That Support Dark Mode and many other...
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
