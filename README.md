@@ -516,6 +516,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/yaml-best-practices-ansible-playbooks-tasks) - (2014) YAML best practices for Ansible playbooks - tasks
 * [Mohamed El Moussaoui](http://blog.trifork.com/2013/04/18/ansible-simple-module/) - (2013) Ansible - Simple Module | Because that's not so hard to transform shell scripts into modules
 * [pmarkham/writing-ansible-modules-in-bash](https://github.com/pmarkham/writing-ansible-modules-in-bash/blob/master/ansible_bash_modules.md) - Writing Ansible Modules in Bash
+* [fewbits/ansible-laws](https://github.com/fewbits/ansible-laws) - Ansible laws : list of best Practices when using Ansible
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
