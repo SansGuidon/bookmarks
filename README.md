@@ -788,6 +788,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [rusty-dev/jenkins-job-builder-pipeline](https://github.com/rusty-dev/jenkins-job-builder-pipeline) - Pipeline support for jenkins-job-builder
 * [OpenStack Docs](https://docs.openstack.org/infra/system-config/jjb.html) - Documentation for Jenkins Job Builder; a system for configuring Jenkins jobs using simple YAML files stored in Git.
 * [OpenStack Docs](https://docs.openstack.org/infra/jenkins-job-builder/project_pipeline.html) - Jenkins Job Builder documentation for the Pipeline Project module
+* [Hannah Inman](https://www.cloudbees.com/blog/jenkins-world-speaker-highlight-automated-software-maintenance) - (2017) Jenkins World Speaker Highlight: Automated Software Maintenance | use periodic builds for fast detection of CI/CD failures  
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
