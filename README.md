@@ -1513,7 +1513,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # News
 * [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
-* [HCKR News](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
+* [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
 * [HNfavorites](http://www.hnfavorites.com/) - HNfavorites – Explore the hacker news community's favorite content
 * [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
