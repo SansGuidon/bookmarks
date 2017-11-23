@@ -159,6 +159,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Greg Kogan](https://www.gkogan.co/blog/progression/) - (2017) Progression
 * [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer 
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
+* [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -238,6 +239,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jeff Goins](https://medium.com/personal-growth/the-single-most-overlooked-secret-to-influencing-other-people-32433b7ae285) - (2017) The Single Most Overlooked Secret To Influencing Other People
 * [Lauri Apple](https://opensource.com/open-organization/17/10/readme-maturity-model) - (2017) documentation : a maturity model for READMEs
 * [John Cutler](https://medium.com/@johnpcutler/company-culture-is-44592c36958c) - (2016) company culture is…
+* [Philippe Bourgau](http://philippe.bourgau.net/from-zero-to-pair-programming-hero/) - (2015) From Zero to Pair Programming Hero
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2009,6 +2011,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Phil Johnson](https://www.itworld.com/article/2876179/csi-computer-science-your-coding-style-can-give-you-away.html) - (2015) CSI Computer Science: Your coding style can give you away
 * [Pierluigi Vernetto](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
+* [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2925,6 +2928,7 @@ Raw
 * [Stef Walter](http://stef.thewalter.net/git-coverage-useful-code-coverage.html) - (2012) git-coverage: Useful code coverage
 * [PaulWaltersDev/FreeLearningResourcesForSoftwareTesters](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - free Online Learning Resources for New and Experienced Software Testers.
 * [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+* [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
