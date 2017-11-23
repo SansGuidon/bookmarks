@@ -1390,7 +1390,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
 * [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands 
 * [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-* [CentOS Wiki](https://wiki.centos.org/TipsAndTricks/YumAndRPM) - Yum and RPM Tricks
+* [CentOS Wiki](https://wiki.centos.org/TipsAndTricks/YumAndRPM) - Yum and RPM Tips and Tricks
+* [CentOS Wiki](https://wiki.centos.org/TipsAndTricks/SshTips/JumpHost) - SSH Tips and Tricks : SSH bastion/jump host
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
