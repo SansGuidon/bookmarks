@@ -313,6 +313,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/lastfm) - The Last.fm Dataset
 * [Graph TV](http://graphtv.kevinformatics.com/) - Graph Ratings of Your Favorite TV Shows / Visualize IMDb ratings and trends of TV shows by episode.
 * [Information is Beautiful](http://www.informationisbeautiful.net/) - the world’s data, information and knowledge distilled into beautiful and useful graphs & diagrams.
+* [visual complexity](http://www.visualcomplexity.com/vc/) - A visual exploration on mapping complex networks | beautiful graphs in various topics
 
 # DevOps
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
