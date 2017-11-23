@@ -274,6 +274,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
 * [Benjamin P. Hardy](https://medium.com/personal-growth/this-10-minute-routine-will-increase-your-clarity-and-creativity-c8ee786586cd) - (2017) This 10-Minute Routine Will Increase Your Clarity And Creativity
 * [Kim Roach](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
+* [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -2886,6 +2887,7 @@ Raw
 * [Gizmodo](https://sploid.gizmodo.com/fascinating-graphic-shows-who-owns-all-the-major-brands-1599537576) - Fascinating graphics show who owns all the major brands in the world
 * [Clara Darko](https://vimeo.com/112499601) - [Video] Movie montage of dystopian / utopias societies
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
+* [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
