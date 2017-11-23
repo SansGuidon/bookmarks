@@ -237,6 +237,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
 * [Jeff Goins](https://medium.com/personal-growth/the-single-most-overlooked-secret-to-influencing-other-people-32433b7ae285) - (2017) The Single Most Overlooked Secret To Influencing Other People
 * [Lauri Apple](https://opensource.com/open-organization/17/10/readme-maturity-model) - (2017) documentation : a maturity model for READMEs
+* [John Cutler](https://medium.com/@johnpcutler/company-culture-is-44592c36958c) - (2016) company culture is…
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1203,6 +1204,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Thibaut Schepman](https://tempsreel.nouvelobs.com/rue89/rue89-sante/20150120.RUE7459/rester-assis-tue-plus-que-le-tabac-j-ai-essaye-d-ecrire-cet-article-debout.html) - (2015) [FR] Rester assis tue plus que le tabac ? J’ai essayé d’écrire cet article debout / sitting down is dangerous for your health
 * [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] [Video] Technophobe / what if you could not use technology anymore
 * [Pierluigi Vernetto](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
+* [John Cutler](https://medium.com/@johnpcutler/company-culture-is-44592c36958c) - (2016) company culture is…
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
