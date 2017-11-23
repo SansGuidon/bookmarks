@@ -2014,6 +2014,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
 * [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
 * [Wikipedia](https://en.m.wikipedia.org/wiki/List_of_programming_languages_by_type) - List of programming languages by type
+* [Yegor Bugayenko](http://www.yegor256.com/2014/10/29/how-much-do-you-cost.html) - (2014) How Much Do You Cost?
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2450,6 +2451,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 * [Super User StackExchange](https://superuser.com/questions/988185/how-to-avoid-being-asked-enter-passphrase-for-key-when-im-doing-ssh-operatio) - git : avoid being asked “Enter passphrase for key ” when I'm doing ssh operation on a remote host
 * [Philippe Bourgau](http://philippe.bourgau.net/13-tricks-for-successful-side-projects/) - (2017) 13 Tricks for Successful Side Projects
+* [Yegor Bugayenko](http://www.yegor256.com/2014/10/29/how-much-do-you-cost.html) - (2014) How Much Do You Cost?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
