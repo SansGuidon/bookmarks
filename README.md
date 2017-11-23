@@ -277,6 +277,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Benjamin P. Hardy](https://medium.com/personal-growth/this-10-minute-routine-will-increase-your-clarity-and-creativity-c8ee786586cd) - (2017) This 10-Minute Routine Will Increase Your Clarity And Creativity
 * [Kim Roach](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
 * [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
+* [Philippe Bourgau](http://philippe.bourgau.net/13-tricks-for-successful-side-projects/) - (2017) 13 Tricks for Successful Side Projects
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -2447,6 +2448,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands 
 * [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 * [Super User StackExchange](https://superuser.com/questions/988185/how-to-avoid-being-asked-enter-passphrase-for-key-when-im-doing-ssh-operatio) - git : avoid being asked “Enter passphrase for key ” when I'm doing ssh operation on a remote host
+* [Philippe Bourgau](http://philippe.bourgau.net/13-tricks-for-successful-side-projects/) - (2017) 13 Tricks for Successful Side Projects
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
