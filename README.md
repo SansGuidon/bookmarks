@@ -330,7 +330,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Netflix](https://medium.com/netflix-techblog) - Netflix TechBlog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
 * [Stack Exchange](https://devops.stackexchange.com/) - DevOps questions & answers
-* [ThoughtWorks](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
+* [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [Puppet Blog](https://puppet.com/blog)
 * [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year DevOps news
 * [InfoWorld](https://www.infoworld.com/category/devops/) - information, news, how-to advices about DevOps
@@ -1893,7 +1893,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Justyna Ilczuk](http://tinystruggles.com/2014/05/13/leveling-up-as-a-software-developer.html) - Leveling up as a software developer
 * [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016? 
 * [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
-* [ThoughtWorks](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
+* [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [StackShare](https://stackshare.io/trending/tools) - trending tools, find which tools other companies are using
 * [StackShare](https://stackshare.io/trending/stacks) - trending technology stacks, find which stacks others companies are using
 * [GitHub Explore](https://github.com/explore) - Project showcases, discover interesting repositories 
