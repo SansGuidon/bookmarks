@@ -33,7 +33,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [App discovery](#app-discovery)
   * [Event discovery](#event-discovery)
 * [Free online tools](#free-online-tools)
-* [Gaming :video_game:](#gaming-video--game)
+* [Gaming :video_game:](#gaming-video_game)
   * [Role-playing](#role-playing)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
   * [Remote jobs](#remote-jobs)
