@@ -4,7 +4,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 * [Anime](#anime)
 * [Architecture / Design](#architecture--design)
-* [Art](#art)
+* [Art :art:](#art-art)
 * [Business & Economics](#business--economics)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
 * [Creativity](#creativity)
@@ -33,7 +33,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [App discovery](#app-discovery)
   * [Event discovery](#event-discovery)
 * [Free online tools](#free-online-tools)
-* [Gaming](#gaming)
+* [Gaming :video_game:](#gaming-video--game)
   * [Role-playing](#role-playing)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
   * [Remote jobs](#remote-jobs)
