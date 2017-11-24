@@ -704,6 +704,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know 
 * [bhuga/hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc) - hubot-chatops-rpc : Easily add RPC endpoints to your hubot.
 * [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
+* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
