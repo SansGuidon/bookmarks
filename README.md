@@ -140,7 +140,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
 
-# Art 
+# Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
@@ -1121,7 +1121,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
 * [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you 
 
-# Gaming
+# Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
 * [leereilly/games](https://github.com/leereilly/games) - Games on GitHub - A list of open source games & add-ons, maps, etc.
@@ -1188,7 +1188,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [American Psychological Association](http://www.apa.org/news/press/releases/2014/08/pushed-back.pdf) - [PDF] Why women leave engineering
 * [Richard Clayton](https://rclayton.silvrback.com/10-things-i-learned-working-remotely) - 10 Things I learned Working Remotely
 * [Le Pharmachien](http://lepharmachien.com/la-vraie-difference-entre-les-medicaments-generiques-et-originaux/) - [FR] La VRAIE différence entre les médicaments génériques et originaux / real difference between brand names and generic drugs
-* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] Caféine : toxique et délicieuse / Coffee : good and bad parts
+* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
 * [Le Pharmachien](http://lepharmachien.com/intoxication-alimentaire/) - [FR] 8 façons de t’intoxiquer à un barbecue ( intoxication alimentaire ) / 8 ways to cause food poisoning with the barbecue
 * [John Sonmez](https://dzone.com/articles/4-levels-freedom-software) - (2014) The 4 Levels of Freedom For Software Developers
 * [Shaun Boyd](http://www.lifereboot.com/2007/10-reasons-it-doesnt-pay-to-be-the-computer-guy/) - (2007) 10 Reasons It Doesn’t Pay To Be “The Computer Guy”
@@ -1226,8 +1226,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 * [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing »
-* [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer
-* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] Caféine : toxique et délicieuse / Coffee : good and bad parts
+* [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
+* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
 
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
@@ -1862,6 +1862,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
 * [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
 * [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
+* [ty-/spec-style-guide](https://github.com/ty-/spec-style-guide) - some best practices for writing markdown based specifications to be printable by gitprint.com and pandoc
 
 # Programming
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
@@ -2105,6 +2106,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Shane Fast](https://medium.com/paper-engineering/what-a-kids-cartoon-taught-me-about-software-7cbd3bf45c6a) - (2017) What a kid’s cartoon taught me about software
 * [Carlos Leon](https://container-solutions.com/tagging-docker-images-the-right-way/) - (2017) Semantic versioning and Tagging Docker images the right way
 * [Alan Franzoni](https://www.franzoni.eu/shell-scripting-when-to-use-the-long-or-the-shor/) - (2017) Shell scripting: short or long format options?
+* [ty-/spec-style-guide](https://github.com/ty-/spec-style-guide) - some best practices for writing markdown based specifications to be printable by gitprint.com and pandoc
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
@@ -2275,6 +2277,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jason Chen](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 45 Github Issues Dos and Don’ts
 * [Fredrik V. Mørken](https://blogg.bekk.no/why-you-should-stop-using-git-rebase-5552bee4fed1) - (2017) Why you should stop using Git rebase
 * [Super User StackExchange](https://superuser.com/questions/988185/how-to-avoid-being-asked-enter-passphrase-for-key-when-im-doing-ssh-operatio) - git : avoid being asked “Enter passphrase for key ” when I'm doing ssh operation on a remote host
+* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
