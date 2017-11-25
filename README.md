@@ -2998,6 +2998,7 @@ Raw
 * [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
 * [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+* [Connor John Gettel](https://medium.com/@connorgettel/masters-degree-final-major-project-part-2-theoretical-monzo-design-improvements-and-new-concepts-e6c652a1e3e5) - (2017) Master’s Degree Final Major Project: Theoretical Design Improvements and new Concepts — Monzo.
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
