@@ -122,7 +122,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Marty Madrid](https://twitter.com/abt_programming/status/516018172072587264/photo/1) - (2014) [IMG] How to build an MVP (Minimum Viable Product)
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
-* [**The Twelve-Factor App**](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
+* :star: [**The Twelve-Factor App**](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 * [Fred Hebert](https://ferd.ca/queues-don-t-fix-overload.html) - Queues Don't Fix Overload
 * [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 * [StackExchange](https://stackexchange.com/performance) - Amazing presentation of Stack Exchange infrastructure. All about performance
@@ -255,7 +255,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Kim](https://m.signalvnoise.com/its-ok-to-be-pragmatic-with-a-little-help-from-the-crazy-ones-461f7773a176) - It’s OK to be pragmatic (with a little help from the “crazy ones”)
 * [/r/GoogleCardboard](https://www.reddit.com/r/GoogleCardboard/) - Google Cardboard VR subreddit 
 * [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
-* [**Daniel Miessler**](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
+* :star: [**Daniel Miessler**](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
 * [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
 * [The Next Web](https://twitter.com/Shaun_Springer/status/498529232545669121/photo/1) - (2014) [IMG] It's not about being first to market, it's about being the best. / It's Never Too Late / Just do it better.
 * [John D. Cook](https://www.johndcook.com/blog/2009/12/16/good-work-with-bad-tools/) - Doing good work with bad tools
@@ -292,8 +292,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
 * [Learn by Reading](https://learnbyreading.herokuapp.com/) - Discover your next favorite learnable (Non-fiction) book from Amazon Book
 * [Gnod](http://www.gnooks.com/faves.php) - Discover new books based on what you like
-* [**Goodreads**](https://www.goodreads.com/) - a home for you books, to manage your collection and discover new books
-* [**LibraryThing**](https://www.librarything.com/) - a home for your books, to manage your library and discover new books. | Recommendations are numerous and usually relevant to me for every book I tried
+* :star: [**Goodreads**](https://www.goodreads.com/) - a home for you books, to manage your collection and discover new books
+* :star: [**LibraryThing**](https://www.librarything.com/) - a home for your books, to manage your library and discover new books. | Recommendations are numerous and usually relevant to me for every book I tried
 * [Whichbook](http://www.openingthebook.com/whichbook/) - a tool for selecting what book to read next
 * [What Should I Read Next?](http://www.whatshouldireadnext.com/) - another tool to discover new books based on what you like
 * [YourNextRead](http://www.yournextread.com/us/) - books recommendations based on what you like
@@ -306,9 +306,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Graph TV](http://graphtv.kevinformatics.com/) - Graph Ratings of Your Favorite TV Shows / Visualize IMDb ratings and trends of TV shows by episode.
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
 * [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
-* [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
+* :star: [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
 * [Khan Academy](https://www.khanacademy.org/) - free online courses, lessons and practice
-* [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
+* :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
 * [RadioKawa](http://www.radiokawa.com/) - [FR] lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
 * [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] a couple of tasty podcasts for geeks
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
@@ -335,7 +335,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Netflix](https://medium.com/netflix-techblog) - Netflix TechBlog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
 * [Stack Exchange](https://devops.stackexchange.com/) - DevOps questions & answers
-* [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
+* :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [Puppet Blog](https://puppet.com/blog)
 * [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year DevOps news
 * [InfoWorld](https://www.infoworld.com/category/devops/) - information, news, how-to advices about DevOps
@@ -349,7 +349,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Martin Rusev](https://www.amon.cx/blog/saltstack-review/) - SaltStack - Review and how it fares against Ansible and Puppet?
 * [Josh Dreyfuss](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/) - Deployment Management Tools: Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric
 * [Engin Yöyen](http://enginyoyen.com/service-discovery-choosing-the-right-tool/) - Service Discovery : Choosing the Right Tool
-* [**Viktor Farcic**](https://technologyconversations.com/2017/03/06/the-ten-commandments-of-continuous-delivery/) - The Ten Commandments Of Continuous Delivery. **Bonus from Jenkins World 2017** : [video](https://www.youtube.com/watch?v=mW_gkQnF4eU) & [my notes](cd/viktor_farcic_on_continuous_delivery.md)
+* :star: [**Viktor Farcic**](https://technologyconversations.com/2017/03/06/the-ten-commandments-of-continuous-delivery/) - The Ten Commandments Of Continuous Delivery. **Bonus from Jenkins World 2017** : [video](https://www.youtube.com/watch?v=mW_gkQnF4eU) & [my notes](cd/viktor_farcic_on_continuous_delivery.md)
 * [Pushkar Singh](https://theagilecoder.files.wordpress.com/2015/09/devops-maturity-model.png) - [PNG] Devops Maturity Model
 * [DevOpsGuys](https://www.devopsguys.com/2013/02/06/maturing-the-continuous-delivery-pipeline/) - Maturing the Continuous Delivery Pipeline
 * [Tony Bradley](https://devops.com/devops-just-automation/) - DevOps is More Than Just Automation
@@ -373,7 +373,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
-* [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
+* :star: [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
 * [DevOps on Slack](https://devopschat.co/) - DevOps fans on Slack
 * [DevOpsLinks on Slack](http://devopslinks.com/) - Where “software DEVelopment” meets “information technology OPerationS”
 * [Joran Le Cren](http://squad-twelve.com/2017/07/03/7-specific-suggestions-to-sabotage-devops-simply/) - 7 Specific Suggestions to Sabotage DevOps Simply
@@ -411,7 +411,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
 * [TotalCloud](https://totalcloud.io/devops_checklists.html) - A collection of DevOps checklists
 * [Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops) - DevOps Checklist
-* [**Aymen El Amri**](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - The 15-point DevOps Check List
+* :star: [**Aymen El Amri**](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - The 15-point DevOps Check List
 * [Steve Pereira](http://devopschecklist.com/) - The DevOps Checklist
 * [fagnerbrack](https://imgur.com/gallery/SWDy6) - [IMG] The Periodic Table Of Software Engineering
 * [John Allspaw](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr/49-httpwwwickrcomphotoschrisdag2286198568_Respect_other_peoples_expertise) - (2009) [Slides] 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr
@@ -496,7 +496,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - Using Ansible with Docker Machine to Bootstrap Host Nodes
 * [Maxim Chernyak](http://hakunin.com/six-ansible-practices#avoid-perpetually-changed-and-skipping-tasks) - Avoid perpetually “changed” and “skipping” tasks 
-* [**Andreas Sommer**](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Ansible best practices
+* :star: [**Andreas Sommer**](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Ansible best practices
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Animosity](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot%27s-introduction-to-yaml) - Complete idiot's introduction to yaml
 * [Ansible Docs](http://ansible-docs.readthedocs.io/zh/stable-2.0/rst/YAMLSyntax.html) - YAML Syntax
@@ -631,7 +631,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Red Hat Customer Portal](https://access.redhat.com/articles/2772861) - Differences between RHEL Server and RHEL Atomic Host
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/getting_started_with_containers/using_red_hat_base_container_images_standard_and_minimal) - Using Red Hat Base Container Images (standard and minimal)
 * [Thierry Carez](http://superuser.openstack.org/articles/openstack-relevant-containers) - What makes OpenStack relevant in a container-driven world. [Related Video](https://www.youtube.com/watch?v=2QnHdncpypI)
-* [**Aymen El Amri**](https://medium.com/statuscode/dockercheatsheet-9730ce03630d) - My Docker Cheat Sheet
+* :star: [**Aymen El Amri**](https://medium.com/statuscode/dockercheatsheet-9730ce03630d) - My Docker Cheat Sheet
 * [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
@@ -720,7 +720,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cloudbees](https://www.cloudbees.com/blog/categories/Jenkins) - Jenkins articles on CloudBees site 
 * [Jenkins Community Blog](https://jenkins.io/node/) - Jenkins articles
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
-* [**CloudBees**](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
+* :star: [**CloudBees**](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
 * [Hacker News](https://hn.algolia.com/?query=Jenkins&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year jenkins news
 * [Cloudbees](https://support.cloudbees.com/hc/en-us/articles/226122247-How-to-Customize-Checkout-for-Pipeline-Multibranch) - How to Customize Checkout for Pipeline Multibranch
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/jenkins-blueocean) - Q&A about Blue Ocean
@@ -950,8 +950,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Finding content
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
-* [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
-* [**Library Genesis**](http://libgen.io/) - ebooks and scientific articles. Mirror : [1](http://gen.lib.rus.ec/)
+* :star: [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
+* :star: [**Library Genesis**](http://libgen.io/) - ebooks and scientific articles. Mirror : [1](http://gen.lib.rus.ec/)
 * [b-ok.org](http://b-ok.org/) - ebooks
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music . 
 * [RuTracker](https://rutracker.org/forum/index.php) - torrent for music
@@ -1000,7 +1000,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Reading Stash](http://readingstash.com/index) - Just a book recommender
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
-* [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
+* :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [FileChef](http://filechef.com/) - Get direct download links for almost anything
 * [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
@@ -1034,8 +1034,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 
 ## App discovery
-* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
-* [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
+* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
+* :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [AlternativeTo](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
 * [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
@@ -1060,7 +1060,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dillinger](http://dillinger.io/) - Online Markdown Editor
-* [**Air Mail**](http://en.getairmail.com/) - temporary email service
+* :star: [**Air Mail**](http://en.getairmail.com/) - temporary email service
 * [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy 
 * [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
 * [Broken Link Checker](http://www.brokenlinkcheck.com/broken-links.php#status) - Online Dead Link Checking Tool
@@ -1123,7 +1123,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [BonPatron](http://bonpatron.com/) - [FR] online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
 * [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
 * [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
-* [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
+* :star: [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
 * [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
 * [Convertio](https://convertio.co/epub-pdf/) - Advanced online tool to convert EPUB files to PDF
 * [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
@@ -1277,14 +1277,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Linux / Unix
 * [/r/linux](https://www.reddit.com/r/linux/) - discussions & news about linux on reddit
-* [**nixCraft**](https://www.cyberciti.biz/) - linux tips, hacks, tutorials and ideas
+* :star: [**nixCraft**](https://www.cyberciti.biz/) - linux tips, hacks, tutorials and ideas
 * [Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/) - latest information on Red Hat's IT infrastructure products, offerings, and solutions
 * [Opensource.com](https://opensource.com/) - stories about creating, adopting, and sharing open source solutions
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
 * [Alltop](https://linux.alltop.com/) - Top Linux News aggregated
-* [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
+* :star: [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
 * [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary 
 * [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2696541/operating-systems/unix--knowing-your-memory-commands.html) - Unix: Knowing your memory commands
@@ -1442,7 +1442,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 * [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
-* [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
+* :star: [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
 * [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
 
 ## Tuning
@@ -1458,10 +1458,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/chapters/17.html) - Status Lines
 * [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
-* [**VimAwesome**](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
+* :star: [**VimAwesome**](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
 * [Daniel Miessler](https://danielmiessler.com/study/vim/) - A vim Tutorial and Primer
 * [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
-* [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used in Vim through [ALE](https://github.com/w0rp/ale), [Neomake](https://github.com/neomake/neomake), or [Syntastic](https://github.com/vim-syntastic/syntastic)
+* :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used in Vim through [ALE](https://github.com/w0rp/ale), [Neomake](https://github.com/neomake/neomake), or [Syntastic](https://github.com/vim-syntastic/syntastic)
 * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - The NERDTree is a file system explorer for the Vim editor.
 * [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.  
 * [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
@@ -1498,7 +1498,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
 * [Apple Developer Docs](https://developer.apple.com/library/content/documentation/Security/Conceptual/CodeSigningGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005929-CH1-SW1) - About Code Signing
-* [**Apple Developer Docs**](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
+* :star: [**Apple Developer Docs**](https://developer.apple.com/library/content/technotes/tn2206/_index.html) - macOS Code Signing In Depth
 * [Morten Johan Sørvig](http://blog.qt.io/blog/2014/10/29/an-update-on-os-x-code-signing/) - An update on OS X Code Signing
 * [ouchangjian](http://www.ouchangjian.com/question/588b48cce4a1ca4b30edaff5) - difference between codesign and productsign ?
 * [Stack Overflow](https://stackoverflow.com/a/21564967/2309958) - what to sign, with which certificate ?
@@ -1527,7 +1527,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [caps-a-holic.com](http://www.caps-a-holic.com/) - DVD und Blu-ray Comparisons
 * [IMSE](http://www.imse.co/) - Internet Movie Search Engine
 * [SoMeFilm](https://somefilm.net/auth/guest) - Movies / tv shows recommendations : what will you watch tonight ?
-* [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
+* :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
 * [David Firth](https://www.youtube.com/watch?v=wpVTORX_ifk) - [Youtube] Salad Fingers is a psychological horror, dark humorous animation movie ranked among the top 10 culture phenomenon for 2005
 * [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies
 * [Cinesift](https://www.cinesift.com/) - 'Cinesift' Sorts Ratings and Streaming Services to Help Users Pick Films. **Bonus** : [Presentation of Cinesift by Trend Hunter](https://www.trendhunter.com/trends/film-database)
@@ -1560,14 +1560,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
 
 # News
-* [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
-* [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
-* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
+* :star: [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
+* :star: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
+* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
 * [HNfavorites](http://www.hnfavorites.com/) - HNfavorites – Explore the hacker news community's favorite content
-* [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
+* :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [Lobsters](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
-* [**Le Gorafi**](http://www.legorafi.fr/) - [FR] news satire
+* :star: [**Le Gorafi**](http://www.legorafi.fr/) - [FR] news satire
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 * [Alltop](https://alltop.com/new/) - News aggregator, similar to Popurls. Aggregates news by topic also 
@@ -1601,7 +1601,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Matthew Skelton](https://blog.softwareoperability.com/2013/04/08/lets-talk-about-operational-features-not-non-functional-requirements/) - Let’s Talk About Operational Features, not Non-Functional Requirements
 * [David Mytton](https://blog.serverdensity.com/how-and-why-we-use-devops-checklists/) - How and why we use DevOps checklists
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
-* [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
+* :star: [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
 * [AskF5 Support](https://support.f5.com/csp/article/K12213214) - Overview of colored status icons in the Configuration utility
 * [Deb Shinder](http://techgenix.com/fall-of-all-powerful-admin/) - The rise and fall of the all-powerful admin
@@ -1737,13 +1737,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/encryption](https://www.reddit.com/r/encryption/) - everything about encryption on reddit
 * [/r/privacy](https://www.reddit.com/r/privacy/) - everything about privacy on reddit
 * [Fried](https://fried.com/privacy/) - introduction guide to online privacy. a bit outdated on some advices 
-* [**Privacy tools**](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
+* :star: [**Privacy tools**](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
 * [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
-* [**/r/selfhosted/**](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
-* [**Kickball/awesome-selfhosted**](https://github.com/Kickball/awesome-selfhosted) - list of Free Software network services and web applications which can be hosted locally
+* :star: [**/r/selfhosted/**](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
+* :star: [**Kickball/awesome-selfhosted**](https://github.com/Kickball/awesome-selfhosted) - list of Free Software network services and web applications which can be hosted locally
 * [Selfhosted on Slack](https://selfhosted.herokuapp.com/) - community for everything about self-hosted web apps and related technologies
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
@@ -1754,7 +1754,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted 
 * [Panopticlick](https://panopticlick.eff.org) - Test : Is your browser safe against tracking?
 * [Am I unique](https://amiunique.org/fp) - Test : are you unique ? (what your fingerprint reveals about you)
-* [**Air Mail**](http://en.getairmail.com/) - temporary email service
+* :star: [**Air Mail**](http://en.getairmail.com/) - temporary email service
 * [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy 
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 * [DuckDuckGo](https://spreadprivacy.com/privacy-tips/home) - Fix Tracking : how to stop getting tracked on desktop and mobile
@@ -1772,12 +1772,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Productivity
 > Tips
-* [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
+* :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/the-two-minute-rule) - The Two-Minute Rule / When You’re Buried in Email
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/flow-requires-focus-not-time) - Flow Requires Focus, Not Time
-* [**The Minds Journal**](https://themindsjournal.com/japanese-technique-overcoming-laziness/) - A Japanese Technique for Overcoming Laziness / Kaizen, Or The One-Minute Principle
-* [**Foundr**](https://foundrmag.com/analog-methods-for-getting-things-done-superpower-your-productivity-with-pen-and-paper/) - GTD : Superpower Your Productivity With Pen and Paper
+* :star: [**The Minds Journal**](https://themindsjournal.com/japanese-technique-overcoming-laziness/) - A Japanese Technique for Overcoming Laziness / Kaizen, Or The One-Minute Principle
+* :star: [**Foundr**](https://foundrmag.com/analog-methods-for-getting-things-done-superpower-your-productivity-with-pen-and-paper/) - GTD : Superpower Your Productivity With Pen and Paper
 * [Dr. Travis Bradberry](http://www.huffingtonpost.com/dr-travis-bradberry/11-tweaks-to-your-morning_b_8965072.html) - 11 Tweaks to Your Morning Routine 
 * [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - Splitting user stories -- the hamburger method
 * [Jeff Haden](https://www.linkedin.com/pulse/10-steps-make-each-day-incredibly-productive-jeff-haden) - 10 Steps to Make Each Day Exceptionally Productive
@@ -1788,7 +1788,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Corinna Baldauf](http://wall-skills.com/2016/how-to-master-any-skill-badass/) - How to master any skill – Badass
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
 * [SlideShare](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement related presentations
-* [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
+* :star: [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
 * [Jean-Yves Guyomarc'h/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 * [MindTools](https://www.mindtools.com/pages/article/newHTE_96.htm) - tips for Overcoming Procrastination
 * [Google](http://www.powersearchingwithgoogle.com/) - Power searching with google
@@ -1797,13 +1797,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [HowStuffWorks](http://www.howstuffworks.com/) - easy-to-understand answers and explanations of how the world actually works
 * [Instructables](http://www.instructables.com/) - How to make anything
 * [Vikas Kumar Yadav/awesome-list-of-productive-websites](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
-* [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
+* :star: [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
 * [Hackaday](http://hackaday.com/) - fresh hacks every day 
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
 * [Mattias Geniar](https://ma.ttias.be/why-do-we-automate/) - Why do we automate?
 * [Bullet Journal](http://bulletjournal.com/) - a simple system to improve your productivity using only paper
-* [**Leo Babauta**](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
+* :star: [**Leo Babauta**](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
 * [Hack Productivity on Slack](https://hackproductivity.herokuapp.com/) - Slack group with productivity tips and tricks
 * [Productivity Hackers on Slack](https://ipoli.typeform.com/to/P7pAqM) - Place to learn how to improve personal productivity
 * [Leo Babauta](https://zenhabits.net/clean/) - The Clean-as-You-Go Principle
@@ -1846,7 +1846,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
 * [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the Hacker News community's favorite content
 * [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
-* [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
+* :star: [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - 7 Shortcuts You Will Regret Taking in Life
 * [Daniel Miessler](https://danielmiessler.com/blog/how-to-decide-who-to-friend-on-facebook-linkedin-and-twitter/) - How To Decide Who To Friend on Facebook, LinkedIn, and Twitter
 * [Daniel Miessler](https://danielmiessler.com/projects/concepts/) - Lot of concepts summarized by Daniel Miessler
@@ -1858,7 +1858,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Socratease](https://www.socratease.in/) - A Joyful, Engaging Way to Learn New Things : black holes, quantum mechanics, bitcoins, ...
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
-* [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
+* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
 * [Sindre Sorhus/awesome](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
 * [Alexander Bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -1882,7 +1882,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
-* [**Linguee**](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web 
+* :star: [**Linguee**](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web 
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 * [dswd/zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution 
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
@@ -1931,13 +1931,13 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Justyna Ilczuk](http://tinystruggles.com/2014/05/13/leveling-up-as-a-software-developer.html) - Leveling up as a software developer
 * [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016? 
 * [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
-* [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
+* :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [StackShare](https://stackshare.io/trending/tools) - trending tools, find which tools other companies are using
 * [StackShare](https://stackshare.io/trending/stacks) - trending technology stacks, find which stacks others companies are using
 * [GitHub Explore](https://github.com/explore) - Project showcases, discover interesting repositories 
 * [GitHub Trending](https://github.com/trending) - Explore trending projects in GitHub community
 * [GitHub Showcases](https://github.com/showcases) - Open source showcases, explore popular repositories
-* [**Hugo Matilla**](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
+* :star: [**Hugo Matilla**](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
 * [Methods & Tools](http://www.methodsandtools.com/mt/download.php) - magazine about software development & testing with free content. See also [Partner websites](http://www.methodsandtools.com/network.php)
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
 * [Nick Parlante](http://codingbat.com) - CodingBat : practice your programming skills (exercices in java and python)
@@ -1946,12 +1946,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - programming challenges on reddit
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * [Philip Stark](https://gist.github.com/hellerbarde/2843375) - Latency numbers every programmer should know
-* [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
+* :star: [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
 * [Vinh Quốc Nguyễn](https://betterdev.link/) - Better Dev Link collects links around the web that aims to help you learn something new
 * [Andrew Wulf](http://thecodist.com/article/the-biggest-difference-between-coding-today-and-when-i-started-in-the-80-s) - The Biggest Difference Between Coding Today and When I Started in the 80’s
 * [Andrew Wulf](http://thecodist.com/article/what_makes_a_programmer_good) - What Makes a Programmer Good?
 * [Stack Overflow](http://chat.stackoverflow.com/) - chat rooms on stack overflow
-* [**RankRed**](http://www.rankred.com/nasa-coding-rules/) - NASA’s 10 Coding Rules for Writing Safety Critical Program
+* :star: [**RankRed**](http://www.rankred.com/nasa-coding-rules/) - NASA’s 10 Coding Rules for Writing Safety Critical Program
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
 * [DemandRush](https://www.demandrush.com/) - Get paid to build your next side project
@@ -1975,7 +1975,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Anni Bond](https://opensource.com/article/17/9/adopting-minimalism-your-docs) - Adopting minimalism in your docs
 * [Joel Grus](http://joelgrus.com/2013/12/24/why-programming-language-x-is-unambiguously-better-than-programming-language-y/) - Why [Programming Language X] Is Unambiguously Better than [Programming Language Y]
 * [Chris Parnin](http://blog.ninlabs.com/2013/12/software-engineering-the-next-50-years/) - (2013) Software Engineering: The Next 50 Years
-* [**The Daily WTF**](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
+* :star: [**The Daily WTF**](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
 * [Trey Harris](http://www.ibiblio.org/harris/500milemail.html) - The case of the 500-mile email
 * [Jonathan Callahan](https://dzone.com/articles/best-best-practices-ever) - Best Best Practices Ever (for scientific computing)
 * [openjck/best-practices](https://github.com/openjck/best-practices) - Programming Best Practices Tidbits : A Collection of quotes and paraphrases for developers from around the web. **Bonus** : source repo at [timoxley/best-practices](https://github.com/timoxley/best-practices)
@@ -2094,12 +2094,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Salvatore Gentile/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
 * [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) 
 * [mcandre/linters](https://github.com/mcandre/linters) - list of linters and introduction to static code analysis
-* [**mre/Awesome Static analysis**](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
+* :star: [**mre/Awesome Static analysis**](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
 * [mre/Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
 * [Lucas Medeiros Reis](https://dev.to/iamlucasmreis/the-single-most-important-driver-of-software-quality) - The Single Most Important Driver Of Software Quality
 * [clean-code-linters](https://github.com/showcases/clean-code-linters) - Clean code linters on GitHub
 * [enginyoyen/Ansible Best Practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
-* [**Kristories/Awesome Guidelines**](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+* :star: [**Kristories/Awesome Guidelines**](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 * [Tom Preston-Werner](http://semver.org/) - Semantic Versioning 2.0.0
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
@@ -2122,7 +2122,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/musings-on-refactoring-as-waste) - (2014) Musings on Refactoring as Waste
 * [The Twelve-Factor App](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 * [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style. **Bonus** : [Thoughtbot's playbook](https://thoughtbot.com/playbook) - explaining how they build products and run their company
-* [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
+* :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
 * [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices
 * [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
@@ -2243,7 +2243,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/git-submodules-workflows-tips#tip5) - Git submodules: core concept, workflows, and tips
 * [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) - Mastering Git submodules
 * [Git-SCM Docs](https://git-scm.com/book/en/v2/Git-Tools-Submodules) - Submodules documentation
-* [**git-tips**](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks 
+* :star: [**git-tips**](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks 
 * [Lars Vogel](http://www.vogella.com/tutorials/Git/article.html) - Git - Tutorial
 * [Pere Orga](https://orga.cat/posts/most-useful-git-commands) - The most useful git commands
 * [Christophe Porteneuve](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa) - Getting solid at Git rebase vs. merge
@@ -2422,7 +2422,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Productivity
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
-* [**J. B. Rainsberger**](http://blog.jbrains.ca/permalink/avoid-distractions-while-programming) - Avoiding Distractions While Programming
+* :star: [**J. B. Rainsberger**](http://blog.jbrains.ca/permalink/avoid-distractions-while-programming) - Avoiding Distractions While Programming
 * [Moran Danieli-Cohen](https://dev.to/msscohen/3-effective-ways-to-maintain-high-energy-levels-at-work-for-software-engineers) - 3 Effective Ways to Maintain High Energy Levels at Work for Software Engineers
 * [Alex Thunder](http://alexthunder.livejournal.com/309815.html) - Don't wake up the programmer
 * [Marcos Placona](https://twitter.com/marcos_placona/status/882487720597237760) - That "5 minutes chat" with a developer
@@ -2499,7 +2499,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
-* [**Geek&Poke**](http://geek-and-poke.com/) - cartoons
+* :star: [**Geek&Poke**](http://geek-and-poke.com/) - cartoons
 * [The Profound Programmer](http://theprofoundprogrammer.com/) - Programming frustrations expressed through profane, beautiful photographs
 * [Programming excuses](http://programmingexcuses.com/) - Excuses for lazy coders
 * [Developer excuses](http://developerexcuses.com/) - Excuses for lazy coders
@@ -2508,7 +2508,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
 * [Jeff Atwood](https://blog.codinghorror.com/new-programming-jargon/) - New Programming Jargon
 * [MonkeyUser](http://www.monkeyuser.com/) - software development satire web comic
-* [**The Coding Love**](http://thecodinglove.com/) - the_coding_love(); /* epic gifs for developers */
+* :star: [**The Coding Love**](http://thecodinglove.com/) - the_coding_love(); /* epic gifs for developers */
 * [Scott Adams](http://dilbert.com/) - Dilbert comic : satiric humor about a micromanaged office featuring engineer Dilbert
 * [Devhumor](http://devhumor.com/) - humor for developers
 * [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - programmer humor on reddit
@@ -2557,7 +2557,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books. 
 * [Anonymous DevOps Confessions](https://totalcloud.io/DevOpsConfessions.html) - regrets and confessions of DevOps felows
 * [CommitStrip](http://www.commitstrip.com/en/2015/01/23/everyday-types-of-coders/) - (2015) [IMG] Everyday types of coders
-* [**The Daily WTF**](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
+* :star: [**The Daily WTF**](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -2663,11 +2663,11 @@ Raw
 * [Commandline Challenge](https://cmdchallenge.com/) - Linux Shell challenges
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
 * [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make
-* [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
+* :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
 * [Nicola Paolucci](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/) - Ten tips for wonderful bash productivity
 * [blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) - Mastering Bash and Terminal
 * [kvz.io](http://kvz.io/blog/2013/11/21/bash-best-practices/) - Best Practices for Writing Bash Scripts
-* [**Aaron Zauner/community_bash_style_guide**](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide. Discovered via [DevHub](https://devhub.io/repos/azet-community_bash_style_guide)
+* :star: [**Aaron Zauner/community_bash_style_guide**](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide. Discovered via [DevHub](https://devhub.io/repos/azet-community_bash_style_guide)
 * [Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/) - 3 shell scripts to improve your writing
 * [Quickshiftin](https://quickshiftin.com/blog/2014/01/template-method-pattern-bash/) - Template method pattern in BASH
 * [Fahd Shariff](http://fahdshariff.blogspot.be/2013/10/shell-scripting-best-practices.html) - Shell Scripting - Best Practices
@@ -2681,7 +2681,7 @@ Raw
 * [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - Common shell script mistakes
 * [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
-* [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
+* :star: [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
 * [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3015657/linux/changing-how-bash-behaves.html) - Changing how bash behaves
 * [FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting) - Bash tips: Colors and formatting
@@ -2708,10 +2708,10 @@ Raw
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Matthieu Parisot](http://blog.wescale.fr/2016/04/07/bash-pro-tips/) - [FR] Bash Pro Tips for logs / errors handling etc.
 * [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] tips & tricks with command line examples 
-* [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+* :star: [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 * [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 * [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
-* [**Kfir Lavi**](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - (2012) Defensive BASH Programming
+* :star: [**Kfir Lavi**](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - (2012) Defensive BASH Programming
 * [GreyCat](http://mywiki.wooledge.org/BashWeaknesses) - BashWeaknesses : There are certain things BASH is not very good at.
 * [GNU](http://www.gnu.org/software/autoconf/manual/autoconf.html#Portable-Shell) - Portable Shell Programming
 * [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
@@ -3023,7 +3023,7 @@ Raw
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
 * [Broken Link Checker](http://www.brokenlinkcheck.com/broken-links.php#status) - Online Dead Link Checking Tool
-* [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
+* :star: [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
 * [W3C](https://w3c.github.io/developers/tools/) - Various website validation tools 
 * [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
 * [First Site Guide Blog](https://firstsiteguide.com/blog/) - articles, [infographics](https://firstsiteguide.com/category/infographics/), [cheatsheets](https://firstsiteguide.com/category/cheat-sheets/) about site/blog creation
