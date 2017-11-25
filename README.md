@@ -241,6 +241,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Lauri Apple](https://opensource.com/open-organization/17/10/readme-maturity-model) - (2017) documentation : a maturity model for READMEs
 * [John Cutler](https://medium.com/@johnpcutler/company-culture-is-44592c36958c) - (2016) company culture is…
 * [Philippe Bourgau](http://philippe.bourgau.net/from-zero-to-pair-programming-hero/) - (2015) From Zero to Pair Programming Hero
+* [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2054,6 +2055,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Wikipedia](https://en.m.wikipedia.org/wiki/List_of_programming_languages_by_type) - List of programming languages by type
 * [Yegor Bugayenko](http://www.yegor256.com/2014/10/29/how-much-do-you-cost.html) - (2014) How Much Do You Cost?
 * [James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html) - (2017) Advice on starting a programming blog
+* [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
