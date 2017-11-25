@@ -39,7 +39,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Remote jobs](#remote-jobs)
 * [Hobbies](#hobbies)
 * [Humor](#humor)
-* [Images](#images)
+* [Images / Wallpapers](#images--wallpapers)
 * [Linux / Unix](#linux--unix)
   * [Linux for fun](#linux-for-fun)
   * [Raspberry Pi](#raspberry-pi)
@@ -1259,7 +1259,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
 * [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] [Video] Technophobe / what if you could not use technology anymore
 
-# Images
+# Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
 * [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
