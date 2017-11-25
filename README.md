@@ -2328,6 +2328,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
 * [Logan Johnson](https://medium.com/square-corner-blog/how-square-writes-commit-messages-8e92fcbf77c9) - (2017) How Square writes commit messages | Explain the change.
 * [Manish Goregaokar](https://manishearth.github.io/blog/2017/03/05/understanding-git-filter-branch/) - (2017) Understanding Git Filter-branch and the Git Storage Model
+* [Erlend Hamberg](https://hamberg.no/erlend/posts/2015-02-23-git-history.html) - (2015) On Git History – or, “The Case for Merge Commits”
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
