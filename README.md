@@ -442,6 +442,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cindy Sridharan](https://medium.com/@copyconstruct/the-death-of-ops-is-greatly-exaggerated-ff3bd4a67f24) - (2017) Everyone is not Ops
 * [Carlos Leon](https://container-solutions.com/tagging-docker-images-the-right-way/) - (2017) Semantic versioning and Tagging Docker images the right way
 * [James Wade](https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91) - curated list of Devops Best Practices
+* [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1640,6 +1641,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Cindy Sridharan](https://medium.com/@copyconstruct/the-death-of-ops-is-greatly-exaggerated-ff3bd4a67f24) - (2017) Everyone is not Ops
 * [Dan North](https://www.youtube.com/watch?v=MmL8H0oGGe8) - (2017) [Video] Ops and Operability
 * [Erez Yaary](https://techbeacon.com/how-secure-container-lifecycle) - (2017) How to secure the container lifecycle
+* [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2501,6 +2503,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Philippe Bourgau](http://philippe.bourgau.net/13-tricks-for-successful-side-projects/) - (2017) 13 Tricks for Successful Side Projects
 * [Yegor Bugayenko](http://www.yegor256.com/2014/10/29/how-much-do-you-cost.html) - (2014) How Much Do You Cost?
 * [James Routley](https://routley.io/tech/2017/11/23/logbook.html) - (2017) Using a logbook to improve your programming
+* [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
