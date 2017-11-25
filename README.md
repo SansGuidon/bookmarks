@@ -2772,6 +2772,7 @@ Raw
 * [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands 
 * [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 * [Alan Franzoni](https://www.franzoni.eu/shell-scripting-when-to-use-the-long-or-the-shor/) - (2017) Shell scripting: short or long format options?
+* [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-01-18-mkcd.html) - (2013) use mkcd (mkdir + cd)
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
