@@ -141,6 +141,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources 
 * [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
+* [Ben Stopford](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/) - (2016) The Data Dichotomy: Rethinking the Way We Treat Data and Services
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -833,6 +834,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing 
 * [Brian Kelly](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/) - Creating a Microservice? Answer these 10 Questions First 
 * [Sumit Maingi](https://cloudncode.blog/2016/07/22/msa-getting-started/) - (2016) Building Microservices? Here is what you should know
+* [Ben Stopford](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/) - (2016) The Data Dichotomy: Rethinking the Way We Treat Data and Services
 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
