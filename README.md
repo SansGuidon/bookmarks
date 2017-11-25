@@ -49,6 +49,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mac](#mac)
   * [Code signing](#code-signing)
 * [Manga](#manga)
+* [Movies](#movies)
 * [Music](#music)
 * [News](#news)
 * [Operations / IT OPS](#operations--it-ops)
@@ -285,10 +286,10 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 # Culture
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
-* [SensCritique](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
+* [SC (SensCritique)](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
 * [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
-* [Internet Movie Database](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
+* [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
 * [Learn by Reading](https://learnbyreading.herokuapp.com/) - Discover your next favorite learnable (Non-fiction) book from Amazon Book
 * [Gnod](http://www.gnooks.com/faves.php) - Discover new books based on what you like
 * [**Goodreads**](https://www.goodreads.com/) - a home for you books, to manage your collection and discover new books
@@ -1026,6 +1027,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [The Mastodon Project](https://joinmastodon.org/) - Mastodon instances list. **Bonus** : [helper to choose instance](https://instances.social/) 
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
 * [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you 
+* [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1500,6 +1502,32 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Manga
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
 
+# Movies
+* [SC (SensCritique)](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
+* [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
+* [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
+* [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
+* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
+* [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
+* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
+* [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
+* [Morgangeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] FileBot : le couteau suisse du renommage de films et séries
+* [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
+* [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
+* [Clara Darko](https://vimeo.com/112499601) - [Video] Movie montage of dystopian / utopias societies
+* [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
+* [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
+* [Addic7ed.com](http://www.addic7ed.com/) - free subtitles for tv show and movies
+* [Movie-Censorship.com](http://www.movie-censorship.com/) - News about movie censorship + comparisons of alternate versions (Movies, Comics, Series, Games and more)
+* [caps-a-holic.com](http://www.caps-a-holic.com/) - DVD und Blu-ray Comparisons
+* [IMSE](http://www.imse.co/) - Internet Movie Search Engine
+* [SoMeFilm](https://somefilm.net/auth/guest) - Movies / tv shows recommendations : what will you watch tonight ?
+* [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
+* [David Firth](https://www.youtube.com/watch?v=wpVTORX_ifk) - [Youtube] Salad Fingers is a psychological horror, dark humorous animation movie ranked among the top 10 culture phenomenon for 2005
+* [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies
+* [Cinesift](https://www.cinesift.com/) - 'Cinesift' Sorts Ratings and Streaming Services to Help Users Pick Films. **Bonus** : [Presentation of Cinesift by Trend Hunter](https://www.trendhunter.com/trends/film-database)
+* [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
+
 # Music 
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
 * [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
@@ -1520,6 +1548,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [foobar2000](http://www.foobar2000.org/components/by+date) - List of all plugins for foobar2000
 * [foobar2000](http://mobile.foobar2000.com/) - There exist a mobile version of foobar2000 
 * [Tunefind](https://www.tunefind.com/show/the-walking-dead) - Walking Dead tv show soundtracks online
+* [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -2568,6 +2597,7 @@ Raw
 # Podcasts
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] podcast for Java programmers 
+* [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
