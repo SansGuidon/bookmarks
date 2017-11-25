@@ -2345,6 +2345,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Julian Friedman](https://www.infoq.com/articles/build-a-container-golang) - (2016) Build Your Own Container Using Less than 100 Lines of Go
 * [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go. **Bonus** : [website](https://neugram.io)
 * [James Routley](https://routley.io/tech/2017/07/20/golang-test-fixtures.html) - (2017) Simplify Golang test fixtures with this one weird trick
+* [353Solutions](https://www.353.solutions/py2go/index.html) - Python to Go CheatSheet
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -2572,6 +2573,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [pypi/feedparser](https://pypi.python.org/pypi/feedparser) - Parse Atom and RSS feeds in Python.
 * [Google](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
 * [python-cx_Oracle](https://oracle.github.io/python-cx_Oracle/) - cx_Oracle - Python Interface for Oracle Databas
+* [353Solutions](https://www.353.solutions/py2go/index.html) - Python to Go CheatSheet
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
