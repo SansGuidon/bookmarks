@@ -2333,6 +2333,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Manish Goregaokar](https://manishearth.github.io/blog/2017/03/05/understanding-git-filter-branch/) - (2017) Understanding Git Filter-branch and the Git Storage Model
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2015-02-23-git-history.html) - (2015) On Git History – or, “The Case for Merge Commits”
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2012-06-21-linux-git-history.html) - (2012) Linux' Git History is Beautiful
+* [Erlend Hamberg](https://hamberg.no/erlend/posts/2012-11-29-git-bisect-squared.html) - (2012) git bisect to find the first commit that introduced a regression
+* [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-02-11-avoid-committing-your-password.html) - (2013) git tip: avoid committing your password
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -2886,6 +2888,7 @@ Raw
 * [George Bolo](https://linuxctl.com/2017/03/building-tiny-secure-docker-containers/) - (2017) Building Tiny Secure Docker Containers
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 * [Erez Yaary](https://techbeacon.com/how-secure-container-lifecycle) - (2017) How to secure the container lifecycle
+* [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-02-11-avoid-committing-your-password.html) - (2013) git tip: avoid committing your password
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
