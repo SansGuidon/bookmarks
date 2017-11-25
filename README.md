@@ -247,6 +247,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Philippe Bourgau](http://philippe.bourgau.net/from-zero-to-pair-programming-hero/) - (2015) From Zero to Pair Programming Hero
 * [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2010-03-20-code-reading-as-a-team-activity.html) - (2010) Code Reading as a Team Activity
+* [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1377,7 +1378,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Pradipta Kumar Banerjee](http://cloudgeekz.com/625/howto-create-a-docker-image-for-rhel.html) - Howto create a Docker Image for RHEL
 * [Red Hat Customer Portal](https://access.redhat.com/articles/2772861) - Differences between RHEL Server and RHEL Atomic Host
 * [Vivek Gite](https://www.cyberciti.biz/faq/centos-redhat-fedora-yum-lock-package-version-command/) - CentOS / RHEL: Yum Lock Package Version At a Particular Version
-* [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 20 Linux Server Hardening Security Tips
+* [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 40 Linux Server Hardening Security Tips
 * [LewisVo/Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software/) - curated list of awesome applications, softwares, tools and other materials for Linux distros.
 * [Brendan D. Gregg](http://www.brendangregg.com/Perf/linux_observability_tools.png) - [IMG] Linux performance observability tools
 * [Curl Docs](https://curl.haxx.se/docs/comparison-table.html) - Compare curl Features with Other Download Tools
@@ -2074,6 +2075,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html) - (2017) Advice on starting a programming blog
 * [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2010-03-20-code-reading-as-a-team-activity.html) - (2010) Code Reading as a Team Activity
+* [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2854,7 +2856,7 @@ Raw
 * [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
 * [Johannes Gilger](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/) - SSH Agent Forwarding considered harmful
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
-* [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 20 Linux Server Hardening Security Tips
+* [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 40 Linux Server Hardening Security Tips
 * [Passive Aggressive Passwords](http://www.trypap.com/) - [Humor] The Passive Aggressive Password Machine
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
