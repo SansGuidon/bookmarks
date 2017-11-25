@@ -349,6 +349,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Medium](https://medium.com/tag/devops) - DevOps Stories on medium
 * [DevOpsLinks](https://medium.com/devopslinks) - The Must-Read Publication for Aspiring DevOps Professionals
 * [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels' (Amazon' CTO) weblog on building scalable and robust distributed systems.
+* [GoCD Blog](https://www.gocd.org/blog/) - Continuous Delivery techniques, thoughts, learnings
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 * [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] Les Patterns des Grands du Web – DevOps
