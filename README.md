@@ -309,6 +309,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
 * [Khan Academy](https://www.khanacademy.org/) - free online courses, lessons and practice
 * [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
+* [RadioKawa](http://www.radiokawa.com/) - [FR] lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
+* [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] a couple of tasty podcasts for geeks
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -2599,6 +2601,8 @@ Raw
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] podcast for Java programmers 
 * [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
+* [RadioKawa](http://www.radiokawa.com/) - [FR] lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
+* [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] a couple of tasty podcasts for geeks
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
