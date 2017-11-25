@@ -2316,6 +2316,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Fredrik V. Mørken](https://blogg.bekk.no/why-you-should-stop-using-git-rebase-5552bee4fed1) - (2017) Why you should stop using Git rebase
 * [Super User StackExchange](https://superuser.com/questions/988185/how-to-avoid-being-asked-enter-passphrase-for-key-when-im-doing-ssh-operatio) - git : avoid being asked “Enter passphrase for key ” when I'm doing ssh operation on a remote host
 * [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
+* [Logan Johnson](https://medium.com/square-corner-blog/how-square-writes-commit-messages-8e92fcbf77c9) - (2017) How Square writes commit messages | Explain the change.
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
