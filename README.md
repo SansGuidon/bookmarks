@@ -311,6 +311,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
 * [RadioKawa](http://www.radiokawa.com/) - [FR] lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
 * [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] a couple of tasty podcasts for geeks
+* [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1030,6 +1031,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
 * [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you 
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
+* [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1530,6 +1532,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies
 * [Cinesift](https://www.cinesift.com/) - 'Cinesift' Sorts Ratings and Streaming Services to Help Users Pick Films. **Bonus** : [Presentation of Cinesift by Trend Hunter](https://www.trendhunter.com/trends/film-database)
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
+* [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 
 # Music 
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
