@@ -447,6 +447,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [James Wade](https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91) - curated list of Devops Best Practices
 * [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 * [Ask Hacker News](https://news.ycombinator.com/item?id=15737215) - (2017) How do you deal with operational work as a software engineer?
+* [Manisha Sahasrabudhe](https://sdtimes.com/stuck-new-devops-matrix-hell/) - (2017) Are you stuck in the new DevOps matrix from hell? | about complexity of env-app configuration management
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
