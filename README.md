@@ -1322,7 +1322,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [nixCraft](https://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/) - How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?
 * [TuxRadar](http://www.tuxradar.com/content/command-line-tricks-smart-geeks) - Command line tricks for smart geeks
 * [TuxRadar](http://www.tuxradar.com/content/more-linux-tips-every-geek-should-know) - More Linux tips every geek should know
-* [TuxRadar](http://www.tuxradar.com/content/linux-tips-every-geek-should-know) - Linux tips every geek should know
+* :star: [**TuxRadar**](http://www.tuxradar.com/content/linux-tips-every-geek-should-know) - Linux tips every geek should know
 * [Joel Lee](http://www.makeuseof.com/tag/9-lethal-linux-commands-never-run/) - 9 Lethal Linux Commands You Should Never Run
 * [LZone](http://lzone.de/) - Various Cheat Sheets about sysadmin, development, it ops, services management and virtualization
 * [LZone](http://lzone.de/cheat-sheet/GCC) - GCC Cheat Sheet
@@ -2317,6 +2317,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Super User StackExchange](https://superuser.com/questions/988185/how-to-avoid-being-asked-enter-passphrase-for-key-when-im-doing-ssh-operatio) - git : avoid being asked “Enter passphrase for key ” when I'm doing ssh operation on a remote host
 * [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
 * [Logan Johnson](https://medium.com/square-corner-blog/how-square-writes-commit-messages-8e92fcbf77c9) - (2017) How Square writes commit messages | Explain the change.
+* [Manish Goregaokar](https://manishearth.github.io/blog/2017/03/05/understanding-git-filter-branch/) - (2017) Understanding Git Filter-branch and the Git Storage Model
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
