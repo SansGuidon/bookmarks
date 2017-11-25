@@ -75,6 +75,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [Git](#git)
   * [Golang / Go](#golang--go)
   * [Groovy](#groovy)
+  * [Haskell](#haskell)
   * [Java](#java)
     * [Java EE](#java-ee)
   * [JavaScript](#javascript)
@@ -1846,6 +1847,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Benjamin P. Hardy](https://medium.com/personal-growth/this-10-minute-routine-will-increase-your-clarity-and-creativity-c8ee786586cd) - (2017) This 10-Minute Routine Will Increase Your Clarity And Creativity
 * [Jeff Goins](https://medium.com/@jeffgoins/im-not-busy-i-m-just-focused-6b8bd45c8bf2) - (2017) I’m not busy, I’m just focused
 * [Kim Roach](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
+* [Erlend Hamberg](https://hamberg.no/gtd/) - (2012) GTD in 15 minutes – A Easy, Pragmatic Guide to Getting Things Done
+* [Sean Quinn](https://lifehacker.com/5611657/use-a-weekly-review-list-to-stay-a-step-ahead-this-semester) - (2010) Use a Weekly Review List to Stay a Step Ahead This Semester
+
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
@@ -2367,6 +2371,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Groovy](http://groovy-lang.org/learn.html) - learning section of the Groovy website.
 * [Iván López Martín](https://www.slideshare.net/ilopmar/metaprogramming-with-groovy) - (2014) [Slides] Metaprogramming with groovy
 * [Gregory Dickson](https://medium.com/@gregory.d.dickson/why-groovy-is-so-groovy-or-a-beginners-guide-to-hacking-groovy-e0ad6f32c300) - (2017) Why Groovy is so groovy or a beginners guide to hacking Groovy
+
+## Haskell
+* [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
 
 ## Java
 * [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] podcast for Java programmers 
