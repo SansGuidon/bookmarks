@@ -2657,6 +2657,7 @@ Raw
 * [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
 * [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
 * [Tim Wheeler](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/) - AlphaGo Zero - How and Why it Works
+* [Kevin Kelly](https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/) - (2017) The Myth of a Superhuman AI
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
