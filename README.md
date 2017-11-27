@@ -2592,6 +2592,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Anonymous DevOps Confessions](https://totalcloud.io/DevOpsConfessions.html) - regrets and confessions of DevOps felows
 * [CommitStrip](http://www.commitstrip.com/en/2015/01/23/everyday-types-of-coders/) - (2015) [IMG] Everyday types of coders
 * :star: [**The Daily WTF**](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
+* [angrykoala/awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
