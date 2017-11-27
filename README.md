@@ -973,7 +973,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Addic7ed.com](http://www.addic7ed.com/) - free subtitles for tv show and movies
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists 
+* :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists 
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. **Bonus** : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
@@ -1880,7 +1880,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
-* [Sindre Sorhus/awesome](https://github.com/sindresorhus/awesome) - sindresorhus/awesome : Curated list of awesome lists 
+* :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists 
 * [Alexander Bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [Adam Pritchard/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown Cheatsheet
 * [CommonMark](http://commonmark.org/help/) - syntax reference for CommonMark, a rationalized version of Markdown syntax
@@ -2466,7 +2466,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/04/become-a-better-developer-with-an-efficient-technical-watch/) - Become a better developer with an efficient technical watch
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
 * [Dwijadas Dey](https://linoxide.com/linux-how-to/search-tools-developers-linux/) - 6 Tools to Search Source Code for Developers in Linux
-* [Sindre Sorhus/awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
+* :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists 
 * [Gregg Caines](http://caines.ca/blog/2015/06/14/were-in-the-stone-age-of-software-engineering-management/) - We're in the Stone Age of Software Engineering Management
 * [Gregg Caines](http://caines.ca/blog/2011/09/14/yoagile-the-good-parts/) - Agile: The Good Parts
 * [Evan Hahn](https://evanhahn.com/atom-apm-install-list/) - Install a list of Atom packages from a file
