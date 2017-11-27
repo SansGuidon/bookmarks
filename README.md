@@ -167,6 +167,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
 * [Daniel Miessler](https://danielmiessler.com/blog/new-luxury-good-information/) - (2017) The New Luxury of Having Good Information
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/) - (2017) The Truth About Startups
+* [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -289,6 +290,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
 * [Philippe Bourgau](http://philippe.bourgau.net/13-tricks-for-successful-side-projects/) - (2017) 13 Tricks for Successful Side Projects
 * [James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html) - (2017) Advice on starting a programming blog
+* [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -2543,6 +2545,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [James Routley](https://routley.io/tech/2017/11/23/logbook.html) - (2017) Using a logbook to improve your programming
 * [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 * [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
+* [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
