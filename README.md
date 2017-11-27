@@ -321,6 +321,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [RadioKawa](http://www.radiokawa.com/) - [FR] lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
 * [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] a couple of tasty podcasts for geeks
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
+* [RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) - Fantasy literature worth reading
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
