@@ -322,6 +322,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] a couple of tasty podcasts for geeks
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 * [RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) - Fantasy literature worth reading
+* [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
