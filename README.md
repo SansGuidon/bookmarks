@@ -2912,6 +2912,7 @@ Raw
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 * [Erez Yaary](https://techbeacon.com/how-secure-container-lifecycle) - (2017) How to secure the container lifecycle
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-02-11-avoid-committing-your-password.html) - (2013) git tip: avoid committing your password
+* [Aris Adamantiadis](https://blog.0xbadc0de.be/archives/300) - (2016) SSH: Best practices
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
