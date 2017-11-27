@@ -1065,6 +1065,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - curated list of awesome open source intelligence (OSINT) tools and resources. 
 * [DARK MODE LIST](https://www.darkmodelist.com/) - A List of Apps That Support Dark Mode and many other...
+* [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the Internet.
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -1788,6 +1789,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Le Monde.fr](http://www.lemonde.fr/technologies/article/2013/12/16/nsa-un-juge-americain-estime-la-collecte-de-donnees-contraire-a-la-constitution_4335463_651865.html) - [FR] (2013) NSA : un juge américain estime la collecte de données contraire à la Constitution
 * [unv.is](https://unv.is/) - Just put unv.is/ in front of http:// when sharing clickbait articles, unv.is will capture the content of an article or blog post without passing on your visit as a pageview. 
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
+* [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the Internet.
 
 # Productivity
 > Tips
