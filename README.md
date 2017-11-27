@@ -165,6 +165,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
 * [Daniel Miessler](https://danielmiessler.com/blog/new-luxury-good-information/) - (2017) The New Luxury of Having Good Information
+* [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/) - (2017) The Truth About Startups
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1233,6 +1234,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Pierluigi Vernetto](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
 * [John Cutler](https://medium.com/@johnpcutler/company-culture-is-44592c36958c) - (2016) company culture is…
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
+* [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/) - (2017) The Truth About Startups
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
