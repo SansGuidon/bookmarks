@@ -142,6 +142,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
 * [Ben Stopford](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/) - (2016) The Data Dichotomy: Rethinking the Way We Treat Data and Services
+* [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -3050,6 +3051,7 @@ Raw
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
 * [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 * [Connor John Gettel](https://medium.com/@connorgettel/masters-degree-final-major-project-part-2-theoretical-monzo-design-improvements-and-new-concepts-e6c652a1e3e5) - (2017) Master’s Degree Final Major Project: Theoretical Design Improvements and new Concepts — Monzo.
+* [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
