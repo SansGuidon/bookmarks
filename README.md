@@ -1939,12 +1939,14 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 
 # Programming
+> News
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
 * [SlideShare](https://www.slideshare.net/featured/category/software) - featured software related presentations on SlideShare
 * [DZone](https://dzone.com/) - programming & devops news
 * [/r/programming](https://www.reddit.com/r/programming/) - everything about programming on reddit
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
+> Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
 * [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
 * [Hack Reactor](http://www.hackreactor.com/blog/infographic-laurie-voss-things-everyone-knows-except-you) - Infographic of productivity tips for developers, to share with your teammates 
