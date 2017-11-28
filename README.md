@@ -1441,6 +1441,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2012-06-21-linux-git-history.html) - (2012) Linux' Git History is Beautiful
+* [Corey Quinn](https://www.youtube.com/watch?v=zN1u5xZFFR8) - (2016) [Video] Terrible Ideas in Git | Don't try this at home :)
 
 ## Raspberry Pi
 * [Ard Ray](http://blog.mxard.com/persistent-iptables-on-raspberry-pi-raspbian) - Persistent IPtables on Raspberry Pi (Raspbian)
@@ -2365,6 +2366,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2012-06-21-linux-git-history.html) - (2012) Linux' Git History is Beautiful
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2012-11-29-git-bisect-squared.html) - (2012) git bisect to find the first commit that introduced a regression
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-02-11-avoid-committing-your-password.html) - (2013) git tip: avoid committing your password
+* [Corey Quinn](https://www.youtube.com/watch?v=zN1u5xZFFR8) - (2016) [Video] Terrible Ideas in Git | Don't try this at home :)
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -2617,6 +2619,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CommitStrip](http://www.commitstrip.com/en/2015/01/23/everyday-types-of-coders/) - (2015) [IMG] Everyday types of coders
 * :star: [**The Daily WTF**](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
 * [angrykoala/awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
+* [Corey Quinn](https://www.youtube.com/watch?v=zN1u5xZFFR8) - (2016) [Video] Terrible Ideas in Git | Don't try this at home :)
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
