@@ -170,6 +170,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/) - (2017) The Truth About Startups
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 * [Joël Spolsky](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) - (2006) A Field Guide to Developers : what they’re looking for, what they like and dislike in a workplace, and what it’s going to take to be a top choice for top developers.
+* [Joël Spolsky](https://www.joelonsoftware.com/2007/11/16/how-to-demo-software/) - (2007) How to demo software
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2114,6 +2115,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - lists of interview questions. 
 * [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP 
 * [Joël Spolsky](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) - (2006) A Field Guide to Developers : what they’re looking for, what they like and dislike in a workplace, and what it’s going to take to be a top choice for top developers.
+* [Joël Spolsky](https://www.joelonsoftware.com/2007/11/16/how-to-demo-software/) - (2007) How to demo software
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
