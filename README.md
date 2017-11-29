@@ -161,7 +161,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Andy Adams](http://andyadams.org/you-can-charge-more/) - (2014) How to talk yourself into charging more
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
 * [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
-* [Greg Kogan](https://www.gkogan.co/blog/progression/) - (2017) Progression
+* [Greg Kogan](https://www.gkogan.co/blog/progression/) - (2017) Progression | Finding errors in your past decisions and ideas means you’re progressing
 * [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer 
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
 * [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
