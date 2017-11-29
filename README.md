@@ -255,6 +255,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2010-03-20-code-reading-as-a-team-activity.html) - (2010) Code Reading as a Team Activity
 * [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
+* [Joël Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - (2007) Evidence Based Scheduling
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1891,7 +1892,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kim Roach](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
 * [Erlend Hamberg](https://hamberg.no/gtd/) - (2012) GTD in 15 minutes – A Easy, Pragmatic Guide to Getting Things Done
 * [Sean Quinn](https://lifehacker.com/5611657/use-a-weekly-review-list-to-stay-a-step-ahead-this-semester) - (2010) Use a Weekly Review List to Stay a Step Ahead This Semester
-* [Joël Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - (2007) Evidence Based Scheduling
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2580,6 +2580,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan Pollock](http://someonewhocares.org/hosts/) - the host file you need to make the internet not suck (as much)
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - collection of simplified and community-driven man pages.
 * [accatyyc/tldr-man](https://github.com/accatyyc/tldr-man) - A Makefile that creates manpages from all the [tldr-pages/tldr](https://github.com/tldr-pages/tldr).
+* [Joël Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - (2007) Evidence Based Scheduling
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
