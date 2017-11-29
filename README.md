@@ -1059,7 +1059,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you 
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
-* [khinsider](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
+* :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
 * [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 
 ## App discovery
@@ -1596,7 +1596,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [foobar2000](http://mobile.foobar2000.com/) - There exist a mobile version of foobar2000 
 * [Tunefind](https://www.tunefind.com/show/the-walking-dead) - Walking Dead tv show soundtracks online
 * [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
-* [khinsider](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
+* :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
