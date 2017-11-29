@@ -169,6 +169,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Daniel Miessler](https://danielmiessler.com/blog/new-luxury-good-information/) - (2017) The New Luxury of Having Good Information
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/) - (2017) The Truth About Startups
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
+* [Joël Spolsky](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) - (2006) A Field Guide to Developers : what they’re looking for, what they like and dislike in a workplace, and what it’s going to take to be a top choice for top developers.
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
