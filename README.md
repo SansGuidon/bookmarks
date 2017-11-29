@@ -256,6 +256,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
 * [Joël Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - (2007) Evidence Based Scheduling
+* [Joël Spolsky](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - (2001) Human Task Switches Considered Harmful
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2581,6 +2582,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - collection of simplified and community-driven man pages.
 * [accatyyc/tldr-man](https://github.com/accatyyc/tldr-man) - A Makefile that creates manpages from all the [tldr-pages/tldr](https://github.com/tldr-pages/tldr).
 * [Joël Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - (2007) Evidence Based Scheduling
+* [Joël Spolsky](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - (2001) Human Task Switches Considered Harmful
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
