@@ -548,6 +548,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Mohamed El Moussaoui](http://blog.trifork.com/2013/04/18/ansible-simple-module/) - (2013) Ansible - Simple Module | Because that's not so hard to transform shell scripts into modules
 * [pmarkham/writing-ansible-modules-in-bash](https://github.com/pmarkham/writing-ansible-modules-in-bash/blob/master/ansible_bash_modules.md) - Writing Ansible Modules in Bash
 * [fewbits/ansible-laws](https://github.com/fewbits/ansible-laws) - Ansible laws : list of best Practices when using Ansible
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/automating-your-automation-ansible-tower) - (2015) Automating Your Automation with Ansible Tower
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -1434,6 +1435,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 * [CentOS Wiki](https://wiki.centos.org/TipsAndTricks/YumAndRPM) - Yum and RPM Tips and Tricks
 * [CentOS Wiki](https://wiki.centos.org/TipsAndTricks/SshTips/JumpHost) - SSH Tips and Tricks : SSH bastion/jump host
+* [Seco Max](https://dzone.com/articles/most-useful-linux-command-line-tricks) - (2017) Most Useful Linux Command Line Tricks
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
