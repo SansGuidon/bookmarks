@@ -2559,6 +2559,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 * [Dan Pollock](http://someonewhocares.org/hosts/) - the host file you need to make the internet not suck (as much)
+* [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - collection of simplified and community-driven man pages.
+* [accatyyc/tldr-man](https://github.com/accatyyc/tldr-man) - A Makefile that creates manpages from all the [tldr-pages/tldr](https://github.com/tldr-pages/tldr).
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -2642,6 +2644,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Google](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
 * [python-cx_Oracle](https://oracle.github.io/python-cx_Oracle/) - cx_Oracle - Python Interface for Oracle Database
 * [353Solutions](https://www.353.solutions/py2go/index.html) - Python to Go CheatSheet
+* [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
@@ -2816,6 +2819,8 @@ Raw
 * [Alan Franzoni](https://www.franzoni.eu/shell-scripting-when-to-use-the-long-or-the-shor/) - (2017) Shell scripting: short or long format options?
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-01-18-mkcd.html) - (2013) use mkcd (mkdir + cd)
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+* [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - collection of simplified and community-driven man pages.
+* [accatyyc/tldr-man](https://github.com/accatyyc/tldr-man) - A Makefile that creates manpages from all the [tldr-pages/tldr](https://github.com/tldr-pages/tldr).
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
