@@ -1294,6 +1294,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] 
 * [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
 * [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] [Video] Technophobe / what if you could not use technology anymore
+* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
