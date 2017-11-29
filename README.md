@@ -3,7 +3,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 ## Contents
 
 * [Anime](#anime)
-* [Architecture / Design](#architecture--design)
+* [Architecture / Design / Patterns](#architecture--design--patterns)
 * [Art](#art-art)
 * [Business & Economics](#business--economics)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
@@ -109,7 +109,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 # Anime
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
 
-# Architecture / Design
+# Architecture / Design / Patterns
 * [David Alia](http://blog.octo.com/design-for-failure/) - [FR] Les Patterns des Grands du Web – Design for failure
 * [Mathieu Poignant](http://blog.octo.com/zero-downtime-deployment/) - [FR] Les Patterns des Géants du Web – Zero Downtime Deployment
 * [Benoit Lafontaine](http://blog.octo.com/continuous-deployment/) - [FR] Les Patterns des Grands du Web – Continuous Deployment
@@ -143,6 +143,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
 * [Ben Stopford](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/) - (2016) The Data Dichotomy: Rethinking the Way We Treat Data and Services
 * [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
+* [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP 
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -1953,6 +1954,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/programming](https://www.reddit.com/r/programming/) - everything about programming on reddit
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
+
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
 * [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
@@ -2104,6 +2106,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2010-03-20-code-reading-as-a-team-activity.html) - (2010) Code Reading as a Team Activity
 * [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - lists of interview questions. 
+* [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP 
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
