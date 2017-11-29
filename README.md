@@ -2593,6 +2593,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joël Spolsky](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/) - (2005) Making Wrong Code Look Wrong
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/) - (2000) Painless Bug Tracking
 * [Joël Spolsky](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/) - (2009) The Duct Tape Programmer
+* [Joël Spolsky](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) - (2000) Things You Should Never Do, Part I | About rewriting code from scratch
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
