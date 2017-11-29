@@ -326,6 +326,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 * [RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) - Fantasy literature worth reading
 * [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
+* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1056,6 +1057,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 * [khinsider](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
+* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
