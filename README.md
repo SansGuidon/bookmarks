@@ -2212,6 +2212,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Carlos Leon](https://container-solutions.com/tagging-docker-images-the-right-way/) - (2017) Semantic versioning and Tagging Docker images the right way
 * [Alan Franzoni](https://www.franzoni.eu/shell-scripting-when-to-use-the-long-or-the-shor/) - (2017) Shell scripting: short or long format options?
 * [ty-/spec-style-guide](https://github.com/ty-/spec-style-guide) - some best practices for writing markdown based specifications to be printable by gitprint.com and pandoc
+* [Joël Spolsky](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/) - (2005) Making Wrong Code Look Wrong
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
@@ -2585,6 +2586,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joël Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - (2007) Evidence Based Scheduling
 * [Joël Spolsky](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - (2001) Human Task Switches Considered Harmful
 * [Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/44177/what-is-the-single-most-effective-thing-you-did-to-improve-your-programming-skill) - What is the single most effective thing you did to improve your programming skills?
+* [Joël Spolsky](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/) - (2005) Making Wrong Code Look Wrong
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
