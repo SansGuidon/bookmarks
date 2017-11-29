@@ -1965,6 +1965,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [/r/programming](https://www.reddit.com/r/programming/) - everything about programming on reddit
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
+* [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2701,6 +2702,7 @@ Raw
 * [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] a couple of tasty podcasts for geeks
 * [Distorsion Podcast](https://distorsionpodcast.com/) - [FR] Urban legends from our digital world | Des histoires étranges de l'ère numérique 
 * [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - curated list of likeable podcasts
+* [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
