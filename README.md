@@ -1053,6 +1053,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you 
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
+* [khinsider](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
