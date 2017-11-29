@@ -2583,6 +2583,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [accatyyc/tldr-man](https://github.com/accatyyc/tldr-man) - A Makefile that creates manpages from all the [tldr-pages/tldr](https://github.com/tldr-pages/tldr).
 * [Joël Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - (2007) Evidence Based Scheduling
 * [Joël Spolsky](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - (2001) Human Task Switches Considered Harmful
+* [Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/44177/what-is-the-single-most-effective-thing-you-did-to-improve-your-programming-skill) - What is the single most effective thing you did to improve your programming skills?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
