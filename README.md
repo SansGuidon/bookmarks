@@ -1891,6 +1891,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Kim Roach](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
 * [Erlend Hamberg](https://hamberg.no/gtd/) - (2012) GTD in 15 minutes – A Easy, Pragmatic Guide to Getting Things Done
 * [Sean Quinn](https://lifehacker.com/5611657/use-a-weekly-review-list-to-stay-a-step-ahead-this-semester) - (2010) Use a Weekly Review List to Stay a Step Ahead This Semester
+* [Joël Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - (2007) Evidence Based Scheduling
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
