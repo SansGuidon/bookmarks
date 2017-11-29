@@ -254,6 +254,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2010-03-20-code-reading-as-a-team-activity.html) - (2010) Code Reading as a Team Activity
 * [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+* [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1906,6 +1907,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/productivity-for-the-depressed) - Productivity for the Depressed
 * [Socratease](https://www.socratease.in/) - A Joyful, Engaging Way to Learn New Things : black holes, quantum mechanics, bitcoins, ...
+* [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -3102,6 +3104,7 @@ Raw
 * [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 * [Connor John Gettel](https://medium.com/@connorgettel/masters-degree-final-major-project-part-2-theoretical-monzo-design-improvements-and-new-concepts-e6c652a1e3e5) - (2017) Master’s Degree Final Major Project: Theoretical Design Improvements and new Concepts — Monzo.
 * [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
+* [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
