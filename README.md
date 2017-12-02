@@ -72,6 +72,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
   * [ChatOps](#chatops)
   * [Database](#database)
   * [Debugging](#debugging)
+  * [Erlang](#erlang)
   * [Gamedev](#gamedev)
   * [Git](#git)
   * [Golang / Go](#golang--go)
@@ -147,6 +148,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP 
 * [Clément Delafargue](https://www.clever-cloud.com/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/) - (2015) Why Auto Increment Is A Terrible Idea | interesting debate in the comments
 * [Adrian Colyer](https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/) - (2017) Analyzing software requirements errors in safety-critical embedded systems
+* [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -1999,7 +2001,6 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
 
 > Learn
-* [the morning paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
 * [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
 * [Hack Reactor](http://www.hackreactor.com/blog/infographic-laurie-voss-things-everyone-knows-except-you) - Infographic of productivity tips for developers, to share with your teammates 
@@ -2154,6 +2155,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joël Spolsky](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) - (2006) A Field Guide to Developers : what they’re looking for, what they like and dislike in a workplace, and what it’s going to take to be a top choice for top developers.
 * [Joël Spolsky](https://www.joelonsoftware.com/2007/11/16/how-to-demo-software/) - (2007) How to demo software
 * [Adrian Colyer](https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/) - (2017) Analyzing software requirements errors in safety-critical embedded systems
+* [the morning paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
+* [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2286,6 +2289,9 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
 * [Will Thames](http://willthames.github.io/2014/04/28/debugging-ansible-for-fun-and-no-profit.html) - (2014) Debugging Ansible for fun and no profit
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/) - (2000) Painless Bug Tracking
+
+## Erlang
+* [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
 
 ## Gamedev
 > News & Communities
@@ -2475,6 +2481,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Haskell
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
+* [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell 
 
 ## Java
 * [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] podcast for Java programmers 
@@ -2525,6 +2532,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
+* [Alex Ott](http://alexott.net/en/fp/books/#sec12) - books review on Lisp 
 
 ## Machine Learning
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
@@ -2628,6 +2636,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/) - (2000) Painless Bug Tracking
 * [Joël Spolsky](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/) - (2009) The Duct Tape Programmer
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) - (2000) Things You Should Never Do, Part I | About rewriting code from scratch
+* [Alex Ott](http://alexott.net/en/fp/books/) - Functional programming books overview
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -2699,6 +2708,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE. **Bonus** : git repo [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish)
 * [Markus Triska](https://www.metalevel.at/prolog) - [Book] The Power of Prolog. **Bonus** : git repo [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog)
 * [Markus Triska' Home Page](https://www.metalevel.at/) - some interesting prolog resources
+* [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog 
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
