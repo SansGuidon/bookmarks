@@ -2722,6 +2722,7 @@ Raw
 * [Distorsion Podcast](https://distorsionpodcast.com/) - [FR] Urban legends from our digital world | Des histoires étranges de l'ère numérique 
 * [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - curated list of likeable podcasts
 * [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
+* [RTBF - La Première](https://www.rtbf.be/lapremiere/podcast) - [FR] Podcasts de la Première
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
