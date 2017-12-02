@@ -58,3 +58,4 @@
 * Each new user of a new system uncovers a new class of bugs - [Brian W. Kernighan](https://twitter.com/CodeWisdom/status/797146627215605760)
 * Good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun. - [Linux Torvalds](https://twitter.com/eBourgess/status/914557366380711938)
 * Bad programmers worry about the code. Good programmers worry about data structures & their relationships. - [Linux Torvalds](https://twitter.com/RichRogersIoT/status/918989943074062336)
+* Le bonheur, c’est de réaliser sa nature profonde - [Frédéric Lenoir](http://www.sophrologie-chevalier.fr/en-savoir-plus/bonheur-cest-de-realiser-nature-profonde/)
