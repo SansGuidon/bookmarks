@@ -1077,6 +1077,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 * :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
 * [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
+* [bestofyoutube](http://bestofyoutube.com/) - [Videos] The best of youtube
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
