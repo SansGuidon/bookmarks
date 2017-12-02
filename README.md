@@ -2911,6 +2911,7 @@ Raw
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - collection of simplified and community-driven man pages.
 * [accatyyc/tldr-man](https://github.com/accatyyc/tldr-man) - A Makefile that creates manpages from all the [tldr-pages/tldr](https://github.com/tldr-pages/tldr).
 * [Pádraig Brady](http://www.pixelbeat.org/docs/unix-parallel-tools.html) - (2017) Parallel processing with unix tools
+* [Pádraig Brady](http://www.pixelbeat.org/docs/terminal_colours/) - (2008) Terminal colour highlights | usages and tips for colours in terminals
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
