@@ -2773,6 +2773,7 @@ Raw
 * [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - curated list of likeable podcasts
 * [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
 * [RTBF - La Première](https://www.rtbf.be/lapremiere/podcast) - [FR] Podcasts de la Première
+* [You Are Not So Smart](https://youarenotsosmart.com/podcast/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can.
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
@@ -2804,6 +2805,7 @@ Raw
 * [Psychologie-luxeuil](http://www.psy-luxeuil.fr/article-fin-de-vie-les-5-grands-regrets-des-mourants-117710234.html) - [FR] what dying people regret the most in their life / les 5 grands regrets des mourants
 * [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - list of awesome social engineering resources
 * [Jeff Goins](https://medium.com/personal-growth/the-single-most-overlooked-secret-to-influencing-other-people-32433b7ae285) - (2017) The Single Most Overlooked Secret To Influencing Other People
+* [You Are Not So Smart](https://youarenotsosmart.com/category/articles/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can. The central theme of You Are Not So Smart is that you are unaware of how unaware you are.
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -3123,6 +3125,7 @@ Raw
 * [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
 * [Daniel Miessler](https://danielmiessler.com/blog/new-luxury-good-information/) - (2017) The New Luxury of Having Good Information
+* [You Are Not So Smart](https://youarenotsosmart.com/category/articles/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can. The central theme of You Are Not So Smart is that you are unaware of how unaware you are.
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
