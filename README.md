@@ -2545,6 +2545,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 * [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - Machine Learning & Deep Learning Tutorials
 * [soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Machine learning cheat sheet
+* [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - awesome Machine Learning frameworks, libraries and software.
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
