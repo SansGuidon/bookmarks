@@ -823,7 +823,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Maxfield Stewart](https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial) - Tutorial: Building With Jenkins Inside an Ephemeral Docker Container
 * [Jenkins JIRA](https://issues.jenkins-ci.org/issues/?jql=component%20%3D%20pipeline%20) - tickets realted to jenkins pipeline component 
 * [Jenkins Docs](https://jenkins.io/doc/book/architecting-for-scale/) - Architecting for Scale
-* [Justin Young](http://blog.sonatype.com/shift-security-practices-left-new-nexus-plugin-for-jenkins-pipelines-1) - Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
+* [Justin Young](http://blog.sonatype.com/shift-security-practices-left-new-nexus-plugin-for-jenkins-pipelines-1) - (2017) Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
 * [Maksym Grebenets](http://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node) - Jenkins Remote Node on Mac OS X
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2014/05/02/replace-local-cron-with-jenkins/) - Replace Local Cron With Jenkins
 * [Patrick Wolf](https://dzone.com/refcardz/declarative-pipeline-with-jenkins) - Declarative Pipeline With Jenkins
@@ -885,7 +885,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nexus Blog](http://blog.sonatype.com/) - latest news from the makers of Nexus
 * [Michael Prescott](http://blog.sonatype.com/nexus-repository-new-beta-rest-api-for-content) - Nexus Repository: New Beta REST API for Content
 * [Michael Prescott](http://blog.sonatype.com/nexus-repository-manager-3.5) - Nexus Repository Manager 3.5: Yum Proxy Support Now Available
-* [Justin Young](Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines) - Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
+* [Justin Young](http://blog.sonatype.com/shift-security-practices-left-new-nexus-plugin-for-jenkins-pipelines-1) - (2017) Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
 
 ## OpenShift
 * [OpenShift Docs](https://ci.openshift.redhat.com/openshift-docs-master-testing/latest/welcome/index.html) - OpenShift Latest Documentation
