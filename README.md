@@ -1,4 +1,4 @@
-I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world.
+I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world. You can find my on Twitter at [@MorganGeek](https://twitter.com/MorganGeek)
 
 ## Contents
 
