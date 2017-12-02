@@ -1,4 +1,4 @@
-I just want to centralize my findings and bookmarks in a central location, and share them.
+I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world.
 
 ## Contents
 
