@@ -149,6 +149,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Clément Delafargue](https://www.clever-cloud.com/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/) - (2015) Why Auto Increment Is A Terrible Idea | interesting debate in the comments
 * [Adrian Colyer](https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/) - (2017) Analyzing software requirements errors in safety-critical embedded systems
 * [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
+* [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -2158,6 +2159,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [the morning paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
 * [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss | **Bonus** [Website](http://paperswelove.org/) - repository of academic computer science papers and a community who loves reading them.
+* [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2267,6 +2269,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [oravirt/ansible-oracle-modules](https://github.com/oravirt/ansible-oracle-modules) - Oracle modules for Ansible
 * [python-cx_Oracle](https://oracle.github.io/python-cx_Oracle/) - cx_Oracle - Python Interface for Oracle Database
 * [Clément Delafargue](https://www.clever-cloud.com/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/) - (2015) Why Auto Increment Is A Terrible Idea | interesting debate in the comments
+* [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -2540,6 +2543,8 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [TensorFlow Docs](https://www.tensorflow.org/get_started/mnist/mechanics) - TensorFlow Mechanics 101
 * [Amirsina Torfi/TensorFlow-World-Resources](https://github.com/astorfi/TensorFlow-World-Resources) - TensorFlow resources
 * [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+* [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - Machine Learning & Deep Learning Tutorials
+* [soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Machine learning cheat sheet
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
