@@ -2824,6 +2824,7 @@ Raw
 * [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
 * [Tim Wheeler](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/) - AlphaGo Zero - How and Why it Works
 * [Kevin Kelly](https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/) - (2017) The Myth of a Superhuman AI
+* [You Are Not So Smart](https://youarenotsosmart.com/2017/11/20/yanss-115-how-we-transferred-our-biases-into-our-machines-and-what-we-can-do-about-it/) - (2017) [Podcast] How we transferred our biases into our machines and what we can do about it
 
 # Scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
