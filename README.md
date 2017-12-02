@@ -1078,7 +1078,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
 * [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 * [bestofyoutube](http://bestofyoutube.com/) - [Videos] The best of youtube
-* [Koreus](https://www.koreus.com/videos/nouveau/) - [Videos] best funny videos from internet
+* [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] [Videos] best funny videos from internet
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1320,7 +1320,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] [Video] Technophobe / what if you could not use technology anymore
 * [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 * [Message à caractère informatif](https://www.youtube.com/watch?v=8N_gatQ5G1U&list=PL3794CF56F0377496) - [FR] [Videos] funny surreal dubbing of old corporate short movies **Bonus** : [Top 12 best episodes](https://www.youtube.com/watch?v=ozJmcB-mVgw)
-* [Koreus](https://www.koreus.com/videos/nouveau/) - [Videos] best funny videos from internet
+* [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] [Videos] best funny videos from internet
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
