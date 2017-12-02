@@ -146,6 +146,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
 * [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP 
 * [Clément Delafargue](https://www.clever-cloud.com/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/) - (2015) Why Auto Increment Is A Terrible Idea | interesting debate in the comments
+* [Adrian Colyer](https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/) - (2017) Analyzing software requirements errors in safety-critical embedded systems
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -2150,6 +2151,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP 
 * [Joël Spolsky](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) - (2006) A Field Guide to Developers : what they’re looking for, what they like and dislike in a workplace, and what it’s going to take to be a top choice for top developers.
 * [Joël Spolsky](https://www.joelonsoftware.com/2007/11/16/how-to-demo-software/) - (2007) How to demo software
+* [Adrian Colyer](https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/) - (2017) Analyzing software requirements errors in safety-critical embedded systems
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
