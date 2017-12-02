@@ -834,9 +834,12 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Hannah Inman](https://www.cloudbees.com/blog/jenkins-world-speaker-highlight-automated-software-maintenance) - (2017) Jenkins World Speaker Highlight: Automated Software Maintenance | use periodic builds for fast detection of CI/CD failures  
 * [Jenkins Docs](https://jenkins.io/doc/tutorials/) - tutorials showing how to use Jenkins to cover the basics of CI/CD
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Groovy+Hook+Script) - Groovy Hook Scripts
-* [oleg-nenashev/demo-jenkins-config-as-code](https://github.com/oleg-nenashev/demo-jenkins-config-as-code) - Jenkins Configuration-As-Code with Docker and Groovy Hook Scripts
+* [oleg-nenashev/demo-jenkins-config-as-code](https://github.com/oleg-nenashev/demo-jenkins-config-as-code) - Jenkins Configuration-As-Code with Docker and Groovy Hook Scripts. **Bonus** : [Slides in Russian](https://speakerdeck.com/onenashev/moscow-jenkins-meetup-number-3-upravliaiem-konfighuratsiiami-jenkins-groovy-khuki-i-configuration-as-code-plugin-1)
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Ownership+Plugin) - Ownership Plugin. **Bonus** : [GitHub repo](https://github.com/jenkinsci/ownership-plugin)
 * [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin, using YAML syntax. **Note** : check also the [praqma-prototype branch](https://github.com/jenkinsci/configuration-as-code-plugin/tree/praqma-prototype)
+* [Jenkins Developers](https://groups.google.com/forum/#!forum/jenkinsci-dev) - Google group of Jenkins Developers
+* [Praqma/JenkinsAsCodeReference](https://github.com/Praqma/JenkinsAsCodeReference) - reference Jenkins configuration as code as well as JobDSL library. **Bonus** [description of configuration](https://github.com/Praqma/JenkinsAsCodeReference/blob/master/dockerizeit/master/README.md), [jenkins.properties](https://github.com/Praqma/JenkinsAsCodeReference/blob/master/dockerizeit/master/jenkins.properties)
+* [jenkinsci/jep/201](https://github.com/jenkinsci/jep/tree/master/jep/201) - Jenkins Enhancement Proposals : JEP-201: Jenkins Configuration as Code
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
