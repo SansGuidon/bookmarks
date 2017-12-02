@@ -3098,6 +3098,8 @@ Raw
 * [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
 * [James Routley](https://routley.io/tech/2017/07/20/golang-test-fixtures.html) - (2017) Simplify Golang test fixtures with this one weird trick
 * [Nemanja Mijailovic](https://mijailovic.net/2017/07/29/go-fuzz/) - (2017) Going down the rabbit hole with go-fuzz | testing techniques
+* [Principles of Chaos Engineering](http://principlesofchaos.org/) 
+* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources 
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
