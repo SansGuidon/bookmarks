@@ -1463,6 +1463,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [CentOS Wiki](https://wiki.centos.org/TipsAndTricks/YumAndRPM) - Yum and RPM Tips and Tricks
 * [CentOS Wiki](https://wiki.centos.org/TipsAndTricks/SshTips/JumpHost) - SSH Tips and Tricks : SSH bastion/jump host
 * [Seco Max](https://dzone.com/articles/most-useful-linux-command-line-tricks) - (2017) Most Useful Linux Command Line Tricks
+* [Pádraig Brady](http://www.pixelbeat.org/docs/unix-parallel-tools.html) - (2017) Parallel processing with unix tools
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -2909,6 +2910,7 @@ Raw
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - collection of simplified and community-driven man pages.
 * [accatyyc/tldr-man](https://github.com/accatyyc/tldr-man) - A Makefile that creates manpages from all the [tldr-pages/tldr](https://github.com/tldr-pages/tldr).
+* [Pádraig Brady](http://www.pixelbeat.org/docs/unix-parallel-tools.html) - (2017) Parallel processing with unix tools
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
