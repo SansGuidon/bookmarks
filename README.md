@@ -1278,6 +1278,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/) - (2017) The Truth About Startups
 * [Joël Spolsky](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) - (2006) A Field Guide to Developers : what they’re looking for, what they like and dislike in a workplace, and what it’s going to take to be a top choice for top developers.
+* [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ?
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1296,6 +1297,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
 * [Yo Joe!](http://www.yojoe.com/action/) - the internet's premiere archive site about G.I. Joe: A Real American Hero | probably the oldest website I remember to visit in my young age
+* [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ?
 
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
@@ -2811,6 +2813,7 @@ Raw
 * [You Are Not So Smart](https://youarenotsosmart.com/category/articles/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can. The central theme of You Are Not So Smart is that you are unaware of how unaware you are.
 * [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - (2010) Confirmation Bias : Your opinions are the result of years of paying attention to information which confirmed what you believed while ignoring information which challenged your preconceived notions.
 * [David McRaney](https://youarenotsosmart.com/2010/05/19/fanboyism-and-brand-loyalty/) - (2010) Fanboyism and Brand Loyalty
+* [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ?
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
