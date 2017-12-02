@@ -1200,6 +1200,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Korben](https://korben.info/console-jaunie.html) - (2014) [FR] Console jaunie ? Voici comment la traiter pour lui redonner sa couleur d’origine
 * [Pencil and Paper games](http://www.papg.com/) - Because I enjoy good games that don't depend on any modern technology 
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
+* [Coinop](http://www.coinop.org/) - Coinop.org maintains a comprehensive database of coin-operated arcade games.
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
