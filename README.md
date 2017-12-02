@@ -835,6 +835,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Jenkins Docs](https://jenkins.io/doc/tutorials/) - tutorials showing how to use Jenkins to cover the basics of CI/CD
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Groovy+Hook+Script) - Groovy Hook Scripts
 * [oleg-nenashev/demo-jenkins-config-as-code](https://github.com/oleg-nenashev/demo-jenkins-config-as-code) - Jenkins Configuration-As-Code with Docker and Groovy Hook Scripts
+* [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Ownership+Plugin) - Ownership Plugin. **Bonus** : [GitHub repo](https://github.com/jenkinsci/ownership-plugin)
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
