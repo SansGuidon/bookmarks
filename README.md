@@ -1311,6 +1311,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
 * [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] [Video] Technophobe / what if you could not use technology anymore
 * [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
+* [Message à caractère informatif](https://www.youtube.com/watch?v=8N_gatQ5G1U&list=PL3794CF56F0377496) - [FR] [Videos] funny surreal dubbing of old corporate short movies **Bonus** : [Top 12 best episodes](https://www.youtube.com/watch?v=ozJmcB-mVgw)
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -1609,6 +1610,7 @@ I just want to centralize my findings and bookmarks in a central location, and s
 * [Tunefind](https://www.tunefind.com/show/the-walking-dead) - Walking Dead tv show soundtracks online
 * [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
 * :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
+* [Banjo Guy Ollie](https://www.youtube.com/channel/UC5-umfrfqPvDvWCYHJGYtpA) - [Videos] videos of Olivier Longuet (aka Ollie LongZ / BanjoGuyOllie), a youtuber making awesome video game music covers. **Bonus** : his other youtube channel [FR] [Grand Theft Z'Audio](https://www.youtube.com/channel/UCAORviTS6Ua_a0eo4XGDPPg) if you like funny surreal dubbing of games cinematic, mainly inspired by [Message à caractère informatif (https://www.youtube.com/watch?v=ozJmcB-mVgw)
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
