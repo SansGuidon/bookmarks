@@ -94,7 +94,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Psychology](#psychology)
 * [Quotes](QUOTES.md)
 * [Robots](#robots)
-* [Scripting](#scripting)
+* [Shell scripting](#shell-scripting)
   * [Shell aliases](#shell-aliases)
 * [Security / Infosec](#security--infosec)
   * [GPG](#gpg)
@@ -2859,7 +2859,7 @@ Raw
 * [Kevin Kelly](https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/) - (2017) The Myth of a Superhuman AI
 * [You Are Not So Smart](https://youarenotsosmart.com/2017/11/20/yanss-115-how-we-transferred-our-biases-into-our-machines-and-what-we-can-do-about-it/) - (2017) [Podcast] How we transferred our biases into our machines and what we can do about it
 
-# Scripting
+# Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
 * [Hacker Rank](https://www.hackerrank.com/domains/shell) - Linux Shell challenges, funny but nothing fancy
 * [Commandline Challenge](https://cmdchallenge.com/) - Linux Shell challenges
@@ -2881,7 +2881,7 @@ Raw
 * [Aaron Maxwell](http://redsymbol.net/articles/bash-exit-traps/) - How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable
 * [Ray Smith](http://assets.en.oreilly.com/1/event/12/Shell%20Scripting%20Craftsmanship%20Presentation%201.pdf) - [PDF] Shell Scripting Craftsmanship
 * [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - (2008) Common shell script mistakes
-* [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
+* [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - (2014) Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * :star: [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
 * [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
@@ -2956,6 +2956,7 @@ Raw
 * [Pádraig Brady](http://www.pixelbeat.org/docs/terminal_colours/) - (2008) Terminal colour highlights | usages and tips for colours in terminals
 * [Pádraig Brady](http://www.pixelbeat.org/docs/unix_file_replacement.html) - (2010) File replacement on UNIX | some tips for this tricky operation
 * [LinuxCommand.org](http://www.linuxcommand.org/) - An excellent place to learn the command line and Bash shell scripting.
+* [Heiner's SHELLdorado](http://www.shelldorado.com/) - your UNIX shell scripting resource | a shell scripting education site
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
