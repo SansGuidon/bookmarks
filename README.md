@@ -2663,6 +2663,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joël Spolsky](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/) - (2009) The Duct Tape Programmer
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) - (2000) Things You Should Never Do, Part I | About rewriting code from scratch
 * [Alex Ott](http://alexott.net/en/fp/books/) - Functional programming books overview
+* [Pekka Väänänen](http://www.lofibucket.com/articles/dwm_latency.html) - (2017) Desktop compositing latency is real and it annoys me | about input latency on Windows 10 vs Windows 7
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3309,6 +3310,7 @@ Raw
 * [Jason Stewart](https://eggplant.pro/blog/faster-samba-smb-cifs-share-performance/) - Faster Samba (SMB / CIFS) Share Performance
 * [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
 * [coreight](http://coreight.com/content/logiciels-outils-indispensables-windows) - (2014) [FR] 8 logiciels à toujours garder sous la main sur Windows
+* [Pekka Väänänen](http://www.lofibucket.com/articles/dwm_latency.html) - (2017) Desktop compositing latency is real and it annoys me | about input latency on Windows 10 vs Windows 7
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
