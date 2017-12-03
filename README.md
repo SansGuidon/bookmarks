@@ -347,6 +347,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Duolingo](https://www.duolingo.com/) - free tool for learning another language, Duolingo makes it fun, and helps keep you engaged for the long haul.
 * [Open Culture](http://www.openculture.com/freeonlinecourses) - 1,300 Free Online Courses from Top Universities
 * [Academic Earth](http://academicearth.org/) - free access to world-class education; streaming of lectures from many of top universities
+* [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1088,6 +1089,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [bestofyoutube](http://bestofyoutube.com/) - [Videos] The best of youtube
 * [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] [Videos] best funny videos from internet
 * [Wolfram Alpha](https://www.wolframalpha.com/) - ultra-nerdy search engine with advanced features 
+* [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
