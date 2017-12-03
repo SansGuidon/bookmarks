@@ -1191,6 +1191,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 * [What Car?](https://www.whatcar.com/) - New and Used Car Reviews, Car Deals
 * [Duolingo](https://www.duolingo.com/) - free tool for learning another language, Duolingo makes it fun, and helps keep you engaged for the long haul.
+* [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -1898,6 +1899,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan Pollock](http://someonewhocares.org/hosts/) - the host file you need to make the internet not suck (as much)
 * [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
 * [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
+* [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
 
 # Productivity
 > Tips
