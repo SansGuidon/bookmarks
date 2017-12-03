@@ -1348,14 +1348,18 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 
 # Linux / Unix
+> News
 * [/r/linux](https://www.reddit.com/r/linux/) - discussions & news about linux on reddit
 * :star: [**nixCraft**](https://www.cyberciti.biz/) - linux tips, hacks, tutorials and ideas
 * [Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/) - latest information on Red Hat's IT infrastructure products, offerings, and solutions
 * [Opensource.com](https://opensource.com/) - stories about creating, adopting, and sharing open source solutions
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
 * [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
-* [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
 * [Alltop](https://linux.alltop.com/) - Top Linux News aggregated
+* [Tux Machines](http://www.tuxmachines.org/) - a community-driven public service/news site which has been around for over a decade and primarily focuses on GNU/Linux
+
+> Learn
+* [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
 * :star: [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
 * [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary 
 * [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
