@@ -1487,8 +1487,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Pádraig Brady](http://www.pixelbeat.org/docs/unix_file_replacement.html) - (2010) File replacement on UNIX | some tips for this tricky operation
 * [DistroWatch](http://distrowatch.com/) - news and reviews of open source operating systems, with focus on Linux and BSD
 * [Linux From Scratch (LFS)](http://www.linuxfromscratch.org/) - a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
-
-Currently, the Linux From Scratch organization consists of the following subprojects:
+* [Softpanorama](http://www.softpanorama.org/Admin/admin_horror_stories.shtml) - classification of sysadmin horror stories
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -1500,6 +1499,7 @@ Currently, the Linux From Scratch organization consists of the following subproj
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2012-06-21-linux-git-history.html) - (2012) Linux' Git History is Beautiful
 * [Corey Quinn](https://www.youtube.com/watch?v=zN1u5xZFFR8) - (2016) [Video] Terrible Ideas in Git | Don't try this at home :)
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+* [Stephan Zielinski](http://www.stokely.com/lighter.side/sysadm.field.guide.html) - Know Your UNIX System Administrator: A Field Guide
 
 ## Raspberry Pi
 * [Ard Ray](http://blog.mxard.com/persistent-iptables-on-raspberry-pi-raspbian) - Persistent IPtables on Raspberry Pi (Raspbian)
@@ -1749,6 +1749,7 @@ Currently, the Linux From Scratch organization consists of the following subproj
 * [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 * [Ask Hacker News](https://news.ycombinator.com/item?id=15737215) - (2017) How do you deal with operational work as a software engineer?
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* [Softpanorama](http://www.softpanorama.org/Admin/admin_horror_stories.shtml) - classification of sysadmin horror stories
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2747,6 +2748,7 @@ Currently, the Linux From Scratch organization consists of the following subproj
 * [Corey Quinn](https://www.youtube.com/watch?v=zN1u5xZFFR8) - (2016) [Video] Terrible Ideas in Git | Don't try this at home :)
 * [git man page generator](https://git-man-page-generator.lokaltog.net/) - NOT real git documentation! Read carefully, and click the button to generate a new man page.
 * [Unencyclopedia](http://uncyclopedia.wikia.com/wiki/Category:Software_Development) - fake wikipedia articles about software development
+* [Stephan Zielinski](http://www.stokely.com/lighter.side/sysadm.field.guide.html) - Know Your UNIX System Administrator: A Field Guide
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -2956,7 +2958,8 @@ Raw
 * [Pádraig Brady](http://www.pixelbeat.org/docs/terminal_colours/) - (2008) Terminal colour highlights | usages and tips for colours in terminals
 * [Pádraig Brady](http://www.pixelbeat.org/docs/unix_file_replacement.html) - (2010) File replacement on UNIX | some tips for this tricky operation
 * [LinuxCommand.org](http://www.linuxcommand.org/) - An excellent place to learn the command line and Bash shell scripting.
-* [Heiner's SHELLdorado](http://www.shelldorado.com/) - your UNIX shell scripting resource | a shell scripting education site
+* [Heiner's SHELLdorado](http://www.shelldorado.com/) - your UNIX shell scripting resource | a shell scripting education site. **Bonus** : [Commands](http://www.shelldorado.com/scripts/commands.html) + [Links](http://www.shelldorado.com/links/)
+* [SHELLdorado](http://www.shelldorado.com/articles/ignorantsguide.html) - The Ignorant's Guide to Shell Programming
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
