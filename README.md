@@ -1476,6 +1476,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Seco Max](https://dzone.com/articles/most-useful-linux-command-line-tricks) - (2017) Most Useful Linux Command Line Tricks
 * [Pádraig Brady](http://www.pixelbeat.org/docs/unix-parallel-tools.html) - (2017) Parallel processing with unix tools
 * [Pádraig Brady](http://www.pixelbeat.org/docs/unix_file_replacement.html) - (2010) File replacement on UNIX | some tips for this tricky operation
+* [DistroWatch](http://distrowatch.com/) - news and reviews of open source operating systems, with focus on Linux and BSD
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
