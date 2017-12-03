@@ -1106,6 +1106,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the Internet.
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+* [SourceForge](https://sourceforge.net/) - offers a huge choice of excellent, FREE software in virtually every field of computing
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
