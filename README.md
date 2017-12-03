@@ -2463,6 +2463,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2012-11-29-git-bisect-squared.html) - (2012) git bisect to find the first commit that introduced a regression
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-02-11-avoid-committing-your-password.html) - (2013) git tip: avoid committing your password
 * [Corey Quinn](https://www.youtube.com/watch?v=zN1u5xZFFR8) - (2016) [Video] Terrible Ideas in Git | Don't try this at home :)
+* [git man page generator](https://git-man-page-generator.lokaltog.net/) - NOT real git documentation! Read carefully, and click the button to generate a new man page.
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -2734,6 +2735,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**The Daily WTF**](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
 * [angrykoala/awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 * [Corey Quinn](https://www.youtube.com/watch?v=zN1u5xZFFR8) - (2016) [Video] Terrible Ideas in Git | Don't try this at home :)
+* [git man page generator](https://git-man-page-generator.lokaltog.net/) - NOT real git documentation! Read carefully, and click the button to generate a new man page.
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
