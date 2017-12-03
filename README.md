@@ -1625,6 +1625,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 * [Short of the Week](https://www.shortoftheweek.com/) - Watch the best short films online
 * [MorganGeek](http://morgangeek.be//minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
+* [Vimeo](https://vimeo.com/) - The high-quality home for video hosting and watching in HD with no ads, used by a vast number of indie filmmakers. The place to find refreshing, art-house movies to stream on demand.
 
 # Music 
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
