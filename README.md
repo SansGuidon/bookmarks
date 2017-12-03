@@ -1488,6 +1488,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DistroWatch](http://distrowatch.com/) - news and reviews of open source operating systems, with focus on Linux and BSD
 * [Linux From Scratch (LFS)](http://www.linuxfromscratch.org/) - a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
 * [Softpanorama](http://www.softpanorama.org/Admin/admin_horror_stories.shtml) - classification of sysadmin horror stories
+* [Howtoforge](http://www.howtoforge.com/howtos) - Linux tutorials by tag : Excellent tutorials on many different subjects.
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
