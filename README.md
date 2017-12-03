@@ -2960,6 +2960,7 @@ Raw
 * [LinuxCommand.org](http://www.linuxcommand.org/) - An excellent place to learn the command line and Bash shell scripting.
 * [Heiner's SHELLdorado](http://www.shelldorado.com/) - your UNIX shell scripting resource | a shell scripting education site. **Bonus** : [Commands](http://www.shelldorado.com/scripts/commands.html) + [Links](http://www.shelldorado.com/links/)
 * [SHELLdorado](http://www.shelldorado.com/articles/ignorantsguide.html) - The Ignorant's Guide to Shell Programming
+* [GNU](https://www.gnu.org/software/bash/manual/bash.html) - Bash Reference Manual
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
