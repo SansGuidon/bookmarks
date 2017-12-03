@@ -266,6 +266,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joël Spolsky](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - (2001) Human Task Switches Considered Harmful
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/) - (2000) Painless Bug Tracking
 * [David McRaney](https://youarenotsosmart.com/2010/05/19/fanboyism-and-brand-loyalty/) - (2010) Fanboyism and Brand Loyalty
+* [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1823,6 +1824,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Preparedness Community](http://topprepperwebsites.com/) - Top Prepper Sites
 * [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos) - Primitive Technology youtube channel :  Making primitive huts and tools from scratch using only natural materials in the wild 
 * [/r/PrimitiveTechnology](https://www.reddit.com/r/PrimitiveTechnology/) - discussions about primitive technology subject and official youtube channel
+* [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
 
 # Privacy
 * [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
@@ -1958,6 +1960,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Socratease](https://www.socratease.in/) - A Joyful, Engaging Way to Learn New Things : black holes, quantum mechanics, bitcoins, ...
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
 * [David McRaney](https://youarenotsosmart.com/2010/10/27/procrastination/) - (2010) Procrastination
+* [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
