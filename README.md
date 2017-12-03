@@ -1330,6 +1330,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 * [Message à caractère informatif](https://www.youtube.com/watch?v=8N_gatQ5G1U&list=PL3794CF56F0377496) - [FR] [Videos] funny surreal dubbing of old corporate short movies **Bonus** : [Top 12 best episodes](https://www.youtube.com/watch?v=ozJmcB-mVgw)
 * [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] [Videos] best funny videos from internet
+* [The Onion](https://www.theonion.com/) - America's Finest News Source | A farcical newspaper featuring world, national and community news.
+* [The Daily Mash](http://www.thedailymash.co.uk/) British satire site offering funny stories on news, politics and sport, an agony aunt column and polls.
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
