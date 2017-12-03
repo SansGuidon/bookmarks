@@ -2950,6 +2950,7 @@ Raw
 * [Pádraig Brady](http://www.pixelbeat.org/docs/unix-parallel-tools.html) - (2017) Parallel processing with unix tools
 * [Pádraig Brady](http://www.pixelbeat.org/docs/terminal_colours/) - (2008) Terminal colour highlights | usages and tips for colours in terminals
 * [Pádraig Brady](http://www.pixelbeat.org/docs/unix_file_replacement.html) - (2010) File replacement on UNIX | some tips for this tricky operation
+* [LinuxCommand.org](http://www.linuxcommand.org/) - An excellent place to learn the command line and Bash shell scripting.
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
