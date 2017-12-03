@@ -2265,7 +2265,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style. **Bonus** : [Thoughtbot's playbook](https://thoughtbot.com/playbook) - explaining how they build products and run their company
 * :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
 * [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
-* [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices
+* [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices for people doing Unix shell scripting or system administration
 * [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
 * [Chris Wellons](http://nullprogram.com/blog/2017/03/30/) - (2017) How to Write Portable C Without Complicating Your Build
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -2936,7 +2936,7 @@ Raw
 * [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashFAQ) - BASH Frequently Asked Questions
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide) - BASH Guide
-* [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices
+* [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices for people doing Unix shell scripting or system administration
 * [Ian Miell](https://github.com/ianmiell/learn-bash-the-hard-way/blob/master/learnbashthehardway.pdf) - [PDF] Learn Bash The Hard Way
 * [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 * [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
@@ -2961,6 +2961,7 @@ Raw
 * [Heiner's SHELLdorado](http://www.shelldorado.com/) - your UNIX shell scripting resource | a shell scripting education site. **Bonus** : [Commands](http://www.shelldorado.com/scripts/commands.html) + [Links](http://www.shelldorado.com/links/)
 * [SHELLdorado](http://www.shelldorado.com/articles/ignorantsguide.html) - The Ignorant's Guide to Shell Programming
 * [GNU](https://www.gnu.org/software/bash/manual/bash.html) - Bash Reference Manual
+* [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/nonportable) - portable vs non portable BASH specific syntax
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
