@@ -1333,6 +1333,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Onion](https://www.theonion.com/) - America's Finest News Source | A farcical newspaper featuring world, national and community news.
 * [The Daily Mash](http://www.thedailymash.co.uk/) British satire site offering funny stories on news, politics and sport, an agony aunt column and polls.
 * [what if?](https://what-if.xkcd.com/) - Serious scientific answers to absurd hypothetical questions
+* [The Best Page in the Universe](http://maddox.xmission.com/) - personal satirical humor website created by George Ouzounian, better known as Maddox
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
