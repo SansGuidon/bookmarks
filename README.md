@@ -1490,6 +1490,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Softpanorama](http://www.softpanorama.org/Admin/admin_horror_stories.shtml) - classification of sysadmin horror stories
 * [Howtoforge](http://www.howtoforge.com/howtos) - Linux tutorials by tag : Excellent tutorials on many different subjects.
 * [Steven J. Vaughan-Nichols ](http://www.zdnet.com/article/linus-linux-torvalds-gives-security-developers-guidance/) - Linus 'Linux' Torvalds gives security developers guidance
+* [Jack Wallen](https://www.linux.com/learn/intro-to-linux/2017/12/how-manage-users-groups-linux) - (2017) How to Manage Users with Groups in Linux
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
