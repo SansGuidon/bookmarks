@@ -1679,6 +1679,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Le blog d'un odieux connard](https://unodieuxconnard.com/) - [FR] caustic news / news satire 
 * [the morning paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
 * [OSNews](http://www.osnews.com/) - explore the future of computing and about technology, OS, hardware, development, and other cool news
+* [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
 
 # Operations / IT OPS
 * [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
@@ -1879,6 +1880,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the Internet.
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 * [Dan Pollock](http://someonewhocares.org/hosts/) - the host file you need to make the internet not suck (as much)
+* [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
 
 # Productivity
 > Tips
