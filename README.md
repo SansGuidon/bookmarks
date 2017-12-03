@@ -1332,6 +1332,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] [Videos] best funny videos from internet
 * [The Onion](https://www.theonion.com/) - America's Finest News Source | A farcical newspaper featuring world, national and community news.
 * [The Daily Mash](http://www.thedailymash.co.uk/) British satire site offering funny stories on news, politics and sport, an agony aunt column and polls.
+* [what if?](https://what-if.xkcd.com/) - Serious scientific answers to absurd hypothetical questions
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
