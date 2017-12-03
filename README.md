@@ -308,7 +308,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Philippe Bourgau](http://philippe.bourgau.net/13-tricks-for-successful-side-projects/) - (2017) 13 Tricks for Successful Side Projects
 * [James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html) - (2017) Advice on starting a programming blog
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
-* [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - (2010) Confirmation Bias : Your opinions are the result of years of paying attention to information which confirmed what you believed while ignoring information which challenged your preconceived notions.
+* [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - (2010) Confirmation Bias
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -2818,7 +2818,7 @@ Raw
 * [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - list of awesome social engineering resources
 * [Jeff Goins](https://medium.com/personal-growth/the-single-most-overlooked-secret-to-influencing-other-people-32433b7ae285) - (2017) The Single Most Overlooked Secret To Influencing Other People
 * [You Are Not So Smart](https://youarenotsosmart.com/category/articles/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can. The central theme of You Are Not So Smart is that you are unaware of how unaware you are.
-* [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - (2010) Confirmation Bias : Your opinions are the result of years of paying attention to information which confirmed what you believed while ignoring information which challenged your preconceived notions.
+* [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - (2010) Confirmation Bias
 * [David McRaney](https://youarenotsosmart.com/2010/05/19/fanboyism-and-brand-loyalty/) - (2010) Fanboyism and Brand Loyalty
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ?
 
