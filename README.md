@@ -1486,6 +1486,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Pádraig Brady](http://www.pixelbeat.org/docs/unix-parallel-tools.html) - (2017) Parallel processing with unix tools
 * [Pádraig Brady](http://www.pixelbeat.org/docs/unix_file_replacement.html) - (2010) File replacement on UNIX | some tips for this tricky operation
 * [DistroWatch](http://distrowatch.com/) - news and reviews of open source operating systems, with focus on Linux and BSD
+* [Linux From Scratch (LFS)](http://www.linuxfromscratch.org/) - a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
+
+Currently, the Linux From Scratch organization consists of the following subprojects:
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
