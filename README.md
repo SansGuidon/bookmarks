@@ -1187,6 +1187,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you 
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 * [What Car?](https://www.whatcar.com/) - New and Used Car Reviews, Car Deals
+* [Duolingo](https://www.duolingo.com/) - free tool for learning another language, Duolingo makes it fun, and helps keep you engaged for the long haul.
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
