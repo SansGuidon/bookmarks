@@ -2736,6 +2736,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [angrykoala/awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 * [Corey Quinn](https://www.youtube.com/watch?v=zN1u5xZFFR8) - (2016) [Video] Terrible Ideas in Git | Don't try this at home :)
 * [git man page generator](https://git-man-page-generator.lokaltog.net/) - NOT real git documentation! Read carefully, and click the button to generate a new man page.
+* [Unencyclopedia](http://uncyclopedia.wikia.com/wiki/Category:Software_Development) - fake wikipedia articles about software development
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
