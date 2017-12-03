@@ -1084,6 +1084,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 * [bestofyoutube](http://bestofyoutube.com/) - [Videos] The best of youtube
 * [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] [Videos] best funny videos from internet
+* [Wolfram Alpha](https://www.wolframalpha.com/) - ultra-nerdy search engine with advanced features 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
