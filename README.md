@@ -179,6 +179,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joël Spolsky](https://www.joelonsoftware.com/2007/11/16/how-to-demo-software/) - (2007) How to demo software
 * [David McRaney](https://youarenotsosmart.com/2010/05/19/fanboyism-and-brand-loyalty/) - (2010) Fanboyism and Brand Loyalty
 * [Andrew Orlowski](http://www.osnews.com/story/30106/_Break_up_Google_and_Facebook_if_you_ever_want_innovation_) - (2017) Break up Google and Facebook if you ever want innovation again | Jonathan Taplin against the tech giants
+* [Google Finance](https://www.google.com/finance) - brings together stories from the many of the best financial news sites + all the market and portfolio data
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
