@@ -112,10 +112,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
 
 # Architecture / Design / Patterns
-* [David Alia](http://blog.octo.com/design-for-failure/) - [FR] Les Patterns des Grands du Web – Design for failure
-* [Mathieu Poignant](http://blog.octo.com/zero-downtime-deployment/) - [FR] Les Patterns des Géants du Web – Zero Downtime Deployment
-* [Benoit Lafontaine](http://blog.octo.com/continuous-deployment/) - [FR] Les Patterns des Grands du Web – Continuous Deployment
-* [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] Les Patterns des Grands du Web – DevOps
+* [David Alia](http://blog.octo.com/design-for-failure/) - [FR] :fr: Les Patterns des Grands du Web – Design for failure
+* [Mathieu Poignant](http://blog.octo.com/zero-downtime-deployment/) - [FR] :fr: Les Patterns des Géants du Web – Zero Downtime Deployment
+* [Benoit Lafontaine](http://blog.octo.com/continuous-deployment/) - [FR] :fr: Les Patterns des Grands du Web – Continuous Deployment
+* [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] :fr: Les Patterns des Grands du Web – DevOps
 * [Don MacAskill](https://don.blogs.smugmug.com/2011/04/24/how-smugmug-survived-the-amazonpocalypse/) - How SmugMug survived the Amazonpocalypse
 * [Krishnan Subramanian](https://www.cloudave.com/11973/designing-for-failure-some-key-facts/) - Designing For Failure: Some Key Facts
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
@@ -158,9 +158,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 # Business & Economics
 * [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
-* [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] Les confessions d’un mineur de bitcoin
+* [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
 * [SEO'Brien](https://seobrien.com/startups-work-silicon-valley) - Why Do Startups Work in Silicon Valley?
-* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] Competitivity 
+* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] :fr: Competitivity 
 * [Crypto Lite](http://cryptolite.net/) - A quick way to check the top-100 cryptocurrencies price
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Sacha Greif](https://medium.com/@sachagreif/the-spiderweb-strategy-12ebd2f35595) - (2014) The Spiderweb Strategy : Why it’s OK if some of your projects don’t make money
@@ -180,7 +180,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [David McRaney](https://youarenotsosmart.com/2010/05/19/fanboyism-and-brand-loyalty/) - (2010) Fanboyism and Brand Loyalty
 * [Andrew Orlowski](http://www.osnews.com/story/30106/_Break_up_Google_and_Facebook_if_you_ever_want_innovation_) - (2017) Break up Google and Facebook if you ever want innovation again | Jonathan Taplin against the tech giants
 * [Google Finance](https://www.google.com/finance) - brings together stories from the many of the best financial news sites + all the market and portfolio data
-* [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
+* [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -214,7 +214,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Select International](http://www.selectinternational.com/safety-blog/bid/189940/There-is-No-Shortcut-to-Safety) - There is No Shortcut to Safety
 * [Rajesh Setty](http://rajeshsetty.com/2010/05/03/why-many-smart-people-take-shortcuts-and-how-you-can-avoid-that-trap/) - Why MANY smart people take shortcuts and how you can avoid that trap
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - 7 Shortcuts You Will Regret Taking in Life
-* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR][IMG] Arguments réthoriques fallacieux 
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux 
 * [Jessica Kerr](https://blog.codeship.com/growing-tech-stack-say-no/) - Growing Your Tech Stack: When to Say No
 * [Chris Parnin](http://blog.ninlabs.com/2013/01/programmer-interrupted/) - Programmer Interrupted
 * [Daniel Miessler](https://danielmiessler.com/blog/how-to-build-a-strong-argument/) - How to Build a Strong Argument
@@ -223,7 +223,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sam Knuth](https://opensource.com/open-organization/17/9/exercise-in-transparent-decisions) - A 3-step process for making more transparent decisions
 * [Lauri Apple](https://opensource.com/open-organization/17/10/readme-maturity-model) - Your step-by-step guide to more effective documentation
 * [Chastity Blackwell](https://opensource.com/article/17/10/7-deadly-sins-documentation) - 7 deadly sins of documentation
-* [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
+* [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] :fr: Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2015/09/01/if-something-is-hard-do-it-more-often/) - If Something Is Hard, Do It More Often
 * [John D. Cook](https://www.johndcook.com/blog/2009/04/22/being-indispensable/) - (2009) Do you really want to be indispensable?
 * [Tobias Fors](https://twitter.com/tofo/status/512666251055742977/photo/1) - (2014) [IMG] The project paradox: making the biggest decisions when knowledge is at it's absolute lowest.
@@ -285,7 +285,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [/r/GoogleCardboard](https://www.reddit.com/r/GoogleCardboard/) - Google Cardboard VR subreddit 
 * [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
 * :star: [**Daniel Miessler**](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
-* [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
+* [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] :fr: [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
 * [The Next Web](https://twitter.com/Shaun_Springer/status/498529232545669121/photo/1) - (2014) [IMG] It's not about being first to market, it's about being the best. / It's Never Too Late / Just do it better.
 * [John D. Cook](https://www.johndcook.com/blog/2009/12/16/good-work-with-bad-tools/) - Doing good work with bad tools
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
@@ -296,7 +296,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
-* [Lionel Dricot](http://ploum.net/votre-idee-ne-vaut-rien/) - [FR] Votre idée ne vaut rien
+* [Lionel Dricot](http://ploum.net/votre-idee-ne-vaut-rien/) - [FR] :fr: Votre idée ne vaut rien
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Wikipedia](https://en.wikipedia.org/wiki/Oblique_Strategies) - Oblique Strategies
 * [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
@@ -317,7 +317,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 # Culture
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
-* [SC (SensCritique)](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
+* [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
 * [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
 * [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
@@ -340,17 +340,17 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
 * [Khan Academy](https://www.khanacademy.org/) - free online courses, lessons and practice
 * :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
-* [RadioKawa](http://www.radiokawa.com/) - [FR] lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
-* [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] a couple of tasty podcasts for geeks
+* [RadioKawa](http://www.radiokawa.com/) - [FR] :fr: lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
+* [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] :fr: a couple of tasty podcasts for geeks
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 * [RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) - Fantasy literature worth reading
 * [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
-* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
+* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] :fr: [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 * [Duolingo](https://www.duolingo.com/) - free tool for learning another language, Duolingo makes it fun, and helps keep you engaged for the long haul.
 * [Open Culture](http://www.openculture.com/freeonlinecourses) - 1,300 Free Online Courses from Top Universities
 * [Academic Earth](http://academicearth.org/) - free access to world-class education; streaming of lectures from many of top universities
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
-* [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
+* [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -384,7 +384,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [GoCD Blog](https://www.gocd.org/blog/) - Continuous Delivery techniques, thoughts, learnings
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
-* [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] Les Patterns des Grands du Web – DevOps
+* [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] :fr: Les Patterns des Grands du Web – DevOps
 * [Martin Rusev](https://www.amon.cx/blog/how-i-replaced-ssh/) - How I Replaced SSH with ZeroMQ and Salt
 * [Martin Rusev](https://www.amon.cx/blog/saltstack-review/) - SaltStack - Review and how it fares against Ansible and Puppet?
 * [Josh Dreyfuss](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/) - Deployment Management Tools: Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric
@@ -531,7 +531,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
 * [Michel Blanc](https://leucos.github.io/articles/ansible-contract-inventory/) - Making dynamic inventory usable with Ansible and Digital Ocean
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/01/20/ansible-vs-puppet-hands-on-with-ansible/) - Ansible vs Puppet – Hands-On with Ansible
-* [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - [FR] DevOps avec Ansible et Docker
+* [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - [FR] :fr: DevOps avec Ansible et Docker
 * [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code 
 * [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
 * [Corban Raun](https://blog.serverdensity.com/what-ive-learnt-from-using-ansible-exclusively-for-2-years/) - Lessons from using Ansible exclusively for 2 years.
@@ -580,7 +580,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_vault.html#what-can-be-encrypted-with-vault) - Ansible Vault Documentation
 * [Michael DeHaan](https://www.ansible.com/blog/2014/02/19/ansible-vault) - Introducing Ansible Vault : keeping encrypted data in Playbooks
-* [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - [FR] Ansible Vault : Automatiser le chiffrement avec Git
+* [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - [FR] :fr: Ansible Vault : Automatiser le chiffrement avec Git
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/07/24/managing-secrets-with-ansible-vault-the-missing-guide-part-1-of-2/) - Managing Secrets with Ansible Vault – The Missing Guide (Part 1 of 2)
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/07/24/managing-secrets-with-ansible-vault-the-missing-guide-part-2-of-2/) - Managing Secrets with Ansible Vault – The Missing Guide (Part 2 of 2)
 * [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - Using git diff with Ansible Vault encrypted files
@@ -658,7 +658,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nitin Agarwal](https://medium.com/@nagarwal/docker-usecases-3b62f4d68bc4) - Docker Usecases
 * [Nitin Agarwal](https://medium.com/@nagarwal/best-practices-for-working-with-dockerfiles-fb2d22b78186) - Best Practices for working with Dockerfiles
 * [Gianluca Borello](https://sysdig.com/blog/container-isolation-gone-wrong/) - Container isolation gone wrong
-* [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - [FR] DevOps avec Ansible et Docker
+* [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - [FR] :fr: DevOps avec Ansible et Docker
 * [Thomas Graf](https://www.slideshare.net/ThomasGraf5/dockercon-2017-cilium-network-and-application-security-with-bpf-and-xdp) - DockerCon 2017 - Cilium - Network and Application Security with BPF and XDP
 * [Brendan D. Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-05-15/container-performance-analysis-dockercon-2017.html) - [Video] Container Performance Analysis at DockerCon 2017 + [Slides](https://www.slideshare.net/brendangregg/container-performance-analysis)
@@ -851,7 +851,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Hannah Inman](https://www.cloudbees.com/blog/jenkins-world-speaker-highlight-automated-software-maintenance) - (2017) Jenkins World Speaker Highlight: Automated Software Maintenance | use periodic builds for fast detection of CI/CD failures  
 * [Jenkins Docs](https://jenkins.io/doc/tutorials/) - tutorials showing how to use Jenkins to cover the basics of CI/CD
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Groovy+Hook+Script) - Groovy Hook Scripts
-* [oleg-nenashev/demo-jenkins-config-as-code](https://github.com/oleg-nenashev/demo-jenkins-config-as-code) - Jenkins Configuration-As-Code with Docker and Groovy Hook Scripts. **Bonus** : [Slides in Russian](https://speakerdeck.com/onenashev/moscow-jenkins-meetup-number-3-upravliaiem-konfighuratsiiami-jenkins-groovy-khuki-i-configuration-as-code-plugin-1)
+* [oleg-nenashev/demo-jenkins-config-as-code](https://github.com/oleg-nenashev/demo-jenkins-config-as-code) - Jenkins Configuration-As-Code with Docker and Groovy Hook Scripts. **Bonus** : [RU] :ru: (https://speakerdeck.com/onenashev/moscow-jenkins-meetup-number-3-upravliaiem-konfighuratsiiami-jenkins-groovy-khuki-i-configuration-as-code-plugin-1)
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Ownership+Plugin) - Ownership Plugin. **Bonus** : [GitHub repo](https://github.com/jenkinsci/ownership-plugin)
 * [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin, using YAML syntax. **Note** : check also the [praqma-prototype branch](https://github.com/jenkinsci/configuration-as-code-plugin/tree/praqma-prototype)
 * [Jenkins Developers](https://groups.google.com/forum/#!forum/jenkinsci-dev) - Google group of Jenkins Developers
@@ -921,7 +921,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [OpenShift Docs](https://docs.openshift.com/enterprise/3.0/dev_guide/new_app.html) - Creating New Applications
 * [OpenShift](https://www.openshift.com/container-platform/resources.html) - Learning Resources (webinars, datasheets, whitepapers, infographic, tools, videos...)
 * [OpenShift](https://blog.openshift.com/openshift-v3-deep-dive-docker-kubernetes/) - OpenShift V3 Deep Dive Tutorial | The Next Generation of PaaS
-* [OCTO Talks](http://blog.octo.com/openshift-3-le-paas-prive-avec-docker/) - [FR] OpenShift 3 : le PaaS privé avec Docker
+* [OCTO Talks](http://blog.octo.com/openshift-3-le-paas-prive-avec-docker/) - [FR] :fr: OpenShift 3 : le PaaS privé avec Docker
 * [Ansible Docs](https://docs.ansible.com/ansible-container/openshift/minishift.html) - Minishift role for Ansible
 * [Michael Hausenblas](http://kubernetesbyexample.com/) - Kubernetes By Example
 * [mhausenblas/openshift-cheat-sheet](https://github.com/mhausenblas/openshift-cheat-sheet) - Cheat sheet for OpenShift
@@ -1020,7 +1020,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. **Bonus** : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
 * [ThePirateBay Proxy List](https://thepiratebay-proxylist.org/)
-* [NextWarez](http://nextwarez.com/torrent/actu-torrent/) - [FR] news and ranking about download sites and downloaded contents
+* [NextWarez](http://nextwarez.com/torrent/actu-torrent/) - [FR] :fr: news and ranking about download sites and downloaded contents
 * [Kooba](http://koob.jake.run/) - an interactive graph for finding new books 
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
 * [The Load Guru](http://theloadguru.com/how-to-get-started-with-xdcc/) - How To Get Started With XDCC
@@ -1029,14 +1029,14 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [SunXDCC](http://sunxdcc.com/#search) - a XDCC indexer
 * [TorrentFreak](https://torrentfreak.com/) - file sharing, privacy & copyright news
 * [Opentrackers](https://opentrackers.org/) - private torrent trackers & file sharing
-* [Torrent Franais](http://www.xn--torrentfranais-qjb.fr/) - [FR] file sharing & torrent news
+* [Torrent Franais](http://www.xn--torrentfranais-qjb.fr/) - [FR] :fr: file sharing & torrent news
 * Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
 * [MorganGeek](https://gist.github.com/MorganGeek/aa1f21c3b87e90a2cde567a73209ef13) - download sites compared using some searches
 * [The Pirate Bay](https://thepiratebay.org/) - yet one of the best place to find good torrents. **Bonus** : [Pirate Bay Proxies sites](https://proxybay.one/)
 * [iDope](https://idope.se/) - torrent indexer / tribute to kickass 
-* [Extreme Download](https://www.extreme-down.one/home.html) - [FR] a good place to find direct download links for various content
-* [Zone Telechargement](https://www.zone-telechargement.ws/) - [FR] an alternative place to find direct download links
-* [Torrent9](http://www.torrent9.cc/) - [FR] Torrent9 because T411 ~~starts to suck~~ is out of business
+* [Extreme Download](https://www.extreme-down.one/home.html) - [FR] :fr: a good place to find direct download links for various content
+* [Zone Telechargement](https://www.zone-telechargement.ws/) - [FR] :fr: an alternative place to find direct download links
+* [Torrent9](http://www.torrent9.cc/) - [FR] :fr: Torrent9 because T411 ~~starts to suck~~ is out of business
 * [torrents.me](https://torrents.me/) - good torrent indexer (lot of content), but results quality may depend on your criteria
 * [TorrentProject](https://torrentproject.se/) - torrent indexer with lot of content
 * [TwoDDL](https://2ddl.unblocked.srl/) - a place for direct download links, but not the best
@@ -1066,7 +1066,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
 * [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
 * [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips 
-* [TopAchat](https://www.topachat.com/configomatic/index.php) - [FR] Config'O'Matic helps you to get the right components to assemble your dream computer, this is how I built mine in 2014
+* [TopAchat](https://www.topachat.com/configomatic/index.php) - [FR] :fr: Config'O'Matic helps you to get the right components to assemble your dream computer, this is how I built mine in 2014
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
 * [dupeGuru](https://www.hardcoded.net/dupeguru/) - is a tool to find duplicate files on your computer.
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) - +27 million content in biomedical literature from MEDLINE, life science journals, and online books.
@@ -1088,9 +1088,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
 * :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
-* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
+* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] :fr: [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 * [bestofyoutube](http://bestofyoutube.com/) - [Videos] The best of youtube
-* [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] [Videos] best funny videos from internet
+* [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] :fr: [Videos] best funny videos from internet
 * [Wolfram Alpha](https://www.wolframalpha.com/) - ultra-nerdy search engine with advanced features 
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 
@@ -1165,13 +1165,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Open Port Check Tool](https://www.yougetsignal.com/tools/open-ports/) - Port forwarding tester - open port finder
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 * [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
-* [Cactus2000](http://www.cactus2000.de/fr/unit/masswas.shtml) - [FR] Convertisseur de dureté de l'eau
+* [Cactus2000](http://www.cactus2000.de/fr/unit/masswas.shtml) - [FR] :fr: Convertisseur de dureté de l'eau
 * [Cactus2000](http://www.cactus2000.de/uk/unit/masswas.shtml) - Converter for hardness of water
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
 * [Random.org](https://www.random.org/) - true random number service, but not only
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
-* [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
+* [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] :fr: resiliate your affiliation to all kinds of products and services
 * [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
 * [Fuelly](http://www.fuelly.com/) - Track, Share, and Compare your Vehicle / Understanding your fuel consumption and vehicle's actual costs 
 * [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
@@ -1185,7 +1185,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [REDbot](https://redbot.org/?) - checks HTTP resources to see how they'll behave, pointing out common problems and suggesting improvements.
 * [Open Source Psychometrics Project](https://openpsychometrics.org/) - a collection of interactive personality tests with detailed results
 * [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE 
-* [BonPatron](http://bonpatron.com/) - [FR] online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
+* [BonPatron](http://bonpatron.com/) - [FR] :fr: online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
 * [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
 * [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
 * :star: [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
@@ -1212,13 +1212,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Linux game database](https://lgdb.org/games)
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
 * [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday 
-* [UnDropDansLaMare](https://www.youtube.com/watch?v=KzvHvc41qpk) - (Video) [FR] Le Paradoxe du Joueur [2 minutes pour convaincre] short analysis of insatisfaction with modern video games / why video games were best before
+* [UnDropDansLaMare](https://www.youtube.com/watch?v=KzvHvc41qpk) - (Video) [FR] :fr: Le Paradoxe du Joueur [2 minutes pour convaincre] short analysis of insatisfaction with modern video games / why video games were best before
 * [Tom's Hardware](http://www.tomshardware.com/reviews/best-gpus,4380.html) - Top-Rated Graphics Cards for Gaming / best GPU for the money 
 * [Can You RUN It?](https://www.systemrequirementslab.com/cyri) - System Requirements Lab analyzes your computer and tell you which games you can / can't run
 * [NotebookCheck](https://www.notebookcheck.net/Computer-Games-on-Laptop-Graphic-Cards.13849.0.html) - list of GPUs of Laptop Graphic Cards sorted by approximate performance in games
 * [CheezBurger](http://cheezburger.com/8271579136) - How the Gaming Landscape Has Changed (2004 vs 2013)
 * [UnDropDansLaMare](https://www.youtube.com/watch?v=ilLrptqGdqM) - [Video] ... Ce Héros Mis Au Placard [2 minutes pour convaincre] // Death of the polygon 
-* [Korben](https://korben.info/console-jaunie.html) - (2014) [FR] Console jaunie ? Voici comment la traiter pour lui redonner sa couleur d’origine
+* [Korben](https://korben.info/console-jaunie.html) - (2014) [FR] :fr: Console jaunie ? Voici comment la traiter pour lui redonner sa couleur d’origine
 * [Pencil and Paper games](http://www.papg.com/) - Because I enjoy good games that don't depend on any modern technology 
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 * [Coinop](http://www.coinop.org/) - Coinop.org maintains a comprehensive database of coin-operated arcade games.
@@ -1226,7 +1226,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
-* [NESblog / Speed Game](https://www.youtube.com/watch?v=VKvcQNLk9yA) - [FR] [Video] Le Jeu de Rôle Papier, analyse des spécificités de cette famille de jeu
+* [NESblog / Speed Game](https://www.youtube.com/watch?v=VKvcQNLk9yA) - [FR] :fr: [Video] Le Jeu de Rôle Papier, analyse des spécificités de cette famille de jeu
 
 # Health and Work-Life Balance
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
@@ -1262,13 +1262,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Miessler](https://danielmiessler.com/blog/measuring-quality-culture/) - Measuring the Quality of a Culture
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
 * [Sanna](https://twitter.com/Nikkitita69/status/407949378251280384/photo/1) - [IMG] What if physical illness was treated the same way mental illness is...?
-* [Gil](http://blog.lesoir.be/hashtag25/2014/01/08/billet-dhumeur-dune-desperate-diplomee/) - (2014) [FR] Billet d'humeur d'une "desperate diplômée" / De la difficulté de trouver un emploi même avec un bon diplôme
+* [Gil](http://blog.lesoir.be/hashtag25/2014/01/08/billet-dhumeur-dune-desperate-diplomee/) - (2014) [FR] :fr: Billet d'humeur d'une "desperate diplômée" / De la difficulté de trouver un emploi même avec un bon diplôme
 * [Tom Lloyd](https://twitter.com/TomALloyd/status/441601100794585088/photo/1) - A good advice about the CV for Design students
 * [American Psychological Association](http://www.apa.org/news/press/releases/2014/08/pushed-back.pdf) - [PDF] Why women leave engineering
 * [Richard Clayton](https://rclayton.silvrback.com/10-things-i-learned-working-remotely) - 10 Things I learned Working Remotely
-* [Le Pharmachien](http://lepharmachien.com/la-vraie-difference-entre-les-medicaments-generiques-et-originaux/) - [FR] La VRAIE différence entre les médicaments génériques et originaux / real difference between brand names and generic drugs
-* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
-* [Le Pharmachien](http://lepharmachien.com/intoxication-alimentaire/) - [FR] 8 façons de t’intoxiquer à un barbecue ( intoxication alimentaire ) / 8 ways to cause food poisoning with the barbecue
+* [Le Pharmachien](http://lepharmachien.com/la-vraie-difference-entre-les-medicaments-generiques-et-originaux/) - [FR] :fr: La VRAIE différence entre les médicaments génériques et originaux / real difference between brand names and generic drugs
+* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
+* [Le Pharmachien](http://lepharmachien.com/intoxication-alimentaire/) - [FR] :fr: 8 façons de t’intoxiquer à un barbecue ( intoxication alimentaire ) / 8 ways to cause food poisoning with the barbecue
 * [John Sonmez](https://dzone.com/articles/4-levels-freedom-software) - (2014) The 4 Levels of Freedom For Software Developers
 * [Shaun Boyd](http://www.lifereboot.com/2007/10-reasons-it-doesnt-pay-to-be-the-computer-guy/) - (2007) 10 Reasons It Doesn’t Pay To Be “The Computer Guy”
 * [Steve Pavlina](https://www.stevepavlina.com/blog/2005/01/dont-die-with-your-music-still-in-you/) - (2005) Don’t Die With Your Music Still In You
@@ -1286,8 +1286,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Agnès Crepet](https://superyesmore.com/dont-say-that-you-dont-have-enough-time-d7ead9497abf1b458f5be14bd33b6c11) - (2017) Don't say that you don't have enough time
 * [Kris Gage](https://medium.com/personal-growth/the-moment-when-youll-finally-change-ee451cc230cf) - (2017) The Moment When You’ll Finally Change | Getting fed up is incredibly motivating
 * [Darius Foroux](https://medium.com/personal-growth/declutter-your-life-declutter-your-mind-4c7f965d6839) - (2017) Declutter Your Life. Declutter Your Mind.
-* [Thibaut Schepman](https://tempsreel.nouvelobs.com/rue89/rue89-sante/20150120.RUE7459/rester-assis-tue-plus-que-le-tabac-j-ai-essaye-d-ecrire-cet-article-debout.html) - (2015) [FR] Rester assis tue plus que le tabac ? J’ai essayé d’écrire cet article debout / sitting down is dangerous for your health
-* [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] [Video] Technophobe / what if you could not use technology anymore
+* [Thibaut Schepman](https://tempsreel.nouvelobs.com/rue89/rue89-sante/20150120.RUE7459/rester-assis-tue-plus-que-le-tabac-j-ai-essaye-d-ecrire-cet-article-debout.html) - (2015) [FR] :fr: Rester assis tue plus que le tabac ? J’ai essayé d’écrire cet article debout / sitting down is dangerous for your health
+* [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] :fr: [Video] Technophobe / what if you could not use technology anymore
 * [Pierluigi Vernetto](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
 * [John Cutler](https://medium.com/@johnpcutler/company-culture-is-44592c36958c) - (2016) company culture is…
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
@@ -1310,7 +1310,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 * [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing »
 * [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
-* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
+* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
 * [Yo Joe!](http://www.yojoe.com/action/) - the internet's premiere archive site about G.I. Joe: A Real American Hero | probably the oldest website I remember to visit in my young age
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ?
 
@@ -1324,24 +1324,24 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cyanide & Happiness](http://explosm.net/comics/archive) - controversial, dark humorous & sometimes surrealistic comic strips
 * [Joan Cornellà](http://joyreactor.com/tag/Joan+Cornella) - unsettling, surreal humor and black humorous comic strips
 * [David Firth](https://www.youtube.com/watch?v=wpVTORX_ifk) - [Youtube] Salad Fingers is a psychological horror, dark humorous animation movie ranked among the top 10 culture phenomenon for 2005
-* [Le Gorafi](http://www.legorafi.fr/) - [FR] news satire
+* [Le Gorafi](http://www.legorafi.fr/) - [FR] :fr: news satire
 * [Encyclopedia Dramatica](https://encyclopediadramatica.rs) - a satirical wiki, parodying encyclopedia topics and current events, especially those related or relevant to contemporary Internet culture
 * [/r/WhereIsMyFlyingCar](https://www.reddit.com/r/WhereIsMyFlyingCar/) - a lot of predictions made about the future that have or have not come to pass.
 * [Kimmo Lemetti](http://www.blastwave-comic.com/) - Gone with the blastwave is a post apocalyptic black humorous web comic
 * [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies 
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website 
-* [Malaise TV](https://twitter.com/malaisetele) - [FR] Twitter account showing awkwardness in TV shows 
+* [Malaise TV](https://twitter.com/malaisetele) - [FR] :fr: Twitter account showing awkwardness in TV shows 
 * [Mattia Quarta](https://twitter.com/squartadoc/status/380805479414239232/photo/1) - How to read a scientific paper.... brilliant
 * [Philippe Shiu](https://twitter.com/PhilipsShiu/statuses/448760592405241856) - [IMG] math students tip
-* [Topissimo](http://www.topissimo.fr/lol/40-verites-du-quotidien-illustrees-humour.html) - [FR] TOP 40 des vérités du quotidien illustrées avec humour !
+* [Topissimo](http://www.topissimo.fr/lol/40-verites-du-quotidien-illustrees-humour.html) - [FR] :fr: TOP 40 des vérités du quotidien illustrées avec humour !
 * [Mashable](http://mashable.com/2014/08/10/maria-scrivan-kickstarter) - (2014) [IMG] Young entrepreneurs these days
 * [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/?id=1883) - (2010) [IMG] Why are there so few women in engineering / science ?
-* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] 
+* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] :fr: 
 * [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
-* [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] [Video] Technophobe / what if you could not use technology anymore
-* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
-* [Message à caractère informatif](https://www.youtube.com/watch?v=8N_gatQ5G1U&list=PL3794CF56F0377496) - [FR] [Videos] funny surreal dubbing of old corporate short movies **Bonus** : [Top 12 best episodes](https://www.youtube.com/watch?v=ozJmcB-mVgw)
-* [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] [Videos] best funny videos from internet
+* [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] :fr: [Video] Technophobe / what if you could not use technology anymore
+* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] :fr: [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
+* [Message à caractère informatif](https://www.youtube.com/watch?v=8N_gatQ5G1U&list=PL3794CF56F0377496) - [FR] :fr: [Videos] funny surreal dubbing of old corporate short movies **Bonus** : [Top 12 best episodes](https://www.youtube.com/watch?v=ozJmcB-mVgw)
+* [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] :fr: [Videos] best funny videos from internet
 * [The Onion](https://www.theonion.com/) - America's Finest News Source | A farcical newspaper featuring world, national and community news.
 * [The Daily Mash](http://www.thedailymash.co.uk/) British satire site offering funny stories on news, politics and sport, an agony aunt column and polls.
 * [what if?](https://what-if.xkcd.com/) - Serious scientific answers to absurd hypothetical questions
@@ -1460,7 +1460,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [Sandeep Singh](https://linoxide.com/linux-how-to/lvm-configuration-linux/) - How to Configure LVM in Linux (pvcreate, lvcreate, vgcreate)
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
-* [Freeduc-Sup](http://www.linux-france.org/prj/edu/archinet/systeme/ch13s04.html) - [FR] Comprendre la redirection de port (Port Forwarding)
+* [Freeduc-Sup](http://www.linux-france.org/prj/edu/archinet/systeme/ch13s04.html) - [FR] :fr: Comprendre la redirection de port (Port Forwarding)
 * [kylejohnson/linux-sysadmin-interview-questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md) - Examples of possible questions during linux syadmin / devops interviews.
 * [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
@@ -1482,7 +1482,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Josh Reichardt](https://thepracticalsysadmin.com/7-useful-but-hard-to-remember-linux-commands/) - 7 useful but hard to remember Linux commands
 * [Daniel J Walsh](https://opensource.com/business/13/11/selinux-policy-guide) - Your visual how-to guide for SELinux policy enforcement
 * [SathiyaMoorthy](http://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/) - Understand at, atq, atrm, batch Commands using 9 Examples
-* [Robert Viseur](https://fr.slideshare.net/ecocentric/rv-jdllicences20140220online) - (2014) [FR] Comprendre les licences de logiciels libres. **Bonus** : [summary in picture](https://twitter.com/netpublic/status/466082953752489984/photo/1)
+* [Robert Viseur](https://fr.slideshare.net/ecocentric/rv-jdllicences20140220online) - (2014) [FR] :fr: Comprendre les licences de logiciels libres. **Bonus** : [summary in picture](https://twitter.com/netpublic/status/466082953752489984/photo/1)
 * [GNU Parallel](https://www.gnu.org/software/parallel/) - GNU parallel is a shell tool for executing jobs in parallel using one or more computers.
 * [Bryan Lunduke](https://www.youtube.com/watch?v=5pOxlazS3zs) - (2014) [Video] Linux Sucks // spoiler : this is not a video against Linux ;)
 * [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCrashAndMore) - (2014) The bad side of systemd: two recent systemd failures
@@ -1609,7 +1609,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
 
 # Movies
-* [SC (SensCritique)](https://www.senscritique.com) - [FR] french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
+* [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
 * [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
 * [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
@@ -1617,7 +1617,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
-* [Morgangeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] FileBot : le couteau suisse du renommage de films et séries
+* [Morgangeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
 * [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
 * [Clara Darko](https://vimeo.com/112499601) - [Video] Movie montage of dystopian / utopias societies
@@ -1646,7 +1646,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [jamb0ss/awesome-ambient-noises](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 * [MorganGeek](https://gist.github.com/MorganGeek/66c9c8524e446550757d92c527c28c93) - work / programming playlists selection
-* [Tellement Nomade](http://www.tellementnomade.org/forum/) - [FR] forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
+* [Tellement Nomade](http://www.tellementnomade.org/forum/) - [FR] :fr: forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows 
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
 * [Ranker](http://www.ranker.com/list/songs-based-on-game-of-thrones/ranker-of-thrones) - Some of the Best Songs Based on Game of Thrones
@@ -1659,9 +1659,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [foobar2000](http://www.foobar2000.org/components/by+date) - List of all plugins for foobar2000
 * [foobar2000](http://mobile.foobar2000.com/) - There exist a mobile version of foobar2000 
 * [Tunefind](https://www.tunefind.com/show/the-walking-dead) - Walking Dead tv show soundtracks online
-* [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
+* [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] :fr: [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
 * :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
-* [Banjo Guy Ollie](https://www.youtube.com/channel/UC5-umfrfqPvDvWCYHJGYtpA) - [Videos] videos of Olivier Longuet (aka Ollie LongZ / BanjoGuyOllie), a youtuber making awesome video game music covers. **Bonus** : his other youtube channel [FR] [Grand Theft Z'Audio](https://www.youtube.com/channel/UCAORviTS6Ua_a0eo4XGDPPg) if you like funny surreal dubbing of games cinematic, mainly inspired by [Message à caractère informatif (https://www.youtube.com/watch?v=ozJmcB-mVgw)
+* [Banjo Guy Ollie](https://www.youtube.com/channel/UC5-umfrfqPvDvWCYHJGYtpA) - [Videos] videos of Olivier Longuet (aka Ollie LongZ / BanjoGuyOllie), a youtuber making awesome video game music covers. **Bonus** : his other youtube channel [FR] :fr: [Grand Theft Z'Audio](https://www.youtube.com/channel/UCAORviTS6Ua_a0eo4XGDPPg) if you like funny surreal dubbing of games cinematic, mainly inspired by [Message à caractère informatif (https://www.youtube.com/watch?v=ozJmcB-mVgw)
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -1690,7 +1690,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [Lobsters](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
-* :star: [**Le Gorafi**](http://www.legorafi.fr/) - [FR] news satire
+* :star: [**Le Gorafi**](http://www.legorafi.fr/) - [FR] :fr: news satire
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 * [Alltop](https://alltop.com/new/) - News aggregator, similar to Popurls. Aggregates news by topic also 
@@ -1698,7 +1698,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
 * [Trendsmap](https://www.trendsmap.com/) - shows you the latest trends from Twitter, for anywhere in the world. 
 * [Daniel Miessler](https://danielmiessler.com/blog/) - a very interesting blog about InfoSec, technology and humans
-* [Le blog d'un odieux connard](https://unodieuxconnard.com/) - [FR] caustic news / news satire 
+* [Le blog d'un odieux connard](https://unodieuxconnard.com/) - [FR] :fr: caustic news / news satire 
 * [the morning paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
 * [OSNews](http://www.osnews.com/) - explore the future of computing and about technology, OS, hardware, development, and other cool news
 * [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
@@ -1745,7 +1745,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
 * [Charity Majors](https://opensource.com/article/17/7/state-systems-administration) - Ops: It's everyone's job now
 * [Paul English](https://opensource.com/article/17/7/truth-about-sysadmins) - The truth about sysadmins
-* [plop_plop_sys](http://linuxfr.org/users/plop_plop_sys/journaux/so-you-wanna-be-a-sysadmin-trolldi-inside) - (2014) [FR] - Journal So, you wanna be a sysadmin ? (Trolldi inside)
+* [plop_plop_sys](http://linuxfr.org/users/plop_plop_sys/journaux/so-you-wanna-be-a-sysadmin-trolldi-inside) - (2014) [FR] :fr: - Journal So, you wanna be a sysadmin ? (Trolldi inside)
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
 * [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
@@ -1784,9 +1784,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Server Fault](https://serverfault.com/questions/567320/difference-between-default-and-in-virtualhost-context) - difference between _default_:* and *:* in VirtualHost Context
 * [Dave Child](https://www.cheatography.com/davechild/cheat-sheets/mod-rewrite/) - mod_rewrite Cheat Sheet
 * [Stack Overflow](https://stackoverflow.com/questions/11649944/apache-httpd-conf-for-redirecting-ip-to-hostname) - Apache httpd.conf for redirecting ip to hostname
-* [Apache Docs](http://httpd.apache.org/docs/2.4/mod/core.html#virtualhost) - [FR] Virtualhost directive in Apache 2.4
-* [TBS Internet](https://www.tbs-certificats.com/FAQ/fr/284.html) - [FR] Apache et VirtualHost SSL avec un wildcard ou multi-site
-* [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
+* [Apache Docs](http://httpd.apache.org/docs/2.4/mod/core.html#virtualhost) - [FR] :fr: Virtualhost directive in Apache 2.4
+* [TBS Internet](https://www.tbs-certificats.com/FAQ/fr/284.html) - [FR] :fr: Apache et VirtualHost SSL avec un wildcard ou multi-site
+* [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] :fr: Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
 * [phanan/htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
 
 ## Logging
@@ -1810,7 +1810,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Splunkbase](https://splunkbase.splunk.com/app/2879/) - Splunk App : HipChat Room Notification Alert
 * [Fortify8Fifty Labs](https://forty8fiftylabs.atlassian.net/wiki/display/DOCS/Configuring+Splunk+to+Send+HipChat+Notifications) - Configuring Splunk to Send HipChat Notifications
 * [BitMeter OS](https://github.com/codebox/bitmeteros) - a cross platform stupid simple and efficient bandwidth monitoring tool running locally with a web interface. [Downloads, FAQs, Docs](https://codebox.net/pages/tagged/BitMeter%20OS)
-* [monitoring-fr](https://www.monitoring-fr.org/solutions/) - [FR] Inventory of most recommended open source monitoring solutions
+* [monitoring-fr](https://www.monitoring-fr.org/solutions/) - [FR] :fr: Inventory of most recommended open source monitoring solutions
 * [MorganGeek](https://gist.github.com/MorganGeek/73217d0cd8435b2c02e1f17be030b04c) - monitoring solutions compared
 * [MorganGeek](https://gist.github.com/MorganGeek/16e76740b5c3ed75481eea4972f583a7) - monitoring tools summarized
 * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - Linux tracing systems & how they fit together
@@ -1843,7 +1843,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
 * [Real News](http://www.realnews24.com/socrates-was-one-of-the-smartest-people-who-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read/) - some Socrates quotes worth the reading
 * [Daniel Miessler](https://danielmiessler.com/blog/is-it-wrong-to-have-children/) - Is It Wrong to Have Children? 
-* [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
+* [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] :fr: Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -1897,7 +1897,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Reset The Net](https://pack.resetthenet.org/) - Privacy Pack : applications for your phone and computer
 * [Martin Brinkmann](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) - The ultimate Online Privacy Test Resource List
 * [cafai](https://shaarli.cafai.fr/?7WCMIg) - Tor best practices | Privacy in Digital Era 
-* [Le Monde.fr](http://www.lemonde.fr/technologies/article/2013/12/16/nsa-un-juge-americain-estime-la-collecte-de-donnees-contraire-a-la-constitution_4335463_651865.html) - [FR] (2013) NSA : un juge américain estime la collecte de données contraire à la Constitution
+* [Le Monde.fr](http://www.lemonde.fr/technologies/article/2013/12/16/nsa-un-juge-americain-estime-la-collecte-de-donnees-contraire-a-la-constitution_4335463_651865.html) - [FR] :fr: (2013) NSA : un juge américain estime la collecte de données contraire à la Constitution
 * [unv.is](https://unv.is/) - Just put unv.is/ in front of http:// when sharing clickbait articles, unv.is will capture the content of an article or blog post without passing on your visit as a pageview. 
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the Internet.
@@ -1952,7 +1952,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
 * [Justyna Ilczuk](http://tinystruggles.com/2014/11/30/maker-productivity-101.html) - Maker Productivity 101
 * [Nathan Kontny](https://m.signalvnoise.com/speed-reading-2ff843053cc6) - Speed Reading tips
-* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR][IMG] Arguments réthoriques fallacieux 
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux 
 * [James Clear](http://jamesclear.com/ivy-lee) - The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity
 * [Stack Exchange](https://productivity.stackexchange.com/) - Personal Productivity Stack Exchange
 * [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips 
@@ -1960,8 +1960,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Miessler](https://danielmiessler.com/blog/on-giving-advice-to-friends/) - On Giving Advice to Friends
 * [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - How to Actually Publish More Things
-* [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
-* [Morgangeek blog](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] La sélection naturelle de contenus
+* [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] :fr: Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
+* [Morgangeek blog](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] :fr: La sélection naturelle de contenus
 * [Mike Davidson](https://twitter.com/iok/status/497749033918558209/photo/1) - [IMG] Wisdom : A prototype is worth a thousand meetings
 * [Jeff Atwood](https://blog.codinghorror.com/because-reading-is-fundamental-2/) - (2014) Because Reading is Fundamental / spend less time talking and more time reading 
 * [Mike Veerman](https://medium.com/@mikeveerman/simple-is-the-opposite-of-easy-56d585f95039) - Simple is the opposite of easy
@@ -2031,15 +2031,15 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Linguee**](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web 
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 * [dswd/zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution 
-* [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] resiliate your affiliation to all kinds of products and services
+* [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] :fr: resiliate your affiliation to all kinds of products and services
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar) - this Android app let you listen to or read on screen the text from other Android apps, e.g. web pages, news articles, long emails, TXT, PDF, DOC, DOCX, RTF ... useful to do multitasking specialists !!
-* [Morgangeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] FileBot : le couteau suisse du renommage de films et séries
+* [Morgangeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [Things I Learned Today](http://thingsilearnedtoday.net/2013/07/20/too-many-tabs-in-google-chrome/) - Too Many Tabs in Google Chrome? try this extension
 * [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
 * [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
-* [Stéphane le calme](https://www.developpez.com/actu/77483/Des-retards-dans-les-delais-de-livraison-d-un-projet-Oui-mais-a-qui-la-faute-Une-etude-en-recherche-la-cause/) - (2014) [FR] Des retards dans les délais de livraison d'un projet ? Oui, mais à qui la faute ?
+* [Stéphane le calme](https://www.developpez.com/actu/77483/Des-retards-dans-les-delais-de-livraison-d-un-projet-Oui-mais-a-qui-la-faute-Une-etude-en-recherche-la-cause/) - (2014) [FR] :fr: Des retards dans les délais de livraison d'un projet ? Oui, mais à qui la faute ?
 * [dupeGuru](https://www.hardcoded.net/dupeguru/) - is a tool to find duplicate files on your computer.
 * [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts 
 * [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
@@ -2364,7 +2364,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Indiedevhour on Slack](https://slack.pirrate.me/) - Community of Indie game developers and hobbyists
 * [Indie Game Developers on Slack](https://indie-game-devs-slack.herokuapp.com/) - Independent game developers group
 * [Gamasutra](http://www.gamasutra.com/) - articles about art and business of making games
-* [Gaylord](http://www.journaldugamer.com/2014/08/08/interview-out-there-ecrire-un-bon-jeu/) - (2014) [FR] [Interview] Un des créateurs d’Out There vous explique comment écrire un bon jeu
+* [Gaylord](http://www.journaldugamer.com/2014/08/08/interview-out-there-ecrire-un-bon-jeu/) - (2014) [FR] :fr: [Interview] Un des créateurs d’Out There vous explique comment écrire un bon jeu
 * [Gergo Vas](https://kotaku.com/5991061/the-best-looking-isometric-games) - The Best-Looking Isometric Games
 * [Jeff Bradberry](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) - (2015) Introduction to Monte Carlo Tree Search
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
@@ -2395,7 +2395,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joseph Kahn](https://blog.josephkahn.io/articles/pre-commit-hooks/) - Pre-commit Hooks: The Good, The Bad & The Ugly
 * [Rafael Eyng](http://codeheaven.io/simple-git-hooks-with-ghooks/) - Simple Git Hooks With Ghooks
 * [gogits/gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
-* [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - [FR] Ansible Vault : Automatiser le chiffrement avec Git
+* [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - [FR] :fr: Ansible Vault : Automatiser le chiffrement avec Git
 * [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - Using git diff with Ansible Vault encrypted files
 * [Marvin Pinto](https://disjoint.ca/til/2016/03/18/modifying-the-date-of-a-commit/) - Modifying the date of a commit
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/advanced-git-aliases) - One weird trick for powerful Git aliases
@@ -2471,7 +2471,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sönke Sothmann](https://blog.oio.de/2013/05/08/how-to-rollback-changes-with-git/) - How to rollback changes with Git 
 * [Atlassian Docs](https://www.atlassian.com/git/tutorials/undoing-changes) - Tutorials : Undoing Changes with git checkout / revert / reset / clean
 * [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - JIRA ID in Git Commit Messages
-* [Delicious Insights](https://delicious-insights.com/fr/articles/git-subtrees/) - [FR] Comprendre et maîtriser les subtrees Git
+* [Delicious Insights](https://delicious-insights.com/fr/articles/git-subtrees/) - [FR] :fr: Comprendre et maîtriser les subtrees Git
 * [Joshua Wehner](https://github.com/blog/2019-how-to-undo-almost-anything-with-git) - How to undo (almost) anything with Git
 * [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
 * [Mark Waite](https://www.youtube.com/watch?v=n0mnVtbQA0I) - [Video] (2017) Git in the Large : Tips and Tricks. **Bonus** : [Slides](https://www.slideshare.net/markewaite/git-inthelarge)
@@ -2548,7 +2548,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell 
 
 ## Java
-* [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] podcast for Java programmers 
+* [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers 
 * [Java mon amour](http://www.javamonamour.org/) - Blog about Java, Weblogic, OSB, Linux etc
 * [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
@@ -2741,7 +2741,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Access Main Computer File](http://accessmaincomputerfile.net/) - a Visual Study of computer GUI in cinema
 * [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
 * [Fast Good Cheap](http://fastgood.cheap/) - pick any two ...
-* [presquejamais](http://www.cfsl.net/forums/viewtopic.php?f=45&t=25587) - [FR] [STRIPS] Les aventures d'une barre de téléchargement
+* [presquejamais](http://www.cfsl.net/forums/viewtopic.php?f=45&t=25587) - [FR] :fr: [STRIPS] Les aventures d'une barre de téléchargement
 * [I Am Devloper](https://twitter.com/iamdevloper) - the funniest developer on twitter
 * [I Am Devloper](https://twitter.com/iamdevloper/statuses/420870754675478528) - Leave Me Alone Driven Development.
 * [I Am Devloper](https://twitter.com/iamdevloper/statuses/429307137601576961) - Things to try when fixing a bug: 1. Google 2. Stack Overflow 3. Documentation ... 8277. Disturb your co-worker who has headphones in
@@ -2759,7 +2759,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Brian Wisti](https://twitter.com/brianwisti/status/503987766032494592) - You are in a legacy codebase ... what do you do ?
 * [If programmers have make a plane](https://www.youtube.com/watch?v=UZq4sZz56qM) - (2007) [Video] 
 * [The Oatmeal](http://theoatmeal.com/comics/computers) - Why It's Better To Pretend You Don't Know Anything About Computers
-* [Les joies du code](http://lesjoiesducode.fr) - [FR] l'instant GIF des développeurs !
+* [Les joies du code](http://lesjoiesducode.fr) - [FR] :fr: l'instant GIF des développeurs !
 * [Leftover Salad](http://leftoversalad.tumblr.com/post/103503118002) - Difference between Java and JavaScript
 * [Feminist Hacker Barbie](http://computer-engineer-barbie.herokuapp.com/browse) - Comics about Barbie seen as a developer / sysadmin
 * [codecrap](http://codecrap.com/) - worst snippets of code / where developers go to laugh and cry
@@ -2800,7 +2800,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Decompilers online](http://www.javadecompilers.com/apk) - Decompile Apk and Dex Android files to Java
 * [raidzero](https://gist.github.com/raidzero/9378988) - rdump.py : Print all strings from android resources.arsc file
 Raw
-* [OVERSIMPLE](http://oversimple.fr/decompiler-une-application-android-complement/) - [FR] Désassembler une application Android 
+* [OVERSIMPLE](http://oversimple.fr/decompiler-une-application-android-complement/) - [FR] :fr: Désassembler une application Android 
 * [The Android Arsenal](https://android-arsenal.com/tag/175) - android decompilers
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 * [JD Project](http://jd.benow.ca/) - yet another fast java decompiler
@@ -2820,14 +2820,14 @@ Raw
 
 # Podcasts
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
-* [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] podcast for Java programmers 
-* [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
-* [RadioKawa](http://www.radiokawa.com/) - [FR] lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
-* [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] a couple of tasty podcasts for geeks
-* [Distorsion Podcast](https://distorsionpodcast.com/) - [FR] Urban legends from our digital world | Des histoires étranges de l'ère numérique 
+* [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers 
+* [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] :fr: [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
+* [RadioKawa](http://www.radiokawa.com/) - [FR] :fr: lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
+* [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] :fr: a couple of tasty podcasts for geeks
+* [Distorsion Podcast](https://distorsionpodcast.com/) - [FR] :fr: Urban legends from our digital world | Des histoires étranges de l'ère numérique 
 * [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - curated list of likeable podcasts
 * [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
-* [RTBF - La Première](https://www.rtbf.be/lapremiere/podcast) - [FR] Podcasts de la Première
+* [RTBF - La Première](https://www.rtbf.be/lapremiere/podcast) - [FR] :fr: Podcasts de la Première
 * [You Are Not So Smart](https://youarenotsosmart.com/podcast/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can.
 
 # Psychology
@@ -2837,7 +2837,7 @@ Raw
 * [16Personalities](https://www.16personalities.com/free-personality-test) - Neris Type explorer : Free Personality Test
 * [16Personalities](https://www.16personalities.com/infp-personality) - INFP personality "The Mediator"
 * [MBTI](https://www.personalitypage.com/html/INFP.html) - INFP "The Idealist"
-* [MBTI](http://www.16-types.fr/types/INFP/infp-01-travail.html) - [FR] INFP et travail selon Myers-Briggs. Related : [SenCampus](https://www.sencampus.com/personnalite-le-type-infp/) - [FR] Personnalité : le type INFP, [SenCampus](https://www.sencampus.com/personnalite-le-type-infj/) - [FR] Personnalité : le type INFJ
+* [MBTI](http://www.16-types.fr/types/INFP/infp-01-travail.html) - [FR] :fr: INFP et travail selon Myers-Briggs. Related : [SenCampus](https://www.sencampus.com/personnalite-le-type-infp/) - [FR] :fr: Personnalité : le type INFP, [SenCampus](https://www.sencampus.com/personnalite-le-type-infj/) - [FR] :fr: Personnalité : le type INFJ
 * [MBTI](https://www.personalitypage.com/ISFJ.html) - Portrait of an ISFJ
 * [TruthTheory](https://truththeory.com/2017/06/08/16-things-youll-notice-youre-presence-empath) - 16 Things You’ll Notice When You’re In The Presence Of An Empath
 * [Leo Babauta](https://zenhabits.net/happy-things/) - How to Be Happy When You’re in an Unhappy Situation
@@ -2855,9 +2855,9 @@ Raw
 * [Pinterest](https://www.pinterest.com/pin/202802789445614388/?lp=true) - More Art and Pictures about MBTI Types
 * [Pinterest](https://www.pinterest.com/pin/316096467577274221/?lp=true) - Art and Pictures about Zodiac Signs
 * [Pinterest](https://www.pinterest.com/pin/55872851600451918/?lp=true) - Art and Pictures about MBTI / Zodiac Signs
-* [16Personalities](https://www.16personalities.com/fr/la-personnalite-isfj) - [FR] La personnalité "Défenseur" (ISFJ-A / ISFJ-T)
-* [16Personalities](https://www.16personalities.com/fr/la-personnalite-infj) - [FR] La personnalité "Avocat" (INFJ-A / INFJ-T)
-* [Psychologie-luxeuil](http://www.psy-luxeuil.fr/article-fin-de-vie-les-5-grands-regrets-des-mourants-117710234.html) - [FR] what dying people regret the most in their life / les 5 grands regrets des mourants
+* [16Personalities](https://www.16personalities.com/fr/la-personnalite-isfj) - [FR] :fr: La personnalité "Défenseur" (ISFJ-A / ISFJ-T)
+* [16Personalities](https://www.16personalities.com/fr/la-personnalite-infj) - [FR] :fr: La personnalité "Avocat" (INFJ-A / INFJ-T)
+* [Psychologie-luxeuil](http://www.psy-luxeuil.fr/article-fin-de-vie-les-5-grands-regrets-des-mourants-117710234.html) - [FR] :fr: what dying people regret the most in their life / les 5 grands regrets des mourants
 * [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - list of awesome social engineering resources
 * [Jeff Goins](https://medium.com/personal-growth/the-single-most-overlooked-secret-to-influencing-other-people-32433b7ae285) - (2017) The Single Most Overlooked Secret To Influencing Other People
 * [You Are Not So Smart](https://youarenotsosmart.com/category/articles/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can. The central theme of You Are Not So Smart is that you are unaware of how unaware you are.
@@ -2931,10 +2931,10 @@ Raw
 * [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 * [Sam Rowe](http://samrowe.com/wordpress/advancing-in-the-bash-shell/) - Advancing in the Bash Shell
 * [nojhan/Liquid Prompt](https://github.com/nojhan/liquidprompt) - a useful adaptive prompt for Bash & zsh
-* [Boris Huisgen](https://blog.hbis.fr) - [FR] various and interesting linux / sysadmin / devops tips & tricks with command line examples
+* [Boris Huisgen](https://blog.hbis.fr) - [FR] :fr: various and interesting linux / sysadmin / devops tips & tricks with command line examples
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
-* [Matthieu Parisot](http://blog.wescale.fr/2016/04/07/bash-pro-tips/) - [FR] Bash Pro Tips for logs / errors handling etc.
-* [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] tips & tricks with command line examples 
+* [Matthieu Parisot](http://blog.wescale.fr/2016/04/07/bash-pro-tips/) - [FR] :fr: Bash Pro Tips for logs / errors handling etc.
+* [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] :fr: tips & tricks with command line examples 
 * :star: [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 * [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 * [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
@@ -3111,8 +3111,8 @@ Raw
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
-* [Riseup!](https://riseup.net/fr/security/message-security/openpgp/gpg-keys) - [FR] Gestion des clés OpenPGP
-* [Riseup!](https://riseup.net/fr/security/message-security/openpgp/best-practices) - [FR] Bonnes pratiques pour l'utilisation d'OpenPGP
+* [Riseup!](https://riseup.net/fr/security/message-security/openpgp/gpg-keys) - [FR] :fr: Gestion des clés OpenPGP
+* [Riseup!](https://riseup.net/fr/security/message-security/openpgp/best-practices) - [FR] :fr: Bonnes pratiques pour l'utilisation d'OpenPGP
 * [Jacob Appelbaum/ioerror/duraconf](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) - Example of hardened GPG config file from duraconf
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/) - GNU Privacy Guard Manual
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). Discovered via [Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
@@ -3153,7 +3153,7 @@ Raw
 * [University of Wisconsin KB](https://kb.wisc.edu/middleware/page.php?id=4543) - Verifying that a Certificate is issued by a CA
 * [John Herbert](http://movingpackets.net/2015/03/18/telling-openssl-about-your-root-certificates/) - Telling OpenSSL About Your Root Certificates / for *Nix and OS X
 * [John Herbert](http://movingpackets.net/2015/03/16/five-essential-openssl-troubleshooting-commands) - Five Essential OpenSSL Troubleshooting Commands
-* [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
+* [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] :fr: Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
 * [mdoehle](https://www.cheatography.com/mdoehle/cheat-sheets/pki-openssl/) - PKI / openSSL Cheat Sheet
 * [BogPeople](http://www.bogpeople.com/networking/openssl.shtml) - OpenSSL Cheat Sheet
 * [ThorneLabs](https://thornelabs.net/2014/05/18/openssl-commands-cheat-sheet.html) - OpenSSL Commands Cheat Sheet
@@ -3173,18 +3173,18 @@ Raw
 * [Daniel Miessler](https://danielmiessler.com/study/http/) - A Security-focused HTTP Primer
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [Daniel Miessler](https://danielmiessler.com/blog/the-connected-web-why-its-time-for-strong-authentication/) - The Connected Web: Why It’s Time For Strong Authentication
-* [Frédéric Kayser](https://openweb.eu.org/articles/https-de-ssl-a-tls-1-3) - (2017) [FR] HTTPS : de SSL à TLS 1.3
+* [Frédéric Kayser](https://openweb.eu.org/articles/https-de-ssl-a-tls-1-3) - (2017) [FR] :fr: HTTPS : de SSL à TLS 1.3
 * [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources. 
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
-* [Grise Bouille](https://grisebouille.net/ailleurs-cest-pire/) - [FR] Ailleurs, c’est pire
-* [Topito](https://twitter.com/topito_com/status/420918985870172161/photo/1) - (2014) [FR] [IMG] Plus fort que la pancarte de manif’ : le miroir
-* [Yves Miserey](http://www.lefigaro.fr/environnement/2012/05/25/01029-20120525ARTFIG00710-les-ogm-ont-perdu-la-guerre-contre-les-mauvaises-herbes.php) - (2012) [FR] Les OGM ont perdu la guerre contre les mauvaises herbes
-* [Le blog d'un odieux connard](https://odieuxconnard.files.wordpress.com/2014/01/extrc3aame-final-2.jpg) - (2014) [FR] [IMG] - Les Aventures Magiques de l'Extrême-Droite
+* [Grise Bouille](https://grisebouille.net/ailleurs-cest-pire/) - [FR] :fr: Ailleurs, c’est pire
+* [Topito](https://twitter.com/topito_com/status/420918985870172161/photo/1) - (2014) [FR] :fr: [IMG] Plus fort que la pancarte de manif’ : le miroir
+* [Yves Miserey](http://www.lefigaro.fr/environnement/2012/05/25/01029-20120525ARTFIG00710-les-ogm-ont-perdu-la-guerre-contre-les-mauvaises-herbes.php) - (2012) [FR] :fr: Les OGM ont perdu la guerre contre les mauvaises herbes
+* [Le blog d'un odieux connard](https://odieuxconnard.files.wordpress.com/2014/01/extrc3aame-final-2.jpg) - (2014) [FR] :fr: [IMG] - Les Aventures Magiques de l'Extrême-Droite
 * [Horace Dediu](https://twitter.com/asymco/status/418845332349661184/photo/1) - (2014) [IMG] There are two types of people in the world. // using the Internet vs not using the Internet
 * [Cameron Power](https://twitter.com/cap0w/status/431176293590106112/photo/1) - (2014) [IMG] Wtf is wrong with this dude? What is he looking at? The world?
-* [Etienne Chouard](https://www.youtube.com/watch?v=oN5tdMSXWV8) - [FR] [Video] Chercher la cause des causes - TED // Questioning democracy / questionnement et remise en cause de la démocratie
+* [Etienne Chouard](https://www.youtube.com/watch?v=oN5tdMSXWV8) - [FR] :fr: [Video] Chercher la cause des causes - TED // Questioning democracy / questionnement et remise en cause de la démocratie
 * [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/?id=1883) - (2010) [IMG] Why are there so few women in engineering / science ?
 * [Gizmodo](https://sploid.gizmodo.com/fascinating-graphic-shows-who-owns-all-the-major-brands-1599537576) - Fascinating graphics show who owns all the major brands in the world
 * [Clara Darko](https://vimeo.com/112499601) - [Video] Movie montage of dystopian / utopias societies
@@ -3193,7 +3193,7 @@ Raw
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
 * [Daniel Miessler](https://danielmiessler.com/blog/new-luxury-good-information/) - (2017) The New Luxury of Having Good Information
 * [You Are Not So Smart](https://youarenotsosmart.com/category/articles/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can. The central theme of You Are Not So Smart is that you are unaware of how unaware you are.
-* [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
+* [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
@@ -3240,13 +3240,13 @@ Raw
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
 * [Little Big Details](http://littlebigdetails.com/) - a curated collection of the finer details of design, updated every day. 
-* [Christelle Mozzati](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/) - (2013) [FR] Les dark patterns en design d’interface
+* [Christelle Mozzati](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/) - (2013) [FR] :fr: Les dark patterns en design d’interface
 * [Anthony Tseng](http://uxmovement.com/forms/9-small-user-experience-details-most-websites-miss/) - 9 Small User Experience Details Most Websites Miss
 * [Tom Lloyd](https://twitter.com/TomALloyd/status/441601100794585088/photo/1) - A good advice about the CV for Design students
 * [Luke Wroblewski](https://twitter.com/lukew/statuses/455742093839724544) - [IMG] Don't port your desktop UI to mobile. Optimize your UI for mobile. 
 * [fireurgunz](https://www.youtube.com/watch?v=YdHTlUGN1zw) - (1957) [Video] Disney did use parallax long before web designers, it was called MultiPlane Camera
 * [Keith Clark](http://keithclark.co.uk/articles/pure-css-parallax-websites/) - (2014) Pure CSS Parallax Websites
-* [Rémi Parmentier](http://www.hteumeuleu.fr/attribut-srcset-images-responsive/) - (2014) [FR] L’attribut srcset pour des images responsive
+* [Rémi Parmentier](http://www.hteumeuleu.fr/attribut-srcset-images-responsive/) - (2014) [FR] :fr: L’attribut srcset pour des images responsive
 * [Zombidev](https://twitter.com/scottdavis99/statuses/524442305764552705) - "The web is just rectangles inside of rectangles..."
 * [Guillaume Gouessan](http://guillaumegouessan.com/talk/move/) - Making things move when you are a front-end developer / good animating advices 
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
@@ -3306,9 +3306,9 @@ Raw
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Check that your HTML code conforms to your coding standard
 * [gulpjs/gulp](https://github.com/gulpjs/gulp) - Gulp: The streaming build system
 * [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
-* [Maxime Thirouin](http://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - (2013) [FR] Automatisez votre workflow front-end
-* [Opquast](https://checklists.opquast.com/oqs-v3/) - [FR] reference check-list for web quality
-* [Opquast](https://checklists.opquast.com/fr/) - [FR] several check-lists for performance / SEO related to web & mobile development
+* [Maxime Thirouin](http://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - (2013) [FR] :fr: Automatisez votre workflow front-end
+* [Opquast](https://checklists.opquast.com/oqs-v3/) - [FR] :fr: reference check-list for web quality
+* [Opquast](https://checklists.opquast.com/fr/) - [FR] :fr: several check-lists for performance / SEO related to web & mobile development
 * [Clay](http://fvisser.nl/clay/) - is a CSS preprocessor like LESS and Sass, but implemented as an embedded domain specific language (EDSL) in Haskell.
 * [CSS Diner](http://flukeout.github.io/) - a game to improve your knowledge of CSS selectors
 * [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
@@ -3330,7 +3330,7 @@ Raw
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
 * [Chocolatey](https://chocolatey.org/packages) - All Packages for Chocolatey, the package manager for windows
 * [Rob Reynolds](https://puppet.com/blog/chocolatey-creating-your-own-chocolatey-packages) - Chocolatey: Creating your own Chocolatey packages
-* [Korben](https://korben.info/univers/windows) - [FR] Windows tips & tools
+* [Korben](https://korben.info/univers/windows) - [FR] :fr: Windows tips & tools
 * [Nir Sofer](http://www.nirsoft.net/utils/) - Nirsoft : lot of free tools & utilities for windows, free of malwares and developed over decades by Nir Sofer, who's not stopping [More info about that](http://www.nirsoft.net/about_nirsoft_freeware.html)
 * [Puppet Blog](https://puppet.com/blog-tags/chocolatey) - Posts about Chocolatey
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - curated list of best applications and tools for Windows.
@@ -3362,7 +3362,7 @@ Raw
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
 * [Jason Stewart](https://eggplant.pro/blog/faster-samba-smb-cifs-share-performance/) - Faster Samba (SMB / CIFS) Share Performance
 * [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
-* [coreight](http://coreight.com/content/logiciels-outils-indispensables-windows) - (2014) [FR] 8 logiciels à toujours garder sous la main sur Windows
+* [coreight](http://coreight.com/content/logiciels-outils-indispensables-windows) - (2014) [FR] :fr: 8 logiciels à toujours garder sous la main sur Windows
 * [Pekka Väänänen](http://www.lofibucket.com/articles/dwm_latency.html) - (2017) Desktop compositing latency is real and it annoys me | about input latency on Windows 10 vs Windows 7
 
 [Dillinger]: <http://dillinger.io>
