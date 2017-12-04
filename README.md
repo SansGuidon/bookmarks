@@ -1530,7 +1530,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ravi Saive](https://www.tecmint.com/20-netstat-commands-for-linux-network-management/) - 20 Netstat Commands for Linux Network Management
 * [Milosz Galazka](https://blog.sleeplessbeastie.eu/2013/10/31/how-to-deal-with-dmesg-timestamps/) - How to deal with dmesg timestamps
 * [Stack Exchange](https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted) - Find and remove large files that are open but have been deleted
-* [Phil Rzewski](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/) - Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
+* :star: [**Phil Rzewski**](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/) - Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
 * [Steven Iveson](http://packetpushers.net/masterclass-tcpdump-interpreting-output/) - Masterclass – Tcpdump – Interpreting Output
 * [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
 * [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
