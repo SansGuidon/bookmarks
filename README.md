@@ -349,6 +349,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Open Culture](http://www.openculture.com/freeonlinecourses) - 1,300 Free Online Courses from Top Universities
 * [Academic Earth](http://academicearth.org/) - free access to world-class education; streaming of lectures from many of top universities
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
+* [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -3191,6 +3192,7 @@ Raw
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
 * [Daniel Miessler](https://danielmiessler.com/blog/new-luxury-good-information/) - (2017) The New Luxury of Having Good Information
 * [You Are Not So Smart](https://youarenotsosmart.com/category/articles/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can. The central theme of You Are Not So Smart is that you are unaware of how unaware you are.
+* [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
