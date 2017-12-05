@@ -2910,7 +2910,7 @@ Raw
 * [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - (2014) Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * :star: [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
-* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated 
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3015657/linux/changing-how-bash-behaves.html) - Changing how bash behaves
 * [FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting) - Bash tips: Colors and formatting
 * [SS64.com](https://ss64.com/bash/) - An A-Z Index of the Bash command line for Linux.
@@ -2986,6 +2986,7 @@ Raw
 * [SHELLdorado](http://www.shelldorado.com/articles/ignorantsguide.html) - The Ignorant's Guide to Shell Programming
 * [GNU](https://www.gnu.org/software/bash/manual/bash.html) - Bash Reference Manual
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/nonportable) - portable vs non portable BASH specific syntax
+* [bats-core/bats-core](https://github.com/bats-core/bats-core) : Bats is a TAP-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. **Bonus** : see also the original [sstephenson/bats](https://github.com/sstephenson/bats)
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -3201,7 +3202,7 @@ Raw
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
-* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated 
 * [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing 
 * [Joe Colantonio](https://www.joecolantonio.com/2017/03/02/automation-testing/) - Automation Testing Resources & Best Practices
 * [Gregg Caines](http://caines.ca/blog/2015/01/29/continuous-testing/) - Continuous Testing
@@ -3237,6 +3238,7 @@ Raw
 * [Nemanja Mijailovic](https://mijailovic.net/2017/07/29/go-fuzz/) - (2017) Going down the rabbit hole with go-fuzz | testing techniques
 * [Principles of Chaos Engineering](http://principlesofchaos.org/) 
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources 
+* [bats-core/bats-core](https://github.com/bats-core/bats-core) : Bats is a TAP-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. **Bonus** : see also the original [sstephenson/bats](https://github.com/sstephenson/bats)
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
