@@ -576,7 +576,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [pmarkham/writing-ansible-modules-in-bash](https://github.com/pmarkham/writing-ansible-modules-in-bash/blob/master/ansible_bash_modules.md) - Writing Ansible Modules in Bash
 * [fewbits/ansible-laws](https://github.com/fewbits/ansible-laws) - Ansible laws : list of best Practices when using Ansible
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/automating-your-automation-ansible-tower) - (2015) Automating Your Automation with Ansible Tower
-* [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
+* [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - (2017) [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
+* [Jiri Tyr](https://www.slideshare.net/jtyr/automation-and-ansible) - (2016) [Slides] Automation and Ansible
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -2316,7 +2317,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joël Spolsky](https://www.joelonsoftware.com/2003/12/01/craftsmanship-2/) - (2003) Craftsmanship
 * [Joël Spolsky](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/) - (2009) The Duct Tape Programmer
 * [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - (2008) Common shell script mistakes
-* [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
+* [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - (2017) [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
+* [Jiri Tyr](https://www.slideshare.net/jtyr/automation-and-ansible) - (2016) [Slides] Automation and Ansible
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
