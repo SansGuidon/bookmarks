@@ -181,6 +181,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andrew Orlowski](http://www.osnews.com/story/30106/_Break_up_Google_and_Facebook_if_you_ever_want_innovation_) - (2017) Break up Google and Facebook if you ever want innovation again | Jonathan Taplin against the tech giants
 * [Google Finance](https://www.google.com/finance) - brings together stories from the many of the best financial news sites + all the market and portfolio data
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
+* [99cryptocoin](https://www.99cryptocoin.com/) - Top CryptoCurrency by 24 Hour Trading Volume
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
