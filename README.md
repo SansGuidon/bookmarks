@@ -2712,6 +2712,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) - (2000) Things You Should Never Do, Part I | About rewriting code from scratch
 * [Alex Ott](http://alexott.net/en/fp/books/) - Functional programming books overview
 * [Pekka Väänänen](http://www.lofibucket.com/articles/dwm_latency.html) - (2017) Desktop compositing latency is real and it annoys me | about input latency on Windows 10 vs Windows 7
+* [rfc.me](https://rfc.me/) - Append an RFC number to the domain and it will redirect to that RFC. Example: [rfc.me/1738](https://rfc.me/1738)
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
