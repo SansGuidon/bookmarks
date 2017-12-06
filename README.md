@@ -1226,6 +1226,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Pencil and Paper games](http://www.papg.com/) - Because I enjoy good games that don't depend on any modern technology 
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 * [Coinop](http://www.coinop.org/) - Coinop.org maintains a comprehensive database of coin-operated arcade games.
+* [Terminus](http://luffah.xyz/bidules/Terminus/) - funny in browser role playing game to learn the basic of linux command line. NSFW
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -1520,6 +1521,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Corey Quinn](https://www.youtube.com/watch?v=zN1u5xZFFR8) - (2016) [Video] Terrible Ideas in Git | Don't try this at home :)
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 * [Stephan Zielinski](http://www.stokely.com/lighter.side/sysadm.field.guide.html) - Know Your UNIX System Administrator: A Field Guide
+* [Terminus](http://luffah.xyz/bidules/Terminus/) - funny in browser role playing game to learn the basic of linux command line. NSFW
 
 ## Raspberry Pi
 * [Ard Ray](http://blog.mxard.com/persistent-iptables-on-raspberry-pi-raspbian) - Persistent IPtables on Raspberry Pi (Raspbian)
@@ -2997,6 +2999,7 @@ Raw
 * [GNU](https://www.gnu.org/software/bash/manual/bash.html) - Bash Reference Manual
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/nonportable) - portable vs non portable BASH specific syntax
 * [bats-core/bats-core](https://github.com/bats-core/bats-core) : Bats is a [TAP](https://testanything.org/)-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. **Bonus** : see also the original [sstephenson/bats](https://github.com/sstephenson/bats)
+* [Terminus](http://luffah.xyz/bidules/Terminus/) - funny in browser role playing game to learn the basic of linux command line. NSFW
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
