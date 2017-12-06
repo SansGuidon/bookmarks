@@ -1298,6 +1298,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/) - (2017) The Truth About Startups
 * [Joël Spolsky](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) - (2006) A Field Guide to Developers : what they’re looking for, what they like and dislike in a workplace, and what it’s going to take to be a top choice for top developers.
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
+* [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail.
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2890,6 +2891,7 @@ Raw
 * [Kevin Kelly](https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/) - (2017) The Myth of a Superhuman AI
 * [You Are Not So Smart](https://youarenotsosmart.com/2017/11/20/yanss-115-how-we-transferred-our-biases-into-our-machines-and-what-we-can-do-about-it/) - (2017) [Podcast] How we transferred our biases into our machines and what we can do about it
 * [Future of Life Institute](https://futureoflife.org/ai-principles/) - Asilomar AI Principles | Move over Asimov: 23 principles to make AI safe and ethical. Prominent members of Future of Life Institute include the likes of Stephen Hawking and Elon Musk
+* [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail.
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -3203,6 +3205,7 @@ Raw
 * [Daniel Miessler](https://danielmiessler.com/blog/new-luxury-good-information/) - (2017) The New Luxury of Having Good Information
 * [You Are Not So Smart](https://youarenotsosmart.com/category/articles/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can. The central theme of You Are Not So Smart is that you are unaware of how unaware you are.
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
+* [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail.
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
