@@ -2226,6 +2226,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss | **Bonus** [Website](http://paperswelove.org/) - repository of academic computer science papers and a community who loves reading them.
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
+* [Fagner Brack](https://medium.com/@fagnerbrack/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac) - (2017) Why Developers Become Frustrated And Companies Can’t Find Talent
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
