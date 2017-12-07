@@ -1552,6 +1552,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
 * :star: [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
 * [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
+* [Jeff Jones](http://outofmyhead.olssonandjones.com/2017/12/02/wget-cant-execute-ssl_helper/) - `wget: can't execute 'ssl_helper': No such file or directory wget: error getting response: Connection reset by peer` | error happening in alpine container 3.5.2
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
