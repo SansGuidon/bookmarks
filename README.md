@@ -2897,6 +2897,7 @@ Raw
 * [You Are Not So Smart](https://youarenotsosmart.com/2017/11/20/yanss-115-how-we-transferred-our-biases-into-our-machines-and-what-we-can-do-about-it/) - (2017) [Podcast] How we transferred our biases into our machines and what we can do about it
 * [Future of Life Institute](https://futureoflife.org/ai-principles/) - Asilomar AI Principles | Move over Asimov: 23 principles to make AI safe and ethical. Prominent members of Future of Life Institute include the likes of Stephen Hawking and Elon Musk
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - (2017) [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Podcast](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456)
+* [Dave Gershgorn](https://qz.com/1146753/ai-is-now-so-complex-its-creators-cant-trust-why-it-makes-decisions/) - (2017) AI is now so complex its creators can’t trust why it makes decisions
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
