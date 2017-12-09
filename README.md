@@ -150,6 +150,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Adrian Colyer](https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/) - (2017) Analyzing software requirements errors in safety-critical embedded systems
 * [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
+* [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -735,6 +736,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kim Hirokuni](https://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/) - (2014) Gotchas in Writing Dockerfile
 * [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
 * [Diogo Mónica](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/) - (2017) Why you shouldn't use ENV variables for secret data
+* [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1521,6 +1523,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Howtoforge](http://www.howtoforge.com/howtos) - Linux tutorials by tag : Excellent tutorials on many different subjects.
 * [Steven J. Vaughan-Nichols ](http://www.zdnet.com/article/linus-linux-torvalds-gives-security-developers-guidance/) - Linus 'Linux' Torvalds gives security developers guidance
 * [Jack Wallen](https://www.linux.com/learn/intro-to-linux/2017/12/how-manage-users-groups-linux) - (2017) How to Manage Users with Groups in Linux
+* [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
