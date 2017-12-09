@@ -729,6 +729,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tom Donohue](https://cleverbuilder.com/articles/openshift-nexus-docker-registry/) - (2017) Deploy and use the Nexus Docker registry in OpenShift
 * [Cloud Native Computing Foundation website](https://www.cncf.io/) - Sustaining and integrating open source technologies like Kubernetes and Prometheus
 * [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - curated resources for Linux Containers
+* [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+* [CoreOS Blog](https://coreos.com/blog/vulnerability-analysis-for-containers.html) - Clair: Open Source Vulnerability Analysis for your Containers
+* [jessfraz/bane](https://github.com/jessfraz/bane) - AppArmor profile generator for Docker containers.
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -2330,6 +2333,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - (2008) Common shell script mistakes
 * [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - (2017) [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
 * [Jiri Tyr](https://www.slideshare.net/jtyr/automation-and-ansible) - (2016) [Slides] Automation and Ansible
+* [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
@@ -3132,6 +3136,9 @@ Raw
 * [Steven J. Vaughan-Nichols ](http://www.zdnet.com/article/linus-linux-torvalds-gives-security-developers-guidance/) - Linus 'Linux' Torvalds gives security developers guidance
 * [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
+* [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+* [CoreOS Blog](https://coreos.com/blog/vulnerability-analysis-for-containers.html) - Clair: Open Source Vulnerability Analysis for your Containers
+* [jessfraz/bane](https://github.com/jessfraz/bane) - AppArmor profile generator for Docker containers.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
