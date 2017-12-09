@@ -41,6 +41,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Humor](#humor)
 * [Images / Wallpapers](#images--wallpapers)
 * [Linux / Unix](#linux--unix)
+  * [Emacs](#emacs)
   * [Linux for fun](#linux-for-fun)
   * [Raspberry Pi](#raspberry-pi)
   * [Troubleshooting](#troubleshooting)
@@ -1525,6 +1526,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steven J. Vaughan-Nichols ](http://www.zdnet.com/article/linus-linux-torvalds-gives-security-developers-guidance/) - Linus 'Linux' Torvalds gives security developers guidance
 * [Jack Wallen](https://www.linux.com/learn/intro-to-linux/2017/12/how-manage-users-groups-linux) - (2017) How to Manage Users with Groups in Linux
 * [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
+
+## Emacs 
+* [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
