@@ -737,6 +737,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
 * [Diogo Mónica](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/) - (2017) Why you shouldn't use ENV variables for secret data
 * [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
+* [Laurens Van Houtven](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html) - (2015) Don't expose the Docker socket (not even to a container)
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -3149,6 +3150,7 @@ Raw
 * [jessfraz/bane](https://github.com/jessfraz/bane) - AppArmor profile generator for Docker containers.
 * [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
 * [Diogo Mónica](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/) - (2017) Why you shouldn't use ENV variables for secret data
+* [Laurens Van Houtven](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html) - (2015) Don't expose the Docker socket (not even to a container)
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
