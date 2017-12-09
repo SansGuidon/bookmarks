@@ -85,6 +85,10 @@
 * [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - Survivorship Bias : When failure becomes invisible, the difference between failure and success may also become invisible.
 * [David McRaney](https://youarenotsosmart.com/2010/10/27/procrastination/) - Procrastination is fueled by weakness in the face of impulse and a failure to think about thinking.
 * [David McRaney](https://youarenotsosmart.com/2010/05/19/fanboyism-and-brand-loyalty/) - Fanboyism and Brand Loyalty : You prefer the things you own because you rationalize your past choices to protect your sense of self. The Internet changed the way people argue.
+* Backend Engineer Principles by [Kim Hirokuni](http://kimh.github.io/blog/being-backend-engineer/)
+  * Security First : Risks have to be measured by the impact when that happens, not how likely it happens
+  * Don’t break stuff : Backward compatibility for the win
+  * Don’t merge PRs at late night : Merging PRs at Friday night is a terrible thing to do  
 
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
