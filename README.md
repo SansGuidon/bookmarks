@@ -2246,6 +2246,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Fagner Brack](https://medium.com/@fagnerbrack/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac) - (2017) Why Developers Become Frustrated And Companies Can’t Find Talent
 * [Kim Hirokuni](http://kimh.github.io/blog/being-backend-engineer/) - (2017) Backend Engineer Principles
 * [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
+* [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+* [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2345,6 +2347,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jiri Tyr](https://www.slideshare.net/jtyr/automation-and-ansible) - (2016) [Slides] Automation and Ansible
 * [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
 * [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
+* [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
@@ -2531,6 +2534,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Corey Quinn](https://www.youtube.com/watch?v=zN1u5xZFFR8) - (2016) [Video] Terrible Ideas in Git | Don't try this at home :)
 * [git man page generator](https://git-man-page-generator.lokaltog.net/) - NOT real git documentation! Read carefully, and click the button to generate a new man page.
 * [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
+* [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+* [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
