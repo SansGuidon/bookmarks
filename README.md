@@ -2416,6 +2416,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Video Game Preservation](https://github.com/videogamepreservation) - An archive of commercial video game source code.
 * [Chris Wellons](http://nullprogram.com/blog/2014/12/09/) - (2014) How to build DOS COM files with GCC
 * [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
+* [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :memo: A list of Game Development resources to make magic happen.
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
