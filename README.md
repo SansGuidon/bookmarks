@@ -354,6 +354,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Academic Earth](http://academicearth.org/) - free access to world-class education; streaming of lectures from many of top universities
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
+* [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1526,6 +1527,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steven J. Vaughan-Nichols ](http://www.zdnet.com/article/linus-linux-torvalds-gives-security-developers-guidance/) - Linus 'Linux' Torvalds gives security developers guidance
 * [Jack Wallen](https://www.linux.com/learn/intro-to-linux/2017/12/how-manage-users-groups-linux) - (2017) How to Manage Users with Groups in Linux
 * [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
+* [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
 
 ## Emacs 
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -2252,6 +2254,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
 * [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
+* [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
