@@ -489,6 +489,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ask Hacker News](https://news.ycombinator.com/item?id=15737215) - (2017) How do you deal with operational work as a software engineer?
 * [Manisha Sahasrabudhe](https://sdtimes.com/stuck-new-devops-matrix-hell/) - (2017) Are you stuck in the new DevOps matrix from hell? | about complexity of env-app configuration management
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - confd is a lightweight configuration management tool to keep local config files up-to-date using either etcd, consul, dynamodb, redis, vault, zookeeper, aws ssm parameter store or env vars 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
