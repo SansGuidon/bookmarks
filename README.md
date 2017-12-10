@@ -1219,7 +1219,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Duolingo](https://www.duolingo.com/) - free tool for learning another language, Duolingo makes it fun, and helps keep you engaged for the long haul.
 * [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
-* [Find your Facebook ID](https://findmyfbid.com/) - find the Facebook personal numeric ID for fb:admins, social plugins, and more. Provide the profile URL of a page or your profile and get the Facebook (context) id.
+* [Find your Facebook ID](https://findmyfbid.com/) - find the Facebook personal numeric ID for fb:admins, social plugins, and more. Provide the profile URL of a page or your profile and get the Facebook (context) id. This id can then be used to [find similar pages](https://www.facebook.com/pages/?ref=page_suggestions_on_liking_refresh&frompageid=)
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
