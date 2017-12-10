@@ -17,3 +17,4 @@
 * [GitHub](https://github.com/topics/awesome) - Topic: awesome on GitHub
 * [Twitter](https://twitter.com/search?q=practices%20list%20programming%20&src=typd) - list of programming practices on Twitter
 * [Twitter](https://twitter.com/search?q=dev%20operability&src=typd) - dev + operability on twitter
+* [Facebook Mobile](https://m.facebook.com/pages/launchpoint/discover/?from=pages_nav_discover&ref=timeline_chaining) - discover pages of interest. **See also** : [Discover pages based on given contextid](https://m.facebook.com/pages/launchpoint/discover/?ref=timeline_chaining&from=timeline_chaining&contextid=499718403532040&pymlcategory=timeline_similar)
