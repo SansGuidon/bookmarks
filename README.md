@@ -2546,6 +2546,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
 * [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
+* [FoundersGrid](https://foundersgrid.com/code-management/) - (2014) How 50+ Startups Manage Their Code
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
