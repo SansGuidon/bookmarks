@@ -8,6 +8,7 @@
 * [Hacker News](https://hn.algolia.com/?query=Jenkins&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year jenkins news
 * [Hacker News](https://hn.algolia.com/?query=Ansible&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year ansible news
 * [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year DevOps news
+* [Hacker News](https://hn.algolia.com/?query=best%20practices&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Best practices news
 * [Untappd](https://untappd.com/user/MorganGeek/beers?sort=highest_rated_their) - MorganGeek' favorite beers
 * [Untappd](https://untappd.com/user/MorganGeek/wishlist) - MorganGeek' wishlist of beers
 * [GitHub](https://github.com/search?utf8=%E2%9C%93&q=declarative+stage+steps&type=Code) - Examples of declarative jenkins pipelines
