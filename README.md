@@ -1328,6 +1328,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
 * [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
 * [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - list of awesome remote jobs and resources
+* [Sick Call Excuse Generator](http://www.getodd.com/raz/sickday/sickday.html) - helpful to you in deciding the excuse for your forthcoming day off.
 
 # Hobbies
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -2825,6 +2826,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [git man page generator](https://git-man-page-generator.lokaltog.net/) - NOT real git documentation! Read carefully, and click the button to generate a new man page.
 * [Unencyclopedia](http://uncyclopedia.wikia.com/wiki/Category:Software_Development) - fake wikipedia articles about software development
 * [Stephan Zielinski](http://www.stokely.com/lighter.side/sysadm.field.guide.html) - Know Your UNIX System Administrator: A Field Guide
+* [Sick Call Excuse Generator](http://www.getodd.com/raz/sickday/sickday.html) - helpful to you in deciding the excuse for your forthcoming day off.
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
