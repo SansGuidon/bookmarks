@@ -1579,6 +1579,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
 * [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
 * [Jeff Jones](http://outofmyhead.olssonandjones.com/2017/12/02/wget-cant-execute-ssl_helper/) - (2017) `wget: can't execute 'ssl_helper': No such file or directory wget: error getting response: Connection reset by peer` | error happening in alpine container 3.5.2. **Bonus** : seem to be as design... see [docker-library/busybox/issues/25](https://github.com/docker-library/busybox/issues/25)
+* [Ask Ubuntu on Stack Exchange](https://askubuntu.com/questions/631077/problem-with-deluge-no-incoming-connection) - Problem with Deluge: “no incoming connection!”
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
