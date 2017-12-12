@@ -2668,6 +2668,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - Machine Learning & Deep Learning Tutorials
 * [soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Machine learning cheat sheet
 * [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - awesome Machine Learning frameworks, libraries and software.
+* [Carol Smith](https://www.slideshare.net/carologic/ai-and-machine-learning-demystified-by-carol-smith-at-midwest-ux-2017/45-AI_and_ML_Demystified_carologic) - (2017) AI and Machine Learning Demystified by Carol Smith at Midwest UX 2017
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
@@ -2953,6 +2954,7 @@ Raw
 * [Future of Life Institute](https://futureoflife.org/ai-principles/) - Asilomar AI Principles | Move over Asimov: 23 principles to make AI safe and ethical. Prominent members of Future of Life Institute include the likes of Stephen Hawking and Elon Musk
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - (2017) [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Podcast](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456)
 * [Dave Gershgorn](https://qz.com/1146753/ai-is-now-so-complex-its-creators-cant-trust-why-it-makes-decisions/) - (2017) AI is now so complex its creators can’t trust why it makes decisions
+* [Carol Smith](https://www.slideshare.net/carologic/ai-and-machine-learning-demystified-by-carol-smith-at-midwest-ux-2017/45-AI_and_ML_Demystified_carologic) - (2017) AI and Machine Learning Demystified by Carol Smith at Midwest UX 2017
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
