@@ -1322,6 +1322,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joël Spolsky](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) - (2006) A Field Guide to Developers : what they’re looking for, what they like and dislike in a workplace, and what it’s going to take to be a top choice for top developers.
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - (2017) [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Podcast](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456)
+* [Patrick God](https://dev.to/_patrickgod/why-you-should-start-with-your-dream-job-8f) - (2017) Why You Should Start With Your Dream Job
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
