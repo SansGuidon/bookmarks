@@ -2843,6 +2843,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Stephan Zielinski](http://www.stokely.com/lighter.side/sysadm.field.guide.html) - Know Your UNIX System Administrator: A Field Guide
 * [Sick Call Excuse Generator](http://www.getodd.com/raz/sickday/sickday.html) - helpful to you in deciding the excuse for your forthcoming day off.
 * [WFH-excuses](https://us-central1-wfh-excuses-gh.cloudfunctions.net/wfh) - Working from Home excuses generator. **Bonus** : [GitHub repo](https://github.com/lnfnunes/WFH-excuses)
+* [shitcode](http://shitcode.net/latest) - a home for shittiest code from all over the world
+* [Govnokod.ru](http://govnokod.ru/) - [RU] :ru: laugh together about stupid code
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
