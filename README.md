@@ -273,6 +273,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/) - (2000) Painless Bug Tracking
 * [David McRaney](https://youarenotsosmart.com/2010/05/19/fanboyism-and-brand-loyalty/) - (2010) Fanboyism and Brand Loyalty
 * [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
+* [Rachel Potvin & Josh Levenberg](https://dl.acm.org/citation.cfm?id=2854146) - Why Google stores billions of lines of code in a single repository
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2265,6 +2266,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
 * [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
 * [FoundersGrid](https://foundersgrid.com/code-management/) - (2014) How 50+ Startups Manage Their Code
+* [Rachel Potvin & Josh Levenberg](https://dl.acm.org/citation.cfm?id=2854146) - Why Google stores billions of lines of code in a single repository
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2555,6 +2557,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
 * [FoundersGrid](https://foundersgrid.com/code-management/) - (2014) How 50+ Startups Manage Their Code
+* [Rachel Potvin & Josh Levenberg](https://dl.acm.org/citation.cfm?id=2854146) - Why Google stores billions of lines of code in a single repository
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
