@@ -184,6 +184,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Google Finance](https://www.google.com/finance) - brings together stories from the many of the best financial news sites + all the market and portfolio data
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 * [99cryptocoin](https://www.99cryptocoin.com/) - Top CryptoCurrency by 24 Hour Trading Volume
+* [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2956,6 +2957,7 @@ Raw
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - (2017) [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Podcast](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456)
 * [Dave Gershgorn](https://qz.com/1146753/ai-is-now-so-complex-its-creators-cant-trust-why-it-makes-decisions/) - (2017) AI is now so complex its creators can’t trust why it makes decisions
 * [Carol Smith](https://www.slideshare.net/carologic/ai-and-machine-learning-demystified-by-carol-smith-at-midwest-ux-2017/45-AI_and_ML_Demystified_carologic) - (2017) AI and Machine Learning Demystified by Carol Smith at Midwest UX 2017
+* [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -3279,6 +3281,7 @@ Raw
 * [You Are Not So Smart](https://youarenotsosmart.com/category/articles/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can. The central theme of You Are Not So Smart is that you are unaware of how unaware you are.
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - (2017) [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Podcast](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456)
+* [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
