@@ -495,6 +495,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Eric Myhre](https://gist.github.com/warpfork/0ad12d99d2b4de32412f7f294c23fde5) - You probably don't really want CI-triggered CD
 * [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
 * [Dag Sonstebo](https://www.slideshare.net/DagSonstebo/techug-glasgow-talk-22feb17-configuration-management-best-practices) - (2017) Configuration Management Best Practices
+* [Concourse CI](https://concourse.ci/) - CI that scales with your project.
+* [Buildbot](https://buildbot.net/) - The Continuous Integration Framework
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
