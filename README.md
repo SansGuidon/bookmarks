@@ -44,7 +44,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
   * [Emacs](#emacs)
   * [Linux for fun](#linux-for-fun)
   * [Raspberry Pi](#raspberry-pi)
-  * [Troubleshooting](#troubleshooting)
   * [Tuning](#tuning)
   * [Vim](#vim)
 * [Mac](#mac)
@@ -104,6 +103,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Society](#society)
 * [Sports](#sports)
 * [Testing](#testing)
+* [Troubleshooting](#troubleshooting)
 * [UX / UI](#ux--ui)
   * [Design humor](#design-humor)
 * [Web development](#web-development)
@@ -497,6 +497,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dag Sonstebo](https://www.slideshare.net/DagSonstebo/techug-glasgow-talk-22feb17-configuration-management-best-practices) - (2017) Configuration Management Best Practices
 * [Concourse CI](https://concourse.ci/) - CI that scales with your project.
 * [Buildbot](https://buildbot.net/) - The Continuous Integration Framework
+* [JP La Torre](http://caylent.com/50-useful-docker-tools/) - 50+ Useful Docker Tools
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -749,6 +750,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Diogo Mónica](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/) - (2017) Why you shouldn't use ENV variables for secret data
 * [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
 * [Laurens Van Houtven](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html) - (2015) Don't expose the Docker socket (not even to a container)
+* [JP La Torre](http://caylent.com/50-useful-docker-tools/) - 50+ Useful Docker Tools
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1563,33 +1565,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ard Ray](http://blog.mxard.com/persistent-iptables-on-raspberry-pi-raspbian) - Persistent IPtables on Raspberry Pi (Raspbian)
 * [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/1247/what-should-be-done-to-secure-raspberry-pi) - What should be done to secure Raspberry Pi?
 * [Stefan Pröll](https://blog.stefanproell.at/2016/03/20/a-reasonable-secure-password-database-with-versioning-and-remote-access/) - A Reasonable Secure, Self-Hosted Password Database with Versioning and Remote Access
-
-## Troubleshooting
-* [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
-* [Narad Shrestha](https://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/) - 12 Tcpdump Commands – A Network Sniffer Tool
-* [Edoceo](http://edoceo.com/cli/tcpdump) - tcpdump examples
-* [rationallyPARANOID](https://rationallyparanoid.com/articles/tcpdump.html) - Tcpdump usage examples
-* [Sebastien Wains](https://www.wains.be/pub/networking/tcpdump_advanced_filters.txt) - tcpdump advanced filters
-* [Ravi Saive](https://www.tecmint.com/20-netstat-commands-for-linux-network-management/) - 20 Netstat Commands for Linux Network Management
-* [Milosz Galazka](https://blog.sleeplessbeastie.eu/2013/10/31/how-to-deal-with-dmesg-timestamps/) - How to deal with dmesg timestamps
-* [Stack Exchange](https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted) - Find and remove large files that are open but have been deleted
-* :star: [**Phil Rzewski**](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/) - Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
-* [Steven Iveson](http://packetpushers.net/masterclass-tcpdump-interpreting-output/) - Masterclass – Tcpdump – Interpreting Output
-* [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
-* [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
-* [Daniel Miessler](https://danielmiessler.com/study/tcpdump/) - A tcpdump Tutorial and Primer with Examples
-* [Daniel Miessler](https://danielmiessler.com/study/tcpflags/) - How to Remember Your TCP Flags
-* [Working all day](http://workrobot.com/sysadmin/security/tcpdump_expressions.html) - TCPDUMP expressions
-* [Oleg Muravskiy](https://texnoblog.wordpress.com/2010/04/17/using-tcpdump/) - Using tcpdump to see HTTP requests and responses
-* [Steve Howard](http://appcrawler.com/wordpress/2012/08/01/tcpdump-to-see-oracle-errors/) - tcpdump to see Oracle errors
-* [SystemRescueCd](http://www.system-rescue-cd.org/) - a Linux system rescue disk available as a bootable CD-ROM or USB stick for fixing your system and data after a crash.
-* [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
-* [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
-* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
-* :star: [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
-* [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
-* [Jeff Jones](http://outofmyhead.olssonandjones.com/2017/12/02/wget-cant-execute-ssl_helper/) - (2017) `wget: can't execute 'ssl_helper': No such file or directory wget: error getting response: Connection reset by peer` | error happening in alpine container 3.5.2. **Bonus** : seem to be as design... see [docker-library/busybox/issues/25](https://github.com/docker-library/busybox/issues/25)
-* [Ask Ubuntu on Stack Exchange](https://askubuntu.com/questions/631077/problem-with-deluge-no-incoming-connection) - Problem with Deluge: “no incoming connection!”
 
 ## Tuning
 * [Michael Hoting](http://blog.cloud-client.info/?p=1365) - Optimizing WD My Cloud NAS drive [Part 1](http://blog.cloud-client.info/?p=1365),  [Part 2](http://blog.cloud-client.info/?p=1384)
@@ -3332,6 +3307,33 @@ Raw
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources 
 * [bats-core/bats-core](https://github.com/bats-core/bats-core) : Bats is a [TAP](https://testanything.org/)-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. **Bonus** : see also the original [sstephenson/bats](https://github.com/sstephenson/bats)
 * [Test Anything Protocol (TAP)](https://testanything.org/) - a simple text-based interface between testing modules in a test harness, with implementations in C, C++, Python, PHP, Perl, Java, JavaScript, and others.
+
+# Troubleshooting
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
+* [Narad Shrestha](https://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/) - 12 Tcpdump Commands – A Network Sniffer Tool
+* [Edoceo](http://edoceo.com/cli/tcpdump) - tcpdump examples
+* [rationallyPARANOID](https://rationallyparanoid.com/articles/tcpdump.html) - Tcpdump usage examples
+* [Sebastien Wains](https://www.wains.be/pub/networking/tcpdump_advanced_filters.txt) - tcpdump advanced filters
+* [Ravi Saive](https://www.tecmint.com/20-netstat-commands-for-linux-network-management/) - 20 Netstat Commands for Linux Network Management
+* [Milosz Galazka](https://blog.sleeplessbeastie.eu/2013/10/31/how-to-deal-with-dmesg-timestamps/) - How to deal with dmesg timestamps
+* [Stack Exchange](https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted) - Find and remove large files that are open but have been deleted
+* :star: [**Phil Rzewski**](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/) - Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
+* [Steven Iveson](http://packetpushers.net/masterclass-tcpdump-interpreting-output/) - Masterclass – Tcpdump – Interpreting Output
+* [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
+* [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
+* [Daniel Miessler](https://danielmiessler.com/study/tcpdump/) - A tcpdump Tutorial and Primer with Examples
+* [Daniel Miessler](https://danielmiessler.com/study/tcpflags/) - How to Remember Your TCP Flags
+* [Working all day](http://workrobot.com/sysadmin/security/tcpdump_expressions.html) - TCPDUMP expressions
+* [Oleg Muravskiy](https://texnoblog.wordpress.com/2010/04/17/using-tcpdump/) - Using tcpdump to see HTTP requests and responses
+* [Steve Howard](http://appcrawler.com/wordpress/2012/08/01/tcpdump-to-see-oracle-errors/) - tcpdump to see Oracle errors
+* [SystemRescueCd](http://www.system-rescue-cd.org/) - a Linux system rescue disk available as a bootable CD-ROM or USB stick for fixing your system and data after a crash.
+* [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
+* [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
+* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
+* :star: [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
+* [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
+* [Jeff Jones](http://outofmyhead.olssonandjones.com/2017/12/02/wget-cant-execute-ssl_helper/) - (2017) `wget: can't execute 'ssl_helper': No such file or directory wget: error getting response: Connection reset by peer` | error happening in alpine container 3.5.2. **Bonus** : seem to be as design... see [docker-library/busybox/issues/25](https://github.com/docker-library/busybox/issues/25)
+* [Ask Ubuntu on Stack Exchange](https://askubuntu.com/questions/631077/problem-with-deluge-no-incoming-connection) - Problem with Deluge: “no incoming connection!”
 
 # UX / UI
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
