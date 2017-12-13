@@ -1236,6 +1236,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [Find your Facebook ID](https://findmyfbid.com/) - find the Facebook personal numeric ID for fb:admins, social plugins, and more. Provide the profile URL of a page or your profile and get the Facebook (context) id. This id can then be used to [find similar pages](https://www.facebook.com/pages/?ref=page_suggestions_on_liking_refresh&frompageid=)
 * [Ecoscore](http://ecoscore.be/) - find and compare the ecoscores of new and old vehicles
+* [ODA](https://onlinedisassembler.com/odaweb/) - The online disassembler
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2865,6 +2866,7 @@ Raw
 * [JD Project](http://jd.benow.ca/) - yet another fast java decompiler
 * [Caleb Fenton/apkfile](https://github.com/CalebFenton/apkfile) - ApkFile : Android app analysis and feature extraction library
 * [Caleb Fenton/simplify](https://github.com/CalebFenton/simplify) - Simplify : Generic Android Deobfuscator
+* [ODA](https://onlinedisassembler.com/odaweb/) - The online disassembler
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
