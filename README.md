@@ -277,6 +277,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Rachel Potvin & Josh Levenberg](https://dl.acm.org/citation.cfm?id=2854146) - Why Google stores billions of lines of code in a single repository
 * [Lenny Zeltser](https://zeltser.com/human-communications-cheat-sheet/) - Tips for Troubleshooting Human Communications | Human Communications Cheat Sheet
 * [Michael Lynch](https://mtlynch.io/human-code-reviews-1/) - (2017) How to Do Code Reviews Like a Human (Part One). **Bonus** : [Part Two](https://mtlynch.io/human-code-reviews-2/)
+* [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2027,6 +2028,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
 * [David McRaney](https://youarenotsosmart.com/2010/10/27/procrastination/) - (2010) Procrastination
 * [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
+* [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -3431,6 +3433,7 @@ Raw
 * [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
 * [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
 * [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
+* [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
