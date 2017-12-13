@@ -1237,6 +1237,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Find your Facebook ID](https://findmyfbid.com/) - find the Facebook personal numeric ID for fb:admins, social plugins, and more. Provide the profile URL of a page or your profile and get the Facebook (context) id. This id can then be used to [find similar pages](https://www.facebook.com/pages/?ref=page_suggestions_on_liking_refresh&frompageid=)
 * [Ecoscore](http://ecoscore.be/) - find and compare the ecoscores of new and old vehicles
 * [ODA](https://onlinedisassembler.com/odaweb/) - The online disassembler
+* [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service 
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -3186,6 +3187,7 @@ Raw
 * [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
 * [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Team / Red Teaming Resources
 * [Lesley Carhart](https://tisiphone.net/2017/11/27/the-infosec-introvert-travel-blog/) - (2017) The Infosec Introvert Travel Blog
+* [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service 
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
