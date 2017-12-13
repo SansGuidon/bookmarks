@@ -1828,6 +1828,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tim O'Brien](https://discursive.com/2013/10/30/how-to-get-your-crazy-logs-under-control/) - 10 Steps to Get Your Crazy Logs Under Control
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Sumit Maingi](https://cloudncode.blog/2016/12/30/what-should-you-log-in-an-application-and-how-to-avoid-having-24x7-support-looking-at-them/) - (2016) What should you log in an application and how to avoid having 24×7 support looking at them?
+* [Splunk Docs](http://dev.splunk.com/view/logging-best-practices/SP-CAAAFCK) - Logging best practices. **See also** : [Overview of Splunk logging for Java](http://dev.splunk.com/view/splunk-logging-java/SP-CAAAE2K)
 
 ## Monitoring
 * [Rafael Eyng](http://codeheaven.io/monitoring-your-application-status-with-cabot/) - Monitoring Your Application Status With Cabot
