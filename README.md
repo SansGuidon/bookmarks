@@ -280,6 +280,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lenny Zeltser](https://zeltser.com/human-communications-cheat-sheet/) - Tips for Troubleshooting Human Communications | Human Communications Cheat Sheet
 * [Michael Lynch](https://mtlynch.io/human-code-reviews-1/) - (2017) How to Do Code Reviews Like a Human (Part One). **Bonus** : [Part Two](https://mtlynch.io/human-code-reviews-2/)
 * [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
+* [Maura Thomas](https://hbr.org/2017/02/your-teams-time-management-problem-might-be-a-focus-problem) - (2017) Your Team’s Time Management Problem Might Be a Focus Problem
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2036,6 +2037,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [David McRaney](https://youarenotsosmart.com/2010/10/27/procrastination/) - (2010) Procrastination
 * [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
 * [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
+* [Maura Thomas](https://hbr.org/2017/02/your-teams-time-management-problem-might-be-a-focus-problem) - (2017) Your Team’s Time Management Problem Might Be a Focus Problem
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
