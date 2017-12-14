@@ -1942,6 +1942,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
+* [Christian Stewart](https://blog.searchencrypt.com/privacy/privacy-browser-extensions/) - (2017) Favorite Browser Extensions for Privacy 
 
 # Productivity
 > Tips
