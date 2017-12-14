@@ -3073,6 +3073,7 @@ Raw
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/nonportable) - portable vs non portable BASH specific syntax
 * [bats-core/bats-core](https://github.com/bats-core/bats-core) : Bats is a [TAP](https://testanything.org/)-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. **Bonus** : see also the original [sstephenson/bats](https://github.com/sstephenson/bats)
 * [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
+* [Bhaskar Karambelkar](https://dev.to/bhaskar_vk/bash-shell-tricks) - (2017) Bash Shell Tricks
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
