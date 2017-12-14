@@ -2853,6 +2853,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Markus Triska](https://www.metalevel.at/prolog) - [Book] The Power of Prolog. **Bonus** : git repo [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog)
 * [Markus Triska' Home Page](https://www.metalevel.at/) - some interesting prolog resources
 * [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog 
+* [StackOverflow](https://stackoverflow.com/questions/tagged/prolog) - Prolog tagged questions on StackOverflow
+* [Prolog Site](https://sites.google.com/site/prologsite/prolog-problems) - Prolog Problems : a remake of the P-99: Ninety-Nine Prolog Problems
+* [Learn Prolog Now!](http://www.learnprolognow.org/) - a free online introductory course to programming in Prolog
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
