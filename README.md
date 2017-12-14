@@ -505,6 +505,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Concourse CI](https://concourse.ci/) - CI that scales with your project.
 * [Buildbot](https://buildbot.net/) - The Continuous Integration Framework
 * [JP La Torre](http://caylent.com/50-useful-docker-tools/) - 50+ Useful Docker Tools
+* [Asaf Yigal](https://devops.com/sre-vs-devops-false-distinction/) - (2017) SRE vs. DevOps — a False Distinction?
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1805,6 +1806,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * [Softpanorama](http://www.softpanorama.org/Admin/admin_horror_stories.shtml) - classification of sysadmin horror stories
 * [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
+* [Asaf Yigal](https://devops.com/sre-vs-devops-false-distinction/) - (2017) SRE vs. DevOps — a False Distinction?
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
