@@ -186,6 +186,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [99cryptocoin](https://www.99cryptocoin.com/) - Top CryptoCurrency by 24 Hour Trading Volume
 * [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
 * [Cyptocurrency News](http://www.knockknockcoin.com/) - Cyptocurrency news updates
+* [WorldCoinIndex](https://www.worldcoinindex.com/) - Cryptocoin price index and market cap
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
