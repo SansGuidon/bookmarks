@@ -594,6 +594,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - (2017) [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
 * [Jiri Tyr](https://www.slideshare.net/jtyr/automation-and-ansible) - (2016) [Slides] Automation and Ansible
 * [SlideShare](https://www.slideshare.net//tag/ansible) - ansible related slideshares
+* [Ansible](https://www.ansible.com/videos-ansible-automates-2017) - (2017) [Videos] Ansible Automates Videos
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
