@@ -281,6 +281,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Lynch](https://mtlynch.io/human-code-reviews-1/) - (2017) How to Do Code Reviews Like a Human (Part One). **Bonus** : [Part Two](https://mtlynch.io/human-code-reviews-2/)
 * [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
 * [Maura Thomas](https://hbr.org/2017/02/your-teams-time-management-problem-might-be-a-focus-problem) - (2017) Your Team’s Time Management Problem Might Be a Focus Problem
+* [Tanja Roth](https://opensource.com/article/17/12/7-rules) - (2017) 7 rules for avoiding documentation pitfalls
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
