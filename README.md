@@ -3196,6 +3196,7 @@ Raw
 * [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Team / Red Teaming Resources
 * [Lesley Carhart](https://tisiphone.net/2017/11/27/the-infosec-introvert-travel-blog/) - (2017) The Infosec Introvert Travel Blog
 * [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service 
+* [National Vulnerability Database (NVD)](https://nvd.nist.gov/) - U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). Enables automation of vulnerability management, security measurement, and compliance.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
