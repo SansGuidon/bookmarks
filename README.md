@@ -507,6 +507,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Buildbot](https://buildbot.net/) - The Continuous Integration Framework
 * [JP La Torre](http://caylent.com/50-useful-docker-tools/) - 50+ Useful Docker Tools
 * [Asaf Yigal](https://devops.com/sre-vs-devops-false-distinction/) - (2017) SRE vs. DevOps — a False Distinction?
+* [Nicolas De Nayer](https://medium.com/doctolib-engineering/the-duty-guy-the-key-to-empowering-engineers-a43d1fc4706b) - (2017) The Duty Guy: the key to empowering engineers
+* [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.” 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -761,6 +763,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
 * [Laurens Van Houtven](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html) - (2015) Don't expose the Docker socket (not even to a container)
 * [JP La Torre](http://caylent.com/50-useful-docker-tools/) - 50+ Useful Docker Tools
+* [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.” 
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1809,6 +1812,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Softpanorama](http://www.softpanorama.org/Admin/admin_horror_stories.shtml) - classification of sysadmin horror stories
 * [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
 * [Asaf Yigal](https://devops.com/sre-vs-devops-false-distinction/) - (2017) SRE vs. DevOps — a False Distinction?
+* [Nicolas De Nayer](https://medium.com/doctolib-engineering/the-duty-guy-the-key-to-empowering-engineers-a43d1fc4706b) - (2017) The Duty Guy: the key to empowering engineers
+* [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.” 
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2414,6 +2419,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
 * [Will Thames](http://willthames.github.io/2014/04/28/debugging-ansible-for-fun-and-no-profit.html) - (2014) Debugging Ansible for fun and no profit
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/) - (2000) Painless Bug Tracking
+* [Jessy Bernal](https://medium.com/doctolib-engineering/handling-bugs-at-doctolib-847d54fd1990) - (2017) Handling bugs at Doctolib
 
 ## Erlang
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
@@ -2780,6 +2786,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [rfc.me](https://rfc.me/) - Append an RFC number to the domain and it will redirect to that RFC. Example: [rfc.me/1738](https://rfc.me/1738)
 * [FoundersGrid](https://foundersgrid.com/code-management/) - (2014) How 50+ Startups Manage Their Code
 * [Michael Lynch](https://mtlynch.io/human-code-reviews-1/) - (2017) How to Do Code Reviews Like a Human (Part One). **Bonus** : [Part Two](https://mtlynch.io/human-code-reviews-2/)
+* [Jessy Bernal](https://medium.com/doctolib-engineering/handling-bugs-at-doctolib-847d54fd1990) - (2017) Handling bugs at Doctolib
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
