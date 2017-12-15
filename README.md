@@ -1567,6 +1567,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
 * [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
 * [Pradeep Kumar](https://www.linuxtechi.com/nc-ncat-command-examples-linux-systems/) - (2017) 10 useful ncat (nc) Command Examples for Linux Systems
+* [Alan Franzoni](https://www.franzoni.eu/chmod-and-the-capital-x/) - (2015) chmod and the capital X | This is one very, very, very interesting piece of ancient wisdom.
 
 ## Emacs 
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
