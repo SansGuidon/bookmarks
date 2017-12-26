@@ -1055,7 +1055,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 # Finding content
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
 * :star: [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
-* :star: [**Library Genesis**](http://libgen.io/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/). [Mirror #2 with nice UI](https://libgen.pw/) 
+* :star: [**Library Genesis**](http://libgen.io/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.pw/), [Mirrors list](http://sguru.org/libgen-proxy/)
 * [b-ok.org](http://b-ok.org/) - ebooks
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music . 
 * [RuTracker](https://rutracker.org/forum/index.php) - torrent for music
