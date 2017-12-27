@@ -903,6 +903,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Praqma/JenkinsAsCodeReference](https://github.com/Praqma/JenkinsAsCodeReference) - reference Jenkins configuration as code as well as JobDSL library. **Bonus** [description of configuration](https://github.com/Praqma/JenkinsAsCodeReference/blob/master/dockerizeit/master/README.md), [jenkins.properties](https://github.com/Praqma/JenkinsAsCodeReference/blob/master/dockerizeit/master/jenkins.properties)
 * [jenkinsci/jep/201](https://github.com/jenkinsci/jep/tree/master/jep/201) - Jenkins Enhancement Proposals : JEP-201: Jenkins Configuration as Code
 * [Michael Hedgpeth](http://hedge-ops.com/cookbook-pipeline-with-jenkinsfile) - (2017) Cookbook Pipeline with Jenkinsfile
+* [Jason Vanderhoof](https://www.conjur.org/blog/2017/12/19/untangling-jenkins.html) - (2017) Untangling Jenkins | Lessons learned radically overhauling Jenkins for developer and operator happiness
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
