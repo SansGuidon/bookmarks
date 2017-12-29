@@ -4,11 +4,14 @@
 * [Inbox](https://inbox.google.com/u/0/search/in%3Asaved%20and%20in%3Ainbox%20and%20before%3A2017%2F01%2F01) - saved links from before 2017/01/01
 * [GitHub](https://github.com/search?utf8=%E2%9C%93&q=remove+password&type=Commits&ref=searchresults) - removed passwords
 * Foobar : Favorite tracks -> %COMMENT% HAS 4/5 OR %COMMENT% HAS 5/5 OR %COMMENT% HAS 9/10
-* [Hacker News](https://hn.algolia.com/?query=Docker&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year docker news
-* [Hacker News](https://hn.algolia.com/?query=Jenkins&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year jenkins news
-* [Hacker News](https://hn.algolia.com/?query=Ansible&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year ansible news
-* [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year DevOps news
+* [Hacker News](https://hn.algolia.com/?query=Docker&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month docker news
+* [Hacker News](https://hn.algolia.com/?query=Jenkins&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month jenkins news
+* [Hacker News](https://hn.algolia.com/?query=Ansible&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month ansible news
+* [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month DevOps news
 * [Hacker News](https://hn.algolia.com/?query=best%20practices&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Best practices news
+* [Hacker News](https://hn.algolia.com/?query=tricks&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tricks news
+* [Hacker News](https://hn.algolia.com/?query=tips&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tips news
+* [Hacker News](https://hn.algolia.com/?query=productivity&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Productivity news
 * [Untappd](https://untappd.com/user/MorganGeek/beers?sort=highest_rated_their) - MorganGeek' favorite beers
 * [Untappd](https://untappd.com/user/MorganGeek/wishlist) - MorganGeek' wishlist of beers
 * [GitHub](https://github.com/search?utf8=%E2%9C%93&q=declarative+stage+steps&type=Code) - Examples of declarative jenkins pipelines
