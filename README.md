@@ -326,6 +326,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html) - (2017) Advice on starting a programming blog
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 * [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - (2010) Confirmation Bias
+* [Buy Me A Coffee](https://www.producthunt.com/posts/buy-me-a-coffee) - A free, fast and beautiful way to accept donations
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -400,6 +401,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels' (Amazon' CTO) weblog on building scalable and robust distributed systems.
 * [GoCD Blog](https://www.gocd.org/blog/) - Continuous Delivery techniques, thoughts, learnings
 * [Redgate Blog](https://www.red-gate.com/blog/database-devops) - Database / DevOps articles
+* [Pivotal](https://content.pivotal.io/) - featured news & stories about DevOps, Cloud, Containers, Software etc. 
+* [Build to Adapt at Pivotal](https://builttoadapt.io/) - Stories and insights on how software is changing the way society and businesses are built, from Pivotal.
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -523,6 +526,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Please, developers, don’t get smug. I’m starting with you because you’re a core part of the problem here. Go back and re-read the definitions of DevOps … I’ll wait … You have to notice one salient point. Nowhere does it say, “Developers rule the world”, or “Developers have ‘SA’ privileges”, or “We get to ignore the Operations side of IT and do anything we want”. No, instead, it talks about cooperation.
 * [DevOpsGuys](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-1) - (2017) Where’s the Ops in DevOps? Part 1. **See also** : [Part 2](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-2) and [Part 3](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-3) 
 > DevOps does not equal ‘Developers managing Production’
+* [Jason Bloomberg](http://websphere.sys-con.com/node/4122435) - (2017) Is #DevOps Falling into the Maturity Trap? 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -2884,6 +2888,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [WFH-excuses](https://us-central1-wfh-excuses-gh.cloudfunctions.net/wfh) - Working from Home excuses generator. **Bonus** : [GitHub repo](https://github.com/lnfnunes/WFH-excuses)
 * [shitcode](http://shitcode.net/latest) - a home for shittiest code from all over the world
 * [Govnokod.ru](http://govnokod.ru/) - [RU] :ru: laugh together about stupid code
+* [Mischa von Nachtigal](https://builttoadapt.io/how-to-explain-your-tech-job-to-your-family-905a7c367e2a) - (2017) How to Explain Your Tech Job to Your Family
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
