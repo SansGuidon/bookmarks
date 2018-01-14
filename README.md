@@ -189,6 +189,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cyptocurrency News](http://www.knockknockcoin.com/) - Cyptocurrency news updates
 * [WorldCoinIndex](https://www.worldcoinindex.com/) - Cryptocoin price index and market cap
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
+* [Chia Network](https://chia.network/) - blockchain based on proofs of space and time to make a cryptocurrency which is less wasteful, more decentralized, and more secure.
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
