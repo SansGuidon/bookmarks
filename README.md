@@ -190,6 +190,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [WorldCoinIndex](https://www.worldcoinindex.com/) - Cryptocoin price index and market cap
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 * [Chia Network](https://chia.network/) - blockchain based on proofs of space and time to make a cryptocurrency which is less wasteful, more decentralized, and more secure.
+* [Bruce Hunt](https://hackernoon.com/the-art-of-hodling-crypto-cant-make-this-sh-t-up-713149eb9a21) - (2018) The Art Of Hodling Crypto: Can’t Make this Sh*t Up
+> If you took 5 of the cryptocurrencies and if you invested $1,000 in each on Jan 1st 2017…  you would have : $655,527 for $5,000 invested.
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3254,6 +3256,8 @@ Raw
 * [Lesley Carhart](https://tisiphone.net/2017/11/27/the-infosec-introvert-travel-blog/) - (2017) The Infosec Introvert Travel Blog
 * [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service 
 * [National Vulnerability Database (NVD)](https://nvd.nist.gov/) - U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). Enables automation of vulnerability management, security measurement, and compliance.
+* [David Gilbertson](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) - (2018) I’m harvesting credit card numbers and passwords from your site. Here’s how.
+> If an attacker successfully injects any code at all, it’s pretty much game over
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
