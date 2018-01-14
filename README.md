@@ -1745,6 +1745,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
 * [nixCraft](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/) - Top 32 Nmap Command Examples For Sys/Network Admins
 * [LZone](https://lzone.de/cheat-sheet/Linux-Networking) - Linux networking cheatsheet
+* [AboutMyX](http://www.aboutmyip.com/AboutMyXApp/SubnetCalculator.jsp?ipAddress=192.168.16.0&cidr=24) - Subnet mask calculator
 
 # News
 * :star: [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
@@ -2891,6 +2892,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [shitcode](http://shitcode.net/latest) - a home for shittiest code from all over the world
 * [Govnokod.ru](http://govnokod.ru/) - [RU] :ru: laugh together about stupid code
 * [Mischa von Nachtigal](https://builttoadapt.io/how-to-explain-your-tech-job-to-your-family-905a7c367e2a) - (2017) How to Explain Your Tech Job to Your Family
+* [devRant](https://devrant.com/feed/top/all) - fun community for developers
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -2901,7 +2903,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog 
 * [StackOverflow](https://stackoverflow.com/questions/tagged/prolog) - Prolog tagged questions on StackOverflow
 * [Prolog Site](https://sites.google.com/site/prologsite/prolog-problems) - Prolog Problems : a remake of the P-99: Ninety-Nine Prolog Problems
-* [Learn Prolog Now!](http://www.learnprolognow.org/) - a free online introductory course to programming in Prolog
+* [Learn Prolog Now!](https://devrant.com/feed/) - a free online introductory course to programming in Prolog
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
