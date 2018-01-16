@@ -2133,7 +2133,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [ty-/spec-style-guide](https://github.com/ty-/spec-style-guide) - some best practices for writing markdown based specifications to be printable by gitprint.com and pandoc
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 * [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
-
+* [Send to Kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea) - extension for Google Chrome, for sending web content (articles, blog posts) to your Kindle device in one click
 # Programming
 > News
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
