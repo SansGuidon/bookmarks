@@ -158,6 +158,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
+* [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
 
 # Business & Economics
 * [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
