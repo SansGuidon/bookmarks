@@ -289,6 +289,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Maura Thomas](https://hbr.org/2017/02/your-teams-time-management-problem-might-be-a-focus-problem) - (2017) Your Team’s Time Management Problem Might Be a Focus Problem
 * [Tanja Roth](https://opensource.com/article/17/12/7-rules) - (2017) 7 rules for avoiding documentation pitfalls
 * [GROWS Method](http://growsmethod.com/) - What is GROWS?
+* [Catherine Louis](https://opensource.com/article/17/11/inclusive-workforce-takes-work) - (2017) 20 questions DevOps hiring managers should be prepared to answer
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -531,6 +532,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DevOpsGuys](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-1) - (2017) Where’s the Ops in DevOps? Part 1. **See also** : [Part 2](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-2) and [Part 3](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-3) 
 > DevOps does not equal ‘Developers managing Production’
 * [Jason Bloomberg](http://websphere.sys-con.com/node/4122435) - (2017) Is #DevOps Falling into the Maturity Trap? 
+* [Catherine Louis](https://opensource.com/article/17/11/inclusive-workforce-takes-work) - (2017) 20 questions DevOps hiring managers should be prepared to answer
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
