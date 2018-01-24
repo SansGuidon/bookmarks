@@ -533,6 +533,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > DevOps does not equal ‘Developers managing Production’
 * [Jason Bloomberg](http://websphere.sys-con.com/node/4122435) - (2017) Is #DevOps Falling into the Maturity Trap? 
 * [Catherine Louis](https://opensource.com/article/17/11/inclusive-workforce-takes-work) - (2017) 20 questions DevOps hiring managers should be prepared to answer
+* [Carlos Nunez](https://opensource.com/article/18/1/getting-devops) - (2018) How to get into DevOps
+* [Thomas Steinborn](https://opensource.com/article/18/1/future-devops) - (2018) The future of DevOps is mastery of multi-cloud environments
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
