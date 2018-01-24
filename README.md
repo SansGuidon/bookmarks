@@ -1592,6 +1592,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
 * [Pradeep Kumar](https://www.linuxtechi.com/nc-ncat-command-examples-linux-systems/) - (2017) 10 useful ncat (nc) Command Examples for Linux Systems
 * [Alan Franzoni](https://www.franzoni.eu/chmod-and-the-capital-x/) - (2015) chmod and the capital X | This is one very, very, very interesting piece of ancient wisdom.
+* [Michael Kwaku Aboagye](https://opensource.com/article/18/1/securing-linux-filesystem-tripwire) - (2018) Securing the Linux filesystem with Tripwire
 
 ## Emacs 
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -3262,6 +3263,7 @@ Raw
 * [National Vulnerability Database (NVD)](https://nvd.nist.gov/) - U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). Enables automation of vulnerability management, security measurement, and compliance.
 * [David Gilbertson](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) - (2018) I’m harvesting credit card numbers and passwords from your site. Here’s how.
 > If an attacker successfully injects any code at all, it’s pretty much game over
+* [Michael Kwaku Aboagye](https://opensource.com/article/18/1/securing-linux-filesystem-tripwire) - (2018) Securing the Linux filesystem with Tripwire
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
