@@ -2426,6 +2426,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Lynch](https://mtlynch.io/human-code-reviews-1/) - (2017) How to Do Code Reviews Like a Human (Part One). **Bonus** : [Part Two](https://mtlynch.io/human-code-reviews-2/)
 * [Timothy Appnel](https://www.ansible.com/blog/ansible-best-practices-essentials) - Ansible Best Practices: The Essentials. **Bonus** : [Video](https://www.ansible.com/videos-ansible-automates-ansible-best-practices-the-essentials)
 * [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
+* [Yunkai Zhou](https://medium.freecodecamp.org/climbing-the-code-quality-ladder-babd3198e6e2) - (2018) Climbing The Code Quality Ladder
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
