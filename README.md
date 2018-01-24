@@ -536,6 +536,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Catherine Louis](https://opensource.com/article/17/11/inclusive-workforce-takes-work) - (2017) 20 questions DevOps hiring managers should be prepared to answer
 * [Carlos Nunez](https://opensource.com/article/18/1/getting-devops) - (2018) How to get into DevOps
 * [Thomas Steinborn](https://opensource.com/article/18/1/future-devops) - (2018) The future of DevOps is mastery of multi-cloud environments
+* [Angie Jones](https://techbeacon.com/6-reasons-co-locate-your-app-automation-code) - (2018) 6 reasons to co-locate your app and automation code
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1284,6 +1285,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
 * [AboutMyX](http://www.aboutmyip.com/AboutMyXApp/SubnetCalculator.jsp?ipAddress=192.168.16.0&cidr=24) - Subnet mask calculator
 * [WalletGenerator](https://walletgenerator.net/) - Paper Wallet Generator for BitCoins and other cryptocurrencies. Create, Print & Fold
+* [Julia Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) - Research / Investigation tools
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2145,6 +2147,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 * [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * [Send to Kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea) - extension for Google Chrome, for sending web content (articles, blog posts) to your Kindle device in one click
+* [Julia Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) - Research / Investigation tools
+
 # Programming
 > News
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
@@ -2837,6 +2841,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Lynch](https://mtlynch.io/human-code-reviews-1/) - (2017) How to Do Code Reviews Like a Human (Part One). **Bonus** : [Part Two](https://mtlynch.io/human-code-reviews-2/)
 * [Jessy Bernal](https://medium.com/doctolib-engineering/handling-bugs-at-doctolib-847d54fd1990) - (2017) Handling bugs at Doctolib
 * [Chris Hermansen](https://opensource.com/article/18/1/two-great-uses-cp-command-update) - (2018) Two great uses for the cp command: Bash shortcuts
+* [Angie Jones](https://techbeacon.com/6-reasons-co-locate-your-app-automation-code) - (2018) 6 reasons to co-locate your app and automation code
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
