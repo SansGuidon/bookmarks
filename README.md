@@ -159,6 +159,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
 * [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
+* [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
 
 # Business & Economics
 * [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
@@ -2916,6 +2917,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Govnokod.ru](http://govnokod.ru/) - [RU] :ru: laugh together about stupid code
 * [Mischa von Nachtigal](https://builttoadapt.io/how-to-explain-your-tech-job-to-your-family-905a7c367e2a) - (2017) How to Explain Your Tech Job to Your Family
 * [devRant](https://devrant.com/feed/top/all) - fun community for developers
+* [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
