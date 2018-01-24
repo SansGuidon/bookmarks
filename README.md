@@ -193,6 +193,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chia Network](https://chia.network/) - blockchain based on proofs of space and time to make a cryptocurrency which is less wasteful, more decentralized, and more secure.
 * [Bruce Hunt](https://hackernoon.com/the-art-of-hodling-crypto-cant-make-this-sh-t-up-713149eb9a21) - (2018) The Art Of Hodling Crypto: Can’t Make this Sh*t Up
 > If you took 5 of the cryptocurrencies and if you invested $1,000 in each on Jan 1st 2017…  you would have : $655,527 for $5,000 invested.
+* [WalletGenerator](https://walletgenerator.net/) - Paper Wallet Generator for BitCoins and other cryptocurrencies. Create, Print & Fold
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1282,6 +1283,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service 
 * [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
 * [AboutMyX](http://www.aboutmyip.com/AboutMyXApp/SubnetCalculator.jsp?ipAddress=192.168.16.0&cidr=24) - Subnet mask calculator
+* [WalletGenerator](https://walletgenerator.net/) - Paper Wallet Generator for BitCoins and other cryptocurrencies. Create, Print & Fold
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
