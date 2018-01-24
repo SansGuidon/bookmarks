@@ -3374,6 +3374,7 @@ Raw
 * [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
 * [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence. 
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
+* [Bloomberg](https://www.bloomberg.com/graphics/pessimists-guide-to-2018/) - (2017) The Pessimist's Guide to 2018
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
