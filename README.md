@@ -538,6 +538,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Carlos Nunez](https://opensource.com/article/18/1/getting-devops) - (2018) How to get into DevOps
 * [Thomas Steinborn](https://opensource.com/article/18/1/future-devops) - (2018) The future of DevOps is mastery of multi-cloud environments
 * [Angie Jones](https://techbeacon.com/6-reasons-co-locate-your-app-automation-code) - (2018) 6 reasons to co-locate your app and automation code
+* [Maxime Choffat](https://mrrandol.github.io/devops_meetup_slides/index.html#/cover) - (2018) [Slides] of You said DevOps ? - Introduction to DevOps [Meetup](https://www.meetup.com/fr-FR/Brussels-WeCraft-DevOps/events/246397252/)
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
