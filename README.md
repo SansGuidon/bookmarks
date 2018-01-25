@@ -2982,6 +2982,7 @@ Raw
 * [RTBF - La Première](https://www.rtbf.be/lapremiere/podcast) - [FR] :fr: Podcasts de la Première
 * [You Are Not So Smart](https://youarenotsosmart.com/podcast/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can.
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456) - (2017) [FR] :fr: Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Video](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414)
+* [Le Bureau des Mystères](https://soundcloud.com/bureaudesmysteres/special-creepypasta-et-legendes-urbaines-1#t=14:56) - [FR] :fr: creepypasta et légendes urbaines préférées... les mystères de Disneyland 
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
