@@ -544,6 +544,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Thomas Steinborn](https://opensource.com/article/18/1/future-devops) - (2018) The future of DevOps is mastery of multi-cloud environments
 * [Angie Jones](https://techbeacon.com/6-reasons-co-locate-your-app-automation-code) - (2018) 6 reasons to co-locate your app and automation code
 * [Maxime Choffat](https://mrrandol.github.io/devops_meetup_slides/index.html#/cover) - (2018) [Slides] of You said DevOps ? - Introduction to DevOps [Meetup](https://www.meetup.com/fr-FR/Brussels-WeCraft-DevOps/events/246397252/)
+* [CloudBees](file:///C:/Users/Morgan/Downloads/Temporaire/Continuous_Delivery_Infographic.pdf) - (2014) [PDF] Infographic on Continuous Delivery: Are you really doing it? 41% think they are, only 8% truly are
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
