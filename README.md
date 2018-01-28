@@ -2331,6 +2331,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
 * [FoundersGrid](https://foundersgrid.com/code-management/) - (2014) How 50+ Startups Manage Their Code
 * [Rachel Potvin & Josh Levenberg](https://dl.acm.org/citation.cfm?id=2854146) - Why Google stores billions of lines of code in a single repository
+* [Florian Beijers](https://medium.freecodecamp.org/looking-back-to-what-started-it-all-731ef5424aec) - (2015) A Vision of Coding, Without Opening your Eyes
+* [pktzero](https://pktzero.wordpress.com/2015/01/11/reactive-programming-by-example/) - (2015) Reactive programming by example
+* [André Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - (2014) The introduction to Reactive Programming you've been missing
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
