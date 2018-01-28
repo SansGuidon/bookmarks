@@ -2353,6 +2353,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lexicalscope Ltd](http://www.lexicalscope.com/blog/2012/03/12/how-are-rest-apis-versioned/) - How are REST APIs versioned?
 * [Martin Nally](https://apigee.com/about/blog/api-technology/api-design-choosing-between-names-and-identifiers-urls) - (2017) API Design: Choosing Between Names and Identifiers in URLs
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
+* [DZone](http://www.surveygizmo.com/s3/1883619/Developer-Personality-Test) - Developer Personality Test
 
 ## C/C++
 * [Mike Acton](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - (2014) [Slides] Data oriented design principles and c++
