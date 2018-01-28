@@ -3388,6 +3388,7 @@ Raw
 * [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence. 
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
 * [Bloomberg](https://www.bloomberg.com/graphics/pessimists-guide-to-2018/) - (2017) The Pessimist's Guide to 2018
+* [Karl Jilg](https://twitter.com/voxdotcom/status/534731895930896384/photo/1) - (2014) [IMG] brilliant illustration shows how much public space we've surrendered to cars 
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
