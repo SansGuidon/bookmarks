@@ -2939,6 +2939,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
 * [Phortail](https://phortail.org/blagues/informatique-0272.html) - [FR] :fr: Si les OS étaient des compagnies aériennes
 * [coreight](http://coreight.com/content/os-vraie-vie-velo) - [FR] :fr: Si les OS étaient des vélos
+* [ChooseYourBoss](https://www.chooseyourboss.com/quel_dev_etes_vous) - [FR] :fr: Quel développeur êtes-vous ? (Test)
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
