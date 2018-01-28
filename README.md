@@ -2085,6 +2085,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Erlend Hamberg](https://hamberg.no/gtd/) - (2012) GTD in 15 minutes – A Easy, Pragmatic Guide to Getting Things Done
 * [Sean Quinn](https://lifehacker.com/5611657/use-a-weekly-review-list-to-stay-a-step-ahead-this-semester) - (2010) Use a Weekly Review List to Stay a Step Ahead This Semester
 * [Peter G. Klein](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/) - (2010) How to Read an Academic Article
+* [Timo Van Neerden](https://lehollandaisvolant.net/?id=20150201112318) - (2015) [FR] :fr: Comment partager facilement un mot de passe Wi-Fi?
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
