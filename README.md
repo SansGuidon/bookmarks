@@ -1182,6 +1182,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] :fr: [Videos] best funny videos from internet
 * [Wolfram Alpha](https://www.wolframalpha.com/) - ultra-nerdy search engine with advanced features 
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
+* [Paul Myers](http://researchclinic.net/facebooksecrets/) - Facebook Secrets
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
