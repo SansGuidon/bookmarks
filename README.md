@@ -2447,6 +2447,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Timothy Appnel](https://www.ansible.com/blog/ansible-best-practices-essentials) - Ansible Best Practices: The Essentials. **Bonus** : [Video](https://www.ansible.com/videos-ansible-automates-ansible-best-practices-the-essentials)
 * [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
 * [Yunkai Zhou](https://medium.freecodecamp.org/climbing-the-code-quality-ladder-babd3198e6e2) - (2018) Climbing The Code Quality Ladder
+* [Andy Zaidman](https://azaidman.wordpress.com/2015/01/19/old-habits-die-hard-why-refactoring-for-understandability-does-not-give-immediate-benefits/) - (2015) Old Habits Die Hard: Why Refactoring for Understandability Does Not Give Immediate Benefits
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
@@ -2860,6 +2861,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jessy Bernal](https://medium.com/doctolib-engineering/handling-bugs-at-doctolib-847d54fd1990) - (2017) Handling bugs at Doctolib
 * [Chris Hermansen](https://opensource.com/article/18/1/two-great-uses-cp-command-update) - (2018) Two great uses for the cp command: Bash shortcuts
 * [Angie Jones](https://techbeacon.com/6-reasons-co-locate-your-app-automation-code) - (2018) 6 reasons to co-locate your app and automation code
+* [Andy Zaidman](https://azaidman.wordpress.com/2015/01/19/old-habits-die-hard-why-refactoring-for-understandability-does-not-give-immediate-benefits/) - (2015) Old Habits Die Hard: Why Refactoring for Understandability Does Not Give Immediate Benefits
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
