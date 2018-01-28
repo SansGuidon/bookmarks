@@ -3038,6 +3038,7 @@ Raw
 * [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - (2010) Confirmation Bias
 * [David McRaney](https://youarenotsosmart.com/2010/05/19/fanboyism-and-brand-loyalty/) - (2010) Fanboyism and Brand Loyalty
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
+* [Kyungsub Steve Choi](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.398.7011&rep=rep1&type=pdf) - (2006) [PDF] An Analysis of Computing Major Students’ Myers-Briggs Type Indicator Distribution
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
