@@ -2013,6 +2013,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christian Stewart](https://blog.searchencrypt.com/privacy/privacy-browser-extensions/) - (2017) Favorite Browser Extensions for Privacy 
 * [The Battle for Net Neutrality](https://www.battleforthenet.com/) - The Internet is under attack. But we can still win.
 * [Georg Szalai](https://www.hollywoodreporter.com/news/google-chairman-eric-schmidt-internet-765989) - (2015) Google Chairman Eric Schmidt: "The Internet Will Disappear"
+* [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 
 # Productivity
 > Tips
@@ -2159,6 +2160,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * [Send to Kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea) - extension for Google Chrome, for sending web content (articles, blog posts) to your Kindle device in one click
 * [Julia Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) - Research / Investigation tools
+* [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 
 # Programming
 > News
@@ -3368,6 +3370,7 @@ Raw
 * [Frédéric Kayser](https://openweb.eu.org/articles/https-de-ssl-a-tls-1-3) - (2017) [FR] :fr: HTTPS : de SSL à TLS 1.3
 * [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources. 
 * [chrome site data settings](chrome://settings/siteData) open `chrome://settings/siteData`in Chrome to manage cookies / sites data
+* [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
