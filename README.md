@@ -152,6 +152,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 * [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
+* [Michael Bernstein](https://codeclimate.com/blog/choose-protocol-buffers/) - (2014) 5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -334,6 +335,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 * [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - (2010) Confirmation Bias
 * [Buy Me A Coffee](https://www.producthunt.com/posts/buy-me-a-coffee) - A free, fast and beautiful way to accept donations
+* [Vala Afshar](https://twitter.com/ValaAfshar/status/546820366421991424/photo/1) - (2014) [IMG] 33 ways to stay creative:
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -2668,6 +2670,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [353Solutions](https://www.353.solutions/py2go/index.html) - Python to Go CheatSheet
 * [Nemanja Mijailovic](https://mijailovic.net/2017/07/29/go-fuzz/) - (2017) Going down the rabbit hole with go-fuzz | testing techniques
 * [Jérôme Petazzoni](https://jpetazzo.github.io/2016/09/09/go-docker/) - (2016) Go + Docker = ♥ | tips and tricks showing how Docker can be useful when working with Go code
+* [Google Developers](https://developers.google.com/protocol-buffers/docs/gotutorial) - Protocol Buffer Basics: Go
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -2704,6 +2707,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [James Ward](http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong) - (2014) Java Doesn’t Suck – You’re Just Using it Wrong
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/java-for-everything.html) - (2014) I started to form a strange idea: That Java is the right language for all jobs.
+* [Google Developers](https://developers.google.com/protocol-buffers/docs/javatutorial) - Protocol Buffer Basics: Java
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
