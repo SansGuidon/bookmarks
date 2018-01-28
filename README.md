@@ -293,6 +293,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tanja Roth](https://opensource.com/article/17/12/7-rules) - (2017) 7 rules for avoiding documentation pitfalls
 * [GROWS Method](http://growsmethod.com/) - What is GROWS?
 * [Catherine Louis](https://opensource.com/article/17/11/inclusive-workforce-takes-work) - (2017) 20 questions DevOps hiring managers should be prepared to answer
+* [Dr. Travis Bradberry](https://www.linkedin.com/pulse/how-successful-people-overcome-bad-bosses-dr-travis-bradberry/) - (2015) How Successful People Overcome Toxic Bosses
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
