@@ -54,9 +54,10 @@
 * Don't wait for the perfect moment. Take the moment and make it perfect. - [Zoey Sayward](https://twitter.com/wealthbits/statuses/542490804535566336)
 * Good design is not about making everything flexible. It's about making the right things flexible. - [John D. Cook](https://www.johndcook.com/blog/2008/02/18/what-to-make-flexible/)
 * Google is software developer’s best friend - [Umer Mansoor](https://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/)
-* Being a good programmer is 3% Talent 97% Not being distracted by the Internet - [Programming Knot‏](https://twitter.com/PrototypeChain/statuses/539658036474691586)
+* Being a good programmer is 3% Talent 97% Not being distracted by the Internet - [Programming Knot](https://twitter.com/PrototypeChain/statuses/539658036474691586)
 * Each new user of a new system uncovers a new class of bugs - [Brian W. Kernighan](https://twitter.com/CodeWisdom/status/797146627215605760)
 * Good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun. - [Linux Torvalds](https://twitter.com/eBourgess/status/914557366380711938)
 * Bad programmers worry about the code. Good programmers worry about data structures & their relationships. - [Linux Torvalds](https://twitter.com/RichRogersIoT/status/918989943074062336)
 * Le bonheur, c’est de réaliser sa nature profonde | Happiness consists in living in accordance with our deeper nature, developing our personality so that we can enjoy life and the world with the richest sensibility we can. - [Frédéric Lenoir](http://www.sophrologie-chevalier.fr/en-savoir-plus/bonheur-cest-de-realiser-nature-profonde/)
 * Don’t seek that all that comes about should come about as you wish, but wish that everything that comes about should come about just as it does, and then you will have a calm and happy life - Frédéric Lenoir
+* [IMG] Most of what we call management consists of making it difficult for people to get their work done. - [Vala Afshar](https://twitter.com/ValaAfshar/status/561275884116918272/photo/1)
