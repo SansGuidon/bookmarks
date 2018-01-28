@@ -3550,6 +3550,7 @@ Raw
 * [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
 * [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
 * [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
+* [Steve Faulkner](http://html5doctor.com/html5-check-it-before-you-wreck-it-with-miketm-smith/) - (2014) HTML5 – Check it Before you Wreck it
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
