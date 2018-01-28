@@ -2007,6 +2007,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [Christian Stewart](https://blog.searchencrypt.com/privacy/privacy-browser-extensions/) - (2017) Favorite Browser Extensions for Privacy 
 * [The Battle for Net Neutrality](https://www.battleforthenet.com/) - The Internet is under attack. But we can still win.
+* [Georg Szalai](https://www.hollywoodreporter.com/news/google-chairman-eric-schmidt-internet-765989) - (2015) Google Chairman Eric Schmidt: "The Internet Will Disappear"
 
 # Productivity
 > Tips
@@ -2920,6 +2921,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mischa von Nachtigal](https://builttoadapt.io/how-to-explain-your-tech-job-to-your-family-905a7c367e2a) - (2017) How to Explain Your Tech Job to Your Family
 * [devRant](https://devrant.com/feed/top/all) - fun community for developers
 * [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
+* [Phortail](https://phortail.org/blagues/informatique-0272.html) - [FR] :fr: Si les OS étaient des compagnies aériennes
+* [coreight](http://coreight.com/content/os-vraie-vie-velo) - [FR] :fr: Si les OS étaient des vélos
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
