@@ -161,6 +161,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
 * [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
 * [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
+* [Christelle Mozzati](http://blog.christellemozzati.fr/un-graphiste-pourquoi-cest-cher/) - (2013) [FR] :fr: Un graphiste, pourquoi c’est cher ?
 
 # Business & Economics
 * [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
