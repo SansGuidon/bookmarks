@@ -61,3 +61,4 @@
 * Le bonheur, c’est de réaliser sa nature profonde | Happiness consists in living in accordance with our deeper nature, developing our personality so that we can enjoy life and the world with the richest sensibility we can. - [Frédéric Lenoir](http://www.sophrologie-chevalier.fr/en-savoir-plus/bonheur-cest-de-realiser-nature-profonde/)
 * Don’t seek that all that comes about should come about as you wish, but wish that everything that comes about should come about just as it does, and then you will have a calm and happy life - Frédéric Lenoir
 * [IMG] Most of what we call management consists of making it difficult for people to get their work done. - [Vala Afshar](https://twitter.com/ValaAfshar/status/561275884116918272/photo/1)
+* Before cofounding GitHub I applied for an engineering job at Yahoo and didn’t get it. Don’t let other people discourage you. [Chris Wanstrath](https://twitter.com/defunkt/statuses/469607846527520768)
