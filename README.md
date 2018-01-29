@@ -945,6 +945,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [jenkinsci/jep/201](https://github.com/jenkinsci/jep/tree/master/jep/201) - Jenkins Enhancement Proposals : JEP-201: Jenkins Configuration as Code
 * [Michael Hedgpeth](http://hedge-ops.com/cookbook-pipeline-with-jenkinsfile) - (2017) Cookbook Pipeline with Jenkinsfile
 * [Jason Vanderhoof](https://www.conjur.org/blog/2017/12/19/untangling-jenkins.html) - (2017) Untangling Jenkins | Lessons learned radically overhauling Jenkins for developer and operator happiness
+* [Iren Korkishko](https://dev.to/iriskatastic/start-continuous-integration-with-jenkins-pipeline-4edb) - (2018) Start Continuous integration with Jenkins Pipeline
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
