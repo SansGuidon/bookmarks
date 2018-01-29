@@ -297,6 +297,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dr. Travis Bradberry](https://www.linkedin.com/pulse/how-successful-people-overcome-bad-bosses-dr-travis-bradberry/) - (2015) How Successful People Overcome Toxic Bosses
 * [Dominic Krimmer](https://www.dkrimmer.de/2015/02/01/10-powerful-tips-on-how-to-support-a-team-based-learning-culture/) - (2015) 10 powerful tips on how to support a team-based learning culture
 * [Dominic Krimmer](https://www.dkrimmer.de/2017/09/04/why-we-kicked-our-estimation-meetings/) - (2017) Why We Kicked Estimation Meetings (And Maybe You Should Too)
+* [One on One Meeting Template](https://www.oneonemeeting.com/template) - a template to support you while leading one on one meetings.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2166,6 +2167,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Send to Kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea) - extension for Google Chrome, for sending web content (articles, blog posts) to your Kindle device in one click
 * [Julia Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) - Research / Investigation tools
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
+* [One on One Meeting Template](https://www.oneonemeeting.com/template) - a template to support you while leading one on one meetings.
 
 # Programming
 > News
