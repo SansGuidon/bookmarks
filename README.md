@@ -298,6 +298,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dominic Krimmer](https://www.dkrimmer.de/2015/02/01/10-powerful-tips-on-how-to-support-a-team-based-learning-culture/) - (2015) 10 powerful tips on how to support a team-based learning culture
 * [Dominic Krimmer](https://www.dkrimmer.de/2017/09/04/why-we-kicked-our-estimation-meetings/) - (2017) Why We Kicked Estimation Meetings (And Maybe You Should Too)
 * [One on One Meeting Template](https://www.oneonemeeting.com/template) - a template to support you while leading one on one meetings.
+* [Sarah Cooper](https://thecooperreview.com/how-to-politely-tell-loud-coworkers-to-shut-up/) - How to Politely Tell Your Coworkers to Shut the F*ck up
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
