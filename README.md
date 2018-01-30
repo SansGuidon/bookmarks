@@ -2952,6 +2952,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [coreight](http://coreight.com/content/os-vraie-vie-velo) - [FR] :fr: Si les OS étaient des vélos
 * [ChooseYourBoss](https://www.chooseyourboss.com/quel_dev_etes_vous) - [FR] :fr: Quel développeur êtes-vous ? (Test)
 * [Coding Confessional](https://www.codingconfessional.com/) - Anonymous Confessions from Programmers.
+* [Sebiwi](https://sebiwi.github.io/comics/) - drawings about tech and stuff
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
