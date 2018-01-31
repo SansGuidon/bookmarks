@@ -422,6 +422,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Praqma Stories](https://www.praqma.com/stories/) - Newest stories of The Continuous Delivery Company
 * [The Continuous Delivery Aliance](http://alliance.praqma.com/initiatives/) - a community of Continuous Delivery and DevOps companies who work together to learn and facilitate best practices shared among the members.
 * [GitLab](https://about.gitlab.com/blog/archives.html) - Blog archives, mixed content about GitLab, DevOps and CI/CD
+* [Codeship](https://blog.codeship.com/archive/) - Codeship Blog, about CI/CD
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
