@@ -425,6 +425,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Codeship](https://blog.codeship.com/archive/) - Codeship Blog, about CI/CD
 * [ThoughtWorks Insights](https://www.thoughtworks.com/insights) - ThoughtWorks Insights
 * [ThoughtWorks Insights](https://www.thoughtworks.com/insights/continuous-delivery) - ThoughtWorks Insights on continuous delivery
+* [Paul Hammant's Blog](https://paulhammant.com/archive/) - articles about CD, DevOps, etc. **Specific sections** : [Continuous_Delivery](https://paulhammant.com/categories.html#Continuous_Delivery) and [DevOps](https://paulhammant.com/categories.html#DevOps)
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
