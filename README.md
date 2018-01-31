@@ -418,6 +418,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Redgate Blog](https://www.red-gate.com/blog/database-devops) - Database / DevOps articles
 * [Pivotal](https://content.pivotal.io/) - featured news & stories about DevOps, Cloud, Containers, Software etc. 
 * [Build to Adapt at Pivotal](https://builttoadapt.io/) - Stories and insights on how software is changing the way society and businesses are built, from Pivotal.
+* [Praqma Stories](https://www.praqma.com/stories/) - Newest stories of The Continuous Delivery Company
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -809,6 +810,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The HFT Guy](https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/) - (2016) Docker in Production: A History of Failure
 * [Jennifer Riggins](https://thenewstack.io/six-lessons-bitnamis-transition-container-based-world/) - (2018) 6 Lessons from Bitnami’s Transition to Container-Based Ops
 * [can I haz non-privileged containers?](http://canihaznonprivilegedcontainers.info/) - Advocacy site for the uptake of using non-privileged containers.
+* [praqmatim](https://www.praqma.com/stories/ask/) - Atlassian high availability as code | Containerized Data Center on Kubernetes
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -961,6 +963,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes. 
 * [William Jimenez](https://containerjournal.com/2017/11/02/kubernetes-because-everyone-doing/) - (2017) Kubernetes: Because Everyone is Doing It
 * [Cloud Native Computing Foundation website](https://www.cncf.io/) - Sustaining and integrating open source technologies like Kubernetes and Prometheus
+* [praqmatim](https://www.praqma.com/stories/ask/) - Atlassian high availability as code | Containerized Data Center on Kubernetes
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -2655,6 +2658,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [FoundersGrid](https://foundersgrid.com/code-management/) - (2014) How 50+ Startups Manage Their Code
 * [Rachel Potvin & Josh Levenberg](https://dl.acm.org/citation.cfm?id=2854146) - Why Google stores billions of lines of code in a single repository
 * [Joseph Wynn](https://wildlyinaccurate.com/a-hackers-guide-to-git/) - (2014) A Hacker's Guide to Git
+* [Lars Kruse](https://www.praqma.com/stories/git-phlow/) - Git Phlow | An automated release train, operated directly from my shell?
+> Imagine a workflow so sophisticated that you couldn’t break the integration branch even if you tried
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
