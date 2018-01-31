@@ -3547,6 +3547,12 @@ Raw
 * [Bored Elon Musk](https://twitter.com/BoredElonMusk/statuses/412994747632857089) - Modern web design explained in a simple Venn Diagram
 * [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX 
 
+# Web archive / nostalgia
+> Some old links from my first times on the web
+* [Donjon de Naheulbeuk](http://www.penofchaos.com/warham/donjon.htm) - [FR] :fr: Podcast / Les premiers MP3 d'aventure
+* [Combattre-ou-Mourir](http://www.combattre-ou-mourir.com/) - [FR] :fr: CoM était un jeu par navigateur où 3 forces s'affrontent pour obtenir le contrôle de la planète.
+* [Quadd X mas](https://web.archive.org/web/20050209125208/http://www.quaddxmas.com:80/) - [FR] :fr: C'était un MMORPG et jeu de stratégie en php gratuit d'ambiance médiévale fantastique
+
 # Web development
 * [Steve Francia](https://gohugo.io/overview/introduction/) - Hugo is a fast & modern static site generator
 * [Amanda Visconti](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) - Building a static website with Jekyll and GitHub Pages
