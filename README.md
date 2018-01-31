@@ -555,6 +555,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
 * [Steve Ropa](https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/) - (2018) A Craftsman looks at continuous integration
 * [Mark Pundsack](https://about.gitlab.com/2017/10/04/devops-strategy/) - (2017) Beyond CI/CD: GitLab's DevOps vision | How we're building GitLab into the complete DevOps toolchain.
+* [GitLab](https://gitlab.com/gitlab-org/gitlab-ee/issues/2517) - Auto DevOps is next **via** (2017) [Sid Sijbrandij](https://about.gitlab.com/2017/06/29/whats-next-for-gitlab-ci/) From 2/3 of the self-hosted Git market, to the next-generation CI system, to Auto DevOps
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
