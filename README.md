@@ -299,6 +299,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dominic Krimmer](https://www.dkrimmer.de/2017/09/04/why-we-kicked-our-estimation-meetings/) - (2017) Why We Kicked Estimation Meetings (And Maybe You Should Too)
 * [One on One Meeting Template](https://www.oneonemeeting.com/template) - a template to support you while leading one on one meetings.
 * [Sarah Cooper](https://thecooperreview.com/how-to-politely-tell-loud-coworkers-to-shut-up/) - How to Politely Tell Your Coworkers to Shut the F*ck up
+* [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1897,6 +1898,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > DevOps does not equal ‘Developers managing Production’
 * [Jennifer Riggins](https://thenewstack.io/six-lessons-bitnamis-transition-container-based-world/) - (2018) 6 Lessons from Bitnami’s Transition to Container-Based Ops
 * [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
+* [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
