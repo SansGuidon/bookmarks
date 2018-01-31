@@ -560,6 +560,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-ee/issues/2517) - Auto DevOps is next **via** (2017) [Sid Sijbrandij](https://about.gitlab.com/2017/06/29/whats-next-for-gitlab-ci/) From 2/3 of the self-hosted Git market, to the next-generation CI system, to Auto DevOps
 * [Paul Johnston](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - (2017) Serverless is about Automation, not Functions
 * [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
+* [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
