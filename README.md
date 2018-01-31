@@ -557,6 +557,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mark Pundsack](https://about.gitlab.com/2017/10/04/devops-strategy/) - (2017) Beyond CI/CD: GitLab's DevOps vision | How we're building GitLab into the complete DevOps toolchain.
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-ee/issues/2517) - Auto DevOps is next **via** (2017) [Sid Sijbrandij](https://about.gitlab.com/2017/06/29/whats-next-for-gitlab-ci/) From 2/3 of the self-hosted Git market, to the next-generation CI system, to Auto DevOps
 * [Paul Johnston](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - (2017) Serverless is about Automation, not Functions
+* [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1894,6 +1895,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DevOpsGuys](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-1) - (2017) Where’s the Ops in DevOps? Part 1. **See also** : [Part 2](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-2) and [Part 3](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-3) 
 > DevOps does not equal ‘Developers managing Production’
 * [Jennifer Riggins](https://thenewstack.io/six-lessons-bitnamis-transition-container-based-world/) - (2018) 6 Lessons from Bitnami’s Transition to Container-Based Ops
+* [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
