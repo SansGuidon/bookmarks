@@ -554,6 +554,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Thierry de Pauw](https://confengine.com/agile-india-2018/proposal/5644/feature-branching-considered-evil) - (2017) [Video] + [Slides] Feature Branching considered Evil. **Bonus** : [Recent slides - 2018](https://speakerdeck.com/tdpauw/socrates-be-meetup-201801-feature-branching-considered-evil)
 * [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
 * [Steve Ropa](https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/) - (2018) A Craftsman looks at continuous integration
+* [Mark Pundsack](https://about.gitlab.com/2017/10/04/devops-strategy/) - (2017) Beyond CI/CD: GitLab's DevOps vision | How we're building GitLab into the complete DevOps toolchain.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
