@@ -954,6 +954,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [David Hinske](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-enforcing_jenkins_best_practices.pdf) - (2016) [PDF] Enforcing Jenkins Best Practices
 * [Julien Pivotto](https://www.slideshare.net/roidelapluie/state-of-the-jenkins-automation) - (2017) [Slides] State of the Jenkins Automation
 * [Julien Pivotto](https://www.slideshare.net/roidelapluie/jenkins-shared-libraries-workshop) - (2017) [Slides] Jenkins Shared Libraries Workshop
+* [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices) - (2015) Jenkins Best Practices
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
