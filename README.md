@@ -419,6 +419,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Pivotal](https://content.pivotal.io/) - featured news & stories about DevOps, Cloud, Containers, Software etc. 
 * [Build to Adapt at Pivotal](https://builttoadapt.io/) - Stories and insights on how software is changing the way society and businesses are built, from Pivotal.
 * [Praqma Stories](https://www.praqma.com/stories/) - Newest stories of The Continuous Delivery Company
+* [The Continuous Delivery Aliance](http://alliance.praqma.com/initiatives/) - a community of Continuous Delivery and DevOps companies who work together to learn and facilitate best practices shared among the members.
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
