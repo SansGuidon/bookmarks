@@ -879,7 +879,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Damien Coraboeuf](https://jenkins.io/blog/2016/06/15/jenkins-pipeline-scalability/) - Jenkins Pipeline Scalability in the Enterprise
 * [Jenkins CI](https://github.com/jenkinsci/pipeline-model-definition-plugin/tree/master/pipeline-model-definition/src/test/resources) - Examples of Pipeline scripts (Tests source code), useful for exploring the possible for Jenkinsfile
 * [funkwerk/jenkins-workflow](https://github.com/funkwerk/jenkins-workflow/tree/master/vars) - repository with examples of jenkins workflow scripts
-* [Andrew Bayer](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - Seven Habits of Highly Effective Jenkins Users (2014 edition!
+* :star: [**Andrew Bayer**](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - (2014) Seven Habits of Highly Effective Jenkins Users (2014 edition!) | Old but principles still apply 
 * [CloudBees](https://www.cloudbees.com/sites/default/files/declarative-pipeline-refcard.pdf) - [PDF] Declarative Pipeline Quick Reference
 * [Jenkins Doc](https://github.com/jenkinsci/pipeline-model-definition-plugin/wiki/Syntax-Reference) - full syntax for Jenkins Declarative Pipeline
 * [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin/blob/master/job-dsl-core/src/main/groovy/javaposse/jobdsl/dsl/helpers/step/MSBuildContext.groovy) - source code of msbuild step
@@ -899,7 +899,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [David Hoover](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_inside_google.pdf) - Jenkins inside Google +[YoutuBe Link](https://www.youtube.com/watch?v=7ERV9C20GSE&feature=youtu.be)
 * [Garry Newman](https://garry.tv/2017/05/06/jenkinsfile/) - Garry explains how to write Jenkinsfiles
 * [Garry Newman](https://garry.tv/2017/05/14/jenkins-library/) - Garry explains how he's using Global Jenkins library
-* [Andrew Bayer](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-introducing_a_new_way_to_define_jenkins_pipelines_1.pdf) - [PDF] Introducing a New Way to Define Jenkins Pipelines
+* [Andrew Bayer](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-introducing_a_new_way_to_define_jenkins_pipelines_1.pdf) -  (2016) [PDF] Introducing a New Way to Define Jenkins Pipelines
 * [jenkinsci/jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts/tree/master/scriptler) - collection of utility scripts for use with Jenkins
 * [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md) - collection of tips, advice, gotchas and other best practices for using Jenkins Pipeline
 * [fabric8io/fabric8-jenkinsfile-library](https://github.com/fabric8io/fabric8-jenkinsfile-library) - library of reusable Jenkinsfile, which make use of Fabric8 Pipeline library
