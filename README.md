@@ -561,6 +561,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Johnston](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - (2017) Serverless is about Automation, not Functions
 * [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
 * [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
+* [Martin Fowler](https://www.martinfowler.com/articles/continuousIntegration.html) - (2006) Continuous Integration
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
