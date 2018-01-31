@@ -552,6 +552,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [CloudBees](file:///C:/Users/Morgan/Downloads/Temporaire/Continuous_Delivery_Infographic.pdf) - (2014) [PDF] Infographic on Continuous Delivery: Are you really doing it? 41% think they are, only 8% truly are
 * [Thierry de Pauw](https://confengine.com/agile-india-2018/proposal/5644/feature-branching-considered-evil) - (2017) [Video] + [Slides] Feature Branching considered Evil. **Bonus** : [Recent slides - 2018](https://speakerdeck.com/tdpauw/socrates-be-meetup-201801-feature-branching-considered-evil)
 * [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
+* [Steve Ropa](https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/) - (2018) A Craftsman looks at continuous integration
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
