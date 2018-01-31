@@ -556,6 +556,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve Ropa](https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/) - (2018) A Craftsman looks at continuous integration
 * [Mark Pundsack](https://about.gitlab.com/2017/10/04/devops-strategy/) - (2017) Beyond CI/CD: GitLab's DevOps vision | How we're building GitLab into the complete DevOps toolchain.
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-ee/issues/2517) - Auto DevOps is next **via** (2017) [Sid Sijbrandij](https://about.gitlab.com/2017/06/29/whats-next-for-gitlab-ci/) From 2/3 of the self-hosted Git market, to the next-generation CI system, to Auto DevOps
+* [Paul Johnston](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - (2017) Serverless is about Automation, not Functions
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -2889,6 +2890,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chris Hermansen](https://opensource.com/article/18/1/two-great-uses-cp-command-update) - (2018) Two great uses for the cp command: Bash shortcuts
 * [Angie Jones](https://techbeacon.com/6-reasons-co-locate-your-app-automation-code) - (2018) 6 reasons to co-locate your app and automation code
 * [Andy Zaidman](https://azaidman.wordpress.com/2015/01/19/old-habits-die-hard-why-refactoring-for-understandability-does-not-give-immediate-benefits/) - (2015) Old Habits Die Hard: Why Refactoring for Understandability Does Not Give Immediate Benefits
+* [Paul Johnston](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - (2017) Serverless is about Automation, not Functions
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
