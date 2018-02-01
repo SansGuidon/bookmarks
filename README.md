@@ -566,6 +566,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
 * [Martin Fowler](https://www.martinfowler.com/articles/continuousIntegration.html) - (2006) Continuous Integration
 * [Ben Putano](https://stackify.com/deployment-best-practices) - (2018) 8 Best Practices for Agile Software Deployment
+* [Ben Putano](https://stackify.com/application-deployment-process-checklist/) - (2018) Proven Steps to Achieving Deployment Nirvana
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1965,6 +1966,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Miessler](https://danielmiessler.com/blog/security-how-to-monitor-your-network-connections/) - Security: How To Monitor Your Network Connections
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
+* [Ben Putano](https://stackify.com/application-deployment-process-checklist/) - (2018) Proven Steps to Achieving Deployment Nirvana
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
