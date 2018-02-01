@@ -570,6 +570,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ben Putano](https://stackify.com/application-deployment-process-checklist/) - (2018) Proven Steps to Achieving Deployment Nirvana
 * [Matt Watson](https://stackify.com/site-reliability-engineering/) - (2017) What Is Site Reliability Engineering and Why You Should Embrace It
 * [Matt Watson](https://stackify.com/web-operations/) - (2017) What is Web Operations? How Does it Relate to DevOps and SRE?
+* [Matt Watson](https://stackify.com/15-metrics-for-devops-success/) - (2017) 15 Metrics for DevOps Success
+* [Matt Watson](https://stackify.com/supporting-production-applications-devops-way/) - (2014) Supporting Production Applications the DevOps Way
+* [Matt Watson](https://stackify.com/what-is-devops/) - (2017) What is DevOps? – Give Your Development Team Ownership
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1913,6 +1916,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
 * [Matt Watson](https://stackify.com/site-reliability-engineering/) - (2017) What Is Site Reliability Engineering and Why You Should Embrace It
 * [Matt Watson](https://stackify.com/web-operations/) - (2017) What is Web Operations? How Does it Relate to DevOps and SRE?
+* [Matt Watson](https://stackify.com/supporting-production-applications-devops-way/) - (2014) Supporting Production Applications the DevOps Way
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1974,6 +1978,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ben Putano](https://stackify.com/application-deployment-process-checklist/) - (2018) Proven Steps to Achieving Deployment Nirvana
 * [Ben Putano](https://stackify.com/cloud-monitoring-tools/) - (2017) The Top 21 Cloud Monitoring Tools for 2018
 * [Matt Watson](https://stackify.com/cloud-monitoring-vs-server-monitoring/) - (2017) 6 Reasons Cloud Monitoring Is Different Than Server Monitoring
+* [Matt Watson](https://stackify.com/15-metrics-for-devops-success/) - (2017) 15 Metrics for DevOps Success
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
@@ -2388,6 +2393,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Florian Beijers](https://medium.freecodecamp.org/looking-back-to-what-started-it-all-731ef5424aec) - (2015) A Vision of Coding, Without Opening your Eyes
 * [pktzero](https://pktzero.wordpress.com/2015/01/11/reactive-programming-by-example/) - (2015) Reactive programming by example
 * [André Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - (2014) The introduction to Reactive Programming you've been missing
+* [Ben Putano](https://stackify.com/software-development-trends-2018/) - (2017) 5 Software Development Trends for 2018: Developers Needed
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
