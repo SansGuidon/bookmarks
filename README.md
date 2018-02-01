@@ -565,6 +565,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
 * [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
 * [Martin Fowler](https://www.martinfowler.com/articles/continuousIntegration.html) - (2006) Continuous Integration
+* [Ben Putano](https://stackify.com/deployment-best-practices) - (2018) 8 Best Practices for Agile Software Deployment
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
