@@ -568,6 +568,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ben Putano](https://stackify.com/deployment-best-practices) - (2018) 8 Best Practices for Agile Software Deployment
 * [Ben Putano](https://stackify.com/application-deployment-process-checklist/) - (2018) Proven Steps to Achieving Deployment Nirvana
 * [Matt Watson](https://stackify.com/site-reliability-engineering/) - (2017) What Is Site Reliability Engineering and Why You Should Embrace It
+* [Matt Watson](https://stackify.com/web-operations/) - (2017) What is Web Operations? How Does it Relate to DevOps and SRE?
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1910,6 +1911,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
 * [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
 * [Matt Watson](https://stackify.com/site-reliability-engineering/) - (2017) What Is Site Reliability Engineering and Why You Should Embrace It
+* [Matt Watson](https://stackify.com/web-operations/) - (2017) What is Web Operations? How Does it Relate to DevOps and SRE?
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
