@@ -3349,6 +3349,7 @@ Raw
 * [David Gilbertson](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) - (2018) I’m harvesting credit card numbers and passwords from your site. Here’s how.
 > If an attacker successfully injects any code at all, it’s pretty much game over
 * [Michael Kwaku Aboagye](https://opensource.com/article/18/1/securing-linux-filesystem-tripwire) - (2018) Securing the Linux filesystem with Tripwire
+* [Ian Maddox](https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html) - (2018) 12 best practices for user account, authorization and password management
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
