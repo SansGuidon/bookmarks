@@ -567,6 +567,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Martin Fowler](https://www.martinfowler.com/articles/continuousIntegration.html) - (2006) Continuous Integration
 * [Ben Putano](https://stackify.com/deployment-best-practices) - (2018) 8 Best Practices for Agile Software Deployment
 * [Ben Putano](https://stackify.com/application-deployment-process-checklist/) - (2018) Proven Steps to Achieving Deployment Nirvana
+* [Matt Watson](https://stackify.com/site-reliability-engineering/) - (2017) What Is Site Reliability Engineering and Why You Should Embrace It
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1908,6 +1909,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jennifer Riggins](https://thenewstack.io/six-lessons-bitnamis-transition-container-based-world/) - (2018) 6 Lessons from Bitnami’s Transition to Container-Based Ops
 * [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
 * [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
+* [Matt Watson](https://stackify.com/site-reliability-engineering/) - (2017) What Is Site Reliability Engineering and Why You Should Embrace It
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
