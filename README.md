@@ -573,6 +573,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matt Watson](https://stackify.com/15-metrics-for-devops-success/) - (2017) 15 Metrics for DevOps Success
 * [Matt Watson](https://stackify.com/supporting-production-applications-devops-way/) - (2014) Supporting Production Applications the DevOps Way
 * [Matt Watson](https://stackify.com/what-is-devops/) - (2017) What is DevOps? – Give Your Development Team Ownership
+* [Red Hat](https://webinar.redhat-specials.com) - [Videos] Webinar Archives
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
