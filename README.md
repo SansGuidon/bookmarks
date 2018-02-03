@@ -387,6 +387,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 * [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
+* [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1227,6 +1228,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Wolfram Alpha](https://www.wolframalpha.com/) - ultra-nerdy search engine with advanced features 
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 * [Paul Myers](http://researchclinic.net/facebooksecrets/) - Facebook Secrets
+* [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2225,6 +2227,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 * [One on One Meeting Template](https://www.oneonemeeting.com/template) - a template to support you while leading one on one meetings.
 * [Savvy Time](https://savvytime.com/converter/et-to-cet) - ET to CET Converter | Convert hours and time in different locations
+* [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
 
 # Programming
 > News
