@@ -3575,6 +3575,7 @@ Raw
 * [Connor John Gettel](https://medium.com/@connorgettel/masters-degree-final-major-project-part-2-theoretical-monzo-design-improvements-and-new-concepts-e6c652a1e3e5) - (2017) Master’s Degree Final Major Project: Theoretical Design Improvements and new Concepts — Monzo.
 * [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
+* [UX Quotes](http://uxchoice.com/ux-quotes) - Tweetable quotes on User Experience / Design
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
