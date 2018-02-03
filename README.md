@@ -1334,6 +1334,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Julia Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) - Research / Investigation tools
 * [Henk van Ess](http://graph.tips/) - Facebook Graph Tools
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter
+* [Savvy Time](https://savvytime.com/converter/et-to-cet) - ET to CET Converter | Convert hours and time in different locations
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2212,6 +2213,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Julia Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) - Research / Investigation tools
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 * [One on One Meeting Template](https://www.oneonemeeting.com/template) - a template to support you while leading one on one meetings.
+* [Savvy Time](https://savvytime.com/converter/et-to-cet) - ET to CET Converter | Convert hours and time in different locations
 
 # Programming
 > News
