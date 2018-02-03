@@ -2777,6 +2777,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [James Ward](http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong) - (2014) Java Doesn’t Suck – You’re Just Using it Wrong
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/java-for-everything.html) - (2014) I started to form a strange idea: That Java is the right language for all jobs.
 * [Google Developers](https://developers.google.com/protocol-buffers/docs/javatutorial) - Protocol Buffer Basics: Java
+* [Sam Atkinson](http://samatkinson.com/why-i-hate-spring/) - (2014) Why I hate Spring
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
