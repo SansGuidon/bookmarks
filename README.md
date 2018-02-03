@@ -2716,6 +2716,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lars Kruse](https://www.praqma.com/stories/git-phlow/) - Git Phlow | An automated release train, operated directly from my shell?
 > Imagine a workflow so sophisticated that you couldn’t break the integration branch even if you tried
 * [Michelle Young](https://chatbotslife.com/trunk-based-development-vs-git-flow-ed381cd340e) - (2017) Trunk-based Development vs. Git Flow
+* [fa.linux.kernel newsgroups archives](http://yarchive.net/comp/linux/git_rebase.html) - (2008) [Messages] Linus Torvalds against git rebase
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
