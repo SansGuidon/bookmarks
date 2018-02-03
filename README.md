@@ -576,6 +576,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Red Hat](https://webinar.redhat-specials.com) - [Videos] Webinar Archives
 * [Red Hat](https://www.redhat.com/fr/events) - Red Hat Events & Webinars
 * [Red Hat](https://www.youtube.com/channel/UC9CjkhQp1jX8Hbtbg6OZ9dw) - [Videos] Red Hat Summit Youtube Channel
+* [Jessie Frazelle Blog](https://blog.jessfraz.com/) - articles about DevOps, Containers, Linux, etc
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
