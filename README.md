@@ -575,6 +575,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matt Watson](https://stackify.com/what-is-devops/) - (2017) What is DevOps? – Give Your Development Team Ownership
 * [Red Hat](https://webinar.redhat-specials.com) - [Videos] Webinar Archives
 * [Red Hat](https://www.redhat.com/fr/events) - Red Hat Events & Webinars
+* [Red Hat](https://www.youtube.com/channel/UC9CjkhQp1jX8Hbtbg6OZ9dw) - [Videos] Red Hat Summit Youtube Channel
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
