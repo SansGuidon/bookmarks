@@ -197,6 +197,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bruce Hunt](https://hackernoon.com/the-art-of-hodling-crypto-cant-make-this-sh-t-up-713149eb9a21) - (2018) The Art Of Hodling Crypto: Can’t Make this Sh*t Up
 > If you took 5 of the cryptocurrencies and if you invested $1,000 in each on Jan 1st 2017…  you would have : $655,527 for $5,000 invested.
 * [WalletGenerator](https://walletgenerator.net/) - Paper Wallet Generator for BitCoins and other cryptocurrencies. Create, Print & Fold
+* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
+> Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -427,6 +429,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [ThoughtWorks Insights](https://www.thoughtworks.com/insights/continuous-delivery) - ThoughtWorks Insights on continuous delivery
 * [Paul Hammant's Blog](https://paulhammant.com/archive/) - articles about CD, DevOps, etc. **Specific sections** : [Continuous_Delivery](https://paulhammant.com/categories.html#Continuous_Delivery) and [DevOps](https://paulhammant.com/categories.html#DevOps)
 * [Stackify](https://stackify.com/content/DevOps/) - all posts tagged as DevOps
+* [Jessie Frazelle's Blog](https://blog.jessfraz.com/) - articles about DevOps, Containers, Linux, etc
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -576,7 +579,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Red Hat](https://webinar.redhat-specials.com) - [Videos] Webinar Archives
 * [Red Hat](https://www.redhat.com/fr/events) - Red Hat Events & Webinars
 * [Red Hat](https://www.youtube.com/channel/UC9CjkhQp1jX8Hbtbg6OZ9dw) - [Videos] Red Hat Summit Youtube Channel
-* [Jessie Frazelle Blog](https://blog.jessfraz.com/) - articles about DevOps, Containers, Linux, etc
+* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
+> Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -2400,6 +2404,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [pktzero](https://pktzero.wordpress.com/2015/01/11/reactive-programming-by-example/) - (2015) Reactive programming by example
 * [André Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - (2014) The introduction to Reactive Programming you've been missing
 * [Ben Putano](https://stackify.com/software-development-trends-2018/) - (2017) 5 Software Development Trends for 2018: Developers Needed
+* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
+> Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
