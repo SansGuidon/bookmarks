@@ -302,6 +302,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [One on One Meeting Template](https://www.oneonemeeting.com/template) - a template to support you while leading one on one meetings.
 * [Sarah Cooper](https://thecooperreview.com/how-to-politely-tell-loud-coworkers-to-shut-up/) - How to Politely Tell Your Coworkers to Shut the F*ck up
 * [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
+* [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1444,6 +1445,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Patrick God](https://dev.to/_patrickgod/why-you-should-start-with-your-dream-job-8f) - (2017) Why You Should Start With Your Dream Job
 * [IRCEL - CELINE](http://www.irceline.be/en/front-page?set_language=en) - Current Air Quality Measurements of Belgian Interregional Environment Agency (IRCEL - CELINE)
 * [Bruxelles Environnement](http://www.qualitedelair.brussels/) - [FR] :fr: Qualité de l'air. **Bonus** : Dutch version [Luchtkwaliteit](http://www.luchtkwaliteit.brussels/)
+* [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2170,6 +2172,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
 * [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
 * [Maura Thomas](https://hbr.org/2017/02/your-teams-time-management-problem-might-be-a-focus-problem) - (2017) Your Team’s Time Management Problem Might Be a Focus Problem
+* [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
