@@ -433,6 +433,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Hammant's Blog](https://paulhammant.com/archive/) - articles about CD, DevOps, etc. **Specific sections** : [Continuous_Delivery](https://paulhammant.com/categories.html#Continuous_Delivery) and [DevOps](https://paulhammant.com/categories.html#DevOps)
 * [Stackify](https://stackify.com/content/DevOps/) - all posts tagged as DevOps
 * [Jessie Frazelle's Blog](https://blog.jessfraz.com/) - articles about DevOps, Containers, Linux, etc
+* [Ansible](https://www.ansible.com/blog) - Ansible Blog 
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
