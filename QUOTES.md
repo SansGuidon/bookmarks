@@ -70,3 +70,4 @@
 * If you can't change your mind, you can't change anything. - Orna Ross
 * It takes a great reader to make a great book. - Orna Ross
 * Doing what needs to be done may not make you happy, but it will make you great. - George Bernard Shaw
+* All censorships exist to prevent anyone from challenging current conceptions and existing institutions. All progress is initiated by challenging current conceptions, and executed by supplanting existing institutions. Consequently, the first condition of progress is the removal of censorship. - George Bernard Shaw
