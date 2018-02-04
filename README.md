@@ -400,6 +400,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Graph TV](http://graphtv.kevinformatics.com/) - Graph Ratings of Your Favorite TV Shows / Visualize IMDb ratings and trends of TV shows by episode.
 * [Information is Beautiful](http://www.informationisbeautiful.net/) - the world’s data, information and knowledge distilled into beautiful and useful graphs & diagrams.
 * [visual complexity](http://www.visualcomplexity.com/vc/) - A visual exploration on mapping complex networks | beautiful graphs in various topics
+* [Worldometers](http://www.worldometers.info/) - shows estimated current numbers based on statistics and projections from the most reputable official organizations, for economics, media, world population, etc.
 
 # DevOps
 > News
