@@ -586,6 +586,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Red Hat](https://www.youtube.com/channel/UC9CjkhQp1jX8Hbtbg6OZ9dw) - [Videos] Red Hat Summit Youtube Channel
 * [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
+* [OpenStack Summit](https://www.openstack.org/videos/) - All Videos archives
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
