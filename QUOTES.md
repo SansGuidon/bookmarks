@@ -69,3 +69,4 @@
 * We shape our dwellings, and afterwards our dwellings shape us. - Winston Churchill
 * If you can't change your mind, you can't change anything. - Orna Ross
 * It takes a great reader to make a great book. - Orna Ross
+* Doing what needs to be done may not make you happy, but it will make you great. - George Bernard Shaw
