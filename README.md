@@ -1503,7 +1503,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Daily Mash](http://www.thedailymash.co.uk/) British satire site offering funny stories on news, politics and sport, an agony aunt column and polls.
 * [what if?](https://what-if.xkcd.com/) - Serious scientific answers to absurd hypothetical questions
 * [The Best Page in the Universe](http://maddox.xmission.com/) - personal satirical humor website created by George Ouzounian, better known as Maddox
-* [webcomic name](http://webcomicname.com/) - kind of absurd repetitive web comic strip, among my favorites
+* [webcomic name](http://webcomicname.com/) - kind of absurd repetitive web comic strip, among my favorites | "oh no"
 * [Regular Ordinary Swedish Meal Time (ROSMT)](https://www.youtube.com/playlist?list=PL4B2CBC4A35E0E224) - [Videos] YouTube Series of WTF cooking how-to's/tutorials. it's good for you | Swedish men cooking regular food with extreme Swedish violence like vikings.
 
 # Images / Wallpapers
