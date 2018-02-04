@@ -1934,6 +1934,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matt Watson](https://stackify.com/site-reliability-engineering/) - (2017) What Is Site Reliability Engineering and Why You Should Embrace It
 * [Matt Watson](https://stackify.com/web-operations/) - (2017) What is Web Operations? How Does it Relate to DevOps and SRE?
 * [Matt Watson](https://stackify.com/supporting-production-applications-devops-way/) - (2014) Supporting Production Applications the DevOps Way
+* [The OpenStack Marketplace](https://www.openstack.org/marketplace/) - [Private Clouds](https://www.openstack.org/marketplace/hosted-private-clouds/) + [Public Clouds](https://www.openstack.org/marketplace/public-clouds/)
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
