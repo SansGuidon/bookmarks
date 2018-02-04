@@ -303,6 +303,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sarah Cooper](https://thecooperreview.com/how-to-politely-tell-loud-coworkers-to-shut-up/) - How to Politely Tell Your Coworkers to Shut the F*ck up
 * [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
 * [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
+* [Changing minds](http://changingminds.org/techniques/questioning/5w1h.htm) - 5W1H - A simple set of question framings
+* [Changing minds](http://changingminds.org/techniques/questioning/socratic_questions.htm) - Socratic Questioning
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3128,6 +3130,8 @@ Raw
 * [David McRaney](https://youarenotsosmart.com/2010/05/19/fanboyism-and-brand-loyalty/) - (2010) Fanboyism and Brand Loyalty
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
 * [Kyungsub Steve Choi](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.398.7011&rep=rep1&type=pdf) - (2006) [PDF] An Analysis of Computing Major Students’ Myers-Briggs Type Indicator Distribution
+* [Changing minds](http://changingminds.org/techniques/questioning/5w1h.htm) - 5W1H - A simple set of question framings
+* [Changing minds](http://changingminds.org/techniques/questioning/socratic_questions.htm) - Socratic Questioning
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
