@@ -1851,9 +1851,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
 
 # Operations / IT OPS
+> News
 * [TechBeacon](https://techbeacon.com/25-it-ops-pros-experts-follow-twitter) - 25 IT Ops pros and experts to follow on Twitter
 * [TechBeacon](https://techbeacon.com/it-ops) - IT-OPS articles & resources
 * [O'Reilly Media](https://www.oreilly.com/topics/operations) - The latest ideas, articles about operations.
+* [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
+
+> Learn
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
 * [Vivek Gite](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
 * [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server? 
