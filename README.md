@@ -437,6 +437,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Stackify](https://stackify.com/content/DevOps/) - all posts tagged as DevOps
 * [Jessie Frazelle's Blog](https://blog.jessfraz.com/) - articles about DevOps, Containers, Linux, etc
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
+* [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news 
+* [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
