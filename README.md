@@ -852,6 +852,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [can I haz non-privileged containers?](http://canihaznonprivilegedcontainers.info/) - Advocacy site for the uptake of using non-privileged containers.
 * [praqmatim](https://www.praqma.com/stories/ask/) - Atlassian high availability as code | Containerized Data Center on Kubernetes
 * [Chris Ward](https://blog.codeship.com/docker-guis/) - (2017) A Comparison of Docker GUIs
+* [Evan Klein](https://blog.openshift.com/container-vulnerability-management-opssight/) - (2018) Container Vulnerability Management with OpsSight
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -887,6 +888,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
 * [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
 * [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
+* [Dylan Murray](https://blog.openshift.com/rocket-chat-ansible-playbook-bundle-development-deployment-tutorial/) - (2018) Rocket.Chat Ansible Playbook Bundle Development & Deployment Tutorial
 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -3403,6 +3405,7 @@ Raw
 > If an attacker successfully injects any code at all, it’s pretty much game over
 * [Michael Kwaku Aboagye](https://opensource.com/article/18/1/securing-linux-filesystem-tripwire) - (2018) Securing the Linux filesystem with Tripwire
 * [Ian Maddox](https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html) - (2018) 12 best practices for user account, authorization and password management
+* [Evan Klein](https://blog.openshift.com/container-vulnerability-management-opssight/) - (2018) Container Vulnerability Management with OpsSight
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
