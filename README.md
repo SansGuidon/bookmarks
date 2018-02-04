@@ -1375,6 +1375,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 * [Coinop](http://www.coinop.org/) - Coinop.org maintains a comprehensive database of coin-operated arcade games.
 * [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
+* [Jeux libres](http://jeuxlibres.net/) - :fr: [FR] un catalogue de jeux vidéos libres principalement sous GNU/Linux
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
