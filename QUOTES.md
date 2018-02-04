@@ -66,6 +66,5 @@
 * Success consists of going from failure to failure without loss of enthusiasm. [Winston Churchill](https://www.brainyquote.com/authors/winston_churchill)
 * Continuous effort - not strength or intelligence - is the key to unlocking our potential. [Winston Churchill](https://www.brainyquote.com/authors/winston_churchill)
 * The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty. [Winston Churchill](https://www.brainyquote.com/authors/winston_churchill)
-* The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty. [Winston Churchill](https://www.brainyquote.com/authors/winston_churchill)
 * We shape our dwellings, and afterwards our dwellings shape us. - Winston Churchill
 
