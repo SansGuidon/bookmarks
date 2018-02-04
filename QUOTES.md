@@ -62,3 +62,10 @@
 * Don’t seek that all that comes about should come about as you wish, but wish that everything that comes about should come about just as it does, and then you will have a calm and happy life - Frédéric Lenoir
 * [IMG] Most of what we call management consists of making it difficult for people to get their work done. - [Vala Afshar](https://twitter.com/ValaAfshar/status/561275884116918272/photo/1)
 * Before cofounding GitHub I applied for an engineering job at Yahoo and didn’t get it. Don’t let other people discourage you. [Chris Wanstrath](https://twitter.com/defunkt/statuses/469607846527520768)
+* Success is not final, failure is not fatal: it is the courage to continue that counts. [Winston Churchill](https://www.brainyquote.com/authors/winston_churchill)
+* Success consists of going from failure to failure without loss of enthusiasm. [Winston Churchill](https://www.brainyquote.com/authors/winston_churchill)
+* Continuous effort - not strength or intelligence - is the key to unlocking our potential. [Winston Churchill](https://www.brainyquote.com/authors/winston_churchill)
+* The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty. [Winston Churchill](https://www.brainyquote.com/authors/winston_churchill)
+* The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty. [Winston Churchill](https://www.brainyquote.com/authors/winston_churchill)
+* We shape our dwellings, and afterwards our dwellings shape us. - Winston Churchill
+
