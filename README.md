@@ -313,6 +313,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
 * [Changing minds](http://changingminds.org/techniques/questioning/5w1h.htm) - 5W1H - A simple set of question framings
 * [Changing minds](http://changingminds.org/techniques/questioning/socratic_questions.htm) - Socratic Questioning
+* [CrowdSync](https://www.crowdsync.io/blog/2018/01/17/7-tips-for-creating-a-new-process/) - (2018) 7 Tips for Creating a New Process
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
