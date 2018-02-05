@@ -1005,6 +1005,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Julien Pivotto](https://www.slideshare.net/roidelapluie/state-of-the-jenkins-automation) - (2017) [Slides] State of the Jenkins Automation
 * [Julien Pivotto](https://www.slideshare.net/roidelapluie/jenkins-shared-libraries-workshop) - (2017) [Slides] Jenkins Shared Libraries Workshop
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices) - (2015) Jenkins Best Practices
+* [Marcus Young](http://marcyoung.us/post/lets-rethink-jenkins/) - (2018) Let’s Rethink Jenkins
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
