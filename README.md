@@ -2973,6 +2973,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andy Zaidman](https://azaidman.wordpress.com/2015/01/19/old-habits-die-hard-why-refactoring-for-understandability-does-not-give-immediate-benefits/) - (2015) Old Habits Die Hard: Why Refactoring for Understandability Does Not Give Immediate Benefits
 * [Paul Johnston](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - (2017) Serverless is about Automation, not Functions
 * [Emily Yu](https://hackernoon.com/how-i-coded-everyday-for-365-days-67ebb5fc7ae) - (2018) How I Coded Everyday for 365 Days
+* [Chris Harris](https://medium.com/@otduet/yearly-lessons-learnt-by-a-freelance-developer-concerned-with-holistic-productivity-a84fdba685b) - (2018) Yearly lessons learnt by a freelance developer concerned with holistic productivity. 
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
