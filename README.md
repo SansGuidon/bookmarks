@@ -2756,6 +2756,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Imagine a workflow so sophisticated that you couldn’t break the integration branch even if you tried
 * [Michelle Young](https://chatbotslife.com/trunk-based-development-vs-git-flow-ed381cd340e) - (2017) Trunk-based Development vs. Git Flow
 * [fa.linux.kernel newsgroups archives](http://yarchive.net/comp/linux/git_rebase.html) - (2008) [Messages] Linus Torvalds against git rebase
+* [Safia Abdalla](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases) - (2018) Tips for reading new codebases
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -2981,6 +2982,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Emily Yu](https://hackernoon.com/how-i-coded-everyday-for-365-days-67ebb5fc7ae) - (2018) How I Coded Everyday for 365 Days
 * [Chris Harris](https://medium.com/@otduet/yearly-lessons-learnt-by-a-freelance-developer-concerned-with-holistic-productivity-a84fdba685b) - (2018) Yearly lessons learnt by a freelance developer concerned with holistic productivity. 
 * [Matt Fletcher](https://spin.atomicobject.com/2018/01/22/archive-software-project/) - (2018) Today’s Code Is Tomorrow’s Legacy Project – Make It Easy to Resurrect
+* [Safia Abdalla](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases) - (2018) Tips for reading new codebases
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
