@@ -872,6 +872,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [praqmatim](https://www.praqma.com/stories/ask/) - Atlassian high availability as code | Containerized Data Center on Kubernetes
 * [Chris Ward](https://blog.codeship.com/docker-guis/) - (2017) A Comparison of Docker GUIs
 * [Evan Klein](https://blog.openshift.com/container-vulnerability-management-opssight/) - (2018) Container Vulnerability Management with OpsSight
+* [David Appelbaum](https://blog.cloudpassage.com/2018/01/02/2018-docker-containers-need-secure/) - (2018) It’s 2018 and your Docker containers need to be secure
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -3452,6 +3453,7 @@ Raw
 * [Michael Kwaku Aboagye](https://opensource.com/article/18/1/securing-linux-filesystem-tripwire) - (2018) Securing the Linux filesystem with Tripwire
 * [Ian Maddox](https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html) - (2018) 12 best practices for user account, authorization and password management
 * [Evan Klein](https://blog.openshift.com/container-vulnerability-management-opssight/) - (2018) Container Vulnerability Management with OpsSight
+* [David Appelbaum](https://blog.cloudpassage.com/2018/01/02/2018-docker-containers-need-secure/) - (2018) It’s 2018 and your Docker containers need to be secure
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
