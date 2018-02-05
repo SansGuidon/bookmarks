@@ -2974,6 +2974,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Johnston](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - (2017) Serverless is about Automation, not Functions
 * [Emily Yu](https://hackernoon.com/how-i-coded-everyday-for-365-days-67ebb5fc7ae) - (2018) How I Coded Everyday for 365 Days
 * [Chris Harris](https://medium.com/@otduet/yearly-lessons-learnt-by-a-freelance-developer-concerned-with-holistic-productivity-a84fdba685b) - (2018) Yearly lessons learnt by a freelance developer concerned with holistic productivity. 
+* [Matt Fletcher](https://spin.atomicobject.com/2018/01/22/archive-software-project/) - (2018) Today’s Code Is Tomorrow’s Legacy Project – Make It Easy to Resurrect
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
