@@ -1887,8 +1887,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [alicegoldfuss/oncall-handbook](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
 * [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - Lies My Parents Told Me (About Logs)
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/05/prevent-command-with-a-specific-option-to-be-run-on-your-server/) - Prevent command with a specific option to be run on your server
-* [Marvin Pinto](https://disjoint.ca/writing/2015/11/26/a-framework-for-deployment-of-immutable-infrastructure/) - A Framework for Deployment of Immutable Infrastructure
-* [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
 * [Pat Cable](https://blog.threatstack.com/balancing-security-and-your-on-call-rotation-using-deputize) - Balancing Security and Your On-Call Rotation Using Deputize
 * [Brendan D. Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Jon Prall](http://jprall.typepad.com/blog/2010/10/85-operational-rules.html) - (2007) 85 Operations Rules to Live By
@@ -1908,7 +1906,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
-* [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
 * [CollectNode](https://collectnode.com/) - CollectNode makes easier the IT admin life
 * [DOESConsulting](http://www.doesconsulting.com/faq.shtml) - Load Balancing FAQs and Key Concepts
 * [Tom Limoncelli](https://everythingsysadmin.com/dumb-things-to-check.html) - troubleshooting : a list of dumb (and not so dumb) things to check
@@ -1922,7 +1919,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
-* [versioneye/ops_contrib](https://github.com/versioneye/ops_contrib) - Infrastructure code to setup your own VersionEye instance.
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way 
 * [David Mytton](https://blog.serverdensity.com/server-naming-conventions-and-best-practices/) - (2015) Server Naming Conventions and Best Practices
@@ -1946,19 +1942,16 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nicolas De Nayer](https://medium.com/doctolib-engineering/the-duty-guy-the-key-to-empowering-engineers-a43d1fc4706b) - (2017) The Duty Guy: the key to empowering engineers
 * [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.” 
 * [Google](https://landing.google.com/sre/book.html) - [Book] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
-* [Denny Cherry](http://itknowledgeexchange.techtarget.com/sql-server/another-cloud-outage-awsdown-this-time-another-group-of-companies-show-they-dont-have-dr/) - (2017) Another Cloud Outage (#awsdown this time) Another Group of Companies Show They Don’t Have DR
 * [Simon Sharwood](https://www.theregister.co.uk/2017/02/01/gitlab_data_loss/) - (2017) GitLab.com melts down after wrong directory deleted, backups fail
 * [Grant Fritchey](https://www.red-gate.com/blog/database-devops/youre-not-delivering-devops-database/amp?__twitter_impression=true) - (2017) You’re not delivering DevOps to the database 
 > Please, developers, don’t get smug. I’m starting with you because you’re a core part of the problem here. Go back and re-read the definitions of DevOps … I’ll wait … You have to notice one salient point. Nowhere does it say, “Developers rule the world”, or “Developers have ‘SA’ privileges”, or “We get to ignore the Operations side of IT and do anything we want”. No, instead, it talks about cooperation.
 * [DevOpsGuys](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-1) - (2017) Where’s the Ops in DevOps? Part 1. **See also** : [Part 2](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-2) and [Part 3](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-3) 
 > DevOps does not equal ‘Developers managing Production’
 * [Jennifer Riggins](https://thenewstack.io/six-lessons-bitnamis-transition-container-based-world/) - (2018) 6 Lessons from Bitnami’s Transition to Container-Based Ops
-* [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
 * [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
 * [Matt Watson](https://stackify.com/site-reliability-engineering/) - (2017) What Is Site Reliability Engineering and Why You Should Embrace It
 * [Matt Watson](https://stackify.com/web-operations/) - (2017) What is Web Operations? How Does it Relate to DevOps and SRE?
 * [Matt Watson](https://stackify.com/supporting-production-applications-devops-way/) - (2014) Supporting Production Applications the DevOps Way
-* [The OpenStack Marketplace](https://www.openstack.org/marketplace/) - [Private Clouds](https://www.openstack.org/marketplace/hosted-private-clouds/) + [Public Clouds](https://www.openstack.org/marketplace/public-clouds/)
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -1978,6 +1971,16 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [TBS Internet](https://www.tbs-certificats.com/FAQ/fr/284.html) - [FR] :fr: Apache et VirtualHost SSL avec un wildcard ou multi-site
 * [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] :fr: Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
 * [phanan/htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
+
+## Infrastructure
+* [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
+* [Marvin Pinto](https://disjoint.ca/writing/2015/11/26/a-framework-for-deployment-of-immutable-infrastructure/) - A Framework for Deployment of Immutable Infrastructure
+* [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
+* [versioneye/ops_contrib](https://github.com/versioneye/ops_contrib) - Infrastructure code to setup your own VersionEye instance.
+* [Eran Chetzroni](https://blog.algolia.com/reducing-infrastructure-cost/) - (2017) Tips for reducing the cost of your infrastructure
+* [Denny Cherry](http://itknowledgeexchange.techtarget.com/sql-server/another-cloud-outage-awsdown-this-time-another-group-of-companies-show-they-dont-have-dr/) - (2017) Another Cloud Outage (#awsdown this time) Another Group of Companies Show They Don’t Have DR
+* [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
+* [The OpenStack Marketplace](https://www.openstack.org/marketplace/) - [Private Clouds](https://www.openstack.org/marketplace/hosted-private-clouds/) + [Public Clouds](https://www.openstack.org/marketplace/public-clouds/)
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
