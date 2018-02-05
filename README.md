@@ -2204,6 +2204,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
 * [Maura Thomas](https://hbr.org/2017/02/your-teams-time-management-problem-might-be-a-focus-problem) - (2017) Your Team’s Time Management Problem Might Be a Focus Problem
 * [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
+* [Logan Mayville](https://www.hellosign.com/blog/busy-kills-productivity) - (2018) How Being Busy Kills Productivity
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
