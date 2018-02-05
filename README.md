@@ -606,6 +606,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 * [OpenStack Summit](https://www.openstack.org/videos/) - All Videos archives
+* [Jamie Maguire](https://www.devteam.space/blog/software-release-management-best-practices/) - (2018) Software Release Management Best Practices
+* [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
+* [Kevin London](https://www.kevinlondon.com/2016/09/20/devops-from-scratch-pt-2.html) - (2016) DevOps from Scratch, Part 2: Amazon & Terraform
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -700,6 +703,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jiri Tyr](https://www.slideshare.net/jtyr/automation-and-ansible) - (2016) [Slides] Automation and Ansible
 * [SlideShare](https://www.slideshare.net//tag/ansible) - ansible related slideshares
 * [Ansible](https://www.ansible.com/videos-ansible-automates-2017) - (2017) [Videos] Ansible Automates Videos
+* [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -1136,6 +1140,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [fgrehm/vagrant-notify](https://github.com/fgrehm/vagrant-notify) - Vagrant plugin that redirects `notify-send` from guest to host machine and notifies provisioning status.
 * [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Veewee is a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
 * [Anton Kalyaev](https://coderwall.com/p/17i72q/vagrant-tips) - Vagrant tips
+* [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -2117,6 +2122,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Battle for Net Neutrality](https://www.battleforthenet.com/) - The Internet is under attack. But we can still win.
 * [Georg Szalai](https://www.hollywoodreporter.com/news/google-chairman-eric-schmidt-internet-765989) - (2015) Google Chairman Eric Schmidt: "The Internet Will Disappear"
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
+* [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
 
 # Productivity
 > Tips
@@ -2456,6 +2462,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ben Putano](https://stackify.com/software-development-trends-2018/) - (2017) 5 Software Development Trends for 2018: Developers Needed
 * [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
+* [Nathan Coulter (Poor Yorick)](http://wiki.tcl.tk/8602) - (2018) Tips for writing quality software
+* [Kevin London](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) - (2015) Code Review Best Practices
+* [Kevin London](https://www.kevinlondon.com/2015/09/10/10-software-talks-to-listen-to.html) - (2015) 10 Software Talks to Listen to on Your Way to Work
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2764,6 +2773,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michelle Young](https://chatbotslife.com/trunk-based-development-vs-git-flow-ed381cd340e) - (2017) Trunk-based Development vs. Git Flow
 * [fa.linux.kernel newsgroups archives](http://yarchive.net/comp/linux/git_rebase.html) - (2008) [Messages] Linus Torvalds against git rebase
 * [Safia Abdalla](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases) - (2018) Tips for reading new codebases
+* [Egwuenu Gift](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503) - (2018) Useful Tips for writing better Git commit messages
+* [Kenichi Shibata](https://kenichishibata.net/git-push-and-pull-tips-and-tricks-7f9163539f02) - (2017) Git Push and Pull Tips and Tricks
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -3706,6 +3717,7 @@ Raw
 * [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
 * [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
 * [Steve Faulkner](http://html5doctor.com/html5-check-it-before-you-wreck-it-with-miketm-smith/) - (2014) HTML5 – Check it Before you Wreck it
+* [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
