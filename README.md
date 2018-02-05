@@ -201,6 +201,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 * [Bruce Hunt](https://hackernoon.com/due-diligence-checklist-for-investing-in-cryptocurrency-7b952b8b038e) - (2017) Due Diligence Checklist for Investing in Cryptocurrency
 * [Bruce Hunt](https://hackernoon.com/how-crypto-market-behaves-its-a-damn-cycle-bffe47a01831) - (2017) How Cryptocurrency Market Behaves, It’s a Damn Cycle.
+* [Bruce Hunt](https://hackernoon.com/how-to-crush-the-crypto-market-quit-your-job-move-to-paradise-and-do-whatever-you-want-the-rest-27a4a3cc2bb1) - (2018) How to Crush the Crypto Market, Quit Your Job, Move to Paradise and Do Whatever You Want the Rest of Your Life
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
