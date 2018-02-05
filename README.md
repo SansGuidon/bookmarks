@@ -1469,6 +1469,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [IRCEL - CELINE](http://www.irceline.be/en/front-page?set_language=en) - Current Air Quality Measurements of Belgian Interregional Environment Agency (IRCEL - CELINE)
 * [Bruxelles Environnement](http://www.qualitedelair.brussels/) - [FR] :fr: Qualité de l'air. **Bonus** : Dutch version [Luchtkwaliteit](http://www.luchtkwaliteit.brussels/)
 * [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
+* [Dave Mosher](http://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired
+> my 2 cents: drop the production database, you will soon be fully awaken 
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
