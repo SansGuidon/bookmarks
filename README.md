@@ -164,11 +164,17 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christelle Mozzati](http://blog.christellemozzati.fr/un-graphiste-pourquoi-cest-cher/) - (2013) [FR] :fr: Un graphiste, pourquoi c’est cher ?
 
 # Business & Economics
+> News
 * [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
+* [Crypto Lite](http://cryptolite.net/) - A quick way to check the top-100 cryptocurrencies price
+* [Cyptocurrency News](http://www.knockknockcoin.com/) - Cyptocurrency news updates
+* [WorldCoinIndex](https://www.worldcoinindex.com/) - Cryptocoin price index and market cap
+* [Hacker Noon](https://hackernoon.com/bitcoin/home) - Bitcoin related news
+
+> Learn
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
 * [SEO'Brien](https://seobrien.com/startups-work-silicon-valley) - Why Do Startups Work in Silicon Valley?
 * [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] :fr: Competitivity 
-* [Crypto Lite](http://cryptolite.net/) - A quick way to check the top-100 cryptocurrencies price
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Sacha Greif](https://medium.com/@sachagreif/the-spiderweb-strategy-12ebd2f35595) - (2014) The Spiderweb Strategy : Why it’s OK if some of your projects don’t make money
 * [Andy Adams](http://andyadams.org/you-can-charge-more/) - (2014) How to talk yourself into charging more
@@ -190,8 +196,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 * [99cryptocoin](https://www.99cryptocoin.com/) - Top CryptoCurrency by 24 Hour Trading Volume
 * [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
-* [Cyptocurrency News](http://www.knockknockcoin.com/) - Cyptocurrency news updates
-* [WorldCoinIndex](https://www.worldcoinindex.com/) - Cryptocoin price index and market cap
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 * [Chia Network](https://chia.network/) - blockchain based on proofs of space and time to make a cryptocurrency which is less wasteful, more decentralized, and more secure.
 * [Bruce Hunt](https://hackernoon.com/the-art-of-hodling-crypto-cant-make-this-sh-t-up-713149eb9a21) - (2018) The Art Of Hodling Crypto: Can’t Make this Sh*t Up
@@ -202,7 +206,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bruce Hunt](https://hackernoon.com/due-diligence-checklist-for-investing-in-cryptocurrency-7b952b8b038e) - (2017) Due Diligence Checklist for Investing in Cryptocurrency
 * [Bruce Hunt](https://hackernoon.com/how-crypto-market-behaves-its-a-damn-cycle-bffe47a01831) - (2017) How Cryptocurrency Market Behaves, It’s a Damn Cycle.
 * [Bruce Hunt](https://hackernoon.com/how-to-crush-the-crypto-market-quit-your-job-move-to-paradise-and-do-whatever-you-want-the-rest-27a4a3cc2bb1) - (2018) How to Crush the Crypto Market, Quit Your Job, Move to Paradise and Do Whatever You Want the Rest of Your Life
-* [Hacker Noon](https://hackernoon.com/bitcoin/home) - Bitcoin related news
+* [Coin and Crypto](https://hackernoon.com/bitcoin-is-outdated-tech-these-3-alternatives-should-be-on-your-radar-57cf806d34df) - (2018) Bitcoin is outdated tech. These 3 alternatives should be on your radar.
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
