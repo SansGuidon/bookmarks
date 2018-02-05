@@ -6,6 +6,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Architecture / Design / Patterns](#architecture--design--patterns)
 * [Art](#art-art)
 * [Business & Economics](#business--economics)
+  * [Cryptocurrency](#cryptocurrency)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
 * [Creativity](#creativity)
 * [CRM](#CRM)
@@ -55,6 +56,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [News](#news)
 * [Operations / IT OPS](#operations--it-ops)
   * [Apache](#apache)
+  * [Infrastructure](#infrastructure)
   * [Logging](#logging)
   * [Monitoring](#monitoring)
   * [ServiceNow](#servicenow)
@@ -164,14 +166,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christelle Mozzati](http://blog.christellemozzati.fr/un-graphiste-pourquoi-cest-cher/) - (2013) [FR] :fr: Un graphiste, pourquoi c’est cher ?
 
 # Business & Economics
-> News
-* [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
-* [Crypto Lite](http://cryptolite.net/) - A quick way to check the top-100 cryptocurrencies price
-* [Cyptocurrency News](http://www.knockknockcoin.com/) - Cyptocurrency news updates
-* [WorldCoinIndex](https://www.worldcoinindex.com/) - Cryptocoin price index and market cap
-* [Hacker Noon](https://hackernoon.com/bitcoin/home) - Bitcoin related news
-
-> Learn
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
 * [SEO'Brien](https://seobrien.com/startups-work-silicon-valley) - Why Do Startups Work in Silicon Valley?
 * [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] :fr: Competitivity 
@@ -194,19 +188,31 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andrew Orlowski](http://www.osnews.com/story/30106/_Break_up_Google_and_Facebook_if_you_ever_want_innovation_) - (2017) Break up Google and Facebook if you ever want innovation again | Jonathan Taplin against the tech giants
 * [Google Finance](https://www.google.com/finance) - brings together stories from the many of the best financial news sites + all the market and portfolio data
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
-* [99cryptocoin](https://www.99cryptocoin.com/) - Top CryptoCurrency by 24 Hour Trading Volume
 * [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
+* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
+> Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
+
+
+## Cryptocurrency
+> News
+* [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations
+* [Crypto Lite](http://cryptolite.net/) - A quick way to check the top-100 cryptocurrencies price
+* [Cyptocurrency News](http://www.knockknockcoin.com/) - Cyptocurrency news updates
+* [WorldCoinIndex](https://www.worldcoinindex.com/) - Cryptocoin price index and market cap
+* [Hacker Noon](https://hackernoon.com/bitcoin/home) - Bitcoin related news
+* [99cryptocoin](https://www.99cryptocoin.com/) - Top CryptoCurrency by 24 Hour Trading Volume
+
+> Learn
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 * [Chia Network](https://chia.network/) - blockchain based on proofs of space and time to make a cryptocurrency which is less wasteful, more decentralized, and more secure.
 * [Bruce Hunt](https://hackernoon.com/the-art-of-hodling-crypto-cant-make-this-sh-t-up-713149eb9a21) - (2018) The Art Of Hodling Crypto: Can’t Make this Sh*t Up
 > If you took 5 of the cryptocurrencies and if you invested $1,000 in each on Jan 1st 2017…  you would have : $655,527 for $5,000 invested.
 * [WalletGenerator](https://walletgenerator.net/) - Paper Wallet Generator for BitCoins and other cryptocurrencies. Create, Print & Fold
-* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
-> Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 * [Bruce Hunt](https://hackernoon.com/due-diligence-checklist-for-investing-in-cryptocurrency-7b952b8b038e) - (2017) Due Diligence Checklist for Investing in Cryptocurrency
 * [Bruce Hunt](https://hackernoon.com/how-crypto-market-behaves-its-a-damn-cycle-bffe47a01831) - (2017) How Cryptocurrency Market Behaves, It’s a Damn Cycle.
 * [Bruce Hunt](https://hackernoon.com/how-to-crush-the-crypto-market-quit-your-job-move-to-paradise-and-do-whatever-you-want-the-rest-27a4a3cc2bb1) - (2018) How to Crush the Crypto Market, Quit Your Job, Move to Paradise and Do Whatever You Want the Rest of Your Life
 * [Coin and Crypto](https://hackernoon.com/bitcoin-is-outdated-tech-these-3-alternatives-should-be-on-your-radar-57cf806d34df) - (2018) Bitcoin is outdated tech. These 3 alternatives should be on your radar.
+* [Linda Xie](https://medium.com/@linda.xie/tips-for-crypto-newcomers-2ee5ab2d85c1) - (2018) Tips for crypto newcomers
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
