@@ -705,6 +705,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [SlideShare](https://www.slideshare.net//tag/ansible) - ansible related slideshares
 * [Ansible](https://www.ansible.com/videos-ansible-automates-2017) - (2017) [Videos] Ansible Automates Videos
 * [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
+* [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -875,6 +876,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Evan Klein](https://blog.openshift.com/container-vulnerability-management-opssight/) - (2018) Container Vulnerability Management with OpsSight
 * [David Appelbaum](https://blog.cloudpassage.com/2018/01/02/2018-docker-containers-need-secure/) - (2018) It’s 2018 and your Docker containers need to be secure
 * [Cliff Turner](https://blog.cloudpassage.com/2018/02/01/10-tips-will-ensure-containers-compliant/) - (2018) These 10 tips will ensure your containers are compliant
+* [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1020,6 +1022,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Julien Pivotto](https://www.slideshare.net/roidelapluie/jenkins-shared-libraries-workshop) - (2017) [Slides] Jenkins Shared Libraries Workshop
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices) - (2015) Jenkins Best Practices
 * [Marcus Young](http://marcyoung.us/post/lets-rethink-jenkins/) - (2018) Let’s Rethink Jenkins
+* [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -3462,6 +3465,7 @@ Raw
 * [David Appelbaum](https://blog.cloudpassage.com/2018/01/02/2018-docker-containers-need-secure/) - (2018) It’s 2018 and your Docker containers need to be secure
 * [Cliff Turner](https://blog.cloudpassage.com/2018/02/01/10-tips-will-ensure-containers-compliant/) - (2018) These 10 tips will ensure your containers are compliant
 * [Cliff Turner](https://blog.cloudpassage.com/2017/12/07/common-misconfiguration-mistakes/) - (2017) Do you know the most common software and application misconfiguration mistakes?
+* [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
