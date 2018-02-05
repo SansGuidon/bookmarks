@@ -1472,6 +1472,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dave Mosher](http://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired
 > my 2 cents: drop the production database, you will soon be fully awaken 
 * [Kristen Bahler](http://time.com/money/5077954/linkedin-profile-tips-resume/#77ba6828-9e05-4086-9ccc-0428eea386f4) - (2018) What Your LinkedIn Profile Should Look Like in 2018
+* [Tom M. Sittler](https://thomas-sittler.github.io/facebook/) - (2017) Fighting the evil influence of Facebook (but keeping the good bits): a manifesto and how-to guide
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2185,6 +2186,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sean Quinn](https://lifehacker.com/5611657/use-a-weekly-review-list-to-stay-a-step-ahead-this-semester) - (2010) Use a Weekly Review List to Stay a Step Ahead This Semester
 * [Peter G. Klein](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/) - (2010) How to Read an Academic Article
 * [Timo Van Neerden](https://lehollandaisvolant.net/?id=20150201112318) - (2015) [FR] :fr: Comment partager facilement un mot de passe Wi-Fi?
+* [Tom M. Sittler](https://thomas-sittler.github.io/facebook/) - (2017) Fighting the evil influence of Facebook (but keeping the good bits): a manifesto and how-to guide
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
