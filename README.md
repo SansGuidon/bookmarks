@@ -200,6 +200,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 * [Bruce Hunt](https://hackernoon.com/due-diligence-checklist-for-investing-in-cryptocurrency-7b952b8b038e) - (2017) Due Diligence Checklist for Investing in Cryptocurrency
+* [Bruce Hunt](https://hackernoon.com/how-crypto-market-behaves-its-a-damn-cycle-bffe47a01831) - (2017) How Cryptocurrency Market Behaves, It’s a Damn Cycle.
 
 # Collaboration & Problem solving
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
