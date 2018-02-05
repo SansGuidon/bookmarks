@@ -454,6 +454,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
 * [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news 
 * [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
+* [CloudPassage Blog](https://blog.cloudpassage.com/) - insights for a unsecure world / news & tips on protecting critical assets
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -3325,6 +3326,10 @@ Raw
 * [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - Useful Docker Bash Functions And Aliases
 
 # Security / Infosec
+> News
+* [CloudPassage Blog](https://blog.cloudpassage.com/) - insights for a unsecure world / news & tips on protecting critical assets
+
+> Learn
 * [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - Penetration Testing Tools Cheat Sheet
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [IT Security Blog](http://blog.feedspot.com/information_security_blogs) - Top 100 Information Security Blogs for Data Security Professionals
