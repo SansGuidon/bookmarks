@@ -2257,6 +2257,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [One on One Meeting Template](https://www.oneonemeeting.com/template) - a template to support you while leading one on one meetings.
 * [Savvy Time](https://savvytime.com/converter/et-to-cet) - ET to CET Converter | Convert hours and time in different locations
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
+* [Ciro S. Costa](https://ops.tips/blog/publishing-a-blog-with-aws/) - (2018) How to publish a blog using AWS
 
 # Programming
 > News
