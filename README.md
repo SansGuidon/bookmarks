@@ -2539,6 +2539,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
 * [Yunkai Zhou](https://medium.freecodecamp.org/climbing-the-code-quality-ladder-babd3198e6e2) - (2018) Climbing The Code Quality Ladder
 * [Andy Zaidman](https://azaidman.wordpress.com/2015/01/19/old-habits-die-hard-why-refactoring-for-understandability-does-not-give-immediate-benefits/) - (2015) Old Habits Die Hard: Why Refactoring for Understandability Does Not Give Immediate Benefits
+* [Sarah Drasner](https://css-tricks.com/the-art-of-comments/) - (2017) The Art of Comments
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
