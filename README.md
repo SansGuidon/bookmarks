@@ -1382,6 +1382,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Coinop](http://www.coinop.org/) - Coinop.org maintains a comprehensive database of coin-operated arcade games.
 * [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
 * [Jeux libres](http://jeuxlibres.net/) - :fr: [FR] un catalogue de jeux vidéos libres principalement sous GNU/Linux
+* [Abandonware France](https://www.abandonware-france.org/) - :fr: [FR] l'histoire des vieux jeux video et retrogaming
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
