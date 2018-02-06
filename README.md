@@ -2909,6 +2909,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Carol Smith](https://www.slideshare.net/carologic/ai-and-machine-learning-demystified-by-carol-smith-at-midwest-ux-2017/45-AI_and_ML_Demystified_carologic) - (2017) AI and Machine Learning Demystified by Carol Smith at Midwest UX 2017
 * [Alex Ellis](https://blog.alexellis.io/openfaas-colorisebot-comes-to-kubecon/) - (2017) Colorisebot and OpenFaaS
 * [Finnian Anderson](https://finnian.io/blog/colourising-video-with-openfaas-serverless-functions/) - (2017) Colourising Video with OpenFaaS Serverless Functions
+* [Rob Harrigan](https://unsupervisedpandas.com/python/supervised-classification-preprocessing/) - (2017) Supervised Classification: An Introduction and Preprocessing
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
@@ -3123,6 +3124,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [python-cx_Oracle](https://oracle.github.io/python-cx_Oracle/) - cx_Oracle - Python Interface for Oracle Database
 * [353Solutions](https://www.353.solutions/py2go/index.html) - Python to Go CheatSheet
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
+* [Rob Harrigan](https://unsupervisedpandas.com/python/supervised-classification-preprocessing/) - (2017) Supervised Classification: An Introduction and Preprocessing
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
