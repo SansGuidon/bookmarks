@@ -2493,6 +2493,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kevin London](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) - (2015) Code Review Best Practices
 * [Kevin London](https://www.kevinlondon.com/2015/09/10/10-software-talks-to-listen-to.html) - (2015) 10 Software Talks to Listen to on Your Way to Work
 * [MyBroadband](https://mybroadband.co.za/news/smartphones/246583-how-programmers-learn-to-code.html) - (2018) How programmers learn to code | What programmers want
+* [Fagner Brack](https://hackernoon.com/the-angry-programmer-52a93bfcbc3c) - (2016) The Angry Programmer | How an engineer can be competent and incompetent at the same time
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
