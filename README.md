@@ -2246,6 +2246,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Logan Mayville](https://www.hellosign.com/blog/busy-kills-productivity) - (2018) How Being Busy Kills Productivity
 * [Jory MacKay](https://blog.rescuetime.com/225-million-hours-productivity/) - (2018) Productivity in 2017: What we learned from analyzing 225 million hours of work time
 * [Nikola Tore](http://blog.hackerearth.com/employee-wellness-affects-productivity-four-fundamental-pillars) - (2017) How employee wellness affects productivity: four fundamental pillars
+* [Nikola Tore](http://blog.hackerearth.com/job-hopping-millennials-hoppers-better-hire) - (2017) Job-hopping makes millennials better hires
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
