@@ -880,6 +880,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
 * [Andrew Lock](https://andrewlock.net/handy-docker-commands-for-local-development-part-1/) - (2018) Handy Docker commands for local development - Part 1
 * [Andrew Lock](https://andrewlock.net/handy-docker-commands-for-local-development-part-2/) - (2018) Handy Docker commands for local development - Part 2
+* [Alex Ellis](https://blog.alexellis.io/mutli-stage-docker-builds/) - (2017) Builder pattern vs. Multi-stage builds in Docker
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
