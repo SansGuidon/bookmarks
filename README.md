@@ -321,6 +321,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Changing minds](http://changingminds.org/techniques/questioning/socratic_questions.htm) - Socratic Questioning
 * [CrowdSync](https://www.crowdsync.io/blog/2018/01/17/7-tips-for-creating-a-new-process/) - (2018) 7 Tips for Creating a New Process
 * [Carmen Bourlon](https://www.javascriptjanuary.com/blog/document-like-a-journalist) - Document like a Journalist
+* [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1506,6 +1507,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kristen Bahler](http://time.com/money/5077954/linkedin-profile-tips-resume/#77ba6828-9e05-4086-9ccc-0428eea386f4) - (2018) What Your LinkedIn Profile Should Look Like in 2018
 * [Tom M. Sittler](https://thomas-sittler.github.io/facebook/) - (2017) Fighting the evil influence of Facebook (but keeping the good bits): a manifesto and how-to guide
 * [Nikola Tore](http://blog.hackerearth.com/employee-wellness-affects-productivity-four-fundamental-pillars) - (2017) How employee wellness affects productivity: four fundamental pillars
+* [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2221,6 +2223,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Peter G. Klein](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/) - (2010) How to Read an Academic Article
 * [Timo Van Neerden](https://lehollandaisvolant.net/?id=20150201112318) - (2015) [FR] :fr: Comment partager facilement un mot de passe Wi-Fi?
 * [Tom M. Sittler](https://thomas-sittler.github.io/facebook/) - (2017) Fighting the evil influence of Facebook (but keeping the good bits): a manifesto and how-to guide
+* [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
