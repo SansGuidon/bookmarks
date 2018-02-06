@@ -2225,6 +2225,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Timo Van Neerden](https://lehollandaisvolant.net/?id=20150201112318) - (2015) [FR] :fr: Comment partager facilement un mot de passe Wi-Fi?
 * [Tom M. Sittler](https://thomas-sittler.github.io/facebook/) - (2017) Fighting the evil influence of Facebook (but keeping the good bits): a manifesto and how-to guide
 * [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
+* [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
