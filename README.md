@@ -881,6 +881,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andrew Lock](https://andrewlock.net/handy-docker-commands-for-local-development-part-1/) - (2018) Handy Docker commands for local development - Part 1
 * [Andrew Lock](https://andrewlock.net/handy-docker-commands-for-local-development-part-2/) - (2018) Handy Docker commands for local development - Part 2
 * [Alex Ellis](https://blog.alexellis.io/mutli-stage-docker-builds/) - (2017) Builder pattern vs. Multi-stage builds in Docker
+* [Andrew Lock](https://andrewlock.net/home-home-on-the-range-installing-kubernetes-using-rancher-2-0/) - (2017) Home, home on the range: Installing Kubernetes using Rancher 2.0
 
 ## ChatOps
 * [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1040,6 +1041,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [William Jimenez](https://containerjournal.com/2017/11/02/kubernetes-because-everyone-doing/) - (2017) Kubernetes: Because Everyone is Doing It
 * [Cloud Native Computing Foundation website](https://www.cncf.io/) - Sustaining and integrating open source technologies like Kubernetes and Prometheus
 * [praqmatim](https://www.praqma.com/stories/ask/) - Atlassian high availability as code | Containerized Data Center on Kubernetes
+* [Andrew Lock](https://andrewlock.net/home-home-on-the-range-installing-kubernetes-using-rancher-2-0/) - (2017) Home, home on the range: Installing Kubernetes using Rancher 2.0
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
