@@ -322,6 +322,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [CrowdSync](https://www.crowdsync.io/blog/2018/01/17/7-tips-for-creating-a-new-process/) - (2018) 7 Tips for Creating a New Process
 * [Carmen Bourlon](https://www.javascriptjanuary.com/blog/document-like-a-journalist) - Document like a Journalist
 * [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
+* [Kuba Niechcial](https://niechcial.me/2018-01-03/remember-the-names-its-your-job) - (2018) Remember the names - it's your job
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
