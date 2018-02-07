@@ -2317,6 +2317,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
 * [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
+* [Coding Blocks](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2521,6 +2522,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bartlomiej Filipek](http://www.bfilipek.com/2017/10/notnull.html) - (2017) How not_null can improve your code?
 
 ## Clean code
+> News
+* [Coding Blocks](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
+
+> Learn
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - cheat sheet for clean code
 * [Corinna Baldauf](http://wall-skills.com/2014/simplicity-rules-from-extreme-programming/) - Simplicity Rules (from eXtreme Programming)
@@ -3180,6 +3185,7 @@ Raw
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456) - (2017) [FR] :fr: Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Video](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414)
 * [Le Bureau des Mystères](https://soundcloud.com/bureaudesmysteres/special-creepypasta-et-legendes-urbaines-1#t=14:56) - [FR] :fr: creepypasta et légendes urbaines préférées... les mystères de Disneyland 
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - podcast about the people who transform technology from the command line up. Presented by Red Hat.
+* [Coding Blocks](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
