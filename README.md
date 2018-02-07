@@ -1035,6 +1035,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices) - (2015) Jenkins Best Practices
 * [Marcus Young](http://marcyoung.us/post/lets-rethink-jenkins/) - (2018) Let’s Rethink Jenkins
 * [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
+* [SAP/cloud-s4-sdk-pipeline-lib](https://github.com/SAP/cloud-s4-sdk-pipeline-lib) - S/4HANA Cloud SDK pipeline library for Jenkins
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
