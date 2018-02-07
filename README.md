@@ -1567,6 +1567,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [webcomic name](http://webcomicname.com/) - kind of absurd repetitive web comic strip, among my favorites | "oh no"
 * [Regular Ordinary Swedish Meal Time (ROSMT)](https://www.youtube.com/playlist?list=PL4B2CBC4A35E0E224) - [Videos] YouTube Series of WTF cooking how-to's/tutorials. it's good for you | Swedish men cooking regular food with extreme Swedish violence like vikings.
 * [The Cooper Review](https://thecooperreview.com/tag/corporate-humor/) - Funny corporate humor and satire 
+* [Sarah Cooper](https://thecooperreview.com/boomers-vs-millenials-work/) - Boomers vs. Millennials @ Work
+* [Sarah Cooper](https://thecooperreview.com/why-they-call-it-middle-management/) - Why They Call it Middle Management
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
