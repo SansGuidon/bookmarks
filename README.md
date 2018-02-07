@@ -1566,6 +1566,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Best Page in the Universe](http://maddox.xmission.com/) - personal satirical humor website created by George Ouzounian, better known as Maddox
 * [webcomic name](http://webcomicname.com/) - kind of absurd repetitive web comic strip, among my favorites | "oh no"
 * [Regular Ordinary Swedish Meal Time (ROSMT)](https://www.youtube.com/playlist?list=PL4B2CBC4A35E0E224) - [Videos] YouTube Series of WTF cooking how-to's/tutorials. it's good for you | Swedish men cooking regular food with extreme Swedish violence like vikings.
+* [The Cooper Review](https://thecooperreview.com/tag/corporate-humor/) - Funny corporate humor and satire 
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
