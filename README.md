@@ -614,6 +614,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
 * [Kevin London](https://www.kevinlondon.com/2016/09/20/devops-from-scratch-pt-2.html) - (2016) DevOps from Scratch, Part 2: Amazon & Terraform
 * [Continuous Delivery Service (CDS)](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform, by OVH. CDS is open-source and completely free.
+* [Frederik Andersson](https://www.webcodegeeks.com/javascript/node-js/updating-maintainable-npm-module-continuous-integration/) - (2017) Updating a Maintainable NPM Module with Continuous Integration
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -2918,6 +2919,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape : embeddable Javascript engine with a focus on portability and compact footprint
 * [Una Kravets](http://youmightnotneedjs.com/) - You Might Not Need JavaScript
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+* [Frederik Andersson](https://www.webcodegeeks.com/javascript/node-js/updating-maintainable-npm-module-continuous-integration/) - (2017) Updating a Maintainable NPM Module with Continuous Integration
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
