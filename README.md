@@ -613,6 +613,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jamie Maguire](https://www.devteam.space/blog/software-release-management-best-practices/) - (2018) Software Release Management Best Practices
 * [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
 * [Kevin London](https://www.kevinlondon.com/2016/09/20/devops-from-scratch-pt-2.html) - (2016) DevOps from Scratch, Part 2: Amazon & Terraform
+* [Continuous Delivery Service (CDS)](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform, by OVH. CDS is open-source and completely free.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1569,6 +1570,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Cooper Review](https://thecooperreview.com/tag/corporate-humor/) - Funny corporate humor and satire 
 * [Sarah Cooper](https://thecooperreview.com/boomers-vs-millenials-work/) - Boomers vs. Millennials @ Work
 * [Sarah Cooper](https://thecooperreview.com/why-they-call-it-middle-management/) - Why They Call it Middle Management
+* [Sarah Cooper](https://thecooperreview.com/9-tricks-to-appear-smart-in-brainstorming-meetings/) - 9 Tricks to Appear Smart in Brainstorming Meetings
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
