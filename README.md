@@ -5,6 +5,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Anime](#anime)
 * [Architecture / Design / Patterns](#architecture--design--patterns)
 * [Art](#art-art)
+* [Books](#books)
 * [Business & Economics](#business--economics)
   * [Cryptocurrency](#cryptocurrency)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
@@ -164,6 +165,64 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
 * [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
 * [Christelle Mozzati](http://blog.christellemozzati.fr/un-graphiste-pourquoi-cest-cher/) - (2013) [FR] :fr: Un graphiste, pourquoi c’est cher ?
+
+# Books
+* [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
+* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
+* [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer 
+* [John Allspaw](http://www.kitchensoap.com/2017/03/06/book-suggestion-dialogue-the-art-of-thinking-together/) - Dialogue: The Art Of Thinking Together
+* [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] :fr: [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
+* [Learn by Reading](https://learnbyreading.herokuapp.com/) - Discover your next favorite learnable (Non-fiction) book from Amazon Book
+* [Gnod](http://www.gnooks.com/faves.php) - Discover new books based on what you like
+* :star: [**Goodreads**](https://www.goodreads.com/) - a home for you books, to manage your collection and discover new books
+* :star: [**LibraryThing**](https://www.librarything.com/) - a home for your books, to manage your library and discover new books. | Recommendations are numerous and usually relevant to me for every book I tried
+* [Whichbook](http://www.openingthebook.com/whichbook/) - a tool for selecting what book to read next
+* [What Should I Read Next?](http://www.whatshouldireadnext.com/) - another tool to discover new books based on what you like
+* [YourNextRead](http://www.yournextread.com/us/) - books recommendations based on what you like
+* [AllReaders](http://allreaders.com/booksearch.asp) - book search engine, get details and recommendations about books you like
+* [Readgeek](https://www.readgeek.com/rate_many) - Let Readgeek get to know your book taste to get recommendations
+* [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
+* [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
+* [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
+* [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
+* [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
+* [The Pragmatic Programmers](https://media.pragprog.com/titles/auto/PragmaticAutomationSummary.pdf) - [PDF] Pragmatic Project Automation Summary Road Map / good one-page summary of [Pragmatic Project Automation](http://www.pragprog.com/titles/auto) book
+* [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
+* [Google](https://landing.google.com/sre/book.html) - [Book] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
+* [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
+* :star: [**Library Genesis**](http://libgen.io/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.pw/), [Mirrors list](http://sguru.org/libgen-proxy/)
+* [b-ok.org](http://b-ok.org/) - ebooks
+* [Kooba](http://koob.jake.run/) - an interactive graph for finding new books 
+* [Book Suggestions Ninja](https://www.booksuggestions.ninja/) - books suggestions based on book / author or genre
+* [Reading Stash](http://readingstash.com/index) - Just a book recommender
+* [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - [TOR] a list of websites that have free ebooks.
+* [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
+* [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
+* [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) - +27 million content in biomedical literature from MEDLINE, life science journals, and online books.
+* [Fox eBook](https://www.foxebook.net) - ebooks site
+* [Smashwords](https://www.smashwords.com/books/category/1/newest/0/free/any) - ebooks from independent authors and publishers
+* [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
+* [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
+* [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
+* [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
+* [Brian Kelly](https://morethancoding.com/2011/02/27/the-greatest-software-stories-ever-told/) - [Books] The Greatest Software Stories Ever Told
+* [Erik Helin and Adam Renberg](http://littleosbook.github.io/#a-simple-read-only-file-system) - [Book] The little book about OS development
+* [onaclov2000/PassionateProgrammer](https://github.com/onaclov2000/PassionateProgrammer) - a list of the tips from the book "Passionate Programmer"
+* [sfrapoport/daily-pragmatic-tip](https://github.com/sfrapoport/daily-pragmatic-tip/blob/master/pragmaticprogrammer.txt) - notes from book "Pragmatic Programmer"
+* [braydie/PragProgTips](https://github.com/braydie/PragProgTips/blob/master/index.html) - some tips from pragmatic programmer book
+* Some GitHub resources on clean coding practices, mostly based on book 'Clean Code: A Handbook of Agile Software Craftsmanship' by Robert C. Martin : [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29), [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code), [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code), [harry830622/clean-code-notes](https://github.com/harry830622/clean-code-notes), [thebentern/clean-code-study](https://github.com/thebentern/clean-code-study), [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes), [timkendall/clean-code](https://github.com/timkendall/clean-code)
+* [jbelmont/pragmatic-programmer-and-clean-code](https://github.com/jbelmont/pragmatic-programmer-and-clean-code) - principles from Pragmatic Programmer and Clean Code books
+* [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
+* [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
+* [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell 
+* [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
+* [Alex Ott](http://alexott.net/en/fp/books/#sec12) - books review on Lisp 
+* [Alex Ott](http://alexott.net/en/fp/books/) - Functional programming books overview
+* [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books. 
+* [Markus Triska](https://www.metalevel.at/prolog) - [Book] The Power of Prolog. **Bonus** : git repo [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog)
+* [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog 
+* [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
+* [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
 
 # Business & Economics
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
