@@ -17,6 +17,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
   * [Ansible](#ansible)
     * [Ansible Vault](#ansible-vault)
   * [Bitbucket](#bitbucket)
+  * [ChatOps](#chatops)
   * [Consul (by Hashicorp)](#consul-by-hashicorp)
   * [Containers](#containers)
   * [Gradle](#gradle)
@@ -72,7 +73,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
   * [API](#api)
   * [C/C++](#cc)
   * [Clean code](#clean-code)
-  * [ChatOps](#chatops)
+  * [Conferences](#conferences)
   * [Database](#database)
   * [Debugging](#debugging)
   * [Erlang](#erlang)
@@ -788,6 +789,42 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
 * [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver/setting-up-ssh-port-forwarding-776640364.html) - Setting up SSH port forwarding (for BitBucket or other git server)
 
+## ChatOps
+* [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
+* [Richard Jones](https://www.metabrew.com/article/how-we-use-irc-at-lastfm) - (2009) How we use IRC at Last.fm
+* [Vinay Nadig](https://www.icicletech.com/blog/automate-your-development-activities-with-hubot) - Automate Your Development Activities with Hubot
+* [Pete Nicholls](http://hubot-script-catalog.herokuapp.com/) - Hubot Script Catalog. [Repository](https://github.com/Aupajo/hubot-script-catalog)
+* [Hubot](https://github.com/github/hubot) - Hubot repository on GitHub
+* [Hubot Docs](https://hubot.github.com/docs/) - Getting started with Hubot. See also : [Adapters for Hubot](https://hubot.github.com/docs/adapters/), [Scripting Doc](https://hubot.github.com/docs/scripting/), [Deploying on Unix](https://hubot.github.com/docs/deploying/unix/)
+* [Hubot Scripts](https://github.com/hubot-scripts) - Hubot Scripts on GitHub. Other related repo on GitHub by tag : [hubot-scripts](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot-scripts+&type=Repositories), [hubot](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot+&type=Repositories), [hubot-adapter](https://github.com/search?q=topic%3Ahubot-adapter&type=Repositories)
+* [Rocket.Chat](https://rocket.chat/) - your self hosted cross-platform open source chat solution as an alternative to slack. Related : [RocketChat GitHub repo](https://github.com/RocketChat/Rocket.Chat), [Integrate with Rocket.Chat !](https://github.com/RocketChat/Rocket.Chat.Ops)
+* [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat) - Rocket.Chat Hubot adapter
+* [Botmakers](https://botmakers.org/) - Slack Community of bot fans who make and share online bots for Twitter, Slack, etc.
+* [ChatBots & AI group](https://chatbotsgroup.engazify.com/) - Slack community of bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
+* [Lita](https://www.lita.io/) - A free extensible robot companion, written in Ruby, for your company's chat room. [Plugins here](https://plugins.lita.io/)
+* [Atlassian Docs](https://confluence.atlassian.com/hipchatkb/using-bots-in-hipchat-753404057.html) - Using bots in HipChat : Lita, Hubot, Will, wobot, Err...
+* [HipChat Docs](https://developer.atlassian.com/hipchat) - HipChat developer documentation. [Rest API here](https://developer.atlassian.com/hipchat/guide/hipchat-rest-api), [Sending Messages here](https://developer.atlassian.com/hipchat/guide/sending-messages), [Send room notifications](https://www.hipchat.com/docs/apiv2/method/send_room_notification), [Send room message](https://www.hipchat.com/docs/apiv2/method/send_message), [Capabilities description](https://www.hipchat.com/docs/apiv2/capabilities)
+* [Atlassian](http://botlab.hipch.at/) - HipChat Bot Lab : ready to use bots
+* [Dan Riti](https://gist.github.com/danriti/7345074) - example of how sending messages to a HipChat room using curl and API v2
+* [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
+* [bonovoxly/ansible_snippets](https://github.com/bonovoxly/ansible_snippets/blob/master/snippets.yml) - ansible snippet to notify hipchat room from ansible
+* [hipchat/hubot-hipchat](https://github.com/hipchat/hubot-hipchat) - HipChat adapter for Hubot
+* [Jabber plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Jabber+Plugin)
+* [Cisco Spark](https://depot.ciscospark.com/integrations/categories/developer-tools) - Cisco Spark integrations with developer tools
+* [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - Chatops Pitfalls and Tips
+* [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
+* [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
+* [XKCD](https://xkcd.com/1810/) - xKCD about chat systems
+* [Sameroom.io](https://cdn.sameroom.io/chat-timeline.pdf) - a brief history of chat services from 1973 to the present day
+* [Pidgin](https://bitbucket.org/pidgin/main/pull-requests/91/implmeth-webex-token-sasl-auth-for-jabber/diff) - Implmeth WEBEX-TOKEN SASL auth for jabber.
+* [matterbridge](https://github.com/42wim/matterbridge/commit/ee643de5b6031b6bdbf2e957f2fea8f1222ace64) - Add compatibility for Cisco Jabber (xmpp)
+* [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know 
+* [bhuga/hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc) - hubot-chatops-rpc : Easily add RPC endpoints to your hubot.
+* [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
+* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
+* [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
+* [Dylan Murray](https://blog.openshift.com/rocket-chat-ansible-playbook-bundle-development-deployment-tutorial/) - (2018) Rocket.Chat Ansible Playbook Bundle Development & Deployment Tutorial
+
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
 * [Consul Docs](https://www.consul.io/docs/agent/checks.html) - health checks / check definitions
@@ -952,42 +989,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 * [Docker Community](https://www.docker.com/community/docker-captains) - Docker Captains
 * [Stack Overflow](https://stackoverflow.com/a/47965269/2309958) - Docker - Cannot remove dead container | `rm: cannot remove /var/lib/docker/overlay/<hash>/merged: Device or resource busy` Solution : grep <hash> /proc/*/mountinfo then find the pid of <hash> and kill it
-
-## ChatOps
-* [nixCraft](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
-* [Richard Jones](https://www.metabrew.com/article/how-we-use-irc-at-lastfm) - (2009) How we use IRC at Last.fm
-* [Vinay Nadig](https://www.icicletech.com/blog/automate-your-development-activities-with-hubot) - Automate Your Development Activities with Hubot
-* [Pete Nicholls](http://hubot-script-catalog.herokuapp.com/) - Hubot Script Catalog. [Repository](https://github.com/Aupajo/hubot-script-catalog)
-* [Hubot](https://github.com/github/hubot) - Hubot repository on GitHub
-* [Hubot Docs](https://hubot.github.com/docs/) - Getting started with Hubot. See also : [Adapters for Hubot](https://hubot.github.com/docs/adapters/), [Scripting Doc](https://hubot.github.com/docs/scripting/), [Deploying on Unix](https://hubot.github.com/docs/deploying/unix/)
-* [Hubot Scripts](https://github.com/hubot-scripts) - Hubot Scripts on GitHub. Other related repo on GitHub by tag : [hubot-scripts](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot-scripts+&type=Repositories), [hubot](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot+&type=Repositories), [hubot-adapter](https://github.com/search?q=topic%3Ahubot-adapter&type=Repositories)
-* [Rocket.Chat](https://rocket.chat/) - your self hosted cross-platform open source chat solution as an alternative to slack. Related : [RocketChat GitHub repo](https://github.com/RocketChat/Rocket.Chat), [Integrate with Rocket.Chat !](https://github.com/RocketChat/Rocket.Chat.Ops)
-* [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat) - Rocket.Chat Hubot adapter
-* [Botmakers](https://botmakers.org/) - Slack Community of bot fans who make and share online bots for Twitter, Slack, etc.
-* [ChatBots & AI group](https://chatbotsgroup.engazify.com/) - Slack community of bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
-* [Lita](https://www.lita.io/) - A free extensible robot companion, written in Ruby, for your company's chat room. [Plugins here](https://plugins.lita.io/)
-* [Atlassian Docs](https://confluence.atlassian.com/hipchatkb/using-bots-in-hipchat-753404057.html) - Using bots in HipChat : Lita, Hubot, Will, wobot, Err...
-* [HipChat Docs](https://developer.atlassian.com/hipchat) - HipChat developer documentation. [Rest API here](https://developer.atlassian.com/hipchat/guide/hipchat-rest-api), [Sending Messages here](https://developer.atlassian.com/hipchat/guide/sending-messages), [Send room notifications](https://www.hipchat.com/docs/apiv2/method/send_room_notification), [Send room message](https://www.hipchat.com/docs/apiv2/method/send_message), [Capabilities description](https://www.hipchat.com/docs/apiv2/capabilities)
-* [Atlassian](http://botlab.hipch.at/) - HipChat Bot Lab : ready to use bots
-* [Dan Riti](https://gist.github.com/danriti/7345074) - example of how sending messages to a HipChat room using curl and API v2
-* [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
-* [bonovoxly/ansible_snippets](https://github.com/bonovoxly/ansible_snippets/blob/master/snippets.yml) - ansible snippet to notify hipchat room from ansible
-* [hipchat/hubot-hipchat](https://github.com/hipchat/hubot-hipchat) - HipChat adapter for Hubot
-* [Jabber plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Jabber+Plugin)
-* [Cisco Spark](https://depot.ciscospark.com/integrations/categories/developer-tools) - Cisco Spark integrations with developer tools
-* [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - Chatops Pitfalls and Tips
-* [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
-* [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
-* [XKCD](https://xkcd.com/1810/) - xKCD about chat systems
-* [Sameroom.io](https://cdn.sameroom.io/chat-timeline.pdf) - a brief history of chat services from 1973 to the present day
-* [Pidgin](https://bitbucket.org/pidgin/main/pull-requests/91/implmeth-webex-token-sasl-auth-for-jabber/diff) - Implmeth WEBEX-TOKEN SASL auth for jabber.
-* [matterbridge](https://github.com/42wim/matterbridge/commit/ee643de5b6031b6bdbf2e957f2fea8f1222ace64) - Add compatibility for Cisco Jabber (xmpp)
-* [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know 
-* [bhuga/hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc) - hubot-chatops-rpc : Easily add RPC endpoints to your hubot.
-* [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
-* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
-* [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
-* [Dylan Murray](https://blog.openshift.com/rocket-chat-ansible-playbook-bundle-development-deployment-tutorial/) - (2018) Rocket.Chat Ansible Playbook Bundle Development & Deployment Tutorial
 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -2678,6 +2679,17 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Yunkai Zhou](https://medium.freecodecamp.org/climbing-the-code-quality-ladder-babd3198e6e2) - (2018) Climbing The Code Quality Ladder
 * [Andy Zaidman](https://azaidman.wordpress.com/2015/01/19/old-habits-die-hard-why-refactoring-for-understandability-does-not-give-immediate-benefits/) - (2015) Old Habits Die Hard: Why Refactoring for Understandability Does Not Give Immediate Benefits
 * [Sarah Drasner](https://css-tricks.com/the-art-of-comments/) - (2017) The Art of Comments
+
+## Conferences 
+> In Belgium
+* [FOSDEM](https://fosdem.org/) - free event for developers of free and open source software to meet, share and collaborate. **Bonus** : [Videos on YouTube](https://www.youtube.com/user/fosdemtalks/videos)
+* [Configuration Management Camp](http://cfgmgmtcamp.eu/) - event for users of Open Source Configuration Management tools
+* [Devoxx Belgium](https://devoxx.be/) - from Developers For Developers
+* [Journée Agile](https://www.journeeagile.be/) - :fr: [FR] grand évènement agile francophone
+* [Agile Tour Brussels (ATBru)](http://www.agiletourbrussels.be/) - the biggest conference about Agility in Belgium
+
+> Anywhere
+* [Red Hat Events](https://www.redhat.com/en/events) - Conferences, online events, on-demand webinars, and more
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
