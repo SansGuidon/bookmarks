@@ -75,6 +75,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
   * [C/C++](#cc)
   * [Clean code](#clean-code)
   * [Conferences](#conferences)
+  * [Correctness](#correctness)
   * [Database](#database)
   * [Debugging](#debugging)
   * [Erlang](#erlang)
@@ -2694,6 +2695,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 > Anywhere
 * [Red Hat Events](https://www.redhat.com/en/events) - Conferences, online events, on-demand webinars, and more
+
+## Correctness
+* [Wikipedia](https://en.wikipedia.org/wiki/Hoare_logic) - Hoare logic is a formal system for reasoning about the correctness of computer programs
+* [Cormac Flanagan](https://classes.soe.ucsc.edu/cmps203/Winter11/08-axiomatic.ppt.pdf) - (2003) [Slides] [PDF] Axiomatic Semantics
+* [Ranjit Jhala](https://cseweb.ucsd.edu/classes/wi10/cse230/lectures/lec5.pdf) - (2010) [PDF] Axiomatic Semantics
+* [Ken Slonneger](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/Chapter11.pdf) - Axiomatic Semantics
+* [Wikipedia](https://en.wikipedia.org/wiki/Operational_semantics) - Operational semantics
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
