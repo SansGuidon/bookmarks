@@ -166,6 +166,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2015/08/the-clean-code-trap.html) - (2015) The Clean Code Trap
 * [Sarah Mei](https://speakerdeck.com/sarahmei/is-your-code-too-solid-with-transcript) - (2015) [Slides] Is Your Code Too SOLID? (with transcript)
 * [Brian Geihsler](http://qualityisspeed.blogspot.be/2014/09/beyond-solid-dependency-elimination.html) - (2014) Beyond SOLID: The Dependency Elimination Principle
+* [Anthony Williams](https://www.justsoftwaresolutions.co.uk/design/duplication.html) - (2013) Duplication in Software
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -2718,6 +2719,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2015/08/the-clean-code-trap.html) - (2015) The Clean Code Trap
 * [Sarah Mei](https://speakerdeck.com/sarahmei/is-your-code-too-solid-with-transcript) - (2015) [Slides] Is Your Code Too SOLID? (with transcript)
 * [Brian Geihsler](http://qualityisspeed.blogspot.be/2014/09/beyond-solid-dependency-elimination.html) - (2014) Beyond SOLID: The Dependency Elimination Principle
+* [Anthony Williams](https://www.justsoftwaresolutions.co.uk/design/duplication.html) - (2013) Duplication in Software
 
 ## Conferences 
 > In Belgium
