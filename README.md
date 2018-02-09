@@ -1584,6 +1584,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tom M. Sittler](https://thomas-sittler.github.io/facebook/) - (2017) Fighting the evil influence of Facebook (but keeping the good bits): a manifesto and how-to guide
 * [Nikola Tore](http://blog.hackerearth.com/employee-wellness-affects-productivity-four-fundamental-pillars) - (2017) How employee wellness affects productivity: four fundamental pillars
 * [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
+* [Antonio Bello](https://www.raywenderlich.com/114368/staying-motivated-work-home-developer) - (2015) Staying Motivated as a Work From Home Developer
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1595,6 +1596,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - list of awesome remote jobs and resources
 * [Sick Call Excuse Generator](http://www.getodd.com/raz/sickday/sickday.html) - helpful to you in deciding the excuse for your forthcoming day off.
 * [WFH-excuses](https://us-central1-wfh-excuses-gh.cloudfunctions.net/wfh) - Working from Home excuses generator. **Bonus** : [GitHub repo](https://github.com/lnfnunes/WFH-excuses)
+* [Antonio Bello](https://www.raywenderlich.com/114368/staying-motivated-work-home-developer) - (2015) Staying Motivated as a Work From Home Developer
 
 # Hobbies
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -2579,6 +2581,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Devoxx Belgium](https://devoxx.be/2017/11/the-top-100-rated-devoxx-belgium-2017-talks/) - The Top-100 rated Devoxx Belgium 2017 talks
 * [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary 
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
+* [Antonio Bello](https://www.raywenderlich.com/120612/freelance-software-development) - (2016) Freelance Software Development: Is It For You?
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
