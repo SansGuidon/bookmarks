@@ -2597,6 +2597,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bartlomiej Filipek](http://www.bfilipek.com/2017/10/notnull.html) - (2017) How not_null can improve your code?
 * [Stack Overflow](https://stackoverflow.com/questions/599365/what-is-your-favorite-c-programming-trick) - What is your favorite C programming trick?
 * [Stack Overflow](https://stackoverflow.com/questions/132241/hidden-features-of-c) - Hidden features of C
+* [Kenneth Finnegan](http://ctips.pbworks.com/w/page/7277592/FrontPage) - (2008) Programming Tips in C
+* [Cprogramming.com](http://www.cprogramming.com/tips/) - C and C++ Programming Tips
 
 ## Clean code
 > News
