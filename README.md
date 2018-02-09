@@ -2691,6 +2691,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Yunkai Zhou](https://medium.freecodecamp.org/climbing-the-code-quality-ladder-babd3198e6e2) - (2018) Climbing The Code Quality Ladder
 * [Andy Zaidman](https://azaidman.wordpress.com/2015/01/19/old-habits-die-hard-why-refactoring-for-understandability-does-not-give-immediate-benefits/) - (2015) Old Habits Die Hard: Why Refactoring for Understandability Does Not Give Immediate Benefits
 * [Sarah Drasner](https://css-tricks.com/the-art-of-comments/) - (2017) The Art of Comments
+* [Javin Paul](http://javarevisited.blogspot.be/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html) - (2014) 10 Programming Best Practices to Name Variables, Methods, Classes and Packages
+* [Javin Paul](http://javarevisited.blogspot.be/2013/03/0-exception-handling-best-practices-in-Java-Programming.html) - (2013) 10 Exception handling Best Practices in Java Programming
+* [Javin Paul](http://javarevisited.blogspot.be/2012/03/10-object-oriented-design-principles.html) - (2012) 10 Object Oriented Design Principles Java Programmer should know
+* [Javin Paul](http://javarevisited.blogspot.be/2011/08/code-comments-java-best-practices.html) - (2011) 10 Best Practices to Follow while writing Code Comments
 
 ## Conferences 
 > In Belgium
@@ -2986,6 +2990,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/java-for-everything.html) - (2014) I started to form a strange idea: That Java is the right language for all jobs.
 * [Google Developers](https://developers.google.com/protocol-buffers/docs/javatutorial) - Protocol Buffer Basics: Java
 * [Sam Atkinson](http://samatkinson.com/why-i-hate-spring/) - (2014) Why I hate Spring
+* [Javin Paul](http://javarevisited.blogspot.be/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html) - (2014) 10 Programming Best Practices to Name Variables, Methods, Classes and Packages
+* [Javin Paul](http://javarevisited.blogspot.be/2013/03/0-exception-handling-best-practices-in-Java-Programming.html) - (2013) 10 Exception handling Best Practices in Java Programming
+* [Javin Paul](http://javarevisited.blogspot.be/2012/03/10-object-oriented-design-principles.html) - (2012) 10 Object Oriented Design Principles Java Programmer should know
+* [Javin Paul](http://javarevisited.blogspot.be/2011/08/code-comments-java-best-practices.html) - (2011) 10 Best Practices to Follow while writing Code Comments
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
