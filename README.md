@@ -226,6 +226,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog 
 * [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
 * [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
+* [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary 
 
 # Business & Economics
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
@@ -2570,6 +2571,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [MyBroadband](https://mybroadband.co.za/news/smartphones/246583-how-programmers-learn-to-code.html) - (2018) How programmers learn to code | What programmers want
 * [Fagner Brack](https://hackernoon.com/the-angry-programmer-52a93bfcbc3c) - (2016) The Angry Programmer | How an engineer can be competent and incompetent at the same time
 * [Devoxx Belgium](https://devoxx.be/2017/11/the-top-100-rated-devoxx-belgium-2017-talks/) - The Top-100 rated Devoxx Belgium 2017 talks
+* [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary 
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
