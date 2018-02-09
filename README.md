@@ -2583,6 +2583,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
 * [Antonio Bello](https://www.raywenderlich.com/120612/freelance-software-development) - (2016) Freelance Software Development: Is It For You?
 * [Antonio Bello](https://www.raywenderlich.com/122835/freelance-software-development-tips) - (2016) Freelance Software Development Tips
+* [Antonio Bello](https://www.raywenderlich.com/135789/how-to-be-a-better-developer-with-programming-challenges) - (2016) How To Be a Better Developer with Programming Challenges
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
