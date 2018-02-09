@@ -165,6 +165,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2014/11/your-code-sucks.html) - (2014) Your code sucks - things you need to know about clean code and architecture
 * [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2015/08/the-clean-code-trap.html) - (2015) The Clean Code Trap
 * [Sarah Mei](https://speakerdeck.com/sarahmei/is-your-code-too-solid-with-transcript) - (2015) [Slides] Is Your Code Too SOLID? (with transcript)
+* [Brian Geihsler](http://qualityisspeed.blogspot.be/2014/09/beyond-solid-dependency-elimination.html) - (2014) Beyond SOLID: The Dependency Elimination Principle
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -2716,6 +2717,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2014/11/your-code-sucks.html) - (2014) Your code sucks - things you need to know about clean code and architecture
 * [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2015/08/the-clean-code-trap.html) - (2015) The Clean Code Trap
 * [Sarah Mei](https://speakerdeck.com/sarahmei/is-your-code-too-solid-with-transcript) - (2015) [Slides] Is Your Code Too SOLID? (with transcript)
+* [Brian Geihsler](http://qualityisspeed.blogspot.be/2014/09/beyond-solid-dependency-elimination.html) - (2014) Beyond SOLID: The Dependency Elimination Principle
 
 ## Conferences 
 > In Belgium
