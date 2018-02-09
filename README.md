@@ -161,6 +161,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Bernstein](https://codeclimate.com/blog/choose-protocol-buffers/) - (2014) 5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) - (2009) The Four Elements of Simple Design
 * [Brian Geihsler](http://qualityisspeed.blogspot.be/2014/08/why-i-dont-teach-solid.html) - (2014) Why I Don't Teach SOLID
+* [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2015/01/reusable-software-just-do-write-generic.html) - (2015) Drawing clear lines in software architecture
+* [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2014/11/your-code-sucks.html) - (2014) Your code sucks - things you need to know about clean code and architecture
+* [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2015/08/the-clean-code-trap.html) - (2015) The Clean Code Trap
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -2702,6 +2705,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) - (2009) The Four Elements of Simple Design
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest) - (2013) Putting An Age-Old Battle To Rest | Improving Names
 * [Brian Geihsler](http://qualityisspeed.blogspot.be/2014/08/why-i-dont-teach-solid.html) - (2014) Why I Don't Teach SOLID
+* [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2015/01/reusable-software-just-do-write-generic.html) - (2015) Drawing clear lines in software architecture
+* [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2014/11/your-code-sucks.html) - (2014) Your code sucks - things you need to know about clean code and architecture
+* [Michal Ciurus](http://yourcodesucksexception.blogspot.be/2015/08/the-clean-code-trap.html) - (2015) The Clean Code Trap
 
 ## Conferences 
 > In Belgium
