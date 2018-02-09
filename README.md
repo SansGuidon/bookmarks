@@ -421,7 +421,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cate McGehee](https://www.portent.com/blog/content-strategy/best-thing-ever-heard-ideation-brainstorming.htm) - (2017) The Single Best Thing I’ve Ever Heard About Ideation and Brainstorming
 * [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
 * [Benjamin P. Hardy](https://medium.com/personal-growth/this-10-minute-routine-will-increase-your-clarity-and-creativity-c8ee786586cd) - (2017) This 10-Minute Routine Will Increase Your Clarity And Creativity
-* [Kim Roach](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
+* [**Kim Roach**](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
 * [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
 * [Philippe Bourgau](http://philippe.bourgau.net/13-tricks-for-successful-side-projects/) - (2017) 13 Tricks for Successful Side Projects
 * [James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html) - (2017) Advice on starting a programming blog
@@ -2994,6 +2994,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Javin Paul](http://javarevisited.blogspot.be/2013/03/0-exception-handling-best-practices-in-Java-Programming.html) - (2013) 10 Exception handling Best Practices in Java Programming
 * [Javin Paul](http://javarevisited.blogspot.be/2012/03/10-object-oriented-design-principles.html) - (2012) 10 Object Oriented Design Principles Java Programmer should know
 * [Javin Paul](http://javarevisited.blogspot.be/2011/08/code-comments-java-best-practices.html) - (2011) 10 Best Practices to Follow while writing Code Comments
+* [Aleksey Shipilëv](https://shipilev.net/) - One Stop Page | interesting resources about Java (performance, benchmarks, memory, good/bad practices...)
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
