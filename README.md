@@ -2988,6 +2988,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gregory Dickson](https://medium.com/@gregory.d.dickson/why-groovy-is-so-groovy-or-a-beginners-guide-to-hacking-groovy-e0ad6f32c300) - (2017) Why Groovy is so groovy or a beginners guide to hacking Groovy
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Groovy+Hook+Script) - Groovy Hook Scripts
 * [PLEAC-Groovy](http://pleac.sourceforge.net/pleac_groovy/) - implementation of the Solutions of the Perl Cookbook in the Groovy language
+* [Groovy web console](https://groovyconsole.appspot.com/) - a website for sharing and executing Groovy programming snippets of code!
 
 ## Haskell
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
