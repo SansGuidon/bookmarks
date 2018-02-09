@@ -2696,6 +2696,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Javin Paul](http://javarevisited.blogspot.be/2012/03/10-object-oriented-design-principles.html) - (2012) 10 Object Oriented Design Principles Java Programmer should know
 * [Javin Paul](http://javarevisited.blogspot.be/2011/08/code-comments-java-best-practices.html) - (2011) 10 Best Practices to Follow while writing Code Comments
 * [Nicolas Hoffmann, Elie Sloïm](https://openweb.eu.org/articles/le-cout-de-la-non-qualite-sur-le-web) - (2014) :fr: [FR] Le coût de la non-qualité sur le Web
+* [Lemi Orhan Ergin](https://fr.slideshare.net/lemiorhan/coderetreat-practice-to-master-your-crafts) - (2014) [Slides] Coderetreat - Practice to Master Your Crafts | Rules of Simple Design
 
 ## Conferences 
 > In Belgium
