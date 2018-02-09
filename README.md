@@ -2582,6 +2582,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary 
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
 * [Antonio Bello](https://www.raywenderlich.com/120612/freelance-software-development) - (2016) Freelance Software Development: Is It For You?
+* [Antonio Bello](https://www.raywenderlich.com/122835/freelance-software-development-tips) - (2016) Freelance Software Development Tips
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
