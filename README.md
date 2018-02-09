@@ -159,6 +159,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 * [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
 * [Michael Bernstein](https://codeclimate.com/blog/choose-protocol-buffers/) - (2014) 5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service
+* [J. B. Rainsberger](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) - (2009) The Four Elements of Simple Design
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -2697,6 +2698,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Javin Paul](http://javarevisited.blogspot.be/2011/08/code-comments-java-best-practices.html) - (2011) 10 Best Practices to Follow while writing Code Comments
 * [Nicolas Hoffmann, Elie Sloïm](https://openweb.eu.org/articles/le-cout-de-la-non-qualite-sur-le-web) - (2014) :fr: [FR] Le coût de la non-qualité sur le Web
 * [Lemi Orhan Ergin](https://fr.slideshare.net/lemiorhan/coderetreat-practice-to-master-your-crafts) - (2014) [Slides] Coderetreat - Practice to Master Your Crafts | Rules of Simple Design
+* [J. B. Rainsberger](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) - (2009) The Four Elements of Simple Design
+* [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest) - (2013) Putting An Age-Old Battle To Rest | Improving Names
 
 ## Conferences 
 > In Belgium
