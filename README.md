@@ -2595,6 +2595,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape : embeddable Javascript engine with a focus on portability and compact footprint
 * [RMB Consulting](https://rmbconsulting.us/publications/a-c-test-the-0x10-best-questions-for-would-be-embedded-programmers/) - A ‘C’ Test: The 0x10 Best Questions for Would-be Embedded Programmers
 * [Bartlomiej Filipek](http://www.bfilipek.com/2017/10/notnull.html) - (2017) How not_null can improve your code?
+* [Stack Overflow](https://stackoverflow.com/questions/599365/what-is-your-favorite-c-programming-trick) - What is your favorite C programming trick?
+* [Stack Overflow](https://stackoverflow.com/questions/132241/hidden-features-of-c) - Hidden features of C
 
 ## Clean code
 > News
