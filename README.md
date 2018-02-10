@@ -262,7 +262,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
 * [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
-
+* [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
 
 ## Cryptocurrency
 > News
@@ -2083,6 +2083,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Coda Hale](https://codahale.com/risky-business-requires-active-operators/) - (2017) Risky Business Requires Active Operators | about the risks of automation in order to successfully and safely wield its power.
 * [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
 * [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
+* [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
