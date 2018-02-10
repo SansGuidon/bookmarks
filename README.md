@@ -1536,7 +1536,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jen Horton](https://www.linkedin.com/pulse/inevitable-link-between-positivity-perspective-jen-horton) - The Inevitable Link between Positivity and Perspective
 * [Mike Bushong](https://dzone.com/articles/dont-ask-you-take-vacation) - Don't Ask Before You Take Vacation
 * [Karen Wickre](https://backchannel.com/working-from-home-is-usually-a-disaster-unless-you-try-this-30f1cce6f5a6) - Working From Home Is Usually a Disaster — Unless You Try This
-* [Gregg Caines](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - In Defence of the Office
+* :star: [**Gregg Caines**](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - (2014) In Defence of the Office
 * [Jason Fried](https://m.signalvnoise.com/being-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e) - Being tired isn’t a badge of honor
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [Andrew Wulf](http://thecodist.com/article/why_i_don_39_t_do_unpaid_overtime_and_neither_should_you) - Why I Don't Do Unpaid Overtime and Neither Should You
@@ -2356,6 +2356,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jory MacKay](https://blog.rescuetime.com/225-million-hours-productivity/) - (2018) Productivity in 2017: What we learned from analyzing 225 million hours of work time
 * [Nikola Tore](http://blog.hackerearth.com/employee-wellness-affects-productivity-four-fundamental-pillars) - (2017) How employee wellness affects productivity: four fundamental pillars
 * [Nikola Tore](http://blog.hackerearth.com/job-hopping-millennials-hoppers-better-hire) - (2017) Job-hopping makes millennials better hires
+* :star: [**Gregg Caines**](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - (2014) In Defence of the Office
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -2620,15 +2621,15 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/software-ten-essentials/) - (1997) Software’s Ten Essentials
 * [Steve McConnell](http://stevemcconnell.com/articles/how-to-defend-an-unpopular-schedule/) - (1996) How to Defend an Unpopular Schedule
 
-
 ## API
-* [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
-* [Gregg Caines](http://caines.ca/blog/2013/09/13/you-probably-dont-need-to-version-your-web-api/) - You Probably Don’t Need to Version Your Web API.
+* [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
+* :star: [**Gregg Caines**](http://caines.ca/blog/2013/09/13/you-probably-dont-need-to-version-your-web-api/) - (2013) You Probably Don’t Need to Version Your Web API.
 * [Shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 * [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
-* [Lexicalscope Ltd](http://www.lexicalscope.com/blog/2012/03/12/how-are-rest-apis-versioned/) - How are REST APIs versioned?
+* [Lexicalscope Ltd](http://www.lexicalscope.com/blog/2012/03/12/how-are-rest-apis-versioned/) - (2012) How are REST APIs versioned?
 * [Martin Nally](https://apigee.com/about/blog/api-technology/api-design-choosing-between-names-and-identifiers-urls) - (2017) API Design: Choosing Between Names and Identifiers in URLs
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
+* [Gregg Caines](http://caines.ca/blog/2013/04/21/3-terrible-anti-patterns-for-error-handling-in-rest-apis/) - (2013) 3 Terrible Anti-patterns for Error-Handling in 'REST' APIs:
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
@@ -3091,6 +3092,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Una Kravets](http://youmightnotneedjs.com/) - You Might Not Need JavaScript
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 * [Frederik Andersson](https://www.webcodegeeks.com/javascript/node-js/updating-maintainable-npm-module-continuous-integration/) - (2017) Updating a Maintainable NPM Module with Continuous Integration
+* [Gregg Caines](http://caines.ca/blog/2014/06/01/production-quality-node-dot-js-web-apps-part-i/) - (2014) Production-Quality Node.js Web Apps : Part I, the Basics. **Bonus** : [Part II, Detecting Defects](http://caines.ca/blog/2014/06/02/production-quality-node-dot-js-web-apps-part-ii/) + [Part III, Preventing Defects](http://caines.ca/blog/2014/06/22/production-quality-node-dot-js-web-apps-part-iii/)
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
