@@ -437,6 +437,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - (2010) Confirmation Bias
 * [Buy Me A Coffee](https://www.producthunt.com/posts/buy-me-a-coffee) - A free, fast and beautiful way to accept donations
 * [Vala Afshar](https://twitter.com/ValaAfshar/status/546820366421991424/photo/1) - (2014) [IMG] 33 ways to stay creative:
+* [Scott Chacon](http://scottchacon.com/2009/02/19/do-what-you-want.html) - (2009) Do What You Want
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
