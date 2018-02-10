@@ -167,6 +167,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sarah Mei](https://speakerdeck.com/sarahmei/is-your-code-too-solid-with-transcript) - (2015) [Slides] Is Your Code Too SOLID? (with transcript)
 * [Brian Geihsler](http://qualityisspeed.blogspot.be/2014/09/beyond-solid-dependency-elimination.html) - (2014) Beyond SOLID: The Dependency Elimination Principle
 * [Anthony Williams](https://www.justsoftwaresolutions.co.uk/design/duplication.html) - (2013) Duplication in Software
+* [Big Design Up Front (BDUF)](http://c2.com/xp/BigDesignUpFront.html)
+* [Gregg Caines](http://caines.ca/blog/2009/12/26/the-lost-art-of-prototyping/) - (2009) The Lost Art of Prototyping
+* [Steve McConnell](http://stevemcconnell.com/articles/teach-programming-principles-not-tools-and-tips/) - (1996) Teach Programming Principles, Not “Tools and Tips”
+* [Steve McConnell](http://stevemcconnell.com/articles/keep-it-simple/) - (1996) Keep It Simple
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -394,6 +398,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Carmen Bourlon](https://www.javascriptjanuary.com/blog/document-like-a-journalist) - Document like a Journalist
 * [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
 * [Kuba Niechcial](https://niechcial.me/2018-01-03/remember-the-names-its-your-job) - (2018) Remember the names - it's your job
+* [Steve McConnell](http://stevemcconnell.com/articles/dealing-with-problem-programmers/) - (1998) Dealing With Problem Programmers
+* [Steve McConnell](http://stevemcconnell.com/articles/how-to-defend-an-unpopular-schedule/) - (1996) How to Defend an Unpopular Schedule
+* [Steve McConnell](http://stevemcconnell.com/articles/classic-mistakes/) - (1996) Classic Mistakes
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2603,6 +2610,16 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DZone](http://www.surveygizmo.com/s3/1883619/Developer-Personality-Test) - Developer Personality Test
 * [Sijin Joseph](http://sijinjoseph.com/programmer-competency-matrix/) - (2014) Programmer Competency Matrix
 * [Alvaro Videla](http://alvaro-videla.com/2014/09/a-programmers-role.html) - (2014) A Programmer's Role, about what clean code was like in 1967 **Bonus** : (1967) [PDF] Original publication [What Programmer Does](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf)
+* [Gregg Caines](http://caines.ca/blog/2009/12/26/the-lost-art-of-prototyping/) - (2009) The Lost Art of Prototyping
+* [Gregg Caines](http://caines.ca/blog/2010/12/05/quality-is-the-constraint/) - (2010) Quality Is the Constraint
+* [Steve McConnell](http://stevemcconnell.com/articles/software-quality-at-top-speed/) - (1996) Software Quality at Top Speed
+* [Steve McConnell](http://stevemcconnell.com/articles/real-quality-for-real-engineers/) - (2012) Real Quality For Real Engineers
+* [Steve McConnell](http://stevemcconnell.com/articles/teach-programming-principles-not-tools-and-tips/) - (1996) Teach Programming Principles, Not “Tools and Tips”
+* [Steve McConnell](http://stevemcconnell.com/articles/dealing-with-problem-programmers/) - (1998) Dealing With Problem Programmers
+* [Steve McConnell](http://stevemcconnell.com/articles/achieving-leaner-software/) - (1997) Achieving Leaner Software
+* [Steve McConnell](http://stevemcconnell.com/articles/software-ten-essentials/) - (1997) Software’s Ten Essentials
+* [Steve McConnell](http://stevemcconnell.com/articles/how-to-defend-an-unpopular-schedule/) - (1996) How to Defend an Unpopular Schedule
+
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2740,6 +2757,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." 
 * [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
 * [Alvaro Videla](http://alvaro-videla.com/2014/09/a-programmers-role.html) - (2014) A Programmer's Role, about what clean code was like in 1967 **Bonus** : (1967) [PDF] Original publication [What Programmer Does](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf)
+* [Steve McConnell](http://stevemcconnell.com/articles/teach-programming-principles-not-tools-and-tips/) - (1996) Teach Programming Principles, Not “Tools and Tips”
+* [Steve McConnell](http://stevemcconnell.com/articles/why-you-should-use-routines-routinely/) - (1998) Why You Should Use Routines, Routinely
+* [Steve McConnell](http://stevemcconnell.com/articles/keep-it-simple/) - (1996) Keep It Simple
 
 ## Conferences 
 > In Belgium
@@ -3202,6 +3222,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
 * [Coda Hale](https://codahale.com/virtual-machines-are-fleeting-things/) - (2017) Virtual Machines Are Fleeting Things | In which the pain of attachment is avoided.
 * [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
+* [Steve McConnell](http://stevemcconnell.com/articles/dealing-with-problem-programmers/) - (1998) Dealing With Problem Programmers
+* [Steve McConnell](http://stevemcconnell.com/articles/classic-mistakes/) - (1996) Classic Mistakes
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
