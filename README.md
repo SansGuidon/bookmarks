@@ -1001,7 +1001,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 * [Docker Community](https://www.docker.com/community/docker-captains) - Docker Captains
 * [Stack Overflow](https://stackoverflow.com/a/47965269/2309958) - Docker - Cannot remove dead container | `rm: cannot remove /var/lib/docker/overlay/<hash>/merged: Device or resource busy` Solution : grep <hash> /proc/*/mountinfo then find the pid of <hash> and kill it
-
+* [Coda Hale](https://blog.skyliner.io/the-happy-genius-of-my-household-2f76efba535a) - (2016) The Happy Genius Of My Household | approach to containers and the economics underlying that approach.
+ 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
