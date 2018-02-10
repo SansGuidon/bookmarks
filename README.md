@@ -2411,6 +2411,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
 * [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
 * :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
+* [Code as Craft](https://codeascraft.com/) - Etsy' blog for craftsmen
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2957,6 +2958,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Egwuenu Gift](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503) - (2018) Useful Tips for writing better Git commit messages
 * [Kenichi Shibata](https://kenichishibata.net/git-push-and-pull-tips-and-tricks-7f9163539f02) - (2017) Git Push and Pull Tips and Tricks
 * [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
+* [Ross Harmes](http://code.flickr.net/2009/12/02/flipping-out/) - (2009) Flipping Out | Flickr on feature flags
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
