@@ -689,6 +689,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Devoxx Belgium](https://devoxx.be/2017/11/the-top-100-rated-devoxx-belgium-2017-talks/) - The Top-100 rated Devoxx Belgium 2017 talks
 * [Coda Hale](https://codahale.com/risky-business-requires-active-operators/) - (2017) Risky Business Requires Active Operators | about the risks of automation in order to successfully and safely wield its power.
 * [Dan McKinley](https://blog.skyliner.io/no-way-out-but-through-1db41c648697) - (2016) No Way Out But Through | how Skyliner deploys applications and why they built it like that
+* [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -2077,6 +2078,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matt Watson](https://stackify.com/web-operations/) - (2017) What is Web Operations? How Does it Relate to DevOps and SRE?
 * [Matt Watson](https://stackify.com/supporting-production-applications-devops-way/) - (2014) Supporting Production Applications the DevOps Way
 * [Coda Hale](https://codahale.com/risky-business-requires-active-operators/) - (2017) Risky Business Requires Active Operators | about the risks of automation in order to successfully and safely wield its power.
+* [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -3189,6 +3191,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Safia Abdalla](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases) - (2018) Tips for reading new codebases
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
 * [Coda Hale](https://codahale.com/virtual-machines-are-fleeting-things/) - (2017) Virtual Machines Are Fleeting Things | In which the pain of attachment is avoided.
+* [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
