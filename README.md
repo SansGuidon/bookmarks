@@ -401,6 +401,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/dealing-with-problem-programmers/) - (1998) Dealing With Problem Programmers
 * [Steve McConnell](http://stevemcconnell.com/articles/how-to-defend-an-unpopular-schedule/) - (1996) How to Defend an Unpopular Schedule
 * [Steve McConnell](http://stevemcconnell.com/articles/classic-mistakes/) - (1996) Classic Mistakes
+* :star: [**Gregg Caines**](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - (2014) In Defence of the Office
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
