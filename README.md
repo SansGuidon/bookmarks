@@ -2588,6 +2588,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Antonio Bello](https://www.raywenderlich.com/135789/how-to-be-a-better-developer-with-programming-challenges) - (2016) How To Be a Better Developer with Programming Challenges
 * [DZone](http://www.surveygizmo.com/s3/1883619/Developer-Personality-Test) - Developer Personality Test
 * [Sijin Joseph](http://sijinjoseph.com/programmer-competency-matrix/) - (2014) Programmer Competency Matrix
+* [Alvaro Videla](http://alvaro-videla.com/2014/09/a-programmers-role.html) - (2014) A Programmer's Role, about what clean code was like in 1967 **Bonus** : (1967) [PDF] Original publication [What Programmer Does](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf)
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2724,6 +2725,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Shan](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/) - (2013) Being a Slow Programmer
 * [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." 
 * [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
+* [Alvaro Videla](http://alvaro-videla.com/2014/09/a-programmers-role.html) - (2014) A Programmer's Role, about what clean code was like in 1967 **Bonus** : (1967) [PDF] Original publication [What Programmer Does](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf)
 
 ## Conferences 
 > In Belgium
