@@ -3645,6 +3645,7 @@ Raw
 * [Cliff Turner](https://blog.cloudpassage.com/2018/02/01/10-tips-will-ensure-containers-compliant/) - (2018) These 10 tips will ensure your containers are compliant
 * [Cliff Turner](https://blog.cloudpassage.com/2017/12/07/common-misconfiguration-mistakes/) - (2017) Do you know the most common software and application misconfiguration mistakes?
 * [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
+* [Coda Hale](https://codahale.com/how-to-safely-store-a-password/) - (2010) How To Safely Store A Password | "In which I recommend bcrypt."
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
