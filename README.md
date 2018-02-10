@@ -1668,6 +1668,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dale Myers](https://myers.io/2014/07/30/everything-you-ever-wanted-to-know-about-png/) - (2014) Everything You Ever Wanted to Know About PNGs
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 * [SpaceX](https://www.flickr.com/photos/spacex) - Official SpaceX Photos on Flickr
+* [Will Gallego](https://codeascraft.com/2017/05/30/reducing-image-file-size-at-etsy/) - (2017) Reducing Image File Size at Etsy
 
 # Linux / Unix
 > News
