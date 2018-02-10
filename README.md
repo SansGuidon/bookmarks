@@ -693,6 +693,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
 * [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
 * [Theo Schlossnagle](https://omniti.com/seeds/online-application-deployment-reducing-risk) - (2010) Online Application Deployment: Reducing Risk
+* [Sasha Friedenberg](https://codeascraft.com/2017/05/15/how-etsy-ships-apps/) - (2017) How Etsy Ships Apps
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
