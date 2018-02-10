@@ -310,7 +310,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mike Walker](https://opensource.com/open-organization/17/6/team-differentiator-not-tech) - Your team's differentiator isn't its tech
 * [John Allspaw](http://www.kitchensoap.com/2017/03/06/book-suggestion-dialogue-the-art-of-thinking-together/) - Dialogue: The Art Of Thinking Together
 * [MindTools](https://www.mindtools.com/pages/article/Assertiveness.htm) - Assertiveness : Working WITH People, Not Against Them
-* [Gregg Caines](http://caines.ca/blog/2013/05/07/a-requiem-for-a-team/) - A Requiem for a Team
+* [Gregg Caines](http://caines.ca/blog/2013/05/07/a-requiem-for-a-team/) - (2013) A Requiem for a Team
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - How to Work with Engineers : A Cheat Sheet for Designers
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - How to Work with Designers : A Cheat Sheet for Engineers and PMs
 * [Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - How to Work with PMs : A Cheat Sheet for Designers
@@ -402,6 +402,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/how-to-defend-an-unpopular-schedule/) - (1996) How to Defend an Unpopular Schedule
 * [Steve McConnell](http://stevemcconnell.com/articles/classic-mistakes/) - (1996) Classic Mistakes
 * :star: [**Gregg Caines**](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - (2014) In Defence of the Office
+* [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -538,6 +539,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news 
 * [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
 * [CloudPassage Blog](https://blog.cloudpassage.com/) - insights for a unsecure world / news & tips on protecting critical assets
+* [Electric Cloud Blog](https://electric-cloud.com/blog/) - DevOps, Continuous Delivery, and all that jazz...
+* [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
+* [fabric8 Blog](https://blog.fabric8.io/) - Blog of fabric8, the open source microservices platform for developers, based on Docker, Kubernetes and Jenkins
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -566,7 +570,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Josh @ Overseer](https://engr.overseerlabs.io/clouds-containers-microservices-infra-and-architecture-from-100-devops-sre-surveys-cb636b1a1589) - Clouds, containers & microservices: infra and architecture from ~100 DevOps/SRE surveys
 * [Josh @ Overseer](https://engr.overseerlabs.io/fears-and-favorites-from-100-devops-sre-surveys-84a1365a9f18) - Fears and favorites from 100+ DevOps/SRE surveys
 * :star: [**Gregg Caines**](http://caines.ca/blog/2013/03/16/release-ophobia/) - Release-ophobia
-* [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
+* [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - (2012) Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
 * [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
 * [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
@@ -702,6 +706,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
 * [Theo Schlossnagle](https://omniti.com/seeds/online-application-deployment-reducing-risk) - (2010) Online Application Deployment: Reducing Risk
 * [Sasha Friedenberg](https://codeascraft.com/2017/05/15/how-etsy-ships-apps/) - (2017) How Etsy Ships Apps
+* :star: [**Gregg Caines**](http://caines.ca/blog/2015/01/29/continuous-testing/) - (2015) Continuous Testing
+* [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -2094,6 +2100,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
 * [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
 * [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
+* [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2444,7 +2451,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mo Bitar](https://journal.standardnotes.org/surviving-in-open-source-47792a7c59dc) - Surviving Open-Source
 * [Ben Hilburn](https://dev.to/bhilburn/on-senior-engineers) - On Senior Engineers
 * [John Allspaw](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - On Being A Senior Engineer
-* [Gregg Caines](http://caines.ca/blog/2017/06/04/so-you-want-to-be-a-more-senior-engineer/) - So You Want to Be a More Senior Engineer?
+* [Gregg Caines](http://caines.ca/blog/2017/06/04/so-you-want-to-be-a-more-senior-engineer/) - (2017) So You Want to Be a More Senior Engineer?
 * [Andrew Wulf](http://thecodist.com/article/your_progress_as_a_programmer_is_all_up_to_you) - Your Progress As A Programmer Is All Up To You
 * [Justyna Ilczuk](http://tinystruggles.com/2014/05/13/leveling-up-as-a-software-developer.html) - Leveling up as a software developer
 * [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016? 
@@ -2662,8 +2669,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Corinna Baldauf](http://wall-skills.com/2014/simplicity-rules-from-extreme-programming/) - Simplicity Rules (from eXtreme Programming)
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
 * [Vaidehi Joshi](https://dev.to/vaidehijoshi/crafting-better-code-reviews) - Crafting Better Code Reviews
-* [Gregg Caines](http://caines.ca/blog/2009/12/13/code-slower/) - Code Slower
-* [Gregg Caines](http://caines.ca/blog/2010/12/05/quality-is-the-constraint/) - Quality Is the Constraint
+* [Gregg Caines](http://caines.ca/blog/2009/12/13/code-slower/) - (2009) Code Slower
+* [Gregg Caines](http://caines.ca/blog/2010/12/05/quality-is-the-constraint/) - (2010) Quality Is the Constraint
 * [Hugo Matilla/Refactoring-Summary](https://github.com/HugoMatilla/Refactoring-Summary) - Summary of "Refactoring: Improving the Design of Existing Code" by Martin Fowler
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
 * [Christopher Diggins](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) - The Principles of Good Programming
@@ -2822,6 +2829,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/) - (2000) Painless Bug Tracking
 * [Jessy Bernal](https://medium.com/doctolib-engineering/handling-bugs-at-doctolib-847d54fd1990) - (2017) Handling bugs at Doctolib
 * [Mike Swieton](https://spin.atomicobject.com/2018/01/27/debugging-complex-problems/) - (2018) Debugging a Complex Problem? Think Like an Epidemiologist
+* [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 
 ## Erlang
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
@@ -2920,7 +2928,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mislav Marohnić](https://mislav.net/2014/02/hidden-documentation/) - Every line of code is always documented
 * [Andrew Peterson](http://ndpsoftware.com/git-cheatsheet.html) - Interactive Git Cheatsheet with a weird UI
 * [Justin Hileman](http://justinhileman.info/article/git-pretty/git-pretty.png) - [Chart] git-pretty : Escape a Git mess, step by step
-* [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
+* [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - (2012) Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
 * [Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - Little Things I Like to Do with Git
 * [Donne Martin/gitsome](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
 * [Alain Gilbert/git2graph](https://github.com/alaingilbert/git2graph) - git2graph : Generate a git graph structure from linear git history
@@ -3131,8 +3139,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
 * [Dwijadas Dey](https://linoxide.com/linux-how-to/search-tools-developers-linux/) - 6 Tools to Search Source Code for Developers in Linux
 * :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists 
-* [Gregg Caines](http://caines.ca/blog/2015/06/14/were-in-the-stone-age-of-software-engineering-management/) - We're in the Stone Age of Software Engineering Management
-* [Gregg Caines](http://caines.ca/blog/2011/09/14/yoagile-the-good-parts/) - Agile: The Good Parts
+* [Gregg Caines](http://caines.ca/blog/2015/06/14/were-in-the-stone-age-of-software-engineering-management/) - (2015) We're in the Stone Age of Software Engineering Management
+* [Gregg Caines](http://caines.ca/blog/2011/09/14/yoagile-the-good-parts/) - (2011) Agile: The Good Parts
 * [Evan Hahn](https://evanhahn.com/atom-apm-install-list/) - Install a list of Atom packages from a file
 * [Habitica](https://habitica.com/static/front) - improve your habits by making a game of your life 
 * [jamb0ss/awesome-ambient-noises](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
@@ -3227,6 +3235,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
 * [Steve McConnell](http://stevemcconnell.com/articles/dealing-with-problem-programmers/) - (1998) Dealing With Problem Programmers
 * [Steve McConnell](http://stevemcconnell.com/articles/classic-mistakes/) - (1996) Classic Mistakes
+* [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3372,6 +3381,7 @@ Raw
 * [Le Bureau des Mystères](https://soundcloud.com/bureaudesmysteres/special-creepypasta-et-legendes-urbaines-1#t=14:56) - [FR] :fr: creepypasta et légendes urbaines préférées... les mystères de Disneyland 
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - podcast about the people who transform technology from the command line up. Presented by Red Hat.
 * :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
+* [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
@@ -3791,16 +3801,16 @@ Raw
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
 * [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated 
 * [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing 
-* [Joe Colantonio](https://www.joecolantonio.com/2017/03/02/automation-testing/) - Automation Testing Resources & Best Practices
-* [Gregg Caines](http://caines.ca/blog/2015/01/29/continuous-testing/) - Continuous Testing
+* [Joe Colantonio](https://www.joecolantonio.com/2017/03/02/automation-testing/) - (2015) Automation Testing Resources & Best Practices
+* :star: [**Gregg Caines**](http://caines.ca/blog/2015/01/29/continuous-testing/) - (2015) Continuous Testing
 * [Andrew Wulf](http://thecodist.com/article/my_job_as_a_programmer_is_to_make_testers_miserable) - My Job As A Programmer Is To Make Testers Miserable
 * [Locust](http://locust.io/) - a modern open source load testing framework
-* [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html) - Five ways to reduce the cost of large test suites
+* [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html) - (2016) Five ways to reduce the cost of large test suites
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 * [aelsabbahy/dgoss-examples](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
 * [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
-* [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - Test Driven Infrastructure with Goss
+* [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - (2016) Test Driven Infrastructure with Goss
 * [metacloud/molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles. 
 * [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
@@ -3813,7 +3823,7 @@ Raw
 * [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." 
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
 * [volanja/ansible_spec](https://github.com/volanja/ansible_spec) - a ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration (or TDD).
-* [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - How I test Ansible configuration on 7 different OSes with Docker
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - (2016) How I test Ansible configuration on 7 different OSes with Docker
 * [nickjj/RoleSpec](https://github.com/nickjj/rolespec) - A test library for testing Ansible roles
 * [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
