@@ -2586,6 +2586,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Antonio Bello](https://www.raywenderlich.com/120612/freelance-software-development) - (2016) Freelance Software Development: Is It For You?
 * [Antonio Bello](https://www.raywenderlich.com/122835/freelance-software-development-tips) - (2016) Freelance Software Development Tips
 * [Antonio Bello](https://www.raywenderlich.com/135789/how-to-be-a-better-developer-with-programming-challenges) - (2016) How To Be a Better Developer with Programming Challenges
+* [DZone](http://www.surveygizmo.com/s3/1883619/Developer-Personality-Test) - Developer Personality Test
+* [Sijin Joseph](http://sijinjoseph.com/programmer-competency-matrix/) - (2014) Programmer Competency Matrix
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - Top 10 API Worst Practices
@@ -2595,7 +2597,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lexicalscope Ltd](http://www.lexicalscope.com/blog/2012/03/12/how-are-rest-apis-versioned/) - How are REST APIs versioned?
 * [Martin Nally](https://apigee.com/about/blog/api-technology/api-design-choosing-between-names-and-identifiers-urls) - (2017) API Design: Choosing Between Names and Identifiers in URLs
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
-* [DZone](http://www.surveygizmo.com/s3/1883619/Developer-Personality-Test) - Developer Personality Test
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
@@ -2720,6 +2721,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sarah Mei](https://speakerdeck.com/sarahmei/is-your-code-too-solid-with-transcript) - (2015) [Slides] Is Your Code Too SOLID? (with transcript)
 * [Brian Geihsler](http://qualityisspeed.blogspot.be/2014/09/beyond-solid-dependency-elimination.html) - (2014) Beyond SOLID: The Dependency Elimination Principle
 * [Anthony Williams](https://www.justsoftwaresolutions.co.uk/design/duplication.html) - (2013) Duplication in Software
+* [Shan](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/) - (2013) Being a Slow Programmer
+* [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." 
+* [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
 
 ## Conferences 
 > In Belgium
