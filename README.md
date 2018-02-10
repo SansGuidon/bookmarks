@@ -688,6 +688,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Frederik Andersson](https://www.webcodegeeks.com/javascript/node-js/updating-maintainable-npm-module-continuous-integration/) - (2017) Updating a Maintainable NPM Module with Continuous Integration
 * [Devoxx Belgium](https://devoxx.be/2017/11/the-top-100-rated-devoxx-belgium-2017-talks/) - The Top-100 rated Devoxx Belgium 2017 talks
 * [Coda Hale](https://codahale.com/risky-business-requires-active-operators/) - (2017) Risky Business Requires Active Operators | about the risks of automation in order to successfully and safely wield its power.
+* [Dan McKinley](https://blog.skyliner.io/no-way-out-but-through-1db41c648697) - (2016) No Way Out But Through | how Skyliner deploys applications and why they built it like that
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
