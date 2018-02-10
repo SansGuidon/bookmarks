@@ -3186,6 +3186,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matt Fletcher](https://spin.atomicobject.com/2018/01/22/archive-software-project/) - (2018) Today’s Code Is Tomorrow’s Legacy Project – Make It Easy to Resurrect
 * [Safia Abdalla](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases) - (2018) Tips for reading new codebases
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
+* [Coda Hale](https://codahale.com/virtual-machines-are-fleeting-things/) - (2017) Virtual Machines Are Fleeting Things | In which the pain of attachment is avoided.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
