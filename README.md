@@ -886,7 +886,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mike Simons](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
 * [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
 * [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
-* [SlideShare](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - Optimizing Docker Images
+* [Brian DeHamer](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - [Slides] (2015) Optimizing Docker Images
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Csaba Palfi](https://csabapalfi.github.io/random-docker-tips/) - (2014) 24 random docker tips
 * [Scarlz](http://www.tricksofthetrades.net/2016/03/14/docker-data-volumes/) - Tricks of the Trades : Docker - Data Volumes and Data Containers
@@ -1037,6 +1037,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Carl Boettiger](http://www.carlboettiger.info/2014/08/29/docker-notes.html) - (2014) Docker tricks of the trade and best practices thoughts
 * [Marc Campbell](https://blog.replicated.com/refactoring-a-dockerfile-for-image-size/) - (2016) Refactoring a Dockerfile for Image Size
 * [Gerred Dillon](https://blog.replicated.com/optimizing-docker-images-with-multi-stage-builds/) - (2017) Even Smaller Docker Image Sizes
+* [Stephane Manciot](https://fr.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker?) - :fr: [FR] [Slides] (2015) DevOps avec Ansible et Docker
  
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -3056,6 +3057,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Google Developers](https://developers.google.com/protocol-buffers/docs/gotutorial) - Protocol Buffer Basics: Go
 * [Alex Ellis](https://blog.alexellis.io/5-keys-to-a-killer-go-cli/) - 5 keys to create a killer CLI in Go
 * [Go Docs](https://golang.org/doc/effective_go.html) - Effective Go
+* [Kyle Quest](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) - 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
+* [Laura Frank](https://blog.codeship.com/an-intro-to-concurrency-patterns-in-go/) - (2017) An Intro to Concurrency Patterns in Go
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
