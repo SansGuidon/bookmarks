@@ -270,6 +270,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 * [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
+* [Jim Bird](http://swreflections.blogspot.be/2015/07/dont-blame-bad-software-on-developers.html) - (2015) Don’t Blame Bad Software on Developers – Blame it on their Managers
 
 ## Cryptocurrency
 > News
@@ -413,6 +414,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dave Nicolette](https://www.leadingagile.com/2018/01/in-favor-of-pairing/) - (2018) In Favor of Pairing
 * [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
 * [Dan Milstein](https://www.slideshare.net/danmil30/how-to-run-a-5-whys-with-humans-not-robots/34-ThanksDan_Milsteindanmil) - [Slides] (2012) How To Run a 5 Whys (With Humans, Not Robots)
+* [DATAGUEULE](https://www.youtube.com/watch?v=NWGwItMvOYE) - :fr: [FR] [Video] (2018) La démocratie comme patron - #DATAGUEULE 79
+* [Zach Holman](https://zachholman.com/posts/opt-in-transparency/) - (2015) Opt-in Transparency | your employees need context
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -722,6 +725,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Gregg Caines**](http://caines.ca/blog/2015/01/29/continuous-testing/) - (2015) Continuous Testing
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 * [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
+* [Zach Holman](https://zachholman.com/posts/deploying-software) - (2018) How to Deploy Software | Make your team’s deploys as boring as hell and stop stressing about it.
+* [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
+* [Jim Bird](http://swreflections.blogspot.be/2016/04/devopsdays-empathy-scaling-docker.html) - (2016) DevOpsDays: Empathy, Scaling, Docker, Dependencies and Secrets | interesting takeaways 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1046,6 +1052,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
+* [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -2457,6 +2464,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [feststelltaste (Markus Harrer)](http://www.feststelltaste.de/) - About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
 * [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 * [Methods & Tools Editor Blog](http://blog.martinig.ch/) - Software Development Ideas + [links](http://blog.martinig.ch/category/links/)
+* [Zach Holman's Blog](https://zachholman.com/) - Blog of Zach Holman, Founder of During, previously at GitHub and Gild.
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2658,6 +2666,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan Milstein](http://blog.hut8labs.com/coding-fast-and-slow.html) - (2013) Coding, Fast and Slow: Developers and the Psychology of Overconfidence | about inability of developers to predict how long a project will take.
 * [laura Klein](https://www.usersknow.com/blog/2015/02/your-job-is-not-to-write-code.html) - (2015) Your Job Is Not to Write Code
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
+* [Jim Bird](http://swreflections.blogspot.be/2014/08/feature-toggles-are-one-of-worst-kinds.html) - (2014) Feature Toggles are one of the worst kinds of Technical Debt
+* [Jez Humble](https://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/) - (2011) Make Large Scale Changes Incrementally with Branch By Abstraction
+* [Paul Hammant](https://paulhammant.com/blog/branch_by_abstraction.html) - (2007) Introducing Branch By Abstraction
+* [Trunk Based Development](https://trunkbaseddevelopment.com/) - all the related facts, rationale and techniques for Trunk-Based Development 
+* [Martin Fowler](https://martinfowler.com/bliki/FeatureBranch.html) - (2009) FeatureBranch | and dangers of feature branching
+* [Martin Fowler](https://martinfowler.com/bliki/FeatureToggle.html) - (2010) FeatureToggle | feature toggles as an alternative to evil feature branching
+* [Fernando Rubbo  ](https://fernandorubbo.blogspot.be/2013/03/feature-toggles-good-or-bad.html) - (2013) Feature toggles: good or bad
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2871,6 +2886,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jessy Bernal](https://medium.com/doctolib-engineering/handling-bugs-at-doctolib-847d54fd1990) - (2017) Handling bugs at Doctolib
 * [Mike Swieton](https://spin.atomicobject.com/2018/01/27/debugging-complex-problems/) - (2018) Debugging a Complex Problem? Think Like an Epidemiologist
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
+* [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
 
 ## Erlang
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
@@ -3034,6 +3050,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
 * [Ross Harmes](http://code.flickr.net/2009/12/02/flipping-out/) - (2009) Flipping Out | Flickr on feature flags
 * [Lemi Orhan Ergin](https://www.slideshare.net/lemiorhan/git-antipatterns-how-to-mess-up-with-git-and-love-it-again) - (2018) [Slides] Git Anti-Patterns: How To Mess Up With Git and Love it Again. **Bonus** : [Video](https://www.youtube.com/watch?v=J_JYrAjX05Y)
+* [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) - (2010) A successful Git branching model
+* [Zach Holman](https://zachholman.com/posts/git-commit-history/) - (2015) Utter Disregard for Git Commit History
+* [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - (2011) How GitHub Uses GitHub to Build GitHub
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -3292,6 +3311,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Markus Harrer](https://www.feststelltaste.de/video-modern-software-development-antipatterns/) - (2015) Video: Modern Software Development Antipatterns
 * [fkingma@xebia](http://blog.xebia.com/purpose/) - (2017) Purpose : What are we doing? And why?
 * [Dave Nicolette](https://www.leadingagile.com/2016/09/5s-for-software-teams/) - (2016) 5S for Software Teams
+* [Gregg Caines](http://caines.ca/blog/2014/12/02/i-dont-miss-the-sprint/) - (2014) I Don't Miss the Sprint | about team productivity in Scrum
+* [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3758,6 +3779,7 @@ Raw
 * [Cliff Turner](https://blog.cloudpassage.com/2017/12/07/common-misconfiguration-mistakes/) - (2017) Do you know the most common software and application misconfiguration mistakes?
 * [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
 * [Coda Hale](https://codahale.com/how-to-safely-store-a-password/) - (2010) How To Safely Store A Password | "In which I recommend bcrypt."
+* [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
