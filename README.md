@@ -2687,6 +2687,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Richard Clayton](https://rclayton.silvrback.com/software-engineering-is-not-a-job-it-s-a-profession) - (2014) Software Engineering is not a Job. It's a Profession.
 * [Jun Auza](http://www.junauza.com/2010/12/top-50-programming-quotes-of-all-time.html) - (2010) Popular quotes on programming
 * [Marco Kuiper](http://old.marcofolio.net/tips/27_inspiring_top_notch_programming_quotes.html) - 27 inspiring top notch programming quotes
+* [James Flight](https://hackernoon.com/critical-thinking-in-software-development-the-word-should-and-why-you-shouldn-t-listen-to-563090144331) - (2018) Critical thinking in software development, the word ‘should’, and why you shouldn’t listen to Martin Fowler
+* [Nicolò Pignatelli](https://hackernoon.com/this-is-not-the-dry-you-are-looking-for-a316ed3f445f) - (2018) This is not the DRY you are looking for
+* [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
+* [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3525,6 +3529,8 @@ Raw
 * [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
 * [Wikipedia](https://en.wikipedia.org/wiki/Curse_of_knowledge) - Curse of knowledge : a cognitive bias that occurs when someone assumes that the others have the same background to understand.
 * [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
+* [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
+* [Charles Chu](https://medium.com/the-polymath-project/our-clothes-can-change-who-we-are-dc89dbc1467c) - (2017) Our clothes can change who we are
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
