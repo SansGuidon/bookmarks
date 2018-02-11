@@ -2638,6 +2638,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Martin Nally](https://apigee.com/about/blog/api-technology/api-design-choosing-between-names-and-identifiers-urls) - (2017) API Design: Choosing Between Names and Identifiers in URLs
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
 * [Gregg Caines](http://caines.ca/blog/2013/04/21/3-terrible-anti-patterns-for-error-handling-in-rest-apis/) - (2013) 3 Terrible Anti-patterns for Error-Handling in 'REST' APIs:
+* [Lemi Orhan Ergin](https://fr.slideshare.net/lemiorhan/waste-driven-development-xp-days-ukraine-2017) - (2017) [Slides] Fighting with Waste Driven Development : Lean Thinking. **Bonus** : [Video](https://www.youtube.com/watch?v=Iw3I_nALH6s)
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
@@ -2992,6 +2993,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kenichi Shibata](https://kenichishibata.net/git-push-and-pull-tips-and-tricks-7f9163539f02) - (2017) Git Push and Pull Tips and Tricks
 * [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
 * [Ross Harmes](http://code.flickr.net/2009/12/02/flipping-out/) - (2009) Flipping Out | Flickr on feature flags
+* [Lemi Orhan Ergin](https://www.slideshare.net/lemiorhan/git-antipatterns-how-to-mess-up-with-git-and-love-it-again) - (2018) [Slides] Git Anti-Patterns: How To Mess Up With Git and Love it Again. **Bonus** : [Video](https://www.youtube.com/watch?v=J_JYrAjX05Y)
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -3236,6 +3238,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/dealing-with-problem-programmers/) - (1998) Dealing With Problem Programmers
 * [Steve McConnell](http://stevemcconnell.com/articles/classic-mistakes/) - (1996) Classic Mistakes
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
+* [Lemi Orhan Ergin](https://fr.slideshare.net/lemiorhan/waste-driven-development-xp-days-ukraine-2017) - (2017) [Slides] Fighting with Waste Driven Development : Lean Thinking. **Bonus** : [Video](https://www.youtube.com/watch?v=Iw3I_nALH6s)
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
