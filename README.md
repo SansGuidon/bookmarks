@@ -406,6 +406,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 * [Mike Cottmeyer](https://www.leadingagile.com/2008/04/one-team/) - (2008) One Team
 * [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
+* [Markus Harrer](https://www.feststelltaste.de/extreme-reduction/) - (2017) Extreme Reduction | how to fit the whole learning subject of one class into a half a dozen tweets. **Bonus** : see also [bulimic learning](https://www.urbandictionary.com/define.php?term=bulimic%20learning) and [Cramming](https://en.wikipedia.org/wiki/Cramming_(education))
+* [Iwein Fuld](http://blog.xebia.com/practical-styles-of-pair-programming/) - (2010) Practical Styles of Pair Programming
+* [Dave Nicolette](https://www.leadingagile.com/2018/01/in-favor-of-pairing/) - (2018) In Favor of Pairing
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -451,6 +454,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vala Afshar](https://twitter.com/ValaAfshar/status/546820366421991424/photo/1) - (2014) [IMG] 33 ways to stay creative:
 * [Scott Chacon](http://scottchacon.com/2009/02/19/do-what-you-want.html) - (2009) Do What You Want
 * [Jon Bell](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d) - (2013) McDonald’s Theory. **In french** : [Rémi Parmentier](https://www.hteumeuleu.fr/la-theorie-du-mcdonalds/) - :fr: [FR] (2013) La théorie du McDonald’s
+* [Benoit Collet](https://dailygeekshow.com/20-trucs-super-cool-que-vous-pouvez-faire-avec-votre-boite-a-pizza/) - :fr: [FR] (2013) 20 trucs super cool que vous pouvez faire avec votre boite à pizza
+* [Maaike Brinkhof](http://blog.xebia.com/mapping-biases-to-testing-confirmation-bias/) - (2016) Mapping Biases to Testing: Confirmation Bias
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -2344,6 +2349,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tom M. Sittler](https://thomas-sittler.github.io/facebook/) - (2017) Fighting the evil influence of Facebook (but keeping the good bits): a manifesto and how-to guide
 * [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
 * [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
+* [Markus Harrer](https://www.feststelltaste.de/extreme-reduction/) - (2017) Extreme Reduction | how to fit the whole learning subject of one class into a half a dozen tweets. **Bonus** : see also [bulimic learning](https://www.urbandictionary.com/define.php?term=bulimic%20learning) and [Cramming](https://en.wikipedia.org/wiki/Cramming_(education))
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2437,6 +2443,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
 * :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
 * [Code as Craft](https://codeascraft.com/) - Etsy' blog for craftsmen
+* [feststelltaste (Markus Harrer)](http://www.feststelltaste.de/) - About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2634,6 +2641,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/achieving-leaner-software/) - (1997) Achieving Leaner Software
 * [Steve McConnell](http://stevemcconnell.com/articles/software-ten-essentials/) - (1997) Software’s Ten Essentials
 * [Steve McConnell](http://stevemcconnell.com/articles/how-to-defend-an-unpopular-schedule/) - (1996) How to Defend an Unpopular Schedule
+* [Giedrius Majauskas](https://www.majauskas.com/programmer-mindset-5-traits-of-programmers-that-have-a-chance-to-become-good-ones) - (2009) Programmer mindset: 5 traits of programmers that have a chance to become good ones
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2777,6 +2785,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/teach-programming-principles-not-tools-and-tips/) - (1996) Teach Programming Principles, Not “Tools and Tips”
 * [Steve McConnell](http://stevemcconnell.com/articles/why-you-should-use-routines-routinely/) - (1998) Why You Should Use Routines, Routinely
 * [Steve McConnell](http://stevemcconnell.com/articles/keep-it-simple/) - (1996) Keep It Simple
+* [Markus Harrer](https://www.feststelltaste.de/video-michael-feathers-strategic-code-deletion/) - (2017) Michael Feathers – Strategic Code Deletion. **Bonus** : Original [Video] [Slides] by [Michael Feathers](https://www.infoq.com/presentations/remove-unneeded-code)
+* [Markus Harrer](https://www.feststelltaste.de/video-modern-software-development-antipatterns/) - (2015) Video: Modern Software Development Antipatterns
+* [Nicolai M. Josuttis](http://www.josuttis.com/WelcomeCrappyCode.html) - (2009) Welcome Crappy Code - The Death of Code Quality
+* [Serge Beaumont](http://blog.xebia.com/do-you-worry-about-crappy-code-then-face-reality-and-grow-up/) - (2009) Do you worry about crappy code? Then face reality and grow up.
+* [Dave Nicolette](https://www.leadingagile.com/2016/09/5s-for-software-teams/) - (2016) 5S for Software Teams
 
 ## Conferences 
 > In Belgium
@@ -3250,6 +3263,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
 * [Maxime Thirouin](https://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - :fr: [FR] (2013) Automatisez votre workflow front-end
 * [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
+* [Markus Harrer](https://www.feststelltaste.de/session-summary-devops-camp-compact-2017/) - (2017) What prevents you from doing software development effectively?”
+* [Markus Harrer](https://www.feststelltaste.de/video-modern-software-development-antipatterns/) - (2015) Video: Modern Software Development Antipatterns
+* [fkingma@xebia](http://blog.xebia.com/purpose/) - (2017) Purpose : What are we doing? And why?
+* [Dave Nicolette](https://www.leadingagile.com/2016/09/5s-for-software-teams/) - (2016) 5S for Software Teams
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3853,6 +3870,7 @@ Raw
 * [Test Anything Protocol (TAP)](https://testanything.org/) - a simple text-based interface between testing modules in a test harness, with implementations in C, C++, Python, PHP, Perl, Java, JavaScript, and others.
 * [Andy Zaidman](https://azaidman.wordpress.com/2017/05/10/is-testing-on-stackoverflow-dead/) - (2017) Is Testing (on StackOverflow) Dead?
 * [Dave Syer](https://spring.io/blog/2007/01/15/unit-testing-with-stubs-and-mocks/) - (2007) Unit Testing with Stubs and Mocks
+* [Maaike Brinkhof](http://blog.xebia.com/mapping-biases-to-testing-confirmation-bias/) - (2016) Mapping Biases to Testing: Confirmation Bias
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
