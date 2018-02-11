@@ -171,6 +171,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gregg Caines](http://caines.ca/blog/2009/12/26/the-lost-art-of-prototyping/) - (2009) The Lost Art of Prototyping
 * [Steve McConnell](http://stevemcconnell.com/articles/teach-programming-principles-not-tools-and-tips/) - (1996) Teach Programming Principles, Not “Tools and Tips”
 * [Steve McConnell](http://stevemcconnell.com/articles/keep-it-simple/) - (1996) Keep It Simple
+* [Martin Fowler](https://martinfowler.com/bliki/CQRS.html) - (2011) Command Query Responsibility Segregation (CQRS)
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -403,6 +404,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/classic-mistakes/) - (1996) Classic Mistakes
 * :star: [**Gregg Caines**](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - (2014) In Defence of the Office
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
+* [Mike Cottmeyer](https://www.leadingagile.com/2008/04/one-team/) - (2008) One Team
+* [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -447,6 +450,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Buy Me A Coffee](https://www.producthunt.com/posts/buy-me-a-coffee) - A free, fast and beautiful way to accept donations
 * [Vala Afshar](https://twitter.com/ValaAfshar/status/546820366421991424/photo/1) - (2014) [IMG] 33 ways to stay creative:
 * [Scott Chacon](http://scottchacon.com/2009/02/19/do-what-you-want.html) - (2009) Do What You Want
+* [Jon Bell](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d) - (2013) McDonald’s Theory. **In french** : [Rémi Parmentier](https://www.hteumeuleu.fr/la-theorie-du-mcdonalds/) - :fr: [FR] (2013) La théorie du McDonald’s
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -708,6 +712,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sasha Friedenberg](https://codeascraft.com/2017/05/15/how-etsy-ships-apps/) - (2017) How Etsy Ships Apps
 * :star: [**Gregg Caines**](http://caines.ca/blog/2015/01/29/continuous-testing/) - (2015) Continuous Testing
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
+* [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -856,6 +861,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
 * [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
 * [Dylan Murray](https://blog.openshift.com/rocket-chat-ansible-playbook-bundle-development-deployment-tutorial/) - (2018) Rocket.Chat Ansible Playbook Bundle Development & Deployment Tutorial
+* [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
@@ -1591,7 +1597,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Darius Foroux](https://medium.com/personal-growth/declutter-your-life-declutter-your-mind-4c7f965d6839) - (2017) Declutter Your Life. Declutter Your Mind.
 * [Thibaut Schepman](https://tempsreel.nouvelobs.com/rue89/rue89-sante/20150120.RUE7459/rester-assis-tue-plus-que-le-tabac-j-ai-essaye-d-ecrire-cet-article-debout.html) - (2015) [FR] :fr: Rester assis tue plus que le tabac ? J’ai essayé d’écrire cet article debout / sitting down is dangerous for your health
 * [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] :fr: [Video] Technophobe / what if you could not use technology anymore
-* [Pierluigi Vernetto](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
+* :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
 * [John Cutler](https://medium.com/@johnpcutler/company-culture-is-44592c36958c) - (2016) company culture is…
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/) - (2017) The Truth About Startups
@@ -2523,7 +2529,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John D. Cook](https://www.johndcook.com/blog/2008/10/27/why-there-will-always-be-programmers/) - (2008) Why there will always be programmers
 * [John D. Cook](https://www.johndcook.com/blog/2017/08/19/programming-language-life-expectancy/) - (2017) Programming language life expectancy : about Go, C#, Java, Python, Haskell, Lisp and Fortran future deaths
 * [John D. Cook](https://www.johndcook.com/blog/2017/06/09/one-practical-advantage-of-functional-programming/) - One practical application of functional programming
-* [Andrey Karpov](https://www.viva64.com/en/b/0260/) - The Last Line Effect // about evil copy paste
+* [Andrey Karpov](https://www.viva64.com/en/b/0260/) - (2014) The Last Line Effect // about evil copy paste
 * [Neal Ford](https://vimeo.com/103403448) - (2013) [Video] 5 Reasons you should care about Functional Programming
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/musings-on-refactoring-as-waste) - (2014) Musings on Refactoring as Waste
@@ -2573,7 +2579,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Shane Fast](https://medium.com/paper-engineering/what-a-kids-cartoon-taught-me-about-software-7cbd3bf45c6a) - (2017) What a kid’s cartoon taught me about software
 * [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
 * [Phil Johnson](https://www.itworld.com/article/2876179/csi-computer-science-your-coding-style-can-give-you-away.html) - (2015) CSI Computer Science: Your coding style can give you away
-* [Pierluigi Vernetto](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
+* :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
 * [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
 * [Wikipedia](https://en.m.wikipedia.org/wiki/List_of_programming_languages_by_type) - List of programming languages by type
@@ -2659,6 +2665,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Stack Overflow](https://stackoverflow.com/questions/132241/hidden-features-of-c) - Hidden features of C
 * [Kenneth Finnegan](http://ctips.pbworks.com/w/page/7277592/FrontPage) - (2008) Programming Tips in C
 * [Cprogramming.com](http://www.cprogramming.com/tips/) - C and C++ Programming Tips
+* [Phillip Khandeliants](https://www.viva64.com/en/b/0549/) - (2017) Speeding up the Build of C and C++ Projects
 
 ## Clean code
 > News
@@ -2817,7 +2824,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Debugging_Business_Rules#gsc.tab=0) - Debugging Business Rules
 * [nixCraft](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 * [Trey Harris](http://www.ibiblio.org/harris/500milemail.html) - The case of the 500-mile email
-* [Andrey Karpov](https://www.viva64.com/en/b/0260/) - The Last Line Effect // about evil copy paste
+* [Andrey Karpov](https://www.viva64.com/en/b/0260/) - (2014) The Last Line Effect // about evil copy paste
 * [Stuart Sierra](https://twitter.com/stuartsierra/statuses/512009723282206722) - "There's always a reason, no matter how strange the bug"
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
@@ -3075,6 +3082,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Javin Paul](http://javarevisited.blogspot.be/2012/03/10-object-oriented-design-principles.html) - (2012) 10 Object Oriented Design Principles Java Programmer should know
 * [Javin Paul](http://javarevisited.blogspot.be/2011/08/code-comments-java-best-practices.html) - (2011) 10 Best Practices to Follow while writing Code Comments
 * [Aleksey Shipilëv](https://shipilev.net/) - One Stop Page | interesting resources about Java (performance, benchmarks, memory, good/bad practices...)
+* [Lukas Eder](https://jaxenter.com/ten-subtle-best-practices-when-coding-java-108043.html) - (2014) Ten subtle best practices when coding Java
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
@@ -3239,6 +3247,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/classic-mistakes/) - (1996) Classic Mistakes
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 * [Lemi Orhan Ergin](https://fr.slideshare.net/lemiorhan/waste-driven-development-xp-days-ukraine-2017) - (2017) [Slides] Fighting with Waste Driven Development : Lean Thinking. **Bonus** : [Video](https://www.youtube.com/watch?v=Iw3I_nALH6s)
+* :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
+* [Maxime Thirouin](https://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - :fr: [FR] (2013) Automatisez votre workflow front-end
+* [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3841,6 +3852,7 @@ Raw
 * [bats-core/bats-core](https://github.com/bats-core/bats-core) : Bats is a [TAP](https://testanything.org/)-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. **Bonus** : see also the original [sstephenson/bats](https://github.com/sstephenson/bats)
 * [Test Anything Protocol (TAP)](https://testanything.org/) - a simple text-based interface between testing modules in a test harness, with implementations in C, C++, Python, PHP, Perl, Java, JavaScript, and others.
 * [Andy Zaidman](https://azaidman.wordpress.com/2017/05/10/is-testing-on-stackoverflow-dead/) - (2017) Is Testing (on StackOverflow) Dead?
+* [Dave Syer](https://spring.io/blog/2007/01/15/unit-testing-with-stubs-and-mocks/) - (2007) Unit Testing with Stubs and Mocks
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -3969,6 +3981,7 @@ Raw
 * [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
 * [Steve Faulkner](http://html5doctor.com/html5-check-it-before-you-wreck-it-with-miketm-smith/) - (2014) HTML5 – Check it Before you Wreck it
 * [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
+* [Maxime Thirouin](https://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - :fr: [FR] (2013) Automatisez votre workflow front-end
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
