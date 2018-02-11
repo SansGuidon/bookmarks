@@ -242,6 +242,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
 * [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
 * [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary 
+* [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
 
 # Business & Economics
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
@@ -416,6 +417,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan Milstein](https://www.slideshare.net/danmil30/how-to-run-a-5-whys-with-humans-not-robots/34-ThanksDan_Milsteindanmil) - [Slides] (2012) How To Run a 5 Whys (With Humans, Not Robots)
 * [DATAGUEULE](https://www.youtube.com/watch?v=NWGwItMvOYE) - :fr: [FR] [Video] (2018) La démocratie comme patron - #DATAGUEULE 79
 * [Zach Holman](https://zachholman.com/posts/opt-in-transparency/) - (2015) Opt-in Transparency | your employees need context
+* [Fagner Brack](https://medium.com/@fagnerbrack/pair-programming-8cfbf2dc4d00) - (2016) Pair Programming | A technique that **if done correctly** has the potential for delivering software faster with lower cost
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -728,6 +730,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Zach Holman](https://zachholman.com/posts/deploying-software) - (2018) How to Deploy Software | Make your team’s deploys as boring as hell and stop stressing about it.
 * [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
 * [Jim Bird](http://swreflections.blogspot.be/2016/04/devopsdays-empathy-scaling-docker.html) - (2016) DevOpsDays: Empathy, Scaling, Docker, Dependencies and Secrets | interesting takeaways 
+* [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - [Slides] (2011) How GitHub Uses GitHub to Build GitHub
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -877,6 +880,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
 * [Dylan Murray](https://blog.openshift.com/rocket-chat-ansible-playbook-bundle-development-deployment-tutorial/) - (2018) Rocket.Chat Ansible Playbook Bundle Development & Deployment Tutorial
 * [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
+* [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - (2011) How GitHub Uses GitHub to Build GitHub
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
@@ -1183,7 +1187,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 * [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - curated list of Microservice Architecture related principles and technologies.
 * [Milen Dyankov](https://www.youtube.com/watch?v=O77777Zy_HE) - [Video] Microservices and Modularity or the difference between treatment and cure! 
-* [Richard Clayton](https://rclayton.silvrback.com/failing-at-microservices) - Failing at Microservices.
+* [Richard Clayton](https://rclayton.silvrback.com/failing-at-microservices) - (2014) Failing at Microservices. | Please avoid our mistakes!
 * [Martin Nally](https://apigee.com/about/blog/developer/12-goals-microservices) - (2016) The 12 Goals of Microservices
 * [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing 
 * [Brian Kelly](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/) - Creating a Microservice? Answer these 10 Questions First 
@@ -1288,6 +1292,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Veewee is a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
 * [Anton Kalyaev](https://coderwall.com/p/17i72q/vagrant-tips) - Vagrant tips
 * [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
+* [Darren Beale](https://24ways.org/2014/what-is-vagrant-and-why-should-i-care/) - (2014) What Is Vagrant and Why Should I Care?
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
@@ -1525,6 +1530,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter
 * [Savvy Time](https://savvytime.com/converter/et-to-cet) - ET to CET Converter | Convert hours and time in different locations
 * [Somacon](https://www.somacon.com/p568.php) - Count Duplicates in a List Online Tool
+* [User Agent String.Com](http://www.useragentstring.com/index.php) - User Agent String explained : Copy/paste any user agent string in this field and click 'Analyze'
+* [Free Online EPUB Converter](https://www.sendepubtokindle.com/) - The easiest way to send EPUBs to your Kindle!
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2465,6 +2472,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 * [Methods & Tools Editor Blog](http://blog.martinig.ch/) - Software Development Ideas + [links](http://blog.martinig.ch/category/links/)
 * [Zach Holman's Blog](https://zachholman.com/) - Blog of Zach Holman, Founder of During, previously at GitHub and Gild.
+* [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2536,7 +2544,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chris Parnin](http://blog.ninlabs.com/2013/12/software-engineering-the-next-50-years/) - (2013) Software Engineering: The Next 50 Years
 * :star: [**The Daily WTF**](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
 * [Trey Harris](http://www.ibiblio.org/harris/500milemail.html) - The case of the 500-mile email
-* [Jonathan Callahan](https://dzone.com/articles/best-best-practices-ever) - Best Best Practices Ever (for scientific computing)
+* [Jonathan Callahan](https://dzone.com/articles/best-best-practices-ever) - (2013) Best Best Practices Ever (for scientific computing)
 * [openjck/best-practices](https://github.com/openjck/best-practices) - Programming Best Practices Tidbits : A Collection of quotes and paraphrases for developers from around the web. **Bonus** : source repo at [timoxley/best-practices](https://github.com/timoxley/best-practices)
 * [Ed Finkler](https://the-pastry-box-project.net/ed-finkler/2014-january-6) - (2014) How To Be A Great Developer
 * [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
@@ -2549,7 +2557,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Martin Fowler](https://www.martinfowler.com/bliki/BoiledCarrot.html) - (2016) When a technique fails ask yourself if it's a faulty technique or a faulty use of the technique
 * [Seph Gentle](https://josephg.com/blog/what-i-tell-all-new-programmers/) - (2014) What I tell all new programmers
 * [Billy Hollis](https://www.youtube.com/watch?v=LiGsw_k8JhY) - (2006) [Video] about programmer code addiction
-* [Richard Clayton](https://rclayton.silvrback.com/software-estimation-is-a-losing-game) - Software Estimation is a Losing Game
+* [Richard Clayton](https://rclayton.silvrback.com/software-estimation-is-a-losing-game) - (2014) Software Estimation is a Losing Game
 * [John Sonmez](https://dzone.com/articles/4-levels-freedom-software) - (2014) The 4 Levels of Freedom For Software Developers
 * [NUS Computing](http://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm?type=bestQuotes) - Quotes for Software Engineers
 * [Jason McCreary](https://jason.pureconcepts.net/2015/01/are-you-a-boy-scout/) - (2015) A look at how the simple practice of "boyscouting" can improve your code.
@@ -2565,7 +2573,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Twelve-Factor App](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 * [mr-mig/every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know.
 * [Philip Guo](http://pgbovine.net/programmers-talking-to-beginners.htm) - Programmers: Please don't ever say this to beginners ...
-* [Sam Bessalah](https://speakerdeck.com/samklr/structures-de-donnees-exotiques) - [Slides] some useful, interesting but less known data structures
+* [Sam Bessalah](https://speakerdeck.com/samklr/structures-de-donnees-exotiques) - [Slides] (2013) some useful, interesting but less known data structures
 * [Cyriac Thomas](https://www.compile.com/blog/product/be-lazy-build-better-systems/) - Be lazy, build better systems
 * [Deon Thomas](https://www.thoughtworks.com/insights/blog/good-programer-avoid-being-one) - (2014) A Good Programmer: Why You Need to Avoid Being One
 * [Omar El Gabry](https://hackernoon.com/refactoring-the-hygienic-habit-b2ee0f5528ba) - Refactoring — The Hygienic Habit
@@ -2673,6 +2681,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Martin Fowler](https://martinfowler.com/bliki/FeatureBranch.html) - (2009) FeatureBranch | and dangers of feature branching
 * [Martin Fowler](https://martinfowler.com/bliki/FeatureToggle.html) - (2010) FeatureToggle | feature toggles as an alternative to evil feature branching
 * [Fernando Rubbo  ](https://fernandorubbo.blogspot.be/2013/03/feature-toggles-good-or-bad.html) - (2013) Feature toggles: good or bad
+* [John Sonmez](https://simpleprogrammer.com/4-biggest-reasons-software-developers-suck-estimation/) - (2014) Why Software Developers Suck at Estimation
+* [John Sonmez](https://simpleprogrammer.com/5-ways-software-developers-can-become-better-estimation/) - (2014) 5 Ways Software Developers Can Become Better at Estimation
+* [Richard Clayton](https://rclayton.silvrback.com/serverless-isn-t-effortless) - (2017) Serverless isn't Effortless | Lessons we learned in our first serious Serverless project.
+* [Richard Clayton](https://rclayton.silvrback.com/software-engineering-is-not-a-job-it-s-a-profession) - (2014) Software Engineering is not a Job. It's a Profession.
+* [Jun Auza](http://www.junauza.com/2010/12/top-50-programming-quotes-of-all-time.html) - (2010) Popular quotes on programming
+* [Marco Kuiper](http://old.marcofolio.net/tips/27_inspiring_top_notch_programming_quotes.html) - 27 inspiring top notch programming quotes
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2798,7 +2812,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Javin Paul](http://javarevisited.blogspot.be/2013/03/0-exception-handling-best-practices-in-Java-Programming.html) - (2013) 10 Exception handling Best Practices in Java Programming
 * [Javin Paul](http://javarevisited.blogspot.be/2012/03/10-object-oriented-design-principles.html) - (2012) 10 Object Oriented Design Principles Java Programmer should know
 * [Javin Paul](http://javarevisited.blogspot.be/2011/08/code-comments-java-best-practices.html) - (2011) 10 Best Practices to Follow while writing Code Comments
-* [Nicolas Hoffmann, Elie Sloïm](https://openweb.eu.org/articles/le-cout-de-la-non-qualite-sur-le-web) - (2014) :fr: [FR] Le coût de la non-qualité sur le Web
+* [Nicolas Hoffmann, Elie Sloïm](https://openweb.eu.org/articles/le-cout-de-la-non-qualite-sur-le-web) - (2014) :fr: [FR] Le coût de la non-qualité sur le Web : 50%
 * [Lemi Orhan Ergin](https://fr.slideshare.net/lemiorhan/coderetreat-practice-to-master-your-crafts) - (2014) [Slides] Coderetreat - Practice to Master Your Crafts | Rules of Simple Design
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) - (2009) The Four Elements of Simple Design
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest) - (2013) Putting An Age-Old Battle To Rest | Improving Names
@@ -2824,6 +2838,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 * [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
+* [Hacker News](https://news.ycombinator.com/item?id=16233961) - Ask HN: Started a new job and their existing code sucks. What to do?
 
 ## Conferences 
 > In Belgium
@@ -3146,6 +3161,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tom Alcott](https://www.ibm.com/developerworks/websphere/techjournal/1506_webcon/1506_webcon-trs.html#sec4) - WebSphere Liberty core versus Liberty profile
 
 ## JavaScript
+> News
+* [JavaScript Weekly](http://javascriptweekly.com/) - JavaScript news and articles
+
+> Learn
 * [Ilse Garcia](https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - The JS Path: JavaScript Best Practices Pt. 1
 * [Front-end Rescue](https://uptodate.frontendrescue.org/) - How to keep up to date on Front-End Technologies - The Recipe
 * [Michal Mikolajczyk](https://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes) - Top 18 Most Common Mistakes that AngularJS Developers Make
@@ -3313,6 +3332,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dave Nicolette](https://www.leadingagile.com/2016/09/5s-for-software-teams/) - (2016) 5S for Software Teams
 * [Gregg Caines](http://caines.ca/blog/2014/12/02/i-dont-miss-the-sprint/) - (2014) I Don't Miss the Sprint | about team productivity in Scrum
 * [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
+* [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - [Slides] (2011) How GitHub Uses GitHub to Build GitHub
+* [Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - [Slides] (2014) Front-end Tooling Workflows | 198 slides on tools to help you stay productive on the front-end
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3393,6 +3414,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Coding Confessional](https://www.codingconfessional.com/) - Anonymous Confessions from Programmers.
 * [Sebiwi](https://sebiwi.github.io/comics/) - drawings about tech and stuff
 * [Stoyan Stefanov](https://www.phpied.com/files/location-location/location-location.html) - location = location ... and a 534 other ways to reload the page with JavaScript
+* [Quotes For Software Engineers](http://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm?type=funnyQuotes) - The ones that make you smile :-)
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -3461,6 +3483,7 @@ Raw
 * :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
 * [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
 * [Users Known](https://www.usersknow.com/podcast) - Podcast on Product Design / UX | What Is Wrong with UX?
+* [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
@@ -3500,6 +3523,8 @@ Raw
 * [Changing minds](http://changingminds.org/techniques/questioning/5w1h.htm) - 5W1H - A simple set of question framings
 * [Changing minds](http://changingminds.org/techniques/questioning/socratic_questions.htm) - Socratic Questioning
 * [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
+* [Wikipedia](https://en.wikipedia.org/wiki/Curse_of_knowledge) - Curse of knowledge : a cognitive bias that occurs when someone assumes that the others have the same background to understand.
+* [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -4056,6 +4081,8 @@ Raw
 * [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
 * [Maxime Thirouin](https://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - :fr: [FR] (2013) Automatisez votre workflow front-end
 * [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
+* [Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - [Slides] (2014) Front-end Tooling Workflows | 198 slides on tools to help you stay productive on the front-end
+* [Nicolas Hoffmann, Elie Sloïm](https://openweb.eu.org/articles/le-cout-de-la-non-qualite-sur-le-web) - (2014) :fr: [FR] Le coût de la non-qualité sur le Web : 50%
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
@@ -4095,6 +4122,7 @@ Raw
 * [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
 * [coreight](http://coreight.com/content/logiciels-outils-indispensables-windows) - (2014) [FR] :fr: 8 logiciels à toujours garder sous la main sur Windows
 * [Pekka Väänänen](http://www.lofibucket.com/articles/dwm_latency.html) - (2017) Desktop compositing latency is real and it annoys me | about input latency on Windows 10 vs Windows 7
+* [Win flex-bison](https://sourceforge.net/projects/winflexbison/files/) - Win flex-bison is a port Flex & Bison tools to the Windows platform
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
