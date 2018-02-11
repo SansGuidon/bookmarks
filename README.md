@@ -2808,6 +2808,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dave Nicolette](https://www.leadingagile.com/2016/09/5s-for-software-teams/) - (2016) 5S for Software Teams
 * [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
+* [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
 
 ## Conferences 
 > In Belgium
@@ -3148,6 +3149,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Frederik Andersson](https://www.webcodegeeks.com/javascript/node-js/updating-maintainable-npm-module-continuous-integration/) - (2017) Updating a Maintainable NPM Module with Continuous Integration
 * [Gregg Caines](http://caines.ca/blog/2014/06/01/production-quality-node-dot-js-web-apps-part-i/) - (2014) Production-Quality Node.js Web Apps : Part I, the Basics. **Bonus** : [Part II, Detecting Defects](http://caines.ca/blog/2014/06/02/production-quality-node-dot-js-web-apps-part-ii/) + [Part III, Preventing Defects](http://caines.ca/blog/2014/06/22/production-quality-node-dot-js-web-apps-part-iii/)
 * [Keith Cirkel](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - (2014) How to Use npm as a Build Tool
+* [Stoyan Stefanov](https://www.phpied.com/files/location-location/location-location.html) - location = location ... and a 534 other ways to reload the page with JavaScript
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
@@ -3369,6 +3371,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [ChooseYourBoss](https://www.chooseyourboss.com/quel_dev_etes_vous) - [FR] :fr: Quel développeur êtes-vous ? (Test)
 * [Coding Confessional](https://www.codingconfessional.com/) - Anonymous Confessions from Programmers.
 * [Sebiwi](https://sebiwi.github.io/comics/) - drawings about tech and stuff
+* [Stoyan Stefanov](https://www.phpied.com/files/location-location/location-location.html) - location = location ... and a 534 other ways to reload the page with JavaScript
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -4030,6 +4033,7 @@ Raw
 * [Steve Faulkner](http://html5doctor.com/html5-check-it-before-you-wreck-it-with-miketm-smith/) - (2014) HTML5 – Check it Before you Wreck it
 * [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
 * [Maxime Thirouin](https://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - :fr: [FR] (2013) Automatisez votre workflow front-end
+* [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
