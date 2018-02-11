@@ -1033,6 +1033,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Docker Community](https://www.docker.com/community/docker-captains) - Docker Captains
 * [Stack Overflow](https://stackoverflow.com/a/47965269/2309958) - Docker - Cannot remove dead container | `rm: cannot remove /var/lib/docker/overlay/<hash>/merged: Device or resource busy` Solution : grep <hash> /proc/*/mountinfo then find the pid of <hash> and kill it
 * [Coda Hale](https://blog.skyliner.io/the-happy-genius-of-my-household-2f76efba535a) - (2016) The Happy Genius Of My Household | approach to containers and the economics underlying that approach.
+* [Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Best practices for writing Dockerfiles
+* [Carl Boettiger](http://www.carlboettiger.info/2014/08/29/docker-notes.html) - (2014) Docker tricks of the trade and best practices thoughts
+* [Marc Campbell](https://blog.replicated.com/refactoring-a-dockerfile-for-image-size/) - (2016) Refactoring a Dockerfile for Image Size
+* [Gerred Dillon](https://blog.replicated.com/optimizing-docker-images-with-multi-stage-builds/) - (2017) Even Smaller Docker Image Sizes
  
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -2694,7 +2698,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * [Andrew Yurisich/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code
 * [Salvatore Gentile/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
-* [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) 
+* [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) 
 * [mcandre/linters](https://github.com/mcandre/linters) - list of linters and introduction to static code analysis
 * :star: [**mre/Awesome Static analysis**](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
 * [mre/Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
@@ -3018,10 +3022,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
 * [Go Docs](https://golang.org/pkg/flag/) - Package flag
-* [Pipat Methavanitpong](https://fulcronz27.wordpress.com/2016/03/07/setting-atom-for-golang-on-windows/) - Setting Atom for Golang on Windows
-* [Francesc Campoy Flores](https://talks.golang.org/2013/bestpractices.slide#1) - Twelve Go Best Practices
+* [Pipat Methavanitpong](https://fulcronz27.wordpress.com/2016/03/07/setting-atom-for-golang-on-windows/) - (2016) Setting Atom for Golang on Windows
+* [Francesc Campoy Flores](https://talks.golang.org/2013/bestpractices.slide#1) - (2013) Twelve Go Best Practices
 * [Marcio Castilho](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/) - Handling 1 Million Requests per Minute with Go
-* [Marcio Castilho](http://marcio.io/2015/07/supercharging-atom-editor-for-go-development/) - Supercharging the Atom Editor for Go Development
+* [Marcio Castilho](http://marcio.io/2015/07/supercharging-atom-editor-for-go-development/) - (2015) Supercharging the Atom Editor for Go Development
 * [The Go Playground](https://play.golang.org/) - Useful for code snippet validation
 * [Golang](https://golang.org/src/) - Golang source code, useful for learning
 * [Go Docs](https://golang.org/pkg/) - Package list and documentation
@@ -3031,12 +3035,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Avelino/awesome-go](https://github.com/avelino/awesome-go) - curated list of awesome Go frameworks, libraries and software. See also [awesome-go.com](https://awesome-go.com/)
 * [GolangLibs](https://golanglibs.com) - inventory of go libraries an apps
 * [Checkmarx/Go-SCP](https://checkmarx.gitbooks.io/go-scp/) - Go secure coding practices for web applications. [Sources on GitHub](https://github.com/Checkmarx/Go-SCP)
-* [Justyna Ilczuk](http://tinystruggles.com/2015/08/29/golang-code-reuse.html) - Golang Code Reuse - Generalization tricks
+* [Justyna Ilczuk](http://tinystruggles.com/2015/08/29/golang-code-reuse.html) - (2015) Golang Code Reuse - Generalization tricks
 * [Go Resources](https://www.golang-book.com/books/intro/9) - Structs and Interfaces
 * [Stack Overflow](https://stackoverflow.com/questions/13511203/why-cant-i-assign-a-struct-to-an-interface) - Why can't I assign a *Struct to an *Interface?
 * [Christoph Berger](https://appliedgo.net/generics/) - Who needs generics? Use ... instead!
-* [Nathan LeClaire](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/) - Interfaces and Composition for Effective Unit Testing in Golang
-* [Nathan LeClaire](https://nathanleclaire.com/blog/2015/03/09/youre-not-using-this-enough-part-one-go-interfaces/) - You're Not Using This Enough, Part One: Go Interfaces
+* [Nathan LeClaire](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/) - (2015) Interfaces and Composition for Effective Unit Testing in Golang
+* [Nathan LeClaire](https://nathanleclaire.com/blog/2015/03/09/youre-not-using-this-enough-part-one-go-interfaces/) - (2015) You're Not Using This Enough, Part One: Go Interfaces
 * [bahlo/Go Styleguide](https://github.com/bahlo/go-styleguide) - Opinionated Styleguide for the Go language
 * [Peter Bourgon](https://peter.bourgon.org/go-best-practices-2016/) - (2016) Go best practices, six years in
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
@@ -3051,6 +3055,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jérôme Petazzoni](https://jpetazzo.github.io/2016/09/09/go-docker/) - (2016) Go + Docker = ♥ | tips and tricks showing how Docker can be useful when working with Go code
 * [Google Developers](https://developers.google.com/protocol-buffers/docs/gotutorial) - Protocol Buffer Basics: Go
 * [Alex Ellis](https://blog.alexellis.io/5-keys-to-a-killer-go-cli/) - 5 keys to create a killer CLI in Go
+* [Go Docs](https://golang.org/doc/effective_go.html) - Effective Go
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
