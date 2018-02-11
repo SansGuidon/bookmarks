@@ -2449,6 +2449,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
 * [Code as Craft](https://codeascraft.com/) - Etsy' blog for craftsmen
 * [feststelltaste (Markus Harrer)](http://www.feststelltaste.de/) - About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
+* [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2803,6 +2804,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Devoxx Belgium](https://devoxx.be/) - from Developers For Developers
 * [Journée Agile](https://www.journeeagile.be/) - :fr: [FR] grand évènement agile francophone
 * [Agile Tour Brussels (ATBru)](http://www.agiletourbrussels.be/) - the biggest conference about Agility in Belgium
+* [Meetup](https://www.meetup.com/fr-FR/find/?allMeetups=false&keywords=devops&radius=3&userFreeform=Bruselas%2C+Belgique&mcId=c1001379&change=yes&sort=default) - DevOps Meetups in Brussels
 
 > Anywhere
 * [Red Hat Events](https://www.redhat.com/en/events) - Conferences, online events, on-demand webinars, and more
