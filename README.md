@@ -172,6 +172,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/teach-programming-principles-not-tools-and-tips/) - (1996) Teach Programming Principles, Not “Tools and Tips”
 * [Steve McConnell](http://stevemcconnell.com/articles/keep-it-simple/) - (1996) Keep It Simple
 * [Martin Fowler](https://martinfowler.com/bliki/CQRS.html) - (2011) Command Query Responsibility Segregation (CQRS)
+* [Laura klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
+* [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -409,6 +411,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Markus Harrer](https://www.feststelltaste.de/extreme-reduction/) - (2017) Extreme Reduction | how to fit the whole learning subject of one class into a half a dozen tweets. **Bonus** : see also [bulimic learning](https://www.urbandictionary.com/define.php?term=bulimic%20learning) and [Cramming](https://en.wikipedia.org/wiki/Cramming_(education))
 * [Iwein Fuld](http://blog.xebia.com/practical-styles-of-pair-programming/) - (2010) Practical Styles of Pair Programming
 * [Dave Nicolette](https://www.leadingagile.com/2018/01/in-favor-of-pairing/) - (2018) In Favor of Pairing
+* [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
+* [Dan Milstein](https://www.slideshare.net/danmil30/how-to-run-a-5-whys-with-humans-not-robots/34-ThanksDan_Milsteindanmil) - [Slides] (2012) How To Run a 5 Whys (With Humans, Not Robots)
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2355,6 +2359,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
 * [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
 * [Markus Harrer](https://www.feststelltaste.de/extreme-reduction/) - (2017) Extreme Reduction | how to fit the whole learning subject of one class into a half a dozen tweets. **Bonus** : see also [bulimic learning](https://www.urbandictionary.com/define.php?term=bulimic%20learning) and [Cramming](https://en.wikipedia.org/wiki/Cramming_(education))
+* [Laura Klein](https://www.usersknow.com/blog/2016/5/23/good-enough) - (2016) Good Enough | You don't know what "perfect" means.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2382,6 +2387,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nikola Tore](http://blog.hackerearth.com/employee-wellness-affects-productivity-four-fundamental-pillars) - (2017) How employee wellness affects productivity: four fundamental pillars
 * [Nikola Tore](http://blog.hackerearth.com/job-hopping-millennials-hoppers-better-hire) - (2017) Job-hopping makes millennials better hires
 * :star: [**Gregg Caines**](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - (2014) In Defence of the Office
+* [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -2450,6 +2456,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Code as Craft](https://codeascraft.com/) - Etsy' blog for craftsmen
 * [feststelltaste (Markus Harrer)](http://www.feststelltaste.de/) - About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
 * [TIOBE Index](https://www.tiobe.com/tiobe-index/)
+* [Methods & Tools Editor Blog](http://blog.martinig.ch/) - Software Development Ideas + [links](http://blog.martinig.ch/category/links/)
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2648,6 +2655,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/software-ten-essentials/) - (1997) Software’s Ten Essentials
 * [Steve McConnell](http://stevemcconnell.com/articles/how-to-defend-an-unpopular-schedule/) - (1996) How to Defend an Unpopular Schedule
 * [Giedrius Majauskas](https://www.majauskas.com/programmer-mindset-5-traits-of-programmers-that-have-a-chance-to-become-good-ones) - (2009) Programmer mindset: 5 traits of programmers that have a chance to become good ones
+* [Dan Milstein](http://blog.hut8labs.com/coding-fast-and-slow.html) - (2013) Coding, Fast and Slow: Developers and the Psychology of Overconfidence | about inability of developers to predict how long a project will take.
+* [laura Klein](https://www.usersknow.com/blog/2015/02/your-job-is-not-to-write-code.html) - (2015) Your Job Is Not to Write Code
+* [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2796,6 +2806,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nicolai M. Josuttis](http://www.josuttis.com/WelcomeCrappyCode.html) - (2009) Welcome Crappy Code - The Death of Code Quality
 * [Serge Beaumont](http://blog.xebia.com/do-you-worry-about-crappy-code-then-face-reality-and-grow-up/) - (2009) Do you worry about crappy code? Then face reality and grow up.
 * [Dave Nicolette](https://www.leadingagile.com/2016/09/5s-for-software-teams/) - (2016) 5S for Software Teams
+* [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
+* [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 
 ## Conferences 
 > In Belgium
@@ -3135,6 +3147,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 * [Frederik Andersson](https://www.webcodegeeks.com/javascript/node-js/updating-maintainable-npm-module-continuous-integration/) - (2017) Updating a Maintainable NPM Module with Continuous Integration
 * [Gregg Caines](http://caines.ca/blog/2014/06/01/production-quality-node-dot-js-web-apps-part-i/) - (2014) Production-Quality Node.js Web Apps : Part I, the Basics. **Bonus** : [Part II, Detecting Defects](http://caines.ca/blog/2014/06/02/production-quality-node-dot-js-web-apps-part-ii/) + [Part III, Preventing Defects](http://caines.ca/blog/2014/06/22/production-quality-node-dot-js-web-apps-part-iii/)
+* [Keith Cirkel](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - (2014) How to Use npm as a Build Tool
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
@@ -3423,6 +3436,7 @@ Raw
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - podcast about the people who transform technology from the command line up. Presented by Red Hat.
 * :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
 * [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
+* [Users Known](https://www.usersknow.com/podcast) - Podcast on Product Design / UX | What Is Wrong with UX?
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
@@ -3461,6 +3475,7 @@ Raw
 * [Kyungsub Steve Choi](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.398.7011&rep=rep1&type=pdf) - (2006) [PDF] An Analysis of Computing Major Students’ Myers-Briggs Type Indicator Distribution
 * [Changing minds](http://changingminds.org/techniques/questioning/5w1h.htm) - 5W1H - A simple set of question framings
 * [Changing minds](http://changingminds.org/techniques/questioning/socratic_questions.htm) - Socratic Questioning
+* [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -3912,6 +3927,10 @@ Raw
 * [Stack Overflow](https://stackoverflow.com/a/47965269/2309958) - Docker - Cannot remove dead container | `rm: cannot remove /var/lib/docker/overlay/<hash>/merged: Device or resource busy` Solution : grep <hash> /proc/*/mountinfo then find the pid of <hash> and kill it
 
 # UX / UI
+> News
+* [Users Known](https://www.usersknow.com/podcast) - [Podcast] What Is Wrong with UX?
+
+> Learn
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
 * [Little Big Details](http://littlebigdetails.com/) - a curated collection of the finer details of design, updated every day. 
 * [Christelle Mozzati](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/) - (2013) [FR] :fr: Les dark patterns en design d’interface
@@ -3934,6 +3953,7 @@ Raw
 * [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
 * [UX Quotes](http://uxchoice.com/ux-quotes) - Tweetable quotes on User Experience / Design
+* [Laura klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
