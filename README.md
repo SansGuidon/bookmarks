@@ -176,6 +176,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 * [Kenneth N. Lodding, Nasa](https://queue.acm.org/detail.cfm?id=1016985) - (2004) Hitchhiker's Guide to Biomorphic Software | The natural world may be the inspiration we need for solving our computer problems.
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
+* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. 
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -245,6 +246,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
 * [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary 
 * [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
+* [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
 
 # Business & Economics
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
@@ -423,6 +425,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2974011) - (2016) Bad Software Architecture is a People Problem | When people don't work well together they make bad decisions.
 * [Kode Vicious](https://queue.acm.org/detail.cfm?id=1740550) - (2010) Broken Builds | Frequent broken builds could be symptomatic of deeper problems within a development project.
 * [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2926696) - (2016) Delegation as Art | Be someone who makes everyone else better.
+* [GitHub](https://github.com/showcases/great-for-new-contributors) - Great for new contributors | What open source projects can I contribute to?
+* [Yan-David Erlich](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - [Slides] (2017) Six page cheat-sheet for the book [Never Split the Difference, by Chris Voss](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
+* [Jerome Kehrli](https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles) - (2017) Periodic Table of Agile Principles and Practices
+* [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
+* [Culture Codes](https://tettra.co/culture-codes/handbooks/) - Employee Handbox Examples | A collection of company handbooks, employee manuals, and more from real companies.
+* [folkswhocode/awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -745,6 +753,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Pavan Belagatti](http://blog.shippable.com/devops-resources-top-5-devops-books-every-devops-enthusiast-must-read) - (2017) DevOps Resources: 5 Books Every DevOps Enthusiast Must Read! | + [the SRE book](https://landing.google.com/sre/book.html)
 * [Nathen Harvey](https://speakerdeck.com/nathenharvey/the-journey-to-continuous-automation) - (2017) The Journey to Continuous Automation
 * [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
+* [Katie Ballinger](https://circleci.com/blog/onboarding-new-site-reliability-engineers/) - (2017) Onboarding New Site Reliability Engineers
+* [Alice Goldfuss](https://increment.com/development/center-stage-best-practices-for-staging-environments/) - (2017) Center stage: Best practices for staging environments
+* [Increment Staff](https://increment.com/development/what-its-like-to-be-a-developer-at/) - (2017) What it’s like to be a developer at …
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1068,7 +1079,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gerred Dillon](https://blog.replicated.com/optimizing-docker-images-with-multi-stage-builds/) - (2017) Even Smaller Docker Image Sizes
 * [Stephane Manciot](https://fr.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker?) - :fr: [FR] [Slides] (2015) DevOps avec Ansible et Docker
 * [Bridget Kromhout](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
- 
+* [James Turnbull](https://increment.com/development/an-introduction-to-local-development-with-containers/) - (2017) An introduction to local development with containers
+* [Jérôme Petazzoni](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go/33-Error_handling_can_be_verboseif) - [Slides] (2013) Docker and Go: why did we decide to write Docker in Go?
+
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
@@ -1457,6 +1470,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [SourceForge](https://sourceforge.net/) - offers a huge choice of excellent, FREE software in virtually every field of computing
 * [Siftery](https://siftery.com/trending) - Trending products | explore softwares others people are using at work 
+* [Libraries.io](https://libraries.io/) - discovers millions open source libraries accros +36 package managers
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -1677,6 +1691,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sick Call Excuse Generator](http://www.getodd.com/raz/sickday/sickday.html) - helpful to you in deciding the excuse for your forthcoming day off.
 * [WFH-excuses](https://us-central1-wfh-excuses-gh.cloudfunctions.net/wfh) - Working from Home excuses generator. **Bonus** : [GitHub repo](https://github.com/lnfnunes/WFH-excuses)
 * [Antonio Bello](https://www.raywenderlich.com/114368/staying-motivated-work-home-developer) - (2015) Staying Motivated as a Work From Home Developer
+* [Nathalie Marquez Courtney](https://increment.com/development/home-is-where-the-work-is/) - (2017) Home is where the work is | Flexible. Freeing. Lonely. Three remote engineers share what it’s really like to work from afar.
 
 # Hobbies
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -2165,6 +2180,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mandi Walls](https://www.slideshare.net/lnxchk/configuration-management-is-old-and-boring) - (2017) Configuration Management is Old and Boring
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
 * [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
+* [OpsStack](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/) - [Slides] (2017) Monitoring the SRE Golden Signals | Actually Getting the Metrics from Common Services
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2238,6 +2254,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matt Watson](https://stackify.com/cloud-monitoring-vs-server-monitoring/) - (2017) 6 Reasons Cloud Monitoring Is Different Than Server Monitoring
 * [Matt Watson](https://stackify.com/15-metrics-for-devops-success/) - (2017) 15 Metrics for DevOps Success
 * [Caitie McCaffrey](https://queue.acm.org/detail.cfm?id=2889274) - (2016) The Verification of a Distributed System | A practitioner's guide to increasing confidence in system correctness
+* [OpsStack](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/) - [Slides] (2017) Monitoring the SRE Golden Signals | Actually Getting the Metrics from Common Services
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
@@ -2406,6 +2423,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Markus Harrer](https://www.feststelltaste.de/extreme-reduction/) - (2017) Extreme Reduction | how to fit the whole learning subject of one class into a half a dozen tweets. **Bonus** : see also [bulimic learning](https://www.urbandictionary.com/define.php?term=bulimic%20learning) and [Cramming](https://en.wikipedia.org/wiki/Cramming_(education))
 * [Laura Klein](https://www.usersknow.com/blog/2016/5/23/good-enough) - (2016) Good Enough | You don't know what "perfect" means.
 * [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2926696) - (2016) Delegation as Art | Be someone who makes everyone else better.
+* [Yan-David Erlich](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - [Slides] (2017) Six page cheat-sheet for the book [Never Split the Difference, by Chris Voss](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2489,6 +2507,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
 * [Ciro S. Costa](https://ops.tips/blog/publishing-a-blog-with-aws/) - (2018) How to publish a blog using AWS
 * [ACM Queue](https://queue.acm.org/) - studies on Software, DevOps, Computing Machinery ... 
+* [Jerome Kehrli](https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles) - (2017) Periodic Table of Agile Principles and Practices
+* [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
+* [Culture Codes](https://tettra.co/culture-codes/handbooks/) - Employee Handbox Examples | A collection of company handbooks, employee manuals, and more from real companies.
 
 # Programming
 > News
@@ -2507,6 +2528,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Zach Holman's Blog](https://zachholman.com/) - Blog of Zach Holman, Founder of During, previously at GitHub and Gild.
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
 * [O'Reilly Media](https://www.oreilly.com/ideas) - Ideas | What's on the radar 
+* [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
+* [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2729,6 +2752,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kenneth N. Lodding, Nasa](https://queue.acm.org/detail.cfm?id=1016985) - (2004) Hitchhiker's Guide to Biomorphic Software | The natural world may be the inspiration we need for solving our computer problems.
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer
 * [Tom MacWright](https://macwright.org/2018/02/08/advice-to-the-newish-programmer.html) - (2018) Advice to the newish programmer
+* [GitHub](https://github.com/showcases/great-for-new-contributors) - Great for new contributors | What open source projects can I contribute to?
+* [Keon Kim](https://keon.io/computer-scientists-trivia/) - Computer Scientist's Trivia | for programmers to understand how long a certain operation takes in and out of a computer.
+* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. 
+* [Increment Staff](https://increment.com/development/what-its-like-to-be-a-developer-at/) - (2017) What it’s like to be a developer at …
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2740,6 +2767,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
 * [Gregg Caines](http://caines.ca/blog/2013/04/21/3-terrible-anti-patterns-for-error-handling-in-rest-apis/) - (2013) 3 Terrible Anti-patterns for Error-Handling in 'REST' APIs:
 * [Lemi Orhan Ergin](https://fr.slideshare.net/lemiorhan/waste-driven-development-xp-days-ukraine-2017) - (2017) [Slides] Fighting with Waste Driven Development : Lean Thinking. **Bonus** : [Video](https://www.youtube.com/watch?v=Iw3I_nALH6s)
+* [Bill Doerrfeld](https://techbeacon.com/guide-restful-api-design-35-must-reads#.WcVeaYqsgc0.twitter) - (2017) A guide to RESTful API design: 35+ must-reads
+* [Trevor Reed](https://medium.com/@trevorhreed/you-re-api-isn-t-restful-and-that-s-good-b2662079cf0e) - (2016) Your API isn’t RESTful — And That’s Good | stop using the terms REST and RESTful to describe APIs that aren’t RESTful. It’s hurting our APIs and confusing the purpose and definition of REST.
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
@@ -2882,6 +2911,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
 * [Hacker News](https://news.ycombinator.com/item?id=16233961) - Ask HN: Started a new job and their existing code sucks. What to do?
 * [Jeffrey Ventrella](https://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/) - (2013) The Case for Slow Programming | “Slow down, son. You’ll get the job done faster.”
+* [The Front-End Checklist](https://frontendchecklist.io/) - perfect for modern websites and meticulous developers!
 
 ## Conferences 
 > In Belgium
@@ -2894,6 +2924,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 > Anywhere
 * [Red Hat Events](https://www.redhat.com/en/events) - Conferences, online events, on-demand webinars, and more
+
+> Learn
+* [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
 
 ## Correctness
 * [Wikipedia](https://en.wikipedia.org/wiki/Hoare_logic) - Hoare logic is a formal system for reasoning about the correctness of computer programs
@@ -3159,6 +3192,7 @@ Raw
 * [Go Docs](https://golang.org/doc/effective_go.html) - Effective Go
 * [Kyle Quest](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) - 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
 * [Laura Frank](https://blog.codeship.com/an-intro-to-concurrency-patterns-in-go/) - (2017) An Intro to Concurrency Patterns in Go
+* [Jérôme Petazzoni](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go/33-Error_handling_can_be_verboseif) - [Slides] (2013) Docker and Go: why did we decide to write Docker in Go?
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -3239,6 +3273,12 @@ Raw
 * [Gregg Caines](http://caines.ca/blog/2014/06/01/production-quality-node-dot-js-web-apps-part-i/) - (2014) Production-Quality Node.js Web Apps : Part I, the Basics. **Bonus** : [Part II, Detecting Defects](http://caines.ca/blog/2014/06/02/production-quality-node-dot-js-web-apps-part-ii/) + [Part III, Preventing Defects](http://caines.ca/blog/2014/06/22/production-quality-node-dot-js-web-apps-part-iii/)
 * [Keith Cirkel](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - (2014) How to Use npm as a Build Tool
 * [Stoyan Stefanov](https://www.phpied.com/files/location-location/location-location.html) - location = location ... and a 534 other ways to reload the page with JavaScript
+* [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
+* [Yoni Goldberg](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/) - (2017) Checklist: Node.JS production best practices
+* [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+* [bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - An Awesome list of Awesome lists related to Node.js.
+* [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+* [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
@@ -3256,6 +3296,7 @@ Raw
 * [Alex Ellis](https://blog.alexellis.io/openfaas-colorisebot-comes-to-kubecon/) - (2017) Colorisebot and OpenFaaS
 * [Finnian Anderson](https://finnian.io/blog/colourising-video-with-openfaas-serverless-functions/) - (2017) Colourising Video with OpenFaaS Serverless Functions
 * [Rob Harrigan](https://unsupervisedpandas.com/python/supervised-classification-preprocessing/) - (2017) Supervised Classification: An Introduction and Preprocessing
+* [David Venturi](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0) - (2017) Every single Machine Learning course on the internet, ranked by your reviews
 
 ## Mobile Development
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
@@ -3389,6 +3430,9 @@ Raw
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer
 * [Jeffrey Ventrella](https://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/) - (2013) The Case for Slow Programming | “Slow down, son. You’ll get the job done faster.”
 * [Nathen Harvey](https://speakerdeck.com/nathenharvey/the-journey-to-continuous-automation) - (2017) The Journey to Continuous Automation
+* [Libraries.io](https://libraries.io/) - discovers millions open source libraries accros +36 package managers
+* [Increment Staff](https://increment.com/development/what-its-like-to-be-a-developer-at/) - (2017) What it’s like to be a developer at …
+* [Jerome Kehrli](https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles) - (2017) Periodic Table of Agile Principles and Practices
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3473,6 +3517,7 @@ Raw
 * [Sarah Cooper](https://thecooperreview.com/how-to-look-like-a-badass-next-tech-conference) - How to Look Smart at Your Next Tech Conference
 * [Sarah Cooper](https://thecooperreview.com/how-to-be-seen-as-an-expert-in-artificial-intelligence/) - How to Be Seen as an Expert in Artificial Intelligence
 * [hightower/nocode](https://github.com/kelseyhightower/nocode) - No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+* [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -3585,6 +3630,8 @@ Raw
 * [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
 * [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
 * [Charles Chu](https://medium.com/the-polymath-project/our-clothes-can-change-who-we-are-dc89dbc1467c) - (2017) Our clothes can change who we are
+* [Yan-David Erlich](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - [Slides] (2017) Six page cheat-sheet for the book [Never Split the Difference, by Chris Voss](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
+* [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -3867,6 +3914,7 @@ Raw
 * [Coda Hale](https://codahale.com/how-to-safely-store-a-password/) - (2010) How To Safely Store A Password | "In which I recommend bcrypt."
 * [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
 * [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
+* [OverTheWire](https://overthewire.org/wargames/) - Wargames : help you to learn and practice security concepts in the form of fun-filled games
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -3936,6 +3984,7 @@ Raw
 * [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources. 
 * [chrome site data settings](chrome://settings/siteData) open `chrome://settings/siteData`in Chrome to manage cookies / sites data
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
+* [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
@@ -4012,6 +4061,7 @@ Raw
 * [Nathen Harvey](https://www.slideshare.net/nathenharvey/effective-testing-with-ansible-and-inspec) - (2018) Effective Testing with Ansible and InSpec
 * [Nathen Harvey](https://www.slideshare.net/nathenharvey/dev-opsdc-inspecworkshopslideshare) - (2017) Compliance Automation with InSpec
 * [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
+* [Sarah Mei](https://www.devmynd.com/blog/five-factor-testing/) - Five Factor Testing
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -4070,6 +4120,7 @@ Raw
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
 * [UX Quotes](http://uxchoice.com/ux-quotes) - Tweetable quotes on User Experience / Design
 * [Laura klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
+* [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
@@ -4086,6 +4137,10 @@ Raw
 * [Quadd X mas](https://web.archive.org/web/20050209125208/http://www.quaddxmas.com:80/) - [FR] :fr: C'était un MMORPG et jeu de stratégie en php gratuit d'ambiance médiévale fantastique
 
 # Web development
+> News
+* [What Web Can Do Today](https://whatwebcando.today/) - Can I rely on the Web Platform features to build my app? An overview of the device integration HTML5 APIs
+
+> Learn
 * [Steve Francia](https://gohugo.io/overview/introduction/) - Hugo is a fast & modern static site generator
 * [Amanda Visconti](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) - Building a static website with Jekyll and GitHub Pages
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
@@ -4149,6 +4204,11 @@ Raw
 * [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
 * [Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - [Slides] (2014) Front-end Tooling Workflows | 198 slides on tools to help you stay productive on the front-end
 * [Nicolas Hoffmann, Elie Sloïm](https://openweb.eu.org/articles/le-cout-de-la-non-qualite-sur-le-web) - (2014) :fr: [FR] Le coût de la non-qualité sur le Web : 50%
+* [Karolina Szczur](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3) - (2017) The State of the Web | A guide to impactful performance improvements
+* [Vitaly Friedman](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/#front-end-performance-checklist-2017) - (2018) Front-End Performance Checklist 2018
+* [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
+* [The Front-End Checklist](https://frontendchecklist.io/) - perfect for modern websites and meticulous developers!
+* [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
