@@ -175,6 +175,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Laura klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 * [Kenneth N. Lodding, Nasa](https://queue.acm.org/detail.cfm?id=1016985) - (2004) Hitchhiker's Guide to Biomorphic Software | The natural world may be the inspiration we need for solving our computer problems.
+* [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -421,6 +422,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Fagner Brack](https://medium.com/@fagnerbrack/pair-programming-8cfbf2dc4d00) - (2016) Pair Programming | A technique that **if done correctly** has the potential for delivering software faster with lower cost
 * [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2974011) - (2016) Bad Software Architecture is a People Problem | When people don't work well together they make bad decisions.
 * [Kode Vicious](https://queue.acm.org/detail.cfm?id=1740550) - (2010) Broken Builds | Frequent broken builds could be symptomatic of deeper problems within a development project.
+* [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2926696) - (2016) Delegation as Art | Be someone who makes everyone else better.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -739,6 +741,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2974011) - (2016) Bad Software Architecture is a People Problem | When people don't work well together they make bad decisions.
 * [Bridget Kromhout](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
 * [Kode Vicious](https://queue.acm.org/detail.cfm?id=1740550) - (2010) Broken Builds | Frequent broken builds could be symptomatic of deeper problems within a development project.
+* [Mandi Walls](https://www.slideshare.net/lnxchk/configuration-management-is-old-and-boring) - (2017) Configuration Management is Old and Boring
+* [Pavan Belagatti](http://blog.shippable.com/devops-resources-top-5-devops-books-every-devops-enthusiast-must-read) - (2017) DevOps Resources: 5 Books Every DevOps Enthusiast Must Read! | + [the SRE book](https://landing.google.com/sre/book.html)
+* [Nathen Harvey](https://speakerdeck.com/nathenharvey/the-journey-to-continuous-automation) - (2017) The Journey to Continuous Automation
+* [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -835,6 +841,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ansible](https://www.ansible.com/videos-ansible-automates-2017) - (2017) [Videos] Ansible Automates Videos
 * [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
 * [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
+* [Nathen Harvey](https://www.slideshare.net/nathenharvey/effective-testing-with-ansible-and-inspec) - (2018) Effective Testing with Ansible and InSpec
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -1202,6 +1209,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Brian Kelly](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/) - Creating a Microservice? Answer these 10 Questions First 
 * [Sumit Maingi](https://cloudncode.blog/2016/07/22/msa-getting-started/) - (2016) Building Microservices? Here is what you should know
 * [Ben Stopford](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/) - (2016) The Data Dichotomy: Rethinking the Way We Treat Data and Services
+* [IcaliaLabs/guides](https://github.com/IcaliaLabs/guides/wiki/Monolithic-vs-Micro-Repos) - Monolithic vs Micro Repos
+* [Matt Butcher](https://gist.github.com/technosophos/9c706b1ef10f42014a06) - (2015) Why We Should Not Return to Monolithic Repositories
+* [Avi Cavale](http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository) - (2016) Our journey to microservices: mono repo vs multiple repositories
+* [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
@@ -1262,6 +1273,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Curtis Yanko](http://blog.sonatype.com/nexus-in-openshift) - Nexus in Openshift
 * [Christoph Görn](http://rhelblog.redhat.com/2016/10/03/peace-in-our-time/) - Peace in Our Time: Bringing Ops and Dev Together
 * [Tom Donohue](https://cleverbuilder.com/articles/openshift-nexus-docker-registry/) - (2017) Deploy and use the Nexus Docker registry in OpenShift
+* [Red Hat Docs](https://access.redhat.com/documentation/en-us/openshift_container_platform/3.7/html/day_two_operations_guide/) - Day Two Operations Guide for OpenShift Container Platform 3.7
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -1652,6 +1664,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nikola Tore](http://blog.hackerearth.com/employee-wellness-affects-productivity-four-fundamental-pillars) - (2017) How employee wellness affects productivity: four fundamental pillars
 * [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
 * [Antonio Bello](https://www.raywenderlich.com/114368/staying-motivated-work-home-developer) - (2015) Staying Motivated as a Work From Home Developer
+* [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2059,6 +2072,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [the morning paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
 * [OSNews](http://www.osnews.com/) - explore the future of computing and about technology, OS, hardware, development, and other cool news
 * [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
+* [Jeffrey Ventrella's Blog](https://ventrellathing.wordpress.com/) - Nature -> Brain -> Technology | Things and Stuff
 
 # Operations / IT OPS
 > News
@@ -2148,6 +2162,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 * [Mike Loukides](https://www.oreilly.com/ideas/the-evolution-of-devops) - (2017) The evolution of DevOps
+* [Mandi Walls](https://www.slideshare.net/lnxchk/configuration-management-is-old-and-boring) - (2017) Configuration Management is Old and Boring
+* [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
+* [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2220,6 +2237,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ben Putano](https://stackify.com/cloud-monitoring-tools/) - (2017) The Top 21 Cloud Monitoring Tools for 2018
 * [Matt Watson](https://stackify.com/cloud-monitoring-vs-server-monitoring/) - (2017) 6 Reasons Cloud Monitoring Is Different Than Server Monitoring
 * [Matt Watson](https://stackify.com/15-metrics-for-devops-success/) - (2017) 15 Metrics for DevOps Success
+* [Caitie McCaffrey](https://queue.acm.org/detail.cfm?id=2889274) - (2016) The Verification of a Distributed System | A practitioner's guide to increasing confidence in system correctness
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
@@ -2387,6 +2405,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
 * [Markus Harrer](https://www.feststelltaste.de/extreme-reduction/) - (2017) Extreme Reduction | how to fit the whole learning subject of one class into a half a dozen tweets. **Bonus** : see also [bulimic learning](https://www.urbandictionary.com/define.php?term=bulimic%20learning) and [Cramming](https://en.wikipedia.org/wiki/Cramming_(education))
 * [Laura Klein](https://www.usersknow.com/blog/2016/5/23/good-enough) - (2016) Good Enough | You don't know what "perfect" means.
+* [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2926696) - (2016) Delegation as Art | Be someone who makes everyone else better.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2708,6 +2727,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
 * [Kode Vicious](https://queue.acm.org/detail.cfm?id=1740550) - (2010) Broken Builds | Frequent broken builds could be symptomatic of deeper problems within a development project.
 * [Kenneth N. Lodding, Nasa](https://queue.acm.org/detail.cfm?id=1016985) - (2004) Hitchhiker's Guide to Biomorphic Software | The natural world may be the inspiration we need for solving our computer problems.
+* [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer
+* [Tom MacWright](https://macwright.org/2018/02/08/advice-to-the-newish-programmer.html) - (2018) Advice to the newish programmer
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2860,6 +2881,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 * [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
 * [Hacker News](https://news.ycombinator.com/item?id=16233961) - Ask HN: Started a new job and their existing code sucks. What to do?
+* [Jeffrey Ventrella](https://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/) - (2013) The Case for Slow Programming | “Slow down, son. You’ll get the job done faster.”
 
 ## Conferences 
 > In Belgium
@@ -2879,6 +2901,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ranjit Jhala](https://cseweb.ucsd.edu/classes/wi10/cse230/lectures/lec5.pdf) - (2010) [PDF] Axiomatic Semantics
 * [Ken Slonneger](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/Chapter11.pdf) - Axiomatic Semantics
 * [Wikipedia](https://en.wikipedia.org/wiki/Operational_semantics) - Operational semantics
+* [Caitie McCaffrey](https://queue.acm.org/detail.cfm?id=2889274) - (2016) The Verification of a Distributed System | A practitioner's guide to increasing confidence in system correctness
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
@@ -3089,6 +3112,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) - (2010) A successful Git branching model
 * [Zach Holman](https://zachholman.com/posts/git-commit-history/) - (2015) Utter Disregard for Git Commit History
 * [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - (2011) How GitHub Uses GitHub to Build GitHub
+* [IcaliaLabs/guides](https://github.com/IcaliaLabs/guides/wiki/Monolithic-vs-Micro-Repos) - Monolithic vs Micro Repos
+* [Matt Butcher](https://gist.github.com/technosophos/9c706b1ef10f42014a06) - (2015) Why We Should Not Return to Monolithic Repositories
+* [Avi Cavale](http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository) - (2016) Our journey to microservices: mono repo vs multiple repositories
+* [mozilla.dev.developer-tools](https://groups.google.com/forum/m/#!topic/mozilla.dev.developer-tools/W17drvVMFhY) - Discussion about Multiple repos vs Monolithic repo
+* [Gregory Szorc](https://gregoryszorc.com/blog/2014/09/09/on-monolithic-repositories/) - (2014) On Monolithic Repositories | in favor of monolithic repos  
+* [Aaron Schlesinger](https://gist.github.com/arschles/5d7ba90495eb50fa04fc) - (2015) Why We Should Use Monolithic Repositories
+Raw
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -3355,6 +3385,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
 * [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - [Slides] (2011) How GitHub Uses GitHub to Build GitHub
 * [Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - [Slides] (2014) Front-end Tooling Workflows | 198 slides on tools to help you stay productive on the front-end
+* [Mandi Walls](https://www.slideshare.net/lnxchk/configuration-management-is-old-and-boring) - (2017) Configuration Management is Old and Boring
+* [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer
+* [Jeffrey Ventrella](https://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/) - (2013) The Case for Slow Programming | “Slow down, son. You’ll get the job done faster.”
+* [Nathen Harvey](https://speakerdeck.com/nathenharvey/the-journey-to-continuous-automation) - (2017) The Journey to Continuous Automation
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3832,6 +3866,7 @@ Raw
 * [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
 * [Coda Hale](https://codahale.com/how-to-safely-store-a-password/) - (2010) How To Safely Store A Password | "In which I recommend bcrypt."
 * [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
+* [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -3973,6 +4008,10 @@ Raw
 * [Andy Zaidman](https://azaidman.wordpress.com/2017/05/10/is-testing-on-stackoverflow-dead/) - (2017) Is Testing (on StackOverflow) Dead?
 * [Dave Syer](https://spring.io/blog/2007/01/15/unit-testing-with-stubs-and-mocks/) - (2007) Unit Testing with Stubs and Mocks
 * [Maaike Brinkhof](http://blog.xebia.com/mapping-biases-to-testing-confirmation-bias/) - (2016) Mapping Biases to Testing: Confirmation Bias
+* [Caitie McCaffrey](https://queue.acm.org/detail.cfm?id=2889274) - (2016) The Verification of a Distributed System | A practitioner's guide to increasing confidence in system correctness
+* [Nathen Harvey](https://www.slideshare.net/nathenharvey/effective-testing-with-ansible-and-inspec) - (2018) Effective Testing with Ansible and InSpec
+* [Nathen Harvey](https://www.slideshare.net/nathenharvey/dev-opsdc-inspecworkshopslideshare) - (2017) Compliance Automation with InSpec
+* [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
