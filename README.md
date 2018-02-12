@@ -177,6 +177,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kenneth N. Lodding, Nasa](https://queue.acm.org/detail.cfm?id=1016985) - (2004) Hitchhiker's Guide to Biomorphic Software | The natural world may be the inspiration we need for solving our computer problems.
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. 
+* [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -431,6 +432,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
 * [Culture Codes](https://tettra.co/culture-codes/handbooks/) - Employee Handbox Examples | A collection of company handbooks, employee manuals, and more from real companies.
 * [folkswhocode/awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology.
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/10/04/technical-skills-productive/) - (2017) Technical skills alone won’t make you productive
+* [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -478,6 +481,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jon Bell](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d) - (2013) McDonald’s Theory. **In french** : [Rémi Parmentier](https://www.hteumeuleu.fr/la-theorie-du-mcdonalds/) - :fr: [FR] (2013) La théorie du McDonald’s
 * [Benoit Collet](https://dailygeekshow.com/20-trucs-super-cool-que-vous-pouvez-faire-avec-votre-boite-a-pizza/) - :fr: [FR] (2013) 20 trucs super cool que vous pouvez faire avec votre boite à pizza
 * [Maaike Brinkhof](http://blog.xebia.com/mapping-biases-to-testing-confirmation-bias/) - (2016) Mapping Biases to Testing: Confirmation Bias
+* [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1679,6 +1683,18 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kuba Niechcial](https://niechcial.me/2018-01-31/assume-good-intent) - (2018) Assume good intent
 * [Antonio Bello](https://www.raywenderlich.com/114368/staying-motivated-work-home-developer) - (2015) Staying Motivated as a Work From Home Developer
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer
+* [Itamar Turner-Trauring](https://codewithoutrules.com/saneworkweek/) - (2017) The Programmer’s Guide to a Sane Workweek
+* [Cornell University Ergonomics Web](http://ergo.human.cornell.edu/AHTutorials/typingposture.html) - Ideal typing posture: Negative slope keyboard support
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/18/rsi-solution/) - (2016) How I stopped the RSI pain that almost destroyed my programming career
+* [tamar Turner-Trauring](https://codewithoutrules.com/2016/08/18/productive-programmer/) - (2016) Less stress, more productivity: why working fewer hours is better for you and your employer
+* [Glassdoor](https://glassdoor.com/) - a site that lets employees post anonymous salaries and reviews of their company.
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/14/job-you-dont-hate/) - (2016) How to find a programming job you won’t hate
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/08/living-below-your-means/) - (2016) Why living below your means can help you find a better job
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/03/20/open-floor-plan/) - (2017) Dear recruiter, “open floor space” is not a job benefit
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/01/11/your-job-is-not-your-life/) - (2017) Staying competitive as a developer
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/) - (2016) Work/life balance will make you a better software engineer
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/02/24/go-home-already/) - (2016) Still stuck at the end of the day?
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2018/02/11/working-long-hours/) - (2018) The futile comfort of working long hours
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2424,6 +2440,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Laura Klein](https://www.usersknow.com/blog/2016/5/23/good-enough) - (2016) Good Enough | You don't know what "perfect" means.
 * [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2926696) - (2016) Delegation as Art | Be someone who makes everyone else better.
 * [Yan-David Erlich](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - [Slides] (2017) Six page cheat-sheet for the book [Never Split the Difference, by Chris Voss](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
+* [Daniel Markovitz](https://hbr.org/2012/01/to-do-lists-dont-work) - (2012) To-Do Lists Don’t Work
+* [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2756,6 +2774,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Keon Kim](https://keon.io/computer-scientists-trivia/) - Computer Scientist's Trivia | for programmers to understand how long a certain operation takes in and out of a computer.
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. 
 * [Increment Staff](https://increment.com/development/what-its-like-to-be-a-developer-at/) - (2017) What it’s like to be a developer at …
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/01/19/specialist-vs-generalist/) - (2017) Why you should have the skills of a generalist, but market yourself as a specialist
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/01/11/your-job-is-not-your-life/) - (2017) Staying competitive as a developer
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/) - (2016) Work/life balance will make you a better software engineer
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2912,6 +2934,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Hacker News](https://news.ycombinator.com/item?id=16233961) - Ask HN: Started a new job and their existing code sucks. What to do?
 * [Jeffrey Ventrella](https://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/) - (2013) The Case for Slow Programming | “Slow down, son. You’ll get the job done faster.”
 * [The Front-End Checklist](https://frontendchecklist.io/) - perfect for modern websites and meticulous developers!
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/30/python-for-java-developers/) - (2016) Maintainable Python applications: a guide for skeptical Java developers
+* [Brian Vanderwal](https://spin.atomicobject.com/2017/03/07/attitudes-maintainable-code/) - (2017) Three Attitudes that Lead to Maintainable Code
 
 ## Conferences 
 > In Belgium
@@ -2979,6 +3003,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mike Swieton](https://spin.atomicobject.com/2018/01/27/debugging-complex-problems/) - (2018) Debugging a Complex Problem? Think Like an Epidemiologist
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 * [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
+* [Brian Vanderwal](https://spin.atomicobject.com/2017/11/28/less-time-debugging/) - (2017) Six Strategies to Spend Less Time Debugging
 
 ## Erlang
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
@@ -3433,6 +3458,16 @@ Raw
 * [Libraries.io](https://libraries.io/) - discovers millions open source libraries accros +36 package managers
 * [Increment Staff](https://increment.com/development/what-its-like-to-be-a-developer-at/) - (2017) What it’s like to be a developer at …
 * [Jerome Kehrli](https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles) - (2017) Periodic Table of Agile Principles and Practices
+* [tamar Turner-Trauring](https://codewithoutrules.com/2016/08/18/productive-programmer/) - (2016) Less stress, more productivity: why working fewer hours is better for you and your employer
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/) - (2016) Work/life balance will make you a better software engineer
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/04/15/40-hour-programmer/) - (2016) Improving your skills as a 9 to 5 programmer
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/02/24/go-home-already/) - (2016) Still stuck at the end of the day?
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/10/04/technical-skills-productive/) - (2017) Technical skills alone won’t make you productive
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/06/26/code-faster/) - (2016) Code faster by typing less
+* [William Shawn](https://spin.atomicobject.com/2017/06/01/how-to-read-code/) - (2017) How to Read Code (Eight Things to Remember)
+* [Tyler Hoffman](https://spin.atomicobject.com/2017/07/29/code-reviews-boost-productivity/) - (2017) Code Reviews as a Tool to Boost Productivity
+* [Alex Zurek](https://spin.atomicobject.com/2017/08/15/todo-comments/) - (2017) TODO Comments Don’t Work
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/07/growing-your-toolbox/) - (2016) More learning, less time: how to quickly gather new tools and techniques
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3543,6 +3578,7 @@ Raw
 * [353Solutions](https://www.353.solutions/py2go/index.html) - Python to Go CheatSheet
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * [Rob Harrigan](https://unsupervisedpandas.com/python/supervised-classification-preprocessing/) - (2017) Supervised Classification: An Introduction and Preprocessing
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/30/python-for-java-developers/) - (2016) Maintainable Python applications: a guide for skeptical Java developers
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
@@ -3658,6 +3694,7 @@ Raw
 * [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
 * [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence. 
 * [Sarah Cooper](https://thecooperreview.com/how-to-be-seen-as-an-expert-in-artificial-intelligence/) - [Humor] How to Be Seen as an Expert in Artificial Intelligence
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -3915,6 +3952,7 @@ Raw
 * [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
 * [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
 * [OverTheWire](https://overthewire.org/wargames/) - Wargames : help you to learn and practice security concepts in the form of fun-filled games
+* [Matt Behrens](https://spin.atomicobject.com/2017/02/06/security-hygiene/) - (2017) Security Hygiene for Software Professionals
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -4062,6 +4100,8 @@ Raw
 * [Nathen Harvey](https://www.slideshare.net/nathenharvey/dev-opsdc-inspecworkshopslideshare) - (2017) Compliance Automation with InSpec
 * [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
 * [Sarah Mei](https://www.devmynd.com/blog/five-factor-testing/) - Five Factor Testing
+* [Christiaan Verwijs](https://blog.agilistic.nl/7-powerful-ways-to-get-feedback-from-users-in-scrum/) - 7 Powerful Ways To Get Feedback From Users (In Scrum)
+* [Scott Vokes](https://spin.atomicobject.com/2014/09/16/property-based-testing/) - (2014) Property-Based Testing | Testing Assumptions You Don’t Know You’re Making
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -4121,6 +4161,7 @@ Raw
 * [UX Quotes](http://uxchoice.com/ux-quotes) - Tweetable quotes on User Experience / Design
 * [Laura klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
 * [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
+* [Christiaan Verwijs](https://blog.agilistic.nl/7-powerful-ways-to-get-feedback-from-users-in-scrum/) - 7 Powerful Ways To Get Feedback From Users (In Scrum)
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
