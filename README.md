@@ -731,6 +731,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
 * [Jim Bird](http://swreflections.blogspot.be/2016/04/devopsdays-empathy-scaling-docker.html) - (2016) DevOpsDays: Empathy, Scaling, Docker, Dependencies and Secrets | interesting takeaways 
 * [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - [Slides] (2011) How GitHub Uses GitHub to Build GitHub
+* [Mirco Hering](https://notafactoryanymore.com/2018/02/01/why-you-are-probably-not-as-advanced-in-your-agile-devops-journey-as-you-think-you-are/) - (2018) Why you are probably not as advanced in your Agile/DevOps journey as you think you are
+* [Mike Loukides](https://www.oreilly.com/ideas/the-evolution-of-devops) - (2017) The evolution of DevOps
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1704,6 +1706,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sarah Cooper](https://thecooperreview.com/boomers-vs-millenials-work/) - Boomers vs. Millennials @ Work
 * [Sarah Cooper](https://thecooperreview.com/why-they-call-it-middle-management/) - Why They Call it Middle Management
 * [Sarah Cooper](https://thecooperreview.com/9-tricks-to-appear-smart-in-brainstorming-meetings/) - 9 Tricks to Appear Smart in Brainstorming Meetings
+* [Sarah Cooper](https://thecooperreview.com/how-to-say-no-without-saying-no/) - How to Say No Without Ever Saying No
+* [Sarah Cooper](https://thecooperreview.com/here-are-the-10-most-deeply-meaningful-team-building-exercises/) - Here are the 10 Most Deeply Meaningful Team Building Exercises
+* [Sarah Cooper](https://thecooperreview.com/how-to-outshine-everyone-on-linkedin/) - How to Outshine Everyone on LinkedIn
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -2135,6 +2140,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
 * [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
+* [Mike Loukides](https://www.oreilly.com/ideas/the-evolution-of-devops) - (2017) The evolution of DevOps
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2473,6 +2479,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Methods & Tools Editor Blog](http://blog.martinig.ch/) - Software Development Ideas + [links](http://blog.martinig.ch/category/links/)
 * [Zach Holman's Blog](https://zachholman.com/) - Blog of Zach Holman, Founder of During, previously at GitHub and Gild.
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
+* [O'Reilly Media](https://www.oreilly.com/ideas) - Ideas | What's on the radar 
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -3419,6 +3426,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sebiwi](https://sebiwi.github.io/comics/) - drawings about tech and stuff
 * [Stoyan Stefanov](https://www.phpied.com/files/location-location/location-location.html) - location = location ... and a 534 other ways to reload the page with JavaScript
 * [Quotes For Software Engineers](http://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm?type=funnyQuotes) - The ones that make you smile :-)
+* [Sarah Cooper](https://thecooperreview.com/how-to-look-like-a-badass-next-tech-conference) - How to Look Smart at Your Next Tech Conference
+* [Sarah Cooper](https://thecooperreview.com/how-to-be-seen-as-an-expert-in-artificial-intelligence/) - How to Be Seen as an Expert in Artificial Intelligence
+* [hightower/nocode](https://github.com/kelseyhightower/nocode) - No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -3556,6 +3566,7 @@ Raw
 * [Carol Smith](https://www.slideshare.net/carologic/ai-and-machine-learning-demystified-by-carol-smith-at-midwest-ux-2017/45-AI_and_ML_Demystified_carologic) - (2017) AI and Machine Learning Demystified by Carol Smith at Midwest UX 2017
 * [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
 * [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence. 
+* [Sarah Cooper](https://thecooperreview.com/how-to-be-seen-as-an-expert-in-artificial-intelligence/) - [Humor] How to Be Seen as an Expert in Artificial Intelligence
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
