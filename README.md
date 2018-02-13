@@ -3470,6 +3470,7 @@ Raw
 * [Tyler Hoffman](https://spin.atomicobject.com/2017/07/29/code-reviews-boost-productivity/) - (2017) Code Reviews as a Tool to Boost Productivity
 * [Alex Zurek](https://spin.atomicobject.com/2017/08/15/todo-comments/) - (2017) TODO Comments Don’t Work
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/07/growing-your-toolbox/) - (2016) More learning, less time: how to quickly gather new tools and techniques
+* [Nick Humrich](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1) - (2017) Yes, Python is Slow, and I Don’t Care | A rant on sacrificing performance for productivity.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3581,6 +3582,7 @@ Raw
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * [Rob Harrigan](https://unsupervisedpandas.com/python/supervised-classification-preprocessing/) - (2017) Supervised Classification: An Introduction and Preprocessing
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/30/python-for-java-developers/) - (2016) Maintainable Python applications: a guide for skeptical Java developers
+* [Nick Humrich](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1) - (2017) Yes, Python is Slow, and I Don’t Care | A rant on sacrificing performance for productivity.
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
