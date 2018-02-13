@@ -2948,6 +2948,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 > Anywhere
 * [Red Hat Events](https://www.redhat.com/en/events) - Conferences, online events, on-demand webinars, and more
+* [Jenkins World](https://www.cloudbees.com/jenkinsworld) - usually in USA, but by 2018 will also occur [Jenkins World Europe](https://dzone.com/articles/call-for-papers-is-open-for-jenkins-world-2018)
 
 > Learn
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
