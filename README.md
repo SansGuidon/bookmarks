@@ -1331,6 +1331,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Anton Kalyaev](https://coderwall.com/p/17i72q/vagrant-tips) - Vagrant tips
 * [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
 * [Darren Beale](https://24ways.org/2014/what-is-vagrant-and-why-should-i-care/) - (2014) What Is Vagrant and Why Should I Care?
+* [Vagrant](https://app.vagrantup.com/boxes/search) - discover vagrant boxes
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
