@@ -3007,6 +3007,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 * [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
 * [Brian Vanderwal](https://spin.atomicobject.com/2017/11/28/less-time-debugging/) - (2017) Six Strategies to Spend Less Time Debugging
+* [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
 
 ## Erlang
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
