@@ -1198,6 +1198,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Marcus Young](http://marcyoung.us/post/lets-rethink-jenkins/) - (2018) Let’s Rethink Jenkins
 * [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
 * [SAP/cloud-s4-sdk-pipeline-lib](https://github.com/SAP/cloud-s4-sdk-pipeline-lib) - S/4HANA Cloud SDK pipeline library for Jenkins
+* [Andrew Morton](https://drewish.com/2017/03/23/validate-swagger-docs-in-jenkins/) - (2017) Validate Swagger Docs in Jenkins
+* [Andrew Morton](https://drewish.com/2017/06/20/run-code-on-specific-jenkins-slaves/) - (2017) Run code on specific Jenkins slaves
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
