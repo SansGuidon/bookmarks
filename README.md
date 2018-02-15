@@ -248,6 +248,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary 
 * [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
+* [Launch School](https://launchschool.com/books/) - Open Book Shelf for developers | some beginner friendly readings about programming, git, command line, etc
 
 # Business & Economics
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
@@ -3609,6 +3610,7 @@ Raw
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
+* [Launch School](https://launchschool.com/books/ruby/read/introduction) - [Book] Open Book Shelf : Introduction to Programming with Ruby
 
 ## Rust
 * [New Rustacean](https://www.newrustacean.com/) - a podcast about learning Rust
