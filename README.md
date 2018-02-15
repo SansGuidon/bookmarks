@@ -1577,6 +1577,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Somacon](https://www.somacon.com/p568.php) - Count Duplicates in a List Online Tool
 * [User Agent String.Com](http://www.useragentstring.com/index.php) - User Agent String explained : Copy/paste any user agent string in this field and click 'Analyze'
 * [Free Online EPUB Converter](https://www.sendepubtokindle.com/) - The easiest way to send EPUBs to your Kindle!
+* [repl.it](https://repl.it/) - Online REPL, Compiler & IDE : Boot up a programming environment for your favorite language | including JavaScript, Python, Ruby, Java, Node.js, Go, Scheme, C, C#, C++, Lua and many more.
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -3477,6 +3478,7 @@ Raw
 * [Alex Zurek](https://spin.atomicobject.com/2017/08/15/todo-comments/) - (2017) TODO Comments Don’t Work
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/07/growing-your-toolbox/) - (2016) More learning, less time: how to quickly gather new tools and techniques
 * [Nick Humrich](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1) - (2017) Yes, Python is Slow, and I Don’t Care | A rant on sacrificing performance for productivity.
+* [repl.it](https://repl.it/) - Online REPL, Compiler & IDE : Boot up a programming environment for your favorite language | including JavaScript, Python, Ruby, Java, Node.js, Go, Scheme, C, C#, C++, Lua and many more.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
