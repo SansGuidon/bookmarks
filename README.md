@@ -178,6 +178,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. 
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
+* [High Scalability](http://highscalability.com/) - Building bigger, faster, more reliable websites
+* [High Scalability](http://highscalability.com/all-time-favorites/) - Here are some of the favorite posts on HighScalability...
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -2489,6 +2491,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nikola Tore](http://blog.hackerearth.com/job-hopping-millennials-hoppers-better-hire) - (2017) Job-hopping makes millennials better hires
 * :star: [**Gregg Caines**](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - (2014) In Defence of the Office
 * [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
+* [Matt Cutts](http://highscalability.com/blog/2015/2/4/matt-cutts-10-lessons-learned-from-the-early-days-of-google.html) - (2015) Matt Cutts: 10 Lessons Learned From The Early Days Of Google
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
