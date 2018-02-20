@@ -278,6 +278,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 * [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
 * [Jim Bird](http://swreflections.blogspot.be/2015/07/dont-blame-bad-software-on-developers.html) - (2015) Don’t Blame Bad Software on Developers – Blame it on their Managers
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/08/living-below-your-means/) - (2016) Why living below your means can help you find a better job
 
 ## Cryptocurrency
 > News
@@ -435,6 +436,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [folkswhocode/awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/10/04/technical-skills-productive/) - (2017) Technical skills alone won’t make you productive
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/12/08/how-not-to-get-stuck/) - (2016) Don’t get stuck: 6 ways to get unstuck and code faster
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/25/the-01x-programmer/) - (2016) From 10x programmer to 0.1x programmer: creating more with less
+* [Gregg Caines](http://caines.ca/blog/2015/06/14/were-in-the-stone-age-of-software-engineering-management/) - (2015) We're in the Stone Age of Software Engineering Management
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -483,6 +487,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Benoit Collet](https://dailygeekshow.com/20-trucs-super-cool-que-vous-pouvez-faire-avec-votre-boite-a-pizza/) - :fr: [FR] (2013) 20 trucs super cool que vous pouvez faire avec votre boite à pizza
 * [Maaike Brinkhof](http://blog.xebia.com/mapping-biases-to-testing-confirmation-bias/) - (2016) Mapping Biases to Testing: Confirmation Bias
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/03/15/stagnating-job/) - (2016) Stagnating at your programming job? Don’t quit just yet!
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1613,6 +1618,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [NESblog / Speed Game](https://www.youtube.com/watch?v=VKvcQNLk9yA) - [FR] :fr: [Video] Le Jeu de Rôle Papier, analyse des spécificités de cette famille de jeu
 
 # Health and Work-Life Balance
+> News
+* [Itamar Turner-Trauring Blog](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
+
+> Learn
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
 * [Simple Programmer](https://simpleprogrammer.com/2016/01/06/stop-improving-yourself/) - Stop Improving Yourself
 * [Adam Smiley Poswolsky](https://www.linkedin.com/pulse/10-truths-finding-meaningful-work-adam-smiley-poswolsky) - The 10 truths about finding meaningful work
@@ -1703,6 +1712,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/) - (2016) Work/life balance will make you a better software engineer
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/02/24/go-home-already/) - (2016) Still stuck at the end of the day?
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/02/11/working-long-hours/) - (2018) The futile comfort of working long hours
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/06/21/why-company-want-long-hours/) - (2017) The bad reasons you’re forced to work long hours
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2119,6 +2129,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [TechBeacon](https://techbeacon.com/it-ops) - IT-OPS articles & resources
 * [O'Reilly Media](https://www.oreilly.com/topics/operations) - The latest ideas, articles about operations.
 * [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
+* [Code as Craft](https://codeascraft.com/category/operations/) - Posts in category operations
 
 > Learn
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
@@ -2556,6 +2567,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [O'Reilly Media](https://www.oreilly.com/ideas) - Ideas | What's on the radar 
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
+* [Itamar Turner-Trauring Blog](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2786,6 +2798,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/01/11/your-job-is-not-your-life/) - (2017) Staying competitive as a developer
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/) - (2016) Work/life balance will make you a better software engineer
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/03/15/stagnating-job/) - (2016) Stagnating at your programming job? Don’t quit just yet!
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2944,6 +2957,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Front-End Checklist](https://frontendchecklist.io/) - perfect for modern websites and meticulous developers!
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/30/python-for-java-developers/) - (2016) Maintainable Python applications: a guide for skeptical Java developers
 * [Brian Vanderwal](https://spin.atomicobject.com/2017/03/07/attitudes-maintainable-code/) - (2017) Three Attitudes that Lead to Maintainable Code
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/25/the-01x-programmer/) - (2016) From 10x programmer to 0.1x programmer: creating more with less
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/11/07/no-such-thing-as-bad-code/) - (2017) There’s no such thing as bad code
 
 ## Conferences 
 > In Belgium
@@ -3339,6 +3354,10 @@ Raw
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 
 ## Productivity
+> News
+* [Itamar Turner-Trauring Blog](https://codewithoutrules.com/productivity/) - Become more productive ; articles about being more productive as programmer without necessarily working longer hours
+
+> Learn
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
 * :star: [**J. B. Rainsberger**](http://blog.jbrains.ca/permalink/avoid-distractions-while-programming) - Avoiding Distractions While Programming
 * [Moran Danieli-Cohen](https://dev.to/msscohen/3-effective-ways-to-maintain-high-energy-levels-at-work-for-software-engineers) - 3 Effective Ways to Maintain High Energy Levels at Work for Software Engineers
@@ -3480,6 +3499,9 @@ Raw
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/07/growing-your-toolbox/) - (2016) More learning, less time: how to quickly gather new tools and techniques
 * [Nick Humrich](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1) - (2017) Yes, Python is Slow, and I Don’t Care | A rant on sacrificing performance for productivity.
 * [repl.it](https://repl.it/) - Online REPL, Compiler & IDE : Boot up a programming environment for your favorite language | including JavaScript, Python, Ruby, Java, Node.js, Go, Scheme, C, C#, C++, Lua and many more.
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/12/08/how-not-to-get-stuck/) - (2016) Don’t get stuck: 6 ways to get unstuck and code faster
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/25/the-01x-programmer/) - (2016) From 10x programmer to 0.1x programmer: creating more with less
+* [Gregg Caines](http://caines.ca/blog/2017/04/09/the-all-or-nothing-principle/) - (2017) The All-or-Nothing Principle
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
