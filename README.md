@@ -1622,10 +1622,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 # Health and Work-Life Balance
 > News
 * [Itamar Turner-Trauring Blog](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
+* [Simple Programmer](https://simpleprogrammer.com/) - Robert Whitcomb's Blog about soft skills + health & work-life balance for programmers
 
 > Learn
-* [Matt Might](http://matt.might.net/articles/work-life-balance/) - Tips for work-life balance
-* [Simple Programmer](https://simpleprogrammer.com/2016/01/06/stop-improving-yourself/) - Stop Improving Yourself
+* [Matt Might](http://matt.might.net/articles/work-life-balance/) - (2013) Tips for work-life balance
+* [Robert Whitcomb](https://simpleprogrammer.com/2016/01/06/stop-improving-yourself/) - (2016) Stop Improving Yourself
 * [Adam Smiley Poswolsky](https://www.linkedin.com/pulse/10-truths-finding-meaningful-work-adam-smiley-poswolsky) - The 10 truths about finding meaningful work
 * [Tom Goodwin](https://www.linkedin.com/pulse/we-dont-need-teach-our-kids-code-them-how-dream-tom-goodwin) - We don’t need to teach our kids to code, we need to teach them how to dream
 * [alphagov/govdesign](https://github.com/alphagov/govdesign/blob/master/Poster_its-ok-to.pdf) - [PDF] It's ok to ... (poster)
@@ -2571,6 +2572,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
 * [Itamar Turner-Trauring Blog](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
+* [Simple Programmer](https://simpleprogrammer.com/) - Robert Whitcomb's Blog about soft skills + health & work-life balance for programmers
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
