@@ -185,6 +185,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [High Scalability](http://highscalability.com/) - Building bigger, faster, more reliable websites
 * [High Scalability](http://highscalability.com/all-time-favorites/) - Here are some of the favorite posts on HighScalability...
 * [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
+* [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/03/14/big-data-technology-and-the-responsibility-shift/) - (2015) NoSQL and the responsibility shift | about data quality
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -449,8 +450,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Marcus Blankenship](https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e) - (2017) Why your programmers just want to code
 * [John Cutler](https://hackernoon.com/yes-but-43a03e52ff38) - (2018) Yes, But…
 * [Juliet Lara](https://hackernoon.com/youre-doing-stories-wrong-bfd8623977c7) - (2018) You’re doing Stories wrong!
-* [denshade](https://softwareefficiency.wordpress.com/2017/11/12/solving-complex-problems-using-a-problem-map/) - (2017) Solving complex problems using a problem-solution mind map
-* [denshade](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
+* [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2017/11/12/solving-complex-problems-using-a-problem-map/) - (2017) Solving complex problems using a problem-solution mind map
+* [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1475,6 +1476,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 * [Paul Myers](http://researchclinic.net/facebooksecrets/) - Facebook Secrets
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
+* [pipl](https://pipl.com/) - search over billions people by name, username, phone, location
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1597,6 +1599,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [User Agent String.Com](http://www.useragentstring.com/index.php) - User Agent String explained : Copy/paste any user agent string in this field and click 'Analyze'
 * [Free Online EPUB Converter](https://www.sendepubtokindle.com/) - The easiest way to send EPUBs to your Kindle!
 * [repl.it](https://repl.it/) - Online REPL, Compiler & IDE : Boot up a programming environment for your favorite language | including JavaScript, Python, Ruby, Java, Node.js, Go, Scheme, C, C#, C++, Lua and many more.
+* [pipl](https://pipl.com/) - search over billions people by name, username, phone, location
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2390,6 +2393,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Georg Szalai](https://www.hollywoodreporter.com/news/google-chairman-eric-schmidt-internet-765989) - (2015) Google Chairman Eric Schmidt: "The Internet Will Disappear"
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 * [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
+* [pipl](https://pipl.com/) - search over billions people by name, username, phone, location
 
 # Productivity
 > Tips
@@ -2818,6 +2822,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/03/15/stagnating-job/) - (2016) Stagnating at your programming job? Don’t quit just yet!
 * [Marcus Blankenship](https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e) - (2017) Why your programmers just want to code
 * [Shaun Finglas](https://blog.shaunfinglas.co.uk/2016/08/why-you-should-do-code-katas.html) - (2016) Why You Should Do Code Katas
+* [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/09/20/measuring-programmer-competency/) - (2015) Measuring programmer competency
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2981,7 +2986,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/11/07/no-such-thing-as-bad-code/) - (2017) There’s no such thing as bad code
 * [Shaun Finglas](https://blog.shaunfinglas.co.uk/2015/09/waste-write-less-code.html) - (2015) Waste: Write Less Code
 * [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
-* [denshade](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
+* [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
 
 ## Conferences 
 > In Belgium
@@ -3016,13 +3021,14 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Geoff Wozniak](http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql)  - (2014) What ORMs have taught me: just learn SQL
 * [Matt Butcher](https://dzone.com/articles/nosql-no-more) - (2014) NoSQL No More / NoSQL is not a silver bullet 
 * [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
-* [jOOQ Blog](https://blog.jooq.org/2017/01/12/a-probably-incomplete-comprehensive-guide-to-the-many-different-ways-to-join-tables-in-sql/) - (2017) A Probably Incomplete, Comprehensive Guide to the Many Different Ways to JOIN Tables in SQL
-* [jOOQ Blog](https://blog.jooq.org/2017/09/28/10-cool-sql-optimisations-that-do-not-depend-on-the-cost-model/) - (2017) 10 Cool SQL Optimisations That do not Depend on the Cost Model
+* [Lukas Eder](https://blog.jooq.org/2017/01/12/a-probably-incomplete-comprehensive-guide-to-the-many-different-ways-to-join-tables-in-sql/) - (2017) A Probably Incomplete, Comprehensive Guide to the Many Different Ways to JOIN Tables in SQL
+* [Lukas Eder](https://blog.jooq.org/2017/09/28/10-cool-sql-optimisations-that-do-not-depend-on-the-cost-model/) - (2017) 10 Cool SQL Optimisations That do not Depend on the Cost Model
 * [oravirt/ansible-oracle-modules](https://github.com/oravirt/ansible-oracle-modules) - Oracle modules for Ansible
 * [python-cx_Oracle](https://oracle.github.io/python-cx_Oracle/) - cx_Oracle - Python Interface for Oracle Database
 * [Clément Delafargue](https://www.clever-cloud.com/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/) - (2015) Why Auto Increment Is A Terrible Idea | interesting debate in the comments
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 * [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
+* [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/03/14/big-data-technology-and-the-responsibility-shift/) - (2015) NoSQL and the responsibility shift | about data quality
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - How to Debug C Program using gdb in 6 Simple Steps
@@ -3527,6 +3533,7 @@ Raw
 * [Gregg Caines](http://caines.ca/blog/2017/04/09/the-all-or-nothing-principle/) - (2017) The All-or-Nothing Principle
 * [John Cutler](https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480) - (2018) We Can’t Do That In One Sprint
 * [Shaun Finglas](https://blog.shaunfinglas.co.uk/2015/09/waste-write-less-code.html) - (2015) Waste: Write Less Code
+* [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/02/10/fail-fast-spend-less-time-in-root-cause-analysis/) - (2015) Fail fast, spend less time in root cause analysis
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -4166,6 +4173,7 @@ Raw
 * [Sarah Mei](https://www.devmynd.com/blog/five-factor-testing/) - Five Factor Testing
 * [Christiaan Verwijs](https://blog.agilistic.nl/7-powerful-ways-to-get-feedback-from-users-in-scrum/) - 7 Powerful Ways To Get Feedback From Users (In Scrum)
 * [Scott Vokes](https://spin.atomicobject.com/2014/09/16/property-based-testing/) - (2014) Property-Based Testing | Testing Assumptions You Don’t Know You’re Making
+* [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/02/10/fail-fast-spend-less-time-in-root-cause-analysis/) - (2015) Fail fast, spend less time in root cause analysis
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
