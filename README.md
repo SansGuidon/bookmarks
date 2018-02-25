@@ -184,6 +184,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 * [High Scalability](http://highscalability.com/) - Building bigger, faster, more reliable websites
 * [High Scalability](http://highscalability.com/all-time-favorites/) - Here are some of the favorite posts on HighScalability...
+* [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -445,6 +446,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/12/08/how-not-to-get-stuck/) - (2016) Don’t get stuck: 6 ways to get unstuck and code faster
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/25/the-01x-programmer/) - (2016) From 10x programmer to 0.1x programmer: creating more with less
 * [Gregg Caines](http://caines.ca/blog/2015/06/14/were-in-the-stone-age-of-software-engineering-management/) - (2015) We're in the Stone Age of Software Engineering Management
+* [Marcus Blankenship](https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e) - (2017) Why your programmers just want to code
+* [John Cutler](https://hackernoon.com/yes-but-43a03e52ff38) - (2018) Yes, But…
+* [Juliet Lara](https://hackernoon.com/youre-doing-stories-wrong-bfd8623977c7) - (2018) You’re doing Stories wrong!
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2469,6 +2473,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Yan-David Erlich](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - [Slides] (2017) Six page cheat-sheet for the book [Never Split the Difference, by Chris Voss](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
 * [Daniel Markovitz](https://hbr.org/2012/01/to-do-lists-dont-work) - (2012) To-Do Lists Don’t Work
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
+* [John Cutler](https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a) - (2017) Work Smaller (Even If It Makes No Sense)
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2809,6 +2814,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/01/11/your-job-is-not-your-life/) - (2017) Staying competitive as a developer
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/) - (2016) Work/life balance will make you a better software engineer
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/03/15/stagnating-job/) - (2016) Stagnating at your programming job? Don’t quit just yet!
+* [Marcus Blankenship](https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e) - (2017) Why your programmers just want to code
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2970,6 +2976,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Brian Vanderwal](https://spin.atomicobject.com/2017/03/07/attitudes-maintainable-code/) - (2017) Three Attitudes that Lead to Maintainable Code
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/25/the-01x-programmer/) - (2016) From 10x programmer to 0.1x programmer: creating more with less
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/11/07/no-such-thing-as-bad-code/) - (2017) There’s no such thing as bad code
+* [Shaun Finglas](https://blog.shaunfinglas.co.uk/2015/09/waste-write-less-code.html) - (2015) Waste: Write Less Code
+* [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
 
 ## Conferences 
 > In Belgium
@@ -3513,6 +3521,8 @@ Raw
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/12/08/how-not-to-get-stuck/) - (2016) Don’t get stuck: 6 ways to get unstuck and code faster
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/25/the-01x-programmer/) - (2016) From 10x programmer to 0.1x programmer: creating more with less
 * [Gregg Caines](http://caines.ca/blog/2017/04/09/the-all-or-nothing-principle/) - (2017) The All-or-Nothing Principle
+* [John Cutler](https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480) - (2018) We Can’t Do That In One Sprint
+* [Shaun Finglas](https://blog.shaunfinglas.co.uk/2015/09/waste-write-less-code.html) - (2015) Waste: Write Less Code
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -4212,6 +4222,7 @@ Raw
 * [Laura klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
 * [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
 * [Christiaan Verwijs](https://blog.agilistic.nl/7-powerful-ways-to-get-feedback-from-users-in-scrum/) - 7 Powerful Ways To Get Feedback From Users (In Scrum)
+* [John Cutler](https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480) - (2018) We Can’t Do That In One Sprint
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
