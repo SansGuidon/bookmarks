@@ -450,6 +450,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John Cutler](https://hackernoon.com/yes-but-43a03e52ff38) - (2018) Yes, But…
 * [Juliet Lara](https://hackernoon.com/youre-doing-stories-wrong-bfd8623977c7) - (2018) You’re doing Stories wrong!
 * [denshade](https://softwareefficiency.wordpress.com/2017/11/12/solving-complex-problems-using-a-problem-map/) - (2017) Solving complex problems using a problem-solution mind map
+* [denshade](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2980,6 +2981,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/11/07/no-such-thing-as-bad-code/) - (2017) There’s no such thing as bad code
 * [Shaun Finglas](https://blog.shaunfinglas.co.uk/2015/09/waste-write-less-code.html) - (2015) Waste: Write Less Code
 * [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
+* [denshade](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
 
 ## Conferences 
 > In Belgium
