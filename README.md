@@ -449,6 +449,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Marcus Blankenship](https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e) - (2017) Why your programmers just want to code
 * [John Cutler](https://hackernoon.com/yes-but-43a03e52ff38) - (2018) Yes, But…
 * [Juliet Lara](https://hackernoon.com/youre-doing-stories-wrong-bfd8623977c7) - (2018) You’re doing Stories wrong!
+* [denshade](https://softwareefficiency.wordpress.com/2017/11/12/solving-complex-problems-using-a-problem-map/) - (2017) Solving complex problems using a problem-solution mind map
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
