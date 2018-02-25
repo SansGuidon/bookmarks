@@ -119,6 +119,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
 
 # Architecture / Design / Patterns
+> News
+* [High Scalability](http://highscalability.com/) - Building bigger, faster, more reliable websites
+
+> Learn
 * [David Alia](http://blog.octo.com/design-for-failure/) - [FR] :fr: Les Patterns des Grands du Web – Design for failure
 * [Mathieu Poignant](http://blog.octo.com/zero-downtime-deployment/) - [FR] :fr: Les Patterns des Géants du Web – Zero Downtime Deployment
 * [Benoit Lafontaine](http://blog.octo.com/continuous-deployment/) - [FR] :fr: Les Patterns des Grands du Web – Continuous Deployment
@@ -746,7 +750,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Coda Hale](https://codahale.com/risky-business-requires-active-operators/) - (2017) Risky Business Requires Active Operators | about the risks of automation in order to successfully and safely wield its power.
 * [Dan McKinley](https://blog.skyliner.io/no-way-out-but-through-1db41c648697) - (2016) No Way Out But Through | how Skyliner deploys applications and why they built it like that
 * [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
-* [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
+* :star: [**Paul Hammond**](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
 * [Theo Schlossnagle](https://omniti.com/seeds/online-application-deployment-reducing-risk) - (2010) Online Application Deployment: Reducing Risk
 * [Sasha Friedenberg](https://codeascraft.com/2017/05/15/how-etsy-ships-apps/) - (2017) How Etsy Ships Apps
 * :star: [**Gregg Caines**](http://caines.ca/blog/2015/01/29/continuous-testing/) - (2015) Continuous Testing
@@ -2212,7 +2216,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matt Watson](https://stackify.com/supporting-production-applications-devops-way/) - (2014) Supporting Production Applications the DevOps Way
 * [Coda Hale](https://codahale.com/risky-business-requires-active-operators/) - (2017) Risky Business Requires Active Operators | about the risks of automation in order to successfully and safely wield its power.
 * [Dan McKinley](https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9) - (2017) You Can’t Have a Rollback Button | The internet is a big truck. It’s really hard to drive it backwards.
-* [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
+* :star: [**Paul Hammond**](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
 * [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 * [Mike Loukides](https://www.oreilly.com/ideas/the-evolution-of-devops) - (2017) The evolution of DevOps
@@ -2857,7 +2861,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christopher Diggins](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) - The Principles of Good Programming
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
-* [Andrew Yurisich/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code
+* :star: [**Andrew Yurisich/unmaintainable-code**](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code. **Bonus** : [Original article by Roedy Green / Canadian Minds](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
+
 * [Salvatore Gentile/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
 * [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) 
 * [mcandre/linters](https://github.com/mcandre/linters) - list of linters and introduction to static code analysis
@@ -3195,7 +3200,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Safia Abdalla](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases) - (2018) Tips for reading new codebases
 * [Egwuenu Gift](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503) - (2018) Useful Tips for writing better Git commit messages
 * [Kenichi Shibata](https://kenichishibata.net/git-push-and-pull-tips-and-tricks-7f9163539f02) - (2017) Git Push and Pull Tips and Tricks
-* [Paul Hammond](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
+* :star: [**Paul Hammond**](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
 * [Ross Harmes](http://code.flickr.net/2009/12/02/flipping-out/) - (2009) Flipping Out | Flickr on feature flags
 * [Lemi Orhan Ergin](https://www.slideshare.net/lemiorhan/git-antipatterns-how-to-mess-up-with-git-and-love-it-again) - (2018) [Slides] Git Anti-Patterns: How To Mess Up With Git and Love it Again. **Bonus** : [Video](https://www.youtube.com/watch?v=J_JYrAjX05Y)
 * [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) - (2010) A successful Git branching model
@@ -3593,6 +3598,7 @@ Raw
 * [Sarah Cooper](https://thecooperreview.com/how-to-be-seen-as-an-expert-in-artificial-intelligence/) - How to Be Seen as an Expert in Artificial Intelligence
 * [hightower/nocode](https://github.com/kelseyhightower/nocode) - No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 * [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
+* :star: [**Andrew Yurisich/unmaintainable-code**](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code. **Bonus** : [Original article by Roedy Green / Canadian Minds](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
