@@ -452,6 +452,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Juliet Lara](https://hackernoon.com/youre-doing-stories-wrong-bfd8623977c7) - (2018) You’re doing Stories wrong!
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2017/11/12/solving-complex-problems-using-a-problem-map/) - (2017) Solving complex problems using a problem-solution mind map
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
+* [Jakub Holý](https://theholyjava.wordpress.com/2016/03/06/it-is-ok-to-requie-your-team-mates-to-have-particular-domaintechnical-knowledge/) - (2016) It Is OK to Require Your Team-mates to Have Particular Domain/Technical Knowledge
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2823,6 +2824,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Marcus Blankenship](https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e) - (2017) Why your programmers just want to code
 * [Shaun Finglas](https://blog.shaunfinglas.co.uk/2016/08/why-you-should-do-code-katas.html) - (2016) Why You Should Do Code Katas
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/09/20/measuring-programmer-competency/) - (2015) Measuring programmer competency
+* [Jakub Holý](https://theholyjava.wordpress.com/2016/03/06/it-is-ok-to-requie-your-team-mates-to-have-particular-domaintechnical-knowledge/) - (2016) It Is OK to Require Your Team-mates to Have Particular Domain/Technical Knowledge
+* [Jakub Holý](https://theholyjava.wordpress.com/2016/03/04/dont-add-unnecessary-checks-to-your-code-pretty-please/) - (2016) Don’t add unnecessary checks to your code, pretty please!
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4174,6 +4177,7 @@ Raw
 * [Christiaan Verwijs](https://blog.agilistic.nl/7-powerful-ways-to-get-feedback-from-users-in-scrum/) - 7 Powerful Ways To Get Feedback From Users (In Scrum)
 * [Scott Vokes](https://spin.atomicobject.com/2014/09/16/property-based-testing/) - (2014) Property-Based Testing | Testing Assumptions You Don’t Know You’re Making
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/02/10/fail-fast-spend-less-time-in-root-cause-analysis/) - (2015) Fail fast, spend less time in root cause analysis
+* [Jakub Holý](https://theholyjava.wordpress.com/2016/03/04/dont-add-unnecessary-checks-to-your-code-pretty-please/) - (2016) Don’t add unnecessary checks to your code, pretty please!
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
