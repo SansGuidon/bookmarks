@@ -2815,6 +2815,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/) - (2016) Work/life balance will make you a better software engineer
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/03/15/stagnating-job/) - (2016) Stagnating at your programming job? Don’t quit just yet!
 * [Marcus Blankenship](https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e) - (2017) Why your programmers just want to code
+* [Shaun Finglas](https://blog.shaunfinglas.co.uk/2016/08/why-you-should-do-code-katas.html) - (2016) Why You Should Do Code Katas
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
