@@ -461,6 +461,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
 * [Julia Evans](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/) - (2018) Working remotely, 4 years in
 * [Robert Ecker](https://team-coder.com/boosting-the-quality-of-team-decisions/) - (2015) Boosting the Quality of Team Decisions | pros and cons of voting, consensus and strong leadership
+* [Arlo Belshee](http://arlobelshee.com/is-pair-programming-for-me/) - (2012) Is Pair Programming for Me?
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -885,6 +886,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
 * [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
 * [Nathen Harvey](https://www.slideshare.net/nathenharvey/effective-testing-with-ansible-and-inspec) - (2018) Effective Testing with Ansible and InSpec
+* [Jakub Holý](https://theholyjava.wordpress.com/2014/03/17/frustration-driven-development-towards-devops-lean-clojure/) - (2014) Frustration-Driven Development – Towards DevOps, Lean, Clojure
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -2611,6 +2613,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring Blog](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
 * [Simple Programmer](https://simpleprogrammer.com/) - Robert Whitcomb's Blog about soft skills + health & work-life balance for programmers
 * [programming is terrible](https://programmingisterrible.com/) - Blog of Thomas Figg (tef) | lessons learned from a life wasted
+* [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -2850,6 +2853,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Thomas Figg (tef)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) - (2016) Write code that is easy to delete, not easy to extend.
 * [Ashton Kemerling](http://ashtonkemerling.com/blog/2014/06/09/the-swordsman-and-the-software-engineer/) - (2014) The Swordsman and the Software Engineer | It’s easy to believe that specializing and focusing will make you better than your peers
 * [Ashton Kemerling](http://ashtonkemerling.com/blog/2014/03/24/disdain/) - (2014) Disdain | the accomplished engineer knows that completing a task is not about the number of hours spent, but the quality
+* [Andrew Hunt and David Thomas](https://pragprog.com/the-pragmatic-programmer/extracts/coincidence) - (1999) Programming by Coincidence | Don’t Program by Coincidence. Extract from The Pragmatic Programmer book
+* [Jakub Holy](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2888,6 +2893,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 ## Clean code
 > News
 * :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
+* [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
 
 > Learn
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
@@ -3015,6 +3021,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
 * [Thomas Figg (tef)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) - (2016) Write code that is easy to delete, not easy to extend.
+* [Jakub Holý](https://theholyjava.wordpress.com/2011/02/14/clean-code-four-simple-design-rules/) - (2011) Clean Code: Four Simple Design Rules – Obligatory Read
+* [Dimitris Staikos](http://www.commonsense4commonpeople.net/2008/11/the-code-is-the-documentation.html) - (2008) The code is THE documentation | why the code is not the documentation 
+* [Jakub Holy](https://theholyjava.wordpress.com/code-quality/) - Code (And Design) Quality And Why Should We Care
+* [Jakub Holy](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
 
 ## Conferences 
 > In Belgium
@@ -3320,8 +3330,12 @@ Raw
 * [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell 
 
 ## Java
+> News
 * [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers 
 * [Java mon amour](http://www.javamonamour.org/) - Blog about Java, Weblogic, OSB, Linux etc
+* [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
+
+> Learn
 * [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
 * [John Hanley](http://www.javapractices.com/home/HomeAction.do) - Collected Java Practices
 * [Nick Parlante](http://codingbat.com/java) - CodingBat : practice your java skills
