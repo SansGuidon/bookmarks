@@ -432,7 +432,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan Milstein](https://www.slideshare.net/danmil30/how-to-run-a-5-whys-with-humans-not-robots/34-ThanksDan_Milsteindanmil) - [Slides] (2012) How To Run a 5 Whys (With Humans, Not Robots)
 * [DATAGUEULE](https://www.youtube.com/watch?v=NWGwItMvOYE) - :fr: [FR] [Video] (2018) La démocratie comme patron - #DATAGUEULE 79
 * [Zach Holman](https://zachholman.com/posts/opt-in-transparency/) - (2015) Opt-in Transparency | your employees need context
-* [Fagner Brack](https://medium.com/@fagnerbrack/pair-programming-8cfbf2dc4d00) - (2016) Pair Programming | A technique that **if done correctly** has the potential for delivering software faster with lower cost
+* [Fagner Martins Brack (fagnerbrack)](https://medium.com/@fagnerbrack/pair-programming-8cfbf2dc4d00) - (2016) Pair Programming | A technique that **if done correctly** has the potential for delivering software faster with lower cost
 * [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2974011) - (2016) Bad Software Architecture is a People Problem | When people don't work well together they make bad decisions.
 * [Kode Vicious](https://queue.acm.org/detail.cfm?id=1740550) - (2010) Broken Builds | Frequent broken builds could be symptomatic of deeper problems within a development project.
 * [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2926696) - (2016) Delegation as Art | Be someone who makes everyone else better.
@@ -670,7 +670,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops) - DevOps Checklist
 * :star: [**Aymen El Amri**](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - The 15-point DevOps Check List
 * [Steve Pereira](http://devopschecklist.com/) - The DevOps Checklist
-* [fagnerbrack](https://imgur.com/gallery/SWDy6) - [IMG] The Periodic Table Of Software Engineering
+* [Fagner Martins Brack (fagnerbrack)](https://imgur.com/gallery/SWDy6) - [IMG] The Periodic Table Of Software Engineering
 * [John Allspaw](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr/49-httpwwwickrcomphotoschrisdag2286198568_Respect_other_peoples_expertise) - (2009) [Slides] 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr
 * [Patrick Debois](https://fr.slideshare.net/jedi4ever/devops-the-war-is-over-if-you-want-it/108-Systems_ThinkingOptimize_the_whole_notjust) - (2010) [Slides] Devops: The War is over - If you want it
 * [Ian Miell](https://zwischenzugs.com/2017/10/23/a-checklist-for-docker-in-the-enterprise-updated/) - A Checklist for Docker in the Enterprise (Updated)
@@ -1477,7 +1477,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 * [Paul Myers](http://researchclinic.net/facebooksecrets/) - Facebook Secrets
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
-* [pipl](https://pipl.com/) - search over billions people by name, username, phone, location
+* :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1600,7 +1600,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [User Agent String.Com](http://www.useragentstring.com/index.php) - User Agent String explained : Copy/paste any user agent string in this field and click 'Analyze'
 * [Free Online EPUB Converter](https://www.sendepubtokindle.com/) - The easiest way to send EPUBs to your Kindle!
 * [repl.it](https://repl.it/) - Online REPL, Compiler & IDE : Boot up a programming environment for your favorite language | including JavaScript, Python, Ruby, Java, Node.js, Go, Scheme, C, C#, C++, Lua and many more.
-* [pipl](https://pipl.com/) - search over billions people by name, username, phone, location
+* :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2394,7 +2394,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Georg Szalai](https://www.hollywoodreporter.com/news/google-chairman-eric-schmidt-internet-765989) - (2015) Google Chairman Eric Schmidt: "The Internet Will Disappear"
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 * [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
-* [pipl](https://pipl.com/) - search over billions people by name, username, phone, location
+* :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
 
 # Productivity
 > Tips
@@ -2750,7 +2750,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss | **Bonus** [Website](http://paperswelove.org/) - repository of academic computer science papers and a community who loves reading them.
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
-* [Fagner Brack](https://medium.com/@fagnerbrack/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac) - (2017) Why Developers Become Frustrated And Companies Can’t Find Talent
+* [Fagner Martins Brack (fagnerbrack)](https://medium.com/@fagnerbrack/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac) - (2017) Why Developers Become Frustrated And Companies Can’t Find Talent
 * [Kim Hirokuni](http://kimh.github.io/blog/being-backend-engineer/) - (2017) Backend Engineer Principles
 * [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
 * [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
@@ -2768,7 +2768,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kevin London](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) - (2015) Code Review Best Practices
 * [Kevin London](https://www.kevinlondon.com/2015/09/10/10-software-talks-to-listen-to.html) - (2015) 10 Software Talks to Listen to on Your Way to Work
 * [MyBroadband](https://mybroadband.co.za/news/smartphones/246583-how-programmers-learn-to-code.html) - (2018) How programmers learn to code | What programmers want
-* [Fagner Brack](https://hackernoon.com/the-angry-programmer-52a93bfcbc3c) - (2016) The Angry Programmer | How an engineer can be competent and incompetent at the same time
+* [Fagner Martins Brack (fagnerbrack)](https://hackernoon.com/the-angry-programmer-52a93bfcbc3c) - (2016) The Angry Programmer | How an engineer can be competent and incompetent at the same time
 * [Devoxx Belgium](https://devoxx.be/2017/11/the-top-100-rated-devoxx-belgium-2017-talks/) - The Top-100 rated Devoxx Belgium 2017 talks
 * [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary 
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
@@ -2826,6 +2826,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/09/20/measuring-programmer-competency/) - (2015) Measuring programmer competency
 * [Jakub Holý](https://theholyjava.wordpress.com/2016/03/06/it-is-ok-to-requie-your-team-mates-to-have-particular-domaintechnical-knowledge/) - (2016) It Is OK to Require Your Team-mates to Have Particular Domain/Technical Knowledge
 * [Jakub Holý](https://theholyjava.wordpress.com/2016/03/04/dont-add-unnecessary-checks-to-your-code-pretty-please/) - (2016) Don’t add unnecessary checks to your code, pretty please!
+* [Thomas Figg (tef)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) - (2016) Write code that is easy to delete, not easy to extend.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2990,6 +2991,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Shaun Finglas](https://blog.shaunfinglas.co.uk/2015/09/waste-write-less-code.html) - (2015) Waste: Write Less Code
 * [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
+* [Thomas Figg (tef)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) - (2016) Write code that is easy to delete, not easy to extend.
 
 ## Conferences 
 > In Belgium
