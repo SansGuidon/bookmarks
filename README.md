@@ -287,6 +287,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
 * [Jim Bird](http://swreflections.blogspot.be/2015/07/dont-blame-bad-software-on-developers.html) - (2015) Don’t Blame Bad Software on Developers – Blame it on their Managers
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/08/living-below-your-means/) - (2016) Why living below your means can help you find a better job
+* [John Cutler](https://hackernoon.com/faster-faster-faster-231c7b3d088d) - (2017) Faster. Faster. Faster.
 
 ## Cryptocurrency
 > News
@@ -296,6 +297,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [WorldCoinIndex](https://www.worldcoinindex.com/) - Cryptocoin price index and market cap
 * [Hacker Noon](https://hackernoon.com/bitcoin/home) - Bitcoin related news
 * [99cryptocoin](https://www.99cryptocoin.com/) - Top CryptoCurrency by 24 Hour Trading Volume
+* [Ashton Kemerling](http://ashtonkemerling.com/blog/2018/02/21/no-you-probably-dont-need-a-blockchain/) - (2018) No, You Probably Don't Need a Blockchain | On Bitcoins and Blockchains
 
 > Learn
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
@@ -453,6 +455,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2017/11/12/solving-complex-problems-using-a-problem-map/) - (2017) Solving complex problems using a problem-solution mind map
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
 * [Jakub Holý](https://theholyjava.wordpress.com/2016/03/06/it-is-ok-to-requie-your-team-mates-to-have-particular-domaintechnical-knowledge/) - (2016) It Is OK to Require Your Team-mates to Have Particular Domain/Technical Knowledge
+* [Farnam Street](https://www.fs.blog/2017/08/amateurs-professionals/) - (2017) The Difference Between Amateurs and Professionals
+* [Ashton Kemerling](http://ashtonkemerling.com/blog/2014/01/14/managing-is-a-craft-too/) - (2014) Managing Is a Craft Too
+* [Ashton Kemerling](http://ashtonkemerling.com/blog/2012/11/22/the-myth-of-the-lone-hacker/) - (2012) The Myth of the Lone Hacker | without the effort of countless other engineers, part and full time, their projects would have never made it off the ground.
+* [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
+* [Julia Evans](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/) - (2018) Working remotely, 4 years in
+* [Robert Ecker](https://team-coder.com/boosting-the-quality-of-team-decisions/) - (2015) Boosting the Quality of Team Decisions | pros and cons of voting, consensus and strong leadership
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1108,7 +1116,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bridget Kromhout](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
 * [James Turnbull](https://increment.com/development/an-introduction-to-local-development-with-containers/) - (2017) An introduction to local development with containers
 * [Jérôme Petazzoni](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go/33-Error_handling_can_be_verboseif) - [Slides] (2013) Docker and Go: why did we decide to write Docker in Go?
-
+* [Venkatesan Murugan](https://dzone.com/articles/top-10-benefits-you-will-get-by-using-docker) - (2018) Top 10 Benefits You Will Get by Using Docker
+ 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
@@ -1746,6 +1755,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [WFH-excuses](https://us-central1-wfh-excuses-gh.cloudfunctions.net/wfh) - Working from Home excuses generator. **Bonus** : [GitHub repo](https://github.com/lnfnunes/WFH-excuses)
 * [Antonio Bello](https://www.raywenderlich.com/114368/staying-motivated-work-home-developer) - (2015) Staying Motivated as a Work From Home Developer
 * [Nathalie Marquez Courtney](https://increment.com/development/home-is-where-the-work-is/) - (2017) Home is where the work is | Flexible. Freeing. Lonely. Three remote engineers share what it’s really like to work from afar.
+* [Julia Evans](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/) - (2018) Working remotely, 4 years in
 
 # Hobbies
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -2127,7 +2137,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
 * [HNfavorites](http://www.hnfavorites.com/) - HNfavorites – Explore the hacker news community's favorite content
 * :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
-* [Lobsters](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
+* :star: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 * :star: [**Le Gorafi**](http://www.legorafi.fr/) - [FR] :fr: news satire
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
@@ -2329,6 +2339,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Real News](http://www.realnews24.com/socrates-was-one-of-the-smartest-people-who-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read/) - some Socrates quotes worth the reading
 * [Daniel Miessler](https://danielmiessler.com/blog/is-it-wrong-to-have-children/) - Is It Wrong to Have Children? 
 * [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] :fr: Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
+* [Farnam Street](https://www.fs.blog/2014/09/mistakes/) - (2014) Mistakes — It’s not the Failures that Define us so Much as How We Respond to Them
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -2484,6 +2495,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Markovitz](https://hbr.org/2012/01/to-do-lists-dont-work) - (2012) To-Do Lists Don’t Work
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 * [John Cutler](https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a) - (2017) Work Smaller (Even If It Makes No Sense)
+* [Busten Benson](https://www.fs.blog/2014/10/an-antifragile-way-of-life/) - (2014) 10 Principles to Live an Antifragile Life
+* [Daniel Walsh](https://medium.com/@daniel.walsh/ten-metrics-you-may-have-overlooked-8a9c22f218bb) - (2018) Ten Overlooked Metrics
+* [John Cutler](https://hackernoon.com/faster-faster-faster-231c7b3d088d) - (2017) Faster. Faster. Faster.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2513,6 +2527,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Gregg Caines**](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - (2014) In Defence of the Office
 * [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
 * [Matt Cutts](http://highscalability.com/blog/2015/2/4/matt-cutts-10-lessons-learned-from-the-early-days-of-google.html) - (2015) Matt Cutts: 10 Lessons Learned From The Early Days Of Google
+* [Farnam Street](https://www.fs.blog/2017/08/amateurs-professionals/) - (2017) The Difference Between Amateurs and Professionals
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -2833,6 +2848,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jakub Holý](https://theholyjava.wordpress.com/2016/03/06/it-is-ok-to-requie-your-team-mates-to-have-particular-domaintechnical-knowledge/) - (2016) It Is OK to Require Your Team-mates to Have Particular Domain/Technical Knowledge
 * [Jakub Holý](https://theholyjava.wordpress.com/2016/03/04/dont-add-unnecessary-checks-to-your-code-pretty-please/) - (2016) Don’t add unnecessary checks to your code, pretty please!
 * [Thomas Figg (tef)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) - (2016) Write code that is easy to delete, not easy to extend.
+* [Ashton Kemerling](http://ashtonkemerling.com/blog/2014/06/09/the-swordsman-and-the-software-engineer/) - (2014) The Swordsman and the Software Engineer | It’s easy to believe that specializing and focusing will make you better than your peers
+* [Ashton Kemerling](http://ashtonkemerling.com/blog/2014/03/24/disdain/) - (2014) Disdain | the accomplished engineer knows that completing a task is not about the number of hours spent, but the quality
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3069,6 +3086,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
 * [Brian Vanderwal](https://spin.atomicobject.com/2017/11/28/less-time-debugging/) - (2017) Six Strategies to Spend Less Time Debugging
 * [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
+* [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
 
 ## Erlang
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
@@ -3283,6 +3301,7 @@ Raw
 * [Kyle Quest](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) - 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
 * [Laura Frank](https://blog.codeship.com/an-intro-to-concurrency-patterns-in-go/) - (2017) An Intro to Concurrency Patterns in Go
 * [Jérôme Petazzoni](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go/33-Error_handling_can_be_verboseif) - [Slides] (2013) Docker and Go: why did we decide to write Docker in Go?
+* [Peter Bourgon](http://peter.bourgon.org/go-in-production/) - (2016) Go: Best Practices for Production Environments. **Bonus** : [Slides](https://github.com/gophercon/2014-talks) and [Video](http://confreaks.com/videos/3434-gophercon2014-best-practices-for-production-environments)
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -3545,6 +3564,10 @@ Raw
 * [John Cutler](https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480) - (2018) We Can’t Do That In One Sprint
 * [Shaun Finglas](https://blog.shaunfinglas.co.uk/2015/09/waste-write-less-code.html) - (2015) Waste: Write Less Code
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/02/10/fail-fast-spend-less-time-in-root-cause-analysis/) - (2015) Fail fast, spend less time in root cause analysis
+* [Software Engineering Radio](http://www.se-radio.net/2018/02/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity/) - (2018) SE-Radio Episode 317: Travis Kimmel on Measuring Software Engineering Productivity
+* [Ashton Kemerling](http://ashtonkemerling.com/blog/2012/11/22/the-myth-of-the-lone-hacker/) - (2012) The Myth of the Lone Hacker | without the effort of countless other engineers, part and full time, their projects would have never made it off the ground.
+* [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
+* [Robert Ecker](https://dev.to/teamcoder/the-problem-with-high-test-coverage-4dh) - (2017) The Problem With High Test Coverage
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3704,6 +3727,7 @@ Raw
 * [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
 * [Users Known](https://www.usersknow.com/podcast) - Podcast on Product Design / UX | What Is Wrong with UX?
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
+* [Software Engineering Radio](http://www.se-radio.net/2018/02/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity/) - (2018) SE-Radio Episode 317: Travis Kimmel on Measuring Software Engineering Productivity
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
@@ -3749,6 +3773,7 @@ Raw
 * [Charles Chu](https://medium.com/the-polymath-project/our-clothes-can-change-who-we-are-dc89dbc1467c) - (2017) Our clothes can change who we are
 * [Yan-David Erlich](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - [Slides] (2017) Six page cheat-sheet for the book [Never Split the Difference, by Chris Voss](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
 * [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
+* [Farnam Street](https://www.fs.blog/2014/09/mistakes/) - (2014) Mistakes — It’s not the Failures that Define us so Much as How We Respond to Them
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -4187,6 +4212,7 @@ Raw
 * [Scott Vokes](https://spin.atomicobject.com/2014/09/16/property-based-testing/) - (2014) Property-Based Testing | Testing Assumptions You Don’t Know You’re Making
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/02/10/fail-fast-spend-less-time-in-root-cause-analysis/) - (2015) Fail fast, spend less time in root cause analysis
 * [Jakub Holý](https://theholyjava.wordpress.com/2016/03/04/dont-add-unnecessary-checks-to-your-code-pretty-please/) - (2016) Don’t add unnecessary checks to your code, pretty please!
+* [Robert Ecker](https://dev.to/teamcoder/the-problem-with-high-test-coverage-4dh) - (2017) The Problem With High Test Coverage
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
