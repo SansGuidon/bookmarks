@@ -2572,6 +2572,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
 * [Culture Codes](https://tettra.co/culture-codes/handbooks/) - Employee Handbox Examples | A collection of company handbooks, employee manuals, and more from real companies.
 * [GSMArena.com](https://www.gsmarena.com/) - mobile phone reviews, news, specifications and more...
+* [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter
 
 # Programming
 > News
@@ -3630,6 +3631,7 @@ Raw
 * [hightower/nocode](https://github.com/kelseyhightower/nocode) - No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 * [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
 * :star: [**Andrew Yurisich/unmaintainable-code**](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code. **Bonus** : [Original article by Roedy Green / Canadian Minds](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
+* [Thomas Figg (tef)](https://programmingisterrible.com/post/65781074112/devils-dictionary-of-programming) - (2013) Devil’s Dictionary of Programming
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
