@@ -1478,6 +1478,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Myers](http://researchclinic.net/facebooksecrets/) - Facebook Secrets
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
 * :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
+* [GSMArena.com](https://www.gsmarena.com/) - mobile phone reviews, news, specifications and more...
+* [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2140,6 +2142,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [OSNews](http://www.osnews.com/) - explore the future of computing and about technology, OS, hardware, development, and other cool news
 * [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
 * [Jeffrey Ventrella's Blog](https://ventrellathing.wordpress.com/) - Nature -> Brain -> Technology | Things and Stuff
+* [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
 
 # Operations / IT OPS
 > News
@@ -2568,6 +2571,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jerome Kehrli](https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles) - (2017) Periodic Table of Agile Principles and Practices
 * [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
 * [Culture Codes](https://tettra.co/culture-codes/handbooks/) - Employee Handbox Examples | A collection of company handbooks, employee manuals, and more from real companies.
+* [GSMArena.com](https://www.gsmarena.com/) - mobile phone reviews, news, specifications and more...
 
 # Programming
 > News
