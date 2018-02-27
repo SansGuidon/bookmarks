@@ -3585,6 +3585,7 @@ Raw
 * [Ashton Kemerling](http://ashtonkemerling.com/blog/2012/11/22/the-myth-of-the-lone-hacker/) - (2012) The Myth of the Lone Hacker | without the effort of countless other engineers, part and full time, their projects would have never made it off the ground.
 * [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
 * [Robert Ecker](https://dev.to/teamcoder/the-problem-with-high-test-coverage-4dh) - (2017) The Problem With High Test Coverage
+* [Max Kanat-Alexander](https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/) - (2013) The Secret of Fast Programming: Stop Thinking
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
