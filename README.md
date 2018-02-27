@@ -2594,6 +2594,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
 * [Itamar Turner-Trauring Blog](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
 * [Simple Programmer](https://simpleprogrammer.com/) - Robert Whitcomb's Blog about soft skills + health & work-life balance for programmers
+* [programming is terrible](https://programmingisterrible.com/) - Blog of Thomas Figg (tef) | lessons learned from a life wasted
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
