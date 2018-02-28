@@ -1976,6 +1976,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Pradeep Kumar](https://www.linuxtechi.com/nc-ncat-command-examples-linux-systems/) - (2017) 10 useful ncat (nc) Command Examples for Linux Systems
 * [Alan Franzoni](https://www.franzoni.eu/chmod-and-the-capital-x/) - (2015) chmod and the capital X | This is one very, very, very interesting piece of ancient wisdom.
 * [Michael Kwaku Aboagye](https://opensource.com/article/18/1/securing-linux-filesystem-tripwire) - (2018) Securing the Linux filesystem with Tripwire
+* [Alpine Linux Wiki](https://wiki.alpinelinux.org/wiki/How_to_get_regular_stuff_working) - How to get regular stuff working | curl, man pages, compiling, disk mgmt, ...
 
 ## Emacs 
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
