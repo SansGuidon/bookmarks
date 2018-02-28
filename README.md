@@ -2048,6 +2048,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Praval Singh](http://praval.com/2015/10/your-mac-is-probably-eating-your-internet-bandwidth-look-for-nsurlsessiond/) - Your Mac is probably eating your Internet bandwidth (and you don’t know about it!). **Bonus** : other links on the subject : [1](https://paulromer.net/iot-nsurlsessiond-and-trust/) [2](https://ayteck.blogspot.be/2015/09/limited-bandwidth-apple-and-hell-caused.html) [3](https://discussions.apple.com/thread/6605949?tstart=0) [4](https://theblogmatic.wordpress.com/2015/11/26/solution-nsurlsessiond-taking-up-bandwidth-and-downloading-data-mac/)
 * [Wesley Moore](http://bitcannon.net/post/finding-an-alternative-to-mac-os-x/) - Finding an Alternative to Mac OS X
 * [Kevin Burke](https://kev.inburke.com/kevin/install-homebrew-go/) - Make your Go Binaries Homebrew Installable
+* [Rich Trouton](https://derflounder.wordpress.com/2014/02/16/managing-the-authorization-database-in-os-x-mavericks/) - (2014) Managing the Authorization Database in OS X Mavericks | and probably for later versions too
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - hdiutil Requires sudo for Read/Write
