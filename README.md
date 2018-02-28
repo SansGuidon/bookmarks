@@ -3587,6 +3587,7 @@ Raw
 * [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
 * [Robert Ecker](https://dev.to/teamcoder/the-problem-with-high-test-coverage-4dh) - (2017) The Problem With High Test Coverage
 * [Max Kanat-Alexander](https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/) - (2013) The Secret of Fast Programming: Stop Thinking
+* [Thomas Peham](https://usersnap.com/blog/faster-programming/) - (2016) How to be a faster programmer: 7 helpful tips for being faster & more successful.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
