@@ -2617,6 +2617,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Simple Programmer](https://simpleprogrammer.com/) - Robert Whitcomb's Blog about soft skills + health & work-life balance for programmers
 * [programming is terrible](https://programmingisterrible.com/) - Blog of Thomas Figg (tef) | lessons learned from a life wasted
 * [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
+* [Code Simplicity](https://www.codesimplicity.com/) - Max Kanat-Alexander's Blog. Code Simplicity focuses on the idea of simplicity: simple things, simple thoughts, and simple ideas that can make the world of computing a better place.
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
