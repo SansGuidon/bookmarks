@@ -257,6 +257,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
 * [Launch School](https://launchschool.com/books/) - Open Book Shelf for developers | some beginner friendly readings about programming, git, command line, etc
+* [Learn You Some Erlang](http://learnyousomeerlang.com/content) - Online book. Reading this tutorial should be one of your first steps in learning Erlang
 
 # Business & Economics
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
@@ -3112,6 +3113,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
 * [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hebert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [PropEr Testing](http://propertesting.com/) - Fred Hebert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
+* [Learn You Some Erlang](http://learnyousomeerlang.com/content) - [Book] Online book. Reading this tutorial should be one of your first steps in learning Erlang
 
 ## Gamedev
 > News & Communities
