@@ -2900,6 +2900,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kenneth Finnegan](http://ctips.pbworks.com/w/page/7277592/FrontPage) - (2008) Programming Tips in C
 * [Cprogramming.com](http://www.cprogramming.com/tips/) - C and C++ Programming Tips
 * [Phillip Khandeliants](https://www.viva64.com/en/b/0549/) - (2017) Speeding up the Build of C and C++ Projects
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Clean code
 > News
@@ -3118,6 +3119,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hebert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [PropEr Testing](http://propertesting.com/) - Fred Hebert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) - [Book] Online book. Reading this tutorial should be one of your first steps in learning Erlang
+* [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - list of amazingly awesome Elixir and Erlang libraries, resources and more  
+* [uhub/awesome-erlang](https://github.com/uhub/awesome-erlang) - list of awesome Erlang frameworks, libraries and software.
+* [drobakowski/awesome-erlang](https://github.com/drobakowski/awesome-erlang) - list of awesome Erlang libraries, resources and shiny things.
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Gamedev
 > News & Communities
@@ -3330,6 +3335,7 @@ Raw
 * [Laura Frank](https://blog.codeship.com/an-intro-to-concurrency-patterns-in-go/) - (2017) An Intro to Concurrency Patterns in Go
 * [Jérôme Petazzoni](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go/33-Error_handling_can_be_verboseif) - [Slides] (2013) Docker and Go: why did we decide to write Docker in Go?
 * [Peter Bourgon](http://peter.bourgon.org/go-in-production/) - (2016) Go: Best Practices for Production Environments. **Bonus** : [Slides](https://github.com/gophercon/2014-talks) and [Video](http://confreaks.com/videos/3434-gophercon2014-best-practices-for-production-environments)
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -3346,6 +3352,7 @@ Raw
 ## Haskell
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
 * [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell 
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Java
 > News
@@ -3379,6 +3386,7 @@ Raw
 * [Javin Paul](http://javarevisited.blogspot.be/2011/08/code-comments-java-best-practices.html) - (2011) 10 Best Practices to Follow while writing Code Comments
 * [Aleksey Shipilëv](https://shipilev.net/) - One Stop Page | interesting resources about Java (performance, benchmarks, memory, good/bad practices...)
 * [Lukas Eder](https://jaxenter.com/ten-subtle-best-practices-when-coding-java-108043.html) - (2014) Ten subtle best practices when coding Java
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
@@ -3420,10 +3428,12 @@ Raw
 * [bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - An Awesome list of Awesome lists related to Node.js.
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 * [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
 * [Alex Ott](http://alexott.net/en/fp/books/#sec12) - books review on Lisp 
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Machine Learning
 * [Jason Brownlee](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/) - Introduction to the Python Deep Learning Library TensorFlow
@@ -3716,6 +3726,7 @@ Raw
 * [Rob Harrigan](https://unsupervisedpandas.com/python/supervised-classification-preprocessing/) - (2017) Supervised Classification: An Introduction and Preprocessing
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/30/python-for-java-developers/) - (2016) Maintainable Python applications: a guide for skeptical Java developers
 * [Nick Humrich](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1) - (2017) Yes, Python is Slow, and I Don’t Care | A rant on sacrificing performance for productivity.
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
@@ -3735,6 +3746,7 @@ Raw
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
 * [Launch School](https://launchschool.com/books/ruby/read/introduction) - [Book] Open Book Shelf : Introduction to Programming with Ruby
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Rust
 * [New Rustacean](https://www.newrustacean.com/) - a podcast about learning Rust
@@ -3742,6 +3754,7 @@ Raw
 * [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 * [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
+* [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 # Podcasts
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
