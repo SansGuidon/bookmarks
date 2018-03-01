@@ -3110,6 +3110,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
 
 ## Erlang
+> News
+* [This Week In Erlang](https://gootik.github.io/this-week-in-erlang/) - Weekly review of things that happen in the Erlang world
+
+> Learn
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
 * [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hebert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [PropEr Testing](http://propertesting.com/) - Fred Hebert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
