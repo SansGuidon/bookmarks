@@ -3038,6 +3038,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dimitris Staikos](http://www.commonsense4commonpeople.net/2008/11/the-code-is-the-documentation.html) - (2008) The code is THE documentation | why the code is not the documentation 
 * [Jakub Holy](https://theholyjava.wordpress.com/code-quality/) - Code (And Design) Quality And Why Should We Care
 * [Jakub Holy](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
+* [Steven A. Lowe](https://techbeacon.com/program-faster-all-time-best-tips-pros) - Code faster: 53 tips from the pros
+> The only way to go fast is to go well. Every time you yield to the temptation to trade quality for speed, you slow down. Every time. [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
 
 ## Conferences 
 > In Belgium
@@ -3614,6 +3616,8 @@ Raw
 * [Max Kanat-Alexander](https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/) - (2013) The Secret of Fast Programming: Stop Thinking
 * [Thomas Peham](https://usersnap.com/blog/faster-programming/) - (2016) How to be a faster programmer: 7 helpful tips for being faster & more successful.
 * [Michael Lynch](https://mtlynch.io/why-i-quit-google/) - (2018) Why I Quit Google to Work for Myself
+* [Steven A. Lowe](https://techbeacon.com/program-faster-all-time-best-tips-pros) - Code faster: 53 tips from the pros
+> The only way to go fast is to go well. Every time you yield to the temptation to trade quality for speed, you slow down. Every time. [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
