@@ -1747,6 +1747,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/02/11/working-long-hours/) - (2018) The futile comfort of working long hours
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/06/21/why-company-want-long-hours/) - (2017) The bad reasons you’re forced to work long hours
 * [Shan](https://shansvex.wordpress.com/2015/09/06/things-i-hated-about-being-a-renter-for-15-years/) - (2015) Things I hated About Being a Renter for 15 years
+* [Michael Lynch](https://mtlynch.io/why-i-quit-google/) - (2018) Why I Quit Google to Work for Myself
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -3612,6 +3613,7 @@ Raw
 * [Robert Ecker](https://dev.to/teamcoder/the-problem-with-high-test-coverage-4dh) - (2017) The Problem With High Test Coverage
 * [Max Kanat-Alexander](https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/) - (2013) The Secret of Fast Programming: Stop Thinking
 * [Thomas Peham](https://usersnap.com/blog/faster-programming/) - (2016) How to be a faster programmer: 7 helpful tips for being faster & more successful.
+* [Michael Lynch](https://mtlynch.io/why-i-quit-google/) - (2018) Why I Quit Google to Work for Myself
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
