@@ -467,6 +467,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Arlo Belshee](http://arlobelshee.com/is-pair-programming-for-me/) - (2012) Is Pair Programming for Me?
 * [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 * [Oded Zilinsky](https://techbeacon.com/how-use-chatops-boost-business-engagement-across-teams) - (2018) How to use ChatOps to boost business engagement across teams | Go cross-silo with chatbots
+* [Software Engineering Tips](http://www.yacoset.com/Home/communication-tips) - (2010) Communication Tips
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1752,6 +1753,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/06/21/why-company-want-long-hours/) - (2017) The bad reasons you’re forced to work long hours
 * [Shan](https://shansvex.wordpress.com/2015/09/06/things-i-hated-about-being-a-renter-for-15-years/) - (2015) Things I hated About Being a Renter for 15 years
 * [Michael Lynch](https://mtlynch.io/why-i-quit-google/) - (2018) Why I Quit Google to Work for Myself
+* [Software Engineering Tips](http://www.yacoset.com/Home/so-you-ve-just-been-hired-by-an-it-department) - (2010) So you've just been hired by an IT department...
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2887,6 +2889,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [David Albert](https://www.recurse.com/blog/27-fundamental-qualities-of-good-programmers) - (2013) Fundamental qualities of good programmers
 * [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer) - (2012) Signs that you're a bad programmer
 * [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) - (2012) Signs that you're a good programmer
+* [Software Engineering Tips](http://www.yacoset.com/Home/so-you-ve-just-been-hired-by-an-it-department) - (2010) So you've just been hired by an IT department...
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3649,6 +3652,7 @@ Raw
 > The only way to go fast is to go well. Every time you yield to the temptation to trade quality for speed, you slow down. Every time. [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
 * [Christian Maioli M](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
 * [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
+* [Software Engineering Tips](http://www.yacoset.com/Home/communication-tips) - (2010) Communication Tips
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
