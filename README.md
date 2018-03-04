@@ -2890,6 +2890,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer) - (2012) Signs that you're a bad programmer
 * [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) - (2012) Signs that you're a good programmer
 * [Software Engineering Tips](http://www.yacoset.com/Home/so-you-ve-just-been-hired-by-an-it-department) - (2010) So you've just been hired by an IT department...
+* [Software Engineering Tips](http://www.yacoset.com/Home/programming-tips) - (2010) Programming Tips
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3071,6 +3072,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 * [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer) - (2012) Signs that you're a bad programmer
 * [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) - (2012) Signs that you're a good programmer
+* [Software Engineering Tips](http://www.yacoset.com/Home/programming-tips) - (2010) Programming Tips
 
 ## Conferences 
 > In Belgium
