@@ -2627,6 +2627,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [programming is terrible](https://programmingisterrible.com/) - Blog of Thomas Figg (tef) | lessons learned from a life wasted
 * [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
 * [Code Simplicity](https://www.codesimplicity.com/) - Max Kanat-Alexander's Blog. Code Simplicity focuses on the idea of simplicity: simple things, simple thoughts, and simple ideas that can make the world of computing a better place.
+* [The Changelog](https://changelog.com/podcast) - [Podcast] Conversations with the hackers, leaders, and innovators of open source.
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
@@ -3795,6 +3796,7 @@ Raw
 * [Software Engineering Radio](http://www.se-radio.net/2018/02/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity/) - (2018) SE-Radio Episode 317: Travis Kimmel on Measuring Software Engineering Productivity
 * [Functional Geekery](https://www.functionalgeekery.com/) - A podcast on Functional Programming, covering topics across multiple languages
 * [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hebert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
+* [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of open source.
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
