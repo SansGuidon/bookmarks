@@ -466,6 +466,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Robert Ecker](https://team-coder.com/boosting-the-quality-of-team-decisions/) - (2015) Boosting the Quality of Team Decisions | pros and cons of voting, consensus and strong leadership
 * [Arlo Belshee](http://arlobelshee.com/is-pair-programming-for-me/) - (2012) Is Pair Programming for Me?
 * [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
+* [Oded Zilinsky](https://techbeacon.com/how-use-chatops-boost-business-engagement-across-teams) - (2018) How to use ChatOps to boost business engagement across teams | Go cross-silo with chatbots
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -948,6 +949,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andrei Soroker](https://sameroom.io/blog/self-hosted-team-chat-options-and-alternatives/) - (2015) Self-Hosted Team Chat Options and Alternatives
 * [Mattermost](https://about.mattermost.com/community-applications/) - Mattermost Apps and Integrations
 * [Rocket.Chat Docs](https://rocket.chat/docs/administrator-guides/integrations/) - Rocket.Chat Integrations
+* [Oded Zilinsky](https://techbeacon.com/how-use-chatops-boost-business-engagement-across-teams) - (2018) How to use ChatOps to boost business engagement across teams | Go cross-silo with chatbots
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
@@ -2171,6 +2173,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [O'Reilly Media](https://www.oreilly.com/topics/operations) - The latest ideas, articles about operations.
 * [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
 * [Code as Craft](https://codeascraft.com/category/operations/) - Posts in category operations
+* [Linda Rosencrance](https://techbeacon.com/best-cloud-it-ops-conferences-2018) - (2018) The best cloud and IT Ops conferences of 2018
 
 > Learn
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
@@ -2257,6 +2260,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
 * [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
 * [OpsStack](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/) - [Slides] (2017) Monitoring the SRE Golden Signals | Actually Getting the Metrics from Common Services
+* [Oded Zilinsky](https://techbeacon.com/how-use-chatops-boost-business-engagement-across-teams) - (2018) How to use ChatOps to boost business engagement across teams | Go cross-silo with chatbots
+* [Ericka Chickowski](https://techbeacon.com/it-ops-fails-5-worst-blunders-2017) - (2017) Epic IT Ops fails: The 5 worst blunders of 2017
+* [Travis Greene](https://techbeacon.com/7-arguments-against-noops) - (2018) 7 arguments against NoOps | just say no
+* [Esther Schindler](https://blog.newrelic.com/2016/04/26/ops-dev-wishlist/) - (2016) 3 Ways Devs Can Help Ops: An Operations Perspective
+* [Esther Schindler](https://blog.newrelic.com/2016/04/11/devs-ops-wishlist/) - (2016) 3 Way Ops Can Help Devs: A Developer Perspective
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2872,6 +2880,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Fred Hebert](http://www.codemesh.io/codemesh2017/fred-hebert) - (2017) Everything is Terrible : how fundamental components can end up causing us problems. Target audience : Developers who enjoy cynicism. **Bonus** : [Slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/766/original/Fred_Herbert_-_Everything_is_terrible.pdf?1510584735)
 * [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
 * [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
+* [Esther Schindler](https://blog.newrelic.com/2016/02/22/8-ways-become-a-better-coder/) - (2016) 8 Ways to Become a Better Coder
+> “The code works” isn’t where you stop; it’s where you start
+* [Esther Schindler](https://blog.newrelic.com/2016/04/26/ops-dev-wishlist/) - (2016) 3 Ways Devs Can Help Ops: An Operations Perspective
+* [Esther Schindler](https://blog.newrelic.com/2016/04/11/devs-ops-wishlist/) - (2016) 3 Way Ops Can Help Devs: A Developer Perspective
+* [David Albert](https://www.recurse.com/blog/27-fundamental-qualities-of-good-programmers) - (2013) Fundamental qualities of good programmers
+* [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer) - (2012) Signs that you're a bad programmer
+* [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) - (2012) Signs that you're a good programmer
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3051,6 +3066,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christian Maioli M](https://techbeacon.com/3-creative-techniques-writing-modular-code) - (2018) 3 creative techniques for writing modular code
 * [Christian Maioli M](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
 * [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
+* [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer) - (2012) Signs that you're a bad programmer
+* [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) - (2012) Signs that you're a good programmer
 
 ## Conferences 
 > In Belgium
@@ -3064,6 +3081,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Anywhere
 * [Red Hat Events](https://www.redhat.com/en/events) - Conferences, online events, on-demand webinars, and more
 * [Jenkins World](https://www.cloudbees.com/jenkinsworld) - usually in USA, but by 2018 will also occur [Jenkins World Europe](https://dzone.com/articles/call-for-papers-is-open-for-jenkins-world-2018)
+* [Linda Rosencrance](https://techbeacon.com/best-cloud-it-ops-conferences-2018) - (2018) The best cloud and IT Ops conferences of 2018
 
 > Learn
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
