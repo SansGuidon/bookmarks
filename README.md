@@ -186,6 +186,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [High Scalability](http://highscalability.com/all-time-favorites/) - Here are some of the favorite posts on HighScalability...
 * [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/03/14/big-data-technology-and-the-responsibility-shift/) - (2015) NoSQL and the responsibility shift | about data quality
+* [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -464,6 +465,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Julia Evans](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/) - (2018) Working remotely, 4 years in
 * [Robert Ecker](https://team-coder.com/boosting-the-quality-of-team-decisions/) - (2015) Boosting the Quality of Team Decisions | pros and cons of voting, consensus and strong leadership
 * [Arlo Belshee](http://arlobelshee.com/is-pair-programming-for-me/) - (2012) Is Pair Programming for Me?
+* [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2867,6 +2869,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andrew Hunt and David Thomas](https://pragprog.com/the-pragmatic-programmer/extracts/coincidence) - (1999) Programming by Coincidence | Don’t Program by Coincidence. Extract from The Pragmatic Programmer book
 * [Jakub Holy](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
 * [Fred Hebert](http://www.codemesh.io/codemesh2017/fred-hebert) - (2017) Everything is Terrible : how fundamental components can end up causing us problems. Target audience : Developers who enjoy cynicism. **Bonus** : [Slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/766/original/Fred_Herbert_-_Everything_is_terrible.pdf?1510584735)
+* [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
+* [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2880,6 +2884,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lemi Orhan Ergin](https://fr.slideshare.net/lemiorhan/waste-driven-development-xp-days-ukraine-2017) - (2017) [Slides] Fighting with Waste Driven Development : Lean Thinking. **Bonus** : [Video](https://www.youtube.com/watch?v=Iw3I_nALH6s)
 * [Bill Doerrfeld](https://techbeacon.com/guide-restful-api-design-35-must-reads#.WcVeaYqsgc0.twitter) - (2017) A guide to RESTful API design: 35+ must-reads
 * [Trevor Reed](https://medium.com/@trevorhreed/you-re-api-isn-t-restful-and-that-s-good-b2662079cf0e) - (2016) Your API isn’t RESTful — And That’s Good | stop using the terms REST and RESTful to describe APIs that aren’t RESTful. It’s hurting our APIs and confusing the purpose and definition of REST.
+* [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
+* [Christian Maioli M](https://techbeacon.com/3-creative-techniques-writing-modular-code) - (2018) 3 creative techniques for writing modular code
+* [Christian Maioli M](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
@@ -3040,6 +3047,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jakub Holy](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
 * [Steven A. Lowe](https://techbeacon.com/program-faster-all-time-best-tips-pros) - Code faster: 53 tips from the pros
 > The only way to go fast is to go well. Every time you yield to the temptation to trade quality for speed, you slow down. Every time. [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
+* [Christian Maioli M](https://techbeacon.com/3-creative-techniques-writing-modular-code) - (2018) 3 creative techniques for writing modular code
+* [Christian Maioli M](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
+* [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 
 ## Conferences 
 > In Belgium
@@ -3618,6 +3628,8 @@ Raw
 * [Michael Lynch](https://mtlynch.io/why-i-quit-google/) - (2018) Why I Quit Google to Work for Myself
 * [Steven A. Lowe](https://techbeacon.com/program-faster-all-time-best-tips-pros) - Code faster: 53 tips from the pros
 > The only way to go fast is to go well. Every time you yield to the temptation to trade quality for speed, you slow down. Every time. [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
+* [Christian Maioli M](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
+* [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
