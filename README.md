@@ -2891,6 +2891,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) - (2012) Signs that you're a good programmer
 * [Software Engineering Tips](http://www.yacoset.com/Home/so-you-ve-just-been-hired-by-an-it-department) - (2010) So you've just been hired by an IT department...
 * [Software Engineering Tips](http://www.yacoset.com/Home/programming-tips) - (2010) Programming Tips
+* [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - list of online talks that are worth watching, mostly about software development
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3090,6 +3091,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 > Learn
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
+* [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - list of online talks that are worth watching, mostly about software development
 
 ## Correctness
 * [Wikipedia](https://en.wikipedia.org/wiki/Hoare_logic) - Hoare logic is a formal system for reasoning about the correctness of computer programs
@@ -3894,6 +3896,7 @@ Raw
 * [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence. 
 * [Sarah Cooper](https://thecooperreview.com/how-to-be-seen-as-an-expert-in-artificial-intelligence/) - [Humor] How to Be Seen as an Expert in Artificial Intelligence
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
+* [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - Artificial Intelligence (AI) courses, books, video lectures and papers.
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
