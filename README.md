@@ -1621,6 +1621,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Free Online EPUB Converter](https://www.sendepubtokindle.com/) - The easiest way to send EPUBs to your Kindle!
 * [repl.it](https://repl.it/) - Online REPL, Compiler & IDE : Boot up a programming environment for your favorite language | including JavaScript, Python, Ruby, Java, Node.js, Go, Scheme, C, C#, C++, Lua and many more.
 * :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
+* [Two Factor Auth (2FA)](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -4228,6 +4229,7 @@ Raw
 * [chrome site data settings](chrome://settings/siteData) open `chrome://settings/siteData`in Chrome to manage cookies / sites data
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
+* [Two Factor Auth (2FA)](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
