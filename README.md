@@ -470,6 +470,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Software Engineering Tips](http://www.yacoset.com/Home/communication-tips) - (2010) Communication Tips
 * [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
 * [Mike Bursell](https://opensource.com/article/18/2/most-important-issue-devops-transformation) - (2018) Tackling the most important issue in a DevOps transformation | Why culture is the most important issue in a DevOps transformation
+* [Ian Miell](https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/) - (2018) Five Things I Did to Change a Team’s Culture
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -802,6 +803,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Amy Blais](https://about.mattermost.com/devops/27-things-enterprises-can-learn-startups-increase-productivity/) - (2017) 27 things enterprises can learn from startups to increase productivity
 * [Joe McKendrick](http://www.zdnet.com/article/time-to-move-on-from-devops-and-continuous-delivery-says-google-executive/) - (2017) Time to move on from DevOps and continuous delivery, says Google advocate
 * [Mike Bursell](https://opensource.com/article/18/2/most-important-issue-devops-transformation) - (2018) Tackling the most important issue in a DevOps transformation | Why culture is the most important issue in a DevOps transformation
+* [Ian Miell](https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/) - (2018) Five Things I Did to Change a Team’s Culture
+* [Armon Dadgar](https://www.hashicorp.com/blog/why-we-need-dynamic-secrets) - (2018) Why We Need Dynamic Secrets | how applications do a terrible job keeping secrets, and why we need to embrace ephemeral credentials, or "Dynamic Secrets" in Vault.
+* [Dan Barker](https://opensource.com/article/18/2/essential-roles-devops-culture-success) - (2018) Your DevOps attempt will fail without these 7 departments buying in | Achieving customer value requires more than just software development and IT operations.
+* [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -900,6 +905,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
 * [Nathen Harvey](https://www.slideshare.net/nathenharvey/effective-testing-with-ansible-and-inspec) - (2018) Effective Testing with Ansible and InSpec
 * [Jakub Holý](https://theholyjava.wordpress.com/2014/03/17/frustration-driven-development-towards-devops-lean-clojure/) - (2014) Frustration-Driven Development – Towards DevOps, Lean, Clojure
+* [Greg DeKoenigsberg](https://www.ansible.com/blog/2017-community-year-in-review) - (2018) Take a look back at 2017 with Ansible's community review.
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -1408,6 +1414,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vault Docs](https://www.vaultproject.io/intro/getting-started/acl.html) - Access Control Policies (ACLs)
 * [Vault Docs](https://www.vaultproject.io/docs/concepts/tokens.html) - Tokens
 * [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
+* [Armon Dadgar](https://www.hashicorp.com/blog/why-we-need-dynamic-secrets) - (2018) Why We Need Dynamic Secrets | how applications do a terrible job keeping secrets, and why we need to embrace ephemeral credentials, or "Dynamic Secrets" in Vault.
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
@@ -2278,6 +2285,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Travis Greene](https://techbeacon.com/7-arguments-against-noops) - (2018) 7 arguments against NoOps | just say no
 * [Esther Schindler](https://blog.newrelic.com/2016/04/26/ops-dev-wishlist/) - (2016) 3 Ways Devs Can Help Ops: An Operations Perspective
 * [Esther Schindler](https://blog.newrelic.com/2016/04/11/devs-ops-wishlist/) - (2016) 3 Way Ops Can Help Devs: A Developer Perspective
+* [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2355,6 +2363,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matt Watson](https://stackify.com/15-metrics-for-devops-success/) - (2017) 15 Metrics for DevOps Success
 * [Caitie McCaffrey](https://queue.acm.org/detail.cfm?id=2889274) - (2016) The Verification of a Distributed System | A practitioner's guide to increasing confidence in system correctness
 * [OpsStack](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/) - [Slides] (2017) Monitoring the SRE Golden Signals | Actually Getting the Metrics from Common Services
+* [Charity Majors](https://honeycomb.io/blog/2017/11/best-practices-for-observability/) - (2017) Best Practices for Observability
+* [Brendan D. Gregg](http://www.brendangregg.com/Perf/linux_observability_tools.png) - [IMG] Linux performance observability tools
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
@@ -2906,6 +2916,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Software Engineering Tips](http://www.yacoset.com/Home/programming-tips) - (2010) Programming Tips
 * [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - list of online talks that are worth watching, mostly about software development
 * [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
+* [Julian Cohen](https://medium.com/@HockeyInJune/secure-engineering-guidelines-3b8845ac3265) - (2017) Secure Engineering Guidelines | Some best practices for building and trusting software.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3391,6 +3402,7 @@ Raw
 * [Jérôme Petazzoni](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go/33-Error_handling_can_be_verboseif) - [Slides] (2013) Docker and Go: why did we decide to write Docker in Go?
 * [Peter Bourgon](http://peter.bourgon.org/go-in-production/) - (2016) Go: Best Practices for Production Environments. **Bonus** : [Slides](https://github.com/gophercon/2014-talks) and [Video](http://confreaks.com/videos/3434-gophercon2014-best-practices-for-production-environments)
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+* [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys key
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -4175,6 +4187,9 @@ Raw
 * [OverTheWire](https://overthewire.org/wargames/) - Wargames : help you to learn and practice security concepts in the form of fun-filled games
 * [Matt Behrens](https://spin.atomicobject.com/2017/02/06/security-hygiene/) - (2017) Security Hygiene for Software Professionals
 * [CVE security vulnerabilities](https://www.cvedetails.com/vulnerability-list.php?vendor_id=15865&product_id=34004&version_id=0&page=1&hasexp=0&opdos=0&opec=0&opov=0&opcsrf=0&opgpriv=0&opsqli=0&opxss=0&opdirt=0&opmemc=0&ophttprs=0&opbyp=0&opfileinc=0&opginf=0&cvssscoremin=6&cvssscoremax=0&year=0&month=0&cweid=0&order=1&trc=29&sha=972b519195a324e211440860f0337f2d75a9aad6) - Jenkins : List of security vulnerabilities
+* [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys key
+* [Armon Dadgar](https://www.hashicorp.com/blog/why-we-need-dynamic-secrets) - (2018) Why We Need Dynamic Secrets | how applications do a terrible job keeping secrets, and why we need to embrace ephemeral credentials, or "Dynamic Secrets" in Vault.
+* [Julian Cohen](https://medium.com/@HockeyInJune/secure-engineering-guidelines-3b8845ac3265) - (2017) Secure Engineering Guidelines | Some best practices for building and trusting software.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
