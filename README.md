@@ -468,6 +468,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 * [Oded Zilinsky](https://techbeacon.com/how-use-chatops-boost-business-engagement-across-teams) - (2018) How to use ChatOps to boost business engagement across teams | Go cross-silo with chatbots
 * [Software Engineering Tips](http://www.yacoset.com/Home/communication-tips) - (2010) Communication Tips
+* [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
+* [Mike Bursell](https://opensource.com/article/18/2/most-important-issue-devops-transformation) - (2018) Tackling the most important issue in a DevOps transformation | Why culture is the most important issue in a DevOps transformation
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -560,6 +562,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
 * :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -612,6 +615,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Electric Cloud Blog](https://electric-cloud.com/blog/) - DevOps, Continuous Delivery, and all that jazz...
 * [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
 * [fabric8 Blog](https://blog.fabric8.io/) - Blog of fabric8, the open source microservices platform for developers, based on Docker, Kubernetes and Jenkins
+* [DevOps'ish](https://devopsish.com/) - DevOps, Cloud Native, Open Source, and the ‘ish in between.
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -795,6 +799,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Katie Ballinger](https://circleci.com/blog/onboarding-new-site-reliability-engineers/) - (2017) Onboarding New Site Reliability Engineers
 * [Alice Goldfuss](https://increment.com/development/center-stage-best-practices-for-staging-environments/) - (2017) Center stage: Best practices for staging environments
 * [Increment Staff](https://increment.com/development/what-its-like-to-be-a-developer-at/) - (2017) What it’s like to be a developer at …
+* [Amy Blais](https://about.mattermost.com/devops/27-things-enterprises-can-learn-startups-increase-productivity/) - (2017) 27 things enterprises can learn from startups to increase productivity
+* [Joe McKendrick](http://www.zdnet.com/article/time-to-move-on-from-devops-and-continuous-delivery-says-google-executive/) - (2017) Time to move on from DevOps and continuous delivery, says Google advocate
+* [Mike Bursell](https://opensource.com/article/18/2/most-important-issue-devops-transformation) - (2018) Tackling the most important issue in a DevOps transformation | Why culture is the most important issue in a DevOps transformation
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1258,6 +1265,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alex Ellis](https://blog.alexellis.io/openfaas-colorisebot-comes-to-kubecon/) - (2017) Colorisebot and OpenFaaS
 * [Finnian ANderson](https://finnian.io/blog/colourising-video-with-openfaas-serverless-functions/) - (2017) Colourising Video with OpenFaaS Serverless Functions
 * [Alex Ellis](https://blog.alexellis.io/you-need-to-know-kubernetes-and-swarm/) - (2017) What you need to know: Kubernetes and Swarm
+* [Sachin Arote](https://medium.com/@sachin.arote1/kubernetes-best-practices-9b1435a4cb53) - (2017) Kubernetes Best Practices
+* [Sandeep Dinesh](https://speakerdeck.com/thesandlord/kubernetes-best-practices) - [Slides] (2017) Kubernetes Best Practices
+* [Sandeep Dinesh](https://www.weave.works/blog/kubernetes-best-practices) - (2018) Top 5 Kubernetes Best Practices From Sandeep Dinesh (Google)
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -2523,6 +2533,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Busten Benson](https://www.fs.blog/2014/10/an-antifragile-way-of-life/) - (2014) 10 Principles to Live an Antifragile Life
 * [Daniel Walsh](https://medium.com/@daniel.walsh/ten-metrics-you-may-have-overlooked-8a9c22f218bb) - (2018) Ten Overlooked Metrics
 * [John Cutler](https://hackernoon.com/faster-faster-faster-231c7b3d088d) - (2017) Faster. Faster. Faster.
+* [Amy Blais](https://about.mattermost.com/devops/27-things-enterprises-can-learn-startups-increase-productivity/) - (2017) 27 things enterprises can learn from startups to increase productivity
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2621,9 +2632,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DZone](https://dzone.com/) - programming & devops news
 * [/r/programming](https://www.reddit.com/r/programming/) - everything about programming on reddit
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
+* [Player FM](https://player.fm/podcasts/Software-Development) - Software Development Podcasts
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists) - Devoxx Youtube Channel
 * [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
-* :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
+* :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices | the rhythm is sometimes slow
 * [Code as Craft](https://codeascraft.com/) - Etsy' blog for craftsmen
 * [feststelltaste (Markus Harrer)](http://www.feststelltaste.de/) - About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
 * [TIOBE Index](https://www.tiobe.com/tiobe-index/)
@@ -2893,6 +2905,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Software Engineering Tips](http://www.yacoset.com/Home/so-you-ve-just-been-hired-by-an-it-department) - (2010) So you've just been hired by an IT department...
 * [Software Engineering Tips](http://www.yacoset.com/Home/programming-tips) - (2010) Programming Tips
 * [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - list of online talks that are worth watching, mostly about software development
+* [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -2934,7 +2947,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 ## Clean code
 > News
-* :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
+* :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices | the rhythm is sometimes slow
 * [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
 
 > Learn
@@ -3076,6 +3089,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) - (2012) Signs that you're a good programmer
 * [Software Engineering Tips](http://www.yacoset.com/Home/programming-tips) - (2010) Programming Tips
 * [Ronald Jeffries](https://www.ronjeffries.com/articles/017-08ff/clean-code/) - (2017) Clean Code: A Learning
+* [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
 
 ## Conferences 
 > In Belgium
@@ -3805,6 +3819,7 @@ Raw
 
 # Podcasts
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
+* [Player FM](https://player.fm/podcasts/Software-Development) - Software Development Podcasts
 * [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers 
 * [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] :fr: [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
 * [RadioKawa](http://www.radiokawa.com/) - [FR] :fr: lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
@@ -3817,7 +3832,7 @@ Raw
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456) - (2017) [FR] :fr: Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Video](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414)
 * [Le Bureau des Mystères](https://soundcloud.com/bureaudesmysteres/special-creepypasta-et-legendes-urbaines-1#t=14:56) - [FR] :fr: creepypasta et légendes urbaines préférées... les mystères de Disneyland 
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - podcast about the people who transform technology from the command line up. Presented by Red Hat.
-* :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices 
+* :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices | the rhythm is sometimes slow
 * [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
 * [Users Known](https://www.usersknow.com/podcast) - Podcast on Product Design / UX | What Is Wrong with UX?
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
@@ -3825,6 +3840,7 @@ Raw
 * [Functional Geekery](https://www.functionalgeekery.com/) - A podcast on Functional Programming, covering topics across multiple languages
 * [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hebert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of open source.
+* [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
