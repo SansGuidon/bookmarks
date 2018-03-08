@@ -2391,6 +2391,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] :fr: Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
 * [Farnam Street](https://www.fs.blog/2014/09/mistakes/) - (2014) Mistakes — It’s not the Failures that Define us so Much as How We Respond to Them
 * [Shan](https://shansvex.wordpress.com/2015/09/06/things-i-hated-about-being-a-renter-for-15-years/) - (2015) Things I hated About Being a Renter for 15 years
+* [Zen Sayings](http://www.sacred-texts.com/bud/zen/sayings.htm) - Zen masters say "Don't seek the truth - just drop your opinions" | Zen quotes
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
