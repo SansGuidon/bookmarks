@@ -291,6 +291,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/08/living-below-your-means/) - (2016) Why living below your means can help you find a better job
 * [John Cutler](https://hackernoon.com/faster-faster-faster-231c7b3d088d) - (2017) Faster. Faster. Faster.
 * [Shan](https://shansvex.wordpress.com/2015/09/06/things-i-hated-about-being-a-renter-for-15-years/) - (2015) Things I hated About Being a Renter for 15 years
+* [Morgan Housel](http://www.collaborativefund.com/blog/great-products-vs-great-businesses/) - (2017) Great Products vs. Great Businesses
 
 ## Cryptocurrency
 > News
@@ -471,6 +472,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
 * [Mike Bursell](https://opensource.com/article/18/2/most-important-issue-devops-transformation) - (2018) Tackling the most important issue in a DevOps transformation | Why culture is the most important issue in a DevOps transformation
 * [Ian Miell](https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/) - (2018) Five Things I Did to Change a Team’s Culture
+* [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
+* [Morgan Housel](http://www.collaborativefund.com/blog/conflicting-skill-sets/) - (2017) Conflicting Skill Sets
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -520,6 +523,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Maaike Brinkhof](http://blog.xebia.com/mapping-biases-to-testing-confirmation-bias/) - (2016) Mapping Biases to Testing: Confirmation Bias
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/03/15/stagnating-job/) - (2016) Stagnating at your programming job? Don’t quit just yet!
+* [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1515,6 +1519,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
 * [GSMArena.com](https://www.gsmarena.com/) - mobile phone reviews, news, specifications and more...
 * [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
+* [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1639,6 +1644,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [repl.it](https://repl.it/) - Online REPL, Compiler & IDE : Boot up a programming environment for your favorite language | including JavaScript, Python, Ruby, Java, Node.js, Go, Scheme, C, C#, C++, Lua and many more.
 * :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
 * [Two Factor Auth (2FA)](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
+* [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2454,6 +2460,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 * [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
 * :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
+* [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 
 # Productivity
 > Tips
@@ -2574,6 +2581,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
 * [Matt Cutts](http://highscalability.com/blog/2015/2/4/matt-cutts-10-lessons-learned-from-the-early-days-of-google.html) - (2015) Matt Cutts: 10 Lessons Learned From The Early Days Of Google
 * [Farnam Street](https://www.fs.blog/2017/08/amateurs-professionals/) - (2017) The Difference Between Amateurs and Professionals
+* [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -3899,6 +3907,7 @@ Raw
 * [Yan-David Erlich](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - [Slides] (2017) Six page cheat-sheet for the book [Never Split the Difference, by Chris Voss](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
 * [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
 * [Farnam Street](https://www.fs.blog/2014/09/mistakes/) - (2014) Mistakes — It’s not the Failures that Define us so Much as How We Respond to Them
+* [Morgan Housel](http://www.collaborativefund.com/blog/conflicting-skill-sets/) - (2017) Conflicting Skill Sets
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
