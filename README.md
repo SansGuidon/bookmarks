@@ -261,6 +261,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) - Online book. Reading this tutorial should be one of your first steps in learning Erlang
 
 # Business & Economics
+> News
+* [Collaborative Fund](http://www.collaborativefund.com/blog/archive/) - About information, collaboration and investments
+
+> Learn
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
 * [SEO'Brien](https://seobrien.com/startups-work-silicon-valley) - Why Do Startups Work in Silicon Valley?
 * [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] :fr: Competitivity 
@@ -292,6 +296,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John Cutler](https://hackernoon.com/faster-faster-faster-231c7b3d088d) - (2017) Faster. Faster. Faster.
 * [Shan](https://shansvex.wordpress.com/2015/09/06/things-i-hated-about-being-a-renter-for-15-years/) - (2015) Things I hated About Being a Renter for 15 years
 * [Morgan Housel](http://www.collaborativefund.com/blog/great-products-vs-great-businesses/) - (2017) Great Products vs. Great Businesses
+* [Morgan Housel](http://www.collaborativefund.com/blog/never-do-that-again/) - (2017) Never Do That Again | about confusion & learning from failure
+* [Sophie Bakalar](http://www.collaborativefund.com/blog/how-to-beat-amazon/) - (2018) How to Beat Amazon
+* [Morgan Housel](http://www.collaborativefund.com/blog/simple-business-models-that-work/) - (2017) The Best Simple Business Models 
+> The three best business models: Make boring things exciting. Make complicated things simple. Make intimidating things painless.
+* [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
+* [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
 
 ## Cryptocurrency
 > News
@@ -316,7 +326,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Linda Xie](https://medium.com/@linda.xie/tips-for-crypto-newcomers-2ee5ab2d85c1) - (2018) Tips for crypto newcomers
 
 # Collaboration & Problem solving
+> News
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
+* [Collaborative Fund](http://www.collaborativefund.com/blog/archive/) - About information, collaboration and investments
+
+> Learn
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - 15 rules for communicating at GitHub
 * [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
 * [Dale Emery](http://cwd.dhemery.com/2005/05/motivation) - model of motivation : Motivation = Ability × Results × Preferences
@@ -474,6 +488,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ian Miell](https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/) - (2018) Five Things I Did to Change a Team’s Culture
 * [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
 * [Morgan Housel](http://www.collaborativefund.com/blog/conflicting-skill-sets/) - (2017) Conflicting Skill Sets
+* [Morgan Housel](http://www.collaborativefund.com/blog/never-do-that-again/) - (2017) Never Do That Again | about confusion & learning from failure
+* [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
+* [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -524,6 +541,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/03/15/stagnating-job/) - (2016) Stagnating at your programming job? Don’t quit just yet!
 * [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
+* [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
+* [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
+* [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -568,6 +588,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
 * :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
+* [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1778,6 +1799,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Shan](https://shansvex.wordpress.com/2015/09/06/things-i-hated-about-being-a-renter-for-15-years/) - (2015) Things I hated About Being a Renter for 15 years
 * [Michael Lynch](https://mtlynch.io/why-i-quit-google/) - (2018) Why I Quit Google to Work for Myself
 * [Software Engineering Tips](http://www.yacoset.com/Home/so-you-ve-just-been-hired-by-an-it-department) - (2010) So you've just been hired by an IT department...
+* [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
+* [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2392,6 +2415,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Farnam Street](https://www.fs.blog/2014/09/mistakes/) - (2014) Mistakes — It’s not the Failures that Define us so Much as How We Respond to Them
 * [Shan](https://shansvex.wordpress.com/2015/09/06/things-i-hated-about-being-a-renter-for-15-years/) - (2015) Things I hated About Being a Renter for 15 years
 * [Zen Sayings](http://www.sacred-texts.com/bud/zen/sayings.htm) - Zen masters say "Don't seek the truth - just drop your opinions" | Zen quotes
+* [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
+* [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
+* [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -2552,6 +2578,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Walsh](https://medium.com/@daniel.walsh/ten-metrics-you-may-have-overlooked-8a9c22f218bb) - (2018) Ten Overlooked Metrics
 * [John Cutler](https://hackernoon.com/faster-faster-faster-231c7b3d088d) - (2017) Faster. Faster. Faster.
 * [Amy Blais](https://about.mattermost.com/devops/27-things-enterprises-can-learn-startups-increase-productivity/) - (2017) 27 things enterprises can learn from startups to increase productivity
+* [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
+* [Morgan Housel](http://www.collaborativefund.com/blog/simple-business-models-that-work/) - (2017) The Best Simple Business Models 
+> The three best business models: Make boring things exciting. Make complicated things simple. Make intimidating things painless.
+* [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2583,6 +2613,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matt Cutts](http://highscalability.com/blog/2015/2/4/matt-cutts-10-lessons-learned-from-the-early-days-of-google.html) - (2015) Matt Cutts: 10 Lessons Learned From The Early Days Of Google
 * [Farnam Street](https://www.fs.blog/2017/08/amateurs-professionals/) - (2017) The Difference Between Amateurs and Professionals
 * [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
+* [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -4296,6 +4327,7 @@ Raw
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
 * [Bloomberg](https://www.bloomberg.com/graphics/pessimists-guide-to-2018/) - (2017) The Pessimist's Guide to 2018
 * [Karl Jilg](https://twitter.com/voxdotcom/status/534731895930896384/photo/1) - (2014) [IMG] brilliant illustration shows how much public space we've surrendered to cars 
+* [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
