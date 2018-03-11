@@ -259,10 +259,18 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
 * [Launch School](https://launchschool.com/books/) - Open Book Shelf for developers | some beginner friendly readings about programming, git, command line, etc
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) - Online book. Reading this tutorial should be one of your first steps in learning Erlang
+* [Opentrackers.org](https://opentrackers.org/downloading-ebooks-textbooks/) - (2017) A guide to help people find ebooks & textbooks
+* [NDTV Gadgets360](https://gadgets.ndtv.com/internet/features/the-6-best-places-to-legally-download-ebooks-for-free-663886) - (2015)  The 6 Best Places to Legally Download Ebooks for Free  
+* [Goodreads](https://www.goodreads.com/shelf/show/reddit-top-200) - Popular Reddit Top 200 Books
+* [Amazon](https://www.amazon.com/Best-Sellers-Kindle-Store-eBooks/zgbs/digital-text/154606011/ref=zg_bs?_encoding=UTF8&tf=1) - Top 100 Free Amazon Best Sellers
+* [Quora](https://www.quora.com/What-is-a-good-website-for-free-books) - What is a good website for free books?
+* [Ogre](http://ogres-crypt.com/Kindle/) - Free Kindle Book Listings
+* [Reddit](https://www.reddit.com/r/FreeEBOOKS/) - Free Ebooks
 
 # Business & Economics
 > News
 * [Collaborative Fund](http://www.collaborativefund.com/blog/archive/) - About information, collaboration and investments
+* [Paul Graham's Blog](http://www.paulgraham.com/articles.html) - Essays by Paul Graham
 
 > Learn
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
@@ -304,6 +312,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
 * [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
 * [John B. Sparks](http://www.visualcapitalist.com/histomap/) - Histomap: Visualizing the 4,000 Year History of Global Power
+* [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
 
 ## Cryptocurrency
 > News
@@ -494,6 +503,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
 * [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
 * [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
+* [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1559,6 +1569,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 * [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver053/search-for-code-in-bitbucket-server-938022411.html) - Search for code in Bitbucket Server
+* [Opentrackers.org](https://opentrackers.org/downloading-ebooks-textbooks/) - (2017) A guide to help people find ebooks & textbooks
+* [Reddit](https://www.reddit.com/r/FreeEBOOKS/) - Free Ebooks
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1711,6 +1723,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
 * [Jeux libres](http://jeuxlibres.net/) - :fr: [FR] un catalogue de jeux vidéos libres principalement sous GNU/Linux
 * [Abandonware France](https://www.abandonware-france.org/) - :fr: [FR] l'histoire des vieux jeux video et retrogaming
+* [DHTML Lemmings](https://www.elizium.nu/scripts/lemmings/) - a remake of Lemmings all written in JavaScript, to play in your browser
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -2457,6 +2470,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
 * [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
 * [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
+* [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
