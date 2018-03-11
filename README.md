@@ -2546,6 +2546,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Carl Chenet](https://carlchenet.com/the-slack-threat/) - (2017) The Slack Threat | why you may need alternatives to slack
 
 # Productivity
+> News
+* [Hacker News](https://hn.algolia.com/?query=tricks&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tricks
+* [Hacker News](https://hn.algolia.com/?query=tips&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tips
+* [Hacker News](https://hn.algolia.com/?query=productivity&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Productivity news
+
 > Tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
