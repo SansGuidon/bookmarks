@@ -492,6 +492,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/never-do-that-again/) - (2017) Never Do That Again | about confusion & learning from failure
 * [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
 * [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
+* [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -839,7 +840,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
 * [Anna Kennedy](http://annaken.github.io/testing-packer-builds-with-serverspec) - (2017) Testing Packer builds with Serverspec
 * [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
-* [Rob Kinyon](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*? 
+* :star: [**Rob Kinyon**](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*? 
+* [Jennifer Riggins](https://thenewstack.io/call-rotations-best-wake-devs-middle-night) - (2018) On Call Rotations: How Best to Wake Devs Up in the Middle of the Night
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1816,6 +1818,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
 * [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
 * [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
+* [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2340,7 +2343,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
 * [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight 
 * [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
-* [Rob Kinyon](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*? 
+* :star: [**Rob Kinyon**](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*? 
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2990,6 +2993,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
 * [Julian Cohen](https://medium.com/@HockeyInJune/secure-engineering-guidelines-3b8845ac3265) - (2017) Secure Engineering Guidelines | Some best practices for building and trusting software.
 * [Preslav Mihaylov](https://dev.to/pmihaylov/understanding-standard-input-and-output-5f1b) - (2017)  Understanding Standard Input and Output
+* [Jennifer Riggins](https://thenewstack.io/call-rotations-best-wake-devs-middle-night) - (2018) On Call Rotations: How Best to Wake Devs Up in the Middle of the Night
+* [Graham Lee](http://www.sicpers.info/2017/12/falsehoods-programmers-believe-about-programming/) - (2017) Falsehoods programmers believe about programming
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3761,6 +3766,7 @@ Raw
 * [Christian Maioli M](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
 * [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 * [Software Engineering Tips](http://www.yacoset.com/Home/communication-tips) - (2010) Communication Tips
+* [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
