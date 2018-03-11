@@ -604,7 +604,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
 * [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
 * [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
-* [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018
+* [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -2257,7 +2257,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
 * [Jeffrey Ventrella's Blog](https://ventrellathing.wordpress.com/) - Nature -> Brain -> Technology | Things and Stuff
 * [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
-* [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018
+* [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
 
 # Operations / IT OPS
 > News
