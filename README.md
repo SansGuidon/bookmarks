@@ -1835,6 +1835,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
 * [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
 * [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
+* [Joel Kemp](https://hackernoon.com/work-for-an-employer-that-builds-something-you-love-58f4ced947e9) - (2017) Work for an employer that builds something you love
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -3026,6 +3027,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jennifer Riggins](https://thenewstack.io/call-rotations-best-wake-devs-middle-night) - (2018) On Call Rotations: How Best to Wake Devs Up in the Middle of the Night
 * [Graham Lee](http://www.sicpers.info/2017/12/falsehoods-programmers-believe-about-programming/) - (2017) Falsehoods programmers believe about programming
 * [Alon Altman](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - (2015) Falsehoods Programmers believe about Gender
+* [Patrick Louys](https://patricklouys.com/2017/12/27/become-a-better-developer-in-2018/) - (2017) Become a better developer in 2018
+* [Joel Kemp](https://hackernoon.com/work-for-an-employer-that-builds-something-you-love-58f4ced947e9) - (2017) Work for an employer that builds something you love
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4416,6 +4419,8 @@ Raw
 * [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
 * [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
 * [John B. Sparks](http://www.visualcapitalist.com/histomap/) - Histomap: Visualizing the 4,000 Year History of Global Power
+* [Atlas of Prejudice](https://atlasofprejudice.com/) - salacious political incorrectness and unconventional historical studies, with maps
+* [Yanko Tsvetkov](https://atlasofprejudice.com/tearing-europe-apart-10d01e876eab) - (2014) Tearing Europe Apart | 20 ways to break Europe. Did the laws of neuroscience shape European history?
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
