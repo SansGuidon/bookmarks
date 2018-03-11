@@ -121,6 +121,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 # Architecture / Design / Patterns
 > News
 * [High Scalability](http://highscalability.com/) - Building bigger, faster, more reliable websites
+* [Abduzeedo](http://abduzeedo.com/) - Design Inspirations
 
 > Learn
 * [David Alia](http://blog.octo.com/design-for-failure/) - [FR] :fr: Les Patterns des Grands du Web – Design for failure
@@ -187,6 +188,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/03/14/big-data-technology-and-the-responsibility-shift/) - (2015) NoSQL and the responsibility shift | about data quality
 * [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
+* [Abduzeedo](http://abduzeedo.com/tags/perfect-office) - Design Inspiration for the perfect office
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -1836,6 +1838,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
 * [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
 * [Joel Kemp](https://hackernoon.com/work-for-an-employer-that-builds-something-you-love-58f4ced947e9) - (2017) Work for an employer that builds something you love
+* [Abduzeedo](http://abduzeedo.com/tags/perfect-office) - Design Inspiration for the perfect office
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
