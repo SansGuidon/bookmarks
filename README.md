@@ -2258,6 +2258,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeffrey Ventrella's Blog](https://ventrellathing.wordpress.com/) - Nature -> Brain -> Technology | Things and Stuff
 * [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
 * [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
+* [reddit](https://www.reddit.com/controversial/) - most controversial links
 
 # Operations / IT OPS
 > News
