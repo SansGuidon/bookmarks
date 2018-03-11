@@ -645,6 +645,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
 * [fabric8 Blog](https://blog.fabric8.io/) - Blog of fabric8, the open source microservices platform for developers, based on Docker, Kubernetes and Jenkins
 * [DevOps'ish](https://devopsish.com/) - DevOps, Cloud Native, Open Source, and the ‘ish in between.
+* [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins. 
+* [SysAdvent Calendar](https://www.redpill-linpro.com/sysadvent/) - Pre Christmas Tips and Tricks for Sysadmins
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -835,6 +837,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Armon Dadgar](https://www.hashicorp.com/blog/why-we-need-dynamic-secrets) - (2018) Why We Need Dynamic Secrets | how applications do a terrible job keeping secrets, and why we need to embrace ephemeral credentials, or "Dynamic Secrets" in Vault.
 * [Dan Barker](https://opensource.com/article/18/2/essential-roles-devops-culture-success) - (2018) Your DevOps attempt will fail without these 7 departments buying in | Achieving customer value requires more than just software development and IT operations.
 * [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
+* [Anna Kennedy](http://annaken.github.io/testing-packer-builds-with-serverspec) - (2017) Testing Packer builds with Serverspec
+* [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
+* [Rob Kinyon](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*? 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1810,6 +1815,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Software Engineering Tips](http://www.yacoset.com/Home/so-you-ve-just-been-hired-by-an-it-department) - (2010) So you've just been hired by an IT department...
 * [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
 * [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
+* [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2044,6 +2050,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-setup-default-gateway-with-route-command/) - (2015) Linux setup default gateway with route command
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-route-add/) - (2013) Linux route Add Command Examples
 * [Preslav Mihaylov](https://dev.to/pmihaylov/understanding-standard-input-and-output-5f1b) - (2017)  Understanding Standard Input and Output
+* [Ask Ubuntu](https://askubuntu.com/questions/79665/keep-only-essential-packages) - Keep only essential packages
 
 ## Emacs 
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -2237,6 +2244,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
 * [Code as Craft](https://codeascraft.com/category/operations/) - Posts in category operations
 * [Linda Rosencrance](https://techbeacon.com/best-cloud-it-ops-conferences-2018) - (2018) The best cloud and IT Ops conferences of 2018
+* [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins. 
+* [SysAdvent Calendar](https://www.redpill-linpro.com/sysadvent/) - Pre Christmas Tips and Tricks for Sysadmins
 
 > Learn
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
@@ -2329,6 +2338,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Esther Schindler](https://blog.newrelic.com/2016/04/26/ops-dev-wishlist/) - (2016) 3 Ways Devs Can Help Ops: An Operations Perspective
 * [Esther Schindler](https://blog.newrelic.com/2016/04/11/devs-ops-wishlist/) - (2016) 3 Way Ops Can Help Devs: A Developer Perspective
 * [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
+* [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight 
+* [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
+* [Rob Kinyon](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*? 
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -4416,6 +4428,8 @@ Raw
 * [Jakub Holý](https://theholyjava.wordpress.com/2016/03/04/dont-add-unnecessary-checks-to-your-code-pretty-please/) - (2016) Don’t add unnecessary checks to your code, pretty please!
 * [Robert Ecker](https://dev.to/teamcoder/the-problem-with-high-test-coverage-4dh) - (2017) The Problem With High Test Coverage
 * [PropEr Testing](http://propertesting.com/) - Fred Hebert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
+* [Anna Kennedy](http://annaken.github.io/testing-packer-builds-with-serverspec) - (2017) Testing Packer builds with Serverspec
+* [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight 
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
