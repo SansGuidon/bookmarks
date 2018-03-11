@@ -302,6 +302,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > The three best business models: Make boring things exciting. Make complicated things simple. Make intimidating things painless.
 * [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
 * [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
+* [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
 
 ## Cryptocurrency
 > News
@@ -544,6 +545,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
 * [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
+* [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -589,6 +591,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
 * [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
+* [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1912,7 +1915,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3069981/linux/the-linux-command-that-you-should-never-say-out-loud.html) - thefuck : The Linux command that you should never say out loud
 * [Scott Rippee](http://www.hypexr.org/linux_scp_help.php) - Example syntax for Secure Copy (scp)
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2974753/linux/doing-math-with-awk.html) - Doing math with awk
-* [nixCraft](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/) - Top 32 Nmap Command Examples For Sys/Network Admins
+* [Vivek Gite](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/) - (2018) Top 32 Nmap Command Examples For Sys/Network Admins
 * [Lakshmanan Ganapathy](http://www.thegeekstuff.com/2012/08/lsof-command-examples) - 15 Linux lsof Command Examples (Identify Open Files)
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/11/50-linux-commands/) - 50 Most Frequently Used UNIX / Linux Commands (With Examples)
 * [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
@@ -2038,6 +2041,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alan Franzoni](https://www.franzoni.eu/chmod-and-the-capital-x/) - (2015) chmod and the capital X | This is one very, very, very interesting piece of ancient wisdom.
 * [Michael Kwaku Aboagye](https://opensource.com/article/18/1/securing-linux-filesystem-tripwire) - (2018) Securing the Linux filesystem with Tripwire
 * [Alpine Linux Wiki](https://wiki.alpinelinux.org/wiki/How_to_get_regular_stuff_working) - How to get regular stuff working | curl, man pages, compiling, disk mgmt, ...
+* [Vivek Gite](https://www.cyberciti.biz/faq/linux-setup-default-gateway-with-route-command/) - (2015) Linux setup default gateway with route command
+* [Vivek Gite](https://www.cyberciti.biz/faq/linux-route-add/) - (2013) Linux route Add Command Examples
+* [Preslav Mihaylov](https://dev.to/pmihaylov/understanding-standard-input-and-output-5f1b) - (2017)  Understanding Standard Input and Output
 
 ## Emacs 
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -2194,9 +2200,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sreenivas Makam](https://www.slideshare.net/SreenivasMakam/docker-networking-common-issues-and-troubleshooting-techniques) - Docker Networking - Common Issues and Troubleshooting Techniques
 * [VirtualBox issues tracker](https://www.virtualbox.org/ticket/14374) - Network adapters not working after host returns from sleep Win 7 host Linux Mint 17.2 guest
 * [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
-* [nixCraft](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/) - Top 32 Nmap Command Examples For Sys/Network Admins
+* [Vivek Gite](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/) - (2018) Top 32 Nmap Command Examples For Sys/Network Admins
 * [LZone](https://lzone.de/cheat-sheet/Linux-Networking) - Linux networking cheatsheet
 * [AboutMyX](http://www.aboutmyip.com/AboutMyXApp/SubnetCalculator.jsp?ipAddress=192.168.16.0&cidr=24) - Subnet mask calculator
+* [Vivek Gite](https://www.cyberciti.biz/faq/linux-setup-default-gateway-with-route-command/) - (2015) Linux setup default gateway with route command
+* [Vivek Gite](https://www.cyberciti.biz/faq/linux-route-add/) - (2013) Linux route Add Command Examples
 
 # News
 * :star: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
@@ -2424,6 +2432,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
 * [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
+* [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
+* [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -2589,6 +2599,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/simple-business-models-that-work/) - (2017) The Best Simple Business Models 
 > The three best business models: Make boring things exciting. Make complicated things simple. Make intimidating things painless.
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
+* [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
+* [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2621,6 +2633,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Farnam Street](https://www.fs.blog/2017/08/amateurs-professionals/) - (2017) The Difference Between Amateurs and Professionals
 * [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
 * [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
+* [Kunal Shandilya](https://byrslf.co/what-happens-when-you-stop-trying-a0c26d93c95d) - (2017) What Happens When You Stop Trying?
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -2964,6 +2977,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - list of online talks that are worth watching, mostly about software development
 * [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
 * [Julian Cohen](https://medium.com/@HockeyInJune/secure-engineering-guidelines-3b8845ac3265) - (2017) Secure Engineering Guidelines | Some best practices for building and trusting software.
+* [Preslav Mihaylov](https://dev.to/pmihaylov/understanding-standard-input-and-output-5f1b) - (2017)  Understanding Standard Input and Output
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3007,6 +3021,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > News
 * :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices | the rhythm is sometimes slow
 * [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
+* [Clean Coder Blog](http://blog.cleancoder.com/) - articles by Robert C. Martin (Uncle Bob)
 
 > Learn
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
@@ -3148,6 +3163,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Software Engineering Tips](http://www.yacoset.com/Home/programming-tips) - (2010) Programming Tips
 * [Ronald Jeffries](https://www.ronjeffries.com/articles/017-08ff/clean-code/) - (2017) Clean Code: A Learning
 * [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
+* [Jason McCreary](https://dev.to/gonedark/another-month-of-clean-code-4gig) -  (2017) Another month of clean code 
 
 ## Conferences 
 > In Belgium
@@ -3406,6 +3422,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gregory Szorc](https://gregoryszorc.com/blog/2014/09/09/on-monolithic-repositories/) - (2014) On Monolithic Repositories | in favor of monolithic repos  
 * [Aaron Schlesinger](https://gist.github.com/arschles/5d7ba90495eb50fa04fc) - (2015) Why We Should Use Monolithic Repositories
 Raw
+* [Nathan Leiby](https://medium.com/always-a-student/mo-repos-mo-problems-how-we-make-changes-across-many-git-repositories-293ad7d418f0) - (2017) Mo Repos, Mo Problems? How We Make Changes Across Many Git Repositories
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -3948,6 +3965,10 @@ Raw
 * [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
 * [Farnam Street](https://www.fs.blog/2014/09/mistakes/) - (2014) Mistakes — It’s not the Failures that Define us so Much as How We Respond to Them
 * [Morgan Housel](http://www.collaborativefund.com/blog/conflicting-skill-sets/) - (2017) Conflicting Skill Sets
+* [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
+* [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
+* [Kunal Shandilya](https://byrslf.co/what-happens-when-you-stop-trying-a0c26d93c95d) - (2017) What Happens When You Stop Trying?
+* [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -4336,6 +4357,7 @@ Raw
 * [Bloomberg](https://www.bloomberg.com/graphics/pessimists-guide-to-2018/) - (2017) The Pessimist's Guide to 2018
 * [Karl Jilg](https://twitter.com/voxdotcom/status/534731895930896384/photo/1) - (2014) [IMG] brilliant illustration shows how much public space we've surrendered to cars 
 * [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
+* [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
