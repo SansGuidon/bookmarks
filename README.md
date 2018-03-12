@@ -2700,6 +2700,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
 * [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
 * [Kunal Shandilya](https://byrslf.co/what-happens-when-you-stop-trying-a0c26d93c95d) - (2017) What Happens When You Stop Trying?
+* [Mehdi Cherti](http://mehdi.cherti.name/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html) - (2017) Improving my productivity using Pomodoro: takeaways after 2 years of practice
+* [Vincent Bevins](https://theoutline.com/post/2595/productivity-is-dangerous) - (2017) Productivity is dangerous | You know who else was productive?
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -2761,6 +2763,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [GSMArena.com](https://www.gsmarena.com/) - mobile phone reviews, news, specifications and more...
 * [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter
 * [Samuel Hulick](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea) - (2016) Slack, I’m Breaking Up with You
+* [Daichi](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089) - (2017) Boost your productivity using Markdown.
 
 # Programming
 > News
