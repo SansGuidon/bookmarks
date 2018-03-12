@@ -506,6 +506,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
 * [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
 * [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
+* [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
+* [Amy M Haddad](https://medium.com/swlh/effective-tips-for-working-remotely-23cc290a8c08) - (2017) Effective Tips for Working Remotely
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2662,6 +2664,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
 * [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
 * [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
+* [Ask HN](https://news.ycombinator.com/item?id=15831046) - Ask HN: Time Management Tricks and Tips
+* [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
+* [Amy M Haddad](https://medium.com/swlh/effective-tips-for-working-remotely-23cc290a8c08) - (2017) Effective Tips for Working Remotely
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -3049,6 +3054,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
 * [Jeremy Phelps](http://jeremyphelps.com/blog/why-youre-having-trouble-hiring-developers.html) - (2017) Why you're having trouble hiring developers
 * [Erik Dietrich](https://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - (2013) How Developers Stop Learning: Rise of the Expert Beginner
+* [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4049,6 +4055,7 @@ Raw
 * [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
 * [Kunal Shandilya](https://byrslf.co/what-happens-when-you-stop-trying-a0c26d93c95d) - (2017) What Happens When You Stop Trying?
 * [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
+* [Tiffanie Wen](http://www.bbc.com/capital/story/20170627-the-tricks-to-make-yourself-effortlessly-charming) - (2017) The tricks to make yourself effortlessly charming
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
