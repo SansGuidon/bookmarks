@@ -1578,6 +1578,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver053/search-for-code-in-bitbucket-server-938022411.html) - Search for code in Bitbucket Server
 * [Opentrackers.org](https://opentrackers.org/downloading-ebooks-textbooks/) - (2017) A guide to help people find ebooks & textbooks
 * [Reddit](https://www.reddit.com/r/FreeEBOOKS/) - Free Ebooks
+* [Broadcastify](https://www.broadcastify.com/listen/coid/1) - Listen Live to Police, Fire, EMS, Aviation, and Rail Audio Feeds
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
