@@ -317,6 +317,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
 * [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
 * [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
+* [Erik Dietrich](https://www.daedtech.com/side-hustle-ideas-software-developers/) - (2017) Side Hustle Ideas for Software Developers
 
 ## Cryptocurrency
 > News
@@ -3066,6 +3067,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeremy Phelps](http://jeremyphelps.com/blog/why-youre-having-trouble-hiring-developers.html) - (2017) Why you're having trouble hiring developers
 * [Erik Dietrich](https://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - (2013) How Developers Stop Learning: Rise of the Expert Beginner
 * [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
+* [Erik Dietrich](https://www.daedtech.com/side-hustle-ideas-software-developers/) - (2017) Side Hustle Ideas for Software Developers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
