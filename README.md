@@ -607,6 +607,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
 * [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
 * [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
+* [Sam Thielman](https://news.vice.com/en_us/article/8xm7dx/rick-and-morty-is-a-tv-powerhouse-because-millennials-are-broke) - (2017) Why broke millennials love “Rick and Morty”
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -857,6 +858,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Rob Kinyon**](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*? 
 * [Jennifer Riggins](https://thenewstack.io/call-rotations-best-wake-devs-middle-night) - (2018) On Call Rotations: How Best to Wake Devs Up in the Middle of the Night
 * [Robert Treat](https://sysadvent.blogspot.be/2017/12/day-6-sysadmins-evolution-of-role.html) - (2017) sysadmins - the evolution of a role amidst revolutionary hype.
+* [Etienne Tremel](https://container-solutions.com/deployment-strategies/) - (2017) Deployment Strategies
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1194,6 +1196,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [James Turnbull](https://increment.com/development/an-introduction-to-local-development-with-containers/) - (2017) An introduction to local development with containers
 * [Jérôme Petazzoni](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go/33-Error_handling_can_be_verboseif) - [Slides] (2013) Docker and Go: why did we decide to write Docker in Go?
 * [Venkatesan Murugan](https://dzone.com/articles/top-10-benefits-you-will-get-by-using-docker) - (2018) Top 10 Benefits You Will Get by Using Docker
+ * [Diogo Monica](https://www.youtube.com/watch?v=LmUw2H6JgJo) - [Video] (2016) Best practices for building secure Docker images
  
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -1329,6 +1332,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sachin Arote](https://medium.com/@sachin.arote1/kubernetes-best-practices-9b1435a4cb53) - (2017) Kubernetes Best Practices
 * [Sandeep Dinesh](https://speakerdeck.com/thesandlord/kubernetes-best-practices) - [Slides] (2017) Kubernetes Best Practices
 * [Sandeep Dinesh](https://www.weave.works/blog/kubernetes-best-practices) - (2018) Top 5 Kubernetes Best Practices From Sandeep Dinesh (Google)
+* [Ádám Sándor](https://container-solutions.com/propagating-configuration-from-terraform-to-kubernetes-apps/) - (2018) Propagating configuration from Terraform to Kubernetes Apps
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -2191,6 +2195,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [MorganGeek](http://morgangeek.be//minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
 * [Vimeo](https://vimeo.com/) - The high-quality home for video hosting and watching in HD with no ads, used by a vast number of indie filmmakers. The place to find refreshing, art-house movies to stream on demand.
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
+* [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
 
 # Music 
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
@@ -3032,6 +3037,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alon Altman](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - (2015) Falsehoods Programmers believe about Gender
 * [Patrick Louys](https://patricklouys.com/2017/12/27/become-a-better-developer-in-2018/) - (2017) Become a better developer in 2018
 * [Joel Kemp](https://hackernoon.com/work-for-an-employer-that-builds-something-you-love-58f4ced947e9) - (2017) Work for an employer that builds something you love
+* [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4424,6 +4430,9 @@ Raw
 * [John B. Sparks](http://www.visualcapitalist.com/histomap/) - Histomap: Visualizing the 4,000 Year History of Global Power
 * [Atlas of Prejudice](https://atlasofprejudice.com/) - salacious political incorrectness and unconventional historical studies, with maps
 * [Yanko Tsvetkov](https://atlasofprejudice.com/tearing-europe-apart-10d01e876eab) - (2014) Tearing Europe Apart | 20 ways to break Europe. Did the laws of neuroscience shape European history?
+* [Sean Illing](https://www.vox.com/2017/12/20/16772670/baby-boomers-millennials-congress-debt) - (2017) How the baby boomers — not millennials — screwed America | “The boomers inherited a rich, dynamic country and have gradually bankrupted it."
+* [Joshua Rothman](https://www.newyorker.com/books/page-turner/a-new-history-of-the-second-world-war) - (2017) A New History of the Second World War
+* [The Huffington Post](http://highline.huffingtonpost.com/articles/en/poor-millennials/) - Millenials Are Screwed | Why millennials are facing the scariest financial future of any generation since the Great Depression.
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
