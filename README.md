@@ -315,6 +315,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
 * [John B. Sparks](http://www.visualcapitalist.com/histomap/) - Histomap: Visualizing the 4,000 Year History of Global Power
 * [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
+* [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
 
 ## Cryptocurrency
 > News
@@ -1852,6 +1853,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joel Kemp](https://hackernoon.com/work-for-an-employer-that-builds-something-you-love-58f4ced947e9) - (2017) Work for an employer that builds something you love
 * [Abduzeedo](http://abduzeedo.com/tags/perfect-office) - Design Inspiration for the perfect office
 * [Posture Desk](https://posturedesk.shop/blogs/posture-blog/burning-calories-standing-up-vs-sitting) - (2017) How many hours a day do you think we sit? Don't feel like sitting? We have a desk for that view
+* [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
+* [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2704,6 +2707,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mehdi Cherti](http://mehdi.cherti.name/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html) - (2017) Improving my productivity using Pomodoro: takeaways after 2 years of practice
 * [Vincent Bevins](https://theoutline.com/post/2595/productivity-is-dangerous) - (2017) Productivity is dangerous | You know who else was productive?
 * [Posture Desk](https://posturedesk.shop/blogs/posture-blog/burning-calories-standing-up-vs-sitting) - (2017) How many hours a day do you think we sit? Don't feel like sitting? We have a desk for that view
+* [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
+* [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -4063,6 +4068,7 @@ Raw
 * [Kunal Shandilya](https://byrslf.co/what-happens-when-you-stop-trying-a0c26d93c95d) - (2017) What Happens When You Stop Trying?
 * [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
 * [Tiffanie Wen](http://www.bbc.com/capital/story/20170627-the-tricks-to-make-yourself-effortlessly-charming) - (2017) The tricks to make yourself effortlessly charming
+* [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -4462,6 +4468,7 @@ Raw
 * [Sean Illing](https://www.vox.com/2017/12/20/16772670/baby-boomers-millennials-congress-debt) - (2017) How the baby boomers — not millennials — screwed America | “The boomers inherited a rich, dynamic country and have gradually bankrupted it."
 * [Joshua Rothman](https://www.newyorker.com/books/page-turner/a-new-history-of-the-second-world-war) - (2017) A New History of the Second World War
 * [The Huffington Post](http://highline.huffingtonpost.com/articles/en/poor-millennials/) - Millenials Are Screwed | Why millennials are facing the scariest financial future of any generation since the Great Depression.
+* [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
