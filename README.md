@@ -1579,6 +1579,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Opentrackers.org](https://opentrackers.org/downloading-ebooks-textbooks/) - (2017) A guide to help people find ebooks & textbooks
 * [Reddit](https://www.reddit.com/r/FreeEBOOKS/) - Free Ebooks
 * [Broadcastify](https://www.broadcastify.com/listen/coid/1) - Listen Live to Police, Fire, EMS, Aviation, and Rail Audio Feeds
+* [Hacker News](https://news.ycombinator.com/item?id=16044718) - listen to airports, police, radio, live bitcoin transactions, and more
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
