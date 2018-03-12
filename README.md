@@ -620,6 +620,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Information is Beautiful](http://www.informationisbeautiful.net/) - the world’s data, information and knowledge distilled into beautiful and useful graphs & diagrams.
 * [visual complexity](http://www.visualcomplexity.com/vc/) - A visual exploration on mapping complex networks | beautiful graphs in various topics
 * [Worldometers](http://www.worldometers.info/) - shows estimated current numbers based on statistics and projections from the most reputable official organizations, for economics, media, world population, etc.
+* [Evan Sangaline](https://intoli.com/blog/analyzing-one-million-robots-txt-files/) - (2017) One Million robots.txt Files
 
 # DevOps
 > News
@@ -859,6 +860,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jennifer Riggins](https://thenewstack.io/call-rotations-best-wake-devs-middle-night) - (2018) On Call Rotations: How Best to Wake Devs Up in the Middle of the Night
 * [Robert Treat](https://sysadvent.blogspot.be/2017/12/day-6-sysadmins-evolution-of-role.html) - (2017) sysadmins - the evolution of a role amidst revolutionary hype.
 * [Etienne Tremel](https://container-solutions.com/deployment-strategies/) - (2017) Deployment Strategies
+* [bridgetkromhout/devops-against-humanity](https://github.com/bridgetkromhout/devops-against-humanity) - DevOps Against Humanity (an expansion for Cards Against Humanity)
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1021,6 +1023,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Carl Chenet](https://carlchenet.com/the-slack-threat/) - (2017) The Slack Threat | why you may need alternatives to slack
 * [Edzo Botjes](https://medium.com/ignation/time-to-replace-slack-who-will-win-mattermost-or-riot-matrix-a090e9cdc219) - (2017) Time to replace Slack! Who will win, MatterMost or Riot/Matrix? | alternatives to slack
 * [Jason Hand](https://dzone.com/articles/choosing-a-chatbot-from-hubot-to-yetibot-what-you) - (2017) Choosing a Chatbot: From Hubot to Yetibot, What You Need to Know
+* [Samuel Hulick](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea) - (2016) Slack, I’m Breaking Up with You
+* [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
@@ -2129,6 +2133,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ian Langworth](https://statico.github.io/vim3.html) - Vim After 15 Years
 * [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - YouCompleteMe : A code-completion engine for Vim **Bonus** : [website](http://valloric.github.io/YouCompleteMe/)
 * [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - awesome list of tips and resources for Vim
+* [Roger Guldbrandsen](https://kinbiko.com/vim/my-shiniest-vim-gems/) - (2017) Vim: My Shiniest Gems
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -2750,6 +2755,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Culture Codes](https://tettra.co/culture-codes/handbooks/) - Employee Handbox Examples | A collection of company handbooks, employee manuals, and more from real companies.
 * [GSMArena.com](https://www.gsmarena.com/) - mobile phone reviews, news, specifications and more...
 * [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter
+* [Samuel Hulick](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea) - (2016) Slack, I’m Breaking Up with You
 
 # Programming
 > News
@@ -3041,6 +3047,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joel Kemp](https://hackernoon.com/work-for-an-employer-that-builds-something-you-love-58f4ced947e9) - (2017) Work for an employer that builds something you love
 * [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
 * [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
+* [Jeremy Phelps](http://jeremyphelps.com/blog/why-youre-having-trouble-hiring-developers.html) - (2017) Why you're having trouble hiring developers
+* [Erik Dietrich](https://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - (2013) How Developers Stop Learning: Rise of the Expert Beginner
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3342,6 +3350,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chris Wellons](http://nullprogram.com/blog/2014/12/09/) - (2014) How to build DOS COM files with GCC
 * [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
 * [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :memo: A list of Game Development resources to make magic happen.
+* [Brandon Sheffield](https://www.gamasutra.com/view/news/310570/Developers_share_their_most_memorable_dirty_coding_tricks.php) - (2017) Developers share their most memorable dirty coding tricks
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
@@ -3818,6 +3827,7 @@ Raw
 * [ezekg/git-hound](https://github.com/ezekg/git-hound) -  Git plugin that prevents sensitive data from being committed.
 * [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 * [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
+* [Brandon Sheffield](https://www.gamasutra.com/view/news/310570/Developers_share_their_most_memorable_dirty_coding_tricks.php) - (2017) Developers share their most memorable dirty coding tricks
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -3934,6 +3944,7 @@ Raw
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/30/python-for-java-developers/) - (2016) Maintainable Python applications: a guide for skeptical Java developers
 * [Nick Humrich](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1) - (2017) Yes, Python is Slow, and I Don’t Care | A rant on sacrificing performance for productivity.
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+* [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
@@ -4526,6 +4537,7 @@ Raw
 * [Ask Ubuntu on Stack Exchange](https://askubuntu.com/questions/631077/problem-with-deluge-no-incoming-connection) - Problem with Deluge: “no incoming connection!”
 * [Mike Swieton](https://spin.atomicobject.com/2018/01/27/debugging-complex-problems/) - (2018) Debugging a Complex Problem? Think Like an Epidemiologist
 * [Stack Overflow](https://stackoverflow.com/a/47965269/2309958) - Docker - Cannot remove dead container | `rm: cannot remove /var/lib/docker/overlay/<hash>/merged: Device or resource busy` Solution : grep <hash> /proc/*/mountinfo then find the pid of <hash> and kill it
+* [Brandon Sheffield](https://www.gamasutra.com/view/news/310570/Developers_share_their_most_memorable_dirty_coding_tricks.php) - (2017) Developers share their most memorable dirty coding tricks
 
 # UX / UI
 > News
