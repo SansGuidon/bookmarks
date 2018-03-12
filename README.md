@@ -316,6 +316,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John B. Sparks](http://www.visualcapitalist.com/histomap/) - Histomap: Visualizing the 4,000 Year History of Global Power
 * [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
 * [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
+* [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
 
 ## Cryptocurrency
 > News
@@ -4097,6 +4098,7 @@ Raw
 * [Sarah Cooper](https://thecooperreview.com/how-to-be-seen-as-an-expert-in-artificial-intelligence/) - [Humor] How to Be Seen as an Expert in Artificial Intelligence
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
 * [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - Artificial Intelligence (AI) courses, books, video lectures and papers.
+* [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -4469,6 +4471,7 @@ Raw
 * [Joshua Rothman](https://www.newyorker.com/books/page-turner/a-new-history-of-the-second-world-war) - (2017) A New History of the Second World War
 * [The Huffington Post](http://highline.huffingtonpost.com/articles/en/poor-millennials/) - Millenials Are Screwed | Why millennials are facing the scariest financial future of any generation since the Great Depression.
 * [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
+* [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
