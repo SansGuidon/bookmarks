@@ -193,6 +193,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
 * [Della Anjeh aka Black Queen of Tech](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9) - (2017) How to Write Awesome Tech Specs
 * [Fred Hébert](https://ferd.ca/tout-est-terrible.html) - (2017) Tout est Terrible | a very cynical view of technology
+* [Joël Spolsky](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) - (2001) Don’t Let Architecture Astronauts Scare You | about productivity
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -3896,6 +3897,7 @@ Raw
 * [Brian Graham](https://blog.gitprime.com/what-slows-development-teams/) - (2017) What slows development teams
 > Hofstadter’s Law: It always takes longer than you expect, even when you take into account Hofstadter’s Law. – Douglas Hofstadter
 * [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+* [Joël Spolsky](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) - (2001) Don’t Let Architecture Astronauts Scare You | about productivity
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
