@@ -519,7 +519,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
 * [Srinivas Rao](https://medium.com/the-mission/professionals-vs-amateurs-6ef9ec64cbc3) - (2018) Professionals vs Amateurs
 > When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
-* [The XY problem](http://xyproblem.info/) - is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
+* [The XY problem](http://xyproblem.info/) - (2014) is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
 * [Eric Steven Raymond, Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
 
 # Creativity
@@ -2738,7 +2738,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
 * [Srinivas Rao](https://medium.com/the-mission/professionals-vs-amateurs-6ef9ec64cbc3) - (2018) Professionals vs Amateurs
 > When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
-* [The XY problem](http://xyproblem.info/) - is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
+* [The XY problem](http://xyproblem.info/) - (2014) is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -4413,6 +4413,7 @@ Raw
 * [ezekg/git-hound](https://github.com/ezekg/git-hound) -  Git plugin that prevents sensitive data from being committed.
 * [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 * [Jamie Maguire](https://www.devteam.space/blog/aws-top-10-security-tips/) - (2018) AWS Top 10 Security Tips
+* [Biarity](https://biarity.gitlab.io/2018/02/23/passwordless/) - (2018) An argument for passwordless | consider alternatives to password authentication
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
