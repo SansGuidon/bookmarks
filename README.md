@@ -1060,6 +1060,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Rudolf Olah](https://sourcecontribute.com/2015/09/26/zulip-slack-hipchat-competitor/) - (2015) Zulip, an Open Source Slack competitor
 * [Rudolf Olah](https://sourcecontribute.com/2017/09/10/riot-im-0-12-is-out-yes-its-better-than-slack/) - (2017) Riot.im 0.12 is out, yes it’s better than Slack | but I see a very small number of [apps, tools and bridges](https://about.riot.im/apps-bots-and-bridges/). See also [Running your own encrypted chat service with Matrix and Riot](https://gist.github.com/attacus/cb5c8a53380ca755b10a5b37a636a0b9)
 * [Slack](https://a.slack-edge.com/4c1ae/img/security_ent/Security_White_Paper.pdf) - [PDF] Slack’s approach to security
+* [Atlassian Release Notes](https://atlassianreleasenotes.tumblr.com/tagged/hipchatdatacenter) - HipChat DataCenter Release Notes
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
@@ -2454,6 +2455,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [phanan/htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
 
 ## Atlassian
+> News
+* [Atlassian Release Notes](https://atlassianreleasenotes.tumblr.com/latestversions) - All release notes for all Atlassian products in one place!
+
+> Learn
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
 
 ## Infrastructure
