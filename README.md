@@ -1627,6 +1627,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Broadcastify](https://www.broadcastify.com/listen/coid/1) - Listen Live to Police, Fire, EMS, Aviation, and Rail Audio Feeds
 * [Hacker News](https://news.ycombinator.com/item?id=16044718) - listen to airports, police, radio, live bitcoin transactions, and more
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
+* [You are listening to](http://youarelistening.to/losangeles) - Los Angeles
+* [You are listening to](http://youarelistening.to/nasa) - Nasa
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
