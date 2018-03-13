@@ -78,6 +78,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
   * [Correctness](#correctness)
   * [Database](#database)
   * [Debugging](#debugging)
+  * [Elixir](#elixir)
   * [Erlang](#erlang)
   * [Gamedev](#gamedev)
   * [Git](#git)
@@ -138,8 +139,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
 * :star: [**The Twelve-Factor App**](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
-* [Fred Hebert](https://ferd.ca/queues-don-t-fix-overload.html) - Queues Don't Fix Overload
-* [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
+* [Fred Hébert](https://ferd.ca/queues-don-t-fix-overload.html) - Queues Don't Fix Overload
+* [Fred Hébert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 * [StackExchange](https://stackexchange.com/performance) - Amazing presentation of Stack Exchange infrastructure. All about performance
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
@@ -191,6 +192,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Abduzeedo](http://abduzeedo.com/tags/perfect-office) - Design Inspiration for the perfect office
 * [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
 * [Della Anjeh aka Black Queen of Tech](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9) - (2017) How to Write Awesome Tech Specs
+* [Fred Hébert](https://ferd.ca/tout-est-terrible.html) - (2017) Tout est Terrible | a very cynical view of technology
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -399,7 +401,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
 * [Wesley Moore](http://www.wezm.net/technical/2017/10/pair-programming/) - Pair Programming
 * [Jacob Shriar](http://switchandshift.com/13-scary-statistics-on-employee-engagement) - 13 Scary Statistics on Employee Engagement
-* [Fred Hebert](https://ferd.ca/don-t-be-a-jerk-write-documentation.html) - Don't be a Jerk: Write Documentation
+* [Fred Hébert](https://ferd.ca/don-t-be-a-jerk-write-documentation.html) - Don't be a Jerk: Write Documentation
 * [Andrew Bosworth](http://boz.com/articles/say-no.html) - Say No
 * [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
 * [Shubhro Saha](http://www.shubhro.com/2017/09/15/two-sentences-better-meetings/) - (2017) Two sentences for better meetings
@@ -2159,7 +2161,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.  
 * [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
 * [Josh Reichardt](https://thepracticalsysadmin.com/useful-vim-plugins/) - Useful Vim Plugins
-* [Fred Hebert](https://ferd.ca/vim-and-composability.html) - Vim and Composability
+* [Fred Hébert](https://ferd.ca/vim-and-composability.html) - Vim and Composability
 * [Ian Langworth](https://statico.github.io/vim3.html) - Vim After 15 Years
 * [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - YouCompleteMe : A code-completion engine for Vim **Bonus** : [website](http://valloric.github.io/YouCompleteMe/)
 * [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - awesome list of tips and resources for Vim
@@ -2356,7 +2358,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul English](https://opensource.com/article/17/7/truth-about-sysadmins) - (2017) The truth about sysadmins
 * [plop_plop_sys](http://linuxfr.org/users/plop_plop_sys/journaux/so-you-wanna-be-a-sysadmin-trolldi-inside) - (2014) [FR] :fr: - Journal So, you wanna be a sysadmin ? (Trolldi inside)
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
-* [Fred Hebert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
+* [Fred Hébert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
@@ -3070,7 +3072,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ashton Kemerling](http://ashtonkemerling.com/blog/2014/03/24/disdain/) - (2014) Disdain | the accomplished engineer knows that completing a task is not about the number of hours spent, but the quality
 * [Andrew Hunt and David Thomas](https://pragprog.com/the-pragmatic-programmer/extracts/coincidence) - (1999) Programming by Coincidence | Don’t Program by Coincidence. Extract from The Pragmatic Programmer book
 * [Jakub Holy](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
-* [Fred Hebert](http://www.codemesh.io/codemesh2017/fred-hebert) - (2017) Everything is Terrible : how fundamental components can end up causing us problems. Target audience : Developers who enjoy cynicism. **Bonus** : [Slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/766/original/Fred_Herbert_-_Everything_is_terrible.pdf?1510584735)
+* [Fred Hébert](https://www.codemesh.io/codemesh2017/fred-hebert) - (2017) Everything is Terrible : how fundamental components can end up causing us problems. Target audience : Developers who enjoy cynicism. **Bonus** : [Slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/766/original/Fred_Herbert_-_Everything_is_terrible.pdf?1510584735)
 * [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
 * [Christian Maioli M](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 * [Esther Schindler](https://blog.newrelic.com/2016/02/22/8-ways-become-a-better-coder/) - (2016) 8 Ways to Become a Better Coder
@@ -3098,6 +3100,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
 * [Erik Dietrich](https://www.daedtech.com/side-hustle-ideas-software-developers/) - (2017) Side Hustle Ideas for Software Developers
 * [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
+* [Fred Hébert](https://ferd.ca/tout-est-terrible.html) - (2017) Tout est Terrible | a very cynical view of technology
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3360,14 +3363,17 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
 * [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
 
+## Elixir
+* [David Schmitz](https://www.slideshare.net/koenighotze/elixir-easy-fun-for-busy-developers-devoxx-2016) - [Slides] (2016) Elixir - Easy fun for busy developers | Elixir combines Ruby's love for programmers with the absolute power that is the Erlang platform. 
+
 ## Erlang
 > News
 * [This Week In Erlang](https://gootik.github.io/this-week-in-erlang/) - Weekly review of things that happen in the Erlang world
 
 > Learn
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
-* [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hebert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
-* [PropEr Testing](http://propertesting.com/) - Fred Hebert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
+* [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
+* [PropEr Testing](http://propertesting.com/) - Fred Hébert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) - [Book] Online book. Reading this tutorial should be one of your first steps in learning Erlang
 * [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - list of amazingly awesome Elixir and Erlang libraries, resources and more  
 * [uhub/awesome-erlang](https://github.com/uhub/awesome-erlang) - list of awesome Erlang frameworks, libraries and software.
@@ -3595,6 +3601,7 @@ Raw
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 * [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys key
 * [Shahidh K Muhammed](https://blog.hasura.io/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c) - (2018) The Ultimate Guide to Writing Dockerfiles for Go Web-apps
+* [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A Gopher's Reading List : a reading list of blog posts about Go.
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -4058,7 +4065,7 @@ Raw
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
 * [Software Engineering Radio](http://www.se-radio.net/2018/02/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity/) - (2018) SE-Radio Episode 317: Travis Kimmel on Measuring Software Engineering Productivity
 * [Functional Geekery](https://www.functionalgeekery.com/) - A podcast on Functional Programming, covering topics across multiple languages
-* [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hebert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
+* [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of open source.
 * [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
 
@@ -4216,7 +4223,7 @@ Raw
 * [Eric Pement](http://www.pement.org/awk/awk_sed.txt) - (2001) Comparing similar operations with sed and awk
 * [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash + some tips
 * [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
-* [Fred Hebert](https://ferd.ca/awk-in-20-minutes.html) - Awk in 20 Minutes
+* [Fred Hébert](https://ferd.ca/awk-in-20-minutes.html) - Awk in 20 Minutes
 * [GreyCat](http://mywiki.wooledge.org/BashFAQ/082) - Why is $(...) preferred over `...` (backticks)?
 * [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashFAQ) - BASH Frequently Asked Questions
@@ -4577,7 +4584,7 @@ Raw
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/02/10/fail-fast-spend-less-time-in-root-cause-analysis/) - (2015) Fail fast, spend less time in root cause analysis
 * [Jakub Holý](https://theholyjava.wordpress.com/2016/03/04/dont-add-unnecessary-checks-to-your-code-pretty-please/) - (2016) Don’t add unnecessary checks to your code, pretty please!
 * [Robert Ecker](https://dev.to/teamcoder/the-problem-with-high-test-coverage-4dh) - (2017) The Problem With High Test Coverage
-* [PropEr Testing](http://propertesting.com/) - Fred Hebert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
+* [PropEr Testing](http://propertesting.com/) - Fred Hébert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
 * [Anna Kennedy](http://annaken.github.io/testing-packer-builds-with-serverspec) - (2017) Testing Packer builds with Serverspec
 * [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight 
 
