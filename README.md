@@ -3861,6 +3861,10 @@ Raw
 * [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
 * [Brandon Sheffield](https://www.gamasutra.com/view/news/310570/Developers_share_their_most_memorable_dirty_coding_tricks.php) - (2017) Developers share their most memorable dirty coding tricks
 * [Dan Kelch](https://spin.atomicobject.com/2017/12/13/favorite-git-commands/) - (2017) Git Good: Improve Your Version Control Skills
+* [Ben Thompson](https://blog.gitprime.com/2017-software-developer-productivity-survey/) - (2017) 2017 Software Developer Productivity Survey
+* [Ben Thompson](https://blog.gitprime.com/6-causes-of-code-churn-and-what-you-should-do-about-them/) - (2016) 6 causes of code churn and what you should do about them
+* [Brian Graham](https://blog.gitprime.com/what-slows-development-teams/) - (2017) What slows development teams
+> Hofstadter’s Law: It always takes longer than you expect, even when you take into account Hofstadter’s Law. – Douglas Hofstadter
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
