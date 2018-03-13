@@ -348,6 +348,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bruce Hunt](https://hackernoon.com/how-to-crush-the-crypto-market-quit-your-job-move-to-paradise-and-do-whatever-you-want-the-rest-27a4a3cc2bb1) - (2018) How to Crush the Crypto Market, Quit Your Job, Move to Paradise and Do Whatever You Want the Rest of Your Life
 * [Coin and Crypto](https://hackernoon.com/bitcoin-is-outdated-tech-these-3-alternatives-should-be-on-your-radar-57cf806d34df) - (2018) Bitcoin is outdated tech. These 3 alternatives should be on your radar.
 * [Linda Xie](https://medium.com/@linda.xie/tips-for-crypto-newcomers-2ee5ab2d85c1) - (2018) Tips for crypto newcomers
+* [Bitcoin Regret Club](https://bitcoinregret.club/) - satirical site for people who want to calculate all the money they you could’ve made.
 
 # Collaboration & Problem solving
 > News
@@ -524,6 +525,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
 * [The XY problem](http://xyproblem.info/) - (2014) is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
 * [Eric Steven Raymond, Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
+* [Josh Johnson](https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/) - (2015) DevOps Is Bullshit: Why One Programmer Doesn’t Do It Anymore
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -686,6 +688,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DevOps'ish](https://devopsish.com/) - DevOps, Cloud Native, Open Source, and the ‘ish in between.
 * [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins. 
 * [SysAdvent Calendar](https://www.redpill-linpro.com/sysadvent/) - Pre Christmas Tips and Tricks for Sysadmins
+* [AWS News Blog](https://aws.amazon.com/fr/blogs/aws/)
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -886,6 +889,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Continuous Delivery](https://continuousdelivery.com/) - What is / Why Continuous Delivery ? 
 * [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
 * [Jamie Maguire](https://www.devteam.space/blog/aws-top-10-security-tips/) - (2018) AWS Top 10 Security Tips
+* [Josh Johnson](https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/) - (2015) DevOps Is Bullshit: Why One Programmer Doesn’t Do It Anymore
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1955,6 +1959,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sarah Cooper](https://thecooperreview.com/how-to-say-no-without-saying-no/) - How to Say No Without Ever Saying No
 * [Sarah Cooper](https://thecooperreview.com/here-are-the-10-most-deeply-meaningful-team-building-exercises/) - Here are the 10 Most Deeply Meaningful Team Building Exercises
 * [Sarah Cooper](https://thecooperreview.com/how-to-outshine-everyone-on-linkedin/) - How to Outshine Everyone on LinkedIn
+* [Bitcoin Regret Club](https://bitcoinregret.club/) - satirical site for people who want to calculate all the money they you could’ve made with Bitcoin
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
