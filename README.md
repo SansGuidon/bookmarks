@@ -4656,6 +4656,7 @@ Raw
 * [PropEr Testing](http://propertesting.com/) - Fred Hébert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
 * [Anna Kennedy](http://annaken.github.io/testing-packer-builds-with-serverspec) - (2017) Testing Packer builds with Serverspec
 * [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight 
+* [Michal Charemza](https://charemza.name/blog/posts/methodologies/testing/questions-to-ask-yourself-when-writing-tests/) - (2018) Questions to ask yourself when writing tests : Talk to yourself to make sure your tests help you achieve your aims
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
