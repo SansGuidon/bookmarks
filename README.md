@@ -515,6 +515,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
 * [Amy M Haddad](https://medium.com/swlh/effective-tips-for-working-remotely-23cc290a8c08) - (2017) Effective Tips for Working Remotely
 * [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
+* [Srinivas Rao](https://medium.com/the-mission/professionals-vs-amateurs-6ef9ec64cbc3) - (2018) Professionals vs Amateurs
+> When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -570,6 +572,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
 * [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
 * [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
+* [Srinivas Rao](https://medium.com/the-mission/professionals-vs-amateurs-6ef9ec64cbc3) - (2018) Professionals vs Amateurs
+> When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -2724,6 +2728,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Posture Desk](https://posturedesk.shop/blogs/posture-blog/burning-calories-standing-up-vs-sitting) - (2017) How many hours a day do you think we sit? Don't feel like sitting? We have a desk for that view
 * [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
 * [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
+* [Srinivas Rao](https://medium.com/the-mission/professionals-vs-amateurs-6ef9ec64cbc3) - (2018) Professionals vs Amateurs
+> When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
