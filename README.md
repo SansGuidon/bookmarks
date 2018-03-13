@@ -1629,6 +1629,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 * [You are listening to](http://youarelistening.to/losangeles) - Los Angeles
 * [You are listening to](http://youarelistening.to/nasa) - Nasa
+* [Hurricane Electric BGP Toolkit](https://bgp.he.net) - This website is an Internet analysis site for the whole Internet. useful tool to collect ip, addresses, etc
+* [BGPView](https://bgpview.io/) - allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names.
+* [COMODO Certificate Search](https://crt.sh/)
+* [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
+* [Censys](https://censys.io/) - Find and analyze every reachable server and device on the Internet.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -1755,6 +1760,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Two Factor Auth (2FA)](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 * [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+* [Hurricane Electric BGP Toolkit](https://bgp.he.net) - This website is an Internet analysis site for the whole Internet. useful tool to collect ip, addresses, etc
+* [BGPView](https://bgpview.io/) - allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names.
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2302,6 +2309,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-setup-default-gateway-with-route-command/) - (2015) Linux setup default gateway with route command
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-route-add/) - (2013) Linux route Add Command Examples
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-bastion-host/) - (2009) Configure Linux As Bastion Host
+* [Hurricane Electric BGP Toolkit](https://bgp.he.net) - This website is an Internet analysis site for the whole Internet. useful tool to collect ip, addresses, etc
+* [BGPView](https://bgpview.io/) - allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names.
 
 # News
 * :star: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
@@ -2623,6 +2632,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 * [Carl Chenet](https://carlchenet.com/the-slack-threat/) - (2017) The Slack Threat | why you may need alternatives to slack
 * [JC Brand](https://opkode.com/blog/slacks-bait-and-switch/) - (2018) Slack's bait and switch | We all know the real reason Slack has closed off their gateways. Their business model dictates that they should. They're a typical walled garden, information silo or Siren Server
+* [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
 
 # Productivity
 > News
@@ -4473,6 +4483,8 @@ Raw
 * [Fred Blaise](https://modernciso.com/2018/02/21/secrets-management-for-security-and-speed/) - (2018) Secrets Management for Security and Speed
 * [Matrix.org Blog](https://matrix.org/blog/home/) - An open network for secure, decentralized communication.
 * [Slack](https://a.slack-edge.com/4c1ae/img/security_ent/Security_White_Paper.pdf) - [PDF] Slack’s approach to security
+* [COMODO Certificate Search](https://crt.sh/)
+* [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
