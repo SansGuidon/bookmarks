@@ -1629,6 +1629,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 * [You are listening to](http://youarelistening.to/losangeles) - Los Angeles
 * [You are listening to](http://youarelistening.to/nasa) - Nasa
+* [Reddit](https://www.reddit.com/domain/youarelistening.to/) - youarelistening.to on reddit
 * [Hurricane Electric BGP Toolkit](https://bgp.he.net) - This website is an Internet analysis site for the whole Internet. useful tool to collect ip, addresses, etc
 * [BGPView](https://bgpview.io/) - allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names.
 * [COMODO Certificate Search](https://crt.sh/)
@@ -2783,6 +2784,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
 * [The XY problem](http://xyproblem.info/) - (2014) is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
 * [Matthew Yglesias](https://www.vox.com/2014/8/5/5970767/case-against-time-zones) - (2014) The case against time zones: They're impractical & outdated
+* [Mark Johnson](https://hackernoon.com/how-i-shipped-six-side-projects-in-2017-3dde6c77adbb) - (2018) How I Launched Six Side Projects in 2017
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -4485,6 +4487,8 @@ Raw
 * [Slack](https://a.slack-edge.com/4c1ae/img/security_ent/Security_White_Paper.pdf) - [PDF] Slack’s approach to security
 * [COMODO Certificate Search](https://crt.sh/)
 * [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
+* [Hak5](https://www.hak5.org/blog/15-second-password-hack-mr-robot-style) - (2016) 15 Second Password Hack, Mr Robot Style : Pilfering Passwords with the USB Rubber Ducky
+* [WonderHowTo](https://null-byte.wonderhowto.com/how-to/mr-robot-hacks/) - Mr. Robot Hacks how-to's
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
