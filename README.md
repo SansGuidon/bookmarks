@@ -1506,6 +1506,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vault Docs](https://www.vaultproject.io/docs/concepts/tokens.html) - Tokens
 * [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
 * [Armon Dadgar](https://www.hashicorp.com/blog/why-we-need-dynamic-secrets) - (2018) Why We Need Dynamic Secrets | how applications do a terrible job keeping secrets, and why we need to embrace ephemeral credentials, or "Dynamic Secrets" in Vault.
+* [Armon Dadgar](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) - [Podcast] (2017) SE-Radio Episode 311: Armon Dadgar on Secrets Management
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
@@ -4078,6 +4079,7 @@ Raw
 * [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of open source.
 * [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
 * [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
+* [Armon Dadgar](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) - [Podcast] (2017) SE-Radio Episode 311: Armon Dadgar on Secrets Management
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
@@ -4431,6 +4433,7 @@ Raw
 * [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 * [Jamie Maguire](https://www.devteam.space/blog/aws-top-10-security-tips/) - (2018) AWS Top 10 Security Tips
 * [Biarity](https://biarity.gitlab.io/2018/02/23/passwordless/) - (2018) An argument for passwordless | consider alternatives to password authentication
+* [Armon Dadgar](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) - [Podcast] (2017) SE-Radio Episode 311: Armon Dadgar on Secrets Management
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
