@@ -1454,6 +1454,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christoph Görn](http://rhelblog.redhat.com/2016/10/03/peace-in-our-time/) - Peace in Our Time: Bringing Ops and Dev Together
 * [Tom Donohue](https://cleverbuilder.com/articles/openshift-nexus-docker-registry/) - (2017) Deploy and use the Nexus Docker registry in OpenShift
 * [Red Hat Docs](https://access.redhat.com/documentation/en-us/openshift_container_platform/3.7/html/day_two_operations_guide/) - Day Two Operations Guide for OpenShift Container Platform 3.7
+* [Jorge Tudela Gonzales De Riancho](https://blog.openshift.com/oc-command-newbies/) - (2018) The oc Command for Newbies
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
