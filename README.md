@@ -200,6 +200,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
 * [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
 * [Christelle Mozzati](http://blog.christellemozzati.fr/un-graphiste-pourquoi-cest-cher/) - (2013) [FR] :fr: Un graphiste, pourquoi c’est cher ?
+* [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
 
 # Books
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -1044,6 +1045,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jason Hand](https://dzone.com/articles/choosing-a-chatbot-from-hubot-to-yetibot-what-you) - (2017) Choosing a Chatbot: From Hubot to Yetibot, What You Need to Know
 * [Samuel Hulick](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea) - (2016) Slack, I’m Breaking Up with You
 * [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
+* [Duncan Bayne](https://lobste.rs/s/3ymveg/slack_s_xmpp_gateway_is_broken_they_won_t_be) - (2018) Slack's XMPP gateway is broken, and they won't be fixing it
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
@@ -3091,6 +3093,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Erik Dietrich](https://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - (2013) How Developers Stop Learning: Rise of the Expert Beginner
 * [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
 * [Erik Dietrich](https://www.daedtech.com/side-hustle-ideas-software-developers/) - (2017) Side Hustle Ideas for Software Developers
+* [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3129,6 +3132,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cprogramming.com](http://www.cprogramming.com/tips/) - C and C++ Programming Tips
 * [Phillip Khandeliants](https://www.viva64.com/en/b/0549/) - (2017) Speeding up the Build of C and C++ Projects
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+* [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
 
 ## Clean code
 > News
@@ -3393,6 +3397,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
 * [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :memo: A list of Game Development resources to make magic happen.
 * [Brandon Sheffield](https://www.gamasutra.com/view/news/310570/Developers_share_their_most_memorable_dirty_coding_tricks.php) - (2017) Developers share their most memorable dirty coding tricks
+* [JR Heard](http://blog.jrheard.com/procedural-dungeon-generation-drunkards-walk-in-clojurescript) - (2016) Procedural Dungeon Generation: A Drunkard's Walk in ClojureScript
+* [JR Heard](http://blog.jrheard.com/procedural-dungeon-generation-cellular-automata) - (2016) Procedural Dungeon Generation: Cellular Automata
 
 ## Git
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
@@ -3997,6 +4003,7 @@ Raw
 * [Nick Humrich](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1) - (2017) Yes, Python is Slow, and I Don’t Care | A rant on sacrificing performance for productivity.
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 * [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
+* [JR Heard](http://blog.jrheard.com/truthiness-and-short-circuit-evaluation-in-python) - (2018) Truthiness and Short-Circuit Evaluation in Python
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
