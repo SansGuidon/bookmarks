@@ -1777,6 +1777,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > News
 * [Itamar Turner-Trauring Blog](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
 * [Simple Programmer](https://simpleprogrammer.com/) - Robert Whitcomb's Blog about soft skills + health & work-life balance for programmers
+* [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - [Podcast] Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
 
 > Learn
 * [Matt Might](http://matt.might.net/articles/work-life-balance/) - (2013) Tips for work-life balance
@@ -1882,6 +1883,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Posture Desk](https://posturedesk.shop/blogs/posture-blog/burning-calories-standing-up-vs-sitting) - (2017) How many hours a day do you think we sit? Don't feel like sitting? We have a desk for that view
 * [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
 * [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
+* [The Knowledge Project](https://www.fs.blog/2017/08/ed-latimore-podcast/) - [Podcast] (2017) Ed Latimore on the Secret to a Happy Life
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2497,6 +2499,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [OpsStack](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/) - [Slides] (2017) Monitoring the SRE Golden Signals | Actually Getting the Metrics from Common Services
 * [Charity Majors](https://honeycomb.io/blog/2017/11/best-practices-for-observability/) - (2017) Best Practices for Observability
 * [Brendan D. Gregg](http://www.brendangregg.com/Perf/linux_observability_tools.png) - [IMG] Linux performance observability tools
+* [Alex Dzyoba](https://alex.dzyoba.com/blog/go-prometheus-service/) - (2018) Instrumenting a Go service for Prometheus
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - Integrating ServiceNow with HipChat
@@ -2524,6 +2527,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
 * [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
 * [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
+* [The Knowledge Project](https://www.fs.blog/2017/08/ed-latimore-podcast/) - [Podcast] (2017) Ed Latimore on the Secret to a Happy Life
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -2601,6 +2605,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Hacker News](https://hn.algolia.com/?query=tricks&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tricks
 * [Hacker News](https://hn.algolia.com/?query=tips&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tips
 * [Hacker News](https://hn.algolia.com/?query=productivity&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Productivity news
+* [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - [Podcast] Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
 
 > Tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
@@ -3604,6 +3609,7 @@ Raw
 * [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys key
 * [Shahidh K Muhammed](https://blog.hasura.io/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c) - (2018) The Ultimate Guide to Writing Dockerfiles for Go Web-apps
 * [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A Gopher's Reading List : a reading list of blog posts about Go.
+* [Alex Dzyoba](https://alex.dzyoba.com/blog/go-prometheus-service/) - (2018) Instrumenting a Go service for Prometheus
 
 ## Groovy 
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -4071,6 +4077,7 @@ Raw
 * [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of open source.
 * [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
+* [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
 
 # Psychology
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
