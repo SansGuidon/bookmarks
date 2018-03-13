@@ -3300,6 +3300,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ronald Jeffries](https://www.ronjeffries.com/articles/017-08ff/clean-code/) - (2017) Clean Code: A Learning
 * [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
 * [Jason McCreary](https://dev.to/gonedark/another-month-of-clean-code-4gig) -  (2017) Another month of clean code 
+* [Brian Barto](https://medium.com/@bartobri/applying-the-linus-tarvolds-good-taste-coding-requirement-99749f37684a) - (2016) Applying the Linus Torvalds “Good Taste” Coding Requirement
 
 ## Conferences 
 > In Belgium
@@ -3910,6 +3911,7 @@ Raw
 > Hofstadter’s Law: It always takes longer than you expect, even when you take into account Hofstadter’s Law. – Douglas Hofstadter
 * [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 * [Joël Spolsky](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) - (2001) Don’t Let Architecture Astronauts Scare You | about productivity
+* [Ben Thompson](https://blog.gitprime.com/engineering-impact-whats-taking-so-long/) - (2016) What’s taking so long?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -4275,6 +4277,7 @@ Raw
 * [Bhaskar Karambelkar](https://dev.to/bhaskar_vk/bash-shell-tricks) - (2017) Bash Shell Tricks
 * [Chris Hermansen](https://opensource.com/article/18/1/two-great-uses-cp-command-update) - (2018) Two great uses for the cp command: Bash shortcuts
 * [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
+* [Eric Pement](http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
