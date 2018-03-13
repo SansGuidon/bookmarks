@@ -1051,6 +1051,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Samuel Hulick](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea) - (2016) Slack, I’m Breaking Up with You
 * [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
 * [Duncan Bayne](https://lobste.rs/s/3ymveg/slack_s_xmpp_gateway_is_broken_they_won_t_be) - (2018) Slack's XMPP gateway is broken, and they won't be fixing it
+* [Matrix.org Blog](https://matrix.org/blog/home/) - An open network for secure, decentralized communication.
+* [Rudolf Olah](https://sourcecontribute.com/2015/09/26/zulip-slack-hipchat-competitor/) - (2015) Zulip, an Open Source Slack competitor
+* [Rudolf Olah](https://sourcecontribute.com/2017/09/10/riot-im-0-12-is-out-yes-its-better-than-slack/) - (2017) Riot.im 0.12 is out, yes it’s better than Slack
+* [Slack](https://a.slack-edge.com/4c1ae/img/security_ent/Security_White_Paper.pdf) - [PDF] Slack’s approach to security
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
@@ -4435,6 +4439,8 @@ Raw
 * [Biarity](https://biarity.gitlab.io/2018/02/23/passwordless/) - (2018) An argument for passwordless | consider alternatives to password authentication
 * [Armon Dadgar](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) - [Podcast] (2017) SE-Radio Episode 311: Armon Dadgar on Secrets Management
 * [Fred Blaise](https://modernciso.com/2018/02/21/secrets-management-for-security-and-speed/) - (2018) Secrets Management for Security and Speed
+* [Matrix.org Blog](https://matrix.org/blog/home/) - An open network for secure, decentralized communication.
+* [Slack](https://a.slack-edge.com/4c1ae/img/security_ent/Security_White_Paper.pdf) - [PDF] Slack’s approach to security
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
