@@ -613,6 +613,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
 * [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
 * [Sam Thielman](https://news.vice.com/en_us/article/8xm7dx/rick-and-morty-is-a-tv-powerhouse-because-millennials-are-broke) - (2017) Why broke millennials love “Rick and Morty”
+* [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -866,6 +867,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Robert Treat](https://sysadvent.blogspot.be/2017/12/day-6-sysadmins-evolution-of-role.html) - (2017) sysadmins - the evolution of a role amidst revolutionary hype.
 * [Etienne Tremel](https://container-solutions.com/deployment-strategies/) - (2017) Deployment Strategies
 * [bridgetkromhout/devops-against-humanity](https://github.com/bridgetkromhout/devops-against-humanity) - DevOps Against Humanity (an expansion for Cards Against Humanity)
+* [Continuous Delivery](https://continuousdelivery.com/) - What is / Why Continuous Delivery ? 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -1589,6 +1591,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Reddit](https://www.reddit.com/r/FreeEBOOKS/) - Free Ebooks
 * [Broadcastify](https://www.broadcastify.com/listen/coid/1) - Listen Live to Police, Fire, EMS, Aviation, and Rail Audio Feeds
 * [Hacker News](https://news.ycombinator.com/item?id=16044718) - listen to airports, police, radio, live bitcoin transactions, and more
+* [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2773,6 +2776,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter
 * [Samuel Hulick](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea) - (2016) Slack, I’m Breaking Up with You
 * [Daichi](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089) - (2017) Boost your productivity using Markdown.
+* [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 
 # Programming
 > News
@@ -3937,6 +3941,7 @@ Raw
 * :star: [**Andrew Yurisich/unmaintainable-code**](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code. **Bonus** : [Original article by Roedy Green / Canadian Minds](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
 * [Thomas Figg (tef)](https://programmingisterrible.com/post/65781074112/devils-dictionary-of-programming) - (2013) Devil’s Dictionary of Programming
 * [Stack Overflow](https://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered) - What is the best comment in source code you have ever encountered? [closed]
+* [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -4101,6 +4106,7 @@ Raw
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
 * [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - Artificial Intelligence (AI) courses, books, video lectures and papers.
 * [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
+* [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
