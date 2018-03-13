@@ -2691,6 +2691,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
 * [Amy M Haddad](https://medium.com/swlh/effective-tips-for-working-remotely-23cc290a8c08) - (2017) Effective Tips for Working Remotely
 * [Zdravko Cvijetic](https://medium.com/personal-growth/two-essential-principles-that-will-help-you-form-or-break-any-habit-73d3d7aa7692) - (2018) Two Principles That Will Help You Form Any Habit
+* [Dinnie Muslihat](https://blog.zenkit.com/how-the-simple-checklist-can-improve-your-productivity-d061f3c893ec) - (2018) How the simple checklist can improve your productivity | A tool to help you accomplish more things in your day
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
