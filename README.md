@@ -190,6 +190,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
 * [Abduzeedo](http://abduzeedo.com/tags/perfect-office) - Design Inspiration for the perfect office
 * [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
+* [Della Anjeh aka Black Queen of Tech](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9) - (2017) How to Write Awesome Tech Specs
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
