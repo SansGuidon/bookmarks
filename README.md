@@ -2432,6 +2432,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Patrick Cable](https://sysadvent.blogspot.be/2017/12/day-4-this-christmas-build-your-own-pki.html) - (2017) This Christmas, build your own PKI
 * [Robert Treat](https://sysadvent.blogspot.be/2017/12/day-6-sysadmins-evolution-of-role.html) - (2017) sysadmins - the evolution of a role amidst revolutionary hype.
 * [cscareerthrowaway567](https://www.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/) - (2017) Accidentally destroyed production database on first day of a job, and was told to leave, on top of this i was told by the CTO that they need to get legal involved, how screwed am i? 
+* [Chelsey Lang](https://www.clearvision-cm.com/blog/4-ways-to-approach-incident-management-and-improve-mean-time-to-resolution/) - (2017) 4 Ways to Approach Incident Management and Improve Mean Time to Resolution
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
