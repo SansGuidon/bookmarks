@@ -189,6 +189,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/03/14/big-data-technology-and-the-responsibility-shift/) - (2015) NoSQL and the responsibility shift | about data quality
 * [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
 * [Abduzeedo](http://abduzeedo.com/tags/perfect-office) - Design Inspiration for the perfect office
+* [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -513,6 +514,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
 * [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
 * [Amy M Haddad](https://medium.com/swlh/effective-tips-for-working-remotely-23cc290a8c08) - (2017) Effective Tips for Working Remotely
+* [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -567,6 +569,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
 * [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
+* [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1723,6 +1726,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
 * [Two Factor Auth (2FA)](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
+* [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -3865,6 +3869,7 @@ Raw
 * [Ben Thompson](https://blog.gitprime.com/6-causes-of-code-churn-and-what-you-should-do-about-them/) - (2016) 6 causes of code churn and what you should do about them
 * [Brian Graham](https://blog.gitprime.com/what-slows-development-teams/) - (2017) What slows development teams
 > Hofstadter’s Law: It always takes longer than you expect, even when you take into account Hofstadter’s Law. – Douglas Hofstadter
+* [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -4615,6 +4620,7 @@ Raw
 * [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
 * [Christiaan Verwijs](https://blog.agilistic.nl/7-powerful-ways-to-get-feedback-from-users-in-scrum/) - 7 Powerful Ways To Get Feedback From Users (In Scrum)
 * [John Cutler](https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480) - (2018) We Can’t Do That In One Sprint
+* [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
