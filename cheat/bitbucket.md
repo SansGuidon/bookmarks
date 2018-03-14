@@ -1,3 +1,5 @@
+## Retrieve account emails
+
 using https://api.bitbucket.org/2.0/user/emails
 
 example output : 
