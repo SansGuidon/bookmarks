@@ -1588,8 +1588,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
 * [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
-* [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
-* [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
+* [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker :metal:
+* [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker :metal:
 * [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips 
 * [TopAchat](https://www.topachat.com/configomatic/index.php) - [FR] :fr: Config'O'Matic helps you to get the right components to assemble your dream computer, this is how I built mine in 2014
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
@@ -2290,8 +2290,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 * [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
 * [MusicIP](http://www.spicefly.com/article.php?page=what-is-musicip) - MusicIP analyses and fingerprints your music library 
-* [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker
-* [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker
+* [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker :metal:
+* [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker :metal:
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 * [foobar2000](http://www.foobar2000.org/components/by+date) - List of all plugins for foobar2000
 * [foobar2000](http://mobile.foobar2000.com/) - There exist a mobile version of foobar2000 
