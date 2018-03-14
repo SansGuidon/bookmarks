@@ -3621,6 +3621,7 @@ Raw
 * [ezekg/git-hound](https://github.com/ezekg/git-hound) -  Git plugin that prevents sensitive data from being committed.
 * [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 * [Dan Kelch](https://spin.atomicobject.com/2017/12/13/favorite-git-commands/) - (2017) Git Good: Improve Your Version Control Skills
+* [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt) - jokes about git
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -4055,6 +4056,7 @@ Raw
 * [Stack Overflow](https://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered) - What is the best comment in source code you have ever encountered? [closed]
 * [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site
 * [Liz England](http://www.lizengland.com/blog/2014/04/the-door-problem/) - (2014) The Door Problem | funny article about complexity of modern game development
+* [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt) - jokes about git
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
