@@ -1358,6 +1358,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andrew Morton](https://drewish.com/2017/06/20/run-code-on-specific-jenkins-slaves/) - (2017) Run code on specific Jenkins slaves
 * [CVE security vulnerabilities](https://www.cvedetails.com/vulnerability-list.php?vendor_id=15865&product_id=34004&version_id=0&page=1&hasexp=0&opdos=0&opec=0&opov=0&opcsrf=0&opgpriv=0&opsqli=0&opxss=0&opdirt=0&opmemc=0&ophttprs=0&opbyp=0&opfileinc=0&opginf=0&cvssscoremin=6&cvssscoremax=0&year=0&month=0&cweid=0&order=1&trc=29&sha=972b519195a324e211440860f0337f2d75a9aad6) - Jenkins : List of security vulnerabilities
 * [Sam Van Oort](https://jenkins.io/blog/2018/02/22/cheetah) - (2018) Project Cheetah - Faster, Leaner Pipeline That Can Keep Up With Demand 
+* [ThinBackup](https://plugins.jenkins.io/thinBackup) - This plugin for Jenkins simply backs up the global and job specific configurations (not the archive or the workspace). 
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
