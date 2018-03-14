@@ -1008,6 +1008,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
 * [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver/setting-up-ssh-port-forwarding-776640364.html) - Setting up SSH port forwarding (for BitBucket or other git server)
 * [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver053/search-for-code-in-bitbucket-server-938022411.html) - Search for code in Bitbucket Server
+* [MorganGeek](cheat/bitbucket.md) - bitbucket cheatsheet / tips
 
 ## ChatOps
 * [Vivek Gite](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -3678,6 +3679,7 @@ Raw
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Groovy+Hook+Script) - Groovy Hook Scripts
 * [PLEAC-Groovy](http://pleac.sourceforge.net/pleac_groovy/) - implementation of the Solutions of the Perl Cookbook in the Groovy language
 * [Groovy web console](https://groovyconsole.appspot.com/) - a website for sharing and executing Groovy programming snippets of code!
+* [MorganGeek](cheat/groovy.md) - groovy cheatsheet / tips
 
 ## Haskell
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
@@ -4860,6 +4862,7 @@ Raw
 * [coreight](http://coreight.com/content/logiciels-outils-indispensables-windows) - (2014) [FR] :fr: 8 logiciels à toujours garder sous la main sur Windows
 * [Pekka Väänänen](http://www.lofibucket.com/articles/dwm_latency.html) - (2017) Desktop compositing latency is real and it annoys me | about input latency on Windows 10 vs Windows 7
 * [Win flex-bison](https://sourceforge.net/projects/winflexbison/files/) - Win flex-bison is a port Flex & Bison tools to the Windows platform
+* [MorganGeek](cheat/windows-subsystem.md) - Windows Subsystem for Linux cheatsheet / tips
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
