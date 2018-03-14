@@ -526,6 +526,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The XY problem](http://xyproblem.info/) - (2014) is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
 * [Eric Steven Raymond, Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
 * [Josh Johnson](https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/) - (2015) DevOps Is Bullshit: Why One Programmer Doesn’t Do It Anymore
+* [Hacker News](https://news.ycombinator.com/item?id=16227268) - (2018) Building an Engineering Culture from scratch?
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1908,6 +1909,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
 * [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
 * [The Knowledge Project](https://www.fs.blog/2017/08/ed-latimore-podcast/) - [Podcast] (2017) Ed Latimore on the Secret to a Happy Life
+* [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -1924,14 +1926,22 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Julia Evans](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/) - (2018) Working remotely, 4 years in
 
 # Hobbies
+> Beers
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
-* [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 * [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing » :beer:
+
+> Chess
+* [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
+
+> Coffee
 * [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
-* [Yo Joe!](http://www.yojoe.com/action/) - the internet's premiere archive site about G.I. Joe: A Real American Hero | probably the oldest website I remember to visit in my young age
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
+* [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
+
+> Toys collections
+* [Yo Joe!](http://www.yojoe.com/action/) - the internet's premiere archive site about G.I. Joe: A Real American Hero | probably the oldest website I remember to visit in my young age
 
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
@@ -2742,6 +2752,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Zdravko Cvijetic](https://medium.com/personal-growth/two-essential-principles-that-will-help-you-form-or-break-any-habit-73d3d7aa7692) - (2018) Two Principles That Will Help You Form Any Habit
 * [Dinnie Muslihat](https://blog.zenkit.com/how-the-simple-checklist-can-improve-your-productivity-d061f3c893ec) - (2018) How the simple checklist can improve your productivity | A tool to help you accomplish more things in your day
 * [Eric Steven Raymond, Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
+* [Kristen Bahler](http://time.com/money/5077954/linkedin-profile-tips-resume/#77ba6828-9e05-4086-9ccc-0428eea386f4) - (2018) What Your LinkedIn Profile Should Look Like in 2018
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -3049,7 +3060,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ben Putano](https://stackify.com/software-development-trends-2018/) - (2017) 5 Software Development Trends for 2018: Developers Needed
 * [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
-* [Nathan Coulter (Poor Yorick)](http://wiki.tcl.tk/8602) - (2018) Tips for writing quality software
+* [Nathan Coulter (Poor Yorick)](http://wiki.tcl.tk/8602) - (2018) Tips for writing quality software. **Archive** : [Web archive](https://web.archive.org/web/20170630183457/http://wiki.tcl.tk:80/8602)
 * [Kevin London](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) - (2015) Code Review Best Practices
 * [Kevin London](https://www.kevinlondon.com/2015/09/10/10-software-talks-to-listen-to.html) - (2015) 10 Software Talks to Listen to on Your Way to Work
 * [MyBroadband](https://mybroadband.co.za/news/smartphones/246583-how-programmers-learn-to-code.html) - (2018) How programmers learn to code | What programmers want
