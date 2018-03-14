@@ -3400,7 +3400,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jaroslav Tulach](http://www.methodsandtools.com/archive/debugger.php) - Use the Debugger. Stupid!
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
 * [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - Debugging - into rabbit hole with docker containers
-* [Aaron Maxwell](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - Use the Unofficial Bash Strict Mode (Unless You Looove Debugging). **Bonus** : [some bash tips when dealing with bash strict mode](https://gist.github.com/Integralist/0fc25edb5d9ceeae74cc)
+* :star: [**Aaron Maxwell**](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - Use the Unofficial Bash Strict Mode (Unless You Looove Debugging). **Bonus** : [some bash tips when dealing with bash strict mode](https://gist.github.com/Integralist/0fc25edb5d9ceeae74cc)
 * [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
 * [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Debugging_Business_Rules#gsc.tab=0) - Debugging Business Rules
@@ -4246,7 +4246,7 @@ Raw
 * [Nitin Bhadauria](http://www.tothenew.com/blog/foolproof-your-bash-script-some-best-practices/) - Foolproof Your Bash Script – Some Best Practices
 * [David Pashley](http://www.davidpashley.com/articles/writing-robust-shell-scripts/) - Writing Robust Bash Shell Scripts
 * [Paul Armstrong](https://google.github.io/styleguide/shell.xml) - Shell Style Guide by Google
-* [Aaron Maxwell](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - Use the Unofficial Bash Strict Mode (Unless You Looove Debugging). **Bonus** : [some bash tips when dealing with bash strict mode](https://gist.github.com/Integralist/0fc25edb5d9ceeae74cc)
+* :star: [**Aaron Maxwell**](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - Use the Unofficial Bash Strict Mode (Unless You Looove Debugging). **Bonus** : [some bash tips when dealing with bash strict mode](https://gist.github.com/Integralist/0fc25edb5d9ceeae74cc)
 * [Aaron Maxwell](http://redsymbol.net/articles/bash-exit-traps/) - How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable
 * [Ray Smith](http://assets.en.oreilly.com/1/event/12/Shell%20Scripting%20Craftsmanship%20Presentation%201.pdf) - [PDF] Shell Scripting Craftsmanship
 * [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - (2008) Common shell script mistakes
@@ -4335,6 +4335,7 @@ Raw
 * [Chris Hermansen](https://opensource.com/article/18/1/two-great-uses-cp-command-update) - (2018) Two great uses for the cp command: Bash shortcuts
 * [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
 * [Eric Pement](http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
+* [Kevin van Zonneveld](https://kvz.io/blog/2013/11/21/bash-best-practices/) - (2013) Best Practices for Writing Bash Scripts
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
