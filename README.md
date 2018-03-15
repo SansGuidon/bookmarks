@@ -349,6 +349,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Coin and Crypto](https://hackernoon.com/bitcoin-is-outdated-tech-these-3-alternatives-should-be-on-your-radar-57cf806d34df) - (2018) Bitcoin is outdated tech. These 3 alternatives should be on your radar.
 * [Linda Xie](https://medium.com/@linda.xie/tips-for-crypto-newcomers-2ee5ab2d85c1) - (2018) Tips for crypto newcomers
 * [Bitcoin Regret Club](https://bitcoinregret.club/) - satirical site for people who want to calculate all the money they you could’ve made.
+* [The HODLer manifesto](https://hodlermanifesto.com) - What is HODL?
 
 # Collaboration & Problem solving
 > News
@@ -1068,6 +1069,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Slack](https://a.slack-edge.com/4c1ae/img/security_ent/Security_White_Paper.pdf) - [PDF] Slack’s approach to security
 * [Atlassian Release Notes](https://atlassianreleasenotes.tumblr.com/tagged/hipchatdatacenter) - HipChat DataCenter Release Notes
 * [JC Brand](https://opkode.com/blog/slacks-bait-and-switch/) - (2018) Slack's bait and switch | We all know the real reason Slack has closed off their gateways. Their business model dictates that they should. They're a typical walled garden, information silo or Siren Server
+* [Bill Doerrfeld](https://nordicapis.com/12-frameworks-to-build-chatops-bots/) - (2016) 12+ Frameworks to Build ChatOps Bots
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
@@ -3356,6 +3358,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jason McCreary](https://dev.to/gonedark/another-month-of-clean-code-4gig) -  (2017) Another month of clean code 
 * [Brian Barto](https://medium.com/@bartobri/applying-the-linus-tarvolds-good-taste-coding-requirement-99749f37684a) - (2016) Applying the Linus Torvalds “Good Taste” Coding Requirement
 * [Michal Charemza](https://charemza.name/blog/posts/programming/smells/say-no-to-more-optional-arguments/) - (2016) Say no to more optional arguments | example in Python
+* [Ravi Shankar Rajan](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6) - (2018) How to Make Your Code CLEAN and BEAUTIFUL
 
 ## Conferences 
 > In Belgium
