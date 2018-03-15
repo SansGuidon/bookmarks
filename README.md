@@ -1019,6 +1019,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nathen Harvey](https://www.slideshare.net/nathenharvey/effective-testing-with-ansible-and-inspec) - (2018) Effective Testing with Ansible and InSpec
 * [Jakub Holý](https://theholyjava.wordpress.com/2014/03/17/frustration-driven-development-towards-devops-lean-clojure/) - (2014) Frustration-Driven Development – Towards DevOps, Lean, Clojure
 * [Greg DeKoenigsberg](https://www.ansible.com/blog/2017-community-year-in-review) - (2018) Take a look back at 2017 with Ansible's community review.
+* [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -2499,6 +2500,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chelsey Lang](https://www.clearvision-cm.com/blog/4-ways-to-approach-incident-management-and-improve-mean-time-to-resolution/) - (2017) 4 Ways to Approach Incident Management and Improve Mean Time to Resolution
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/04/05/is-it-devops/) - (2017) Is it DevOps? What is DevOps and what is not DevOps
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/04/05/is-it-devops/) - (2017) Is it DevOps? What is DevOps and what is not DevOps
+* [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
 
 ## Apache 
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
