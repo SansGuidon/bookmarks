@@ -3350,6 +3350,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
 * [Jason McCreary](https://dev.to/gonedark/another-month-of-clean-code-4gig) -  (2017) Another month of clean code 
 * [Brian Barto](https://medium.com/@bartobri/applying-the-linus-tarvolds-good-taste-coding-requirement-99749f37684a) - (2016) Applying the Linus Torvalds “Good Taste” Coding Requirement
+* [Michal Charemza](https://charemza.name/blog/posts/programming/smells/say-no-to-more-optional-arguments/) - (2016) Say no to more optional arguments | example in Python
 
 ## Conferences 
 > In Belgium
@@ -4087,6 +4088,7 @@ Raw
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 * [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
 * [JR Heard](http://blog.jrheard.com/truthiness-and-short-circuit-evaluation-in-python) - (2018) Truthiness and Short-Circuit Evaluation in Python
+* [Michal Charemza](https://charemza.name/blog/posts/programming/smells/say-no-to-more-optional-arguments/) - (2016) Say no to more optional arguments
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
