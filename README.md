@@ -329,6 +329,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
 * [Erik Dietrich](https://www.daedtech.com/side-hustle-ideas-software-developers/) - (2017) Side Hustle Ideas for Software Developers
 * [Gary Klein](https://hbr.org/2007/09/performing-a-project-premortem) - (2007) Performing a Project Premortem
+* [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems?
 
 ## Cryptocurrency
 > News
