@@ -336,6 +336,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Hacker Noon](https://hackernoon.com/bitcoin/home) - Bitcoin related news
 * [99cryptocoin](https://www.99cryptocoin.com/) - Top CryptoCurrency by 24 Hour Trading Volume
 * [Ashton Kemerling](http://ashtonkemerling.com/blog/2018/02/21/no-you-probably-dont-need-a-blockchain/) - (2018) No, You Probably Don't Need a Blockchain | On Bitcoins and Blockchains
+* [Bittrex.com](https://bittrex.com/home/markets) - Bitcoin markets
 
 > Learn
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
