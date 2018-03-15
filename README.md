@@ -883,7 +883,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jim Bird](http://swreflections.blogspot.be/2016/04/devopsdays-empathy-scaling-docker.html) - (2016) DevOpsDays: Empathy, Scaling, Docker, Dependencies and Secrets | interesting takeaways 
 * [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - [Slides] (2011) How GitHub Uses GitHub to Build GitHub
 * [Mirco Hering](https://notafactoryanymore.com/2018/02/01/why-you-are-probably-not-as-advanced-in-your-agile-devops-journey-as-you-think-you-are/) - (2018) Why you are probably not as advanced in your Agile/DevOps journey as you think you are
-* [Mike Loukides](https://www.oreilly.com/ideas/the-evolution-of-devops) - (2017) The evolution of DevOps
+* :star: [**Mike Loukides**](https://www.oreilly.com/ideas/the-evolution-of-devops) - (2017) The evolution of DevOps
 * [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2974011) - (2016) Bad Software Architecture is a People Problem | When people don't work well together they make bad decisions.
 * [Bridget Kromhout](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
 * [Kode Vicious](https://queue.acm.org/detail.cfm?id=1740550) - (2010) Broken Builds | Frequent broken builds could be symptomatic of deeper problems within a development project.
@@ -2488,7 +2488,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Paul Hammond**](http://www.paulhammond.org/2010/06/trunk/alwaysshiptrunk.pdf) - (2010) [Slides] Always ship trunk | Managing change in complex websites
 * [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
-* [Mike Loukides](https://www.oreilly.com/ideas/the-evolution-of-devops) - (2017) The evolution of DevOps
+* :star: [**Mike Loukides**](https://www.oreilly.com/ideas/the-evolution-of-devops) - (2017) The evolution of DevOps
 * [Mandi Walls](https://www.slideshare.net/lnxchk/configuration-management-is-old-and-boring) - (2017) Configuration Management is Old and Boring
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
 * [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
