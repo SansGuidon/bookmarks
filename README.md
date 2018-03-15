@@ -351,6 +351,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bitcoin Regret Club](https://bitcoinregret.club/) - satirical site for people who want to calculate all the money they you could’ve made.
 * [The HODLer manifesto](https://hodlermanifesto.com) - What is HODL?
 * [Federico Gambarelli (fede93g)](https://steemit.com/bitcoin/@fede93g/the-hodler-manifesto-what-does-being-a-bitcoin-hodler-mean) - (2018) The HODLer Manifesto: what does "being a Bitcoin HODLer" mean?
+* [Where to buy Crypto](https://www.wheretobuycrypto.io/) - Where to buy ... <type any cryptocurrency name here>
 
 # Collaboration & Problem solving
 > News
@@ -648,6 +649,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [visual complexity](http://www.visualcomplexity.com/vc/) - A visual exploration on mapping complex networks | beautiful graphs in various topics
 * [Worldometers](http://www.worldometers.info/) - shows estimated current numbers based on statistics and projections from the most reputable official organizations, for economics, media, world population, etc.
 * [Evan Sangaline](https://intoli.com/blog/analyzing-one-million-robots-txt-files/) - (2017) One Million robots.txt Files
+* [HTTP Archive](http://httparchive.org/trends.php) -  provides a record of web stats. **Bonus** : [Example 1](http://httparchive.org/trends.php?s=Top100&minlabel=Jan+1+2017&maxlabel=Dec+15+2017#bytesTotal&reqTotal)
 
 # DevOps
 > News
@@ -1773,6 +1775,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 * [Hurricane Electric BGP Toolkit](https://bgp.he.net) - This website is an Internet analysis site for the whole Internet. useful tool to collect ip, addresses, etc
 * [BGPView](https://bgpview.io/) - allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names.
+* [Where to buy Crypto](https://www.wheretobuycrypto.io/) - Where to buy ... <type any cryptocurrency name here>
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -4589,6 +4592,7 @@ Raw
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 * [Two Factor Auth (2FA)](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
+* [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
@@ -4838,6 +4842,7 @@ Raw
 * [The Front-End Checklist](https://frontendchecklist.io/) - perfect for modern websites and meticulous developers!
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 * [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps
+* [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
