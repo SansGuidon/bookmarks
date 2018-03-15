@@ -2766,6 +2766,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dinnie Muslihat](https://blog.zenkit.com/how-the-simple-checklist-can-improve-your-productivity-d061f3c893ec) - (2018) How the simple checklist can improve your productivity | A tool to help you accomplish more things in your day
 * [Eric Steven Raymond, Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
 * [Kristen Bahler](http://time.com/money/5077954/linkedin-profile-tips-resume/#77ba6828-9e05-4086-9ccc-0428eea386f4) - (2018) What Your LinkedIn Profile Should Look Like in 2018
+* [Richard Rusczyk](https://artofproblemsolving.com/articles/stupid-mistakes) - (2015) Stop Making Stupid Mistakes | developing good habits and organizing your work.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
