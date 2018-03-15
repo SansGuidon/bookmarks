@@ -720,9 +720,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Josh Dreyfuss](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/) - Deployment Management Tools: Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric
 * [Engin Yöyen](http://enginyoyen.com/service-discovery-choosing-the-right-tool/) - Service Discovery : Choosing the Right Tool
 * :star: [**Viktor Farcic**](https://technologyconversations.com/2017/03/06/the-ten-commandments-of-continuous-delivery/) - The Ten Commandments Of Continuous Delivery. **Bonus from Jenkins World 2017** : [video](https://www.youtube.com/watch?v=mW_gkQnF4eU) & [my notes](cd/viktor_farcic_on_continuous_delivery.md)
-* [Pushkar Singh](https://theagilecoder.files.wordpress.com/2015/09/devops-maturity-model.png) - [PNG] Devops Maturity Model
-* [DevOpsGuys](https://www.devopsguys.com/2013/02/06/maturing-the-continuous-delivery-pipeline/) - Maturing the Continuous Delivery Pipeline
-* [Tony Bradley](https://devops.com/devops-just-automation/) - DevOps is More Than Just Automation
+* [Pushkar Singh](https://theagilecoder.files.wordpress.com/2015/09/devops-maturity-model.png) - [PNG] (2015) Devops Maturity Model
+* [DevOpsGuys](https://www.devopsguys.com/2013/02/06/maturing-the-continuous-delivery-pipeline/) - (2013) Maturing the Continuous Delivery Pipeline
+* [Tony Bradley](https://devops.com/devops-just-automation/) - (2017) DevOps is More Than Just Automation
 * [Don Macvittie](https://devops.com/moving-big-project-cicd/) - Moving That Big Project to CI/CD
 * [Yaniv Yehuda](https://devops.com/7-highly-effective-continuous-delivery-principles/) - 7 Highly Effective Continuous Delivery Principles
 * [Automatic Software](https://automic.com/resources/tco-assessment-tools/devops-maturity-assessment) - DevOps Maturity model assessment : Where are you on your DevOps journey?
@@ -758,7 +758,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Drue Placette](https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/) - (2015) 51 Best DevOps Tools for #DevOps Engineers
 * [Electric Cloud](http://electric-cloud.com/plugins/continuous-integration/) - Continuous Integration Best Practices: Vision and Reality
 * [Electric Cloud](http://electric-cloud.com/plugins/build-automation/) - Build Automation: Top 3 Problems and How to Solve Them
-* [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
+* [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - (2014) Jenkins is for Development. Rundeck is for Operations.
 * [DevOps Topologies](http://web.devopstopologies.com/). There is no ‘right’ team topology, but several ‘bad’ topologies for any one organisation. Original article -> [Matthew Skelton](https://blog.matthewskelton.net/2013/10/22/what-team-structure-is-right-for-devops-to-flourish/) - What Team Structure is Right for DevOps to Flourish?
 * [RedHat](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack... 
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
@@ -788,7 +788,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Patrick Debois](https://fr.slideshare.net/jedi4ever/devops-the-war-is-over-if-you-want-it/108-Systems_ThinkingOptimize_the_whole_notjust) - (2010) [Slides] Devops: The War is over - If you want it
 * [Ian Miell](https://zwischenzugs.com/2017/10/23/a-checklist-for-docker-in-the-enterprise-updated/) - A Checklist for Docker in the Enterprise (Updated)
 * [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts 
-* [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
+* [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - (2017) In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [All Day DevOps](https://www.alldaydevops.com/addo17-links-to-presentations) - [Videos] All Day DevOps 2017 videos
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - dockrun oneshot — quick local environments for testing infrastructure
 * [versioneye/ops_contrib](https://github.com/versioneye/ops_contrib) - Infrastructure code to setup your own VersionEye instance.
@@ -923,6 +923,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dmitriy Samovskiy](http://www.somic.org/2011/09/30/complex-systems-generalists-and-specialists/) - (2011) Complex Systems: Generalists and Specialists | on diagnosing problems
 * [Dmitriy Samovskiy](http://www.somic.org/2010/03/02/the-rise-of-devops/) - (2010) The Rise of DevOps
 * [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
+* [Electric Cloud](https://electric-cloud.com/plugins/continuous-integration/) - (2014) Continuous Integration Best Practices: Vision and Reality | Are you really practicing the principles of Continuous Integration?
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -2427,7 +2428,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [AskF5 Support](https://support.f5.com/csp/article/K12213214) - Overview of colored status icons in the Configuration utility
 * [Deb Shinder](http://techgenix.com/fall-of-all-powerful-admin/) - The rise and fall of the all-powerful admin
 * [Rundeck](http://rundeck.org/) - Turn your operations procedures into self-service jobs.
-* [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - Jenkins is for Development. Rundeck is for Operations.
+* [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - (2014) Jenkins is for Development. Rundeck is for Operations.
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
@@ -2442,7 +2443,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [plop_plop_sys](http://linuxfr.org/users/plop_plop_sys/journaux/so-you-wanna-be-a-sysadmin-trolldi-inside) - (2014) [FR] :fr: - Journal So, you wanna be a sysadmin ? (Trolldi inside)
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
 * [Fred Hébert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
-* [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
+* [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - (2017) In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way 
