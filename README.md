@@ -328,6 +328,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
 * [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
 * [Erik Dietrich](https://www.daedtech.com/side-hustle-ideas-software-developers/) - (2017) Side Hustle Ideas for Software Developers
+* [Gary Klein](https://hbr.org/2007/09/performing-a-project-premortem) - (2007) Performing a Project Premortem
 
 ## Cryptocurrency
 > News
@@ -2837,6 +2838,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The XY problem](http://xyproblem.info/) - (2014) is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
 * [Matthew Yglesias](https://www.vox.com/2014/8/5/5970767/case-against-time-zones) - (2014) The case against time zones: They're impractical & outdated
 * [Mark Johnson](https://hackernoon.com/how-i-shipped-six-side-projects-in-2017-3dde6c77adbb) - (2018) How I Launched Six Side Projects in 2017
+* [Gary Klein](https://hbr.org/2007/09/performing-a-project-premortem) - (2007) Performing a Project Premortem
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
