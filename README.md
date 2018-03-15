@@ -350,6 +350,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Linda Xie](https://medium.com/@linda.xie/tips-for-crypto-newcomers-2ee5ab2d85c1) - (2018) Tips for crypto newcomers
 * [Bitcoin Regret Club](https://bitcoinregret.club/) - satirical site for people who want to calculate all the money they you could’ve made.
 * [The HODLer manifesto](https://hodlermanifesto.com) - What is HODL?
+* [Federico Gambarelli (fede93g)](https://steemit.com/bitcoin/@fede93g/the-hodler-manifesto-what-does-being-a-bitcoin-hodler-mean) - (2018) The HODLer Manifesto: what does "being a Bitcoin HODLer" mean?
 
 # Collaboration & Problem solving
 > News
