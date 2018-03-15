@@ -195,6 +195,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Fred Hébert](https://ferd.ca/tout-est-terrible.html) - (2017) Tout est Terrible | a very cynical view of technology
 * [Joël Spolsky](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) - (2001) Don’t Let Architecture Astronauts Scare You | about productivity
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/06/29/dont-repeat-yourself-x3/) - (2017) Don't Repeat Yourself x3
+* [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems?
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -541,6 +542,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Eric Steven Raymond, Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
 * [Josh Johnson](https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/) - (2015) DevOps Is Bullshit: Why One Programmer Doesn’t Do It Anymore
 * [Hacker News](https://news.ycombinator.com/item?id=16227268) - (2018) Building an Engineering Culture from scratch?
+* [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems?
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -598,6 +600,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
 * [Srinivas Rao](https://medium.com/the-mission/professionals-vs-amateurs-6ef9ec64cbc3) - (2018) Professionals vs Amateurs
 > When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
+* [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems?
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
