@@ -921,6 +921,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [chris-short/DevOps-README.md](https://github.com/chris-short/DevOps-README.md) - What to Read to Learn More About DevOps
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/04/05/is-it-devops/) - (2017) Is it DevOps? What is DevOps and what is not DevOps
 * [Dmitriy Samovskiy](http://www.somic.org/2011/09/30/complex-systems-generalists-and-specialists/) - (2011) Complex Systems: Generalists and Specialists | on diagnosing problems
+* [Dmitriy Samovskiy](http://www.somic.org/2010/03/02/the-rise-of-devops/) - (2010) The Rise of DevOps
+* [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
