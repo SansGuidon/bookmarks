@@ -3636,6 +3636,7 @@ Raw
 * [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 * [Dan Kelch](https://spin.atomicobject.com/2017/12/13/favorite-git-commands/) - (2017) Git Good: Improve Your Version Control Skills
 * [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt) - jokes about git
+* [Boris Serebrov](https://serebrov.github.io/html/2014-01-04-git-revert-multiple-recent-comments.html) - (2014) Git - how to revert multiple recent commits
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -4522,6 +4523,7 @@ Raw
 * [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
 * [Hak5](https://www.hak5.org/blog/15-second-password-hack-mr-robot-style) - (2016) 15 Second Password Hack, Mr Robot Style : Pilfering Passwords with the USB Rubber Ducky
 * [WonderHowTo](https://null-byte.wonderhowto.com/how-to/mr-robot-hacks/) - Mr. Robot Hacks how-to's
+* [Boris Serebrov](https://serebrov.github.io/html/2018-01-11-aws-ec2-ssh-tunnel.html) - (2018) SSH Tunnels | on AWS, EC2 and SSH tunnels
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
