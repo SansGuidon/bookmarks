@@ -197,6 +197,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joël Spolsky](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) - (2001) Don’t Let Architecture Astronauts Scare You | about productivity
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/06/29/dont-repeat-yourself-x3/) - (2017) Don't Repeat Yourself x3
 * [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems? via [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/03/11/export-to-pdf-a-tale-in-understanding-the-business-need/)'s article titled "Export to PDF: A Tale in Understanding the Business Need"
+* [Simon Brown](http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html) - (2014) Software architecture and the C4 model | context, container, component, class diagrams
+* [Joshua Kerievsky](https://www.industriallogic.com/blog/evolutionary-design/) - (2015) Evolutionary Design | agile's most valuable practice?
+* [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - (2012) Splitting user stories -- the hamburger method
+* [Bill Wake](https://www.industriallogic.com/blog/evolution-cupcakes-and-skeletons/) - (2016) Evolution, Cupcakes, and Skeletons: Changing Design
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -546,6 +550,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Josh Johnson](https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/) - (2015) DevOps Is Bullshit: Why One Programmer Doesn’t Do It Anymore
 * [Hacker News](https://news.ycombinator.com/item?id=16227268) - (2018) Building an Engineering Culture from scratch?
 * [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems? via [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/03/11/export-to-pdf-a-tale-in-understanding-the-business-need/)'s article titled "Export to PDF: A Tale in Understanding the Business Need"
+* [Joshua Kerievsky](https://www.industriallogic.com/blog/evolutionary-design/) - (2015) Evolutionary Design | agile's most valuable practice?
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2716,7 +2721,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**The Minds Journal**](https://themindsjournal.com/japanese-technique-overcoming-laziness/) - A Japanese Technique for Overcoming Laziness / Kaizen, Or The One-Minute Principle
 * :star: [**Foundr**](https://foundrmag.com/analog-methods-for-getting-things-done-superpower-your-productivity-with-pen-and-paper/) - GTD : Superpower Your Productivity With Pen and Paper
 * [Dr. Travis Bradberry](http://www.huffingtonpost.com/dr-travis-bradberry/11-tweaks-to-your-morning_b_8965072.html) - 11 Tweaks to Your Morning Routine 
-* [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - Splitting user stories -- the hamburger method
+* [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - (2012) Splitting user stories -- the hamburger method
 * [Jeff Haden](https://www.linkedin.com/pulse/10-steps-make-each-day-incredibly-productive-jeff-haden) - 10 Steps to Make Each Day Exceptionally Productive
 * [alphagov/govdesign](https://github.com/alphagov/govdesign) - Lot of useful posters to print 
 * [Edouard-Malo HENRY](https://www.linkedin.com/pulse/moving-from-how-why-company-edouard-malo-henry) - Moving from a "how" to a "why" company
@@ -2810,6 +2815,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Eric Steven Raymond, Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
 * [Kristen Bahler](http://time.com/money/5077954/linkedin-profile-tips-resume/#77ba6828-9e05-4086-9ccc-0428eea386f4) - (2018) What Your LinkedIn Profile Should Look Like in 2018
 * [Richard Rusczyk](https://artofproblemsolving.com/articles/stupid-mistakes) - (2015) Stop Making Stupid Mistakes | developing good habits and organizing your work.
+* [Tim Ottinger](https://www.industriallogic.com/blog/real-work-workshops/) - (2017) Make People Awesome through Real Work
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -4027,6 +4033,8 @@ Raw
 * [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 * [Joël Spolsky](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) - (2001) Don’t Let Architecture Astronauts Scare You | about productivity
 * [Ben Thompson](https://blog.gitprime.com/engineering-impact-whats-taking-so-long/) - (2016) What’s taking so long?
+* [Tim Ottinger](https://agileotter.blogspot.be/2014/09/programming-is-mostly-thinking.html) - (2014) Programming Is Mostly Thinking
+* [Tim Ottinger](https://www.industriallogic.com/blog/managing-programmers/) - (2017) Managing Programmer Productivity
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
