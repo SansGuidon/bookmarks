@@ -925,6 +925,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dmitriy Samovskiy](http://www.somic.org/2010/03/02/the-rise-of-devops/) - (2010) The Rise of DevOps
 * [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
 * [Electric Cloud](https://electric-cloud.com/plugins/continuous-integration/) - (2014) Continuous Integration Best Practices: Vision and Reality | Are you really practicing the principles of Continuous Integration?
+* [Angela Stringfellow](https://stackify.com/devops-resume-mistakes/) - (2017) Mistakes to Avoid on Your DevOps Resume: Tips from 20 DevOps Leaders and Hiring Managers
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
@@ -3214,6 +3215,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John Sonmez](https://talkpython.fm/episodes/show/71/soft-skills-the-software-developer-s-life-manual) - (2016) Episode #71: Soft Skills: The software developer's life manual
 * [melissa mcewen](https://medium.com/@melissamcewen/coders-should-fear-what-happened-to-writers-d87a895b03db) - (2017) Coders Should Fear What Happened To Writers | meaning only those in top coding jobs are rewarded well
 * [Lou Bichard](https://simpleprogrammer.com/overcoming-obstacles-stoic-mindset/) - (2018) Overcoming Programmer Career Obstacles With A Stoic Mindset
+* [Angela Stringfellow](https://stackify.com/devops-resume-mistakes/) - (2017) Mistakes to Avoid on Your DevOps Resume: Tips from 20 DevOps Leaders and Hiring Managers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
