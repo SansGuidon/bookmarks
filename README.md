@@ -337,6 +337,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [99cryptocoin](https://www.99cryptocoin.com/) - Top CryptoCurrency by 24 Hour Trading Volume
 * [Ashton Kemerling](http://ashtonkemerling.com/blog/2018/02/21/no-you-probably-dont-need-a-blockchain/) - (2018) No, You Probably Don't Need a Blockchain | On Bitcoins and Blockchains
 * [Bittrex.com](https://bittrex.com/home/markets) - Bitcoin markets
+* [Bitcoincharts](https://bitcoincharts.com/markets/) - provides financial and technical data related to the Bitcoin network
+* [Brave New Coin](https://bravenewcoin.com/) - Bitcoin Price, Charts, Research, Cryptocurrency Insights
+* [Slofile](https://slofile.com/category/Crypto) - Slack channels on cryptocurrency
+* [CSVShare](https://csvshare.com/view/Vk_tfwlTX) - Blockchain & Crypto Slack Communities
 
 > Learn
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
@@ -353,7 +357,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The HODLer manifesto](https://hodlermanifesto.com) - What is HODL?
 * [Federico Gambarelli (fede93g)](https://steemit.com/bitcoin/@fede93g/the-hodler-manifesto-what-does-being-a-bitcoin-hodler-mean) - (2018) The HODLer Manifesto: what does "being a Bitcoin HODLer" mean?
 * [Where to buy Crypto](https://www.wheretobuycrypto.io/) - Where to buy ... <type any cryptocurrency name here>
+* [Best Bitcoin Exchange Reviews](https://www.bestbitcoinexchange.net/) - Best Bitcoin Exchange Comparison
+* [CryptoCompare](https://www.cryptocompare.com/exchanges/#/overview) - Compare all Bitcoin exchanges, reviews, live streaming bitcoin prices, fees, deposit methods
+* [GamerZ](https://www.gamerz.be/forum/bitcoin-crypto/) - :fr: [FR] GamerZ discussion forum about Bitcoin / Cryptocurrencies
+* [Anne Gaviola](http://www.cbc.ca/beta/news/business/bitcoin-s-gender-divide-could-be-a-bad-sign-experts-say-1.4458884) - (2018) Bitcoin's gender divide could be a bad sign, experts say
 
+ 
 # Collaboration & Problem solving
 > News
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
