@@ -892,6 +892,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jamie Maguire](https://www.devteam.space/blog/aws-top-10-security-tips/) - (2018) AWS Top 10 Security Tips
 * [Josh Johnson](https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/) - (2015) DevOps Is Bullshit: Why One Programmer Doesn’t Do It Anymore
 * [Yevgeniy Brikman](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c) - (2016) Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation
+* [James Shore](http://www.jamesshore.com/Blog/Continuous-Integration-is-an-Attitude.html) - (2005) Continuous Integration is an Attitude, Not a Tool
+* [Yegor Bugayenko](https://devops.com/continuous-integration-doesnt-work/) - (2014) Why Continuous Integration Doesn’t Work
+* [James Shore](http://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html) - (2006) Continuous Integration on a Dollar a Day
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
