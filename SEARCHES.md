@@ -23,3 +23,4 @@
 * [Twitter](https://twitter.com/search?q=dev%20operability&src=typd) - dev + operability on twitter
 * [Facebook Mobile](https://m.facebook.com/pages/launchpoint/discover/?from=pages_nav_discover&ref=timeline_chaining) - discover pages of interest. **See also** : [Discover pages based on given contextid](https://m.facebook.com/pages/launchpoint/discover/?ref=timeline_chaining&from=timeline_chaining&contextid=499718403532040&pymlcategory=timeline_similar) or [find similar pages](https://www.facebook.com/pages/?ref=page_suggestions_on_liking_refresh&frompageid=) **Related** : * [Find your Facebook ID](https://findmyfbid.com/) - find the Facebook context / numeric ID for profile and pages
 * [SlideShare](https://www.slideshare.net//tag/ansible) - ansible related slideshares
+* [Google](https://www.google.be/search?q=why+devops+is+bad) - Why devops is bad
