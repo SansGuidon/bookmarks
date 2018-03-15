@@ -18,6 +18,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
     * [Ansible Vault](#ansible-vault)
   * [Bitbucket](#bitbucket)
   * [ChatOps](#chatops)
+  * [Chef](#chef)
   * [Consul (by Hashicorp)](#consul-by-hashicorp)
   * [Containers](#containers)
   * [Gradle](#gradle)
@@ -1099,6 +1100,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [JC Brand](https://opkode.com/blog/slacks-bait-and-switch/) - (2018) Slack's bait and switch | We all know the real reason Slack has closed off their gateways. Their business model dictates that they should. They're a typical walled garden, information silo or Siren Server
 * [Bill Doerrfeld](https://nordicapis.com/12-frameworks-to-build-chatops-bots/) - (2016) 12+ Frameworks to Build ChatOps Bots
 * [Zulip](https://zulipchat.com/integrations/) - all native integrations for Zulip
+
+## Chef
+* [Nathen Harvey's Talks](https://speakerdeck.com/nathenharvey) - Talks / Slides by Chef's Community Director
 
 ## Consul (by Hashicorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
