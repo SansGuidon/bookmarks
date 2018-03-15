@@ -926,6 +926,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
 * [Electric Cloud](https://electric-cloud.com/plugins/continuous-integration/) - (2014) Continuous Integration Best Practices: Vision and Reality | Are you really practicing the principles of Continuous Integration?
 * [Angela Stringfellow](https://stackify.com/devops-resume-mistakes/) - (2017) Mistakes to Avoid on Your DevOps Resume: Tips from 20 DevOps Leaders and Hiring Managers
+* [Google](https://www.google.be/search?q=why+devops+is+bad) - Why devops is bad | interesting search results
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
