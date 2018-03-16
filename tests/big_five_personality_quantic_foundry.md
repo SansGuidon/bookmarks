@@ -3,6 +3,8 @@
 ## Curious, Spontaneous, Introverted, and Emotionally Reactive
 Your personality profile consists of your percentile rank across five key personality traits. Your scores are based on how you rank relative to other people. In this customized report, we’ll explain how to interpret these scores and what personality traits we measured.
 
+![big five profile quantic foundry](big_five_profile.PNG)
+
 ### The Big Five Personality Traits
 This personality profile is based on a validated assessment tool used in personality psychology research known as the Big Five Personality Traits. These traits were identified through empirical research over multiple decades and the model has been shown to be robust, reliable, and cross-culturally valid.
 
