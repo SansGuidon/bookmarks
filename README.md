@@ -2550,6 +2550,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 > Learn
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
+* [Dan Radigan](https://www.atlassian.com/blog/jira-software/8-steps-to-jira-field-greatness) - (2013) 8 steps to Jira field greatness
+* [Dan Radigan](https://www.atlassian.com/blog/jira-software/building-workflow-awesome) - (2013) Building an awesome Jira workflow: concepts and examples
 
 ## Infrastructure
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
