@@ -59,7 +59,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [News](#news)
 * [Operations / IT OPS](#operations--it-ops)
   * [Apache](#apache)
+  * [Atlassian](#atlassian)
   * [Infrastructure](#infrastructure)
+  * [Jira](#jira)
   * [Logging](#logging)
   * [Monitoring](#monitoring)
   * [ServiceNow](#servicenow)
@@ -1054,6 +1056,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver/setting-up-ssh-port-forwarding-776640364.html) - Setting up SSH port forwarding (for BitBucket or other git server)
 * [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver053/search-for-code-in-bitbucket-server-938022411.html) - Search for code in Bitbucket Server
 * [MorganGeek](cheat/bitbucket.md) - bitbucket cheatsheet / tips
+* [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
 
 ## ChatOps
 * [Vivek Gite](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1172,7 +1175,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image 
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2017/05/13/docker-for-windows-different-modes/) - Compare Docker for Windows options
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/) - How Should I Get Application Configuration into my Docker Containers?
-* [Neil Batlivala](https://www.delphix.com/blog/data-virtualization/why-docker-not-enough) - Why Docker Is Not Enough. Related  [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira)
+* [Neil Batlivala](https://www.delphix.com/blog/data-virtualization/why-docker-not-enough) - Why Docker Is Not Enough. **Related** :  [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira) - Docker build for Atlassian Jira
 * [Martin Rusev](https://www.amon.cx/blog/docker-in-production-for-the-average-devops/) - Docker in production for the average DevOps
 * [Nitin Agarwal](https://medium.com/@nagarwal/docker-containers-filesystem-demystified-b6ed8112a04a) - Docker Container’s Filesystem Demystified
 * [Nitin Agarwal](https://medium.com/@nagarwal/why-use-docker-for-development-f3d1d1b61b05) - Why use Docker for Development
@@ -2550,8 +2553,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 > Learn
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
-* [Dan Radigan](https://www.atlassian.com/blog/jira-software/8-steps-to-jira-field-greatness) - (2013) 8 steps to Jira field greatness
-* [Dan Radigan](https://www.atlassian.com/blog/jira-software/building-workflow-awesome) - (2013) Building an awesome Jira workflow: concepts and examples
 
 ## Infrastructure
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
@@ -2563,6 +2564,14 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
 * [The OpenStack Marketplace](https://www.openstack.org/marketplace/) - [Private Clouds](https://www.openstack.org/marketplace/hosted-private-clouds/) + [Public Clouds](https://www.openstack.org/marketplace/public-clouds/)
 * [Michal Charemza](https://charemza.name/blog/posts/devops/aws/non-atomic-deployments/) - (2017) Non atomic deployments | Cron-free deferred delete of obsolete static resources | The best infrastructure is the one that doesn't exist
+
+## Jira
+* [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
+* [Dan Radigan](https://www.atlassian.com/blog/jira-software/8-steps-to-jira-field-greatness) - (2013) 8 steps to Jira field greatness
+* [Dan Radigan](https://www.atlassian.com/blog/jira-software/building-workflow-awesome) - (2013) Building an awesome Jira workflow: concepts and examples
+* [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira) - Docker build for Atlassian Jira
+* [John Andersen](http://www.john-james-andersen.com/blog/service-now/rest-based-servicenow-jira-integration-poc.html) - REST Based ServiceNow / Jira Integration (PoC)
+* [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - JIRA ID in Git Commit Messages
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
