@@ -3,7 +3,7 @@
 ## Low Conflict, Relaxed, Immersed, and Independent
 Your profile consists of your percentile rank across a broad range of gaming motivations. Your scores are based on how strong your motivations are relative to other gamers. In this customized report, we’ll explain how to interpret these scores and what motivations we measured.
 
-![board games motivation profilegamer motivation profile](primary_motivations.png)
+![board games motivation profilegamer motivation profile](board_games_motivation.png)
 
 ### Preliminary Model of 4 Motivations Clusters
 We identified 4 clusters of motivations. In each, there is a primary component and one or more secondary components (i.e., a related modifier or addition). In general, motivations within the same cluster tend to be positively correlated — e.g., if you score high on the primary motivation, you are more likely to score high on the secondary ones. On the other hand, motivations between clusters tend to be statistically unrelated—i.e., they neither suppress or predict each other. We’ll walk you through all these motivations and components below.
