@@ -3,7 +3,11 @@
 ## Spontaneous, Social, Grounded, and Creative
 Your profile consists of your percentile rank across a broad range of gaming motivations. Your scores are based on how strong your motivations are relative to other gamers. In this customized report, we’ll explain how to interpret these scores and what motivations we measured.
 
+#### Primary motivations
+
 ![gamer motivation profile](primary_motivations.png)
+
+#### Secondary motivations
 
 ![gamer motivation profile bis](secondary_motivations.png)
 
