@@ -2039,6 +2039,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sarah Cooper](https://thecooperreview.com/here-are-the-10-most-deeply-meaningful-team-building-exercises/) - Here are the 10 Most Deeply Meaningful Team Building Exercises
 * [Sarah Cooper](https://thecooperreview.com/how-to-outshine-everyone-on-linkedin/) - How to Outshine Everyone on LinkedIn
 * [Bitcoin Regret Club](https://bitcoinregret.club/) - satirical site for people who want to calculate all the money they you could’ve made with Bitcoin
+* [Richard Gale](https://www.youtube.com/watch?v=9VDvgL58h_Y) - [Video] (2009) The Horribly Slow Murderer with the Extremely Inefficient Weapon
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
