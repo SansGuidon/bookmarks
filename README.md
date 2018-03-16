@@ -338,6 +338,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Erik Dietrich](https://www.daedtech.com/side-hustle-ideas-software-developers/) - (2017) Side Hustle Ideas for Software Developers
 * [Gary Klein](https://hbr.org/2007/09/performing-a-project-premortem) - (2007) Performing a Project Premortem
 * [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems? via [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/03/11/export-to-pdf-a-tale-in-understanding-the-business-need/)'s article titled "Export to PDF: A Tale in Understanding the Business Need"
+* [Ward Cunningham](http://wiki.c2.com/?AnalyzingXpWithOptionsPricing) - (2014) Analyzing Xp With Options Pricing | in XP, you should consider the Option to abandon, option to switch, option to defer investment and take advantage of possible future opportunity
 
 ## Cryptocurrency
 > News
@@ -556,6 +557,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/evolutionary-design/) - (2015) Evolutionary Design | agile's most valuable practice?
 * [Tim Ottinger](http://agileotter.blogspot.be/2017/11/taking-breaks-in-disciplined-way.html) - (2017) Taking Breaks in a Disciplined Way | Take breaks otherwise pairing will drain your energy
 > we don't take breaks because we are tired, we take breaks so that we are never tired.
+* [Tim Ottinger](https://www.industriallogic.com/blog/stop-per-person-swimlanes/) - (2015) Stop Per-Person Swimlanes in Kanban 
+> People will not work together to complete stories if they each have "their own work" to do.
+* [Tim Ottinger](http://agileotter.blogspot.be/2015/04/individual-work-assignments-neither.html) - (2015) Individual Work Assignments: Neither Agile Nor Team
+* [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1972,6 +1977,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
 * [Tim Ottinger](http://agileotter.blogspot.be/2017/11/taking-breaks-in-disciplined-way.html) - (2017) Taking Breaks in a Disciplined Way | Take breaks otherwise pairing will drain your energy
 > we don't take breaks because we are tired, we take breaks so that we are never tired.
+* [Ward Cunningham](http://wiki.c2.com/?AnalyzingXpWithOptionsPricing) - (2014) Analyzing Xp With Options Pricing | in XP, you should consider the Option to abandon, option to switch, option to defer investment and take advantage of possible future opportunity
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2833,6 +2839,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kristen Bahler](http://time.com/money/5077954/linkedin-profile-tips-resume/#77ba6828-9e05-4086-9ccc-0428eea386f4) - (2018) What Your LinkedIn Profile Should Look Like in 2018
 * [Richard Rusczyk](https://artofproblemsolving.com/articles/stupid-mistakes) - (2015) Stop Making Stupid Mistakes | developing good habits and organizing your work.
 * [Tim Ottinger](https://www.industriallogic.com/blog/real-work-workshops/) - (2017) Make People Awesome through Real Work
+* [Tim Ottinger](https://www.industriallogic.com/blog/over-starting-and-under-finishing/) - (2015) Over-Starting and Under-Finishing | Too Much Starting?
+* [Ward Cunningham](http://wiki.c2.com/?AnalyzingXpWithOptionsPricing) - (2014) Analyzing Xp With Options Pricing | in XP, you should consider the Option to abandon, option to switch, option to defer investment and take advantage of possible future opportunity
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2877,6 +2885,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matthew Yglesias](https://www.vox.com/2014/8/5/5970767/case-against-time-zones) - (2014) The case against time zones: They're impractical & outdated
 * [Mark Johnson](https://hackernoon.com/how-i-shipped-six-side-projects-in-2017-3dde6c77adbb) - (2018) How I Launched Six Side Projects in 2017
 * [Gary Klein](https://hbr.org/2007/09/performing-a-project-premortem) - (2007) Performing a Project Premortem
+* [Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -4289,6 +4298,9 @@ Raw
 * [Tiffanie Wen](http://www.bbc.com/capital/story/20170627-the-tricks-to-make-yourself-effortlessly-charming) - (2017) The tricks to make yourself effortlessly charming
 * [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
 * [Zdravko Cvijetic](https://medium.com/personal-growth/two-essential-principles-that-will-help-you-form-or-break-any-habit-73d3d7aa7692) - (2018) Two Principles That Will Help You Form Any Habit
+* [Wikipedia](https://en.wikipedia.org/wiki/Zeigarnik_effect) - the Zeigarnik effect states that people remember uncompleted or interrupted tasks better than completed tasks
+* [Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
+* [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
