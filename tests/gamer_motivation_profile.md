@@ -27,12 +27,22 @@ Gamers with high Action scores are aggressive and like to jump in the fray and b
 
 **Excitement (38%):** Gamers who score high on this component enjoy games that are fast-paced, intense, and provide a constant adrenaline rush. They want to be surprised. They want gameplay that is full of action and thrills, and rewards them for rapid reaction times. While this style of gameplay can be found in first-person shooters like Halo, it can also be found in games like Street Fighter and Injustice, as well as energetic platformers like BIT.TRIP RUNNER.
 
+> In our data from over 100,000 gamers, these are the most frequently mentioned games from gamers who score high on Destruction and Excitement:
+
+> * Excitement: Super Smash Bros. Melee, Battlefield Series/3/4, Counter Strike, Call of Duty, God of War, Destiny, Kingdom Hearts 2, Resident Evil, League of Legends
+> * Destruction: GTA Series/V, Battlefield Series/3/4, Destiny, Call of Duty, Gears of War, Halo, Borderlands Series/2, Doom, God of War, Counter Strike
+
 ### The Social Components (65%)
 Gamers with high Social scores enjoy interacting with other players, often regardless of whether they are collaborating or competing with them. Gamers with low Social scores prefer solo gaming experiences where they can be independent.
 
 **Competition (43%):** Gamers who score high on this component enjoy competing with other players, often in duels, matches, or team-vs-team scenarios. Competitive gameplay can be found in titles like Starcraft, League of Legends, or the PvP Battlegrounds in World of Warcraft. But competition isn’t always overtly combative; competitive players may care about being acknowledged as the best healer in a guild, or having a high ranking/level on a Facebook farming game relative to their friends.
 
 **Community (81%):** Gamers who score high on Community enjoy socializing and collaborating with other people while gaming. They like chatting and grouping up with other players. This might be playing Portal 2 with a friend, playing Mario Kart at a party, or being part of a large guild/clan in an online game. They enjoy being part of a team working towards a common goal. For them, games are an integral part of maintaining their social network.
+
+> In our data from over 100,000 gamers, these are the most frequently mentioned games from gamers who score high on Competition and Community:
+
+> * Competition: Counter Strike Series/GO, Super Smash Bros. Melee, DoTA Series/2, League of Legends, Street Fighter, Heroes of the Storm, Starcraft 2, Call of Duty, Battlefield Series/3/4, FIFA
+> * Community: Final Fantasy XIV, Battlefield Series/4, Destiny, Guild Wars Series/2, EverQuest, League of Legends, Monster Hunter, World of Warcraft, Counter Strike, DoTA Series/2
 
 ### The Mastery Components (21%)
 Gamers with high Mastery scores like challenging gaming experiences with strategic depth and complexity. Gamers with low Mastery scores enjoy being spontaneous in games and prefer games that are accessible and forgiving when mistakes are made.
@@ -41,12 +51,22 @@ Gamers with high Mastery scores like challenging gaming experiences with strateg
 
 **Strategy (11%):** Gamers who score high on this component enjoy games that require careful decision-making and planning. They like to think through their options and likely outcomes. These may be decisions related to balancing resources and competing goals, managing foreign diplomacy, or finding optimal long-term strategies. They tend to enjoy both the tactical combat in games like XCOM or Fire Emblem, as well as seeing their carefully-devised plans come to fruition in games like Civilization, Cities: Skylines, or Europa Universalis.
 
+> In our data from over 100,000 gamers, these are the most frequently mentioned games from gamers who score high on Challenge and Strategy:
+
+> * Challenge: Super Smash Bros. Melee, Devil May Cry 3, World of Warcraft, Dark Souls, Counter Strike, Street Fighter, Monster Hunter, DoTA Series/2, Starcraft 2, Warcraft 3
+> * Strategy: Europa Universalis 4, Crusader Kings 2, Civilization Series/5, EVE Online, XCOM, Starcaft Series/2, Fire Emblem, Age of Empires, Warcraft 3, Kerbal Space Program
+
 ### The Achievement Components (46%)
 Gamers with high Achievement scores are driven to accrue power, rare items, and collectibles, even if this means grinding for a while. Gamers with low Achievement scores have a relaxed attitude towards in-game achievements and don’t worry too much about their scores or progress in the game.
 
 **Completion (40%):** Gamers with high Completion scores want to finish everything the game has to offer. They try to complete every mission, find every collectible, and discover every hidden location. For some players, this may mean completing every listed achievement or unlocking every possible character/move in a game. For gamers who score high on Design, this may mean collecting costumes and mounts in games like World of Warcraft.
 
 **Power (52%):** Gamers who score high on this component strive for power in the context of the game world. They want to become as powerful as possible, seeking out the tools and equipment needed to make this happen. In RPGs and action games, this may mean maxing stats or acquiring the most powerful weapons or artifacts. Power and Completion often go hand in hand, but some players enjoy collecting cosmetic items without caring about power, and some players prefer attaining power through strategic optimization rather than grinding.
+
+> In our data from over 100,000 gamers, these are the most frequently mentioned games from gamers who score high on Completion and Power:
+
+> * Completion: Final Fantasy Series/IX, Assassin’s Creed Series, Legend of Zelda Series, God of War, Animal Crossing, Elder Scrolls Series, Destiny, Pokemon, Guild Wars 2, Fire Emblem
+> * Power: World of Warcraft, Diablo 2/3, DoTA Series/2, Runescape, Destiny, Call of Duty, League of Legends, Counter Strike, God of War, Resident Evil
 
 ### The Creativity Components (81%)
 Gamers with high Creativity scores are constantly experimenting with their game worlds and tailoring them with their own designs and customizations. Gamers with low Creativity scores are more practical in their gaming style and accept their game worlds as they are.
@@ -55,6 +75,11 @@ Gamers with high Creativity scores are constantly experimenting with their game 
 
 **Design (63%):** Gamers who score high on this component want to actively express their individuality in the game worlds they find themselves in. In games like Mass Effect, they put a lot of time and effort in the character creation process. In city-building games or space strategy games, they take the time to design and customize exactly how their city or spaceships look. To this end, they prefer games that provide the tools and assets necessary to make this possible and easy to do.
 
+> In our data from over 100,000 gamers, these are the most frequently mentioned games from gamers who score high on Discovery and Design:
+
+> * Discovery: Elder Scrolls Series (Oblivion/Morrowind/Skyrim), Fallout Series/3/New Vegas, Fable, Legend of Zelda Series/Ocarina of Time, GTA Series/V, Minecraft, Earthbound, Kerbal Space Program, Metal Gear Solid 3, Metroid Prime
+> * Design: The Sims Series, City of Heroes, Animal Crossing, Guild Wars 2, Final Fantasy XIV, Dragon Age Series/Origins, Mass Effect Series, Monster Hunter, Pokemon, Elder Scrolls Series/Oblivion/Skyrim
+
 ### The Immersion Components (14%)
 Gamers with high Immersion scores want games with interesting narratives, characters, and settings so they can be deeply immersed in the alternate worlds created by games. Gamers with low Immersion scores are more grounded in the gameplay mechanics and care less about the narrative experiences that games offer.
 
@@ -62,7 +87,10 @@ Gamers with high Immersion scores want games with interesting narratives, charac
 
 **Story (7%):** Gamers who score high on Story want games with elaborate campaign storylines and a cast of multidimensional characters with interesting back-stories and personalities. They take the time to delve into the back-stories of characters in games like Dragon Age and Mass Effect, and enjoy the elaborate and thoughtful narratives in games like The Last of Us and BioShock. Gamers who score low on Story tend to find dialogue and quest descriptions to be distracting and skip through them if possible.
 
+> In our data from over 100,000 gamers, these are the most frequently mentioned games from gamers who score high on Fantasy and Story:
 
+> * Fantasy: Dragon Age Series/Inquisition/Origins, Elder Scrolls Series/Morrowind, Dishonored, Mass Effect Series/2/3, Skyrim, Fable, Fallout New Vegas, Knights of the Old Republic, Journey, Legend of Zelda
+> * Story: Dragon Age Series/Origins, Mass Effect Series/2/3, Persona 3/4, Tales of Symphonia, Xenogeras, Final Fantasy VIII/IX/X, Knights of the Old Republic, Fire Emblem, Kingdom Hearts Series/2, Planescape Torment
 
 
 
