@@ -201,6 +201,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/evolutionary-design/) - (2015) Evolutionary Design | agile's most valuable practice?
 * [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - (2012) Splitting user stories -- the hamburger method
 * [Bill Wake](https://www.industriallogic.com/blog/evolution-cupcakes-and-skeletons/) - (2016) Evolution, Cupcakes, and Skeletons: Changing Design
+* [Fagner Brack](https://medium.com/@fagnerbrack/why-small-modules-matter-4e4d629321b8) - (2016) Why Small Modules Matter | Big projects are what, if not the composition of small pieces
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -551,6 +552,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Hacker News](https://news.ycombinator.com/item?id=16227268) - (2018) Building an Engineering Culture from scratch?
 * [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems? via [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/03/11/export-to-pdf-a-tale-in-understanding-the-business-need/)'s article titled "Export to PDF: A Tale in Understanding the Business Need"
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/evolutionary-design/) - (2015) Evolutionary Design | agile's most valuable practice?
+* [Tim Ottinger](http://agileotter.blogspot.be/2017/11/taking-breaks-in-disciplined-way.html) - (2017) Taking Breaks in a Disciplined Way | Take breaks otherwise pairing will drain your energy
+> we don't take breaks because we are tired, we take breaks so that we are never tired.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1964,6 +1967,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
 * [The Knowledge Project](https://www.fs.blog/2017/08/ed-latimore-podcast/) - [Podcast] (2017) Ed Latimore on the Secret to a Happy Life
 * [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
+* [Tim Ottinger](http://agileotter.blogspot.be/2017/11/taking-breaks-in-disciplined-way.html) - (2017) Taking Breaks in a Disciplined Way | Take breaks otherwise pairing will drain your energy
+> we don't take breaks because we are tired, we take breaks so that we are never tired.
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -3417,6 +3422,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michal Charemza](https://charemza.name/blog/posts/programming/smells/say-no-to-more-optional-arguments/) - (2016) Say no to more optional arguments | example in Python
 * [Ravi Shankar Rajan](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6) - (2018) How to Make Your Code CLEAN and BEAUTIFUL
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/06/29/dont-repeat-yourself-x3/) - (2017) Don't Repeat Yourself x3
+* [Bill Wake](https://www.industriallogic.com/blog/isolate-improve-inline-refactoring-tactic/) - (2016) Isolate-Improve-Inline: The 3-I Refactoring Tactic
+* [Fagner Brack](https://medium.com/@fagnerbrack/why-small-modules-matter-4e4d629321b8) - (2016) Why Small Modules Matter | Big projects are what, if not the composition of small pieces
 
 ## Conferences 
 > In Belgium
@@ -4036,6 +4043,8 @@ Raw
 * [Ben Thompson](https://blog.gitprime.com/engineering-impact-whats-taking-so-long/) - (2016) What’s taking so long?
 * [Tim Ottinger](https://agileotter.blogspot.be/2014/09/programming-is-mostly-thinking.html) - (2014) Programming Is Mostly Thinking
 * [Tim Ottinger](https://www.industriallogic.com/blog/managing-programmers/) - (2017) Managing Programmer Productivity
+* [Tim Ottinger](http://agileotter.blogspot.be/2017/11/taking-breaks-in-disciplined-way.html) - (2017) Taking Breaks in a Disciplined Way | Take breaks otherwise pairing will drain your energy
+> we don't take breaks because we are tired, we take breaks so that we are never tired.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
