@@ -3265,6 +3265,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lou Bichard](https://simpleprogrammer.com/overcoming-obstacles-stoic-mindset/) - (2018) Overcoming Programmer Career Obstacles With A Stoic Mindset
 * [Angela Stringfellow](https://stackify.com/devops-resume-mistakes/) - (2017) Mistakes to Avoid on Your DevOps Resume: Tips from 20 DevOps Leaders and Hiring Managers
 * [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication:
+* [Joshua Kerievsky](http://www.industriallogic.com/wp-content/uploads/2005/09/StopOverEngineering.pdf) - [PDF] (2002) Stop Over-Engineering!
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4081,6 +4082,7 @@ Raw
 * [Tim Ottinger](http://agileotter.blogspot.be/2017/11/taking-breaks-in-disciplined-way.html) - (2017) Taking Breaks in a Disciplined Way | Take breaks otherwise pairing will drain your energy
 > we don't take breaks because we are tired, we take breaks so that we are never tired.
 * [Bill Wake](https://www.industriallogic.com/blog/multiple-asserts-are-ok/) - (2015) Multiple Asserts Are OK | Some people suggest we should restrict ourselves to a single assertion per test. Are multiple asserts in a test ever OK?
+* [Joshua Kerievsky](http://www.industriallogic.com/wp-content/uploads/2005/09/StopOverEngineering.pdf) - [PDF] (2002) Stop Over-Engineering!
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
