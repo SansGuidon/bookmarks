@@ -2989,6 +2989,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
 * [Code Simplicity](https://www.codesimplicity.com/) - Max Kanat-Alexander's Blog. Code Simplicity focuses on the idea of simplicity: simple things, simple thoughts, and simple ideas that can make the world of computing a better place.
 * [The Changelog](https://changelog.com/podcast) - [Podcast] Conversations with the hackers, leaders, and innovators of open source.
+* [Industrial Logic Blog](https://www.industriallogic.com/blog/) - leveraging safety wisdom in workspace from manufacturing, psychology, culture change and Agile and Lean developmen
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
