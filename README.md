@@ -2841,6 +2841,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tim Ottinger](https://www.industriallogic.com/blog/real-work-workshops/) - (2017) Make People Awesome through Real Work
 * [Tim Ottinger](https://www.industriallogic.com/blog/over-starting-and-under-finishing/) - (2015) Over-Starting and Under-Finishing | Too Much Starting?
 * [Ward Cunningham](http://wiki.c2.com/?AnalyzingXpWithOptionsPricing) - (2014) Analyzing Xp With Options Pricing | in XP, you should consider the Option to abandon, option to switch, option to defer investment and take advantage of possible future opportunity
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-what-the-hell-effect.php) - (2011) The What-The-Hell Effect | Goal-setting can be a handy way of improving performance, except when we fall foul of a nasty little side-effect. 
+> the what-the-hell effect can be avoided by having longer-term goals and transforming inhibitional goals into acquisitional goals. e.g : Procrastinators can forget about their idling and concentrate on producing a certain amount of work each day
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/10/why-you-should-keep-your-goals-secret.php) - (2011) Why You Should Keep Your Goals Secret | Making a public commitment to your goals reduces motivation. the next time you read this widespread advice about publicly committing to a personal goal, ignore it.
+* [Tisha x](http://www.behindtheschmile.com/silent-successes-stop-sharing-your-goals/) - (2017) Silent Successes: Stop Sharing Your Goals!
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2008/11/getting-big-projects-done-balancing.php) - (2008) Getting Big Projects Done: Balancing Task-Focus with Goal-Focus | keep the ultimate goal in mind, focus to succeeding on the individual task, ...
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/01/how-to-commit-to-a-goal.php) - (2011) How to Commit to a Goal | Reality check (Indulge, Dwell, Contrast)
+> People have a natural tendency to avoid decisions, preferring to stay in a fantasy land where the chance of failure is zero.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -4301,6 +4308,14 @@ Raw
 * [Wikipedia](https://en.wikipedia.org/wiki/Zeigarnik_effect) - the Zeigarnik effect states that people remember uncompleted or interrupted tasks better than completed tasks
 * [Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
 * [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-what-the-hell-effect.php) - (2011) The What-The-Hell Effect | Goal-setting can be a handy way of improving performance, except when we fall foul of a nasty little side-effect. 
+> the what-the-hell effect can be avoided by having longer-term goals and transforming inhibitional goals into acquisitional goals. e.g : Procrastinators can forget about their idling and concentrate on producing a certain amount of work each day
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/10/why-you-should-keep-your-goals-secret.php) - (2011) Why You Should Keep Your Goals Secret | Making a public commitment to your goals reduces motivation. the next time you read this widespread advice about publicly committing to a personal goal, ignore it.
+* [Tisha x](http://www.behindtheschmile.com/silent-successes-stop-sharing-your-goals/) - (2017) Silent Successes: Stop Sharing Your Goals!
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2008/09/how-to-improve-your-self-control.php) - (2008) How to Improve Your Self-Control | think in high-level, abstract terms demonstrated greater self-control
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2008/11/getting-big-projects-done-balancing.php) - (2008) Getting Big Projects Done: Balancing Task-Focus with Goal-Focus | keep the ultimate goal in mind, focus to succeeding on the individual task, ...
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/01/how-to-commit-to-a-goal.php) - (2011) How to Commit to a Goal | Reality check (Indulge, Dwell, Contrast)
+> People have a natural tendency to avoid decisions, preferring to stay in a fantasy land where the chance of failure is zero.
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
