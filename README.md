@@ -944,6 +944,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Angela Stringfellow](https://stackify.com/devops-resume-mistakes/) - (2017) Mistakes to Avoid on Your DevOps Resume: Tips from 20 DevOps Leaders and Hiring Managers
 * [Google](https://www.google.be/search?q=why+devops+is+bad) - Why devops is bad | interesting search results
 * [Helen Beal](https://www.infoq.com/news/2017/10/devops-teams-good-or-bad) - (2017) The Industry Just Can't Decide about DevOps Teams
+* [Joshua Kerievsky](https://www.industriallogic.com/blog/benefits-continuous-deployment/) - (2014) Benefits of Continuous Deployment : Lower Stress, Greater Flow, Less WIP, Easier Recovery
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
