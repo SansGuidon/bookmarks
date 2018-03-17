@@ -339,6 +339,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gary Klein](https://hbr.org/2007/09/performing-a-project-premortem) - (2007) Performing a Project Premortem
 * [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems? via [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/03/11/export-to-pdf-a-tale-in-understanding-the-business-need/)'s article titled "Export to PDF: A Tale in Understanding the Business Need"
 * [Ward Cunningham](http://wiki.c2.com/?AnalyzingXpWithOptionsPricing) - (2014) Analyzing Xp With Options Pricing | in XP, you should consider the Option to abandon, option to switch, option to defer investment and take advantage of possible future opportunity
+* [Joshua Kerievsky](https://www.industriallogic.com/blog/do-what-you-love-in-a-down-economy/) - (2009) Do What You Love in a Down Economy
 
 ## Cryptocurrency
 > News
@@ -3460,6 +3461,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/06/29/dont-repeat-yourself-x3/) - (2017) Don't Repeat Yourself x3
 * [Bill Wake](https://www.industriallogic.com/blog/isolate-improve-inline-refactoring-tactic/) - (2016) Isolate-Improve-Inline: The 3-I Refactoring Tactic
 * [Fagner Brack](https://medium.com/@fagnerbrack/why-small-modules-matter-4e4d629321b8) - (2016) Why Small Modules Matter | Big projects are what, if not the composition of small pieces
+* [Industrial Logic](http://www.industriallogic.com/wp-content/uploads/2005/09/smellstorefactorings.pdf) - [PDF] (2005) Smells to Refactorings Quick Reference Guide
 
 ## Conferences 
 > In Belgium
