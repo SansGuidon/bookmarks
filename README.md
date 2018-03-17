@@ -561,6 +561,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > People will not work together to complete stories if they each have "their own work" to do.
 * [Tim Ottinger](http://agileotter.blogspot.be/2015/04/individual-work-assignments-neither.html) - (2015) Individual Work Assignments: Neither Agile Nor Team
 * [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
+* [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication:
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2848,6 +2849,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2008/11/getting-big-projects-done-balancing.php) - (2008) Getting Big Projects Done: Balancing Task-Focus with Goal-Focus | keep the ultimate goal in mind, focus to succeeding on the individual task, ...
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/01/how-to-commit-to-a-goal.php) - (2011) How to Commit to a Goal | Reality check (Indulge, Dwell, Contrast)
 > People have a natural tendency to avoid decisions, preferring to stay in a fantasy land where the chance of failure is zero.
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/09/how-to-avoid-being-distracted-from-your-goals.php) - (2011) How to Avoid Being Distracted From Your Goals | Specific plans free the mind 
+> Making plans helps free up mental space for whatever we are doing right now, allowing us to be more efficient in the long term.
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2009/01/how-to-avoid-procrastination-think.php) - (2009) How to Avoid Procrastination: Think Concrete | focus on task's details and use self-imposed deadlines. While working on it : keep the ultimate, abstract goal in mind. When it's hard, stay focused on details, when it get easier : choose a more abstract, goal focus
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
@@ -2893,6 +2897,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mark Johnson](https://hackernoon.com/how-i-shipped-six-side-projects-in-2017-3dde6c77adbb) - (2018) How I Launched Six Side Projects in 2017
 * [Gary Klein](https://hbr.org/2007/09/performing-a-project-premortem) - (2007) Performing a Project Premortem
 * [Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-dark-side-of-goal-setting.php) - (2011) The Dark Side of Goal-Setting | when we goals are too many, too specific or too short-terms
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -3257,6 +3262,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [melissa mcewen](https://medium.com/@melissamcewen/coders-should-fear-what-happened-to-writers-d87a895b03db) - (2017) Coders Should Fear What Happened To Writers | meaning only those in top coding jobs are rewarded well
 * [Lou Bichard](https://simpleprogrammer.com/overcoming-obstacles-stoic-mindset/) - (2018) Overcoming Programmer Career Obstacles With A Stoic Mindset
 * [Angela Stringfellow](https://stackify.com/devops-resume-mistakes/) - (2017) Mistakes to Avoid on Your DevOps Resume: Tips from 20 DevOps Leaders and Hiring Managers
+* [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication:
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4316,6 +4322,9 @@ Raw
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2008/11/getting-big-projects-done-balancing.php) - (2008) Getting Big Projects Done: Balancing Task-Focus with Goal-Focus | keep the ultimate goal in mind, focus to succeeding on the individual task, ...
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/01/how-to-commit-to-a-goal.php) - (2011) How to Commit to a Goal | Reality check (Indulge, Dwell, Contrast)
 > People have a natural tendency to avoid decisions, preferring to stay in a fantasy land where the chance of failure is zero.
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/09/how-to-avoid-being-distracted-from-your-goals.php) - (2011) How to Avoid Being Distracted From Your Goals | Specific plans free the mind 
+> Making plans helps free up mental space for whatever we are doing right now, allowing us to be more efficient in the long term.
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2009/01/how-to-avoid-procrastination-think.php) - (2009) How to Avoid Procrastination: Think Concrete | focus on task's details and use self-imposed deadlines. While working on it : keep the ultimate, abstract goal in mind. When it's hard, stay focused on details, when it get easier : choose a more abstract, goal focus
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
