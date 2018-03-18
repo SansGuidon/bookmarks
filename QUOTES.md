@@ -74,3 +74,4 @@
 * The only way to go fast is to go well. Every time you yield to the temptation to trade quality for speed, you slow down. Every time. [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
 * [Zen Sayings](http://www.sacred-texts.com/bud/zen/sayings.htm) - Zen masters say "Don't seek the truth - just drop your opinions"
 * Measure the size of the problem, then implement actions. [Francisco Cobos](https://twitter.com/CodeWisdom/status/952911760134156288)
+* No matter what the problem is, it's always a people problem. [Gerald M. Weinberg](http://www.softwarequotes.com/)
