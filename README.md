@@ -1065,6 +1065,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver053/search-for-code-in-bitbucket-server-938022411.html) - Search for code in Bitbucket Server
 * [MorganGeek](cheat/bitbucket.md) - bitbucket cheatsheet / tips
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
+* [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
 
 ## ChatOps
 * [Vivek Gite](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -2562,6 +2563,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 > Learn
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
+* [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
 
 ## Infrastructure
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
@@ -2581,6 +2583,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira) - Docker build for Atlassian Jira
 * [John Andersen](http://www.john-james-andersen.com/blog/service-now/rest-based-servicenow-jira-integration-poc.html) - REST Based ServiceNow / Jira Integration (PoC)
 * [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - JIRA ID in Git Commit Messages
+* [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
