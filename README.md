@@ -347,6 +347,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ward Cunningham](http://wiki.c2.com/?AnalyzingXpWithOptionsPricing) - (2014) Analyzing Xp With Options Pricing | in XP, you should consider the Option to abandon, option to switch, option to defer investment and take advantage of possible future opportunity
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/do-what-you-love-in-a-down-economy/) - (2009) Do What You Love in a Down Economy
 * [David Brown](https://www.inc.com/david-brown/what-happens-when-a-founder-leaves-a-company-how-to-stay-grounded-continue-to-grow.html) - (2017) How to Stay Grounded and Maintain Your Vision at Your Company | There are four fundamental elements of running a business, and not only is vision the first, it's also the one that the others are built on. | As startup businesses start to scale, the vision can easily get lost.
+* [Hicham Amine](https://medium.com/startup-grind/how-to-grow-a-startup-the-5-best-tips-ive-ever-learned-2a5c8da160d8) - (2017) How to Grow A Startup: The 5 Best Tips I’ve ever learned.
 
 ## Cryptocurrency
 > News
