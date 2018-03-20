@@ -357,6 +357,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sam Harris](https://medium.com/growth-mindset-podcast/the-hard-thing-about-hard-things-summary-51ea0213e837) - (2017) The Hard Thing About Hard Things — Summary of book
 * [Triin Linamagi](https://www.fastcompany.com/3044519/7-of-the-most-common-reasons-startups-fail) - (2015) The Most Common Reasons Startups Fail
 * [Kevin J. Delaney](https://qz.com/846530/something-weird-happens-to-companies-when-they-hit-150-people/) - (2016) Something weird happens to companies when they hit 150 people
+* [Isaac Park](https://www.pathosethos.com/2017/09/28/founder-problem-youre-the-reason-your-startup-doesnt-grow/) - (2017) Founder Problem: I’m The Reason My Startup Doesn’t Grow
 
 ## Cryptocurrency
 > News
@@ -2938,6 +2939,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Blake Gossard](https://medium.com/@BlakeGossard/the-importance-of-getting-distracted-cd2511ad5b74) - (2018) The Importance of Getting Distracted | The pervasive message of “stay focused for success” is wrong
 > curiosity and broad inquiry are necessarily incompatible with focus on specific goals.
 * [John Mashni](https://medium.com/personal-growth/if-you-dont-eliminate-this-habit-you-will-never-grow-1193bf26e32a) - (2018) If You Don’t Eliminate This Habit, You Will Never Grow  | I had to stop doing this to finally start being consistent.
+* [Isaac Park](https://www.pathosethos.com/2017/09/28/founder-problem-youre-the-reason-your-startup-doesnt-grow/) - (2017) Founder Problem: I’m The Reason My Startup Doesn’t Grow
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
