@@ -5058,6 +5058,8 @@ Raw
 * [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
 * [Della Anjeh aka Black Queen of Tech](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9) - (2017) How to Write Awesome Tech Specs
 * [Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/) - (2018) My Writing Process
+* [Jeff Goins](https://goinswriter.com/how-to-write-a-book/) - (2014) How to Write a Book: The 5-Draft Method
+* [Jeff Goins](https://goinswriter.com/tips-writing-book/) - (2012) 10 Ridiculously Simple Steps for Writing a Book
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
