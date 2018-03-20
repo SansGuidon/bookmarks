@@ -286,6 +286,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Reddit](https://www.reddit.com/r/FreeEBOOKS/) - Free Ebooks
 * [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
 * [Andrew Hatch](https://medium.com/seek-blog/platform-engineering-why-we-dont-need-a-devops-team-e88c8b97cc4f) - (2017) Why We Don’t Need a DevOps Team | Rename your DevOps Team
+* [Sam Harris](https://medium.com/growth-mindset-podcast/the-hard-thing-about-hard-things-summary-51ea0213e837) - (2017) The Hard Thing About Hard Things — Summary of book
 
 > Writing
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
@@ -353,6 +354,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/how-not-to-hire-like-a-clownshow-evergreen-business-weekly-2-hiring-f4da0e9d3230) - (2015) How Not to Hire Like a Clownshow—Evergreen Business Weekly 2: Hiring
 * [Nick Cassella](https://civicskunk.works/ask-your-coworkers-what-they-make-youll-earn-more-46efb2daf63e) - (2018) Ask Your Coworkers What They Make. You’ll Earn More.
+* [Sam Harris](https://medium.com/growth-mindset-podcast/the-hard-thing-about-hard-things-summary-51ea0213e837) - (2017) The Hard Thing About Hard Things — Summary of book
 
 ## Cryptocurrency
 > News
