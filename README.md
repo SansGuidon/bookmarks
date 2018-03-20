@@ -118,6 +118,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
   * [Design humor](#design-humor)
 * [Web development](#web-development)
 * [Windows](#windows)
+* [Writing](#writing)
 
 # Anime
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
@@ -287,12 +288,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
 * [Andrew Hatch](https://medium.com/seek-blog/platform-engineering-why-we-dont-need-a-devops-team-e88c8b97cc4f) - (2017) Why We Don’t Need a DevOps Team | Rename your DevOps Team
 * [Sam Harris](https://medium.com/growth-mindset-podcast/the-hard-thing-about-hard-things-summary-51ea0213e837) - (2017) The Hard Thing About Hard Things — Summary of book
-
-> Writing
-* [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
-* [Matt Stauffer](https://mattstauffer.com/blog/why-i-wrote-my-book-with-oreilly/) - (2016) Why I wrote my book with O'Reilly
-* [Carla King](http://mediashift.org/2014/04/indie-publishing-tools-for-small-press-and-author-co-ops/) - (2014) 6 Great Self-Publishing Tools for Small Press and Author Co-Ops
-* [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
 
 # Business & Economics
 > News
@@ -5054,6 +5049,14 @@ Raw
 * [Pekka Väänänen](http://www.lofibucket.com/articles/dwm_latency.html) - (2017) Desktop compositing latency is real and it annoys me | about input latency on Windows 10 vs Windows 7
 * [Win flex-bison](https://sourceforge.net/projects/winflexbison/files/) - Win flex-bison is a port Flex & Bison tools to the Windows platform
 * [MorganGeek](cheat/windows-subsystem.md) - Windows Subsystem for Linux cheatsheet / tips
+
+# Writing
+* [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
+* [Matt Stauffer](https://mattstauffer.com/blog/why-i-wrote-my-book-with-oreilly/) - (2016) Why I wrote my book with O'Reilly
+* [Carla King](http://mediashift.org/2014/04/indie-publishing-tools-for-small-press-and-author-co-ops/) - (2014) 6 Great Self-Publishing Tools for Small Press and Author Co-Ops
+* [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
+* [Della Anjeh aka Black Queen of Tech](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9) - (2017) How to Write Awesome Tech Specs
+* [Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/) - (2018) My Writing Process
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
