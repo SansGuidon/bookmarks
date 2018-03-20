@@ -573,6 +573,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
 * [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication:
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/the-power-of-network-effects-why-they-make-such-valuable-companies-and-how-to-harness-them-5d3fbc3659f8) - (2015) The Power of Network Effects: Why they make such Valuable Companies, and how to Harness them
+* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential. 
+> Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
