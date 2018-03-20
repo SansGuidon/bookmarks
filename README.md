@@ -639,6 +639,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems? via [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/03/11/export-to-pdf-a-tale-in-understanding-the-business-need/)'s article titled "Export to PDF: A Tale in Understanding the Business Need"
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
 * [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
+* [Blake Gossard](https://medium.com/@BlakeGossard/the-importance-of-getting-distracted-cd2511ad5b74) - (2018) The Importance of Getting Distracted | The pervasive message of “stay focused for success” is wrong
+> curiosity and broad inquiry are necessarily incompatible with focus on specific goals.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -2924,6 +2926,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-dark-side-of-goal-setting.php) - (2011) The Dark Side of Goal-Setting | when we goals are too many, too specific or too short-terms
 * [Matt Stauffer](https://mattstauffer.com/blog/why-i-wrote-my-book-with-oreilly/) - (2016) Why I wrote my book with O'Reilly
 * [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
+* [Blake Gossard](https://medium.com/@BlakeGossard/the-importance-of-getting-distracted-cd2511ad5b74) - (2018) The Importance of Getting Distracted | The pervasive message of “stay focused for success” is wrong
+> curiosity and broad inquiry are necessarily incompatible with focus on specific goals.
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
