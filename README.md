@@ -572,6 +572,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tim Ottinger](http://agileotter.blogspot.be/2015/04/individual-work-assignments-neither.html) - (2015) Individual Work Assignments: Neither Agile Nor Team
 * [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
 * [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication:
+* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/the-power-of-network-effects-why-they-make-such-valuable-companies-and-how-to-harness-them-5d3fbc3659f8) - (2015) The Power of Network Effects: Why they make such Valuable Companies, and how to Harness them
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
