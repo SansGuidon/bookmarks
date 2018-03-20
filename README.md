@@ -349,6 +349,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [David Brown](https://www.inc.com/david-brown/what-happens-when-a-founder-leaves-a-company-how-to-stay-grounded-continue-to-grow.html) - (2017) How to Stay Grounded and Maintain Your Vision at Your Company | There are four fundamental elements of running a business, and not only is vision the first, it's also the one that the others are built on. | As startup businesses start to scale, the vision can easily get lost.
 * [Hicham Amine](https://medium.com/startup-grind/how-to-grow-a-startup-the-5-best-tips-ive-ever-learned-2a5c8da160d8) - (2017) How to Grow A Startup: The 5 Best Tips I’ve ever learned.
 * [Eric Jorgenson](https://medium.com/@ericjorgenson/why-growing-past-20-employees-is-so-damn-hard-and-what-you-can-do-about-it-e37cb302db58) - (2017) Why Growing Past 20 Employees is so Damn Hard (and what you can do about it)
+* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential. 
+> Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
+* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/how-not-to-hire-like-a-clownshow-evergreen-business-weekly-2-hiring-f4da0e9d3230) - (2015) How Not to Hire Like a Clownshow—Evergreen Business Weekly 2: Hiring
 
 ## Cryptocurrency
 > News
@@ -575,6 +578,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/the-power-of-network-effects-why-they-make-such-valuable-companies-and-how-to-harness-them-5d3fbc3659f8) - (2015) The Power of Network Effects: Why they make such Valuable Companies, and how to Harness them
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential. 
 > Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
+* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/how-not-to-hire-like-a-clownshow-evergreen-business-weekly-2-hiring-f4da0e9d3230) - (2015) How Not to Hire Like a Clownshow—Evergreen Business Weekly 2: Hiring
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
