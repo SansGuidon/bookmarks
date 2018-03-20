@@ -2932,6 +2932,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
 * [Blake Gossard](https://medium.com/@BlakeGossard/the-importance-of-getting-distracted-cd2511ad5b74) - (2018) The Importance of Getting Distracted | The pervasive message of “stay focused for success” is wrong
 > curiosity and broad inquiry are necessarily incompatible with focus on specific goals.
+* [John Mashni](https://medium.com/personal-growth/if-you-dont-eliminate-this-habit-you-will-never-grow-1193bf26e32a) - (2018) If You Don’t Eliminate This Habit, You Will Never Grow  | I had to stop doing this to finally start being consistent.
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
