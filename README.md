@@ -352,6 +352,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential. 
 > Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/how-not-to-hire-like-a-clownshow-evergreen-business-weekly-2-hiring-f4da0e9d3230) - (2015) How Not to Hire Like a Clownshow—Evergreen Business Weekly 2: Hiring
+* [Nick Cassella](https://civicskunk.works/ask-your-coworkers-what-they-make-youll-earn-more-46efb2daf63e) - (2018) Ask Your Coworkers What They Make. You’ll Earn More.
 
 ## Cryptocurrency
 > News
@@ -2002,6 +2003,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tim Ottinger](http://agileotter.blogspot.be/2017/11/taking-breaks-in-disciplined-way.html) - (2017) Taking Breaks in a Disciplined Way | Take breaks otherwise pairing will drain your energy
 > we don't take breaks because we are tired, we take breaks so that we are never tired.
 * [Ward Cunningham](http://wiki.c2.com/?AnalyzingXpWithOptionsPricing) - (2014) Analyzing Xp With Options Pricing | in XP, you should consider the Option to abandon, option to switch, option to defer investment and take advantage of possible future opportunity
+* [Nick Cassella](https://civicskunk.works/ask-your-coworkers-what-they-make-youll-earn-more-46efb2daf63e) - (2018) Ask Your Coworkers What They Make. You’ll Earn More.
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
