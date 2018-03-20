@@ -2889,6 +2889,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Making plans helps free up mental space for whatever we are doing right now, allowing us to be more efficient in the long term.
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2009/01/how-to-avoid-procrastination-think.php) - (2009) How to Avoid Procrastination: Think Concrete | focus on task's details and use self-imposed deadlines. While working on it : keep the ultimate, abstract goal in mind. When it's hard, stay focused on details, when it get easier : choose a more abstract, goal focus
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
+* [Thomas Frank](https://collegeinfogeek.com/feynman-technique/) - (2017)  How to Use the Feynman Technique to Learn Faster (With Examples) 
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
