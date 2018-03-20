@@ -358,6 +358,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Triin Linamagi](https://www.fastcompany.com/3044519/7-of-the-most-common-reasons-startups-fail) - (2015) The Most Common Reasons Startups Fail
 * [Kevin J. Delaney](https://qz.com/846530/something-weird-happens-to-companies-when-they-hit-150-people/) - (2016) Something weird happens to companies when they hit 150 people
 * [Isaac Park](https://www.pathosethos.com/2017/09/28/founder-problem-youre-the-reason-your-startup-doesnt-grow/) - (2017) Founder Problem: I’m The Reason My Startup Doesn’t Grow
+* [Shoshanna Solomon](https://www.timesofisrael.com/as-startups-grow-founders-need-to-learn-to-let-go/) - (2018) As startups grow, founders need to learn to let go  
+> As your company grows you have to get used to the fact that you cannot be involved in all the aspects of the company. To delegate is hard
+> Delegating, he said, is another tough thing to do. “The key is to hire people who are more intelligent than you, to find people who are super, super smart, ”
 
 ## Cryptocurrency
 > News
@@ -587,7 +590,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/how-not-to-hire-like-a-clownshow-evergreen-business-weekly-2-hiring-f4da0e9d3230) - (2015) How Not to Hire Like a Clownshow—Evergreen Business Weekly 2: Hiring
 * [Kevin J. Delaney](https://qz.com/846530/something-weird-happens-to-companies-when-they-hit-150-people/) - (2016) Something weird happens to companies when they hit 150 people
 * [Robin Dunbar](https://www.theguardian.com/science/2011/apr/25/few-people-dunbars-number) - (2011) Friends to count on | The perfect number for a human social group is 150. The challenge is maintaining a real sense of community
-
+* [Shoshanna Solomon](https://www.timesofisrael.com/as-startups-grow-founders-need-to-learn-to-let-go/) - (2018) As startups grow, founders need to learn to let go  
+> As your company grows you have to get used to the fact that you cannot be involved in all the aspects of the company. To delegate is hard
+> Delegating, he said, is another tough thing to do. “The key is to hire people who are more intelligent than you, to find people who are super, super smart, ”
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
