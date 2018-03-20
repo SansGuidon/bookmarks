@@ -346,6 +346,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems? via [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/03/11/export-to-pdf-a-tale-in-understanding-the-business-need/)'s article titled "Export to PDF: A Tale in Understanding the Business Need"
 * [Ward Cunningham](http://wiki.c2.com/?AnalyzingXpWithOptionsPricing) - (2014) Analyzing Xp With Options Pricing | in XP, you should consider the Option to abandon, option to switch, option to defer investment and take advantage of possible future opportunity
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/do-what-you-love-in-a-down-economy/) - (2009) Do What You Love in a Down Economy
+* [David Brown](https://www.inc.com/david-brown/what-happens-when-a-founder-leaves-a-company-how-to-stay-grounded-continue-to-grow.html) - (2017) How to Stay Grounded and Maintain Your Vision at Your Company | There are four fundamental elements of running a business, and not only is vision the first, it's also the one that the others are built on. | As startup businesses start to scale, the vision can easily get lost.
 
 ## Cryptocurrency
 > News
