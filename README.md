@@ -205,6 +205,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - (2012) Splitting user stories -- the hamburger method
 * [Bill Wake](https://www.industriallogic.com/blog/evolution-cupcakes-and-skeletons/) - (2016) Evolution, Cupcakes, and Skeletons: Changing Design
 * [Fagner Brack](https://medium.com/@fagnerbrack/why-small-modules-matter-4e4d629321b8) - (2016) Why Small Modules Matter | Big projects are what, if not the composition of small pieces
+* [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming 
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -3311,6 +3312,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication:
 * [Joshua Kerievsky](http://www.industriallogic.com/wp-content/uploads/2005/09/StopOverEngineering.pdf) - [PDF] (2002) Stop Over-Engineering!
 * [panic](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g2230a66ea4_136_9) - gallery of programmer interfaces (UIs)
+* [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming 
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
