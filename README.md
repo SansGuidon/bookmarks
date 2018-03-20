@@ -361,6 +361,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Shoshanna Solomon](https://www.timesofisrael.com/as-startups-grow-founders-need-to-learn-to-let-go/) - (2018) As startups grow, founders need to learn to let go  
 > As your company grows you have to get used to the fact that you cannot be involved in all the aspects of the company. To delegate is hard
 > Delegating, he said, is another tough thing to do. “The key is to hire people who are more intelligent than you, to find people who are super, super smart, ”
+* [David NiuMark Roberge](https://hbr.org/2017/03/how-morale-changes-as-a-startup-grows) - (2017) How Morale Changes as a Startup Grows | how company's culture changes
 
 ## Cryptocurrency
 > News
