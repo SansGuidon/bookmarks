@@ -348,6 +348,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/do-what-you-love-in-a-down-economy/) - (2009) Do What You Love in a Down Economy
 * [David Brown](https://www.inc.com/david-brown/what-happens-when-a-founder-leaves-a-company-how-to-stay-grounded-continue-to-grow.html) - (2017) How to Stay Grounded and Maintain Your Vision at Your Company | There are four fundamental elements of running a business, and not only is vision the first, it's also the one that the others are built on. | As startup businesses start to scale, the vision can easily get lost.
 * [Hicham Amine](https://medium.com/startup-grind/how-to-grow-a-startup-the-5-best-tips-ive-ever-learned-2a5c8da160d8) - (2017) How to Grow A Startup: The 5 Best Tips I’ve ever learned.
+* [Eric Jorgenson](https://medium.com/@ericjorgenson/why-growing-past-20-employees-is-so-damn-hard-and-what-you-can-do-about-it-e37cb302db58) - (2017) Why Growing Past 20 Employees is so Damn Hard (and what you can do about it)
 
 ## Cryptocurrency
 > News
