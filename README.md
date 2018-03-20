@@ -356,6 +356,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nick Cassella](https://civicskunk.works/ask-your-coworkers-what-they-make-youll-earn-more-46efb2daf63e) - (2018) Ask Your Coworkers What They Make. You’ll Earn More.
 * [Sam Harris](https://medium.com/growth-mindset-podcast/the-hard-thing-about-hard-things-summary-51ea0213e837) - (2017) The Hard Thing About Hard Things — Summary of book
 * [Triin Linamagi](https://www.fastcompany.com/3044519/7-of-the-most-common-reasons-startups-fail) - (2015) The Most Common Reasons Startups Fail
+* [Kevin J. Delaney](https://qz.com/846530/something-weird-happens-to-companies-when-they-hit-150-people/) - (2016) Something weird happens to companies when they hit 150 people
 
 ## Cryptocurrency
 > News
