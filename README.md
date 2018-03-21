@@ -207,6 +207,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bill Wake](https://www.industriallogic.com/blog/evolution-cupcakes-and-skeletons/) - (2016) Evolution, Cupcakes, and Skeletons: Changing Design
 * [Fagner Brack](https://medium.com/@fagnerbrack/why-small-modules-matter-4e4d629321b8) - (2016) Why Small Modules Matter | Big projects are what, if not the composition of small pieces
 * [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming 
+* [Simon Brown](http://www.codingthearchitecture.com/2018/02/09/todays_software_developers_are_the_ivory_tower_architects_of_tomorrow.html) - (2018) Today's software developers are the ivory tower architects of tomorrow
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -3323,6 +3324,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming 
 * [Andrew Turley](https://gist.github.com/aturley/49b60c98306d90ffc2f981515827b005) - Important Considerations about Pony programming language, based on [this tweet](https://twitter.com/casio_juarez/status/898706225642086400)
 * [Pony Docs](https://tutorial.ponylang.org/) - Introduction Tutorial about [Pony](https://www.ponylang.org/) : an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language. 
+* [Simon Brown](http://www.codingthearchitecture.com/2018/02/09/todays_software_developers_are_the_ivory_tower_architects_of_tomorrow.html) - (2018) Today's software developers are the ivory tower architects of tomorrow
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
