@@ -4236,7 +4236,7 @@ Raw
 * :star: [**Andrew Yurisich/unmaintainable-code**](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code. **Bonus** : [Original article by Roedy Green / Canadian Minds](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
 * [Thomas Figg (tef)](https://programmingisterrible.com/post/65781074112/devils-dictionary-of-programming) - (2013) Devil’s Dictionary of Programming
 * [Stack Overflow](https://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered) - What is the best comment in source code you have ever encountered? [closed]
-* [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site
+* [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site for captcha haters
 * [Liz England](http://www.lizengland.com/blog/2014/04/the-door-problem/) - (2014) The Door Problem | funny article about complexity of modern game development
 * [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt) - jokes about git
 
@@ -4401,6 +4401,7 @@ Raw
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2009/01/how-to-avoid-procrastination-think.php) - (2009) How to Avoid Procrastination: Think Concrete | focus on task's details and use self-imposed deadlines. While working on it : keep the ultimate, abstract goal in mind. When it's hard, stay focused on details, when it get easier : choose a more abstract, goal focus
 * [Positive Psychology Program](https://positivepsychologyprogram.com/dacher-keltner-emotions-in-a-meaningful-life/) - (2016) Dacher Keltner: Emotions in a Meaningful Life
 * [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences 
+* [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -4430,7 +4431,8 @@ Raw
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
 * [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - Artificial Intelligence (AI) courses, books, video lectures and papers.
 * [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
-* [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site
+* [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site for captcha haters
+* [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -4713,6 +4715,7 @@ Raw
 * [Hak5](https://www.hak5.org/blog/15-second-password-hack-mr-robot-style) - (2016) 15 Second Password Hack, Mr Robot Style : Pilfering Passwords with the USB Rubber Ducky
 * [WonderHowTo](https://null-byte.wonderhowto.com/how-to/mr-robot-hacks/) - Mr. Robot Hacks how-to's
 * [Boris Serebrov](https://serebrov.github.io/html/2018-01-11-aws-ec2-ssh-tunnel.html) - (2018) SSH Tunnels | on AWS, EC2 and SSH tunnels
+* [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
