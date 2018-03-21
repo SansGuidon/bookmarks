@@ -590,6 +590,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Shoshanna Solomon](https://www.timesofisrael.com/as-startups-grow-founders-need-to-learn-to-let-go/) - (2018) As startups grow, founders need to learn to let go  
 > As your company grows you have to get used to the fact that you cannot be involved in all the aspects of the company. To delegate is hard
 > Delegating, he said, is another tough thing to do. “The key is to hire people who are more intelligent than you, to find people who are super, super smart, ”
+* [Joshua Kerievsky](https://www.linkedin.com/pulse/day-we-stopped-sprinting-joshua-kerievsky/) - (2017) The Day We Stopped Sprinting
+> Our new approach felt more natural and we became more responsive to our customer's needs. We spent less time trying to predict how much work we could get done in a rigid time box, and instead allowed ourselves to work on items that ranged from a few hours to a few days.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2946,6 +2948,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > curiosity and broad inquiry are necessarily incompatible with focus on specific goals.
 * [John Mashni](https://medium.com/personal-growth/if-you-dont-eliminate-this-habit-you-will-never-grow-1193bf26e32a) - (2018) If You Don’t Eliminate This Habit, You Will Never Grow  | I had to stop doing this to finally start being consistent.
 * [Isaac Park](https://www.pathosethos.com/2017/09/28/founder-problem-youre-the-reason-your-startup-doesnt-grow/) - (2017) Founder Problem: I’m The Reason My Startup Doesn’t Grow
+* [Joshua Kerievsky](https://www.linkedin.com/pulse/day-we-stopped-sprinting-joshua-kerievsky/) - (2017) The Day We Stopped Sprinting
+> Our new approach felt more natural and we became more responsive to our customer's needs. We spent less time trying to predict how much work we could get done in a rigid time box, and instead allowed ourselves to work on items that ranged from a few hours to a few days.
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
