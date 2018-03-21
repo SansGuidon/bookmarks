@@ -76,3 +76,4 @@
 * Measure the size of the problem, then implement actions. [Francisco Cobos](https://twitter.com/CodeWisdom/status/952911760134156288)
 * No matter what the problem is, it's always a people problem. [Gerald M. Weinberg](http://www.softwarequotes.com/)
 * Hiring people to write code to sell is not the same as hiring people to design and build durable, usable, dependable software. [Larry Constantine](http://www.amazon.com/Beyond-Chaos-Managing-Software-Development/dp/0201719606)
+* A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want. - [Niklaus Wirth](http://www.adrianmccarthy.com/blog/?p=15)
