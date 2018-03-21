@@ -4312,6 +4312,7 @@ Raw
 * [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
 * [Armon Dadgar](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) - [Podcast] (2017) SE-Radio Episode 311: Armon Dadgar on Secrets Management
 * [John Sonmez](https://talkpython.fm/episodes/show/71/soft-skills-the-software-developer-s-life-manual) - (2016) Episode #71: Soft Skills: The software developer's life manual
+* [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences 
 
 # Psychology
 > News
@@ -4384,6 +4385,8 @@ Raw
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/09/how-to-avoid-being-distracted-from-your-goals.php) - (2011) How to Avoid Being Distracted From Your Goals | Specific plans free the mind 
 > Making plans helps free up mental space for whatever we are doing right now, allowing us to be more efficient in the long term.
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2009/01/how-to-avoid-procrastination-think.php) - (2009) How to Avoid Procrastination: Think Concrete | focus on task's details and use self-imposed deadlines. While working on it : keep the ultimate, abstract goal in mind. When it's hard, stay focused on details, when it get easier : choose a more abstract, goal focus
+* [Positive Psychology Program](https://positivepsychologyprogram.com/dacher-keltner-emotions-in-a-meaningful-life/) - (2016) Dacher Keltner: Emotions in a Meaningful Life
+* [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences 
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
