@@ -978,6 +978,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Helen Beal](https://www.infoq.com/news/2017/10/devops-teams-good-or-bad) - (2017) The Industry Just Can't Decide about DevOps Teams
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/benefits-continuous-deployment/) - (2014) Benefits of Continuous Deployment : Lower Stress, Greater Flow, Less WIP, Easier Recovery
 * [A. Mokhov, N. Mitchell, Simon Peyton Jones](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf) - (2018) [PDF] Build Systems à la Carte | is excel a build system too ? study of various old and model build systems 
+* [Aymen El Amri](https://hackernoon.com/50-best-devops-sre-blog-posts-tutorials-of-2017-451a7d69c4ef) - (2018) 50 Best DevOps & SRE Blog Posts & Tutorials Of 2017
+* [Jeff Knupp](https://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/) - (2014) How 'DevOps' is Killing the Developer
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
