@@ -3314,6 +3314,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joshua Kerievsky](http://www.industriallogic.com/wp-content/uploads/2005/09/StopOverEngineering.pdf) - [PDF] (2002) Stop Over-Engineering!
 * [panic](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g2230a66ea4_136_9) - gallery of programmer interfaces (UIs)
 * [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming 
+* [Andrew Turley](https://gist.github.com/aturley/49b60c98306d90ffc2f981515827b005) - Important Considerations about Pony programming language, based on [this tweet](https://twitter.com/casio_juarez/status/898706225642086400)
+* [Pony Docs](https://tutorial.ponylang.org/) - Introduction Tutorial about [Pony](https://www.ponylang.org/) : an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language. 
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
