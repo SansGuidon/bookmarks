@@ -3391,7 +3391,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * :star: [**Andrew Yurisich/unmaintainable-code**](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code. **Bonus** : [Original article by Roedy Green / Canadian Minds](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
-
 * [Salvatore Gentile/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
 * [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) 
 * [mcandre/linters](https://github.com/mcandre/linters) - list of linters and introduction to static code analysis
@@ -3525,6 +3524,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bill Wake](https://www.industriallogic.com/blog/isolate-improve-inline-refactoring-tactic/) - (2016) Isolate-Improve-Inline: The 3-I Refactoring Tactic
 * [Fagner Brack](https://medium.com/@fagnerbrack/why-small-modules-matter-4e4d629321b8) - (2016) Why Small Modules Matter | Big projects are what, if not the composition of small pieces
 * [Industrial Logic](http://www.industriallogic.com/wp-content/uploads/2005/09/smellstorefactorings.pdf) - [PDF] (2005) Smells to Refactorings Quick Reference Guide
+* [Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f) - (2018) Code Review Best Practices
 
 ## Conferences 
 > In Belgium
