@@ -4520,6 +4520,7 @@ Raw
 * [Eric Pement](http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
 * [Kevin van Zonneveld](https://kvz.io/blog/2013/11/21/bash-best-practices/) - (2013) Best Practices for Writing Bash Scripts
 * [BASH3 Boilerplate (or b3bp)](http://bash3boilerplate.sh/) - Templates to write better Bash scripts **Bonus** [Github Repo](https://github.com/kvz/bash3boilerplate)
+* [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
