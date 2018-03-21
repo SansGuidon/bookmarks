@@ -977,6 +977,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Google](https://www.google.be/search?q=why+devops+is+bad) - Why devops is bad | interesting search results
 * [Helen Beal](https://www.infoq.com/news/2017/10/devops-teams-good-or-bad) - (2017) The Industry Just Can't Decide about DevOps Teams
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/benefits-continuous-deployment/) - (2014) Benefits of Continuous Deployment : Lower Stress, Greater Flow, Less WIP, Easier Recovery
+* [A. Mokhov, N. Mitchell, Simon Peyton Jones](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf) - (2018) [PDF] Build Systems à la Carte | is excel a build system too ? study of various old and model build systems 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
