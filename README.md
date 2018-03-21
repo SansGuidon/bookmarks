@@ -4314,6 +4314,10 @@ Raw
 * [John Sonmez](https://talkpython.fm/episodes/show/71/soft-skills-the-software-developer-s-life-manual) - (2016) Episode #71: Soft Skills: The software developer's life manual
 
 # Psychology
+> News
+* [Positive Psychology Program](https://positivepsychologyprogram.com/category/positive-emotions/) - Positive Emotions related articles
+
+> Learn
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
 * [Carl Golden](https://themindsjournal.com/the-12-different-personality-archetypes-and-what-you-must-know-about-each-one/) - The 12 Different Personality Archetypes
 * [College Match Up](http://www.collegematchup.net/features/best-jobs-for-your-personality-type/) - Best jobs for your personality type
