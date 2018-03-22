@@ -292,6 +292,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
 * [Andrew Hatch](https://medium.com/seek-blog/platform-engineering-why-we-dont-need-a-devops-team-e88c8b97cc4f) - (2017) Why We Don’t Need a DevOps Team | Rename your DevOps Team
 * [Sam Harris](https://medium.com/growth-mindset-podcast/the-hard-thing-about-hard-things-summary-51ea0213e837) - (2017) The Hard Thing About Hard Things — Summary of book
+* [Farnam Street](https://www.fs.blog/2012/07/how-to-win-friends-and-influence-people/) - (2012) The Best Summary of Dale Carnegie's How to Win Friends and Influence People
 
 # Business & Economics
 > News
@@ -4402,6 +4403,7 @@ Raw
 * [Positive Psychology Program](https://positivepsychologyprogram.com/dacher-keltner-emotions-in-a-meaningful-life/) - (2016) Dacher Keltner: Emotions in a Meaningful Life
 * [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences 
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
+* [Farnam Street](https://www.fs.blog/2012/07/how-to-win-friends-and-influence-people/) - (2012) The Best Summary of Dale Carnegie's How to Win Friends and Influence People
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
