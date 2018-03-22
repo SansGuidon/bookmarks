@@ -739,7 +739,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year DevOps news
 * [InfoWorld](https://www.infoworld.com/category/devops/) - information, news, how-to advices about DevOps
 * [Medium](https://medium.com/tag/devops) - DevOps Stories on medium
-* [DevOpsLinks](https://medium.com/devopslinks) - The Must-Read Publication for Aspiring DevOps Professionals
+* :star: [**DevOpsLinks**](https://medium.com/devopslinks) - The Must-Read Publication for Aspiring DevOps Professionals
 * [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels' (Amazon' CTO) weblog on building scalable and robust distributed systems.
 * [GoCD Blog](https://www.gocd.org/blog/) - Continuous Delivery techniques, thoughts, learnings
 * [Redgate Blog](https://www.red-gate.com/blog/database-devops) - Database / DevOps articles
