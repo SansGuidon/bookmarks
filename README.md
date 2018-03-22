@@ -1344,6 +1344,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
  * [Diogo Monica](https://www.youtube.com/watch?v=LmUw2H6JgJo) - [Video] (2016) Best practices for building secure Docker images
  * [Praveen Durairaj](https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4) - (2018) An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps
 * [Shahidh K Muhammed](https://blog.hasura.io/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c) - (2018) The Ultimate Guide to Writing Dockerfiles for Go Web-apps
+* [Daniel Oh](https://opensource.com/article/17/10/10-layers-container-security) - (2017) 10 layers of Linux container security
  
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -4718,6 +4719,7 @@ Raw
 * [WonderHowTo](https://null-byte.wonderhowto.com/how-to/mr-robot-hacks/) - Mr. Robot Hacks how-to's
 * [Boris Serebrov](https://serebrov.github.io/html/2018-01-11-aws-ec2-ssh-tunnel.html) - (2018) SSH Tunnels | on AWS, EC2 and SSH tunnels
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
+* [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
