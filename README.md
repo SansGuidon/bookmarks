@@ -5045,6 +5045,7 @@ Raw
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 * [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps
 * [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
+* [Flavio Copes](https://flaviocopes.com/chrome-devtools-tips/) - (2018 A list of cool Chrome DevTools Tips and Tricks
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
