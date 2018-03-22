@@ -208,7 +208,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Fagner Brack](https://medium.com/@fagnerbrack/why-small-modules-matter-4e4d629321b8) - (2016) Why Small Modules Matter | Big projects are what, if not the composition of small pieces
 * [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming 
 * [Simon Brown](http://www.codingthearchitecture.com/2018/02/09/todays_software_developers_are_the_ivory_tower_architects_of_tomorrow.html) - (2018) Today's software developers are the ivory tower architects of tomorrow
-* [The C4 model](https://c4model.com/) - The C4 model for software architecture : Context, Containers, Components and Code
+* [The C4 model](https://c4model.com/) - The C4 model for software architecture : Context, Containers, Components and Code 
+* [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -596,6 +597,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Delegating, he said, is another tough thing to do. “The key is to hire people who are more intelligent than you, to find people who are super, super smart, ”
 * [Joshua Kerievsky](https://www.linkedin.com/pulse/day-we-stopped-sprinting-joshua-kerievsky/) - (2017) The Day We Stopped Sprinting
 > Our new approach felt more natural and we became more responsive to our customer's needs. We spent less time trying to predict how much work we could get done in a rigid time box, and instead allowed ourselves to work on items that ranged from a few hours to a few days.
+* [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3333,6 +3335,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Simon Brown](http://www.codingthearchitecture.com/2018/02/09/todays_software_developers_are_the_ivory_tower_architects_of_tomorrow.html) - (2018) Today's software developers are the ivory tower architects of tomorrow
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer  
 > A lot of people (especially entrepreneurs) are so obsessed with how fast they will become successful that they will sacrifice their mental health in order to constantly push themselves.
+* [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4406,6 +4409,7 @@ Raw
 * [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences 
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 * [Farnam Street](https://www.fs.blog/2012/07/how-to-win-friends-and-influence-people/) - (2012) The Best Summary of Dale Carnegie's How to Win Friends and Influence People
+* [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
