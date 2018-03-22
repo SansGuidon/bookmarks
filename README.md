@@ -986,6 +986,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [A. Mokhov, N. Mitchell, Simon Peyton Jones](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf) - (2018) [PDF] Build Systems à la Carte | is excel a build system too ? study of various old and model build systems 
 * [Aymen El Amri](https://hackernoon.com/50-best-devops-sre-blog-posts-tutorials-of-2017-451a7d69c4ef) - (2018) 50 Best DevOps & SRE Blog Posts & Tutorials Of 2017
 * [Jeff Knupp](https://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/) - (2014) How 'DevOps' is Killing the Developer
+* [Didier Caroff](https://medium.com/devopslinks/how-we-switch-to-a-continuous-delivery-pipeline-in-3-months-9667b9f65f7a) - (2018) How We Switched to a Continuous Delivery Pipeline in 3 months
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog 
