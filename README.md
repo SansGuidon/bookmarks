@@ -137,12 +137,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Don MacAskill](https://don.blogs.smugmug.com/2011/04/24/how-smugmug-survived-the-amazonpocalypse/) - How SmugMug survived the Amazonpocalypse
 * [Krishnan Subramanian](https://www.cloudave.com/11973/designing-for-failure-some-key-facts/) - Designing For Failure: Some Key Facts
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
-* [Principles of Chaos Engineering](http://principlesofchaos.org/) 
+* [Principles of Chaos Engineering](http://principlesofchaos.org/)
 * [Daniel Miessler](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
 * [Derek Greer](http://aspiringcraftsman.com/2008/01/03/art-of-separation-of-concerns/) - (2008) The Art of Separation of Concerns
 * [Marty Madrid](https://twitter.com/abt_programming/status/516018172072587264/photo/1) - (2014) [IMG] How to build an MVP (Minimum Viable Product)
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
-* [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
+* [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession
 * :star: [**The Twelve-Factor App**](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 * [Fred Hébert](https://ferd.ca/queues-don-t-fix-overload.html) - Queues Don't Fix Overload
 * [Fred Hébert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
@@ -155,15 +155,15 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
-* [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing 
+* [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing
 * [Queues](http://queues.io/) - Job queues, message queues and other queues listed and compared in one place
 * [Wikipedia](https://en.wikipedia.org/wiki/Composition_over_inheritance) - Choose Composition over inheritance
-* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources 
-* [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
+* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources
+* [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
 * [Ben Stopford](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/) - (2016) The Data Dichotomy: Rethinking the Way We Treat Data and Services
 * [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
-* [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP 
+* [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP
 * [Clément Delafargue](https://www.clever-cloud.com/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/) - (2015) Why Auto Increment Is A Terrible Idea | interesting debate in the comments
 * [Adrian Colyer](https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/) - (2017) Analyzing software requirements errors in safety-critical embedded systems
 * [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
@@ -187,11 +187,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 * [Kenneth N. Lodding, Nasa](https://queue.acm.org/detail.cfm?id=1016985) - (2004) Hitchhiker's Guide to Biomorphic Software | The natural world may be the inspiration we need for solving our computer problems.
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
-* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. 
+* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 * [High Scalability](http://highscalability.com/) - Building bigger, faster, more reliable websites
 * [High Scalability](http://highscalability.com/all-time-favorites/) - Here are some of the favorite posts on HighScalability...
-* [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
+* [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/03/14/big-data-technology-and-the-responsibility-shift/) - (2015) NoSQL and the responsibility shift | about data quality
 * [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
 * [Abduzeedo](http://abduzeedo.com/tags/perfect-office) - Design Inspiration for the perfect office
@@ -206,10 +206,17 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - (2012) Splitting user stories -- the hamburger method
 * [Bill Wake](https://www.industriallogic.com/blog/evolution-cupcakes-and-skeletons/) - (2016) Evolution, Cupcakes, and Skeletons: Changing Design
 * [Fagner Brack](https://medium.com/@fagnerbrack/why-small-modules-matter-4e4d629321b8) - (2016) Why Small Modules Matter | Big projects are what, if not the composition of small pieces
-* [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming 
+* [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming
 * [Simon Brown](http://www.codingthearchitecture.com/2018/02/09/todays_software_developers_are_the_ivory_tower_architects_of_tomorrow.html) - (2018) Today's software developers are the ivory tower architects of tomorrow
-* [The C4 model](https://c4model.com/) - The C4 model for software architecture : Context, Containers, Components and Code 
+* [The C4 model](https://c4model.com/) - The C4 model for software architecture : Context, Containers, Components and Code
 * [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
+* [Joshua Kerievsky](https://www.industriallogic.com/blog/sufficient-design/) - (2010) Sufficient Design
+> we need high design quality for stuff that is critical to our products and less design quality for stuff that isn't critical.
+* [Luu Duong](http://www.luuduong.com/archive/2009/03/04/applying-the-quot8020-rulequot-with-the-standish-groups-software-usage.aspx) - (2009) Applying the "80-20 Rule" with The Standish Group’s Statistics on Software Usage | 80% of users only use 20% of features.
+* [Joshua Kerievsky](https://www.industriallogic.com/blog/whats-wrong-with-clean-code/) - (2010) What’s Wrong With Clean Code? | When Cleaning Is Not Enough
+> Clean frequently and remodel occasionally to produce an excellent design.
+* [Kristof Kovacs](https://kkovacs.eu/the-death-star-design-pattern) - The Death Star Design Pattern
+* [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -223,8 +230,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 # Books
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
-* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
-* [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer 
+* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
+* [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer
 * [John Allspaw](http://www.kitchensoap.com/2017/03/06/book-suggestion-dialogue-the-art-of-thinking-together/) - Dialogue: The Art Of Thinking Together
 * [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] :fr: [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
 * [Learn by Reading](https://learnbyreading.herokuapp.com/) - Discover your next favorite learnable (Non-fiction) book from Amazon Book
@@ -247,7 +254,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
 * :star: [**Library Genesis**](http://libgen.io/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.pw/), [Mirrors list](http://sguru.org/libgen-proxy/)
 * [b-ok.org](http://b-ok.org/) - ebooks
-* [Kooba](http://koob.jake.run/) - an interactive graph for finding new books 
+* [Kooba](http://koob.jake.run/) - an interactive graph for finding new books
 * [Book Suggestions Ninja](https://www.booksuggestions.ninja/) - books suggestions based on book / author or genre
 * [Reading Stash](http://readingstash.com/index) - Just a book recommender
 * [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - [TOR] a list of websites that have free ebooks.
@@ -267,18 +274,18 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [braydie/PragProgTips](https://github.com/braydie/PragProgTips/blob/master/index.html) - some tips from pragmatic programmer book
 * Some GitHub resources on clean coding practices, mostly based on book 'Clean Code: A Handbook of Agile Software Craftsmanship' by Robert C. Martin : [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29), [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code), [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code), [harry830622/clean-code-notes](https://github.com/harry830622/clean-code-notes), [thebentern/clean-code-study](https://github.com/thebentern/clean-code-study), [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes), [timkendall/clean-code](https://github.com/timkendall/clean-code)
 * [jbelmont/pragmatic-programmer-and-clean-code](https://github.com/jbelmont/pragmatic-programmer-and-clean-code) - principles from Pragmatic Programmer and Clean Code books
-* [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
+* [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
-* [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell 
+* [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell
 * [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
-* [Alex Ott](http://alexott.net/en/fp/books/#sec12) - books review on Lisp 
+* [Alex Ott](http://alexott.net/en/fp/books/#sec12) - books review on Lisp
 * [Alex Ott](http://alexott.net/en/fp/books/) - Functional programming books overview
-* [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books. 
+* [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
 * [Markus Triska](https://www.metalevel.at/prolog) - [Book] The Power of Prolog. **Bonus** : git repo [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog)
-* [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog 
+* [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog
 * [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
 * [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
-* [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary 
+* [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
 * [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
 * [Launch School](https://launchschool.com/books/) - Open Book Shelf for developers | some beginner friendly readings about programming, git, command line, etc
@@ -303,14 +310,14 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Learn
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
 * [SEO'Brien](https://seobrien.com/startups-work-silicon-valley) - Why Do Startups Work in Silicon Valley?
-* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] :fr: Competitivity 
+* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] :fr: Competitivity
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Sacha Greif](https://medium.com/@sachagreif/the-spiderweb-strategy-12ebd2f35595) - (2014) The Spiderweb Strategy : Why it’s OK if some of your projects don’t make money
 * [Andy Adams](http://andyadams.org/you-can-charge-more/) - (2014) How to talk yourself into charging more
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
 * [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
 * [Greg Kogan](https://www.gkogan.co/blog/progression/) - (2017) Progression | Finding errors in your past decisions and ideas means you’re progressing
-* [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer 
+* [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
 * [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
@@ -324,7 +331,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Google Finance](https://www.google.com/finance) - brings together stories from the many of the best financial news sites + all the market and portfolio data
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 * [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
-* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
+* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 * [Mike Fisher](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/) - (2018) Selecting a Cloud Provider
 * [Jim Bird](http://swreflections.blogspot.be/2015/07/dont-blame-bad-software-on-developers.html) - (2015) Don’t Blame Bad Software on Developers – Blame it on their Managers
@@ -334,7 +341,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Morgan Housel](http://www.collaborativefund.com/blog/great-products-vs-great-businesses/) - (2017) Great Products vs. Great Businesses
 * [Morgan Housel](http://www.collaborativefund.com/blog/never-do-that-again/) - (2017) Never Do That Again | about confusion & learning from failure
 * [Sophie Bakalar](http://www.collaborativefund.com/blog/how-to-beat-amazon/) - (2018) How to Beat Amazon
-* [Morgan Housel](http://www.collaborativefund.com/blog/simple-business-models-that-work/) - (2017) The Best Simple Business Models 
+* [Morgan Housel](http://www.collaborativefund.com/blog/simple-business-models-that-work/) - (2017) The Best Simple Business Models
 > The three best business models: Make boring things exciting. Make complicated things simple. Make intimidating things painless.
 * [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
 * [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
@@ -351,7 +358,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [David Brown](https://www.inc.com/david-brown/what-happens-when-a-founder-leaves-a-company-how-to-stay-grounded-continue-to-grow.html) - (2017) How to Stay Grounded and Maintain Your Vision at Your Company | There are four fundamental elements of running a business, and not only is vision the first, it's also the one that the others are built on. | As startup businesses start to scale, the vision can easily get lost.
 * [Hicham Amine](https://medium.com/startup-grind/how-to-grow-a-startup-the-5-best-tips-ive-ever-learned-2a5c8da160d8) - (2017) How to Grow A Startup: The 5 Best Tips I’ve ever learned.
 * [Eric Jorgenson](https://medium.com/@ericjorgenson/why-growing-past-20-employees-is-so-damn-hard-and-what-you-can-do-about-it-e37cb302db58) - (2017) Why Growing Past 20 Employees is so Damn Hard (and what you can do about it)
-* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential. 
+* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential.
 > Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/how-not-to-hire-like-a-clownshow-evergreen-business-weekly-2-hiring-f4da0e9d3230) - (2015) How Not to Hire Like a Clownshow—Evergreen Business Weekly 2: Hiring
 * [Nick Cassella](https://civicskunk.works/ask-your-coworkers-what-they-make-youll-earn-more-46efb2daf63e) - (2018) Ask Your Coworkers What They Make. You’ll Earn More.
@@ -363,6 +370,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > As your company grows you have to get used to the fact that you cannot be involved in all the aspects of the company. To delegate is hard
 > Delegating, he said, is another tough thing to do. “The key is to hire people who are more intelligent than you, to find people who are super, super smart, ”
 * [David NiuMark Roberge](https://hbr.org/2017/03/how-morale-changes-as-a-startup-grows) - (2017) How Morale Changes as a Startup Grows | how company's culture changes
+* [Kristof Kovacs](https://kkovacs.eu/the-death-star-design-pattern) - The Death Star Design Pattern
+* [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) - is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person.
+* [Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle) - Hype Cycle : a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
+* [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 
 ## Cryptocurrency
 > News
@@ -399,7 +410,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [GamerZ](https://www.gamerz.be/forum/bitcoin-crypto/) - :fr: [FR] GamerZ discussion forum about Bitcoin / Cryptocurrencies
 * [Anne Gaviola](http://www.cbc.ca/beta/news/business/bitcoin-s-gender-divide-could-be-a-bad-sign-experts-say-1.4458884) - (2018) Bitcoin's gender divide could be a bad sign, experts say
 
- 
+
 # Collaboration & Problem solving
 > News
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -436,7 +447,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Select International](http://www.selectinternational.com/safety-blog/bid/189940/There-is-No-Shortcut-to-Safety) - There is No Shortcut to Safety
 * [Rajesh Setty](http://rajeshsetty.com/2010/05/03/why-many-smart-people-take-shortcuts-and-how-you-can-avoid-that-trap/) - Why MANY smart people take shortcuts and how you can avoid that trap
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - 7 Shortcuts You Will Regret Taking in Life
-* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux 
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
 * [Jessica Kerr](https://blog.codeship.com/growing-tech-stack-say-no/) - Growing Your Tech Stack: When to Say No
 * [Chris Parnin](http://blog.ninlabs.com/2013/01/programmer-interrupted/) - Programmer Interrupted
 * [Daniel Miessler](https://danielmiessler.com/blog/how-to-build-a-strong-argument/) - How to Build a Strong Argument
@@ -471,14 +482,14 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
 * [Doug Tedder](https://www.dougtedder.com/2017/07/02/cab-dead-long-live-cab/) - (2017) The CAB is Dead. Long Live the CAB.
 * [Jon Cairns](https://medium.com/techspiration-ideas-making-it-happen/communication-how-to-be-a-better-software-developer-869c50767701) - Communication: how to be a better software developer
-* [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic 
+* [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic
 * [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
 * [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
-* [Carl Hembrough](https://dev.to/carlhembrough/programming-used-to-be-fun) - (2017)  When programming was no longer fun | another story about impostor syndrome 
+* [Carl Hembrough](https://dev.to/carlhembrough/programming-used-to-be-fun) - (2017)  When programming was no longer fun | another story about impostor syndrome
 * [Charles Duhigg](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - (2016) What Google Learned From Its Quest to Build the Perfect Team
 * [MetEdge](https://twitter.com/GlenGilmore/status/539042747190358016) - [IMG] Successful vs Unsuccessful People
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
-* [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
+* [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection!
 * [Jeff Goins](https://medium.com/personal-growth/the-single-most-overlooked-secret-to-influencing-other-people-32433b7ae285) - (2017) The Single Most Overlooked Secret To Influencing Other People
 * [Lauri Apple](https://opensource.com/open-organization/17/10/readme-maturity-model) - (2017) documentation : a maturity model for READMEs
 * [John Cutler](https://medium.com/@johnpcutler/company-culture-is-44592c36958c) - (2016) company culture is…
@@ -581,13 +592,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/evolutionary-design/) - (2015) Evolutionary Design | agile's most valuable practice?
 * [Tim Ottinger](http://agileotter.blogspot.be/2017/11/taking-breaks-in-disciplined-way.html) - (2017) Taking Breaks in a Disciplined Way | Take breaks otherwise pairing will drain your energy
 > we don't take breaks because we are tired, we take breaks so that we are never tired.
-* [Tim Ottinger](https://www.industriallogic.com/blog/stop-per-person-swimlanes/) - (2015) Stop Per-Person Swimlanes in Kanban 
+* [Tim Ottinger](https://www.industriallogic.com/blog/stop-per-person-swimlanes/) - (2015) Stop Per-Person Swimlanes in Kanban
 > People will not work together to complete stories if they each have "their own work" to do.
 * [Tim Ottinger](http://agileotter.blogspot.be/2015/04/individual-work-assignments-neither.html) - (2015) Individual Work Assignments: Neither Agile Nor Team
 * [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
 * [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication:
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/the-power-of-network-effects-why-they-make-such-valuable-companies-and-how-to-harness-them-5d3fbc3659f8) - (2015) The Power of Network Effects: Why they make such Valuable Companies, and how to Harness them
-* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential. 
+* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential.
 > Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/how-not-to-hire-like-a-clownshow-evergreen-business-weekly-2-hiring-f4da0e9d3230) - (2015) How Not to Hire Like a Clownshow—Evergreen Business Weekly 2: Hiring
 * [Kevin J. Delaney](https://qz.com/846530/something-weird-happens-to-companies-when-they-hit-150-people/) - (2016) Something weird happens to companies when they hit 150 people
@@ -598,19 +609,24 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joshua Kerievsky](https://www.linkedin.com/pulse/day-we-stopped-sprinting-joshua-kerievsky/) - (2017) The Day We Stopped Sprinting
 > Our new approach felt more natural and we became more responsive to our customer's needs. We spent less time trying to predict how much work we could get done in a rigid time box, and instead allowed ourselves to work on items that ranged from a few hours to a few days.
 * [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
+* [Naresh Jain](https://www.industriallogic.com/blog/impact-of-continuous-integration-on-team-culture/) - (2011) Impact of Continuous Integration on Team Culture
+* :star: [**Bridget Kromhout**](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
+* [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) - is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person.
+* [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
+* [Wikipedia](https://en.wikipedia.org/wiki/Nonviolent_Communication) - Nonviolent Communication - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - CK Theory : The Concept Knowledge Theory
 * [Jason Fried](https://m.signalvnoise.com/the-intimidating-zero-4d90fcdcc3b2) - The Intimidating Zero
 * [DIY Projects](https://diyprojects.com/) - Craft Ideas & How To’s for Home Decor with Videos
-* [Hackaday](http://hackaday.com/) - fresh hacks every day 
+* [Hackaday](http://hackaday.com/) - fresh hacks every day
 * [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
 * [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
 * [Nathan Kontny](https://m.signalvnoise.com/how-to-be-original-8877c5feeeb1) - How to be original / aka whom creative ideas come from ?
 * [Marion PoetzNikolaus FrankeMartin Schreier](https://hbr.org/2014/11/sometimes-the-best-ideas-come-from-outside-your-industry) - Sometimes the Best Ideas Come from Outside Your Industry
 * [Dan Kim](https://m.signalvnoise.com/its-ok-to-be-pragmatic-with-a-little-help-from-the-crazy-ones-461f7773a176) - It’s OK to be pragmatic (with a little help from the “crazy ones”)
-* [/r/GoogleCardboard](https://www.reddit.com/r/GoogleCardboard/) - Google Cardboard VR subreddit 
+* [/r/GoogleCardboard](https://www.reddit.com/r/GoogleCardboard/) - Google Cardboard VR subreddit
 * [Modd.io](http://www.modd.io/) - a one minute game maker proof of concept, with ability to join others games online or fork their projects to create your own
 * :star: [**Daniel Miessler**](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
 * [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] :fr: [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
@@ -620,7 +636,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vala Afshar](https://twitter.com/ValaAfshar/status/538001419702657024/photo/1) - (2014) [IMG] knowledge vs experience vs creativity
 * [Roy Osing](https://talentculture.com/11-ways-to-lose-yourself-in-the-crowd/) - Anti principles (Don't do this !) / 11 Ways To Lose Yourself In The Crowd
 * [Julia Evans](https://jvns.ca/blog/2017/03/20/blogging-principles/) - (2017) Blogging principles
-* [Steve Yegge](https://sites.google.com/site/steveyegge2/you-should-write-blogs) - You Should Write Blogs 
+* [Steve Yegge](https://sites.google.com/site/steveyegge2/you-should-write-blogs) - You Should Write Blogs
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
@@ -631,7 +647,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Katie McKenna](https://www.portent.com/blog/copywriting/better-content-5-lessons-learned-from-yoga-teacher-training.htm) - (2017) Be a Better Writer: 5 Lessons Learned From Yoga Teacher Training
 * [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
 * [Cate McGehee](https://www.portent.com/blog/content-strategy/best-thing-ever-heard-ideation-brainstorming.htm) - (2017) The Single Best Thing I’ve Ever Heard About Ideation and Brainstorming
-* [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
+* [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection!
 * [Benjamin P. Hardy](https://medium.com/personal-growth/this-10-minute-routine-will-increase-your-clarity-and-creativity-c8ee786586cd) - (2017) This 10-Minute Routine Will Increase Your Clarity And Creativity
 * [**Kim Roach**](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
 * [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
@@ -660,6 +676,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
 * [Blake Gossard](https://medium.com/@BlakeGossard/the-importance-of-getting-distracted-cd2511ad5b74) - (2018) The Importance of Getting Distracted | The pervasive message of “stay focused for success” is wrong
 > curiosity and broad inquiry are necessarily incompatible with focus on specific goals.
+* [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -688,10 +705,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
 * :star: [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
 * [Khan Academy](https://www.khanacademy.org/) - free online courses, lessons and practice
-* :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
+* :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc.
 * [RadioKawa](http://www.radiokawa.com/) - [FR] :fr: lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
 * [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] :fr: a couple of tasty podcasts for geeks
-* [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
+* [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot)
 * [RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) - Fantasy literature worth reading
 * [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 * [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] :fr: [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
@@ -745,7 +762,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels' (Amazon' CTO) weblog on building scalable and robust distributed systems.
 * [GoCD Blog](https://www.gocd.org/blog/) - Continuous Delivery techniques, thoughts, learnings
 * [Redgate Blog](https://www.red-gate.com/blog/database-devops) - Database / DevOps articles
-* [Pivotal](https://content.pivotal.io/) - featured news & stories about DevOps, Cloud, Containers, Software etc. 
+* [Pivotal](https://content.pivotal.io/) - featured news & stories about DevOps, Cloud, Containers, Software etc.
 * [Build to Adapt at Pivotal](https://builttoadapt.io/) - Stories and insights on how software is changing the way society and businesses are built, from Pivotal.
 * [Praqma Stories](https://www.praqma.com/stories/) - Newest stories of The Continuous Delivery Company
 * [The Continuous Delivery Aliance](http://alliance.praqma.com/initiatives/) - a community of Continuous Delivery and DevOps companies who work together to learn and facilitate best practices shared among the members.
@@ -756,15 +773,15 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Hammant's Blog](https://paulhammant.com/archive/) - articles about CD, DevOps, etc. **Specific sections** : [Continuous_Delivery](https://paulhammant.com/categories.html#Continuous_Delivery) and [DevOps](https://paulhammant.com/categories.html#DevOps)
 * [Stackify](https://stackify.com/content/DevOps/) - all posts tagged as DevOps
 * [Jessie Frazelle's Blog](https://blog.jessfraz.com/) - articles about DevOps, Containers, Linux, etc
-* [Ansible](https://www.ansible.com/blog) - Ansible Blog 
-* [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news 
+* [Ansible](https://www.ansible.com/blog) - Ansible Blog
+* [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news
 * [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
 * [CloudPassage Blog](https://blog.cloudpassage.com/) - insights for a unsecure world / news & tips on protecting critical assets
 * [Electric Cloud Blog](https://electric-cloud.com/blog/) - DevOps, Continuous Delivery, and all that jazz...
 * [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
 * [fabric8 Blog](https://blog.fabric8.io/) - Blog of fabric8, the open source microservices platform for developers, based on Docker, Kubernetes and Jenkins
 * [DevOps'ish](https://devopsish.com/) - DevOps, Cloud Native, Open Source, and the ‘ish in between.
-* [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins. 
+* [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins.
 * [SysAdvent Calendar](https://www.redpill-linpro.com/sysadvent/) - Pre Christmas Tips and Tricks for Sysadmins
 * [AWS News Blog](https://aws.amazon.com/fr/blogs/aws/)
 
@@ -797,7 +814,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Gregg Caines**](http://caines.ca/blog/2013/03/16/release-ophobia/) - Release-ophobia
 * [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - (2012) Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
 * [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
-* [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
+* [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
 * :star: [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
@@ -806,7 +823,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joran Le Cren](http://squad-twelve.com/2017/07/03/7-specific-suggestions-to-sabotage-devops-simply/) - 7 Specific Suggestions to Sabotage DevOps Simply
 * [Mattias Geniar](https://ma.ttias.be/why-do-we-automate/) - Why do we automate?
 * [Aaron Boodman](https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b) - how the team responsible for Google Chrome ships software
-* [Vishal Naik](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines) - Enabling Trunk Based Development with Deployment Pipelines / learn from deployment pipeline anti patterns 
+* [Vishal Naik](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines) - Enabling Trunk Based Development with Deployment Pipelines / learn from deployment pipeline anti patterns
 * [Phu Ha](http://blog.asg-service.net/post/continuous-integration-part-1-setting-up-vms-docker-and-jenkins/) - Continuous Integration: Part 1 - Setting Up VMs, Docker, and Jenkins
 * [Phu Ha](http://blog.asg-service.net/post/continuous-integration-part-2-setup-a-jenkins-slave-docker-registry-jenkinsfile/) - Continuous Integration: Part 2 - Setup a Jenkins Slave, Docker Registry, and Jenkinsfile (Pipeline)
 * [Suzie Prince](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre/) - It's not CI, it's just CI Theatre
@@ -817,7 +834,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Electric Cloud](http://electric-cloud.com/plugins/build-automation/) - Build Automation: Top 3 Problems and How to Solve Them
 * [Damon Edwards](http://rundeck.org/news/2014/01/08/Jenkins-is-for-development-Rundeck-is-for-operations.html) - (2014) Jenkins is for Development. Rundeck is for Operations.
 * [DevOps Topologies](http://web.devopstopologies.com/). There is no ‘right’ team topology, but several ‘bad’ topologies for any one organisation. Original article -> [Matthew Skelton](https://blog.matthewskelton.net/2013/10/22/what-team-structure-is-right-for-devops-to-flourish/) - What Team Structure is Right for DevOps to Flourish?
-* [RedHat](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack... 
+* [RedHat](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack...
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
 * [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
@@ -825,7 +842,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 * [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Linux System Administrator/DevOps Interview Questions
 * [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
-* [ciandcd/awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - list of resources about Continuous Integration and Continuous Delivery 
+* [ciandcd/awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - list of resources about Continuous Integration and Continuous Delivery
 * [Pascal Welsch](https://medium.com/@passsy/use-different-build-numbers-for-every-build-automatically-using-a-gradle-script-35577cd31b19) - Use different build numbers for every build — automatically using a gradle script
 * [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
 * [E.G. Nadhan](https://enterprisersproject.com/article/2017/5/9-key-phrases-devops) - 9 key phrases of DevOps
@@ -833,7 +850,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jan Krag](https://www.praqma.com/stories/survival-of-the-fittest/) - (2017) Survival of the Fittest; Evolution in the CI ecosystem
 * [Derek Greer](http://aspiringcraftsman.com/2016/02/28/separation-of-concerns-application-builds-continuous-integration/) - Separation of Concerns: Application Builds & Continuous Integration
 * [The Pragmatic Programmers](https://media.pragprog.com/titles/auto/PragmaticAutomationSummary.pdf) - [PDF] Pragmatic Project Automation Summary Road Map / good one-page summary of [Pragmatic Project Automation](http://www.pragprog.com/titles/auto) book
-* [Slant](https://www.slant.co/topics/799/~best-continuous-integration-tools) - Best CI (Continuous Integration) tools 
+* [Slant](https://www.slant.co/topics/799/~best-continuous-integration-tools) - Best CI (Continuous Integration) tools
 * [Stackify](https://stackify.com/top-continuous-integration-tools/) - (2017) Top Continuous Integration Tools: 51 Tools to Streamline Your Development Process, Boost Quality, and Enhance Accuracy
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
 * [TotalCloud](https://totalcloud.io/devops_checklists.html) - A collection of DevOps checklists
@@ -844,7 +861,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John Allspaw](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr/49-httpwwwickrcomphotoschrisdag2286198568_Respect_other_peoples_expertise) - (2009) [Slides] 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr
 * [Patrick Debois](https://fr.slideshare.net/jedi4ever/devops-the-war-is-over-if-you-want-it/108-Systems_ThinkingOptimize_the_whole_notjust) - (2010) [Slides] Devops: The War is over - If you want it
 * [Ian Miell](https://zwischenzugs.com/2017/10/23/a-checklist-for-docker-in-the-enterprise-updated/) - A Checklist for Docker in the Enterprise (Updated)
-* [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts 
+* [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - (2017) In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [All Day DevOps](https://www.alldaydevops.com/addo17-links-to-presentations) - [Videos] All Day DevOps 2017 videos
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - dockrun oneshot — quick local environments for testing infrastructure
@@ -852,7 +869,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Keith Cirkel](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - (2014) Why we should stop using Grunt & Gulp
-* [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way 
+* [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
 * [Doug Tedder](https://www.dougtedder.com/2017/07/02/cab-dead-long-live-cab/) - (2017) The CAB is Dead. Long Live the CAB.
 * [Aymen El Amri](https://medium.com/devopslinks/the-most-popular-devops-stories-in-2016-954d10698d67) - The Most Popular DevOps Stories In 2016
@@ -860,7 +877,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Disciplined Agile (DA) Framework](http://www.disciplinedagiledelivery.com/disciplineddevops/) - Disciplined DevOps
 * [Werner Vogels](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) - (2016) 10 Lessons from 10 Years of Amazon Web Services
 * [Container Journal](https://containerjournal.com/2017/10/17/using-cicd-containerization-drive-pre-production-costs/) - (2017) Using CI/CD Over Containerization to Drive Down Pre-Production Costs
-* [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
+* [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc.
 * [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
 * [Steve Smith](https://www.continuousdeliveryconsulting.com/blog/aim-for-operability-not-devops-as-a-cult/) - (2017) Aim for Operability, not DevOps As A Cult
 * [Russ Collier](https://www.devopsonwindows.com/a-devops-checklist/) - (2013) A DevOps Checklist
@@ -872,7 +889,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ask Hacker News](https://news.ycombinator.com/item?id=15737215) - (2017) How do you deal with operational work as a software engineer?
 * [Manisha Sahasrabudhe](https://sdtimes.com/stuck-new-devops-matrix-hell/) - (2017) Are you stuck in the new DevOps matrix from hell? | about complexity of env-app configuration management
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-* [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - confd is a lightweight configuration management tool to keep local config files up-to-date using either etcd, consul, dynamodb, redis, vault, zookeeper, aws ssm parameter store or env vars 
+* [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - confd is a lightweight configuration management tool to keep local config files up-to-date using either etcd, consul, dynamodb, redis, vault, zookeeper, aws ssm parameter store or env vars
 * [Eric Myhre](https://gist.github.com/warpfork/0ad12d99d2b4de32412f7f294c23fde5) - You probably don't really want CI-triggered CD
 * [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
 * [Dag Sonstebo](https://www.slideshare.net/DagSonstebo/techug-glasgow-talk-22feb17-configuration-management-best-practices) - (2017) Configuration Management Best Practices
@@ -881,16 +898,16 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [JP La Torre](http://caylent.com/50-useful-docker-tools/) - 50+ Useful Docker Tools
 * [Asaf Yigal](https://devops.com/sre-vs-devops-false-distinction/) - (2017) SRE vs. DevOps — a False Distinction?
 * [Nicolas De Nayer](https://medium.com/doctolib-engineering/the-duty-guy-the-key-to-empowering-engineers-a43d1fc4706b) - (2017) The Duty Guy: the key to empowering engineers
-* [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.” 
+* [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.”
 * [Google](https://landing.google.com/sre/book.html) - [Book] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
 * [Pivotal](https://pivotal.io/cloud-native) - What are Cloud-Native Applications?
 * [Bryan Friedman](https://content.pivotal.io/pivotal-blog/comparing-bosh-ansible-chef-part-1) - (2017) Infrastructure as Code is Not Enough: Comparing BOSH, Ansible, and Chef - Part 1. **See also** : [Part 2](https://content.pivotal.io/blog/comparing-bosh-ansible-chef-part-2)
 * [GROWS Method](http://growsmethod.com/) - What is GROWS?
-* [Grant Fritchey](https://www.red-gate.com/blog/database-devops/youre-not-delivering-devops-database/amp?__twitter_impression=true) - (2017) You’re not delivering DevOps to the database 
+* [Grant Fritchey](https://www.red-gate.com/blog/database-devops/youre-not-delivering-devops-database/amp?__twitter_impression=true) - (2017) You’re not delivering DevOps to the database
 > Please, developers, don’t get smug. I’m starting with you because you’re a core part of the problem here. Go back and re-read the definitions of DevOps … I’ll wait … You have to notice one salient point. Nowhere does it say, “Developers rule the world”, or “Developers have ‘SA’ privileges”, or “We get to ignore the Operations side of IT and do anything we want”. No, instead, it talks about cooperation.
-* [DevOpsGuys](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-1) - (2017) Where’s the Ops in DevOps? Part 1. **See also** : [Part 2](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-2) and [Part 3](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-3) 
+* [DevOpsGuys](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-1) - (2017) Where’s the Ops in DevOps? Part 1. **See also** : [Part 2](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-2) and [Part 3](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-3)
 > DevOps does not equal ‘Developers managing Production’
-* [Jason Bloomberg](http://websphere.sys-con.com/node/4122435) - (2017) Is #DevOps Falling into the Maturity Trap? 
+* [Jason Bloomberg](http://websphere.sys-con.com/node/4122435) - (2017) Is #DevOps Falling into the Maturity Trap?
 * [Catherine Louis](https://opensource.com/article/17/11/inclusive-workforce-takes-work) - (2017) 20 questions DevOps hiring managers should be prepared to answer
 * [Carlos Nunez](https://opensource.com/article/18/1/getting-devops) - (2018) How to get into DevOps
 * [Thomas Steinborn](https://opensource.com/article/18/1/future-devops) - (2018) The future of DevOps is mastery of multi-cloud environments
@@ -916,7 +933,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Red Hat](https://webinar.redhat-specials.com) - [Videos] Webinar Archives
 * [Red Hat](https://www.redhat.com/fr/events) - Red Hat Events & Webinars
 * [Red Hat](https://www.youtube.com/channel/UC9CjkhQp1jX8Hbtbg6OZ9dw) - [Videos] Red Hat Summit Youtube Channel
-* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
+* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 * [OpenStack Summit](https://www.openstack.org/videos/) - All Videos archives
 * [Jamie Maguire](https://www.devteam.space/blog/software-release-management-best-practices/) - (2018) Software Release Management Best Practices
@@ -936,12 +953,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
 * [Zach Holman](https://zachholman.com/posts/deploying-software) - (2018) How to Deploy Software | Make your team’s deploys as boring as hell and stop stressing about it.
 * [Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/#slides) - [Slides] move fast & break nothing | a talk about code, teams & process
-* [Jim Bird](http://swreflections.blogspot.be/2016/04/devopsdays-empathy-scaling-docker.html) - (2016) DevOpsDays: Empathy, Scaling, Docker, Dependencies and Secrets | interesting takeaways 
+* [Jim Bird](http://swreflections.blogspot.be/2016/04/devopsdays-empathy-scaling-docker.html) - (2016) DevOpsDays: Empathy, Scaling, Docker, Dependencies and Secrets | interesting takeaways
 * [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - [Slides] (2011) How GitHub Uses GitHub to Build GitHub
 * [Mirco Hering](https://notafactoryanymore.com/2018/02/01/why-you-are-probably-not-as-advanced-in-your-agile-devops-journey-as-you-think-you-are/) - (2018) Why you are probably not as advanced in your Agile/DevOps journey as you think you are
 * :star: [**Mike Loukides**](https://www.oreilly.com/ideas/the-evolution-of-devops) - (2017) The evolution of DevOps
 * [Kate Matsudaira](https://queue.acm.org/detail.cfm?id=2974011) - (2016) Bad Software Architecture is a People Problem | When people don't work well together they make bad decisions.
-* [Bridget Kromhout](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
+* :star: [**Bridget Kromhout**](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
 * [Kode Vicious](https://queue.acm.org/detail.cfm?id=1740550) - (2010) Broken Builds | Frequent broken builds could be symptomatic of deeper problems within a development project.
 * [Mandi Walls](https://www.slideshare.net/lnxchk/configuration-management-is-old-and-boring) - (2017) Configuration Management is Old and Boring
 * [Pavan Belagatti](http://blog.shippable.com/devops-resources-top-5-devops-books-every-devops-enthusiast-must-read) - (2017) DevOps Resources: 5 Books Every DevOps Enthusiast Must Read! | + [the SRE book](https://landing.google.com/sre/book.html)
@@ -958,13 +975,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dan Barker](https://opensource.com/article/18/2/essential-roles-devops-culture-success) - (2018) Your DevOps attempt will fail without these 7 departments buying in | Achieving customer value requires more than just software development and IT operations.
 * [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
 * [Anna Kennedy](http://annaken.github.io/testing-packer-builds-with-serverspec) - (2017) Testing Packer builds with Serverspec
-* [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
-* :star: [**Rob Kinyon**](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*? 
+* [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs
+* :star: [**Rob Kinyon**](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*?
 * [Jennifer Riggins](https://thenewstack.io/call-rotations-best-wake-devs-middle-night) - (2018) On Call Rotations: How Best to Wake Devs Up in the Middle of the Night
 * [Robert Treat](https://sysadvent.blogspot.be/2017/12/day-6-sysadmins-evolution-of-role.html) - (2017) sysadmins - the evolution of a role amidst revolutionary hype.
 * [Etienne Tremel](https://container-solutions.com/deployment-strategies/) - (2017) Deployment Strategies
 * [bridgetkromhout/devops-against-humanity](https://github.com/bridgetkromhout/devops-against-humanity) - DevOps Against Humanity (an expansion for Cards Against Humanity)
-* [Continuous Delivery](https://continuousdelivery.com/) - What is / Why Continuous Delivery ? 
+* [Continuous Delivery](https://continuousdelivery.com/) - What is / Why Continuous Delivery ?
 * [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
 * [Jamie Maguire](https://www.devteam.space/blog/aws-top-10-security-tips/) - (2018) AWS Top 10 Security Tips
 * [Josh Johnson](https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/) - (2015) DevOps Is Bullshit: Why One Programmer Doesn’t Do It Anymore
@@ -985,13 +1002,14 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Google](https://www.google.be/search?q=why+devops+is+bad) - Why devops is bad | interesting search results
 * [Helen Beal](https://www.infoq.com/news/2017/10/devops-teams-good-or-bad) - (2017) The Industry Just Can't Decide about DevOps Teams
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/benefits-continuous-deployment/) - (2014) Benefits of Continuous Deployment : Lower Stress, Greater Flow, Less WIP, Easier Recovery
-* [A. Mokhov, N. Mitchell, Simon Peyton Jones](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf) - (2018) [PDF] Build Systems à la Carte | is excel a build system too ? study of various old and model build systems 
+* [A. Mokhov, N. Mitchell, Simon Peyton Jones](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf) - (2018) [PDF] Build Systems à la Carte | is excel a build system too ? study of various old and model build systems
 * [Aymen El Amri](https://hackernoon.com/50-best-devops-sre-blog-posts-tutorials-of-2017-451a7d69c4ef) - (2018) 50 Best DevOps & SRE Blog Posts & Tutorials Of 2017
 * [Jeff Knupp](https://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/) - (2014) How 'DevOps' is Killing the Developer
 * [Didier Caroff](https://medium.com/devopslinks/how-we-switch-to-a-continuous-delivery-pipeline-in-3-months-9667b9f65f7a) - (2018) How We Switched to a Continuous Delivery Pipeline in 3 months
+* [Naresh Jain](https://www.industriallogic.com/blog/impact-of-continuous-integration-on-team-culture/) - (2011) Impact of Continuous Integration on Team Culture
 
 ## Ansible
-* [Ansible](https://www.ansible.com/blog) - Ansible Blog 
+* [Ansible](https://www.ansible.com/blog) - Ansible Blog
 * [Hacker News](https://hn.algolia.com/?query=Ansible&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year ansible news
 * [Ansible Docs](http://docs.ansible.com/ansible/latest/playbooks_best_practices.html) - Best Practices
 * [enginyoyen/ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practices of how to use ansible
@@ -1001,12 +1019,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ansible Galaxy](https://galaxy.ansible.com/list#/roles?page=1&page_size=10) - Ansible Galaxy Roles
 * [Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
 * [Ansible](https://www.ansible.com/blog/ansible-performance-tuning) - Ansible Performance Tuning (for Fun and Profit)
-* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_filters.html) - Jinja2 Filters 
+* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_filters.html) - Jinja2 Filters
 * [Jinja2 Docs](http://jinja.pocoo.org/docs/dev/templates/#builtin-filters) - Templates and Builtin filters
 * [Remy Van Elst](https://raymii.org/s/tutorials/Ansible_-_Only_if_a_file_exists_or_does_not_exist.html) - Ansible - Only if a file exists or does not exist
 * [Ansible Docs](http://docs.ansible.com/ansible/intro_configuration.html) - Available settings in Ansible configuration file
 * [Jens Depuydt](http://jensd.be/587/linux/tips-tricks-for-ansible) - Tips & tricks for Ansible
-* [Maxim Chernyak](http://hakunin.com/six-ansible-practices) - 6 practices for super smooth Ansible experience 
+* [Maxim Chernyak](http://hakunin.com/six-ansible-practices) - 6 practices for super smooth Ansible experience
 * [nickjj/RoleSpec](https://github.com/nickjj/rolespec) - A test library for testing Ansible roles
 * [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-manage-multistage-environments-with-ansible) - How to Manage Multistage Environments with Ansible
 * [Stack Overflow](https://stackoverflow.com/questions/32526774/multistage-deployment-with-ansible) - Multistage deployment with ansible
@@ -1019,10 +1037,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_lookups.html) - Lookups
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_variables.html) - Variables
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - Useful command line options for ansible-playbook
-* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_checkmode.html) - Check Mode ("Dry Run") - because you just want to test sometimes 
+* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_checkmode.html) - Check Mode ("Dry Run") - because you just want to test sometimes
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_roles.html#task-include-files-and-encouraging-reuse) - Playbook Roles and Include Statements
 * [Ansible Docs](http://docs.ansible.com/ansible/user_module.html) - user - Manage user accounts
-* [Ansible Docs](http://docs.ansible.com/ansible/authorized_key_module.html) - Authorized_key - Adds or removes an SSH authorized key 
+* [Ansible Docs](http://docs.ansible.com/ansible/authorized_key_module.html) - Authorized_key - Adds or removes an SSH authorized key
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible-modules/) - For a Few Ansible Modules More
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
 * [Ansible Docs](http://docs.ansible.com/ansible/dev_guide/developing_modules.html#example) - Developing Modules
@@ -1036,14 +1054,14 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michel Blanc](https://leucos.github.io/articles/ansible-contract-inventory/) - Making dynamic inventory usable with Ansible and Digital Ocean
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/01/20/ansible-vs-puppet-hands-on-with-ansible/) - Ansible vs Puppet – Hands-On with Ansible
 * [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - [FR] :fr: DevOps avec Ansible et Docker
-* [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code 
+* [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code
 * [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
 * [Corban Raun](https://blog.serverdensity.com/what-ive-learnt-from-using-ansible-exclusively-for-2-years/) - Lessons from using Ansible exclusively for 2 years.
 * [Ansible on Slack](http://www.ansiblenetwork.org/) - The Ansible Network
 * [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
 * [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - Using Ansible with Docker Machine to Bootstrap Host Nodes
-* [Maxim Chernyak](http://hakunin.com/six-ansible-practices#avoid-perpetually-changed-and-skipping-tasks) - Avoid perpetually “changed” and “skipping” tasks 
+* [Maxim Chernyak](http://hakunin.com/six-ansible-practices#avoid-perpetually-changed-and-skipping-tasks) - Avoid perpetually “changed” and “skipping” tasks
 * :star: [**Andreas Sommer**](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Ansible best practices
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Animosity](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot%27s-introduction-to-yaml) - Complete idiot's introduction to yaml
@@ -1057,7 +1075,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/running-ansible-within-windows) - (2014) Running Ansible within Windows
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
 * [openstack/ARA](https://github.com/openstack/ara) - ARA: Ansible Run Analysis records Ansible Playbook runs and provides intuitive interfaces to browse them
-* [metacloud/molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles. 
+* [metacloud/molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
 * [ansible/awx](https://github.com/ansible/awx) - AWX provides an UI, API and task engine on top of Ansible. It is the open source upstream project for commercial Ansible Tower
 * [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
 * [jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
@@ -1139,7 +1157,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sameroom.io](https://cdn.sameroom.io/chat-timeline.pdf) - a brief history of chat services from 1973 to the present day
 * [Pidgin](https://bitbucket.org/pidgin/main/pull-requests/91/implmeth-webex-token-sasl-auth-for-jabber/diff) - Implmeth WEBEX-TOKEN SASL auth for jabber.
 * [matterbridge](https://github.com/42wim/matterbridge/commit/ee643de5b6031b6bdbf2e957f2fea8f1222ace64) - Add compatibility for Cisco Jabber (xmpp)
-* [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know 
+* [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know
 * [bhuga/hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc) - hubot-chatops-rpc : Easily add RPC endpoints to your hubot.
 * [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
 * [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
@@ -1207,7 +1225,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Docker Docs](https://docs.docker.com/engine/reference/commandline/run/) - docker run
 * [Docker Docs](https://docs.docker.com/engine/reference/commandline/exec/) - docker exec
 * [Docker Docs](https://docs.docker.com/engine/reference/commandline/commit/#examples) - docker commit examples
-* [Flux7 Labs](http://blog.flux7.com/blogs/docker/docker-tutorial-series-part-9-10-docker-remote-api-commands-for-images) - 10 Docker Remote API Commands for Images 
+* [Flux7 Labs](http://blog.flux7.com/blogs/docker/docker-tutorial-series-part-9-10-docker-remote-api-commands-for-images) - 10 Docker Remote API Commands for Images
 * [Docker Forums](https://forums.docker.com/t/command-to-remove-all-unused-images/20/5) - Command to remove all unused images
 * [Stack Overflow](https://stackoverflow.com/questions/30604846/docker-error-no-space-left-on-device) - Docker error : no space left on device
 * [James Coyle](https://www.jamescoyle.net/how-to/1512-export-and-import-a-docker-image-between-nodes) - Export and Import a Docker Image Between Nodes
@@ -1224,7 +1242,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-10-12-Docker-Taming-the-Beast-Part-3.html) - Docker: Taming the Beast - Part III: Building Images
 * [Ansible Container](https://github.com/ansible/ansible-container) - a tool to build Docker images and orchestrate containers using only Ansible playbooks
 * [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - Using ansible to build and orchestrate clean docker images
-* [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image 
+* [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2017/05/13/docker-for-windows-different-modes/) - Compare Docker for Windows options
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/) - How Should I Get Application Configuration into my Docker Containers?
 * [Neil Batlivala](https://www.delphix.com/blog/data-virtualization/why-docker-not-enough) - Why Docker Is Not Enough. **Related** :  [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira) - Docker build for Atlassian Jira
@@ -1249,7 +1267,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - Debugging - into rabbit hole with docker containers
 * [Sreenivas Makam](https://www.slideshare.net/SreenivasMakam/docker-networking-common-issues-and-troubleshooting-techniques) - Docker Networking - Common Issues and Troubleshooting Techniques
 * [Nathan Leclaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - Using Ansible with Docker Machine to Bootstrap Host Nodes
-* [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) 
+* [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
 * [FROM:latest](https://www.fromlatest.io/#/) - an opinionated Dockerfile linter online
 * [Red Hat Customer Portal](https://access.redhat.com/articles/2772861) - Differences between RHEL Server and RHEL Atomic Host
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/getting_started_with_containers/using_red_hat_base_container_images_standard_and_minimal) - Using Red Hat Base Container Images (standard and minimal)
@@ -1287,7 +1305,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - dockrun oneshot — quick local environments for testing infrastructure
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - How I test Ansible configuration on 7 different OSes with Docker
 * [Scott McCarty](http://rhelblog.redhat.com/2016/03/16/container-tidbits-when-should-i-break-my-application-into-multiple-containers/) - (2016) Container Tidbits: When Should I Break My Application into Multiple Containers?
-* [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes. 
+* [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes.
 * [William Henry](http://www.projectatomic.io/blog/2017/11/getting-started-with-buildah/) - Getting Started with Buildah | how to build container images compliant with the Open Container Initiative (OCI) image specification
 * [Eric Chiang](https://ericchiang.github.io/post/containers-from-scratch/) - (2017) Containers from Scratch **Bonus** : [Talk](https://www.youtube.com/watch?v=wyqoi52k5jM)
 * [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
@@ -1313,7 +1331,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
 * [Laurens Van Houtven](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html) - (2015) Don't expose the Docker socket (not even to a container)
 * [JP La Torre](http://caylent.com/50-useful-docker-tools/) - 50+ Useful Docker Tools
-* [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.” 
+* [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.”
 * [Jérôme Petazzoni](https://jpetazzo.github.io/2016/09/09/go-docker/) - (2016) Go + Docker = ♥ | tips and tricks showing how Docker can be useful when working with Go code
 * [The HFT Guy](https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/) - (2016) Docker in Production: A History of Failure
 * [Jennifer Riggins](https://thenewstack.io/six-lessons-bitnamis-transition-container-based-world/) - (2018) 6 Lessons from Bitnami’s Transition to Container-Based Ops
@@ -1340,7 +1358,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Marc Campbell](https://blog.replicated.com/refactoring-a-dockerfile-for-image-size/) - (2016) Refactoring a Dockerfile for Image Size
 * [Gerred Dillon](https://blog.replicated.com/optimizing-docker-images-with-multi-stage-builds/) - (2017) Even Smaller Docker Image Sizes
 * [Stephane Manciot](https://fr.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker?) - :fr: [FR] [Slides] (2015) DevOps avec Ansible et Docker
-* [Bridget Kromhout](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
+* :star: [**Bridget Kromhout**](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
 * [James Turnbull](https://increment.com/development/an-introduction-to-local-development-with-containers/) - (2017) An introduction to local development with containers
 * [Jérôme Petazzoni](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go/33-Error_handling_can_be_verboseif) - [Slides] (2013) Docker and Go: why did we decide to write Docker in Go?
 * [Venkatesan Murugan](https://dzone.com/articles/top-10-benefits-you-will-get-by-using-docker) - (2018) Top 10 Benefits You Will Get by Using Docker
@@ -1348,7 +1366,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
  * [Praveen Durairaj](https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4) - (2018) An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps
 * [Shahidh K Muhammed](https://blog.hasura.io/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c) - (2018) The Ultimate Guide to Writing Dockerfiles for Go Web-apps
 * [Daniel Oh](https://opensource.com/article/17/10/10-layers-container-security) - (2017) 10 layers of Linux container security
- 
+
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
@@ -1356,7 +1374,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
-* [Cloudbees](https://www.cloudbees.com/blog/categories/Jenkins) - Jenkins articles on CloudBees site 
+* [Cloudbees](https://www.cloudbees.com/blog/categories/Jenkins) - Jenkins articles on CloudBees site
 * [Jenkins Community Blog](https://jenkins.io/node/) - Jenkins articles
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
 * :star: [**CloudBees**](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
@@ -1368,7 +1386,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joel Wilsson](https://wjoel.com/posts/ansible-jenkins-pipeline-part-1.html) - Creating Jenkins pipelines with Ansible, Part 1. See also [Part 2](https://wjoel.com/posts/ansible-jenkins-pipeline-part-2.html)
 * [Robert Sandell / James Nord](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-no_you_shouldnt_do_that_lessons_from_using_pipeline.pdf) - No, You Shouldn't Do That! Lessons from Using Pipeline
 * [Wilson Mar](https://wilsonmar.github.io/jenkins2-pipeline) - Jenkins2 Pipeline jobs using Groovy code in Jenkinsfile
-* [tuxfight3r](https://gist.github.com/tuxfight3r/eca9442ff76649b057ab) - Decrypting Jenkins password 
+* [tuxfight3r](https://gist.github.com/tuxfight3r/eca9442ff76649b057ab) - Decrypting Jenkins password
 * [Jenkins Docs](https://jenkins.io/doc/pipeline/steps/) - Pipeline Steps reference
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/jenkinsfile/) - Using a Jenkinsfile
 * [Jenkins Docs](https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/) - Pipeline Basic Steps
@@ -1376,18 +1394,18 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/syntax/) - Pipeline syntax
 * [Jenkins Docs](https://jenkins.ci.cloudbees.com/job/core/job/acceptance-test-harness-stable/changes) - Latest builds of Jenkins acceptance-test-harness-stable. See also [The new Jenkins CI page](https://ci.jenkins.io/)
 * [Vyacheslav Voronenko](https://www.codementor.io/slavko/setup-configure-jenkins-recommended-plugins-du107z6nr) - Setup & Configure Jenkins for Your Team
-* [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code 
+* [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code
 * [afonsof/jenkins-material-theme](https://github.com/afonsof/jenkins-material-theme) - Material Design UI for Jenkins
 * [Damien Coraboeuf](https://jenkins.io/blog/2016/06/15/jenkins-pipeline-scalability/) - Jenkins Pipeline Scalability in the Enterprise
 * [Jenkins CI](https://github.com/jenkinsci/pipeline-model-definition-plugin/tree/master/pipeline-model-definition/src/test/resources) - Examples of Pipeline scripts (Tests source code), useful for exploring the possible for Jenkinsfile
 * [funkwerk/jenkins-workflow](https://github.com/funkwerk/jenkins-workflow/tree/master/vars) - repository with examples of jenkins workflow scripts
-* :star: [**Andrew Bayer**](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - (2014) Seven Habits of Highly Effective Jenkins Users (2014 edition!) | Old but principles still apply 
+* :star: [**Andrew Bayer**](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - (2014) Seven Habits of Highly Effective Jenkins Users (2014 edition!) | Old but principles still apply
 * [CloudBees](https://www.cloudbees.com/sites/default/files/declarative-pipeline-refcard.pdf) - [PDF] Declarative Pipeline Quick Reference
 * [Jenkins Doc](https://github.com/jenkinsci/pipeline-model-definition-plugin/wiki/Syntax-Reference) - full syntax for Jenkins Declarative Pipeline
 * [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin/blob/master/job-dsl-core/src/main/groovy/javaposse/jobdsl/dsl/helpers/step/MSBuildContext.groovy) - source code of msbuild step
 * [Stack Overflow](https://stackoverflow.com/questions/37657810/job-dsl-plugin-vs-pipeline-plugin) - Job DSL vs Pipeline Plugin
 * [Liam Newman](https://www.cloudbees.com/blog/sending-notifications-pipeline) - Sending Notifications in Pipeline, contains examples for Slack, Email, HipChat
-* [Andrew Bayer](https://gist.github.com/abayer) - examples of complex/advanced pipeline scripts 
+* [Andrew Bayer](https://gist.github.com/abayer) - examples of complex/advanced pipeline scripts
 * [Stack Overflow](https://stackoverflow.com/questions/42290133/jenkins-pipeline-git-command-submodule-update) - Example Pipeline for git submodule update
 * [Jason Davis](http://engineering.simondata.com/can-we-use-jenkins-for-that) - Can We Use Jenkins for That?
 * [Keyan Pishdadian](http://engineering.teacherspayteachers.com/2017/05/16/unifying-deployments-for-microservices-via-jenkins.html) - Unifying Deployments for Microservices with Jenkinsfile Pipelines
@@ -1408,25 +1426,25 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [fabric8io/fabric8-pipeline-library](https://github.com/fabric8io/fabric8-pipeline-library) - Source code of Fabric8 Pipeline library for Jenkins
 * [terradatum/jenkins-pipeline-library](https://github.com/terradatum/jenkins-pipeline-library/tree/master/vars) - source code of Terradatum Pipeline library for Jenkins
 * [pedroamador/jenkins-pipeline-library](https://github.com/pedroamador/jenkins-pipeline-library) - another Jenkins Pipeline Library
-* [Jenkins Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/) - Extending with Shared Libraries 
+* [Jenkins Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/) - Extending with Shared Libraries
 * [James Linder](https://medium.com/garbage-collection/jenkins-pipelines-what-i-wish-i-knew-starting-out-6e3d4eb2ff5b) - Jenkins Pipelines: What I Wish I Knew Starting Out
-* [Liam Newman](https://jenkins.io/blog/2017/02/15/declarative-notifications/) - Declarative Pipeline: Notifications and Shared Libraries 
+* [Liam Newman](https://jenkins.io/blog/2017/02/15/declarative-notifications/) - Declarative Pipeline: Notifications and Shared Libraries
 * [openstack/python-jenkins](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
 * [OpenStack](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
 * [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
 * [Developer code search](http://codegists.com/search?q=jenkinsfile) - Examples of Jenkinsfile (returned by a search engine)
 * [Christian Galsterer](https://christiangalsterer.wordpress.com/2015/04/23/continuous-integration-for-pull-requests-with-jenkins-and-stash/) - Continuous Integration for Pull Requests with Jenkins and Bitbucket Server (Stash)
-* [Mark Waite](https://jenkins.io/blog/2017/08/07/intro-to-plugin-development/) - Plugin Development Tutorials, Videos, and More 
+* [Mark Waite](https://jenkins.io/blog/2017/08/07/intro-to-plugin-development/) - Plugin Development Tutorials, Videos, and More
 * [David Hoover](https://www.youtube.com/watch?v=7ERV9C20GSE) - [Video] Jenkins World 2016 - Jenkins Inside Google
 * [rhwood/jenkins-slave-osx](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
-* [Alvin Huang](https://jenkins.io/blog/2017/07/27/standardizing-builds-with-shared-libraries/) - Codifying the Build and Release Process with a Pipeline Shared Library 
+* [Alvin Huang](https://jenkins.io/blog/2017/07/27/standardizing-builds-with-shared-libraries/) - Codifying the Build and Release Process with a Pipeline Shared Library
 * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
 * [aelsabbahy/dgoss-examples](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples, including examples for jenkins
 * [Hannah Inman](https://jenkins.io/blog/2017/06/27/speaker-blog-SAS-jenkins-world) - Extending your Pipeline with Shared Libraries, Global Functions and External Code. **Bonus** : [Slides from Brent Laster](https://www.slideshare.net/BrentLaster/2017-jenkins-world)
 * [Oleg Nenashev](https://speakerdeck.com/onenashev/oslo-jenkins-meetup-managing-security-in-jenkins-cheat-sheet) - Managing Security in Jenkins. Cheat Sheet
 * [Philip Stroh](https://jenkins.io/blog/2017/10/02/pipeline-templates-with-shared-libraries/) - Share a standard Pipeline across multiple projects with Shared Libraries
 * [Maxfield Stewart](https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial) - Tutorial: Building With Jenkins Inside an Ephemeral Docker Container
-* [Jenkins JIRA](https://issues.jenkins-ci.org/issues/?jql=component%20%3D%20pipeline%20) - tickets realted to jenkins pipeline component 
+* [Jenkins JIRA](https://issues.jenkins-ci.org/issues/?jql=component%20%3D%20pipeline%20) - tickets realted to jenkins pipeline component
 * [Jenkins Docs](https://jenkins.io/doc/book/architecting-for-scale/) - Architecting for Scale
 * [Justin Young](http://blog.sonatype.com/shift-security-practices-left-new-nexus-plugin-for-jenkins-pipelines-1) - (2017) Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
 * [Maksym Grebenets](http://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node) - Jenkins Remote Node on Mac OS X
@@ -1463,8 +1481,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andrew Morton](https://drewish.com/2017/03/23/validate-swagger-docs-in-jenkins/) - (2017) Validate Swagger Docs in Jenkins
 * [Andrew Morton](https://drewish.com/2017/06/20/run-code-on-specific-jenkins-slaves/) - (2017) Run code on specific Jenkins slaves
 * [CVE security vulnerabilities](https://www.cvedetails.com/vulnerability-list.php?vendor_id=15865&product_id=34004&version_id=0&page=1&hasexp=0&opdos=0&opec=0&opov=0&opcsrf=0&opgpriv=0&opsqli=0&opxss=0&opdirt=0&opmemc=0&ophttprs=0&opbyp=0&opfileinc=0&opginf=0&cvssscoremin=6&cvssscoremax=0&year=0&month=0&cweid=0&order=1&trc=29&sha=972b519195a324e211440860f0337f2d75a9aad6) - Jenkins : List of security vulnerabilities
-* [Sam Van Oort](https://jenkins.io/blog/2018/02/22/cheetah) - (2018) Project Cheetah - Faster, Leaner Pipeline That Can Keep Up With Demand 
-* [ThinBackup](https://plugins.jenkins.io/thinBackup) - This plugin for Jenkins simply backs up the global and job specific configurations (not the archive or the workspace). 
+* [Sam Van Oort](https://jenkins.io/blog/2018/02/22/cheetah) - (2018) Project Cheetah - Faster, Leaner Pipeline That Can Keep Up With Demand
+* [ThinBackup](https://plugins.jenkins.io/thinBackup) - This plugin for Jenkins simply backs up the global and job specific configurations (not the archive or the workspace).
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -1474,7 +1492,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Awesome Kubernetes resources
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
 * [Jesse Newland](https://githubengineering.com/kubernetes-at-github/) - Kubernetes at GitHub
-* [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes. 
+* [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes.
 * [William Jimenez](https://containerjournal.com/2017/11/02/kubernetes-because-everyone-doing/) - (2017) Kubernetes: Because Everyone is Doing It
 * [Cloud Native Computing Foundation website](https://www.cncf.io/) - Sustaining and integrating open source technologies like Kubernetes and Prometheus
 * [praqmatim](https://www.praqma.com/stories/ask/) - Atlassian high availability as code | Containerized Data Center on Kubernetes
@@ -1491,11 +1509,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
 * [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 * [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - curated list of Microservice Architecture related principles and technologies.
-* [Milen Dyankov](https://www.youtube.com/watch?v=O77777Zy_HE) - [Video] Microservices and Modularity or the difference between treatment and cure! 
+* [Milen Dyankov](https://www.youtube.com/watch?v=O77777Zy_HE) - [Video] Microservices and Modularity or the difference between treatment and cure!
 * [Richard Clayton](https://rclayton.silvrback.com/failing-at-microservices) - (2014) Failing at Microservices. | Please avoid our mistakes!
 * [Martin Nally](https://apigee.com/about/blog/developer/12-goals-microservices) - (2016) The 12 Goals of Microservices
-* [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing 
-* [Brian Kelly](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/) - Creating a Microservice? Answer these 10 Questions First 
+* [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing
+* [Brian Kelly](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/) - Creating a Microservice? Answer these 10 Questions First
 * [Sumit Maingi](https://cloudncode.blog/2016/07/22/msa-getting-started/) - (2016) Building Microservices? Here is what you should know
 * [Ben Stopford](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/) - (2016) The Data Dichotomy: Rethinking the Way We Treat Data and Services
 * [IcaliaLabs/guides](https://github.com/IcaliaLabs/guides/wiki/Monolithic-vs-Micro-Repos) - Monolithic vs Micro Repos
@@ -1525,7 +1543,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 ## OpenShift
 * [OpenShift Docs](https://ci.openshift.redhat.com/openshift-docs-master-testing/latest/welcome/index.html) - OpenShift Latest Documentation
-* [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news 
+* [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news
 * [OpenShift](https://www.openshift.com/container-platform/features.html) - Features and Benefits of OpenShift
 * [Marek Jelen](https://blog.openshift.com/deploying-from-private-git-repositories/) - Deploying From Private Git Repositories
 * [OpenShift Docs](https://docs.openshift.org/latest/minishift/using/interacting-with-openshift.html) - Interacting with OpenShift - Using Minishift
@@ -1536,7 +1554,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/build_inputs.html#using-a-proxy-for-git-cloning) - Using a Proxy for Git cloning
 * [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/index.html) - How Builds Work
 * [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/dev_guide/builds.html) - Builds
-* [OpenShift Docs](https://docs.openshift.org/latest/minishift/getting-started/installing.html) - Installing Minishift 
+* [OpenShift Docs](https://docs.openshift.org/latest/minishift/getting-started/installing.html) - Installing Minishift
 * [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/dev_guide/deployments.html) - Deployments
 * [OpenShift Docs](https://docs.openshift.com/container-platform/3.4/install_config/persistent_storage/persistent_storage_glusterfs.html) - Persistent Storage Using GlusterFS
 * [OpenShift Docs](https://access.redhat.com/solutions/1542293) - Troubleshooting OpenShift Container Platform: Basics
@@ -1555,7 +1573,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [oscp/awesome-openshift3](https://github.com/oscp/awesome-openshift3) - Awesome Openshift 3 resources
 * [OpenShift Interactive Learning Portal](https://learn.openshift.com/) - Interactive learning scenarios. Can be used for experimentation
 * [OpenShift](https://commons.openshift.org/videos.html) - [Videos] Watch videos from OpenShift Commons Gathering events
-* [RedHat Summit](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack... 
+* [RedHat Summit](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack...
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
 * [OpenShift Docs](https://docs.openshift.org/latest/using_images/other_images/jenkins.html) - Using Jenkins Images in OpenShift
 * [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/build_strategies.html) - Build Strategy Options in OpenShift
@@ -1609,7 +1627,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 ## Vault (by Hashicorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
-* [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image 
+* [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image
 * [Vault Docs](https://www.vaultproject.io/intro/getting-started/deploy.html) - Deploy Vault
 * [Aun Raza](https://linoxide.com/how-tos/secure-secret-store-vault/) - How to Securely Store Passwords and Api Keys Using Vault
 * [Katacoda](https://www.katacoda.com/courses/docker-production/vault-secrets) - Interactive Course : Docker in Production - Store Secrets using Hashicorp Vault
@@ -1617,7 +1635,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vyacheslav Voronenko](https://www.codementor.io/slavko/how-to-install-vault-hashicorp-secure-deployment-secrets-du107xlqd) - Using Vault to Secure Your Deployment Secrets
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Hashicorp Vault
 * [Vault Docs](https://www.vaultproject.io/docs/auth/userpass.html) - Auth Backend: Username & Password
-* [Hashicorp](https://www.hashicorp.com/blog/vault-0-6/) - Vault 0.6 Release announcement 
+* [Hashicorp](https://www.hashicorp.com/blog/vault-0-6/) - Vault 0.6 Release announcement
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2016/10/01/vault-use-cases/) - Vault – Use cases
 * [Vault Docs](https://www.vaultproject.io/docs/secrets/ssh/) - SSH Secret Backend
 * [Vault Docs](https://www.vaultproject.io/api/) - HTTP API
@@ -1639,25 +1657,26 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
 * :star: [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
 * :star: [**Library Genesis**](http://libgen.io/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.pw/), [Mirrors list](http://sguru.org/libgen-proxy/)
+* :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [b-ok.org](http://b-ok.org/) - ebooks
-* [Soulseek](http://www.slsknet.org/news/) - for hard to find music . 
+* [Soulseek](http://www.slsknet.org/news/) - for hard to find music .
 * [RuTracker](https://rutracker.org/forum/index.php) - torrent for music
 * [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
 * [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
 * [Addic7ed.com](http://www.addic7ed.com/) - free subtitles for tv show and movies
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
-* :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists 
+* :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [FindLectures](https://www.findlectures.com/) - Great collection of lectures to discover interesting topics that you might not think to look for. **Bonus** : [related subreddit with new suggestions](https://www.reddit.com/r/FindLectures/)
 * [ThePirateBay Proxy List](https://thepiratebay-proxylist.org/)
 * [NextWarez](http://nextwarez.com/torrent/actu-torrent/) - [FR] :fr: news and ranking about download sites and downloaded contents
-* [Kooba](http://koob.jake.run/) - an interactive graph for finding new books 
-* [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
+* [Kooba](http://koob.jake.run/) - an interactive graph for finding new books
+* [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
 * [The Load Guru](http://theloadguru.com/how-to-get-started-with-xdcc/) - How To Get Started With XDCC
 * [The Load Guru](http://theloadguru.com/how-to-configure-mirc/) - How To Configure mIRC For Downloading
-* [Cr4wlGa](https://www.cr4wl.ga/) - A plain XDCC indexer 
+* [Cr4wlGa](https://www.cr4wl.ga/) - A plain XDCC indexer
 * [SunXDCC](http://sunxdcc.com/#search) - a XDCC indexer
 * [TorrentFreak](https://torrentfreak.com/) - file sharing, privacy & copyright news
 * [Opentrackers](https://opentrackers.org/) - private torrent trackers & file sharing
@@ -1665,7 +1684,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
 * [MorganGeek](https://gist.github.com/MorganGeek/aa1f21c3b87e90a2cde567a73209ef13) - download sites compared using some searches
 * [The Pirate Bay](https://thepiratebay.org/) - yet one of the best place to find good torrents. **Bonus** : [Pirate Bay Proxies sites](https://proxybay.one/) + [A Pirate bay proxy website](https://pirateproxy.vip/)
-* [iDope](https://idope.se/) - torrent indexer / tribute to kickass 
+* [iDope](https://idope.se/) - torrent indexer / tribute to kickass
 * [Extreme Download](https://www.extreme-down.one/home.html) - [FR] :fr: a good place to find direct download links for various content
 * [Zone Telechargement](https://www.zone-telechargement.ws/) - [FR] :fr: an alternative place to find direct download links
 * [Torrent9](http://www.torrent9.cc/) - [FR] :fr: Torrent9 because T411 ~~starts to suck~~ is out of business
@@ -1686,8 +1705,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Book Suggestions Ninja](https://www.booksuggestions.ninja/) - books suggestions based on book / author or genre
 * [Reading Stash](http://readingstash.com/index) - Just a book recommender
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
-* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
-* :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
+* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies
+* :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [FileChef](http://filechef.com/) - Get direct download links for almost anything
 * [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
@@ -1697,33 +1716,33 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 * [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker :metal:
 * [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker :metal:
-* [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips 
+* [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips
 * [TopAchat](https://www.topachat.com/configomatic/index.php) - [FR] :fr: Config'O'Matic helps you to get the right components to assemble your dream computer, this is how I built mine in 2014
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
 * [dupeGuru](https://www.hardcoded.net/dupeguru/) - is a tool to find duplicate files on your computer.
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) - +27 million content in biomedical literature from MEDLINE, life science journals, and online books.
 * [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
-* [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - curated list of awesome open source intelligence (OSINT) tools and resources. 
+* [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - curated list of awesome open source intelligence (OSINT) tools and resources.
 * [GitHub](https://github.com/topics) - Topics on GitHub
 * [GitLogs](http://www.gitlogs.com/resource-guides) - definitive list of top resources of GitHub
 * [Fox eBook](https://www.foxebook.net) - ebooks site
-* [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer 
+* [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer
 * [Khan Academy](https://www.khanacademy.org/) - free online courses, lessons and practice
 * [Awesome Repos](https://awesomerepos.com/) -  the top of awesome repositories
-* [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
+* [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc.
 * [UncommonGoods](https://www.uncommongoods.com/) - Find cool and unusual gifts for any occasion
 * [Socratease](https://www.socratease.in/) - A Joyful, Engaging Way to Learn New Things : black holes, quantum mechanics, bitcoins, ...
 * [Smashwords](https://www.smashwords.com/books/category/1/newest/0/free/any) - ebooks from independent authors and publishers
-* [The Mastodon Project](https://joinmastodon.org/) - Mastodon instances list. **Bonus** : [helper to choose instance](https://instances.social/) 
-* [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances. 
-* [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you 
+* [The Mastodon Project](https://joinmastodon.org/) - Mastodon instances list. **Bonus** : [helper to choose instance](https://instances.social/)
+* [Mastodon](https://instances.mastodon.xyz/list) - take a break from twitter and switch to one of mastodon instances.
+* [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
-* [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
+* [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot)
 * :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
 * [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] :fr: [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 * [bestofyoutube](http://bestofyoutube.com/) - [Videos] The best of youtube
 * [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] :fr: [Videos] best funny videos from internet
-* [Wolfram Alpha](https://www.wolframalpha.com/) - ultra-nerdy search engine with advanced features 
+* [Wolfram Alpha](https://www.wolframalpha.com/) - ultra-nerdy search engine with advanced features
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 * [Paul Myers](http://researchclinic.net/facebooksecrets/) - Facebook Secrets
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
@@ -1755,43 +1774,43 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
 * [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
 * [Product Hunt](http://500makers.com/) - a list of top 500 makers on [Product Hunt](https://www.producthunt.com/)
-* [AppRecs](https://apprecs.com) - app search engine 
+* [AppRecs](https://apprecs.com) - app search engine
 * [StumbleUpon](https://www.stumbleupon.com/) - discover the best of the web, one click at a time. This service learns what you like and brings you more like it
 * [Random Hunt](http://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
-* [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website 
+* [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website
 * [Discuvver](https://www.discuvver.com) - Take you to one random useful website
 * [AlternativeTo](https://alternativeto.net/platform/self-hosted/?license=opensource) - Open Source Self-Hosted apps on AlternativeTo
-* [Stack Exchange](https://softwarerecs.stackexchange.com/) - Software Recommendations Stack Exchange 
+* [Stack Exchange](https://softwarerecs.stackexchange.com/) - Software Recommendations Stack Exchange
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
 * [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
-* [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - curated list of awesome open source intelligence (OSINT) tools and resources. 
+* [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - curated list of awesome open source intelligence (OSINT) tools and resources.
 * [DARK MODE LIST](https://www.darkmodelist.com/) - A List of Apps That Support Dark Mode and many other...
 * [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the Internet.
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [SourceForge](https://sourceforge.net/) - offers a huge choice of excellent, FREE software in virtually every field of computing
-* [Siftery](https://siftery.com/trending) - Trending products | explore softwares others people are using at work 
+* [Siftery](https://siftery.com/trending) - Trending products | explore softwares others people are using at work
 * [Libraries.io](https://libraries.io/) - discovers millions open source libraries accros +36 package managers
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
 
 # Free online tools
-* [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
-* [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
+* [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
+* [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dillinger](http://dillinger.io/) - Online Markdown Editor
 * :star: [**Air Mail**](http://en.getairmail.com/) - temporary email service
-* [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy 
+* [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy
 * [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
 * [Broken Link Checker](http://www.brokenlinkcheck.com/broken-links.php#status) - Online Dead Link Checking Tool
 * [StackEdit](https://stackedit.io/editor) - in-browser markdown editor
 * [XKPasswd](https://xkpasswd.net/s/) - secure memorable password generator inspired by [XKCD](http://xkcd.com/936/)
 * [WhatsMyIP](http://www.whatsmyip.org/random-password-generator/) - password generator & other text related tools (hash lookup, regex tester)
-* [YouTube to MP3 converter](http://www.youtube-mp3.org/) 
+* :star: [**YouTube to MP3 converter**](https://ytmp3.cc/)
 * :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [Cached View](http://www.cachedview.com/) - Google + Wayback machine Cached Pages of any website
-* [ChangeDetection](https://www.changedetection.com/) - Know automatically when any web page changes	
+* [ChangeDetection](https://www.changedetection.com/) - Know automatically when any web page changes
 * [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
 * [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
@@ -1829,18 +1848,18 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] :fr: resiliate your affiliation to all kinds of products and services
 * [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
-* [Fuelly](http://www.fuelly.com/) - Track, Share, and Compare your Vehicle / Understanding your fuel consumption and vehicle's actual costs 
+* [Fuelly](http://www.fuelly.com/) - Track, Share, and Compare your Vehicle / Understanding your fuel consumption and vehicle's actual costs
 * [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 * [Free Online Picture Resizer](http://www.picresize.com/batch.php) - Easily crop, resize and edit your images online for free
 * [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyze the HTTP response headers
 * [PDF Merge](https://www.pdfmerge.com/) - merge PDF files online
-* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
-* [unv.is](https://unv.is/) - Just put unv.is/ in front of http:// when sharing clickbait articles, unv.is will capture the content of an article or blog post without passing on your visit as a pageview. 
+* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist
+* [unv.is](https://unv.is/) - Just put unv.is/ in front of http:// when sharing clickbait articles, unv.is will capture the content of an article or blog post without passing on your visit as a pageview.
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [REDbot](https://redbot.org/?) - checks HTTP resources to see how they'll behave, pointing out common problems and suggesting improvements.
 * [Open Source Psychometrics Project](https://openpsychometrics.org/) - a collection of interactive personality tests with detailed results
-* [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE 
+* [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE
 * [BonPatron](http://bonpatron.com/) - [FR] :fr: online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
 * [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
 * [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
@@ -1848,7 +1867,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
 * [Convertio](https://convertio.co/epub-pdf/) - Advanced online tool to convert EPUB files to PDF
 * [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
-* [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you 
+* [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 * [What Car?](https://www.whatcar.com/) - New and Used Car Reviews, Car Deals
 * [Duolingo](https://www.duolingo.com/) - free tool for learning another language, Duolingo makes it fun, and helps keep you engaged for the long haul.
@@ -1857,7 +1876,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Find your Facebook ID](https://findmyfbid.com/) - find the Facebook personal numeric ID for fb:admins, social plugins, and more. Provide the profile URL of a page or your profile and get the Facebook (context) id. This id can then be used to [find similar pages](https://www.facebook.com/pages/?ref=page_suggestions_on_liking_refresh&frompageid=)
 * [Ecoscore](http://ecoscore.be/) - find and compare the ecoscores of new and old vehicles
 * [ODA](https://onlinedisassembler.com/odaweb/) - The online disassembler
-* [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service 
+* [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service
 * [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
 * [AboutMyX](http://www.aboutmyip.com/AboutMyXApp/SubnetCalculator.jsp?ipAddress=192.168.16.0&cidr=24) - Subnet mask calculator
 * [WalletGenerator](https://walletgenerator.net/) - Paper Wallet Generator for BitCoins and other cryptocurrencies. Create, Print & Fold
@@ -1890,15 +1909,15 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=game) - Linux & SteamOS gaming community
 * [Linux game database](https://lgdb.org/games)
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
-* [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday 
+* [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday
 * [UnDropDansLaMare](https://www.youtube.com/watch?v=KzvHvc41qpk) - (Video) [FR] :fr: Le Paradoxe du Joueur [2 minutes pour convaincre] short analysis of insatisfaction with modern video games / why video games were best before
-* [Tom's Hardware](http://www.tomshardware.com/reviews/best-gpus,4380.html) - Top-Rated Graphics Cards for Gaming / best GPU for the money 
+* [Tom's Hardware](http://www.tomshardware.com/reviews/best-gpus,4380.html) - Top-Rated Graphics Cards for Gaming / best GPU for the money
 * [Can You RUN It?](https://www.systemrequirementslab.com/cyri) - System Requirements Lab analyzes your computer and tell you which games you can / can't run
 * [NotebookCheck](https://www.notebookcheck.net/Computer-Games-on-Laptop-Graphic-Cards.13849.0.html) - list of GPUs of Laptop Graphic Cards sorted by approximate performance in games
 * [CheezBurger](http://cheezburger.com/8271579136) - How the Gaming Landscape Has Changed (2004 vs 2013)
-* [UnDropDansLaMare](https://www.youtube.com/watch?v=ilLrptqGdqM) - [Video] ... Ce Héros Mis Au Placard [2 minutes pour convaincre] // Death of the polygon 
+* [UnDropDansLaMare](https://www.youtube.com/watch?v=ilLrptqGdqM) - [Video] ... Ce Héros Mis Au Placard [2 minutes pour convaincre] // Death of the polygon
 * [Korben](https://korben.info/console-jaunie.html) - (2014) [FR] :fr: Console jaunie ? Voici comment la traiter pour lui redonner sa couleur d’origine
-* [Pencil and Paper games](http://www.papg.com/) - Because I enjoy good games that don't depend on any modern technology 
+* [Pencil and Paper games](http://www.papg.com/) - Because I enjoy good games that don't depend on any modern technology
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 * [Coinop](http://www.coinop.org/) - Coinop.org maintains a comprehensive database of coin-operated arcade games.
 * [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
@@ -1966,7 +1985,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/productivity-for-the-depressed) - Productivity for the Depressed
 * [Drew Falkman](https://moduscreate.com/sometimes-great-employees-leave-and-its-ok/) - Sometimes Great Employees Leave and It’s OK
 * [Jacki Keys](https://the-pastry-box-project.net/jacki-keys/2014-december-18) - (2014) It's Broken, Don't Fix It / on being "the happiest & healthiest version of yourself"
-* [Chess Media Group](https://twitter.com/GlenGilmore/status/541672473637695488/photo/1) - (2014) [IMG] 7 Principles of The Future Employee 
+* [Chess Media Group](https://twitter.com/GlenGilmore/status/541672473637695488/photo/1) - (2014) [IMG] 7 Principles of The Future Employee
 * [Maria Konnikova](https://www.newyorker.com/business/currency/the-open-office-trap) - (2014) The Open-Office Trap
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/perception_of_time.html) - (2006) Perception of Time
 * [Meghan Hebel](https://codeburst.io/why-you-dont-deserve-that-dream-developer-job-60d5e5adb8d7) - Why You Don’t Deserve That Dream Developer Job
@@ -1977,7 +1996,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Darius Foroux](https://medium.com/personal-growth/declutter-your-life-declutter-your-mind-4c7f965d6839) - (2017) Declutter Your Life. Declutter Your Mind.
 * [Thibaut Schepman](https://tempsreel.nouvelobs.com/rue89/rue89-sante/20150120.RUE7459/rester-assis-tue-plus-que-le-tabac-j-ai-essaye-d-ecrire-cet-article-debout.html) - (2015) [FR] :fr: Rester assis tue plus que le tabac ? J’ai essayé d’écrire cet article debout / sitting down is dangerous for your health
 * [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] :fr: [Video] Technophobe / what if you could not use technology anymore
-* :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
+* :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management
 * [John Cutler](https://medium.com/@johnpcutler/company-culture-is-44592c36958c) - (2016) company culture is…
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/05/05/the-truth-about-startups/) - (2017) The Truth About Startups
@@ -1989,7 +2008,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bruxelles Environnement](http://www.qualitedelair.brussels/) - [FR] :fr: Qualité de l'air. **Bonus** : Dutch version [Luchtkwaliteit](http://www.luchtkwaliteit.brussels/)
 * [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
 * [Dave Mosher](http://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired
-> my 2 cents: drop the production database, you will soon be fully awaken 
+> my 2 cents: drop the production database, you will soon be fully awaken
 * [Kristen Bahler](http://time.com/money/5077954/linkedin-profile-tips-resume/#77ba6828-9e05-4086-9ccc-0428eea386f4) - (2018) What Your LinkedIn Profile Should Look Like in 2018
 * [Tom M. Sittler](https://thomas-sittler.github.io/facebook/) - (2017) Fighting the evil influence of Facebook (but keeping the good bits): a manifesto and how-to guide
 * [Nikola Tore](http://blog.hackerearth.com/employee-wellness-affects-productivity-four-fundamental-pillars) - (2017) How employee wellness affects productivity: four fundamental pillars
@@ -2014,7 +2033,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Software Engineering Tips](http://www.yacoset.com/Home/so-you-ve-just-been-hired-by-an-it-department) - (2010) So you've just been hired by an IT department...
 * [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
 * [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
-* [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
+* [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs
 * [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
 * [Joel Kemp](https://hackernoon.com/work-for-an-employer-that-builds-something-you-love-58f4ced947e9) - (2017) Work for an employer that builds something you love
 * [Abduzeedo](http://abduzeedo.com/tags/perfect-office) - Design Inspiration for the perfect office
@@ -2029,6 +2048,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nick Cassella](https://civicskunk.works/ask-your-coworkers-what-they-make-youll-earn-more-46efb2daf63e) - (2018) Ask Your Coworkers What They Make. You’ll Earn More.
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer  
 > A lot of people (especially entrepreneurs) are so obsessed with how fast they will become successful that they will sacrifice their mental health in order to constantly push themselves.
+* [Wikipedia](https://en.wikipedia.org/wiki/Nonviolent_Communication) - Nonviolent Communication - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2036,7 +2056,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Working Nomads](https://www.workingnomads.co/jobs) - Remote jobs, with most offers in development
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs: Design, Programming, DevOps and more
 * [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
-* [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
+* [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers
 * [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - list of awesome remote jobs and resources
 * [Sick Call Excuse Generator](http://www.getodd.com/raz/sickday/sickday.html) - helpful to you in deciding the excuse for your forthcoming day off.
 * [WFH-excuses](https://us-central1-wfh-excuses-gh.cloudfunctions.net/wfh) - Working from Home excuses generator. **Bonus** : [GitHub repo](https://github.com/lnfnunes/WFH-excuses)
@@ -2076,15 +2096,15 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Encyclopedia Dramatica](https://encyclopediadramatica.rs) - a satirical wiki, parodying encyclopedia topics and current events, especially those related or relevant to contemporary Internet culture
 * [/r/WhereIsMyFlyingCar](https://www.reddit.com/r/WhereIsMyFlyingCar/) - a lot of predictions made about the future that have or have not come to pass.
 * [Kimmo Lemetti](http://www.blastwave-comic.com/) - Gone with the blastwave is a post apocalyptic black humorous web comic
-* [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies 
-* [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website 
-* [Malaise TV](https://twitter.com/malaisetele) - [FR] :fr: Twitter account showing awkwardness in TV shows 
+* [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies
+* [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website
+* [Malaise TV](https://twitter.com/malaisetele) - [FR] :fr: Twitter account showing awkwardness in TV shows
 * [Mattia Quarta](https://twitter.com/squartadoc/status/380805479414239232/photo/1) - How to read a scientific paper.... brilliant
 * [Philippe Shiu](https://twitter.com/PhilipsShiu/statuses/448760592405241856) - [IMG] math students tip
 * [Topissimo](http://www.topissimo.fr/lol/40-verites-du-quotidien-illustrees-humour.html) - [FR] :fr: TOP 40 des vérités du quotidien illustrées avec humour !
 * [Mashable](http://mashable.com/2014/08/10/maria-scrivan-kickstarter) - (2014) [IMG] Young entrepreneurs these days
 * [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/?id=1883) - (2010) [IMG] Why are there so few women in engineering / science ?
-* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] :fr: 
+* [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] :fr:
 * [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
 * [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] :fr: [Video] Technophobe / what if you could not use technology anymore
 * [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] :fr: [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
@@ -2096,7 +2116,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Best Page in the Universe](http://maddox.xmission.com/) - personal satirical humor website created by George Ouzounian, better known as Maddox
 * [webcomic name](http://webcomicname.com/) - kind of absurd repetitive web comic strip, among my favorites | "oh no"
 * [Regular Ordinary Swedish Meal Time (ROSMT)](https://www.youtube.com/playlist?list=PL4B2CBC4A35E0E224) - [Videos] YouTube Series of WTF cooking how-to's/tutorials. it's good for you | Swedish men cooking regular food with extreme Swedish violence like vikings.
-* [The Cooper Review](https://thecooperreview.com/tag/corporate-humor/) - Funny corporate humor and satire 
+* [The Cooper Review](https://thecooperreview.com/tag/corporate-humor/) - Funny corporate humor and satire
 * [Sarah Cooper](https://thecooperreview.com/boomers-vs-millenials-work/) - Boomers vs. Millennials @ Work
 * [Sarah Cooper](https://thecooperreview.com/why-they-call-it-middle-management/) - Why They Call it Middle Management
 * [Sarah Cooper](https://thecooperreview.com/9-tricks-to-appear-smart-in-brainstorming-meetings/) - 9 Tricks to Appear Smart in Brainstorming Meetings
@@ -2134,7 +2154,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Learn
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
 * :star: [**n1trux/awesome-sysadmin**](https://github.com/n1trux/awesome-sysadmin) - (fork of [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin))
-* [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary 
+* [Binh Nguyen](http://www.tldp.org/LDP/Linux-Dictionary/html/index.html) - (2004) Linux Dictionary
 * [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2696541/operating-systems/unix--knowing-your-memory-commands.html) - Unix: Knowing your memory commands
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3184929/linux/lesser-known-but-still-handy-linux-commands.html) - Lesser known but still handy Linux commands
@@ -2151,7 +2171,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ramesh Natarajan](http://www.thegeekstuff.com/2011/06/iptables-rules-examples/) - 25 Most Frequently Used Linux IPTables Rules Examples. **Bonus** : [Gist on GitHub](https://gist.github.com/virtualstaticvoid/1024546)
 * [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/09/linux-one-liners/) - 6 Useful Linux One Liners
-* [Maxim Chernyak](http://hakunin.com/permissions) - Linux permissions cheatsheet 
+* [Maxim Chernyak](http://hakunin.com/permissions) - Linux permissions cheatsheet
 * [CHMOD command calculator](https://chmodcommand.com/)
 * [Corinna Baldauf](http://wall-skills.com/2015/the-find-command-in-examples/) - The find command in examples
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/08/10/automating-linux-security-best-practices-with-ansible/) - Automating Linux Security Best Practices with Ansible
@@ -2175,7 +2195,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joel Lee](http://www.makeuseof.com/tag/9-lethal-linux-commands-never-run/) - 9 Lethal Linux Commands You Should Never Run
 * [LZone](http://lzone.de/) - Various Cheat Sheets about sysadmin, development, it ops, services management and virtualization
 * [LZone](http://lzone.de/cheat-sheet/GCC) - GCC Cheat Sheet
-* [Alexander Kuleshov aka 0xAX](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md) - Linux insides : A little bit about a linux kernel 
+* [Alexander Kuleshov aka 0xAX](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md) - Linux insides : A little bit about a linux kernel
 * [Vivek Gite](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
 * [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
 * [Brendan Gregg](https://medium.com/netflix-techblog/netflix-at-velocity-2015-linux-performance-tools-51964ddb81cf) - Netflix at Velocity 2015: Linux Performance Tools (+[Slides](https://www.slideshare.net/brendangregg/velocity-2015-linux-perf-tools))
@@ -2233,7 +2253,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DayDreamer](http://daydreamer66.blogspot.be/2014/06/rhel-how-can-non-root-users-can-run.html) - RHEL: How can non-root users can run tcpdump or Wireshark or use libpcap
 * [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
 * [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
-* [Media Temple](https://mediatemple.net/community/products/dv/204644740/using-ssh-keys-on-your-server) - Using SSH keys on your server 
+* [Media Temple](https://mediatemple.net/community/products/dv/204644740/using-ssh-keys-on-your-server) - Using SSH keys on your server
 * [Daniel Miessler](https://danielmiessler.com/study/lsof/) - An lsof Primer
 * [Daniel Miessler](https://danielmiessler.com/study/grep/) - A grep Tutorial and Primer
 * [Daniel Miessler](https://danielmiessler.com/blog/collection-of-less-commonly-used-unix-commands/) - Collection of Less Commonly Used Commands
@@ -2248,10 +2268,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bryan Lunduke](https://www.youtube.com/watch?v=5pOxlazS3zs) - (2014) [Video] Linux Sucks // spoiler : this is not a video against Linux ;)
 * [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCrashAndMore) - (2014) The bad side of systemd: two recent systemd failures
 * [Alexander Blagoev](http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html) - Adventures in /usr/bin and the likes
-* [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps 
-* [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools 
+* [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps
+* [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools
 * [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
-* [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands 
+* [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands
 * [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 * [CentOS Wiki](https://wiki.centos.org/TipsAndTricks/YumAndRPM) - Yum and RPM Tips and Tricks
 * [CentOS Wiki](https://wiki.centos.org/TipsAndTricks/SshTips/JumpHost) - SSH Tips and Tricks : SSH bastion/jump host
@@ -2277,7 +2297,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-bastion-host/) - (2009) Configure Linux As Bastion Host
 * [Anna Kennedy](https://sysadvent.blogspot.be/2017/12/day-22-building-secure-bastion-host-or.html) - (2017) Building a secure bastion host, or, 50 ways to kill your server. **Bonus** : [Slides](https://www.slideshare.net/AnnaKennedy11/building-a-secure-bastion-or-50-ways-to-kill-your-server-81551575)
 
-## Emacs 
+## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
 
 ## Linux for fun
@@ -2307,7 +2327,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 ## Vim
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
 * [Vim Tips Wiki](http://vim.wikia.com/wiki/Search_and_replace) - Search and replace in VIM
-* [zzapper](http://rayninfo.co.uk/vimtips.html) - Best of Vim Tips / compiled from 16 Years of Vi + 10+ years of Vim 
+* [zzapper](http://rayninfo.co.uk/vimtips.html) - Best of Vim Tips / compiled from 16 Years of Vi + 10+ years of Vim
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
 * [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/chapters/17.html) - Status Lines
 * [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
@@ -2367,9 +2387,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
 * [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
 * [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
-* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
+* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
-* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
+* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 * [Morgangeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
@@ -2382,41 +2402,42 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [caps-a-holic.com](http://www.caps-a-holic.com/) - DVD und Blu-ray Comparisons
 * [IMSE](http://www.imse.co/) - Internet Movie Search Engine
 * [SoMeFilm](https://somefilm.net/auth/guest) - Movies / tv shows recommendations : what will you watch tonight ?
-* :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc. 
+* :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc.
 * [David Firth](https://www.youtube.com/watch?v=wpVTORX_ifk) - [Youtube] Salad Fingers is a psychological horror, dark humorous animation movie ranked among the top 10 culture phenomenon for 2005
 * [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies
 * [Cinesift](https://www.cinesift.com/) - 'Cinesift' Sorts Ratings and Streaming Services to Help Users Pick Films. **Bonus** : [Presentation of Cinesift by Trend Hunter](https://www.trendhunter.com/trends/film-database)
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
-* [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot) 
+* [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot)
 * [Short of the Week](https://www.shortoftheweek.com/) - Watch the best short films online
 * [MorganGeek](http://morgangeek.be//minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
 * [Vimeo](https://vimeo.com/) - The high-quality home for video hosting and watching in HD with no ads, used by a vast number of indie filmmakers. The place to find refreshing, art-house movies to stream on demand.
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
 
-# Music 
-* [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection 
-* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books... 
+# Music
+* [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
+* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
 * [jamb0ss/awesome-ambient-noises](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 * [MorganGeek](https://gist.github.com/MorganGeek/66c9c8524e446550757d92c527c28c93) - work / programming playlists selection
 * [Tellement Nomade](http://www.tellementnomade.org/forum/) - [FR] :fr: forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
-* [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows 
-* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies 
+* [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
+* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies
 * [Ranker](http://www.ranker.com/list/songs-based-on-game-of-thrones/ranker-of-thrones) - Some of the Best Songs Based on Game of Thrones
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 * [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
-* [MusicIP](http://www.spicefly.com/article.php?page=what-is-musicip) - MusicIP analyses and fingerprints your music library 
+* [MusicIP](http://www.spicefly.com/article.php?page=what-is-musicip) - MusicIP analyses and fingerprints your music library
 * [Metal Torrent Tracker](http://en.metal-tracker.com/) - a good metal music tracker :metal:
 * [RockBox](http://psychocydd.co.uk/) - metal music torrent tracker :metal:
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 * [foobar2000](http://www.foobar2000.org/components/by+date) - List of all plugins for foobar2000
-* [foobar2000](http://mobile.foobar2000.com/) - There exist a mobile version of foobar2000 
+* [foobar2000](http://mobile.foobar2000.com/) - There exist a mobile version of foobar2000
 * [Tunefind](https://www.tunefind.com/show/the-walking-dead) - Walking Dead tv show soundtracks online
 * [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] :fr: [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
 * :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
 * [Banjo Guy Ollie](https://www.youtube.com/channel/UC5-umfrfqPvDvWCYHJGYtpA) - [Videos] videos of Olivier Longuet (aka Ollie LongZ / BanjoGuyOllie), a youtuber making awesome video game music covers. **Bonus** : his other youtube channel [FR] :fr: [Grand Theft Z'Audio](https://www.youtube.com/channel/UCAORviTS6Ua_a0eo4XGDPPg) if you like funny surreal dubbing of games cinematic, mainly inspired by [Message à caractère informatif (https://www.youtube.com/watch?v=ozJmcB-mVgw)
+* :star: [**YouTube to MP3 converter**](https://ytmp3.cc/)
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -2456,12 +2477,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Le Gorafi**](http://www.legorafi.fr/) - [FR] :fr: news satire
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
-* [Alltop](https://alltop.com/new/) - News aggregator, similar to Popurls. Aggregates news by topic also 
+* [Alltop](https://alltop.com/new/) - News aggregator, similar to Popurls. Aggregates news by topic also
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
 * [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
-* [Trendsmap](https://www.trendsmap.com/) - shows you the latest trends from Twitter, for anywhere in the world. 
+* [Trendsmap](https://www.trendsmap.com/) - shows you the latest trends from Twitter, for anywhere in the world.
 * [Daniel Miessler](https://danielmiessler.com/blog/) - a very interesting blog about InfoSec, technology and humans
-* [Le blog d'un odieux connard](https://unodieuxconnard.com/) - [FR] :fr: caustic news / news satire 
+* [Le blog d'un odieux connard](https://unodieuxconnard.com/) - [FR] :fr: caustic news / news satire
 * [the morning paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
 * [OSNews](http://www.osnews.com/) - explore the future of computing and about technology, OS, hardware, development, and other cool news
 * [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
@@ -2478,13 +2499,13 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
 * [Code as Craft](https://codeascraft.com/category/operations/) - Posts in category operations
 * [Linda Rosencrance](https://techbeacon.com/best-cloud-it-ops-conferences-2018) - (2018) The best cloud and IT Ops conferences of 2018
-* [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins. 
+* [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins.
 * [SysAdvent Calendar](https://www.redpill-linpro.com/sysadvent/) - Pre Christmas Tips and Tricks for Sysadmins
 
 > Learn
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
 * [Vivek Gite](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
-* [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server? 
+* [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server?
 * [Sylvain Kalache](https://www.linux.com/blog/first-5-commands-when-i-connect-linux-server) - First 5 Commands When I Connect on a Linux Server
 * [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
 * [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
@@ -2524,10 +2545,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - (2017) In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
-* [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way 
+* [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way
 * [David Mytton](https://blog.serverdensity.com/server-naming-conventions-and-best-practices/) - (2015) Server Naming Conventions and Best Practices
-* [Principles of Chaos Engineering](http://principlesofchaos.org/) 
-* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources 
+* [Principles of Chaos Engineering](http://principlesofchaos.org/)
+* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources
 * [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
 * [Matthew Skelton](https://blog.softwareoperability.com/2013/10/16/operability-can-improve-if-developers-write-a-draft-run-book/) - (2013) Operability can Improve if Developers Write a Draft Run Book
 * [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template) - Run Book / Operations Manual template for modern software systems. **Bonus** : [Link to template markdown](https://github.com/SkeltonThatcher/run-book-template/blob/master/run-book-template.md) + [Run Book Dialog Sheet v1.0](https://github.com/SkeltonThatcher/run-book-template/releases/download/v1.0/Run-Book-dialogue-sheet-A1.pdf) [PDF]
@@ -2544,12 +2565,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
 * [Asaf Yigal](https://devops.com/sre-vs-devops-false-distinction/) - (2017) SRE vs. DevOps — a False Distinction?
 * [Nicolas De Nayer](https://medium.com/doctolib-engineering/the-duty-guy-the-key-to-empowering-engineers-a43d1fc4706b) - (2017) The Duty Guy: the key to empowering engineers
-* [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.” 
+* [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.”
 * [Google](https://landing.google.com/sre/book.html) - [Book] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
 * [Simon Sharwood](https://www.theregister.co.uk/2017/02/01/gitlab_data_loss/) - (2017) GitLab.com melts down after wrong directory deleted, backups fail
-* [Grant Fritchey](https://www.red-gate.com/blog/database-devops/youre-not-delivering-devops-database/amp?__twitter_impression=true) - (2017) You’re not delivering DevOps to the database 
+* [Grant Fritchey](https://www.red-gate.com/blog/database-devops/youre-not-delivering-devops-database/amp?__twitter_impression=true) - (2017) You’re not delivering DevOps to the database
 > Please, developers, don’t get smug. I’m starting with you because you’re a core part of the problem here. Go back and re-read the definitions of DevOps … I’ll wait … You have to notice one salient point. Nowhere does it say, “Developers rule the world”, or “Developers have ‘SA’ privileges”, or “We get to ignore the Operations side of IT and do anything we want”. No, instead, it talks about cooperation.
-* [DevOpsGuys](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-1) - (2017) Where’s the Ops in DevOps? Part 1. **See also** : [Part 2](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-2) and [Part 3](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-3) 
+* [DevOpsGuys](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-1) - (2017) Where’s the Ops in DevOps? Part 1. **See also** : [Part 2](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-2) and [Part 3](https://www.red-gate.com/blog/database-devops/wheres-the-ops-in-devops-part-3)
 > DevOps does not equal ‘Developers managing Production’
 * [Jennifer Riggins](https://thenewstack.io/six-lessons-bitnamis-transition-container-based-world/) - (2018) 6 Lessons from Bitnami’s Transition to Container-Based Ops
 * [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
@@ -2572,20 +2593,20 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Esther Schindler](https://blog.newrelic.com/2016/04/26/ops-dev-wishlist/) - (2016) 3 Ways Devs Can Help Ops: An Operations Perspective
 * [Esther Schindler](https://blog.newrelic.com/2016/04/11/devs-ops-wishlist/) - (2016) 3 Way Ops Can Help Devs: A Developer Perspective
 * [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
-* [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight 
-* [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs 
-* :star: [**Rob Kinyon**](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*? 
+* [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight
+* [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs
+* :star: [**Rob Kinyon**](https://sysadvent.blogspot.be/2016/12/day-10-what-does-operations-do.html) - (2016) What does Operations *do*?
 * [Anna Kennedy](https://sysadvent.blogspot.be/2017/12/day-22-building-secure-bastion-host-or.html) - (2017) Building a secure bastion host, or, 50 ways to kill your server. **Bonus** : [Slides](https://www.slideshare.net/AnnaKennedy11/building-a-secure-bastion-or-50-ways-to-kill-your-server-81551575)
 * [Patrick Cable](https://sysadvent.blogspot.be/2017/12/day-4-this-christmas-build-your-own-pki.html) - (2017) This Christmas, build your own PKI
 * [Robert Treat](https://sysadvent.blogspot.be/2017/12/day-6-sysadmins-evolution-of-role.html) - (2017) sysadmins - the evolution of a role amidst revolutionary hype.
-* [cscareerthrowaway567](https://www.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/) - (2017) Accidentally destroyed production database on first day of a job, and was told to leave, on top of this i was told by the CTO that they need to get legal involved, how screwed am i? 
+* [cscareerthrowaway567](https://www.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/) - (2017) Accidentally destroyed production database on first day of a job, and was told to leave, on top of this i was told by the CTO that they need to get legal involved, how screwed am i?
 * [Chelsey Lang](https://www.clearvision-cm.com/blog/4-ways-to-approach-incident-management-and-improve-mean-time-to-resolution/) - (2017) 4 Ways to Approach Incident Management and Improve Mean Time to Resolution
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/04/05/is-it-devops/) - (2017) Is it DevOps? What is DevOps and what is not DevOps
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/04/05/is-it-devops/) - (2017) Is it DevOps? What is DevOps and what is not DevOps
 * [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
 * [Dmitriy Samovskiy](http://www.somic.org/2011/09/30/complex-systems-generalists-and-specialists/) - (2011) Complex Systems: Generalists and Specialists | on diagnosing problems
 
-## Apache 
+## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
 * [Duncan Crombie](http://www.the-art-of-web.com/system/apache-reverse-proxy/) - New Apache instance with Reverse Proxy
 * [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
@@ -2695,7 +2716,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 # Philosophy
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
 * [Real News](http://www.realnews24.com/socrates-was-one-of-the-smartest-people-who-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read/) - some Socrates quotes worth the reading
-* [Daniel Miessler](https://danielmiessler.com/blog/is-it-wrong-to-have-children/) - Is It Wrong to Have Children? 
+* [Daniel Miessler](https://danielmiessler.com/blog/is-it-wrong-to-have-children/) - Is It Wrong to Have Children?
 * [Muriel Lefevre](http://m.levif.be/actualite/international/stanislav-petrov-l-homme-qui-sauva-le-monde-en-ne-faisant-rien/article-normal-725163.html) - [FR] :fr: Stanislav Petrov, l'homme qui sauva le monde en ne faisant rien
 * [Farnam Street](https://www.fs.blog/2014/09/mistakes/) - (2014) Mistakes — It’s not the Failures that Define us so Much as How We Respond to Them
 * [Shan](https://shansvex.wordpress.com/2015/09/06/things-i-hated-about-being-a-renter-for-15-years/) - (2015) Things I hated About Being a Renter for 15 years
@@ -2722,7 +2743,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [SHTF Plan](http://www.shtfplan.com/) - When the Shit Hits The Fan, you had be warned
 * [Survival Life](https://survivallife.com/) - Emergency Preparedness | Survival Skills | Survival Gear Reviews
 * [Preparedness Community](http://topprepperwebsites.com/) - Top Prepper Sites
-* [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos) - Primitive Technology youtube channel :  Making primitive huts and tools from scratch using only natural materials in the wild 
+* [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos) - Primitive Technology youtube channel :  Making primitive huts and tools from scratch using only natural materials in the wild
 * [/r/PrimitiveTechnology](https://www.reddit.com/r/PrimitiveTechnology/) - discussions about primitive technology subject and official youtube channel
 * [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
 
@@ -2731,38 +2752,38 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Walker Harrison](https://dev.to/walker/the-search-for-self-how-to-obtain-and-analyze-your-history-of-google-searches) - The Search for Self: How to obtain and analyze your history of Google searches
 * [/r/encryption](https://www.reddit.com/r/encryption/) - everything about encryption on reddit
 * [/r/privacy](https://www.reddit.com/r/privacy/) - everything about privacy on reddit
-* [Fried](https://fried.com/privacy/) - introduction guide to online privacy. a bit outdated on some advices 
+* [Fried](https://fried.com/privacy/) - introduction guide to online privacy. a bit outdated on some advices
 * :star: [**Privacy tools**](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
 * [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
 * [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
-* :star: [**/r/selfhosted/**](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted 
+* :star: [**/r/selfhosted/**](https://www.reddit.com/r/selfhosted/) - alternatives to popular online services that can be self hosted
 * :star: [**Kickball/awesome-selfhosted**](https://github.com/Kickball/awesome-selfhosted) - list of Free Software network services and web applications which can be hosted locally
 * [Selfhosted on Slack](https://selfhosted.herokuapp.com/) - community for everything about self-hosted web apps and related technologies
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/) - a directory of direct links to delete your account from web services
 * [Just Delete Me](http://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Fake identity generator
-* [Tails](https://tails.boum.org/index.en.html) - Tails is a live system that aims to preserve your privacy and anonymity 
+* [Tails](https://tails.boum.org/index.en.html) - Tails is a live system that aims to preserve your privacy and anonymity
 * [ProtonMail](https://protonmail.com/) - an friendly secure email service with built-in e2e encryption and state of the art security features. Based in Switzerland
 * [Ernesto Van der Sar](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/) - Which VPN Services Keep You Anonymous in 2017?
 * [Golden Frog](https://www.goldenfrog.com/blog/myths-about-vpn-logging-and-anonymity) - I Am Anonymous When I Use a VPN – 10 Myths Debunked
-* [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted 
+* [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted
 * [Panopticlick](https://panopticlick.eff.org) - Test : Is your browser safe against tracking?
 * [Am I unique](https://amiunique.org/fp) - Test : are you unique ? (what your fingerprint reveals about you)
 * :star: [**Air Mail**](http://en.getairmail.com/) - temporary email service
-* [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy 
+* [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy
 * [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
 * [DuckDuckGo](https://spreadprivacy.com/privacy-tips/home) - Fix Tracking : how to stop getting tracked on desktop and mobile
 * [Google](https://www.google.com/safetycenter/everyone/start/) - Google' guide : How to keep your stuff secure and private
 * [That One Privacy Guy](https://thatoneprivacysite.net/) - That One Privacy Site : a resource for those who value their privacy, with amazing comparisons of existing [VPN](https://thatoneprivacysite.net/simple-vpn-comparison-chart/) / [Emails](https://thatoneprivacysite.net/simple-email-comparison-chart/) services
-* [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions 
+* [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions
 * [Steven J. Vaughan-Nichols](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/) - How to secure Windows 10: The paranoid's guide
 * [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
 * [Reset The Net](https://pack.resetthenet.org/) - Privacy Pack : applications for your phone and computer
 * [Martin Brinkmann](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) - The ultimate Online Privacy Test Resource List
-* [cafai](https://shaarli.cafai.fr/?7WCMIg) - Tor best practices | Privacy in Digital Era 
+* [cafai](https://shaarli.cafai.fr/?7WCMIg) - Tor best practices | Privacy in Digital Era
 * [Le Monde.fr](http://www.lemonde.fr/technologies/article/2013/12/16/nsa-un-juge-americain-estime-la-collecte-de-donnees-contraire-a-la-constitution_4335463_651865.html) - [FR] :fr: (2013) NSA : un juge américain estime la collecte de données contraire à la Constitution
-* [unv.is](https://unv.is/) - Just put unv.is/ in front of http:// when sharing clickbait articles, unv.is will capture the content of an article or blog post without passing on your visit as a pageview. 
+* [unv.is](https://unv.is/) - Just put unv.is/ in front of http:// when sharing clickbait articles, unv.is will capture the content of an article or blog post without passing on your visit as a pageview.
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the Internet.
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
@@ -2771,7 +2792,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
-* [Christian Stewart](https://blog.searchencrypt.com/privacy/privacy-browser-extensions/) - (2017) Favorite Browser Extensions for Privacy 
+* [Christian Stewart](https://blog.searchencrypt.com/privacy/privacy-browser-extensions/) - (2017) Favorite Browser Extensions for Privacy
 * [The Battle for Net Neutrality](https://www.battleforthenet.com/) - The Internet is under attack. But we can still win.
 * [Georg Szalai](https://www.hollywoodreporter.com/news/google-chairman-eric-schmidt-internet-765989) - (2015) Google Chairman Eric Schmidt: "The Internet Will Disappear"
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
@@ -2796,10 +2817,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/flow-requires-focus-not-time) - Flow Requires Focus, Not Time
 * :star: [**The Minds Journal**](https://themindsjournal.com/japanese-technique-overcoming-laziness/) - A Japanese Technique for Overcoming Laziness / Kaizen, Or The One-Minute Principle
 * :star: [**Foundr**](https://foundrmag.com/analog-methods-for-getting-things-done-superpower-your-productivity-with-pen-and-paper/) - GTD : Superpower Your Productivity With Pen and Paper
-* [Dr. Travis Bradberry](http://www.huffingtonpost.com/dr-travis-bradberry/11-tweaks-to-your-morning_b_8965072.html) - 11 Tweaks to Your Morning Routine 
+* [Dr. Travis Bradberry](http://www.huffingtonpost.com/dr-travis-bradberry/11-tweaks-to-your-morning_b_8965072.html) - 11 Tweaks to Your Morning Routine
 * [Gojko Adzic](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - (2012) Splitting user stories -- the hamburger method
 * [Jeff Haden](https://www.linkedin.com/pulse/10-steps-make-each-day-incredibly-productive-jeff-haden) - 10 Steps to Make Each Day Exceptionally Productive
-* [alphagov/govdesign](https://github.com/alphagov/govdesign) - Lot of useful posters to print 
+* [alphagov/govdesign](https://github.com/alphagov/govdesign) - Lot of useful posters to print
 * [Edouard-Malo HENRY](https://www.linkedin.com/pulse/moving-from-how-why-company-edouard-malo-henry) - Moving from a "how" to a "why" company
 * [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
 * [Wall-Skills](http://wall-skills.com/) - Great 1-pagers to share in your company
@@ -2817,7 +2838,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vikas Kumar Yadav/awesome-list-of-productive-websites](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
 * :star: [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
-* [Hackaday](http://hackaday.com/) - fresh hacks every day 
+* [Hackaday](http://hackaday.com/) - fresh hacks every day
 * [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
 * [Mattias Geniar](https://ma.ttias.be/why-do-we-automate/) - Why do we automate?
 * [Bullet Journal](http://bulletjournal.com/) - a simple system to improve your productivity using only paper
@@ -2832,10 +2853,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
 * [Justyna Ilczuk](http://tinystruggles.com/2014/11/30/maker-productivity-101.html) - Maker Productivity 101
 * [Nathan Kontny](https://m.signalvnoise.com/speed-reading-2ff843053cc6) - Speed Reading tips
-* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux 
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
 * [James Clear](http://jamesclear.com/ivy-lee) - The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity
 * [Stack Exchange](https://productivity.stackexchange.com/) - Personal Productivity Stack Exchange
-* [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips 
+* [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips
 * [Daniel Miessler](https://danielmiessler.com/blog/high-productivity/) - The Secret to High Productivity
 * [Daniel Miessler](https://danielmiessler.com/blog/on-giving-advice-to-friends/) - On Giving Advice to Friends
 * [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
@@ -2843,16 +2864,16 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] :fr: Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
 * [Morgangeek blog](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] :fr: La sélection naturelle de contenus
 * [Mike Davidson](https://twitter.com/iok/status/497749033918558209/photo/1) - [IMG] Wisdom : A prototype is worth a thousand meetings
-* [Jeff Atwood](https://blog.codinghorror.com/because-reading-is-fundamental-2/) - (2014) Because Reading is Fundamental / spend less time talking and more time reading 
+* [Jeff Atwood](https://blog.codinghorror.com/because-reading-is-fundamental-2/) - (2014) Because Reading is Fundamental / spend less time talking and more time reading
 * [Mike Veerman](https://medium.com/@mikeveerman/simple-is-the-opposite-of-easy-56d585f95039) - Simple is the opposite of easy
 * [Luis Mizutani](https://www.thoughtworks.com/insights/blog/slicing-your-development-work-multi-layer-cake) - Slicing your development work as a multi-layer cake
 * [Shubhro Saha](http://www.shubhro.com/2017/09/15/two-sentences-better-meetings/) - Two sentences for better meetings
-* [Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U) - (2012) [Video] Scaling Yourself / productivity for professionals 
+* [Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U) - (2012) [Video] Scaling Yourself / productivity for professionals
 * [Ken Krogue](http://todolist.twoodo.com/caa9602ecff5455d9d9a9933b2564685/A-Checklist-For-Great-Presentations-(-By-Ken-Krogue-)) - A Checklist For Great Presentations
 * [d2s/knowledge](https://github.com/d2s/knowledge/tree/master/productivity) - curated list of resources about productivity
-* [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic 
+* [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic
 * [MetEdge](https://twitter.com/GlenGilmore/status/539042747190358016) - [IMG] Successful vs Unsuccessful People
-* [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection! 
+* [Robert Ecker](https://team-coder.com/give-up-perfection/) - (2017) Give Up Perfection!
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/08/03/stay-focused/) - (2017) Staying focused: it’s not just your environment
 * [Agnès Crepet](https://superyesmore.com/dont-say-that-you-dont-have-enough-time-d7ead9497abf1b458f5be14bd33b6c11) - (2017) Don't say that you don't have enough time
 * [Nathan Kontny](https://m.signalvnoise.com/how-do-you-focus-cbc3d6d78463) - (2017) How Do You Focus? Especially when you have a lot to do
@@ -2878,7 +2899,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John Cutler](https://hackernoon.com/faster-faster-faster-231c7b3d088d) - (2017) Faster. Faster. Faster.
 * [Amy Blais](https://about.mattermost.com/devops/27-things-enterprises-can-learn-startups-increase-productivity/) - (2017) 27 things enterprises can learn from startups to increase productivity
 * [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
-* [Morgan Housel](http://www.collaborativefund.com/blog/simple-business-models-that-work/) - (2017) The Best Simple Business Models 
+* [Morgan Housel](http://www.collaborativefund.com/blog/simple-business-models-that-work/) - (2017) The Best Simple Business Models
 > The three best business models: Make boring things exciting. Make complicated things simple. Make intimidating things painless.
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
 * [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
@@ -2894,21 +2915,21 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tim Ottinger](https://www.industriallogic.com/blog/real-work-workshops/) - (2017) Make People Awesome through Real Work
 * [Tim Ottinger](https://www.industriallogic.com/blog/over-starting-and-under-finishing/) - (2015) Over-Starting and Under-Finishing | Too Much Starting?
 * [Ward Cunningham](http://wiki.c2.com/?AnalyzingXpWithOptionsPricing) - (2014) Analyzing Xp With Options Pricing | in XP, you should consider the Option to abandon, option to switch, option to defer investment and take advantage of possible future opportunity
-* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-what-the-hell-effect.php) - (2011) The What-The-Hell Effect | Goal-setting can be a handy way of improving performance, except when we fall foul of a nasty little side-effect. 
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-what-the-hell-effect.php) - (2011) The What-The-Hell Effect | Goal-setting can be a handy way of improving performance, except when we fall foul of a nasty little side-effect.
 > the what-the-hell effect can be avoided by having longer-term goals and transforming inhibitional goals into acquisitional goals. e.g : Procrastinators can forget about their idling and concentrate on producing a certain amount of work each day
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/10/why-you-should-keep-your-goals-secret.php) - (2011) Why You Should Keep Your Goals Secret | Making a public commitment to your goals reduces motivation. the next time you read this widespread advice about publicly committing to a personal goal, ignore it.
 * [Tisha x](http://www.behindtheschmile.com/silent-successes-stop-sharing-your-goals/) - (2017) Silent Successes: Stop Sharing Your Goals!
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2008/11/getting-big-projects-done-balancing.php) - (2008) Getting Big Projects Done: Balancing Task-Focus with Goal-Focus | keep the ultimate goal in mind, focus to succeeding on the individual task, ...
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/01/how-to-commit-to-a-goal.php) - (2011) How to Commit to a Goal | Reality check (Indulge, Dwell, Contrast)
 > People have a natural tendency to avoid decisions, preferring to stay in a fantasy land where the chance of failure is zero.
-* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/09/how-to-avoid-being-distracted-from-your-goals.php) - (2011) How to Avoid Being Distracted From Your Goals | Specific plans free the mind 
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/09/how-to-avoid-being-distracted-from-your-goals.php) - (2011) How to Avoid Being Distracted From Your Goals | Specific plans free the mind
 > Making plans helps free up mental space for whatever we are doing right now, allowing us to be more efficient in the long term.
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2009/01/how-to-avoid-procrastination-think.php) - (2009) How to Avoid Procrastination: Think Concrete | focus on task's details and use self-imposed deadlines. While working on it : keep the ultimate, abstract goal in mind. When it's hard, stay focused on details, when it get easier : choose a more abstract, goal focus
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
-* [Thomas Frank](https://collegeinfogeek.com/feynman-technique/) - (2017)  How to Use the Feynman Technique to Learn Faster (With Examples) 
+* [Thomas Frank](https://collegeinfogeek.com/feynman-technique/) - (2017)  How to Use the Feynman Technique to Learn Faster (With Examples)
 
 > Learn
-* [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases 
+* [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
 * [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the Hacker News community's favorite content
 * [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
@@ -2965,21 +2986,21 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
-* :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists 
+* :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [Alexander Bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [Adam Pritchard/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown Cheatsheet
 * [CommonMark](http://commonmark.org/help/) - syntax reference for CommonMark, a rationalized version of Markdown syntax
 * [CommonMark](http://spec.commonmark.org/dingus/) - Try CommonMark / CommonMark Demo
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
-* [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move 
+* [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move
 * [Fost Plus](https://www.fostplus.be/en/all-about-sorting/sort-your-packaging) - Together good sorting, better recycling : Enter your packaging below and find out whether it belongs to. [French version](https://www.fostplus.be/fr/trier-recycler/tout-sur-le-tri/triez-votre-emballage)
 * [PortForward](http://screenshots.portforward.com/) - Router Screenshots Listed by Manufacturer
 * [IANA](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) - Service Name and Transport Protocol Port Number Registry
 * [IANA](https://www.iana.org/domains/root/db) - Root Zone Database
 * [PortForward](https://portforward.com/ports.htm) - Port Forwarding Ports List
 * [MorganGeek](https://gist.github.com/MorganGeek/70a89f69271e73b4d6fd491eb8c3b134) - Inbox by Google search tricks
-* [Robert Zak](https://www.maketecheasier.com/chrome-flags-better-browsing-experience/) - some useful chrome flags for a better UX in Google Chrome 
+* [Robert Zak](https://www.maketecheasier.com/chrome-flags-better-browsing-experience/) - some useful chrome flags for a better UX in Google Chrome
 * [Karrar Haider](https://www.maketecheasier.com/offline-mode-google-chrome/) - Use chrome flags to enable offline mode in Google Chrome
 * [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
 * [Summaread](http://www.summaread.com/) - Millions of articles summarized daily
@@ -2987,9 +3008,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 * [Popurls](http://popurls.com/) - Mother of news aggregators - aggregate news from most popular internet front pages
 * [Twoogle](https://twoogle.info/?q=) - Search tweets in realtime
-* :star: [**Linguee**](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web 
+* :star: [**Linguee**](http://www.linguee.com/) - online dictionary + search engine for translated sentences from the world wide web
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
-* [dswd/zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution 
+* [dswd/zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] :fr: resiliate your affiliation to all kinds of products and services
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
@@ -3000,7 +3021,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
 * [Stéphane le calme](https://www.developpez.com/actu/77483/Des-retards-dans-les-delais-de-livraison-d-un-projet-Oui-mais-a-qui-la-faute-Une-etude-en-recherche-la-cause/) - (2014) [FR] :fr: Des retards dans les délais de livraison d'un projet ? Oui, mais à qui la faute ?
 * [dupeGuru](https://www.hardcoded.net/dupeguru/) - is a tool to find duplicate files on your computer.
-* [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts 
+* [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts
 * [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
 * [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
 * [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
@@ -3014,7 +3035,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Savvy Time](https://savvytime.com/converter/et-to-cet) - ET to CET Converter | Convert hours and time in different locations
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
 * [Ciro S. Costa](https://ops.tips/blog/publishing-a-blog-with-aws/) - (2018) How to publish a blog using AWS
-* [ACM Queue](https://queue.acm.org/) - studies on Software, DevOps, Computing Machinery ... 
+* [ACM Queue](https://queue.acm.org/) - studies on Software, DevOps, Computing Machinery ...
 * [Jerome Kehrli](https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles) - (2017) Periodic Table of Agile Principles and Practices
 * [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
 * [Culture Codes](https://tettra.co/culture-codes/handbooks/) - Employee Handbox Examples | A collection of company handbooks, employee manuals, and more from real companies.
@@ -3042,7 +3063,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Methods & Tools Editor Blog](http://blog.martinig.ch/) - Software Development Ideas + [links](http://blog.martinig.ch/category/links/)
 * [Zach Holman's Blog](https://zachholman.com/) - Blog of Zach Holman, Founder of During, previously at GitHub and Gild.
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
-* [O'Reilly Media](https://www.oreilly.com/ideas) - Ideas | What's on the radar 
+* [O'Reilly Media](https://www.oreilly.com/ideas) - Ideas | What's on the radar
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
 * [Itamar Turner-Trauring Blog](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
@@ -3054,9 +3075,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Industrial Logic Blog](https://www.industriallogic.com/blog/) - leveraging safety wisdom in workspace from manufacturing, psychology, culture change and Agile and Lean developmen
 
 > Learn
-* [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange 
+* [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange
 * [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
-* [Hack Reactor](http://www.hackreactor.com/blog/infographic-laurie-voss-things-everyone-knows-except-you) - Infographic of productivity tips for developers, to share with your teammates 
+* [Hack Reactor](http://www.hackreactor.com/blog/infographic-laurie-voss-things-everyone-knows-except-you) - Infographic of productivity tips for developers, to share with your teammates
 * [javarevisited](http://javarevisited.blogspot.be/2015/08/how-to-become-better-interviewer-programming.html) - 11 Tips to become a better Interviewer?
 * [10 C99 tricks](https://blog.noctua-software.com/c-tricks.html)
 * [Java Performance Tuning](http://www.javaperformancetuning.com/) - regular tips and news about java performance tuning
@@ -3075,12 +3096,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gregg Caines](http://caines.ca/blog/2017/06/04/so-you-want-to-be-a-more-senior-engineer/) - (2017) So You Want to Be a More Senior Engineer?
 * [Andrew Wulf](http://thecodist.com/article/your_progress_as_a_programmer_is_all_up_to_you) - Your Progress As A Programmer Is All Up To You
 * [Justyna Ilczuk](http://tinystruggles.com/2014/05/13/leveling-up-as-a-software-developer.html) - Leveling up as a software developer
-* [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016? 
+* [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016?
 * [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
 * :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [StackShare](https://stackshare.io/trending/tools) - trending tools, find which tools other companies are using
 * [StackShare](https://stackshare.io/trending/stacks) - trending technology stacks, find which stacks others companies are using
-* [GitHub Explore](https://github.com/explore) - Project showcases, discover interesting repositories 
+* [GitHub Explore](https://github.com/explore) - Project showcases, discover interesting repositories
 * [GitHub Trending](https://github.com/trending) - Explore trending projects in GitHub community
 * [GitHub Showcases](https://github.com/showcases) - Open source showcases, explore popular repositories
 * :star: [**Hugo Matilla**](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
@@ -3106,7 +3127,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Zazzle](https://www.zazzle.com/software+developer+stickers) - Software Developer Stickers
 * [Redbubble](https://www.redbubble.com/shop/developer+stickers) - Moooaaar developer stickers
 * [Adam Williamson](https://www.happyassassin.net/2016/11/04/i-dont-like-computers/) - I don't like computers : touching testimonial... because sometimes, we also feel that the web loses us
-* [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices 
+* [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices
 * [Lars Kappert](https://webpro.github.io/programming-principles/) - Categorized overview of Programming Principles. [Sources](https://github.com/webpro/programming-principles)
 * [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 * [DigitalOcean](https://www.digitalocean.com/community/tutorials) - development and sysadmin tutorials.
@@ -3172,10 +3193,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Erik Helin and Adam Renberg](http://littleosbook.github.io/#a-simple-read-only-file-system) - [Book] The little book about OS development
 * [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
 * [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language | TOML aims to be a minimal configuration file format that's easy to read due to obvious semantics.
-* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
+* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks.
 * [onaclov2000/PassionateProgrammer](https://github.com/onaclov2000/PassionateProgrammer) - a list of the tips from the book "Passionate Programmer"
 * [sfrapoport/daily-pragmatic-tip](https://github.com/sfrapoport/daily-pragmatic-tip/blob/master/pragmaticprogrammer.txt) - notes from book "Pragmatic Programmer"
-* [AdesisNetlife/coder-bible](https://github.com/AdesisNetlife/coder-bible) - Thoughts and resources to be a pragmatic programmer 
+* [AdesisNetlife/coder-bible](https://github.com/AdesisNetlife/coder-bible) - Thoughts and resources to be a pragmatic programmer
 * [jbelmont/pragmatic-programmer-and-clean-code](https://github.com/jbelmont/pragmatic-programmer-and-clean-code) - principles from Pragmatic Programmer and Clean Code books
 * [braydie/PragProgTips](https://github.com/braydie/PragProgTips/blob/master/index.html) - some tips from pragmatic programmer book
 * [benas/awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship) - A curated list of awesome software craftsmanship resources
@@ -3187,14 +3208,14 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jon Cairns](https://medium.com/techspiration-ideas-making-it-happen/communication-how-to-be-a-better-software-developer-869c50767701) - Communication: how to be a better software developer
 * [GitLogs](http://www.gitlogs.com/resource-guides) - definitive list of top resources of GitHub
 * [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
-* [Carl Hembrough](https://dev.to/carlhembrough/programming-used-to-be-fun) - (2017)  When programming was no longer fun | another story about impostor syndrome 
+* [Carl Hembrough](https://dev.to/carlhembrough/programming-used-to-be-fun) - (2017)  When programming was no longer fun | another story about impostor syndrome
 * [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
 * [Ezekiel Buchheit](https://www.codementor.io/ezekielbuchheit/no-i-have-no-side-code-projects-to-show-you-cz1tyhgdz) - (2017) No, I have no side code projects to show you
 * [Ganeshwara Herawan Hananda](https://medium.com/@lolski/career-tips-for-young-software-engineers-21f7422ac95e) - (2017) 7 Tips On How To Become A Competent Software Engineer
 * [Shane Fast](https://medium.com/paper-engineering/what-a-kids-cartoon-taught-me-about-software-7cbd3bf45c6a) - (2017) What a kid’s cartoon taught me about software
-* [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
+* [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design
 * [Phil Johnson](https://www.itworld.com/article/2876179/csi-computer-science-your-coding-style-can-give-you-away.html) - (2015) CSI Computer Science: Your coding style can give you away
-* :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
+* :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
 * [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
 * [Wikipedia](https://en.m.wikipedia.org/wiki/List_of_programming_languages_by_type) - List of programming languages by type
@@ -3203,8 +3224,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2010-03-20-code-reading-as-a-team-activity.html) - (2010) Code Reading as a Team Activity
 * [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
-* [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - lists of interview questions. 
-* [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP 
+* [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - lists of interview questions.
+* [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP
 * [Joël Spolsky](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) - (2006) A Field Guide to Developers : what they’re looking for, what they like and dislike in a workplace, and what it’s going to take to be a top choice for top developers.
 * [Joël Spolsky](https://www.joelonsoftware.com/2007/11/16/how-to-demo-software/) - (2007) How to demo software
 * [Adrian Colyer](https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/) - (2017) Analyzing software requirements errors in safety-critical embedded systems
@@ -3224,7 +3245,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [pktzero](https://pktzero.wordpress.com/2015/01/11/reactive-programming-by-example/) - (2015) Reactive programming by example
 * [André Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - (2014) The introduction to Reactive Programming you've been missing
 * [Ben Putano](https://stackify.com/software-development-trends-2018/) - (2017) 5 Software Development Trends for 2018: Developers Needed
-* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving 
+* [Bob Reselman](http://devopsagenda.techtarget.com/opinion/Why-the-promise-of-low-code-software-platforms-is-deceiving) - (2018) Why the promise of low-code software platforms is deceiving
 > Low-code/no-code platforms mean anyone can code, right? Wrong. This is a dangerous thought for enterprises.
 * [Nathan Coulter (Poor Yorick)](http://wiki.tcl.tk/8602) - (2018) Tips for writing quality software. **Archive** : [Web archive](https://web.archive.org/web/20170630183457/http://wiki.tcl.tk:80/8602)
 * [Kevin London](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) - (2015) Code Review Best Practices
@@ -3232,7 +3253,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [MyBroadband](https://mybroadband.co.za/news/smartphones/246583-how-programmers-learn-to-code.html) - (2018) How programmers learn to code | What programmers want
 * [Fagner Martins Brack (fagnerbrack)](https://hackernoon.com/the-angry-programmer-52a93bfcbc3c) - (2016) The Angry Programmer | How an engineer can be competent and incompetent at the same time
 * [Devoxx Belgium](https://devoxx.be/2017/11/the-top-100-rated-devoxx-belgium-2017-talks/) - The Top-100 rated Devoxx Belgium 2017 talks
-* [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary 
+* [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
 * [Antonio Bello](https://www.raywenderlich.com/120612/freelance-software-development) - (2016) Freelance Software Development: Is It For You?
 * [Antonio Bello](https://www.raywenderlich.com/122835/freelance-software-development-tips) - (2016) Freelance Software Development Tips
@@ -3256,7 +3277,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jim Bird](http://swreflections.blogspot.be/2014/08/feature-toggles-are-one-of-worst-kinds.html) - (2014) Feature Toggles are one of the worst kinds of Technical Debt
 * [Jez Humble](https://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/) - (2011) Make Large Scale Changes Incrementally with Branch By Abstraction
 * [Paul Hammant](https://paulhammant.com/blog/branch_by_abstraction.html) - (2007) Introducing Branch By Abstraction
-* [Trunk Based Development](https://trunkbaseddevelopment.com/) - all the related facts, rationale and techniques for Trunk-Based Development 
+* [Trunk Based Development](https://trunkbaseddevelopment.com/) - all the related facts, rationale and techniques for Trunk-Based Development
 * [Martin Fowler](https://martinfowler.com/bliki/FeatureBranch.html) - (2009) FeatureBranch | and dangers of feature branching
 * [Martin Fowler](https://martinfowler.com/bliki/FeatureToggle.html) - (2010) FeatureToggle | feature toggles as an alternative to evil feature branching
 * [Fernando Rubbo  ](https://fernandorubbo.blogspot.be/2013/03/feature-toggles-good-or-bad.html) - (2013) Feature toggles: good or bad
@@ -3276,7 +3297,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tom MacWright](https://macwright.org/2018/02/08/advice-to-the-newish-programmer.html) - (2018) Advice to the newish programmer
 * [GitHub](https://github.com/showcases/great-for-new-contributors) - Great for new contributors | What open source projects can I contribute to?
 * [Keon Kim](https://keon.io/computer-scientists-trivia/) - Computer Scientist's Trivia | for programmers to understand how long a certain operation takes in and out of a computer.
-* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. 
+* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 * [Increment Staff](https://increment.com/development/what-its-like-to-be-a-developer-at/) - (2017) What it’s like to be a developer at …
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/01/19/specialist-vs-generalist/) - (2017) Why you should have the skills of a generalist, but market yourself as a specialist
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
@@ -3329,9 +3350,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication:
 * [Joshua Kerievsky](http://www.industriallogic.com/wp-content/uploads/2005/09/StopOverEngineering.pdf) - [PDF] (2002) Stop Over-Engineering!
 * [panic](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g2230a66ea4_136_9) - gallery of programmer interfaces (UIs)
-* [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming 
+* [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming
 * [Andrew Turley](https://gist.github.com/aturley/49b60c98306d90ffc2f981515827b005) - Important Considerations about Pony programming language, based on [this tweet](https://twitter.com/casio_juarez/status/898706225642086400)
-* [Pony Docs](https://tutorial.ponylang.org/) - Introduction Tutorial about [Pony](https://www.ponylang.org/) : an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language. 
+* [Pony Docs](https://tutorial.ponylang.org/) - Introduction Tutorial about [Pony](https://www.ponylang.org/) : an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 * [Simon Brown](http://www.codingthearchitecture.com/2018/02/09/todays_software_developers_are_the_ivory_tower_architects_of_tomorrow.html) - (2018) Today's software developers are the ivory tower architects of tomorrow
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer  
 > A lot of people (especially entrepreneurs) are so obsessed with how fast they will become successful that they will sacrifice their mental health in order to constantly push themselves.
@@ -3398,7 +3419,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * :star: [**Andrew Yurisich/unmaintainable-code**](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code. **Bonus** : [Original article by Roedy Green / Canadian Minds](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
 * [Salvatore Gentile/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
-* [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) 
+* [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 * [mcandre/linters](https://github.com/mcandre/linters) - list of linters and introduction to static code analysis
 * :star: [**mre/Awesome Static analysis**](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
 * [mre/Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
@@ -3422,7 +3443,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [sharipov-ru/all-coding-style-guides](https://github.com/sharipov-ru/all-coding-style-guides) - (2015) All coding style guides in one right place
 * [Josh Reichardt](https://thepracticalsysadmin.com/lint-your-dockerfiles-with-hadolint/) - Lint your Dockerfiles with Hadolint
 * [Vivek Gite](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
-* [Douglas Crockford](https://twitter.com/EPoberezkin/status/525209820555907072/photo/1) - (2014) [IMG] Good parts of JavaScript reconsidered 
+* [Douglas Crockford](https://twitter.com/EPoberezkin/status/525209820555907072/photo/1) - (2014) [IMG] Good parts of JavaScript reconsidered
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [Venkat Subramaniam](https://twitter.com/venkat_s/statuses/521625754485157889) - "Poor quality code is a reflection of lack of respect we carry for what we do, often with out realizing it."
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/musings-on-refactoring-as-waste) - (2014) Musings on Refactoring as Waste
@@ -3445,7 +3466,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kartik Agaram](http://akkartik.name/post/versioning) - (2017) The cargo cult of versioning
 * [joelparkerhenderson/versioning](https://github.com/joelparkerhenderson/versioning) - notes and summary of article "The cargo cult of versioning"
 * [Marc Eaddy](https://testing.googleblog.com/2017/11/obsessed-with-primitives.html) - (2017) Code Health: Obsessed With Primitives?
-* [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession 
+* [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession
 * [Dori Reuveni and Kevin Bourrillion](https://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html) - (2017) Code Health: To Comment or Not to Comment?
 * [Shane Fast](https://medium.com/paper-engineering/what-a-kids-cartoon-taught-me-about-software-7cbd3bf45c6a) - (2017) What a kid’s cartoon taught me about software
 * [Carlos Leon](https://container-solutions.com/tagging-docker-images-the-right-way/) - (2017) Semantic versioning and Tagging Docker images the right way
@@ -3483,8 +3504,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Brian Geihsler](http://qualityisspeed.blogspot.be/2014/09/beyond-solid-dependency-elimination.html) - (2014) Beyond SOLID: The Dependency Elimination Principle
 * [Anthony Williams](https://www.justsoftwaresolutions.co.uk/design/duplication.html) - (2013) Duplication in Software
 * [Shan](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/) - (2013) Being a Slow Programmer
-* [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." 
-* [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design 
+* [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down."
+* [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design
 * [Alvaro Videla](http://alvaro-videla.com/2014/09/a-programmers-role.html) - (2014) A Programmer's Role, about what clean code was like in 1967 **Bonus** : (1967) [PDF] Original publication [What Programmer Does](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf)
 * [Steve McConnell](http://stevemcconnell.com/articles/teach-programming-principles-not-tools-and-tips/) - (1996) Teach Programming Principles, Not “Tools and Tips”
 * [Steve McConnell](http://stevemcconnell.com/articles/why-you-should-use-routines-routinely/) - (1998) Why You Should Use Routines, Routinely
@@ -3505,11 +3526,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/25/the-01x-programmer/) - (2016) From 10x programmer to 0.1x programmer: creating more with less
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/11/07/no-such-thing-as-bad-code/) - (2017) There’s no such thing as bad code
 * [Shaun Finglas](https://blog.shaunfinglas.co.uk/2015/09/waste-write-less-code.html) - (2015) Waste: Write Less Code
-* [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by 
+* [Dan North](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) - [Slides] (2016) Why Every Element of SOLID is Wrong by
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2016/11/30/abbreviations-are-your-false-friend/) - (2016) Abbreviations are your (false) friend!
 * [Thomas Figg (tef)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) - (2016) Write code that is easy to delete, not easy to extend.
 * [Jakub Holý](https://theholyjava.wordpress.com/2011/02/14/clean-code-four-simple-design-rules/) - (2011) Clean Code: Four Simple Design Rules – Obligatory Read
-* [Dimitris Staikos](http://www.commonsense4commonpeople.net/2008/11/the-code-is-the-documentation.html) - (2008) The code is THE documentation | why the code is not the documentation 
+* [Dimitris Staikos](http://www.commonsense4commonpeople.net/2008/11/the-code-is-the-documentation.html) - (2008) The code is THE documentation | why the code is not the documentation
 * [Jakub Holy](https://theholyjava.wordpress.com/code-quality/) - Code (And Design) Quality And Why Should We Care
 * [Jakub Holy](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
 * [Steven A. Lowe](https://techbeacon.com/program-faster-all-time-best-tips-pros) - Code faster: 53 tips from the pros
@@ -3522,7 +3543,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Software Engineering Tips](http://www.yacoset.com/Home/programming-tips) - (2010) Programming Tips
 * [Ronald Jeffries](https://www.ronjeffries.com/articles/017-08ff/clean-code/) - (2017) Clean Code: A Learning
 * [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
-* [Jason McCreary](https://dev.to/gonedark/another-month-of-clean-code-4gig) -  (2017) Another month of clean code 
+* [Jason McCreary](https://dev.to/gonedark/another-month-of-clean-code-4gig) -  (2017) Another month of clean code
 * [Brian Barto](https://medium.com/@bartobri/applying-the-linus-tarvolds-good-taste-coding-requirement-99749f37684a) - (2016) Applying the Linus Torvalds “Good Taste” Coding Requirement
 * [Michal Charemza](https://charemza.name/blog/posts/programming/smells/say-no-to-more-optional-arguments/) - (2016) Say no to more optional arguments | example in Python
 * [Ravi Shankar Rajan](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6) - (2018) How to Make Your Code CLEAN and BEAUTIFUL
@@ -3531,8 +3552,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Fagner Brack](https://medium.com/@fagnerbrack/why-small-modules-matter-4e4d629321b8) - (2016) Why Small Modules Matter | Big projects are what, if not the composition of small pieces
 * [Industrial Logic](http://www.industriallogic.com/wp-content/uploads/2005/09/smellstorefactorings.pdf) - [PDF] (2005) Smells to Refactorings Quick Reference Guide
 * [Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f) - (2018) Code Review Best Practices
+* [Joshua Kerievsky](https://www.industriallogic.com/blog/sufficient-design/) - (2010) Sufficient Design
+> we need high design quality for stuff that is critical to our products and less design quality for stuff that isn't critical.
+* [Joshua Kerievsky](https://www.industriallogic.com/blog/whats-wrong-with-clean-code/) - (2010) What’s Wrong With Clean Code? | When Cleaning Is Not Enough
+> Clean frequently and remodel occasionally to produce an excellent design.
 
-## Conferences 
+## Conferences
 > In Belgium
 * [FOSDEM](https://fosdem.org/) - free event for developers of free and open source software to meet, share and collaborate. **Bonus** : [Videos on YouTube](https://www.youtube.com/user/fosdemtalks/videos)
 * [Configuration Management Camp](http://cfgmgmtcamp.eu/) - event for users of Open Source Configuration Management tools
@@ -3560,12 +3585,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
-* [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring 
+* [Liquibase](http://www.liquibase.org/) - a tool to safely manage database migration / refactoring
 * [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md) - curated list of awesome MySQL software, libraries and resources
 * [Brian Peasland](http://www.peasland.net/2016/10/19/slash-or-no-slash/) - Slash or no Slash in SQL scripts ?
 * [Kenneth Truyers](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/) - Git as a NoSql database
 * [Geoff Wozniak](http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql)  - (2014) What ORMs have taught me: just learn SQL
-* [Matt Butcher](https://dzone.com/articles/nosql-no-more) - (2014) NoSQL No More / NoSQL is not a silver bullet 
+* [Matt Butcher](https://dzone.com/articles/nosql-no-more) - (2014) NoSQL No More / NoSQL is not a silver bullet
 * [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
 * [Lukas Eder](https://blog.jooq.org/2017/01/12/a-probably-incomplete-comprehensive-guide-to-the-many-different-ways-to-join-tables-in-sql/) - (2017) A Probably Incomplete, Comprehensive Guide to the Many Different Ways to JOIN Tables in SQL
 * [Lukas Eder](https://blog.jooq.org/2017/09/28/10-cool-sql-optimisations-that-do-not-depend-on-the-cost-model/) - (2017) 10 Cool SQL Optimisations That do not Depend on the Cost Model
@@ -3592,7 +3617,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
 * [Mark Isaacson](http://maintainablecode.logdown.com/posts/245425-valgrind-is-not-a-leak-checker) - (2014) Valgrind is *NOT* a leak checker
-* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
+* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks.
 * [stanislaw/awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - resources about programming practices for writing safety-critical software.
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/25/howto-keeping-temporary-ansible-scripts/) - (2016) [Howto] Keeping temporary Ansible scripts
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
@@ -3607,14 +3632,14 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
 
 ## Elixir
-* [David Schmitz](https://www.slideshare.net/koenighotze/elixir-easy-fun-for-busy-developers-devoxx-2016) - [Slides] (2016) Elixir - Easy fun for busy developers | Elixir combines Ruby's love for programmers with the absolute power that is the Erlang platform. 
+* [David Schmitz](https://www.slideshare.net/koenighotze/elixir-easy-fun-for-busy-developers-devoxx-2016) - [Slides] (2016) Elixir - Easy fun for busy developers | Elixir combines Ruby's love for programmers with the absolute power that is the Erlang platform.
 
 ## Erlang
 > News
 * [This Week In Erlang](https://gootik.github.io/this-week-in-erlang/) - Weekly review of things that happen in the Erlang world
 
 > Learn
-* [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang 
+* [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang
 * [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [PropEr Testing](http://propertesting.com/) - Fred Hébert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) - [Book] Online book. Reading this tutorial should be one of your first steps in learning Erlang
@@ -3626,7 +3651,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 ## Gamedev
 > News & Communities
 * [GameDev](https://www.gamedev.net/) - game development articles
-* [Stack Exchange](https://gamedev.stackexchange.com/) - Q&A & discussions about Game development 
+* [Stack Exchange](https://gamedev.stackexchange.com/) - Q&A & discussions about Game development
 * [/r/gamedev](https://www.reddit.com/r/gamedev/) - everything about game development on reddit
 * [Indiedevhour on Slack](https://slack.pirrate.me/) - Community of Indie game developers and hobbyists
 * [Indie Game Developers on Slack](https://indie-game-devs-slack.herokuapp.com/) - Independent game developers group
@@ -3691,7 +3716,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/git-submodules-workflows-tips#tip5) - Git submodules: core concept, workflows, and tips
 * [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) - Mastering Git submodules
 * [Git-SCM Docs](https://git-scm.com/book/en/v2/Git-Tools-Submodules) - Submodules documentation
-* :star: [**git-tips**](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks 
+* :star: [**git-tips**](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks
 * [Lars Vogel](http://www.vogella.com/tutorials/Git/article.html) - Git - Tutorial
 * [Pere Orga](https://orga.cat/posts/most-useful-git-commands) - The most useful git commands
 * [Christophe Porteneuve](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa) - Getting solid at Git rebase vs. merge
@@ -3704,7 +3729,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Buddy Reno](https://buddyreno.me/removing-git-commits-from-master-34d0efe931c6) - Removing Git Commits From Master (Safely)
 * [Buddy Reno](https://medium.freecodecamp.com/git-please-a182f28efeb5) - Git Please: how to force push without being a jerk
 * [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-reset-commit-alchemy-ba3a83bdfddc) - Mastering Git Reset: Commit Alchemy
-* [Alex Blewitt](http://alblue.bandlem.com/2011/05/git-tip-of-week-reflogs.html) - Git Tip of the Week: Reflogs. The same blog contains a [lot of git tips](http://alblue.bandlem.com/Tag/git/) 
+* [Alex Blewitt](http://alblue.bandlem.com/2011/05/git-tip-of-week-reflogs.html) - Git Tip of the Week: Reflogs. The same blog contains a [lot of git tips](http://alblue.bandlem.com/Tag/git/)
 * [Markus Wein](http://nuclearsquid.com/writings/subtree-merging-and-you/) - Subtree merging and you
 * [Markus Wein](http://nuclearsquid.com/writings/git-new-workdir/) - git-new-workdir
 * [Ryan Hodson](https://web.archive.org/web/20161121145327/http://rypress.com/tutorials/git/tips-and-tricks) - [Cached] Tips & Tricks (Ry’s Git Tutorial)
@@ -3742,7 +3767,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Amit Agarwal](https://www.labnol.org/internet/github-gist-tutorial/28499/) - What You Can Do With Gists on Github?
 * [Oli Young](https://gist.github.com/oliyoung/91a829ea21550a7a7d9469220a7c2f73) - shared .gitconfig with some useful Git aliases
 * [agis/Git Style Guide](https://github.com/agis/git-style-guide) - inspired by [How to Get Your Change Into the Linux Kernel](https://kernel.org/doc/html/latest/process/submitting-patches.html), the [git man pages](http://git-scm.com/doc) and various practices popular among the community.
-* [Sönke Sothmann](https://blog.oio.de/2013/05/08/how-to-rollback-changes-with-git/) - How to rollback changes with Git 
+* [Sönke Sothmann](https://blog.oio.de/2013/05/08/how-to-rollback-changes-with-git/) - How to rollback changes with Git
 * [Atlassian Docs](https://www.atlassian.com/git/tutorials/undoing-changes) - Tutorials : Undoing Changes with git checkout / revert / reset / clean
 * [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - JIRA ID in Git Commit Messages
 * [Delicious Insights](https://delicious-insights.com/fr/articles/git-subtrees/) - [FR] :fr: Comprendre et maîtriser les subtrees Git
@@ -3755,9 +3780,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * [Stef Walter](http://stef.thewalter.net/git-coverage-useful-code-coverage.html) - (2012) git-coverage: Useful code coverage
 * [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
-* [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of add-ons that extend/enhance the git CLI. 
+* [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of add-ons that extend/enhance the git CLI.
 * [Roger Dudler](https://rogerdudler.github.io/git-guide/) - git - the simple guide | just a simple guide for getting started with git. no deep shit ;)
-* [Daniel Doubrovkine](http://code.dblock.org/2015/08/31/getting-out-of-your-first-git-mess.html) - (2015)  Getting Out of Your First Git Mess 
+* [Daniel Doubrovkine](http://code.dblock.org/2015/08/31/getting-out-of-your-first-git-mess.html) - (2015)  Getting Out of Your First Git Mess
 * [GitHub](https://github.com/topics) - Topics on GitHub
 * [Jon Cairns](http://blog.joncairns.com/2015/09/use-git-to-comment-your-code/) - (2015) Use git to comment your code (and stop writing rubbish commit messages, please)
 * [Jason Chen](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 45 Github Issues Dos and Don’ts
@@ -3815,7 +3840,7 @@ Raw
 * [The Go Playground](https://play.golang.org/) - Useful for code snippet validation
 * [Golang](https://golang.org/src/) - Golang source code, useful for learning
 * [Go Docs](https://golang.org/pkg/) - Package list and documentation
-* [Go Docs](https://golang.org/pkg/crypto/) - Package crypto 
+* [Go Docs](https://golang.org/pkg/crypto/) - Package crypto
 * [Andrew Gerrand](https://talks.golang.org/2012/10things.slide#1) - (2012) 10 things you (probably) don't know about Go
 * [Gophers on Slack](https://gophersinvite.herokuapp.com/) - Group to discuss Go language
 * [Avelino/awesome-go](https://github.com/avelino/awesome-go) - curated list of awesome Go frameworks, libraries and software. See also [awesome-go.com](https://awesome-go.com/)
@@ -3852,7 +3877,7 @@ Raw
 * [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A Gopher's Reading List : a reading list of blog posts about Go.
 * [Alex Dzyoba](https://alex.dzyoba.com/blog/go-prometheus-service/) - (2018) Instrumenting a Go service for Prometheus
 
-## Groovy 
+## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
 * [Hubert Klein Ikkink](http://mrhaki.blogspot.be/2009/11/groovy-goodness-working-with-lines-in.html) - Groovy Goodness: Working with Lines in Strings
 * [Tess Thyer](https://coderwall.com/p/nswp1q/calling-other-processes-from-groovy) - Calling Other Processes From Groovy
@@ -3867,12 +3892,12 @@ Raw
 
 ## Haskell
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
-* [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell 
+* [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Java
 > News
-* [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers 
+* [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers
 * [Java mon amour](http://www.javamonamour.org/) - Blog about Java, Weblogic, OSB, Linux etc
 * [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
 
@@ -3928,7 +3953,7 @@ Raw
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
 * [Derek Greer](http://aspiringcraftsman.com/2016/08/30/exploring-typescript/) - (2016) Exploring TypeScript
 * [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Gremlins.js : JS monkey testing library that tests webapp robustness through random user actions
-* [Douglas Crockford](https://twitter.com/EPoberezkin/status/525209820555907072/photo/1) - (2014) [IMG] Good parts of JavaScript reconsidered 
+* [Douglas Crockford](https://twitter.com/EPoberezkin/status/525209820555907072/photo/1) - (2014) [IMG] Good parts of JavaScript reconsidered
 * [Stoyan Stefanov](http://www.phpied.com/files/location-location/location-location.html) - 535 ways to reload the page with JavaScript
 * [Keith Cirkel](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - (2014) Why we should stop using Grunt & Gulp
 * [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape : embeddable Javascript engine with a focus on portability and compact footprint
@@ -3949,7 +3974,7 @@ Raw
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
-* [Alex Ott](http://alexott.net/en/fp/books/#sec12) - books review on Lisp 
+* [Alex Ott](http://alexott.net/en/fp/books/#sec12) - books review on Lisp
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## Machine Learning
@@ -3988,11 +4013,11 @@ Raw
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/04/become-a-better-developer-with-an-efficient-technical-watch/) - Become a better developer with an efficient technical watch
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
 * [Dwijadas Dey](https://linoxide.com/linux-how-to/search-tools-developers-linux/) - 6 Tools to Search Source Code for Developers in Linux
-* :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists 
+* :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [Gregg Caines](http://caines.ca/blog/2015/06/14/were-in-the-stone-age-of-software-engineering-management/) - (2015) We're in the Stone Age of Software Engineering Management
 * [Gregg Caines](http://caines.ca/blog/2011/09/14/yoagile-the-good-parts/) - (2011) Agile: The Good Parts
 * [Evan Hahn](https://evanhahn.com/atom-apm-install-list/) - Install a list of Atom packages from a file
-* [Habitica](https://habitica.com/static/front) - improve your habits by making a game of your life 
+* [Habitica](https://habitica.com/static/front) - improve your habits by making a game of your life
 * [jamb0ss/awesome-ambient-noises](https://github.com/jamb0ss/awesome-ambient-noises) - A curated list of awesome ambient noises for listening while programming
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
@@ -4040,12 +4065,12 @@ Raw
 * [Artem Stepanenko](https://medium.freecodecamp.org/5-steps-to-become-a-better-stack-overflow-user-4ce85711c0f9) - How to become a better Stack Overflow user in five simple steps
 * [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
 * [Awesome Repos](https://awesomerepos.com/) -  the top of awesome repositories
-* [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc. 
+* [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/saneworkweek/) - (2017) The Programmer’s Guide to a Sane Workweek
 * [Recalll](https://recalll.co/) - search engine for programmers, to search programming queries from sites such as stackoverflow
 * [dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
 * [Hemanth HM](https://functional.works-hub.com/blog/Functional-Programming-Jargon) - Functional Programming Jargon
-* [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands 
+* [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands
 * [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 * [Super User StackExchange](https://superuser.com/questions/988185/how-to-avoid-being-asked-enter-passphrase-for-key-when-im-doing-ssh-operatio) - git : avoid being asked “Enter passphrase for key ” when I'm doing ssh operation on a remote host
 * [Philippe Bourgau](http://philippe.bourgau.net/13-tricks-for-successful-side-projects/) - (2017) 13 Tricks for Successful Side Projects
@@ -4077,7 +4102,7 @@ Raw
 * [Andy Zaidman](https://azaidman.wordpress.com/2015/01/19/old-habits-die-hard-why-refactoring-for-understandability-does-not-give-immediate-benefits/) - (2015) Old Habits Die Hard: Why Refactoring for Understandability Does Not Give Immediate Benefits
 * [Paul Johnston](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - (2017) Serverless is about Automation, not Functions
 * [Emily Yu](https://hackernoon.com/how-i-coded-everyday-for-365-days-67ebb5fc7ae) - (2018) How I Coded Everyday for 365 Days
-* [Chris Harris](https://medium.com/@otduet/yearly-lessons-learnt-by-a-freelance-developer-concerned-with-holistic-productivity-a84fdba685b) - (2018) Yearly lessons learnt by a freelance developer concerned with holistic productivity. 
+* [Chris Harris](https://medium.com/@otduet/yearly-lessons-learnt-by-a-freelance-developer-concerned-with-holistic-productivity-a84fdba685b) - (2018) Yearly lessons learnt by a freelance developer concerned with holistic productivity.
 * [Matt Fletcher](https://spin.atomicobject.com/2018/01/22/archive-software-project/) - (2018) Today’s Code Is Tomorrow’s Legacy Project – Make It Easy to Resurrect
 * [Safia Abdalla](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases) - (2018) Tips for reading new codebases
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
@@ -4087,7 +4112,7 @@ Raw
 * [Steve McConnell](http://stevemcconnell.com/articles/classic-mistakes/) - (1996) Classic Mistakes
 * [Gregg Caines](http://caines.ca/blog/2015/03/08/reclaiming-value-from-bugs-and-outages/) - (2015) Reclaiming Value From Bugs and Outages: Thoughts on Post-Mortems
 * [Lemi Orhan Ergin](https://fr.slideshare.net/lemiorhan/waste-driven-development-xp-days-ukraine-2017) - (2017) [Slides] Fighting with Waste Driven Development : Lean Thinking. **Bonus** : [Video](https://www.youtube.com/watch?v=Iw3I_nALH6s)
-* :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management 
+* :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management
 * [Maxime Thirouin](https://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - :fr: [FR] (2013) Automatisez votre workflow front-end
 * [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
 * [Markus Harrer](https://www.feststelltaste.de/session-summary-devops-camp-compact-2017/) - (2017) What prevents you from doing software development effectively?”
@@ -4154,6 +4179,13 @@ Raw
 > we don't take breaks because we are tired, we take breaks so that we are never tired.
 * [Bill Wake](https://www.industriallogic.com/blog/multiple-asserts-are-ok/) - (2015) Multiple Asserts Are OK | Some people suggest we should restrict ourselves to a single assertion per test. Are multiple asserts in a test ever OK?
 * [Joshua Kerievsky](http://www.industriallogic.com/wp-content/uploads/2005/09/StopOverEngineering.pdf) - [PDF] (2002) Stop Over-Engineering!
+* [Joshua Kerievsky](https://www.industriallogic.com/blog/sufficient-design/) - (2010) Sufficient Design
+> we need high design quality for stuff that is critical to our products and less design quality for stuff that isn't critical.
+* [Luu Duong](http://www.luuduong.com/archive/2009/03/04/applying-the-quot8020-rulequot-with-the-standish-groups-software-usage.aspx) - (2009) Applying the "80-20 Rule" with The Standish Group’s Statistics on Software Usage | 80% of users only use 20% of features.
+* [Joshua Kerievsky](https://www.industriallogic.com/blog/redefining-done/) - (2010) Redefining Done
+> "A user story is done when the code is fully integrated, all tests pass and the functionality meets the expectations of the story author(s)."
+> The race to get work done, especially to show management that we got work done is far less important than focusing on creating happy, productive users.
+> A story isn't done until it is being used by real users in production and has been validated to be a useful part of a product.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -4161,9 +4193,9 @@ Raw
 * [The Profound Programmer](http://theprofoundprogrammer.com/) - Programming frustrations expressed through profane, beautiful photographs
 * [Programming excuses](http://programmingexcuses.com/) - Excuses for lazy coders
 * [Developer excuses](http://developerexcuses.com/) - Excuses for lazy coders
-* [Aaron Bassett](http://www.codingexcuses.com/) - Excuses for programmers 
+* [Aaron Bassett](http://www.codingexcuses.com/) - Excuses for programmers
 * [Simran Savani](http://blog.taskworld.com/infographic-get-work/) - [IMG] How to Get Out of Doing Work ([Full size](http://editorial.designtaxi.com/editorial-images/NEWS-INFNoWork240715/5.jpg))
-* [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers 
+* [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers
 * [Jeff Atwood](https://blog.codinghorror.com/new-programming-jargon/) - New Programming Jargon
 * [MonkeyUser](http://www.monkeyuser.com/) - software development satire web comic
 * :star: [**The Coding Love**](http://thecodinglove.com/) - the_coding_love(); /* epic gifs for developers */
@@ -4173,7 +4205,7 @@ Raw
 * [Jose Aguinaga](https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6) - What if companies interviewed translators the way they interview coders?
 * [Luís Silva/IdleWork](https://github.com/LudeeD/IdleWork) - IdleWork : Useful scripts to make you look like you're working and also look awesome doing so.
 * [/r/badcode](https://www.reddit.com/r/badcode/) - the most terrible code you can find
-* [/r/shittyprogramming](https://www.reddit.com/r/shittyprogramming/) - like stack overflow, but with trolls only 
+* [/r/shittyprogramming](https://www.reddit.com/r/shittyprogramming/) - like stack overflow, but with trolls only
 * [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
 * [/r/Sysadminhumor](https://www.reddit.com/r/Sysadminhumor/) - for sysadmins with a sense of humor
 * [/r/PBSOD](https://www.reddit.com/r/PBSOD/) - public BSODs, crashes, and other errors
@@ -4183,9 +4215,9 @@ Raw
 * [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
 * [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
 * [/r/ProgrammerReactions](https://www.reddit.com/r/programmerreactions/) - reactions related to Software Development
-* [Life of a Software Engineer](http://lifeofasoftwareengineer.tumblr.com/) - another reactions tumblr related to Software Development
+* :star: [**Life of a Software Engineer**](http://lifeofasoftwareengineer.tumblr.com/) - another reactions tumblr related to Software Development
 * [Passive Aggressive Passwords](http://www.trypap.com/) - The Passive Aggressive Password Machine
-* [turnoff.us](http://turnoff.us/) - geek comic site about developers 
+* [turnoff.us](http://turnoff.us/) - geek comic site about developers
 * [Classic Programmer Paintings](http://classicprogrammerpaintings.com/) - funny tumblr about software engineering as depicted by artists through history
 * [Access Main Computer File](http://accessmaincomputerfile.net/) - a Visual Study of computer GUI in cinema
 * [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
@@ -4194,7 +4226,7 @@ Raw
 * [I Am Devloper](https://twitter.com/iamdevloper) - the funniest developer on twitter
 * [I Am Devloper](https://twitter.com/iamdevloper/statuses/420870754675478528) - Leave Me Alone Driven Development.
 * [I Am Devloper](https://twitter.com/iamdevloper/statuses/429307137601576961) - Things to try when fixing a bug: 1. Google 2. Stack Overflow 3. Documentation ... 8277. Disturb your co-worker who has headphones in
-* [Lauris Beinerts](https://www.youtube.com/watch?v=BKorP55Aqvg) - (2014) [Video] The Expert (Short Comedy Sketch) Funny business meeting illustrating how hard it is for an engineer to fit into the corporate world! 
+* [Lauris Beinerts](https://www.youtube.com/watch?v=BKorP55Aqvg) - (2014) [Video] The Expert (Short Comedy Sketch) Funny business meeting illustrating how hard it is for an engineer to fit into the corporate world!
 * [Est-ce qu’on met un site en production aujourd’hui](https://www.estcequonmetenprodaujourdhui.info/) - ?
 * [Geek&Poke](https://twitter.com/MorganGeek/status/452803771693674497/photo/1) - [IMG] Stacktraces
 * [About Programming](https://twitter.com/abt_programming/statuses/452556061804072960) - Inverse bus factor: "how many developers have to be hit by a bus before a project starts to proceed smoothly?”
@@ -4206,13 +4238,13 @@ Raw
 * [Super User](https://superuser.com/questions/792607/why-does-windows-think-that-my-wireless-keyboard-is-a-toaster) - Why does Windows think that my wireless keyboard is a toaster?
 * [DevHumor](http://devhumor.com/media/programmer-vs-lawyer) - (2014) [IMG] Programmer VS Lawyer
 * [Brian Wisti](https://twitter.com/brianwisti/status/503987766032494592) - You are in a legacy codebase ... what do you do ?
-* [If programmers have make a plane](https://www.youtube.com/watch?v=UZq4sZz56qM) - (2007) [Video] 
+* [If programmers have make a plane](https://www.youtube.com/watch?v=UZq4sZz56qM) - (2007) [Video]
 * [The Oatmeal](http://theoatmeal.com/comics/computers) - Why It's Better To Pretend You Don't Know Anything About Computers
 * [Les joies du code](http://lesjoiesducode.fr) - [FR] :fr: l'instant GIF des développeurs !
 * [Leftover Salad](http://leftoversalad.tumblr.com/post/103503118002) - Difference between Java and JavaScript
 * [Feminist Hacker Barbie](http://computer-engineer-barbie.herokuapp.com/browse) - Comics about Barbie seen as a developer / sysadmin
 * [codecrap](http://codecrap.com/) - worst snippets of code / where developers go to laugh and cry
-* [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books. 
+* [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
 * [Anonymous DevOps Confessions](https://totalcloud.io/DevOpsConfessions.html) - regrets and confessions of DevOps felows
 * [CommitStrip](http://www.commitstrip.com/en/2015/01/23/everyday-types-of-coders/) - (2015) [IMG] Everyday types of coders
 * :star: [**The Daily WTF**](http://thedailywtf.com/) - is your how-not-to guide for developing software. We recount tales of disastrous development, from project management gone spectacularly bad to inexplicable coding choices.
@@ -4252,7 +4284,7 @@ Raw
 * [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE. **Bonus** : git repo [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish)
 * [Markus Triska](https://www.metalevel.at/prolog) - [Book] The Power of Prolog. **Bonus** : git repo [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog)
 * [Markus Triska' Home Page](https://www.metalevel.at/) - some interesting prolog resources
-* [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog 
+* [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog
 * [StackOverflow](https://stackoverflow.com/questions/tagged/prolog) - Prolog tagged questions on StackOverflow
 * [Prolog Site](https://sites.google.com/site/prologsite/prolog-problems) - Prolog Problems : a remake of the P-99: Ninety-Nine Prolog Problems
 * [Learn Prolog Now!](https://devrant.com/feed/) - a free online introductory course to programming in Prolog
@@ -4260,7 +4292,7 @@ Raw
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
 * [Python Software Foundation](https://www.python.org/dev/peps/pep-0008/) - PEP 8 : Style Guide for Python
-* [Valentin Bryukhanov](http://pep8online.com/) - PEP 8 code checker 
+* [Valentin Bryukhanov](http://pep8online.com/) - PEP 8 code checker
 * [OpenStack/python-jenkins](https://github.com/openstack/python-jenkins) - python-jenkins : a python wrapper for the Jenkins REST API
 * [OpenStack/python-jenkins](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
 * [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
@@ -4283,7 +4315,7 @@ Raw
 * [Decompilers online](http://www.javadecompilers.com/apk) - Decompile Apk and Dex Android files to Java
 * [raidzero](https://gist.github.com/raidzero/9378988) - rdump.py : Print all strings from android resources.arsc file
 Raw
-* [OVERSIMPLE](http://oversimple.fr/decompiler-une-application-android-complement/) - [FR] :fr: Désassembler une application Android 
+* [OVERSIMPLE](http://oversimple.fr/decompiler-une-application-android-complement/) - [FR] :fr: Désassembler une application Android
 * [The Android Arsenal](https://android-arsenal.com/tag/175) - android decompilers
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 * [JD Project](http://jd.benow.ca/) - yet another fast java decompiler
@@ -4308,17 +4340,17 @@ Raw
 # Podcasts
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Player FM](https://player.fm/podcasts/Software-Development) - Software Development Podcasts
-* [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers 
+* [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers
 * [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] :fr: [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
 * [RadioKawa](http://www.radiokawa.com/) - [FR] :fr: lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
 * [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] :fr: a couple of tasty podcasts for geeks
-* [Distorsion Podcast](https://distorsionpodcast.com/) - [FR] :fr: Urban legends from our digital world | Des histoires étranges de l'ère numérique 
+* [Distorsion Podcast](https://distorsionpodcast.com/) - [FR] :fr: Urban legends from our digital world | Des histoires étranges de l'ère numérique
 * [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - curated list of likeable podcasts
 * [Stack Overflow Blog](https://stackoverflow.blog/podcasts/) - listen in on what’s new with the world’s largest developer community.
 * [RTBF - La Première](https://www.rtbf.be/lapremiere/podcast) - [FR] :fr: Podcasts de la Première
 * [You Are Not So Smart](https://youarenotsosmart.com/podcast/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can.
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456) - (2017) [FR] :fr: Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Video](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414)
-* [Le Bureau des Mystères](https://soundcloud.com/bureaudesmysteres/special-creepypasta-et-legendes-urbaines-1#t=14:56) - [FR] :fr: creepypasta et légendes urbaines préférées... les mystères de Disneyland 
+* [Le Bureau des Mystères](https://soundcloud.com/bureaudesmysteres/special-creepypasta-et-legendes-urbaines-1#t=14:56) - [FR] :fr: creepypasta et légendes urbaines préférées... les mystères de Disneyland
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - podcast about the people who transform technology from the command line up. Presented by Red Hat.
 * :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices | the rhythm is sometimes slow
 * [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
@@ -4332,7 +4364,7 @@ Raw
 * [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
 * [Armon Dadgar](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) - [Podcast] (2017) SE-Radio Episode 311: Armon Dadgar on Secrets Management
 * [John Sonmez](https://talkpython.fm/episodes/show/71/soft-skills-the-software-developer-s-life-manual) - (2016) Episode #71: Soft Skills: The software developer's life manual
-* [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences 
+* [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences
 
 # Psychology
 > News
@@ -4358,7 +4390,7 @@ Raw
 * [College Match Up](https://www.collegematchup.net/features/best-jobs-for-your-personality-type/) - Best Jobs for Your Personality Type
 * [Business Insider](http://editorial.designtaxi.com/news-infpersonalityjobs080914/2.jpg) - [IMG] The Best Jobs for Every Personality Type
 * [Pinterest](https://www.pinterest.com/pin/302022718737949896/?lp=true) - Art and Pictures about psychology of color
-* [Pinterest](https://www.pinterest.com/pin/210613720052178233/?lp=true) - Art and Pictures about MBTI types. 
+* [Pinterest](https://www.pinterest.com/pin/210613720052178233/?lp=true) - Art and Pictures about MBTI types.
 * [Pinterest](https://www.pinterest.com/pin/121949102387976923/?lp=true) - More Art and Pictures about MBTI Types
 * [Pinterest](https://www.pinterest.com/pin/202802789445614388/?lp=true) - More Art and Pictures about MBTI Types
 * [Pinterest](https://www.pinterest.com/pin/316096467577274221/?lp=true) - Art and Pictures about Zodiac Signs
@@ -4394,7 +4426,7 @@ Raw
 * [Wikipedia](https://en.wikipedia.org/wiki/Zeigarnik_effect) - the Zeigarnik effect states that people remember uncompleted or interrupted tasks better than completed tasks
 * [Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
 * [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
-* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-what-the-hell-effect.php) - (2011) The What-The-Hell Effect | Goal-setting can be a handy way of improving performance, except when we fall foul of a nasty little side-effect. 
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-what-the-hell-effect.php) - (2011) The What-The-Hell Effect | Goal-setting can be a handy way of improving performance, except when we fall foul of a nasty little side-effect.
 > the what-the-hell effect can be avoided by having longer-term goals and transforming inhibitional goals into acquisitional goals. e.g : Procrastinators can forget about their idling and concentrate on producing a certain amount of work each day
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/10/why-you-should-keep-your-goals-secret.php) - (2011) Why You Should Keep Your Goals Secret | Making a public commitment to your goals reduces motivation. the next time you read this widespread advice about publicly committing to a personal goal, ignore it.
 * [Tisha x](http://www.behindtheschmile.com/silent-successes-stop-sharing-your-goals/) - (2017) Silent Successes: Stop Sharing Your Goals!
@@ -4402,14 +4434,15 @@ Raw
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2008/11/getting-big-projects-done-balancing.php) - (2008) Getting Big Projects Done: Balancing Task-Focus with Goal-Focus | keep the ultimate goal in mind, focus to succeeding on the individual task, ...
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/01/how-to-commit-to-a-goal.php) - (2011) How to Commit to a Goal | Reality check (Indulge, Dwell, Contrast)
 > People have a natural tendency to avoid decisions, preferring to stay in a fantasy land where the chance of failure is zero.
-* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/09/how-to-avoid-being-distracted-from-your-goals.php) - (2011) How to Avoid Being Distracted From Your Goals | Specific plans free the mind 
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/09/how-to-avoid-being-distracted-from-your-goals.php) - (2011) How to Avoid Being Distracted From Your Goals | Specific plans free the mind
 > Making plans helps free up mental space for whatever we are doing right now, allowing us to be more efficient in the long term.
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2009/01/how-to-avoid-procrastination-think.php) - (2009) How to Avoid Procrastination: Think Concrete | focus on task's details and use self-imposed deadlines. While working on it : keep the ultimate, abstract goal in mind. When it's hard, stay focused on details, when it get easier : choose a more abstract, goal focus
 * [Positive Psychology Program](https://positivepsychologyprogram.com/dacher-keltner-emotions-in-a-meaningful-life/) - (2016) Dacher Keltner: Emotions in a Meaningful Life
-* [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences 
+* [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 * [Farnam Street](https://www.fs.blog/2012/07/how-to-win-friends-and-influence-people/) - (2012) The Best Summary of Dale Carnegie's How to Win Friends and Influence People
 * [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
+* [Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle) - Hype Cycle : a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -4434,7 +4467,7 @@ Raw
 * [Dave Gershgorn](https://qz.com/1146753/ai-is-now-so-complex-its-creators-cant-trust-why-it-makes-decisions/) - (2017) AI is now so complex its creators can’t trust why it makes decisions
 * [Carol Smith](https://www.slideshare.net/carologic/ai-and-machine-learning-demystified-by-carol-smith-at-midwest-ux-2017/45-AI_and_ML_Demystified_carologic) - (2017) AI and Machine Learning Demystified by Carol Smith at Midwest UX 2017
 * [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
-* [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence. 
+* [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence.
 * [Sarah Cooper](https://thecooperreview.com/how-to-be-seen-as-an-expert-in-artificial-intelligence/) - [Humor] How to Be Seen as an Expert in Artificial Intelligence
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
 * [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - Artificial Intelligence (AI) courses, books, video lectures and papers.
@@ -4467,7 +4500,7 @@ Raw
 * [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - (2014) Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * :star: [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
-* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated 
+* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3015657/linux/changing-how-bash-behaves.html) - Changing how bash behaves
 * [FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting) - Bash tips: Colors and formatting
 * [SS64.com](https://ss64.com/bash/) - An A-Z Index of the Bash command line for Linux.
@@ -4492,7 +4525,7 @@ Raw
 * [Boris Huisgen](https://blog.hbis.fr) - [FR] :fr: various and interesting linux / sysadmin / devops tips & tricks with command line examples
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Matthieu Parisot](http://blog.wescale.fr/2016/04/07/bash-pro-tips/) - [FR] :fr: Bash Pro Tips for logs / errors handling etc.
-* [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] :fr: tips & tricks with command line examples 
+* [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] :fr: tips & tricks with command line examples
 * :star: [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 * [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 * [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
@@ -4507,7 +4540,7 @@ Raw
 * [PowerShell commands](https://ss64.com/ps/) - A-Z of windows powershell commands
 * [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - script to automate tasks on a fresh windows 10 / windows server 2016
 * [PowerShellScripts.com](http://powershellscripts.com/) - some scripts, tutoriels for powershell. Warning : some dead links here
-* [JeffOps](http://jeffwouters.nl/) - The Scripting dutchman : lot of scripts and tips for powershell 
+* [JeffOps](http://jeffwouters.nl/) - The Scripting dutchman : lot of scripts and tips for powershell
 * [PSScriptAnalyzer](https://www.powershellgallery.com/packages/PSScriptAnalyzer/) -  provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
 * [Eric Pement](http://www.pement.org/awk/awk_sed.txt) - (2001) Comparing similar operations with sed and awk
 * [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash + some tips
@@ -4521,14 +4554,14 @@ Raw
 * [Ian Miell](https://github.com/ianmiell/learn-bash-the-hard-way/blob/master/learnbashthehardway.pdf) - [PDF] Learn Bash The Hard Way
 * [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 * [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
-* [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps 
+* [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps
 * [blue.penguin](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/) - Bash scripting tutorial: A coding style guideline
-* [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools 
+* [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - list of Terminal frameworks, plugins & resources for CLI lovers
 * [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
 * [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go. **Bonus** : [website](https://neugram.io)
-* [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands 
+* [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands
 * [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 * [Alan Franzoni](https://www.franzoni.eu/shell-scripting-when-to-use-the-long-or-the-shor/) - (2017) Shell scripting: short or long format options?
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-01-18-mkcd.html) - (2013) use mkcd (mkdir + cd)
@@ -4573,7 +4606,7 @@ Raw
 * [pentestmonkey](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Reverse Shell Cheat Sheet
 * [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - Basic Linux Privilege Escalation
 * [Unhide](http://www.unhide-forensics.info/) - open source forensic tool to find hidden processes
-* [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist 
+* [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist
 * [Jacob Appelbaum/ioerror/duraconf](https://github.com/ioerror/duraconf) - duraconf : A collection of hardened configuration files for SSL/TLS services
 * [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
 * [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
@@ -4607,13 +4640,13 @@ Raw
 * [SSL247](https://www.ssl247.fr/kb/ssl-certificates/generalinformation/what-is-rsa-dsa-ecc) - What is RSA, DSA and ECC?
 * [James McGivern](https://fr.slideshare.net/JamesMcGivern/ecc-vs-rsa-battle-of-the-cryptoninjas) - (Devoxx UK 2014) [Slides] ECC vs RSA: Battle of the Crypto-Ninjas
 * [PortForward](https://portforward.com/router-password/) - The most comprehensive default router password list on the Internet.
-* [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted 
+* [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted
 * [Maarten Billemont](http://masterpasswordapp.com/) - Master Password, a password generator algorithm to remove the need of password managers.
 * [AV-TEST](https://www.av-test.org/en/antivirus/) - Antivirus test results on Mobile devices (Android), Windows, Mac
 * [AV-Comparatives](https://www.av-comparatives.org/) - independent tests of antivirus softwares
 * [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
 * [Jotti](https://virusscan.jotti.org/) - online virus scanner
-* [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions 
+* [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions
 * [DiabloHorn](https://diablohorn.com/2015/09/04/discovering-the-secrets-of-a-pageant-minidump/) - Discovering the secrets of a pageant minidump
 * [Aaron Toponce, Thomas H. Ptacek, ...](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a) - Cryptographic Best practices
 * [Ethical hacking tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
@@ -4623,9 +4656,9 @@ Raw
 * [Ethical Hacking tools](https://pentest-tools.com/home) - online penetration testing tools
 * [Vincent Yiu/RedTips](https://github.com/vysec/RedTips) - Red Team Tips
 * [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
-* [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices 
+* [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices
 * [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
-* [Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos) - [Videos] Introduction to Cryptography 
+* [Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos) - [Videos] Introduction to Cryptography
 * [Shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
 * [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
 * [Johannes Gilger](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/) - SSH Agent Forwarding considered harmful
@@ -4658,7 +4691,7 @@ Raw
 * [Javin Paul](http://javarevisited.blogspot.be/2012/05/best-practices-while-dealing-with.html?m=1) - (2012) Best Practices while dealing with Password in Java
 * [Google](https://www.youtube.com/watch?v=d90Ov6QM1jE) - [Video] How Google Protects Its Corporate Security Perimeter without Firewalls / Very interesting insight into Google's BeyondCorp Zero Trust Network.
 * [Google Security Blog](https://security.googleblog.com/) - latest news and insights from Google on security and safety on the Internet
-* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
+* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist
 * [OWASP](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet) - OWASP Top Ten Cheat Sheet
 * [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
@@ -4666,8 +4699,8 @@ Raw
 * [stribika](https://stribika.github.io/2015/01/04/secure-secure-shell.html) - (2015) Secure Secure Shell
 * [Gert van Dijk](https://blog.g3rt.nl/upgrade-your-ssh-keys.html) - Upgrade your SSH keys!
 * [Asankhaya Sharma](https://www.linkedin.com/pulse/how-can-you-ensure-your-open-source-components-secure-sharma/) - (2016) How can you ensure that your open source components are secure?
-* [Julien Pivotto](https://fr.slideshare.net/roidelapluie/enhance-openssh-for-fun-and-security) - (2015) Enhance OpenSSH for fun and security 
-* [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - A curated list of SSH resources. 
+* [Julien Pivotto](https://fr.slideshare.net/roidelapluie/enhance-openssh-for-fun-and-security) - (2015) Enhance OpenSSH for fun and security
+* [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - A curated list of SSH resources.
 * [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - list of awesome social engineering resources
 * [George Bolo](https://linuxctl.com/2017/03/building-tiny-secure-docker-containers/) - (2017) Building Tiny Secure Docker Containers
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
@@ -4688,7 +4721,7 @@ Raw
 * [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
 * [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Team / Red Teaming Resources
 * [Lesley Carhart](https://tisiphone.net/2017/11/27/the-infosec-introvert-travel-blog/) - (2017) The Infosec Introvert Travel Blog
-* [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service 
+* [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service
 * [National Vulnerability Database (NVD)](https://nvd.nist.gov/) - U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). Enables automation of vulnerability management, security measurement, and compliance.
 * [David Gilbertson](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) - (2018) I’m harvesting credit card numbers and passwords from your site. Here’s how.
 > If an attacker successfully injects any code at all, it’s pretty much game over
@@ -4735,18 +4768,18 @@ Raw
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). Discovered via [Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
 * [Nitin Venkatesh](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - PGP and SSH keys - Generate, export, backup and restore
 * [GnuPG Docs](https://www.gnupg.org/gph/en/manual/book1.html) - (1999) The GNU Privacy Handbook
-* [/r/GnuPG](https://www.reddit.com/r/GnuPG/) - resources on everything about GnuPG, PGP, OpenPGP 
-* [/r/pgp](https://www.reddit.com/r/pgp/) - everything about PGP 
-* [/r/GPGpractice](https://www.reddit.com/r/GPGpractice/) - community of people learning GPG (Gnu Privacy Guard). 
+* [/r/GnuPG](https://www.reddit.com/r/GnuPG/) - resources on everything about GnuPG, PGP, OpenPGP
+* [/r/pgp](https://www.reddit.com/r/pgp/) - everything about PGP
+* [/r/GPGpractice](https://www.reddit.com/r/GPGpractice/) - community of people learning GPG (Gnu Privacy Guard).
 * [Saraev Nikita](https://www.reddit.com/r/GnuPG/comments/47f23m/gnupg_with_32kb_rsa_keys/) - GnuPG with 32kb RSA keys
 
-## OpenSSL 
+## OpenSSL
 * [ZyTrax](http://www.zytrax.com/tech/survival/ssl.html) - Survival guides - TLS/SSL and SSL (X.509) Certificates
 * [LZone](http://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
 * [Remy van Elst](https://raymii.org/s/tutorials/Encrypt_and_decrypt_files_to_public_keys_via_the_OpenSSL_Command_Line.html) - Encrypt and decrypt files to public keys via the OpenSSL Command Line
 * [LinuxConfig](https://linuxconfig.org/using-openssl-to-encrypt-messages-and-files-on-linux) - Using OpenSSL to encrypt messages and files on Linux
 * [Tom Dryer](http://tombuntu.com/index.php/2007/12/12/simple-file-encryption-with-openssl/) - Simple File Encryption with OpenSSL
-* [Stack Overflow](https://stackoverflow.com/a/31552829/2309958) - File encryption with OpenSSL and Why you should use GPG instead 
+* [Stack Overflow](https://stackoverflow.com/a/31552829/2309958) - File encryption with OpenSSL and Why you should use GPG instead
 * [Chandan Kumar](https://geekflare.com/openssl-commands-certificates/) - 21 OpenSSL command examples
 * [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
 * [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
@@ -4755,8 +4788,8 @@ Raw
 * [SSL Shopper](https://www.sslshopper.com/article-most-common-openssl-commands.html) - The Most Common OpenSSL Commands
 * [SSL Shopper](https://www.sslshopper.com/ssl-converter.html) - tools & commands examples for certificates format conversion
 * [Paul Heinlein](https://www.madboa.com/geek/openssl/) - OpenSSL cookbook / command-line howto
-* [Nick Burch](http://gagravarr.org/writing/openssl-certs/others.shtml) - howtos for installing other people's certificates 
-* [Andrej](https://gist.github.com/4ndrej/4547029) - SSLPoke.java for quick validation of Java SSL configuration 
+* [Nick Burch](http://gagravarr.org/writing/openssl-certs/others.shtml) - howtos for installing other people's certificates
+* [Andrej](https://gist.github.com/4ndrej/4547029) - SSLPoke.java for quick validation of Java SSL configuration
 * [SSL Shopper](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html) - java keytool keystore cheatsheet
 * [Brusten Philip & Van der Velpen Jan](https://shib.kuleuven.be/docs/ssl_commands.shtml) - a few frequently used SSL commands (openssl, keytool, certutil)
 * [CheapSSLSecurity](https://cheapsslsecurity.com/blog/various-types-ssl-commands-keytool/) - SSL commands list
@@ -4781,17 +4814,17 @@ Raw
 * [George Bolo](https://linuxctl.com/2016/12/openssl---reference/) - (2016) OpenSSL - Reference
 * [George Bolo](https://linuxctl.com/2017/02/x509-certificate-manual-signature-verification/) - (2017) x509 Certificate Manual Signature Verification
 
-## Web 
+## Web
 * [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
 * [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 * [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger - Block third party tracking in your browser
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
-* [chrome notifications settings](chrome://settings/content/notifications) open `chrome://settings/content/notifications` in Chrome to manage notifications exceptions 
+* [chrome notifications settings](chrome://settings/content/notifications) open `chrome://settings/content/notifications` in Chrome to manage notifications exceptions
 * [Daniel Miessler](https://danielmiessler.com/study/http/) - A Security-focused HTTP Primer
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [Daniel Miessler](https://danielmiessler.com/blog/the-connected-web-why-its-time-for-strong-authentication/) - The Connected Web: Why It’s Time For Strong Authentication
 * [Frédéric Kayser](https://openweb.eu.org/articles/https-de-ssl-a-tls-1-3) - (2017) [FR] :fr: HTTPS : de SSL à TLS 1.3
-* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources. 
+* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources.
 * [chrome site data settings](chrome://settings/siteData) open `chrome://settings/siteData`in Chrome to manage cookies / sites data
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
@@ -4818,10 +4851,10 @@ Raw
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - (2017) [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Podcast](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456)
 * [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
-* [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence. 
+* [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence.
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
 * [Bloomberg](https://www.bloomberg.com/graphics/pessimists-guide-to-2018/) - (2017) The Pessimist's Guide to 2018
-* [Karl Jilg](https://twitter.com/voxdotcom/status/534731895930896384/photo/1) - (2014) [IMG] brilliant illustration shows how much public space we've surrendered to cars 
+* [Karl Jilg](https://twitter.com/voxdotcom/status/534731895930896384/photo/1) - (2014) [IMG] brilliant illustration shows how much public space we've surrendered to cars
 * [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
 * [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
 * [John B. Sparks](http://www.visualcapitalist.com/histomap/) - Histomap: Visualizing the 4,000 Year History of Global Power
@@ -4839,8 +4872,8 @@ Raw
 
 # Testing
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
-* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated 
-* [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing 
+* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated
+* [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing
 * [Joe Colantonio](https://www.joecolantonio.com/2017/03/02/automation-testing/) - (2015) Automation Testing Resources & Best Practices
 * :star: [**Gregg Caines**](http://caines.ca/blog/2015/01/29/continuous-testing/) - (2015) Continuous Testing
 * [Andrew Wulf](http://thecodist.com/article/my_job_as_a_programmer_is_to_make_testers_miserable) - My Job As A Programmer Is To Make Testers Miserable
@@ -4851,7 +4884,7 @@ Raw
 * [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - (2016) Test Driven Infrastructure with Goss
-* [metacloud/molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles. 
+* [metacloud/molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
 * [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - Testing Ansible Roles with Test Kitchen
 * [Daniel Miessler](https://danielmiessler.com/projects/webappsec_testing_resources/) - Web Application Security Testing Resources
@@ -4860,7 +4893,7 @@ Raw
 * [Fabio Pereira](https://www.thoughtworks.com/insights/blog/introducing-software-testing-cupcake-anti-pattern) - (2014) Introducing the Software Testing Cupcake (Anti-Pattern)
 * [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Gremlins.js : JS monkey testing library that tests webapp robustness through random user actions
 * [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam) - Integrated Tests Are A Scam
-* [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." 
+* [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down."
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
 * [volanja/ansible_spec](https://github.com/volanja/ansible_spec) - a ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration (or TDD).
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - (2016) How I test Ansible configuration on 7 different OSes with Docker
@@ -4873,8 +4906,8 @@ Raw
 * [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
 * [James Routley](https://routley.io/tech/2017/07/20/golang-test-fixtures.html) - (2017) Simplify Golang test fixtures with this one weird trick
 * [Nemanja Mijailovic](https://mijailovic.net/2017/07/29/go-fuzz/) - (2017) Going down the rabbit hole with go-fuzz | testing techniques
-* [Principles of Chaos Engineering](http://principlesofchaos.org/) 
-* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources 
+* [Principles of Chaos Engineering](http://principlesofchaos.org/)
+* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources
 * [bats-core/bats-core](https://github.com/bats-core/bats-core) : Bats is a [TAP](https://testanything.org/)-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. **Bonus** : see also the original [sstephenson/bats](https://github.com/sstephenson/bats)
 * [Test Anything Protocol (TAP)](https://testanything.org/) - a simple text-based interface between testing modules in a test harness, with implementations in C, C++, Python, PHP, Perl, Java, JavaScript, and others.
 * [Andy Zaidman](https://azaidman.wordpress.com/2017/05/10/is-testing-on-stackoverflow-dead/) - (2017) Is Testing (on StackOverflow) Dead?
@@ -4892,7 +4925,7 @@ Raw
 * [Robert Ecker](https://dev.to/teamcoder/the-problem-with-high-test-coverage-4dh) - (2017) The Problem With High Test Coverage
 * [PropEr Testing](http://propertesting.com/) - Fred Hébert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
 * [Anna Kennedy](http://annaken.github.io/testing-packer-builds-with-serverspec) - (2017) Testing Packer builds with Serverspec
-* [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight 
+* [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight
 * [Michal Charemza](https://charemza.name/blog/posts/methodologies/testing/questions-to-ask-yourself-when-writing-tests/) - (2018) Questions to ask yourself when writing tests : Talk to yourself to make sure your tests help you achieve your aims
 * [Bill Wake](https://www.industriallogic.com/blog/multiple-asserts-are-ok/) - (2015) Multiple Asserts Are OK | Some people suggest we should restrict ourselves to a single assertion per test. Are multiple asserts in a test ever OK?
 
@@ -4917,7 +4950,7 @@ Raw
 * [SystemRescueCd](http://www.system-rescue-cd.org/) - a Linux system rescue disk available as a bootable CD-ROM or USB stick for fixing your system and data after a crash.
 * [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
 * [Vivek Gite](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
-* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks. 
+* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks.
 * :star: [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
 * [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
 * [Jeff Jones](http://outofmyhead.olssonandjones.com/2017/12/02/wget-cant-execute-ssl_helper/) - (2017) `wget: can't execute 'ssl_helper': No such file or directory wget: error getting response: Connection reset by peer` | error happening in alpine container 3.5.2. **Bonus** : seem to be as design... see [docker-library/busybox/issues/25](https://github.com/docker-library/busybox/issues/25)
@@ -4933,20 +4966,20 @@ Raw
 
 > Learn
 * [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
-* [Little Big Details](http://littlebigdetails.com/) - a curated collection of the finer details of design, updated every day. 
+* [Little Big Details](http://littlebigdetails.com/) - a curated collection of the finer details of design, updated every day.
 * [Christelle Mozzati](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/) - (2013) [FR] :fr: Les dark patterns en design d’interface
 * [Anthony Tseng](http://uxmovement.com/forms/9-small-user-experience-details-most-websites-miss/) - 9 Small User Experience Details Most Websites Miss
 * [Tom Lloyd](https://twitter.com/TomALloyd/status/441601100794585088/photo/1) - A good advice about the CV for Design students
-* [Luke Wroblewski](https://twitter.com/lukew/statuses/455742093839724544) - [IMG] Don't port your desktop UI to mobile. Optimize your UI for mobile. 
+* [Luke Wroblewski](https://twitter.com/lukew/statuses/455742093839724544) - [IMG] Don't port your desktop UI to mobile. Optimize your UI for mobile.
 * [fireurgunz](https://www.youtube.com/watch?v=YdHTlUGN1zw) - (1957) [Video] Disney did use parallax long before web designers, it was called MultiPlane Camera
 * [Keith Clark](http://keithclark.co.uk/articles/pure-css-parallax-websites/) - (2014) Pure CSS Parallax Websites
 * [Rémi Parmentier](http://www.hteumeuleu.fr/attribut-srcset-images-responsive/) - (2014) [FR] :fr: L’attribut srcset pour des images responsive
 * [Zombidev](https://twitter.com/scottdavis99/statuses/524442305764552705) - "The web is just rectangles inside of rectangles..."
-* [Guillaume Gouessan](http://guillaumegouessan.com/talk/move/) - Making things move when you are a front-end developer / good animating advices 
+* [Guillaume Gouessan](http://guillaumegouessan.com/talk/move/) - Making things move when you are a front-end developer / good animating advices
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
 * [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document
-* [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y 
+* [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y
 * [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
 * [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
@@ -4966,9 +4999,11 @@ Raw
 * [Christian Beck](https://medium.com/ux-power-tools/terrible-ux-trends-for-2017-de6faebf099e) - Terrible UX Trends for 2017
 * [Kamal Nayan](http://www.uxcuses.com/) - Designer Excuses, based on [Jon Moore' article on medium](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910)
 * [Bored Elon Musk](https://twitter.com/BoredElonMusk/statuses/412994747632857089) - Modern web design explained in a simple Venn Diagram
-* [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX 
+* [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX
 
 # Web archive / nostalgia
+* :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+
 > Some old links from my first times on the web
 * [Donjon de Naheulbeuk](http://www.penofchaos.com/warham/donjon.htm) - [FR] :fr: Podcast / Les premiers MP3 d'aventure
 * [Combattre-ou-Mourir](http://www.combattre-ou-mourir.com/) - [FR] :fr: CoM était un jeu par navigateur où 3 forces s'affrontent pour obtenir le contrôle de la planète.
@@ -4981,18 +5016,18 @@ Raw
 > Learn
 * [Steve Francia](https://gohugo.io/overview/introduction/) - Hugo is a fast & modern static site generator
 * [Amanda Visconti](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) - Building a static website with Jekyll and GitHub Pages
-* [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with 
-* [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016? 
+* [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
+* [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016?
 * [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
-* [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance 
+* [Google](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights : Analyze a website performance
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
 * [Broken Link Checker](http://www.brokenlinkcheck.com/broken-links.php#status) - Online Dead Link Checking Tool
 * :star: [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
-* [W3C](https://w3c.github.io/developers/tools/) - Various website validation tools 
+* [W3C](https://w3c.github.io/developers/tools/) - Various website validation tools
 * [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
 * [First Site Guide Blog](https://firstsiteguide.com/blog/) - articles, [infographics](https://firstsiteguide.com/category/infographics/), [cheatsheets](https://firstsiteguide.com/category/cheat-sheets/) about site/blog creation
-* [A List Apart](https://alistapart.com/) - explores the design, development, and meaning of web content, with a special focus on web standards and best practices. 
+* [A List Apart](https://alistapart.com/) - explores the design, development, and meaning of web content, with a special focus on web standards and best practices.
 * [r/webdev](https://www.reddit.com/r/webdev/) - web development resources & news
 * [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
 * [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
@@ -5024,9 +5059,9 @@ Raw
 * [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
 * [SEO'Brien](https://seobrien.com/writing-search-optimized-blog-posts) - (2011) Writing Search Optimized Blog Posts
 * [Matias Meno](http://www.colorglare.com/2014/11/24/stateless-html.html) - (2014) Stop writing stateful HTML
-* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist 
+* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist
 * [Una Kravets](http://youmightnotneedjs.com/) - You Might Not Need JavaScript
-* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources. 
+* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources.
 * [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
 * [REDbot](https://redbot.org/?) - checks HTTP resources to see how they'll behave, pointing out common problems and suggesting improvements.
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
@@ -5071,14 +5106,14 @@ Raw
 * [Steven J. Vaughan-Nichols](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/) - How to secure Windows 10: The paranoid's guide
 * [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
 * [babypunchingrampage](https://www.reddit.com/r/sysadmin/comments/4gqq6q/add_chocolatey_repo_to_windows_10/) - Add Chocolatey repo to Windows 10 PackageManagement and install apps using Install-Package!
-* [Jianyunt/ChocolateyGet](https://github.com/Jianyunt/ChocolateyGet) - a good provider of chocolatey packages for OneGet 
+* [Jianyunt/ChocolateyGet](https://github.com/Jianyunt/ChocolateyGet) - a good provider of chocolatey packages for OneGet
 * [MoonPoint](http://support.moonpoint.com/network/proxy/putty/) - Using PuTTY to set up a SOCKS Proxy Connection
 * [MoonPoint](http://support.moonpoint.com/network/proxy/ie10-socks-proxy.php) - Configuring IE 10 to use an SSH SOCKS Proxy Server
 * [Calomel.org](https://calomel.org/samba_optimize.html) - Samba Optimizations and Speed Tuning for Performance
 * [PSScriptAnalyzer](https://www.powershellgallery.com/packages/PSScriptAnalyzer/) -  provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
 * [Pester](https://github.com/pester/Pester) - PowerShell BDD style testing framework
 * [PowerShellScripts.com](http://powershellscripts.com/) - some scripts, tutoriels for powershell. Warning : some dead links here
-* [JeffOps](http://jeffwouters.nl/) - The Scripting dutchman : lot of scripts and tips for powershell 
+* [JeffOps](http://jeffwouters.nl/) - The Scripting dutchman : lot of scripts and tips for powershell
 * [Eric Ravenscraft](http://lifehacker.com/how-to-save-the-windows-10-lock-screen-images-you-like-1768783711) - How to Save the Windows 10 Lock Screen Images You Like
 * [Garrett Serack](https://blogs.technet.microsoft.com/packagemanagement/2015/05/05/10-things-about-oneget-that-are-completely-different-than-you-think/) - 10 things about OneGet that are completely different than you think.
 * [Craig Buckler](https://www.sitepoint.com/outlook-unblock-unsafe-attachments/) - How to Unblock Unsafe Attachments in Microsoft Outlook

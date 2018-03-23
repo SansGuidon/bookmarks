@@ -27,7 +27,7 @@
 * [Viktor Farcic](cd/viktor_farcic_on_continuous_delivery.md) - Jenkins World 2017: The Ten Commandments Of Continuous Delivery
 * do pull requests
 * prioritize
-* finish what you're doing, focus on a small number of tasks in parallel. 
+* finish what you're doing, focus on a small number of tasks in parallel.
 * delegate some work to others if you already have lot of work to achieve, so you have more time to work on what matters for you
 * [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
 * [Daniel Miessler](https://danielmiessler.com/projects/concepts/) - Lot of concepts summarized by Daniel Miessler
@@ -46,13 +46,13 @@
 * [Meir Lehman](https://twitter.com/CodeWisdom/status/921139649661284352) - An evolving system increases its complexity unless work is done to reduce it.
 * [Vala Afshar](https://twitter.com/ValaAfshar/statuses/537441340842582017) - Tell people where you're going and why. Some may volunteer their time and effort to help you get there sooner.
 * [Goethe](https://twitter.com/ValaAfshar/statuses/537084241268727808) - The way you see people is the way you treat them, and the way you treat them is what they become.
-* [Amelia Earhart](https://twitter.com/GlenGilmore/statuses/536974002557042689) - The most effective way to do it, is to do it. ~ Amelia Earhart RT 
+* [Amelia Earhart](https://twitter.com/GlenGilmore/statuses/536974002557042689) - The most effective way to do it, is to do it. ~ Amelia Earhart RT
 * [Vala Afshar](https://twitter.com/ValaAfshar/statuses/536662076924915712) - The best way to achieve mediocrity is by often choosing the path of least resistance.
 * [Roy Osing](https://talentculture.com/11-ways-to-lose-yourself-in-the-crowd/) - Anti principles (Don't do this !) / 11 Ways To Lose Yourself In The Crowd
-* [Martin Fowler](https://twitter.com/abt_programming/statuses/531036428948738048) - When you feel the need to write a comment, first try to refactor the code so that any comment becomes superflouus 
+* [Martin Fowler](https://twitter.com/abt_programming/statuses/531036428948738048) - When you feel the need to write a comment, first try to refactor the code so that any comment becomes superflouus
 * [Craig Zerouni](https://twitter.com/abt_programming/statuses/548978665221267458) - "If you have too many special cases, you are doing it wrong"
 * You learn nothing from life if you think you're right all the time
-* Mark Twain : If you tell the truth, you don't have to remember anything. 
+* Mark Twain : If you tell the truth, you don't have to remember anything.
 * One day, you will be at the place you always wanted to be. Don't stop believing.
 * There is no elevator to success. You have to take the stairs.
 * [Andy Hunt & Dave Thomas](https://twitter.com/nicolopigna/status/921280768697143296) - the original DRY principle : "Every piece of knowledge must have a single, unambiguous, authoritative representation, within a system"
@@ -74,7 +74,7 @@
   * Delete the interfaces : except for Remoting/API client jars and strategy pattern implementation.
   * Names : Make the name speak for itself. Apply Continuous renaming as your learn the application
   * Names : Names should be at least pronounceable. Don't abbreviate ! Unless it's a basic business concept, like VAT
-  * Names : should be consistent and unique (synonyms confuse). 
+  * Names : should be consistent and unique (synonyms confuse).
   * Names should have meaningful context. eg: order.customerFirstName. But don't repeat yourself (DRY) : Order.~~order~~CreationDate
   * Functions should be small : 5-10 lines, ... or at least should be understandable in 5 sec no more.
   * Functions do one thing
@@ -89,13 +89,15 @@
   * Security First : Risks have to be measured by the impact when that happens, not how likely it happens
   * Don’t break stuff : Backward compatibility for the win
   * Don’t merge PRs at late night : Merging PRs at Friday night is a terrible thing to do  
+* [Charity Majors](https://twitter.com/rynchantress/status/778702826578911233) - Don't make production decisions just because you want to learn Go. That's what your Saturdays are for.
+* [Charity Majors](https://twitter.com/mipsytipsy/status/778970572835270656) - experiment on devtools, or in your 20% time, or off hour, NOT IN THE CRITICAL PATH
 
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/450614047608934400) - Productivity : To find a solution, first eliminate the impossible ones. Astuce : Trouver la solution en éliminant d'abord les non solutions.
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/450218285129531392) - Readability / Reusability : If you wan write a 100 lines function, you can also replace it with a dozen more legible functions
 
-## Values I adhere to 
+## Values I adhere to
 * Learn the basics of a language before learning frameworks
 * DRY (Don't Repeat Yourself) is not about code, but about knowledge
 * Refactoring is a development technique, not a project
@@ -111,13 +113,13 @@
 * Take pleasure in simple things
 * Ban negative thoughts
 * Take the time you need, don't go too fast
-* Take risks 
+* Take risks
 * Ask for help when struggling
 * Don't do to others what you don't want done to you
 * Write down your ideas and your Aha moments
-* Share your feelings, don't hide your humanity 
+* Share your feelings, don't hide your humanity
 * Don't let other people decide your future for you
-* Give your word. 
+* Give your word.
 * Say no rather than "I don't know" or "whatever you wish"
 * Doing / saying nothing is already telling something
 * Let go of control / release the need to control
@@ -160,12 +162,12 @@
 
 ## Art of Questions
 * Just ask
-* Explain your misunderstanding 
+* Explain your misunderstanding
 * Explain / state what you know / don't know
 * Sound confident
 * Have a come back
-* Know first which answer type you're expecting : Opinion ? Factually correct answer ? Well reasoned judgment ? 
-* Avoid "yes" or "no" questions 
+* Know first which answer type you're expecting : Opinion ? Factually correct answer ? Well reasoned judgment ?
+* Avoid "yes" or "no" questions
 * Dig deeper (5 Why...)
 * Use the power of silence
 * Don't interrupt
@@ -175,7 +177,7 @@
 * Use correct grammar
 * Keep the question simple
 * Differenciate between open (Why ?) vs closed (when ? who ?) question types
-* Explain why you are asking 
+* Explain why you are asking
 
 ## Art of Communication
 * Never use "never", always avoid "always"
@@ -183,27 +185,27 @@
 * Don't make important decisions alone
 * Don't cut communication, don't go away, don't flee
 * Share your needs, your wills, your tastes / opinions
-* Mutually listen to each other. Know how to listen. Use your right ear for listening (right ear = left brain) 
+* Mutually listen to each other. Know how to listen. Use your right ear for listening (right ear = left brain)
 * Feedback is important : Show interest (nod, smile, ...)
 * Talk about the connection you have with the other person
 * When you communicate a hard decision, don't hide behind emails, talk directly to your audience
 * Use the [SBI tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) (Situation - Behavior - Impact)
-* Assertiveness is ability to say yes to the person, no to the task 
+* Assertiveness is ability to say yes to the person, no to the task
 * Respond rather than react
 * Prepare, verify carefully what you will communicate
 * Check if your message has been heard and understood
-* Expect / Give feedback 
-* Know the 7 C's : Clear Concise Concrete Correct Coherent Complete Courteous 
+* Expect / Give feedback
+* Know the 7 C's : Clear Concise Concrete Correct Coherent Complete Courteous
 * Set the main idea first
 * Focus on your audience
 * Avoid passive constructions
 * Be open minded, don't think you know eveything about your audience
 * Use the body language (physical and visual contact, ...)
-* Stay calm : Wrap up then stop talking. Pause. Repeat. Ask clarification of a statement. Be clear. 
-* Look for humor. 
-* Look for compromise if the other cares about something not important for you 
-* Agree to disagree : take beak so everyone calms down 
+* Stay calm : Wrap up then stop talking. Pause. Repeat. Ask clarification of a statement. Be clear.
+* Look for humor.
+* Look for compromise if the other cares about something not important for you
+* Agree to disagree : take beak so everyone calms down
 * Assert yourself : express (negative) opinions and needs positively. Ask for help. Learn from errors. Accept feedback. Say no
 * Observe rather than interpret. Communicate facts not interpretations
 * Understand people's needs/feelings
-* Use non violent communication 
+* Use non violent communication
