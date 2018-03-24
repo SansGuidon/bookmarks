@@ -2936,6 +2936,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Thomas Frank](https://collegeinfogeek.com/feynman-technique/) - (2017)  How to Use the Feynman Technique to Learn Faster (With Examples)
 * [Xiao Ma](https://medium.com/open-sourced-thoughts/code-life-1a44121290a1) - (2015) Code • Life | We are already doing these things to our code, why not do them to ourselves?
 * [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
+* [coreight](https://coreight.com/content/choses-idiotes-boites-email-messagerie) - (2016) 20 erreurs idiotes que nous faisons tous avec nos boîtes mail
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
