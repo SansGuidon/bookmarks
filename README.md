@@ -1,5 +1,7 @@
 I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world. I'm also on Twitter at [@MorganGeek](https://twitter.com/MorganGeek)
 
+:warning: :squirrel: : As [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729), I advise you to consult this page at https://github.com/MorganGeek/bookmarks/blob/master/README.md
+
 ## Contents
 
 * [Anime](#anime)
