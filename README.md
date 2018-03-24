@@ -2492,6 +2492,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
 * [reddit](https://www.reddit.com/controversial/) - most controversial links
 * [sebsauvage](http://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
+* [Korben's Blog](https://korben.info/) - :fr: [FR] Upgrade your mind
+* [coreight](https://coreight.com/) - :fr: [FR] Le blog d'infos et astuces web; high tech
 
 # Operations / IT OPS
 > News
