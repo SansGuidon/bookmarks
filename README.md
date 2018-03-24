@@ -2937,7 +2937,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Xiao Ma](https://medium.com/open-sourced-thoughts/code-life-1a44121290a1) - (2015) Code • Life | We are already doing these things to our code, why not do them to ourselves?
 * [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
 * [coreight](https://coreight.com/content/choses-idiotes-boites-email-messagerie) - :fr: [FR] (2016) 20 erreurs idiotes que nous faisons tous avec nos boîtes mail
-* [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] 10 fonctions pratiques à utiliser avec les commandes vocales
+* [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
@@ -4486,7 +4486,7 @@ Raw
 * [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
 * [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site for captcha haters
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
-* [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] 10 fonctions pratiques à utiliser avec les commandes vocales
+* [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
