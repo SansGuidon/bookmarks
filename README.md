@@ -230,6 +230,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christelle Mozzati](http://blog.christellemozzati.fr/un-graphiste-pourquoi-cest-cher/) - (2013) [FR] :fr: Un graphiste, pourquoi c’est cher ?
 * [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
 * [Jaime Jasso](https://www.artstation.com/jaime) - gallery of Jaime Jasso, Digital Matte Artist working for the film Industry, fan of sci-fi, Cyberpunk, visual effects in general, matte painting, concept art and compositing. [old gallery on devianart](https://jjasso.deviantart.com/gallery/)
+* [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
 
 # Books
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -1902,7 +1903,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [BGPView](https://bgpview.io/) - allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names.
 * [Where to buy Crypto](https://www.wheretobuycrypto.io/) - Where to buy ... <type any cryptocurrency name here>
 * [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
-
+* [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
+ 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -2743,6 +2745,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
 * [Joe L. Wroten](https://medium.com/@SharpShark28/whats-in-a-photo-e00637e9fc99) - What’s In A Photo?
+* [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
