@@ -3570,6 +3570,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > we need high design quality for stuff that is critical to our products and less design quality for stuff that isn't critical.
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/whats-wrong-with-clean-code/) - (2010) What’s Wrong With Clean Code? | When Cleaning Is Not Enough
 > Clean frequently and remodel occasionally to produce an excellent design.
+* [John Sonmez](https://www.youtube.com/watch?v=o1tDEqHf6_M) - [Video] (2016) Being A Slow Developer... Am I Screwed? | on slow programming, clean code & productivity. Don't rush, do it right, do it clean then do it fast.
 
 ## Conferences
 > In Belgium
@@ -4200,6 +4201,7 @@ Raw
 > "A user story is done when the code is fully integrated, all tests pass and the functionality meets the expectations of the story author(s)."
 > The race to get work done, especially to show management that we got work done is far less important than focusing on creating happy, productive users.
 > A story isn't done until it is being used by real users in production and has been validated to be a useful part of a product.
+* [John Sonmez](https://www.youtube.com/watch?v=o1tDEqHf6_M) - [Video] (2016) Being A Slow Developer... Am I Screwed? | on slow programming, clean code & productivity. Don't rush, do it right, do it clean then do it fast.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
