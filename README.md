@@ -3370,6 +3370,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer  
 > A lot of people (especially entrepreneurs) are so obsessed with how fast they will become successful that they will sacrifice their mental health in order to constantly push themselves.
 * [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
+* [John Sonmez](http://www.se-radio.net/2015/12/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career/) - (2015) SE Radio Episode 245: John Sonmez on Marketing Yourself and Managing Your Career
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4379,6 +4380,7 @@ Raw
 * [John Sonmez](https://talkpython.fm/episodes/show/71/soft-skills-the-software-developer-s-life-manual) - (2016) Episode #71: Soft Skills: The software developer's life manual
 * [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences
 * [Metalcast](http://www.metalcastshow.com/) - :metal: Ultimate metal show
+* [John Sonmez](http://www.se-radio.net/2015/12/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career/) - (2015) SE Radio Episode 245: John Sonmez on Marketing Yourself and Managing Your Career
 
 # Psychology
 > News
