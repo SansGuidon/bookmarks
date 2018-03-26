@@ -2513,6 +2513,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Linda Rosencrance](https://techbeacon.com/best-cloud-it-ops-conferences-2018) - (2018) The best cloud and IT Ops conferences of 2018
 * [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins.
 * [SysAdvent Calendar](https://www.redpill-linpro.com/sysadvent/) - Pre Christmas Tips and Tricks for Sysadmins
+* [IT Landscape for sysadmins](https://sysadmin.it-landscape.info/) - Open source projects aggregator for system administrators.
 
 > Learn
 * [Michael Buckbee](https://blog.varonis.com/definitive-guide-to-dns-ttl-settings/) - Definitive Guide to DNS TTL Settings
