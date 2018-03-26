@@ -620,6 +620,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Wikipedia](https://en.wikipedia.org/wiki/Nonviolent_Communication) - Nonviolent Communication - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
 * [Xiao Ma](https://medium.com/open-sourced-thoughts/code-life-1a44121290a1) - (2015) Code • Life | We are already doing these things to our code, why not do them to ourselves?
 * [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
+* [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3576,6 +3577,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Joshua Kerievsky](https://www.industriallogic.com/blog/whats-wrong-with-clean-code/) - (2010) What’s Wrong With Clean Code? | When Cleaning Is Not Enough
 > Clean frequently and remodel occasionally to produce an excellent design.
 * [John Sonmez](https://www.youtube.com/watch?v=o1tDEqHf6_M) - [Video] (2016) Being A Slow Developer... Am I Screwed? | on slow programming, clean code & productivity. Don't rush, do it right, do it clean then do it fast.
+* [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
 
 ## Conferences
 > In Belgium
@@ -4207,6 +4209,7 @@ Raw
 > The race to get work done, especially to show management that we got work done is far less important than focusing on creating happy, productive users.
 > A story isn't done until it is being used by real users in production and has been validated to be a useful part of a product.
 * [John Sonmez](https://www.youtube.com/watch?v=o1tDEqHf6_M) - [Video] (2016) Being A Slow Developer... Am I Screwed? | on slow programming, clean code & productivity. Don't rush, do it right, do it clean then do it fast.
+* [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
