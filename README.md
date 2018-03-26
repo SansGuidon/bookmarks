@@ -3377,6 +3377,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > A lot of people (especially entrepreneurs) are so obsessed with how fast they will become successful that they will sacrifice their mental health in order to constantly push themselves.
 * [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
 * [John Sonmez](http://www.se-radio.net/2015/12/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career/) - (2015) SE Radio Episode 245: John Sonmez on Marketing Yourself and Managing Your Career
+* [Jeff Atwood](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/) - (2004) Why I'm The Best Programmer In The World* | it's not our job to be better than anyone else; we just need to be better than we were a year ago.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
