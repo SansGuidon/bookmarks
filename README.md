@@ -5186,6 +5186,7 @@ Raw
 * [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
 * [Charles Petzold](http://www.charlespetzold.com/blog/2007/10/081247.html) - (2007) Hard Work, No Pay: What's the Point? | Charles Petzold on writing books, reading books, and exercising the internal UTM
 > Of Course Writing Books is Hard! But that's what makes it fun and rewarding! You really shouldn't try to write a book unless you have a fire in your belly. If you have that fire, then nothing that Jeff Atword or I can say will discourage you.
+* [Scott W. Ambler](http://www.ambysoft.com/books/bookWriting.html) - (2006) How to Write a Technical Book
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
