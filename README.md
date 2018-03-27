@@ -3075,6 +3075,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daichi](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089) - (2017) Boost your productivity using Markdown.
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 * [Carla King](http://mediashift.org/2014/04/indie-publishing-tools-for-small-press-and-author-co-ops/) - (2014) 6 Great Self-Publishing Tools for Small Press and Author Co-Ops
+* [Alex Efros](https://powerman.name/doc/asciidoc) - AsciiDoc cheatsheet
 
 # Programming
 > News
