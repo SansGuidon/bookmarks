@@ -4220,6 +4220,7 @@ Raw
 > A story isn't done until it is being used by real users in production and has been validated to be a useful part of a product.
 * [John Sonmez](https://www.youtube.com/watch?v=o1tDEqHf6_M) - [Video] (2016) Being A Slow Developer... Am I Screwed? | on slow programming, clean code & productivity. Don't rush, do it right, do it clean then do it fast.
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
+* [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -5179,6 +5180,8 @@ Raw
 * [Ben Watson](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/) - (2014) Tips for Writing a Programming Book
 * [Michael Foord](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - (2009) Writing a Technical Book | IronPython in Action with Manning Publications
 * [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
+* [Charles Petzold](http://www.charlespetzold.com/blog/2007/10/081247.html) - (2007) Hard Work, No Pay: What's the Point? | Charles Petzold on writing books, reading books, and exercising the internal UTM
+> Of Course Writing Books is Hard! But that's what makes it fun and rewarding! You really shouldn't try to write a book unless you have a fire in your belly. If you have that fire, then nothing that Jeff Atword or I can say will discourage you.
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
