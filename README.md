@@ -1116,6 +1116,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Greg DeKoenigsberg](https://www.ansible.com/blog/2017-community-year-in-review) - (2018) Take a look back at 2017 with Ansible's community review.
 * [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
 * [Stack Exchange](https://devops.stackexchange.com/questions/98/how-to-test-provisioning-and-configuration-in-ansible-setup) - (2017) How to test provisioning and configuration in Ansible setup? Solutions : Goss, Testinfra, Serverspec, Inspec
+* [/r/devops](https://www.reddit.com/r/devops/comments/629dj3/jenkinsansible_vs_jenkinsansibleansible_tower/) - Jenkins+Ansible vs Jenkins+Ansible+Ansible Tower
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -1492,6 +1493,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [CVE security vulnerabilities](https://www.cvedetails.com/vulnerability-list.php?vendor_id=15865&product_id=34004&version_id=0&page=1&hasexp=0&opdos=0&opec=0&opov=0&opcsrf=0&opgpriv=0&opsqli=0&opxss=0&opdirt=0&opmemc=0&ophttprs=0&opbyp=0&opfileinc=0&opginf=0&cvssscoremin=6&cvssscoremax=0&year=0&month=0&cweid=0&order=1&trc=29&sha=972b519195a324e211440860f0337f2d75a9aad6) - Jenkins : List of security vulnerabilities
 * [Sam Van Oort](https://jenkins.io/blog/2018/02/22/cheetah) - (2018) Project Cheetah - Faster, Leaner Pipeline That Can Keep Up With Demand
 * [ThinBackup](https://plugins.jenkins.io/thinBackup) - This plugin for Jenkins simply backs up the global and job specific configurations (not the archive or the workspace).
+* [/r/devops](https://www.reddit.com/r/devops/comments/629dj3/jenkinsansible_vs_jenkinsansibleansible_tower/) - Jenkins+Ansible vs Jenkins+Ansible+Ansible Tower
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
