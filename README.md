@@ -5173,6 +5173,7 @@ Raw
 * [Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/) - (2018) My Writing Process
 * [Jeff Goins](https://goinswriter.com/how-to-write-a-book/) - (2014) How to Write a Book: The 5-Draft Method
 * [Jeff Goins](https://goinswriter.com/tips-writing-book/) - (2012) 10 Ridiculously Simple Steps for Writing a Book
+* [Ben Watson](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/) - (2014) Tips for Writing a Programming Book
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
