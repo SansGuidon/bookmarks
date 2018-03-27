@@ -1494,6 +1494,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sam Van Oort](https://jenkins.io/blog/2018/02/22/cheetah) - (2018) Project Cheetah - Faster, Leaner Pipeline That Can Keep Up With Demand
 * [ThinBackup](https://plugins.jenkins.io/thinBackup) - This plugin for Jenkins simply backs up the global and job specific configurations (not the archive or the workspace).
 * [/r/devops](https://www.reddit.com/r/devops/comments/629dj3/jenkinsansible_vs_jenkinsansibleansible_tower/) - Jenkins+Ansible vs Jenkins+Ansible+Ansible Tower
+* [MorganGeek](https://gist.github.com/MorganGeek/8b2d12ff3384e69453ede4f70c60bc08) - Jenkins / SSH : split your commands over multiple lines. via [Stack Overflow](https://stackoverflow.com/a/39979449/2309958)
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
