@@ -305,6 +305,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Andrew Hatch](https://medium.com/seek-blog/platform-engineering-why-we-dont-need-a-devops-team-e88c8b97cc4f) - (2017) Why We Don’t Need a DevOps Team | Rename your DevOps Team
 * [Sam Harris](https://medium.com/growth-mindset-podcast/the-hard-thing-about-hard-things-summary-51ea0213e837) - (2017) The Hard Thing About Hard Things — Summary of book
 * [Farnam Street](https://www.fs.blog/2012/07/how-to-win-friends-and-influence-people/) - (2012) The Best Summary of Dale Carnegie's How to Win Friends and Influence People
+* [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/) - (2015) Recommended Reading for Developers
+* [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
 
 # Business & Economics
 > News
@@ -3384,6 +3386,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
 * [John Sonmez](http://www.se-radio.net/2015/12/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career/) - (2015) SE Radio Episode 245: John Sonmez on Marketing Yourself and Managing Your Career
 * [Jeff Atwood](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/) - (2004) Why I'm The Best Programmer In The World* | it's not our job to be better than anyone else; we just need to be better than we were a year ago.
+* [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/) - (2015) Recommended Reading for Developers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -5175,6 +5178,7 @@ Raw
 * [Jeff Goins](https://goinswriter.com/tips-writing-book/) - (2012) 10 Ridiculously Simple Steps for Writing a Book
 * [Ben Watson](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/) - (2014) Tips for Writing a Programming Book
 * [Michael Foord](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - (2009) Writing a Technical Book | IronPython in Action with Manning Publications
+* [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
