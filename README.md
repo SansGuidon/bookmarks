@@ -2066,6 +2066,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer  
 > A lot of people (especially entrepreneurs) are so obsessed with how fast they will become successful that they will sacrifice their mental health in order to constantly push themselves.
 * [Wikipedia](https://en.wikipedia.org/wiki/Nonviolent_Communication) - Nonviolent Communication - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
+* [Jacquelyn Smith](https://www.forbes.com/sites/jacquelynsmith/2012/06/22/how-to-ignore-distractions-at-work/#7e4b56663641) - (2012) How To Ignore Distractions In The Workplace
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -2954,6 +2955,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
 * [coreight](https://coreight.com/content/choses-idiotes-boites-email-messagerie) - :fr: [FR] (2016) 20 erreurs idiotes que nous faisons tous avec nos boîtes mail
 * [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
+* [Jacquelyn Smith](https://www.forbes.com/sites/jacquelynsmith/2012/06/22/how-to-ignore-distractions-at-work/#7e4b56663641) - (2012) How To Ignore Distractions In The Workplace
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
