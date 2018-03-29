@@ -1380,7 +1380,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Shahidh K Muhammed](https://blog.hasura.io/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c) - (2018) The Ultimate Guide to Writing Dockerfiles for Go Web-apps
 * [Daniel Oh](https://opensource.com/article/17/10/10-layers-container-security) - (2017) 10 layers of Linux container security
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - dgoss is a convenience wrapper around goss that aims to bring the simplicity of goss to docker containers.
-
+* [Anthony Lapenna](https://www.youtube.com/watch?v=TY27Np2-qto) - [Video] (2018) Manage your Docker environments easily with Portainer, by Anthony Lapenna (founder of Portainer), at Docker Belgium Meetup
+* [Dieter Adant](https://www.youtube.com/watch?v=BZfKXo6MCRs) - [Video] (2018) How Collibra uses Docker to Encourage Teamwork, at Docker Belgium Meetup
+ 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
