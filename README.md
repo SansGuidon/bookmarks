@@ -3867,6 +3867,7 @@ Raw
 * [Dan Kelch](https://spin.atomicobject.com/2017/12/13/favorite-git-commands/) - (2017) Git Good: Improve Your Version Control Skills
 * [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt) - jokes about git
 * [Boris Serebrov](https://serebrov.github.io/html/2014-01-04-git-revert-multiple-recent-comments.html) - (2014) Git - how to revert multiple recent commits
+* [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -4802,6 +4803,7 @@ Raw
 * [Boris Serebrov](https://serebrov.github.io/html/2018-01-11-aws-ec2-ssh-tunnel.html) - (2018) SSH Tunnels | on AWS, EC2 and SSH tunnels
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 * [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
+* [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -4816,6 +4818,7 @@ Raw
 * [/r/pgp](https://www.reddit.com/r/pgp/) - everything about PGP
 * [/r/GPGpractice](https://www.reddit.com/r/GPGpractice/) - community of people learning GPG (Gnu Privacy Guard).
 * [Saraev Nikita](https://www.reddit.com/r/GnuPG/comments/47f23m/gnupg_with_32kb_rsa_keys/) - GnuPG with 32kb RSA keys
+* [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
 
 ## OpenSSL
 * [ZyTrax](http://www.zytrax.com/tech/survival/ssl.html) - Survival guides - TLS/SSL and SSL (X.509) Certificates
