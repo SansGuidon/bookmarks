@@ -3668,6 +3668,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Brian Vanderwal](https://spin.atomicobject.com/2017/11/28/less-time-debugging/) - (2017) Six Strategies to Spend Less Time Debugging
 * [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
 * [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
+* [Petter Måhlén](https://pettermahlen.com/2011/04/08/if-its-broken-fix-it/) - (2011) If it’s Broken, Fix It
 
 ## Elixir
 * [David Schmitz](https://www.slideshare.net/koenighotze/elixir-easy-fun-for-busy-developers-devoxx-2016) - [Slides] (2016) Elixir - Easy fun for busy developers | Elixir combines Ruby's love for programmers with the absolute power that is the Erlang platform.
@@ -4228,6 +4229,7 @@ Raw
 * [John Sonmez](https://www.youtube.com/watch?v=o1tDEqHf6_M) - [Video] (2016) Being A Slow Developer... Am I Screwed? | on slow programming, clean code & productivity. Don't rush, do it right, do it clean then do it fast.
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
 * [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
+* [Petter Måhlén](https://pettermahlen.com/2011/04/08/if-its-broken-fix-it/) - (2011) If it’s Broken, Fix It
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
