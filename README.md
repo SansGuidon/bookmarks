@@ -219,6 +219,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Clean frequently and remodel occasionally to produce an excellent design.
 * [Kristof Kovacs](https://kkovacs.eu/the-death-star-design-pattern) - The Death Star Design Pattern
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
+* [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -623,6 +624,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Xiao Ma](https://medium.com/open-sourced-thoughts/code-life-1a44121290a1) - (2015) Code • Life | We are already doing these things to our code, why not do them to ourselves?
 * [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
+* [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -4981,6 +4983,7 @@ Raw
 * [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
 * [Stack Exchange](https://devops.stackexchange.com/questions/98/how-to-test-provisioning-and-configuration-in-ansible-setup) - (2017) How to test provisioning and configuration in Ansible setup? Solutions : Goss, Testinfra, Serverspec, Inspec
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - dgoss is a convenience wrapper around goss that aims to bring the simplicity of goss to docker containers.
+* [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
