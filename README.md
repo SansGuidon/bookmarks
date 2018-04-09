@@ -220,6 +220,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kristof Kovacs](https://kkovacs.eu/the-death-star-design-pattern) - The Death Star Design Pattern
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
+* [Graham Lee](https://www.sicpers.info/2018/02/its-about-the-thinking/) - (2018) It’s about the thinking
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -3396,6 +3397,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeff Atwood](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/) - (2004) Why I'm The Best Programmer In The World* | it's not our job to be better than anyone else; we just need to be better than we were a year ago.
 * [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/) - (2015) Recommended Reading for Developers
 * [Graham Lee](https://www.sicpers.info/2018/04/whats-better-than-semver/) - (2018) What’s better than semver?
+* [Graham Lee](https://www.sicpers.info/2018/02/its-about-the-thinking/) - (2018) It’s about the thinking
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
