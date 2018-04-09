@@ -3395,6 +3395,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John Sonmez](http://www.se-radio.net/2015/12/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career/) - (2015) SE Radio Episode 245: John Sonmez on Marketing Yourself and Managing Your Career
 * [Jeff Atwood](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/) - (2004) Why I'm The Best Programmer In The World* | it's not our job to be better than anyone else; we just need to be better than we were a year ago.
 * [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/) - (2015) Recommended Reading for Developers
+* [Graham Lee](https://www.sicpers.info/2018/04/whats-better-than-semver/) - (2018) What’s better than semver?
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
