@@ -418,7 +418,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [GamerZ](https://www.gamerz.be/forum/bitcoin-crypto/) - :fr: [FR] GamerZ discussion forum about Bitcoin / Cryptocurrencies
 * [Anne Gaviola](http://www.cbc.ca/beta/news/business/bitcoin-s-gender-divide-could-be-a-bad-sign-experts-say-1.4458884) - (2018) Bitcoin's gender divide could be a bad sign, experts say
 
-
 # Collaboration & Problem solving
 > News
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -626,6 +625,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
+* [Isaac Asimov](http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm) - (1989) The Relativity of Wrong
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
