@@ -3603,6 +3603,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John Sonmez](https://www.youtube.com/watch?v=o1tDEqHf6_M) - [Video] (2016) Being A Slow Developer... Am I Screwed? | on slow programming, clean code & productivity. Don't rush, do it right, do it clean then do it fast.
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
 * [Jakub Skałecki](https://rock-it.pl/how-to-write-excellent-dockerfiles/) - (2017) How to write excellent Dockerfiles
+* [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 
 ## Conferences
 > In Belgium
@@ -3878,6 +3879,7 @@ Raw
 * [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt) - jokes about git
 * [Boris Serebrov](https://serebrov.github.io/html/2014-01-04-git-revert-multiple-recent-comments.html) - (2014) Git - how to revert multiple recent commits
 * [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
+* [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -4239,6 +4241,7 @@ Raw
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
 * [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
 * [Petter Måhlén](https://pettermahlen.com/2011/04/08/if-its-broken-fix-it/) - (2011) If it’s Broken, Fix It
+* [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -4991,6 +4994,7 @@ Raw
 * [Stack Exchange](https://devops.stackexchange.com/questions/98/how-to-test-provisioning-and-configuration-in-ansible-setup) - (2017) How to test provisioning and configuration in Ansible setup? Solutions : Goss, Testinfra, Serverspec, Inspec
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - dgoss is a convenience wrapper around goss that aims to bring the simplicity of goss to docker containers.
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
+* [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
