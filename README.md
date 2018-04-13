@@ -1124,6 +1124,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Stack Exchange](https://devops.stackexchange.com/questions/98/how-to-test-provisioning-and-configuration-in-ansible-setup) - (2017) How to test provisioning and configuration in Ansible setup? Solutions : Goss, Testinfra, Serverspec, Inspec
 * [/r/devops](https://www.reddit.com/r/devops/comments/629dj3/jenkinsansible_vs_jenkinsansibleansible_tower/) - Jenkins+Ansible vs Jenkins+Ansible+Ansible Tower
 * [Ansible Docs](http://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html#variable-precedence-where-should-i-put-a-variable) - Ansible variable precedence rules
+* [Jakub Skałecki](https://rock-it.pl/managing-multiple-environments-with-ansible-best-practices/) - (2017) Managing multiple environments with Ansible - best practices
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
