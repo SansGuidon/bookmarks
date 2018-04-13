@@ -1392,6 +1392,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
 * [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
+* [Jakub Skałecki](https://rock-it.pl/how-to-write-excellent-dockerfiles/) - (2017) How to write excellent Dockerfiles
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -3601,6 +3602,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Clean frequently and remodel occasionally to produce an excellent design.
 * [John Sonmez](https://www.youtube.com/watch?v=o1tDEqHf6_M) - [Video] (2016) Being A Slow Developer... Am I Screwed? | on slow programming, clean code & productivity. Don't rush, do it right, do it clean then do it fast.
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
+* [Jakub Skałecki](https://rock-it.pl/how-to-write-excellent-dockerfiles/) - (2017) How to write excellent Dockerfiles
 
 ## Conferences
 > In Belgium
