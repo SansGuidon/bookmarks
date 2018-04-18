@@ -3881,6 +3881,7 @@ Raw
 * [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 * [Git How To](https://githowto.com/) - is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
+* [Matthew Brett](https://matthew-brett.github.io/curious-git/index.html) - The curious coder’s guide to git
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
