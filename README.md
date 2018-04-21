@@ -1907,7 +1907,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [WalletGenerator](https://walletgenerator.net/) - Paper Wallet Generator for BitCoins and other cryptocurrencies. Create, Print & Fold
 * [Julia Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) - Research / Investigation tools
 * [Henk van Ess](http://graph.tips/) - Facebook Graph Tools
-* [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter
+* [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
 * [Savvy Time](https://savvytime.com/converter/et-to-cet) - ET to CET Converter | Convert hours and time in different locations
 * [Somacon](https://www.somacon.com/p568.php) - Count Duplicates in a List Online Tool
 * [User Agent String.Com](http://www.useragentstring.com/index.php) - User Agent String explained : Copy/paste any user agent string in this field and click 'Analyze'
