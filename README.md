@@ -1207,6 +1207,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [JC Brand](https://opkode.com/blog/slacks-bait-and-switch/) - (2018) Slack's bait and switch | We all know the real reason Slack has closed off their gateways. Their business model dictates that they should. They're a typical walled garden, information silo or Siren Server
 * [Bill Doerrfeld](https://nordicapis.com/12-frameworks-to-build-chatops-bots/) - (2016) 12+ Frameworks to Build ChatOps Bots
 * [Zulip](https://zulipchat.com/integrations/) - all native integrations for Zulip
+* [Cog Book](http://book.cog.bot/appendices/designing_for_chatops.html) - Designing ChatOps Commands
 
 ## Chef
 * [Nathen Harvey's Talks](https://speakerdeck.com/nathenharvey) - Talks / Slides by Chef's Community Director
