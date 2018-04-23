@@ -1022,6 +1022,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Naresh Jain](https://www.industriallogic.com/blog/impact-of-continuous-integration-on-team-culture/) - (2011) Impact of Continuous Integration on Team Culture
 * [RightScale](https://www.rightscale.com/cloud-comparison-tool/) - Cloud Comparison : Google Cloud Platform vs AWS vs Azure vs IBM Cloud
 * [Balaji Vajjala](http://bvajjala.github.io/projects/cd/continuous-delivery-patterns-and-antipatterns/) - continuous delivery patterns & antipatterns
+* [Cody Boggs](https://sysdig.com/blog/deploying-private-paas-good-meh-aw-crap/) - (2016) Deploying a private PaaS: The good, the meh, and the aw crap 
+> "moving to a PaaS is certainly not a decision to be made lightly – but it’s still probably the right decision."
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
