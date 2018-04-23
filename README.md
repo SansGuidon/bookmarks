@@ -1208,6 +1208,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bill Doerrfeld](https://nordicapis.com/12-frameworks-to-build-chatops-bots/) - (2016) 12+ Frameworks to Build ChatOps Bots
 * [Zulip](https://zulipchat.com/integrations/) - all native integrations for Zulip
 * [Cog Book](http://book.cog.bot/appendices/designing_for_chatops.html) - Designing ChatOps Commands
+* [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know) 
+> Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
 
 ## Chef
 * [Nathen Harvey's Talks](https://speakerdeck.com/nathenharvey) - Talks / Slides by Chef's Community Director
