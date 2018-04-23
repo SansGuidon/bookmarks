@@ -1021,6 +1021,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Didier Caroff](https://medium.com/devopslinks/how-we-switch-to-a-continuous-delivery-pipeline-in-3-months-9667b9f65f7a) - (2018) How We Switched to a Continuous Delivery Pipeline in 3 months
 * [Naresh Jain](https://www.industriallogic.com/blog/impact-of-continuous-integration-on-team-culture/) - (2011) Impact of Continuous Integration on Team Culture
 * [RightScale](https://www.rightscale.com/cloud-comparison-tool/) - Cloud Comparison : Google Cloud Platform vs AWS vs Azure vs IBM Cloud
+* [Balaji Vajjala](http://bvajjala.github.io/projects/cd/continuous-delivery-patterns-and-antipatterns/) - continuous delivery patterns & antipatterns
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
