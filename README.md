@@ -221,6 +221,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
 * [Graham Lee](https://www.sicpers.info/2018/02/its-about-the-thinking/) - (2018) It’s about the thinking
+* [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -1024,6 +1025,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Balaji Vajjala](http://bvajjala.github.io/projects/cd/continuous-delivery-patterns-and-antipatterns/) - continuous delivery patterns & antipatterns
 * [Cody Boggs](https://sysdig.com/blog/deploying-private-paas-good-meh-aw-crap/) - (2016) Deploying a private PaaS: The good, the meh, and the aw crap 
 > "moving to a PaaS is certainly not a decision to be made lightly – but it’s still probably the right decision."
+* [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -3088,6 +3090,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 * [Carla King](http://mediashift.org/2014/04/indie-publishing-tools-for-small-press-and-author-co-ops/) - (2014) 6 Great Self-Publishing Tools for Small Press and Author Co-Ops
 * [Alex Efros](https://powerman.name/doc/asciidoc) - AsciiDoc cheatsheet
+* [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
 
 # Programming
 > News
