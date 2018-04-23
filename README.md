@@ -1513,6 +1513,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [/r/devops](https://www.reddit.com/r/devops/comments/629dj3/jenkinsansible_vs_jenkinsansibleansible_tower/) - Jenkins+Ansible vs Jenkins+Ansible+Ansible Tower
 * [MorganGeek](https://gist.github.com/MorganGeek/8b2d12ff3384e69453ede4f70c60bc08) - Jenkins / SSH : split your commands over multiple lines. via [Stack Overflow](https://stackoverflow.com/a/39979449/2309958)
 * [Sam Van Oort](https://www.youtube.com/watch?v=p0qX409wwPw) - [Video] Jenkins World 2017: Pipelines At Scale: How Big, How Fast, How Many?
+* [Sanil Pillai](https://jenkins.io/blog/2017/12/15/auto-convert-freestyle-jenkins-jobs-to-coded-pipeline/) - (2017) Auto-Convert Freestyle Jobs to Jenkins Pipeline. **Bonus** : [Convert To Pipeline plugin](https://plugins.jenkins.io/convert-to-pipeline) 
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
