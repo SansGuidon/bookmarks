@@ -1022,10 +1022,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Didier Caroff](https://medium.com/devopslinks/how-we-switch-to-a-continuous-delivery-pipeline-in-3-months-9667b9f65f7a) - (2018) How We Switched to a Continuous Delivery Pipeline in 3 months
 * [Naresh Jain](https://www.industriallogic.com/blog/impact-of-continuous-integration-on-team-culture/) - (2011) Impact of Continuous Integration on Team Culture
 * [RightScale](https://www.rightscale.com/cloud-comparison-tool/) - Cloud Comparison : Google Cloud Platform vs AWS vs Azure vs IBM Cloud
-* [Balaji Vajjala](http://bvajjala.github.io/projects/cd/continuous-delivery-patterns-and-antipatterns/) - continuous delivery patterns & antipatterns
+* [Balaji Vajjala](http://bvajjala.github.io/projects/cd/continuous-delivery-patterns-and-antipatterns/) - (2017) continuous delivery patterns & antipatterns
 * [Cody Boggs](https://sysdig.com/blog/deploying-private-paas-good-meh-aw-crap/) - (2016) Deploying a private PaaS: The good, the meh, and the aw crap 
 > "moving to a PaaS is certainly not a decision to be made lightly – but it’s still probably the right decision."
 * [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
+* [Balaji Vajjala](http://bvajjala.github.io/blog/2014/05/07/6-challenges-in-implementing-enterprise-continuous-delivery/) - (2014) 6 Challenges in implementing Enterprise Continuous Delivery
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
