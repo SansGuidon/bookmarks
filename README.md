@@ -1027,6 +1027,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > "moving to a PaaS is certainly not a decision to be made lightly – but it’s still probably the right decision."
 * [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
 * [Balaji Vajjala](http://bvajjala.github.io/blog/2014/05/07/6-challenges-in-implementing-enterprise-continuous-delivery/) - (2014) 6 Challenges in implementing Enterprise Continuous Delivery
+* [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -1932,7 +1933,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Where to buy Crypto](https://www.wheretobuycrypto.io/) - Where to buy ... <type any cryptocurrency name here>
 * [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
 * [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
- 
+* [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
+
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -3413,6 +3415,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/) - (2015) Recommended Reading for Developers
 * [Graham Lee](https://www.sicpers.info/2018/04/whats-better-than-semver/) - (2018) What’s better than semver?
 * [Graham Lee](https://www.sicpers.info/2018/02/its-about-the-thinking/) - (2018) It’s about the thinking
+* [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
