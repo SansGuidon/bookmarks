@@ -222,6 +222,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
 * [Graham Lee](https://www.sicpers.info/2018/02/its-about-the-thinking/) - (2018) It’s about the thinking
 * [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
+* [Zhamak Dehghani](https://martinfowler.com/articles/break-monolith-into-microservices.html) - (2018) How to break a Monolith into Microservices | What to decouple and when
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -1559,6 +1560,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Avi Cavale](http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository) - (2016) Our journey to microservices: mono repo vs multiple repositories
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
 * [Hacker News](https://news.ycombinator.com/item?id=16166645) - (2018) Ask HN: How do you keep track of releases/deployments of dozens micro-services?
+* [Zhamak Dehghani](https://martinfowler.com/articles/break-monolith-into-microservices.html) - (2018) How to break a Monolith into Microservices | What to decouple and when
 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
