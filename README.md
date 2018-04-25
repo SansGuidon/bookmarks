@@ -2852,6 +2852,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Carl Chenet](https://carlchenet.com/the-slack-threat/) - (2017) The Slack Threat | why you may need alternatives to slack
 * [JC Brand](https://opkode.com/blog/slacks-bait-and-switch/) - (2018) Slack's bait and switch | We all know the real reason Slack has closed off their gateways. Their business model dictates that they should. They're a typical walled garden, information silo or Siren Server
 * [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
+* [Bozhidar Bozhanov](https://techblog.bozho.net/gdpr-practical-guide-developers/) - (2017) GDPR – A Practical Guide For Developers
 
 # Productivity
 > News
