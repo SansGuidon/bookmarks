@@ -1,4 +1,4 @@
-I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world. I'm also on Twitter at [@MorganGeek](https://twitter.com/MorganGeek)
+https://devops.com/7-best-practices-continuous-delivery-success/I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world. I'm also on Twitter at [@MorganGeek](https://twitter.com/MorganGeek)
 
 +:warning: :squirrel: : As [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729), I advise you to consult this very same page at https://github.com/MorganGeek/bookmarks/blob/master/README.md for integral content
 
@@ -1031,6 +1031,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Balaji Vajjala](http://bvajjala.github.io/blog/2014/05/07/6-challenges-in-implementing-enterprise-continuous-delivery/) - (2014) 6 Challenges in implementing Enterprise Continuous Delivery
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
 * [OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html) - [Book] DevOps with OpenShift
+* [DevOps.com](https://devops.com/7-best-practices-continuous-delivery-success/) - (2016) 7 Best Practices for Continuous Delivery Success
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
