@@ -679,7 +679,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/03/15/stagnating-job/) - (2016) Stagnating at your programming job? Don’t quit just yet!
 * [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
-* [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
+* :star: [**Craig Shapiro**](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
 * [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
 * [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
@@ -2076,7 +2076,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michael Lynch](https://mtlynch.io/why-i-quit-google/) - (2018) Why I Quit Google to Work for Myself
 * [Software Engineering Tips](http://www.yacoset.com/Home/so-you-ve-just-been-hired-by-an-it-department) - (2010) So you've just been hired by an IT department...
 * [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
-* [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
+* :star: [**Craig Shapiro**](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
 * [Alice Goldfuss](https://sysadvent.blogspot.be/2016/12/day-6-no-more-on-call-martyrs.html) - (2016) No More On-Call Martyrs
 * [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
 * [Joel Kemp](https://hackernoon.com/work-for-an-employer-that-builds-something-you-love-58f4ced947e9) - (2017) Work for an employer that builds something you love
@@ -2772,7 +2772,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Shan](https://shansvex.wordpress.com/2015/09/06/things-i-hated-about-being-a-renter-for-15-years/) - (2015) Things I hated About Being a Renter for 15 years
 * [Zen Sayings](http://www.sacred-texts.com/bud/zen/sayings.htm) - Zen masters say "Don't seek the truth - just drop your opinions" | Zen quotes
 * [Morgan Housel](http://www.collaborativefund.com/blog/skills-vs-behavior/) - (2017) Skills vs. Behavior
-* [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
+* :star: [**Craig Shapiro**](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
 * [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
 * [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
@@ -2950,7 +2950,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Walsh](https://medium.com/@daniel.walsh/ten-metrics-you-may-have-overlooked-8a9c22f218bb) - (2018) Ten Overlooked Metrics
 * [John Cutler](https://hackernoon.com/faster-faster-faster-231c7b3d088d) - (2017) Faster. Faster. Faster.
 * [Amy Blais](https://about.mattermost.com/devops/27-things-enterprises-can-learn-startups-increase-productivity/) - (2017) 27 things enterprises can learn from startups to increase productivity
-* [Craig Shapiro](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
+* :star: [**Craig Shapiro**](http://www.collaborativefund.com/blog/goals/) - (2017) Passionate Goals
 * [Morgan Housel](http://www.collaborativefund.com/blog/simple-business-models-that-work/) - (2017) The Best Simple Business Models
 > The three best business models: Make boring things exciting. Make complicated things simple. Make intimidating things painless.
 * [Morgan Housel](http://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - (2018) Ideas That Changed My Life
