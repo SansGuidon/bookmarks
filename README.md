@@ -312,6 +312,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/) - (2015) Recommended Reading for Developers
 * [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
 * [OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html) - DevOps with OpenShift
+* [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
 
 # Business & Economics
 > News
@@ -629,6 +630,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
 * [Isaac Asimov](http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm) - (1989) The Relativity of Wrong
+* [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -4525,6 +4527,7 @@ Raw
 * [Farnam Street](https://www.fs.blog/2012/07/how-to-win-friends-and-influence-people/) - (2012) The Best Summary of Dale Carnegie's How to Win Friends and Influence People
 * [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
 * [Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle) - Hype Cycle : a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
+* [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
