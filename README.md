@@ -2097,6 +2097,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > A lot of people (especially entrepreneurs) are so obsessed with how fast they will become successful that they will sacrifice their mental health in order to constantly push themselves.
 * [Wikipedia](https://en.wikipedia.org/wiki/Nonviolent_Communication) - Nonviolent Communication - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
 * [Jacquelyn Smith](https://www.forbes.com/sites/jacquelynsmith/2012/06/22/how-to-ignore-distractions-at-work/#7e4b56663641) - (2012) How To Ignore Distractions In The Workplace
+* [Tuck Sleep](https://www.tuck.com/memory-and-sleep/) - (2017) Memory and Sleep | How Does Sleep Affect Your Short and Long Term Memory
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -4530,6 +4531,7 @@ Raw
 * [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
 * [Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle) - Hype Cycle : a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
 * [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
+* [Tuck Sleep](https://www.tuck.com/memory-and-sleep/) - (2017) Memory and Sleep | How Does Sleep Affect Your Short and Long Term Memory
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
