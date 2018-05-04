@@ -235,6 +235,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
 * [Jaime Jasso](https://www.artstation.com/jaime) - gallery of Jaime Jasso, Digital Matte Artist working for the film Industry, fan of sci-fi, Cyberpunk, visual effects in general, matte painting, concept art and compositing. [old gallery on devianart](https://jjasso.deviantart.com/gallery/)
 * [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
+* [Graphviz Docs](http://www.graphviz.org/pdf/dotguide.pdf) - [PDF] (2015) Drawing graphs with dot / dot User's Manual
 
 # Books
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
