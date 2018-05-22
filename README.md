@@ -2992,6 +2992,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jacquelyn Smith](https://www.forbes.com/sites/jacquelynsmith/2012/06/22/how-to-ignore-distractions-at-work/#7e4b56663641) - (2012) How To Ignore Distractions In The Workplace
 * [Anjida Sripongworakul](http://blogs.lse.ac.uk/studentsatlse/2016/11/16/if-i-could-tell-you-one-thing-lessons-in-how-to-create-and-how-to-succeed/) - (2016) If I could tell you one thing…lessons in how to create and how to succeed
 * [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
+* [Color names](https://www.graphviz.org/doc/info/colors.html) - color names for graphviz, plantuml, etc...
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
