@@ -3434,6 +3434,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Graham Lee](https://www.sicpers.info/2018/04/whats-better-than-semver/) - (2018) What’s better than semver?
 * [Graham Lee](https://www.sicpers.info/2018/02/its-about-the-thinking/) - (2018) It’s about the thinking
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
