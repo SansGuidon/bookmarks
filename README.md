@@ -237,6 +237,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
 * [Graphviz Docs](http://www.graphviz.org/pdf/dotguide.pdf) - [PDF] (2015) Drawing graphs with dot / dot User's Manual
 * [PlantText](https://www.planttext.com/) - an online tool that quickly generates images (mostly UML diagrams) without the use of a mouse because it relies on a text-based language called [PlantUML](http://plantuml.com/).
+* [Hive Plots](http://www.hiveplot.com/) - Rational Network Visualization - Farewell to Hairballs | Linear Layout for Network Visualization - Visually Interpreting Network Structure and Content Made Possible
 
 # Books
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -761,6 +762,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Worldometers](http://www.worldometers.info/) - shows estimated current numbers based on statistics and projections from the most reputable official organizations, for economics, media, world population, etc.
 * [Evan Sangaline](https://intoli.com/blog/analyzing-one-million-robots-txt-files/) - (2017) One Million robots.txt Files
 * [HTTP Archive](http://httparchive.org/trends.php) -  provides a record of web stats. **Bonus** : [Example 1](http://httparchive.org/trends.php?s=Top100&minlabel=Jan+1+2017&maxlabel=Dec+15+2017#bytesTotal&reqTotal)
+* [Hive Plots](http://www.hiveplot.com/) - Rational Network Visualization - Farewell to Hairballs | Linear Layout for Network Visualization - Visually Interpreting Network Structure and Content Made Possible
 
 # DevOps
 > News
