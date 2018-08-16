@@ -1894,7 +1894,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cactus2000](http://www.cactus2000.de/fr/unit/masswas.shtml) - [FR] :fr: Convertisseur de dureté de l'eau
 * [Cactus2000](http://www.cactus2000.de/uk/unit/masswas.shtml) - Converter for hardness of water
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
-* [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support Two Factor Auth (2FA).
+* :star: [**Two Factor Auth (2FA)**](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 * [Random.org](https://www.random.org/) - true random number service, but not only
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] :fr: resiliate your affiliation to all kinds of products and services
@@ -1940,7 +1940,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Free Online EPUB Converter](https://www.sendepubtokindle.com/) - The easiest way to send EPUBs to your Kindle!
 * [repl.it](https://repl.it/) - Online REPL, Compiler & IDE : Boot up a programming environment for your favorite language | including JavaScript, Python, Ruby, Java, Node.js, Go, Scheme, C, C#, C++, Lua and many more.
 * :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
-* :star: [**Two Factor Auth (2FA)**](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 * [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 * [Hurricane Electric BGP Toolkit](https://bgp.he.net) - This website is an Internet analysis site for the whole Internet. useful tool to collect ip, addresses, etc
@@ -4933,7 +4932,6 @@ Raw
 * [chrome site data settings](chrome://settings/siteData) open `chrome://settings/siteData`in Chrome to manage cookies / sites data
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
-* [Two Factor Auth (2FA)](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 * [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
 
 # Society
