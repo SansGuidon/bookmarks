@@ -2352,6 +2352,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ask Ubuntu](https://askubuntu.com/questions/79665/keep-only-essential-packages) - Keep only essential packages
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-bastion-host/) - (2009) Configure Linux As Bastion Host
 * [Anna Kennedy](https://sysadvent.blogspot.be/2017/12/day-22-building-secure-bastion-host-or.html) - (2017) Building a secure bastion host, or, 50 ways to kill your server. **Bonus** : [Slides](https://www.slideshare.net/AnnaKennedy11/building-a-secure-bastion-or-50-ways-to-kill-your-server-81551575)
+* [The Linux Documentation Project (LDP)](http://www.tldp.org/guides.html) - Linux Documentation Project Guides 
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
