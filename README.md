@@ -1817,6 +1817,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Censys](https://censys.io/) - Find and analyze every reachable server and device on the Internet.
 * [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
 * [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query?bflag&searchtext=) - Webupdates / database query
+* [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -4284,6 +4285,7 @@ Raw
 * [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
 * [Petter Måhlén](https://pettermahlen.com/2011/04/08/if-its-broken-fix-it/) - (2011) If it’s Broken, Fix It
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
+* [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks 
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
