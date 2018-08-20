@@ -5241,6 +5241,7 @@ Raw
 * [Pekka Väänänen](http://www.lofibucket.com/articles/dwm_latency.html) - (2017) Desktop compositing latency is real and it annoys me | about input latency on Windows 10 vs Windows 7
 * [Win flex-bison](https://sourceforge.net/projects/winflexbison/files/) - Win flex-bison is a port Flex & Bison tools to the Windows platform
 * [MorganGeek](cheat/windows-subsystem.md) - Windows Subsystem for Linux cheatsheet / tips
+* [jeffpatton1971/mod-posh](https://github.com/jeffpatton1971/mod-posh) - A collection of PowerShell scripts and script modules
 
 # Writing
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
