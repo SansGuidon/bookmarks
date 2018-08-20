@@ -1818,6 +1818,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
 * [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query?bflag&searchtext=) - Webupdates / database query
 * [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks 
+* [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2868,6 +2869,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [JC Brand](https://opkode.com/blog/slacks-bait-and-switch/) - (2018) Slack's bait and switch | We all know the real reason Slack has closed off their gateways. Their business model dictates that they should. They're a typical walled garden, information silo or Siren Server
 * [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
 * [Bozhidar Bozhanov](https://techblog.bozho.net/gdpr-practical-guide-developers/) - (2017) GDPR – A Practical Guide For Developers
+* [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
 
 # Productivity
 > News
@@ -4770,7 +4772,6 @@ Raw
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 40 Linux Server Hardening Security Tips
 * [Passive Aggressive Passwords](http://www.trypap.com/) - [Humor] The Passive Aggressive Password Machine
-* [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
 * [Aptive](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - guide for SSL / TLS penetration testing
 * [Computer Science Department at FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) - Offensive Computer Security Course with Lecture / Videos / Slides / Reading
@@ -4864,6 +4865,7 @@ Raw
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 * [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
 * [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
+* [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
