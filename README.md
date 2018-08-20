@@ -1532,6 +1532,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [MorganGeek](https://gist.github.com/MorganGeek/8b2d12ff3384e69453ede4f70c60bc08) - Jenkins / SSH : split your commands over multiple lines. via [Stack Overflow](https://stackoverflow.com/a/39979449/2309958)
 * [Sam Van Oort](https://www.youtube.com/watch?v=p0qX409wwPw) - [Video] Jenkins World 2017: Pipelines At Scale: How Big, How Fast, How Many?
 * [Sanil Pillai](https://jenkins.io/blog/2017/12/15/auto-convert-freestyle-jenkins-jobs-to-coded-pipeline/) - (2017) Auto-Convert Freestyle Jobs to Jenkins Pipeline. **Bonus** : [Convert To Pipeline plugin](https://plugins.jenkins.io/convert-to-pipeline) 
+* [Jenkins JIRA](https://issues.jenkins-ci.org/issues/?jql=) - Ticket related to Jenkins
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -2693,6 +2694,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 ## Atlassian
 > News
 * [Atlassian Release Notes](https://atlassianreleasenotes.tumblr.com/latestversions) - All release notes for all Atlassian products in one place!
+* [Atlassian Community](https://community.atlassian.com/t5/forums/recentpostspage) - forums recent posts
 
 > Learn
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
