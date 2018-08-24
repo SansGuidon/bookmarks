@@ -2356,6 +2356,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-bastion-host/) - (2009) Configure Linux As Bastion Host
 * [Anna Kennedy](https://sysadvent.blogspot.be/2017/12/day-22-building-secure-bastion-host-or.html) - (2017) Building a secure bastion host, or, 50 ways to kill your server. **Bonus** : [Slides](https://www.slideshare.net/AnnaKennedy11/building-a-secure-bastion-or-50-ways-to-kill-your-server-81551575)
 * [The Linux Documentation Project (LDP)](http://www.tldp.org/guides.html) - Linux Documentation Project Guides 
+* [Benjamin Cane](https://bencane.com/2013/12/23/yum-plugins-verifying-packages-and-configurations-with-yum-verify/) - (2013) Yum Plugins: Verifying packages and configurations with Yum Verify
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -5076,6 +5077,7 @@ Raw
 * [Stack Overflow](https://stackoverflow.com/a/47965269/2309958) - Docker - Cannot remove dead container | `rm: cannot remove /var/lib/docker/overlay/<hash>/merged: Device or resource busy` Solution : grep <hash> /proc/*/mountinfo then find the pid of <hash> and kill it
 * [Brandon Sheffield](https://www.gamasutra.com/view/news/310570/Developers_share_their_most_memorable_dirty_coding_tricks.php) - (2017) Developers share their most memorable dirty coding tricks
 * [Dmitriy Samovskiy](http://www.somic.org/2011/09/30/complex-systems-generalists-and-specialists/) - (2011) Complex Systems: Generalists and Specialists | on diagnosing problems
+* [Benjamin Cane](https://bencane.com/2013/12/23/yum-plugins-verifying-packages-and-configurations-with-yum-verify/) - (2013) Yum Plugins: Verifying packages and configurations with Yum Verify
 
 # UX / UI
 > News
