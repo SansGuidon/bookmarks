@@ -4869,6 +4869,7 @@ Raw
 * [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
 * [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
 * [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
+* [Amar Kulo](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/) - (2017) Integrating database of pwned password hashes with Microsoft AD
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -5246,6 +5247,7 @@ Raw
 * [Win flex-bison](https://sourceforge.net/projects/winflexbison/files/) - Win flex-bison is a port Flex & Bison tools to the Windows platform
 * [MorganGeek](cheat/windows-subsystem.md) - Windows Subsystem for Linux cheatsheet / tips
 * [jeffpatton1971/mod-posh](https://github.com/jeffpatton1971/mod-posh) - A collection of PowerShell scripts and script modules
+* [Amar Kulo](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/) - (2017) Integrating database of pwned password hashes with Microsoft AD
 
 # Writing
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
