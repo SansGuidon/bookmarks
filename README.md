@@ -4870,6 +4870,7 @@ Raw
 * [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
 * [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
 * [Amar Kulo](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/) - (2017) Integrating database of pwned password hashes with Microsoft AD
+* [Russell Brandom](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin) - (2017) This is why you shouldn’t use texts for 2FA / two-factor authentication
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
