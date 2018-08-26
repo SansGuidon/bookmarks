@@ -2822,6 +2822,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos) - Primitive Technology youtube channel :  Making primitive huts and tools from scratch using only natural materials in the wild
 * [/r/PrimitiveTechnology](https://www.reddit.com/r/PrimitiveTechnology/) - discussions about primitive technology subject and official youtube channel
 * [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
+* [Mike Johnson](https://www.mikesgearreviews.com/navy-seals-survival-hacks/) - Survival Mindset of the Navy SEALs: 7 Mind Hacks To Survive Anything
 
 # Privacy
 * [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
