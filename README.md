@@ -1055,6 +1055,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alex Aitken](https://www.alexaitken.nz/blog/sre-role-in-team/) - (2018) SRE role in team
 * [Carla Rudder](https://enterprisersproject.com/article/2018/7/how-be-stronger-devops-leader-9-tips) - (2018) How to be a stronger DevOps leader: 9 tips
 * [Daniel Oh](https://opensource.com/article/18/8/getting-started-devops-6-mistakes-avoid) - (2018) 6 DevOps mistakes to avoid
+* [Cornelia Davis](https://itrevolution.com/devops-who-does-what-cornelia-davis/) - (2018) DevOps Who Does What
+* [Adolfo Nunes](https://www.outsystems.com/blog/posts/in-the-loop_release-team-processes/) - (2018) In the Loop: How a Release Team Centralizes and Aligns Processes
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
