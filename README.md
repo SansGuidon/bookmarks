@@ -1049,6 +1049,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [New Relic](https://newrelic.com/resource/site-reliability-engineering) - Site Reliability Engineering | Philosophies, Habits, and Tools for SRE Success
 * [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
 * [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
+* [Cameron van Orman](https://enterprisersproject.com/article/2014/7/devops-not-synonym-application-development) - (2014) DevOps is not a synonym for application development
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -3671,6 +3672,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 * [JSONLint](https://jsonlint.com/) - JSON validator
 * [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
+* [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
 
 ## Conferences
 > In Belgium
