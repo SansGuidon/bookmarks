@@ -1233,6 +1233,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cog Book](http://book.cog.bot/appendices/designing_for_chatops.html) - Designing ChatOps Commands
 * [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know) 
 > Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
+* [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - A collection of awesome things about ChatOps.
 
 ## Chef
 * [Nathen Harvey's Talks](https://speakerdeck.com/nathenharvey) - Talks / Slides by Chef's Community Director
