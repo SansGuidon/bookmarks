@@ -1050,6 +1050,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
 * [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
 * [Cameron van Orman](https://enterprisersproject.com/article/2014/7/devops-not-synonym-application-development) - (2014) DevOps is not a synonym for application development
+* [Carla Rudder](https://enterprisersproject.com/article/2018/1/10-bad-devops-habits-break) - (2018) 10 bad DevOps habits to break
+* [Alison DeNisco Rayome](https://www.techrepublic.com/article/10-bad-habits-devops-admins-must-break/) - (2018) 10 bad habits DevOps admins must break
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -1644,8 +1646,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christoph Görn](http://rhelblog.redhat.com/2016/10/03/peace-in-our-time/) - Peace in Our Time: Bringing Ops and Dev Together
 * [Tom Donohue](https://cleverbuilder.com/articles/openshift-nexus-docker-registry/) - (2017) Deploy and use the Nexus Docker registry in OpenShift
 * [Red Hat Docs](https://access.redhat.com/documentation/en-us/openshift_container_platform/3.7/html/day_two_operations_guide/) - Day Two Operations Guide for OpenShift Container Platform 3.7
-* [Jorge Tudela Gonzales De Riancho](https://blog.openshift.com/oc-command-newbies/) - (2018) The oc Command for Newbies
-* [OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html) - [Book] DevOps with OpenShift
+* [Jorge Tudela Gonzales De Riancho](https://blog.openshift.com/oc-command-newbies/)# - (2018) The oc Command for Newbies
+* [OpenShift](https://www.openshift.com/devops-with-openshift/) - [Book] DevOps with OpenShift
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
