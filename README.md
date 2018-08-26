@@ -391,6 +391,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) - is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person.
 * [Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle) - Hype Cycle : a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
+* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/travailler-autrement/) - (2013) [FR] Travailler autrement | sur les crises et court-termisme entre autres 
 
 ## Cryptocurrency
 > News
@@ -2116,6 +2117,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jacquelyn Smith](https://www.forbes.com/sites/jacquelynsmith/2012/06/22/how-to-ignore-distractions-at-work/#7e4b56663641) - (2012) How To Ignore Distractions In The Workplace
 * [Tuck Sleep](https://www.tuck.com/memory-and-sleep/) - (2017) Memory and Sleep | How Does Sleep Affect Your Short and Long Term Memory
 * [Healthcare compassion](https://charterforcompassion.org/gaining-emotional-strength/the-biology-of-joy) - The Biology of Joy | some people are genetically predisposed to be happy by virtue of their busy prefrontal cortexes, and research in infants confirms it.
+* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/travailler-autrement/) - (2013) [FR] Travailler autrement | sur les crises et court-termisme entre autres 
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
