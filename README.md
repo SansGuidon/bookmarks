@@ -640,6 +640,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jason Palmer](https://medium.com/@jsonpify/you-dont-need-standup-9a74782517c1) - (2018) You don’t need standup
 * [Derek Sivers](https://sivers.org/slow) - (2016) I’m a very slow thinker
 * [Derek Sivers](https://sivers.org/ff) - (2010) [Video] First Follower: Leadership Lessons from a Dancing Guy | a Lesson of leadership
+* [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -706,6 +707,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Xiao Ma](https://medium.com/open-sourced-thoughts/code-life-1a44121290a1) - (2015) Code • Life | We are already doing these things to our code, why not do them to ourselves?
 * [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme 
 * [Derek Sivers](https://sivers.org/slow) - (2016) I’m a very slow thinker
+* [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -4593,6 +4595,7 @@ Raw
 * [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
 * [Tuck Sleep](https://www.tuck.com/memory-and-sleep/) - (2017) Memory and Sleep | How Does Sleep Affect Your Short and Long Term Memory
 * [Derek Sivers](https://sivers.org/ff) - (2010) [Video] First Follower: Leadership Lessons from a Dancing Guy | a Lesson of leadership
+* [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
