@@ -2882,6 +2882,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
 * [Account Killer](https://www.accountkiller.com/en/) - Super simple instructions to delete just about any online account or profile, on popular websites / app. **Bonus** : [SiteCheck bookmarklet](https://www.accountkiller.com/en/site-check) - it quickly checks if you can easily delete your account, in one click.
 * [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
+* [Reset The Net](https://pack.resetthenet.org/) - Privacy Pack
 
 # Productivity
 > News
