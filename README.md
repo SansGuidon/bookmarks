@@ -2699,6 +2699,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [TBS Internet](https://www.tbs-certificats.com/FAQ/fr/284.html) - [FR] :fr: Apache et VirtualHost SSL avec un wildcard ou multi-site
 * [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] :fr: Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
 * [phanan/htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
+* [Apache Docs](https://httpd.apache.org/docs/2.4/en/misc/security_tips.html) - Security Tips for Apache HTTP server
 
 ## Atlassian
 > News
@@ -4890,6 +4891,7 @@ Raw
 * [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 * [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
 * [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
+* [Apache Docs](https://httpd.apache.org/docs/2.4/en/misc/security_tips.html) - Security Tips for Apache HTTP server
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
