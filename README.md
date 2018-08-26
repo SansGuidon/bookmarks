@@ -2364,6 +2364,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Anna Kennedy](https://sysadvent.blogspot.be/2017/12/day-22-building-secure-bastion-host-or.html) - (2017) Building a secure bastion host, or, 50 ways to kill your server. **Bonus** : [Slides](https://www.slideshare.net/AnnaKennedy11/building-a-secure-bastion-or-50-ways-to-kill-your-server-81551575)
 * [The Linux Documentation Project (LDP)](http://www.tldp.org/guides.html) - Linux Documentation Project Guides 
 * [Benjamin Cane](https://bencane.com/2013/12/23/yum-plugins-verifying-packages-and-configurations-with-yum-verify/) - (2013) Yum Plugins: Verifying packages and configurations with Yum Verify
+* [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -4888,6 +4889,7 @@ Raw
 * [Russell Brandom](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin) - (2017) This is why you shouldn’t use texts for 2FA / two-factor authentication
 * [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 * [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
+* [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
