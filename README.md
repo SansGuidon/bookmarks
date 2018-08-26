@@ -1052,6 +1052,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cameron van Orman](https://enterprisersproject.com/article/2014/7/devops-not-synonym-application-development) - (2014) DevOps is not a synonym for application development
 * [Carla Rudder](https://enterprisersproject.com/article/2018/1/10-bad-devops-habits-break) - (2018) 10 bad DevOps habits to break
 * [Alison DeNisco Rayome](https://www.techrepublic.com/article/10-bad-habits-devops-admins-must-break/) - (2018) 10 bad habits DevOps admins must break
+* [Alex Aitken](https://www.alexaitken.nz/blog/sre-role-in-team/) - (2018) SRE role in team
+* [Carla Rudder](https://enterprisersproject.com/article/2018/7/how-be-stronger-devops-leader-9-tips) - (2018) How to be a stronger DevOps leader: 9 tips
+* [Daniel Oh](https://opensource.com/article/18/8/getting-started-devops-6-mistakes-avoid) - (2018) 6 DevOps mistakes to avoid
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
