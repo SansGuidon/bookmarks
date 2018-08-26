@@ -700,6 +700,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > curiosity and broad inquiry are necessarily incompatible with focus on specific goals.
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 * [Xiao Ma](https://medium.com/open-sourced-thoughts/code-life-1a44121290a1) - (2015) Code • Life | We are already doing these things to our code, why not do them to ourselves?
+* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme 
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -2806,6 +2807,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
 * [The Knowledge Project](https://www.fs.blog/2017/08/ed-latimore-podcast/) - [Podcast] (2017) Ed Latimore on the Secret to a Happy Life
 * [Lou Bichard](https://simpleprogrammer.com/overcoming-obstacles-stoic-mindset/) - (2018) Overcoming Programmer Career Obstacles With A Stoic Mindset
+* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme 
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
