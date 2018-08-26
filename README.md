@@ -1045,6 +1045,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 * [Aymen El Amri](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - (2016) The 15-point DevOps Check List
 * [New Relic](https://newrelic.com/resource/site-reliability-engineering) - Site Reliability Engineering | Philosophies, Habits, and Tools for SRE Success
+* [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
+* [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -2879,6 +2881,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Bozhidar Bozhanov](https://techblog.bozho.net/gdpr-practical-guide-developers/) - (2017) GDPR – A Practical Guide For Developers
 * [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
 * [Account Killer](https://www.accountkiller.com/en/) - Super simple instructions to delete just about any online account or profile, on popular websites / app. **Bonus** : [SiteCheck bookmarklet](https://www.accountkiller.com/en/site-check) - it quickly checks if you can easily delete your account, in one click.
+* [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
 
 # Productivity
 > News
@@ -3451,6 +3454,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Graham Lee](https://www.sicpers.info/2018/02/its-about-the-thinking/) - (2018) It’s about the thinking
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible
+* [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3655,6 +3659,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jakub Skałecki](https://rock-it.pl/how-to-write-excellent-dockerfiles/) - (2017) How to write excellent Dockerfiles
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 * [JSONLint](https://jsonlint.com/) - JSON validator
+* [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
 
 ## Conferences
 > In Belgium
@@ -4478,6 +4483,7 @@ Raw
 * [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences
 * [Metalcast](http://www.metalcastshow.com/) - :metal: Ultimate metal show
 * [John Sonmez](http://www.se-radio.net/2015/12/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career/) - (2015) SE Radio Episode 245: John Sonmez on Marketing Yourself and Managing Your Career
+* [Security Now!](https://www.grc.com/securitynow.htm) - weekly audio security column & podcast by Steve Gibson and Leo Laporte
 
 # Psychology
 > News
@@ -4713,6 +4719,7 @@ Raw
 # Security / Infosec
 > News
 * [CloudPassage Blog](https://blog.cloudpassage.com/) - insights for a unsecure world / news & tips on protecting critical assets
+* [Security Now!](https://www.grc.com/securitynow.htm) - weekly audio security column & podcast by Steve Gibson and Leo Laporte
 
 > Learn
 * [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - Penetration Testing Tools Cheat Sheet
@@ -4878,6 +4885,7 @@ Raw
 * [Amar Kulo](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/) - (2017) Integrating database of pwned password hashes with Microsoft AD
 * [Russell Brandom](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin) - (2017) This is why you shouldn’t use texts for 2FA / two-factor authentication
 * [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
+* [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
