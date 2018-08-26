@@ -1041,6 +1041,10 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
 * [OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html) - [Book] DevOps with OpenShift
 * [DevOps.com](https://devops.com/7-best-practices-continuous-delivery-success/) - (2016) 7 Best Practices for Continuous Delivery Success
+* [Vladimir Fedak](https://hackernoon.com/10-disruptive-devops-trends-of-2018-b0b6d5719376) - (2018) 10 disruptive DevOps trends of 2018
+* [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
+* [Aymen El Amri](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - (2016) The 15-point DevOps Check List
+* [New Relic](https://newrelic.com/resource/site-reliability-engineering) - Site Reliability Engineering | Philosophies, Habits, and Tools for SRE Success
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -1638,6 +1642,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
+* [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -4872,6 +4877,7 @@ Raw
 * [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
 * [Amar Kulo](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/) - (2017) Integrating database of pwned password hashes with Microsoft AD
 * [Russell Brandom](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin) - (2017) This is why you shouldn’t use texts for 2FA / two-factor authentication
+* [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
