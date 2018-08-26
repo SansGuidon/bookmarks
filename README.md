@@ -639,6 +639,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
 * [Jason Palmer](https://medium.com/@jsonpify/you-dont-need-standup-9a74782517c1) - (2018) You don’t need standup
 * [Derek Sivers](https://sivers.org/slow) - (2016) I’m a very slow thinker
+* [Derek Sivers](https://sivers.org/ff) - (2010) [Video] First Follower: Leadership Lessons from a Dancing Guy | a Lesson of leadership
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -4591,6 +4592,7 @@ Raw
 * [Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle) - Hype Cycle : a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
 * [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
 * [Tuck Sleep](https://www.tuck.com/memory-and-sleep/) - (2017) Memory and Sleep | How Does Sleep Affect Your Short and Long Term Memory
+* [Derek Sivers](https://sivers.org/ff) - (2010) [Video] First Follower: Leadership Lessons from a Dancing Guy | a Lesson of leadership
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
