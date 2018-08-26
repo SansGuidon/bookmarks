@@ -2170,6 +2170,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Toys collections
 * [Yo Joe!](http://www.yojoe.com/action/) - the internet's premiere archive site about G.I. Joe: A Real American Hero | probably the oldest website I remember to visit in my young age
 
+> Post Apocalyptic fictions
+* [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
+
 # Humor
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 * [/r/DiWHY](https://www.reddit.com/r/DiWHY/) - when DIY goes wrong
@@ -2586,6 +2589,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [sebsauvage](http://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
 * [Korben's Blog](https://korben.info/) - :fr: [FR] Upgrade your mind
 * [coreight](https://coreight.com/) - :fr: [FR] Le blog d'infos et astuces web; high tech
+* [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
 
 # Operations / IT OPS
 > News
