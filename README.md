@@ -643,6 +643,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Derek Sivers](https://sivers.org/ff) - (2010) [Video] First Follower: Leadership Lessons from a Dancing Guy | a Lesson of leadership
 * [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
+* [Satyandra Vadavalli](https://vnvsatyendra.wordpress.com/2012/04/06/paralysis-by-analysis/) - (2012) Paralysis by Analysis
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3105,6 +3106,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Isaac Park](https://www.pathosethos.com/2017/09/28/founder-problem-youre-the-reason-your-startup-doesnt-grow/) - (2017) Founder Problem: I’m The Reason My Startup Doesn’t Grow
 * [Joshua Kerievsky](https://www.linkedin.com/pulse/day-we-stopped-sprinting-joshua-kerievsky/) - (2017) The Day We Stopped Sprinting
 > Our new approach felt more natural and we became more responsive to our customer's needs. We spent less time trying to predict how much work we could get done in a rigid time box, and instead allowed ourselves to work on items that ranged from a few hours to a few days.
+* [Satyandra Vadavalli](https://vnvsatyendra.wordpress.com/2012/04/06/paralysis-by-analysis/) - (2012) Paralysis by Analysis
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
