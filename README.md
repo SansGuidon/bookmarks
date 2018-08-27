@@ -1851,6 +1851,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query?bflag&searchtext=) - Webupdates / database query
 * [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks 
 * [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
+* [qit](https://qit.cloud/) - Search for Tech podcasts by topic 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -4532,6 +4533,7 @@ Raw
 * [Metalcast](http://www.metalcastshow.com/) - :metal: Ultimate metal show
 * [John Sonmez](http://www.se-radio.net/2015/12/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career/) - (2015) SE Radio Episode 245: John Sonmez on Marketing Yourself and Managing Your Career
 * [Security Now!](https://www.grc.com/securitynow.htm) - weekly audio security column & podcast by Steve Gibson and Leo Laporte
+* [qit](https://qit.cloud/) - Search for Tech podcasts by topic 
 
 # Psychology
 > News
