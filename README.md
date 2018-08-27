@@ -1559,6 +1559,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sam Van Oort](https://www.youtube.com/watch?v=p0qX409wwPw) - [Video] Jenkins World 2017: Pipelines At Scale: How Big, How Fast, How Many?
 * [Sanil Pillai](https://jenkins.io/blog/2017/12/15/auto-convert-freestyle-jenkins-jobs-to-coded-pipeline/) - (2017) Auto-Convert Freestyle Jobs to Jenkins Pipeline. **Bonus** : [Convert To Pipeline plugin](https://plugins.jenkins.io/convert-to-pipeline) 
 * [Jenkins JIRA](https://issues.jenkins-ci.org/issues/?jql=) - Ticket related to Jenkins
+* [Victor Martinez](https://github.com/v1v/JenkinsWorld2017/tree/master/groovy) - (2017) Jenkins World 2017: The Game of DevOps: Applying Jenkins Best Practices in a Dynamic Industry. **Bonus** : [Video presentation at Jenkins World 2017](https://www.youtube.com/watch?v=DVejh9AiQrY)
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
