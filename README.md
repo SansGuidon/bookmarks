@@ -223,6 +223,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Graham Lee](https://www.sicpers.info/2018/02/its-about-the-thinking/) - (2018) It’s about the thinking
 * [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
 * [Zhamak Dehghani](https://martinfowler.com/articles/break-monolith-into-microservices.html) - (2018) How to break a Monolith into Microservices | What to decouple and when
+* [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -3488,7 +3489,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible
 * [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
 * [Jeff Atwood](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) - (2006) The Ten Commandments of Egoless Programming
-
+* [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3700,6 +3701,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Birat Rai](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385) - (2017) Step 8: The Boy Scout Rule ~Robert C. Martin (Uncle Bob) 
 > “Leave Things BETTER than you found them.” ~ Robert Baden Powell
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
+* [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 
 ## Conferences
 > In Belgium
