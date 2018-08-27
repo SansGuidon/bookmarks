@@ -1067,6 +1067,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cornelia Davis](https://itrevolution.com/devops-who-does-what-cornelia-davis/) - (2018) DevOps Who Does What
 * [Adolfo Nunes](https://www.outsystems.com/blog/posts/in-the-loop_release-team-processes/) - (2018) In the Loop: How a Release Team Centralizes and Aligns Processes
 * [Mark Seemann](http://blog.ploeh.dk/2013/12/10/semantic-versioning-with-continuous-deployment/) - (2013) Semantic Versioning with Continuous Deployment | Versioning is a programmer decision
+* [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - that tool automate the whole package release workflow including: determining the next version number, generating the release notes and publishing the package.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
