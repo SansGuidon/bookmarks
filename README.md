@@ -1066,6 +1066,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Oh](https://opensource.com/article/18/8/getting-started-devops-6-mistakes-avoid) - (2018) 6 DevOps mistakes to avoid
 * [Cornelia Davis](https://itrevolution.com/devops-who-does-what-cornelia-davis/) - (2018) DevOps Who Does What
 * [Adolfo Nunes](https://www.outsystems.com/blog/posts/in-the-loop_release-team-processes/) - (2018) In the Loop: How a Release Team Centralizes and Aligns Processes
+* [Mark Seemann](http://blog.ploeh.dk/2013/12/10/semantic-versioning-with-continuous-deployment/) - (2013) Semantic Versioning with Continuous Deployment | Versioning is a programmer decision
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
