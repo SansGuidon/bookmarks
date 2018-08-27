@@ -641,6 +641,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Derek Sivers](https://sivers.org/slow) - (2016) I’m a very slow thinker
 * [Derek Sivers](https://sivers.org/ff) - (2010) [Video] First Follower: Leadership Lessons from a Dancing Guy | a Lesson of leadership
 * [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
+* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3696,6 +3697,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Brandur Leach](https://brandur.org/minimalism) - (2018) In Pursuit of Production Minimalism
 * [Birat Rai](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385) - (2017) Step 8: The Boy Scout Rule ~Robert C. Martin (Uncle Bob) 
 > “Leave Things BETTER than you found them.” ~ Robert Baden Powell
+* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 
 ## Conferences
 > In Belgium
