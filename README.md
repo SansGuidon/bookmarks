@@ -3049,6 +3049,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Anjida Sripongworakul](http://blogs.lse.ac.uk/studentsatlse/2016/11/16/if-i-could-tell-you-one-thing-lessons-in-how-to-create-and-how-to-succeed/) - (2016) If I could tell you one thing…lessons in how to create and how to succeed
 * [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
 * [Color names](https://www.graphviz.org/doc/info/colors.html) - color names for graphviz, plantuml, etc...
+* [Atlassian Community](https://community.atlassian.com/t5/Marketplace-Apps-articles/The-7-hacks-of-highly-successful-automation/ba-p/871490) - (2018) The 7 hacks of highly successful automation
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
