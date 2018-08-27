@@ -91,6 +91,7 @@
   * Don’t merge PRs at late night : Merging PRs at Friday night is a terrible thing to do  
 * [Charity Majors](https://twitter.com/rynchantress/status/778702826578911233) - Don't make production decisions just because you want to learn Go. That's what your Saturdays are for.
 * [Charity Majors](https://twitter.com/mipsytipsy/status/778970572835270656) - experiment on devtools, or in your 20% time, or off hour, NOT IN THE CRITICAL PATH
+* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
