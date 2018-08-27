@@ -3487,6 +3487,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible
 * [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
+* [Jeff Atwood](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) - (2006) The Ten Commandments of Egoless Programming
+
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
