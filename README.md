@@ -3694,6 +3694,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
 * [Matt Butcher](http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html) - (2018) Be Nice And Write Stable Code
 * [Brandur Leach](https://brandur.org/minimalism) - (2018) In Pursuit of Production Minimalism
+* [Birat Rai](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385) - (2017) Step 8: The Boy Scout Rule ~Robert C. Martin (Uncle Bob) 
+> “Leave Things BETTER than you found them.” ~ Robert Baden Powell
 
 ## Conferences
 > In Belgium
