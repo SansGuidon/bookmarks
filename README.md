@@ -1980,6 +1980,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
 * [CIDR/Netmask Lookup Tool](https://www.ultratools.com/tools/netMaskResult?ipAddress=37.98.232.8%2F29) -  get information about a CIDR range including the IP addresses and host addresses contained in it.
+* [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -4933,6 +4934,7 @@ Raw
 * [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
 * [Apache Docs](https://httpd.apache.org/docs/2.4/en/misc/security_tips.html) - Security Tips for Apache HTTP server
 * [Daniel Aleksandersen](https://www.ctrl.blog/entry/migrating-to-bitwarden) - (2018) Why I migrated from LastPass to Bitwarden
+* [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
