@@ -645,6 +645,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 * [Satyandra Vadavalli](https://vnvsatyendra.wordpress.com/2012/04/06/paralysis-by-analysis/) - (2012) Paralysis by Analysis
 * [Steve Losh](http://stevelosh.com/blog/2013/09/teach-dont-tell/) - (2013) Teach, Don't Tell | about documentation
+* [Sacha Labourey, Nigel Willie](https://dzone.com/articles/devops-technician-training-think-requirements-not) - (2018) DevOps Technician Training: Think Requirements, Not Solutions
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1069,6 +1070,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Adolfo Nunes](https://www.outsystems.com/blog/posts/in-the-loop_release-team-processes/) - (2018) In the Loop: How a Release Team Centralizes and Aligns Processes
 * [Mark Seemann](http://blog.ploeh.dk/2013/12/10/semantic-versioning-with-continuous-deployment/) - (2013) Semantic Versioning with Continuous Deployment | Versioning is a programmer decision
 * [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - that tool automate the whole package release workflow including: determining the next version number, generating the release notes and publishing the package.
+* [Sacha Labourey, Nigel Willie](https://dzone.com/articles/devops-technician-training-think-requirements-not) - (2018) DevOps Technician Training: Think Requirements, Not Solutions
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
