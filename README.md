@@ -1582,6 +1582,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jenkins JIRA](https://issues.jenkins-ci.org/issues/?jql=) - Ticket related to Jenkins
 * [Victor Martinez](https://github.com/v1v/JenkinsWorld2017/tree/master/groovy) - (2017) Jenkins World 2017: The Game of DevOps: Applying Jenkins Best Practices in a Dynamic Industry. **Bonus** : [Video presentation at Jenkins World 2017](https://www.youtube.com/watch?v=DVejh9AiQrY)
 * [CI/CD Life](http://cicd.life/) - Continuous Integration / Continuous Delivery 4 Life - tips & tricks
+* [CloudBeesTV](https://www.youtube.com/playlist?list=PLvBBnHmZuNQLqgKDFmGnUClw68qsQ9Hq5) - [Videos] Jenkins World 2017
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -3763,6 +3764,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Learn
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
 * [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - list of online talks that are worth watching, mostly about software development
+* [CloudBeesTV](https://www.youtube.com/playlist?list=PLvBBnHmZuNQLqgKDFmGnUClw68qsQ9Hq5) - [Videos] Jenkins World 2017
+* [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo) - [Video] videos from KubeCon + CloudNativeCon 2018 - Copenhagen
+* [Docker](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV) - [Videos] content from DockerCon 2017
 
 ## Correctness
 * [Wikipedia](https://en.wikipedia.org/wiki/Hoare_logic) - Hoare logic is a formal system for reasoning about the correctness of computer programs
