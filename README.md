@@ -2453,6 +2453,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Roger Guldbrandsen](https://kinbiko.com/vim/my-shiniest-vim-gems/) - (2017) Vim: My Shiniest Gems
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/vim-koans/) - (2016) Vim Koans
 * [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
+* [Tom Ryder](https://sanctum.geek.nz/arabesque/shell-from-vi/) - (2017) Shell from vi
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -4780,6 +4781,7 @@ Raw
 * [BASH3 Boilerplate (or b3bp)](http://bash3boilerplate.sh/) - Templates to write better Bash scripts **Bonus** [Github Repo](https://github.com/kvz/bash3boilerplate)
 * [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
 * [Tom Ryder](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt) - Emperor Sh and the Traveller  "Don't do it in shell"
+* [Tom Ryder](https://sanctum.geek.nz/arabesque/shell-from-vi/) - (2017) Shell from vi
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
