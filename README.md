@@ -2548,6 +2548,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**YouTube to MP3 converter**](https://ytmp3.cc/)
 * [Metalcast](http://www.metalcastshow.com/) - :metal: Ultimate metal show
 * [Steve Losh](http://stevelosh.com/blog/2009/04/why-people-dont-like-metal/) - :metal: (2009) Why People Don’t Like Metal
+* [Steve Losh](http://stevelosh.com/blog/2010/11/keep-calm-and-carry-on/) - (2010) Keep Calm and Carry On | listen to music, damn it!
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
