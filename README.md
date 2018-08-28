@@ -1442,7 +1442,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - dgoss is a convenience wrapper around goss that aims to bring the simplicity of goss to docker containers.
 * [Anthony Lapenna](https://www.youtube.com/watch?v=TY27Np2-qto) - [Video] (2018) Manage your Docker environments easily with Portainer, by Anthony Lapenna (founder of Portainer), at Docker Belgium Meetup
 * [Dieter Adant](https://www.youtube.com/watch?v=BZfKXo6MCRs) - [Video] (2018) How Collibra uses Docker to Encourage Teamwork, at Docker Belgium Meetup
- * [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
+* [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
+* [Docker](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV) - [Videos] content from DockerCon 2017
  
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
