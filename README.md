@@ -1988,7 +1988,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
 * [CIDR/Netmask Lookup Tool](https://www.ultratools.com/tools/netMaskResult?ipAddress=37.98.232.8%2F29) -  get information about a CIDR range including the IP addresses and host addresses contained in it.
 * [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
-
+* [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
+ 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -2931,6 +2932,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Account Killer](https://www.accountkiller.com/en/) - Super simple instructions to delete just about any online account or profile, on popular websites / app. **Bonus** : [SiteCheck bookmarklet](https://www.accountkiller.com/en/site-check) - it quickly checks if you can easily delete your account, in one click.
 * [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
 * [Reset The Net](https://pack.resetthenet.org/) - Privacy Pack
+* [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
 
 # Productivity
 > News
@@ -5301,6 +5303,7 @@ Raw
 * [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps
 * [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
 * [Flavio Copes](https://flaviocopes.com/chrome-devtools-tips/) - (2018 A list of cool Chrome DevTools Tips and Tricks
+* [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
