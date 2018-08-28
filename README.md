@@ -2547,6 +2547,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Banjo Guy Ollie](https://www.youtube.com/channel/UC5-umfrfqPvDvWCYHJGYtpA) - [Videos] videos of Olivier Longuet (aka Ollie LongZ / BanjoGuyOllie), a youtuber making awesome video game music covers. **Bonus** : his other youtube channel [FR] :fr: [Grand Theft Z'Audio](https://www.youtube.com/channel/UCAORviTS6Ua_a0eo4XGDPPg) if you like funny surreal dubbing of games cinematic, mainly inspired by [Message à caractère informatif (https://www.youtube.com/watch?v=ozJmcB-mVgw)
 * :star: [**YouTube to MP3 converter**](https://ytmp3.cc/)
 * [Metalcast](http://www.metalcastshow.com/) - :metal: Ultimate metal show
+* [Steve Losh](http://stevelosh.com/blog/2009/04/why-people-dont-like-metal/) - :metal: (2009) Why People Don’t Like Metal
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
