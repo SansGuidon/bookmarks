@@ -1073,6 +1073,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - that tool automate the whole package release workflow including: determining the next version number, generating the release notes and publishing the package.
 * [Sacha Labourey, Nigel Willie](https://dzone.com/articles/devops-technician-training-think-requirements-not) - (2018) DevOps Technician Training: Think Requirements, Not Solutions
 * [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+* [Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/253306/why-is-build-number-an-abuse-of-semantic-versioning) - Why is build.number an “abuse” of semantic versioning?
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
