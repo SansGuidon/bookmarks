@@ -2401,6 +2401,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Benjamin Cane](https://bencane.com/2013/12/23/yum-plugins-verifying-packages-and-configurations-with-yum-verify/) - (2013) Yum Plugins: Verifying packages and configurations with Yum Verify
 * [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
 * [Eric Steven Raymond](http://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
+* [Tom Ryder](https://sanctum.geek.nz/arabesque/cron-best-practices/) - (2016) Cron best practices
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
