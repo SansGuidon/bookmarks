@@ -2399,9 +2399,11 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Linux Documentation Project (LDP)](http://www.tldp.org/guides.html) - Linux Documentation Project Guides 
 * [Benjamin Cane](https://bencane.com/2013/12/23/yum-plugins-verifying-packages-and-configurations-with-yum-verify/) - (2013) Yum Plugins: Verifying packages and configurations with Yum Verify
 * [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
+* [Eric Steven Raymond](http://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
+* [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
 
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
@@ -2447,6 +2449,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - YouCompleteMe : A code-completion engine for Vim **Bonus** : [website](http://valloric.github.io/YouCompleteMe/)
 * [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - awesome list of tips and resources for Vim
 * [Roger Guldbrandsen](https://kinbiko.com/vim/my-shiniest-vim-gems/) - (2017) Vim: My Shiniest Gems
+* [Tom Ryder](https://sanctum.geek.nz/arabesque/vim-koans/) - (2016) Vim Koans
+* [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -3499,6 +3503,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
 * [Jeff Atwood](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) - (2006) The Ten Commandments of Egoless Programming
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
+* [The Codeless Code](http://thecodelesscode.com/case/random) - An illustrated collection of (sometimes violent) fables, concerning the Art and Philosophy of software development
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3989,6 +3994,7 @@ Raw
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 * [Git How To](https://githowto.com/) - is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
 * [Matthew Brett](https://matthew-brett.github.io/curious-git/index.html) - The curious coder’s guide to git
+* [Steve Losh](http://stevelosh.com/blog/2013/04/git-koans/) - (2013) Git Koans
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -4444,6 +4450,13 @@ Raw
 * [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site for captcha haters
 * [Liz England](http://www.lizengland.com/blog/2014/04/the-door-problem/) - (2014) The Door Problem | funny article about complexity of modern game development
 * [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt) - jokes about git
+* [The Codeless Code](http://thecodelesscode.com/case/random) - An illustrated collection of (sometimes violent) fables, concerning the Art and Philosophy of software development
+* [Steve Losh](http://stevelosh.com/blog/2013/04/git-koans/) - (2013) Git Koans. Inspired by [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/)
+* [Tom Ryder](https://sanctum.geek.nz/arabesque/vim-koans/) - (2016) Vim Koans
+* [Tom Ryder](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt) - Emperor Sh and the Traveller  "Don't do it in shell"
+* [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
+* [Eric Steven Raymond](http://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
+* [Danny Hillis](http://catb.org/jargon/html/koans.html) - (2003) Some AI Koans
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -4650,6 +4663,7 @@ Raw
 * [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site for captcha haters
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 * [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
+* [Danny Hillis](http://catb.org/jargon/html/koans.html) - (2003) Some AI Koans
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -4761,6 +4775,7 @@ Raw
 * [Kevin van Zonneveld](https://kvz.io/blog/2013/11/21/bash-best-practices/) - (2013) Best Practices for Writing Bash Scripts
 * [BASH3 Boilerplate (or b3bp)](http://bash3boilerplate.sh/) - Templates to write better Bash scripts **Bonus** [Github Repo](https://github.com/kvz/bash3boilerplate)
 * [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
+* [Tom Ryder](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt) - Emperor Sh and the Traveller  "Don't do it in shell"
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
