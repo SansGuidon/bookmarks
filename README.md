@@ -1588,6 +1588,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sandeep Dinesh](https://speakerdeck.com/thesandlord/kubernetes-best-practices) - [Slides] (2017) Kubernetes Best Practices
 * [Sandeep Dinesh](https://www.weave.works/blog/kubernetes-best-practices) - (2018) Top 5 Kubernetes Best Practices From Sandeep Dinesh (Google)
 * [Ádám Sándor](https://container-solutions.com/propagating-configuration-from-terraform-to-kubernetes-apps/) - (2018) Propagating configuration from Terraform to Kubernetes Apps
+* [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo) - [Video] videos from KubeCon + CloudNativeCon 2018 - Copenhagen
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
