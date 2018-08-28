@@ -396,6 +396,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 * [Hugo Lassiège](https://www.eventuallycoding.com/index.php/travailler-autrement/) - (2013) [FR] Travailler autrement | sur les crises et court-termisme entre autres 
 * [Gabe Hicks](https://dev9.com/blog-posts/2017/4/6-ways-to-control-cloud-costs) - (2017) 6 Ways to Control Cloud Costs
+* [Mike Ensor](https://dev9.com/blog-posts/2017/1/containers-the-software-development-life-cycles-last-mile-ks7cp) - (2018) Containers: The Software Development Life Cycle’s Last Mile
 
 ## Cryptocurrency
 > News
@@ -1452,6 +1453,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dieter Adant](https://www.youtube.com/watch?v=BZfKXo6MCRs) - [Video] (2018) How Collibra uses Docker to Encourage Teamwork, at Docker Belgium Meetup
 * [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
 * [Docker](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV) - [Videos] content from DockerCon 2017
+* [Mike Ensor](https://dev9.com/blog-posts/2017/1/containers-the-software-development-life-cycles-last-mile-ks7cp) - (2018) Containers: The Software Development Life Cycle’s Last Mile
  
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
