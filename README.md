@@ -224,6 +224,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
 * [Zhamak Dehghani](https://martinfowler.com/articles/break-monolith-into-microservices.html) - (2018) How to break a Monolith into Microservices | What to decouple and when
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
+* [Todd Hoff](http://highscalability.com/blog/2018/8/22/what-do-you-believe-now-that-you-didnt-five-years-ago-centra.html) - (2018) What Do You Believe Now That You Didn't Five Years Ago? Centralized Wins. Decentralized Loses.
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
