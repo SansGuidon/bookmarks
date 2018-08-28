@@ -2572,8 +2572,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [CIDR/Netmask Lookup Tool](https://www.ultratools.com/tools/netMaskResult?ipAddress=37.98.232.8%2F29) -  get information about a CIDR range including the IP addresses and host addresses contained in it.
 
 # News
-* :star: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
-* :star: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
+* :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
+* :fire: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * :star: [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
 * [HNfavorites](http://www.hnfavorites.com/) - HNfavorites – Explore the hacker news community's favorite content
