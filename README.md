@@ -644,6 +644,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 * [Satyandra Vadavalli](https://vnvsatyendra.wordpress.com/2012/04/06/paralysis-by-analysis/) - (2012) Paralysis by Analysis
+* [Steve Losh](http://stevelosh.com/blog/2013/09/teach-dont-tell/) - (2013) Teach, Don't Tell | about documentation
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
