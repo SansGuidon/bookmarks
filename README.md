@@ -1078,7 +1078,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sacha Labourey, Nigel Willie](https://dzone.com/articles/devops-technician-training-think-requirements-not) - (2018) DevOps Technician Training: Think Requirements, Not Solutions
 * [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
 * [Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/253306/why-is-build-number-an-abuse-of-semantic-versioning) - Why is build.number an “abuse” of semantic versioning?
-* [Dustin Barnes](https://dev9.com/blog-posts/2014/9/java-release-process-with-continuous-delivery) - (2014) Java Release Process with Continuous Delivery
+* [Dustin Barnes](https://dev9.com/blog-posts/2014/9/java-release-process-with-continuous-delivery) - (2014) Java Release Process with Continuous Delivery | maven-release-plugin sucks
 * [Gabe Hicks](https://dev9.com/blog-posts/2017/4/6-ways-to-control-cloud-costs) - (2017) 6 Ways to Control Cloud Costs
 * [CI/CD Life](http://cicd.life/) - Continuous Integration / Continuous Delivery 4 Life - tips & tricks
 * [Philipp Hauer](https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/) - (2016) Version Numbers for Continuous Delivery with Maven and Docker
@@ -1632,7 +1632,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
 * [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
-* [Dustin Barnes](https://dev9.com/blog-posts/2014/9/java-release-process-with-continuous-delivery) - (2014) Java Release Process with Continuous Delivery
+* [Dustin Barnes](https://dev9.com/blog-posts/2014/9/java-release-process-with-continuous-delivery) - (2014) Java Release Process with Continuous Delivery | maven-release-plugin sucks
 * [Philipp Hauer](https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/) - (2016) Version Numbers for Continuous Delivery with Maven and Docker
 
 ## Nexus
@@ -3750,6 +3750,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > “Leave Things BETTER than you found them.” ~ Robert Baden Powell
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
+* [Wikipedia](https://en.wikipedia.org/wiki/Rule_of_three_%28computer_programming%29) - Rule of three (computer programming) | only refactor when similar code is used three times (and more)
 
 ## Conferences
 > In Belgium
@@ -4036,6 +4037,7 @@ Raw
 * [Git How To](https://githowto.com/) - is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
 * [Matthew Brett](https://matthew-brett.github.io/curious-git/index.html) - The curious coder’s guide to git
 * [Steve Losh](http://stevelosh.com/blog/2013/04/git-koans/) - (2013) Git Koans
+* [Vadim Samokhin](https://hackernoon.com/gitflow-is-a-poor-branching-model-hack-d46567a156e7) - (2018) Gitflow is a Poor Branching Model Hack | gitflow sucks
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -4135,7 +4137,7 @@ Raw
 * [Aleksey Shipilëv](https://shipilev.net/) - One Stop Page | interesting resources about Java (performance, benchmarks, memory, good/bad practices...)
 * [Lukas Eder](https://jaxenter.com/ten-subtle-best-practices-when-coding-java-108043.html) - (2014) Ten subtle best practices when coding Java
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
-* [Dustin Barnes](https://dev9.com/blog-posts/2014/9/java-release-process-with-continuous-delivery) - (2014) Java Release Process with Continuous Delivery
+* [Dustin Barnes](https://dev9.com/blog-posts/2014/9/java-release-process-with-continuous-delivery) - (2014) Java Release Process with Continuous Delivery | maven-release-plugin sucks
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - The state of portable authentication in Java EE, end 2016 update
