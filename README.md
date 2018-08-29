@@ -3760,6 +3760,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Red Hat Events](https://www.redhat.com/en/events) - Conferences, online events, on-demand webinars, and more
 * [Jenkins World](https://www.cloudbees.com/jenkinsworld) - usually in USA, but by 2018 will also occur [Jenkins World Europe](https://dzone.com/articles/call-for-papers-is-open-for-jenkins-world-2018)
 * [Linda Rosencrance](https://techbeacon.com/best-cloud-it-ops-conferences-2018) - (2018) The best cloud and IT Ops conferences of 2018
+* [DevOps Con](https://devopsconference.de/program/) - The Conference for Continuous Delivery, Microservices,
+Containers, Clouds and Lean Business
+* [AnsibleFest](https://www.ansible.com/ansiblefest) - brings together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
 
 > Learn
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
