@@ -2798,6 +2798,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John Andersen](http://www.john-james-andersen.com/blog/service-now/rest-based-servicenow-jira-integration-poc.html) - REST Based ServiceNow / Jira Integration (PoC)
 * [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - JIRA ID in Git Commit Messages
 * [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
+* [Adam Boczek](https://emea.nttdata.com/blog/en/jira-workflows-from-the-trenches/) - (2016) JIRA Workflows from the Trenches | The Problem with the Standard Configuration + Some useful Practices and Rules
+* [Idalko](https://www.idalko.com/jira-workflow-best-practices/) - (2018) A guide to Jira workflow best practices (with examples)
+* [Idalko](https://www.idalko.com/worst-common-advice-for-jira/) - (2018) The worst (common) advice for Jira that is killing your productivity
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
