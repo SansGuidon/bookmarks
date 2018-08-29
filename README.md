@@ -1902,6 +1902,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [SourceForge](https://sourceforge.net/) - offers a huge choice of excellent, FREE software in virtually every field of computing
 * [Siftery](https://siftery.com/trending) - Trending products | explore softwares others people are using at work
 * [Libraries.io](https://libraries.io/) - discovers millions open source libraries accros +36 package managers
+* [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -2011,7 +2012,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [CIDR/Netmask Lookup Tool](https://www.ultratools.com/tools/netMaskResult?ipAddress=37.98.232.8%2F29) -  get information about a CIDR range including the IP addresses and host addresses contained in it.
 * [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
 * [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
- 
+* [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
+
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -3555,6 +3557,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Christian Maioli M](https://techbeacon.com/3-creative-techniques-writing-modular-code) - (2018) 3 creative techniques for writing modular code
 * [Christian Maioli M](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
 * [Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) - (2013) Best Practices for Designing a Pragmatic RESTful API
+* [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
@@ -4403,6 +4406,7 @@ Raw
 * [Petter Måhlén](https://pettermahlen.com/2011/04/08/if-its-broken-fix-it/) - (2011) If it’s Broken, Fix It
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 * [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks 
+* [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
