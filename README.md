@@ -829,6 +829,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins.
 * [SysAdvent Calendar](https://www.redpill-linpro.com/sysadvent/) - Pre Christmas Tips and Tricks for Sysadmins
 * [AWS News Blog](https://aws.amazon.com/fr/blogs/aws/)
+* [GOTO Blog](https://blog.gotocon.com/blog/) - Created for developers, by developers, GOTO is focused on bringing together the best minds in the software community and the most interesting topics to light.
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -3248,6 +3249,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Code Simplicity](https://www.codesimplicity.com/) - Max Kanat-Alexander's Blog. Code Simplicity focuses on the idea of simplicity: simple things, simple thoughts, and simple ideas that can make the world of computing a better place.
 * [The Changelog](https://changelog.com/podcast) - [Podcast] Conversations with the hackers, leaders, and innovators of open source.
 * [Industrial Logic Blog](https://www.industriallogic.com/blog/) - leveraging safety wisdom in workspace from manufacturing, psychology, culture change and Agile and Lean developmen
+* [GOTO Blog](https://blog.gotocon.com/blog/) - Created for developers, by developers, GOTO is focused on bringing together the best minds in the software community and the most interesting topics to light.
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange
