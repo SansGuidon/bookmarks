@@ -657,6 +657,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
 * [Libby Sander](http://www.bbc.com/capital/story/20180718-open-offices-make-people-talk-less-and-email-more) - (2018) Open offices make people talk less and email more
 * [Eser Gozcu](https://hackernoon.com/devops-behind-scenes-817d586a1548) - (2018) DevOps and Behind the Scenes | BEST EFFORT != BEST PRACTICE | DevOps starts with a real communication. Moving towards a common goal requires social engineering
+* [Jan Mewes](https://dev.to/janux_de/how-to-pick-up-a-new-technology-in-minimal-time-2i4l) - (2018) How to pick up a new technology in minimal time?
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -4445,6 +4446,7 @@ Raw
 * [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks 
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 * [Michael Malis](http://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) - (2017) How to Improve Your Productivity as a Working Programmer | It only takes one or two changes each week for things to quickly snowball.
+* [Jan Mewes](https://dev.to/janux_de/how-to-pick-up-a-new-technology-in-minimal-time-2i4l) - (2018) How to pick up a new technology in minimal time?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
