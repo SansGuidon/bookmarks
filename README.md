@@ -2901,6 +2901,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Knowledge Project](https://www.fs.blog/2017/08/ed-latimore-podcast/) - [Podcast] (2017) Ed Latimore on the Secret to a Happy Life
 * [Lou Bichard](https://simpleprogrammer.com/overcoming-obstacles-stoic-mindset/) - (2018) Overcoming Programmer Career Obstacles With A Stoic Mindset
 * [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme 
+* [John Cleese](https://www.youtube.com/watch?v=wvVPdyYeaQU) - [Video] on Stupidity
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -3562,6 +3563,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeff Atwood](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) - (2006) The Ten Commandments of Egoless Programming
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 * [The Codeless Code](http://thecodelesscode.com/case/random) - An illustrated collection of (sometimes violent) fables, concerning the Art and Philosophy of software development
+* [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html) - (2017) Just Following Orders | Reminder: Doing your job does not mean that you just follow orders. The courts are going to hold you to a high ethical standard, even if your employer does not.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3776,6 +3778,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 * [Wikipedia](https://en.wikipedia.org/wiki/Rule_of_three_%28computer_programming%29) - Rule of three (computer programming) | only refactor when similar code is used three times (and more)
+* [Johannes Brodwall](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/) - (2018) Forget about Clean Code, let’s embrace Compassionate Code | Make people Awesome. Clean Code may help or hurt that goal. Learn to see the difference.
 
 ## Conferences
 > In Belgium
@@ -5150,6 +5153,8 @@ Raw
 * [Matthew Yglesias](https://www.vox.com/2014/8/5/5970767/case-against-time-zones) - (2014) The case against time zones: They're impractical & outdated
 * [Charles Petzold](http://www.charlespetzold.com/blog/2015/07/De-Obfuscating-the-Statistics-of-Mass-Shootings.html) - (2015) De-Obfuscating the Statistics of Mass Shootings
 * [Mariel Bluteau](https://www.franceinter.fr/societe/nous-sommes-face-a-un-danger-comparable-a-celui-d-une-guerre-mondiale-sans-doute-meme-plus-grave-cyril-dion) - (2018) [FR] :fr: Psycho : comment expliquer le déni face au réchauffement climatique ?
+* [John Cleese](https://www.youtube.com/watch?v=wvVPdyYeaQU) - [Video] on Stupidity
+* [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html) - (2017) Just Following Orders | Reminder: Doing your job does not mean that you just follow orders. The courts are going to hold you to a high ethical standard, even if your employer does not.
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
