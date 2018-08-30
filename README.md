@@ -1096,6 +1096,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Eser Gozcu](https://hackernoon.com/devops-behind-scenes-817d586a1548) - (2018) DevOps and Behind the Scenes | BEST EFFORT != BEST PRACTICE | DevOps starts with a real communication. Moving towards a common goal requires social engineering
 * [Gary Woodfine](https://garywoodfine.com/not-devops-engineer/) - (2018) You are not a DevOps Engineer | Your organisation won’t be saved by a terminal wonder kid in a hoody churning awesome BASH scripts during his lunch break. | Changing your department names form Software Development and IT operations and moving them to a co-located zone with a pool & Ping Pong tables, open plan kitchen and bean bags and then calling them DevOps is not really going to make your customers any happier.
 * [Antonio Cangiano](https://programmingzen.com/building-better-software-info-ops-daniel-b-markham-interview/) - (2018) Building Better Software With Info-Ops: An Interview With Daniel B. Markham
+* [AJ Ross, Adrian Hilton, Dave Rensin](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html) - (2017) SLOs, SLIs, SLAs, oh my - CRE life lessons | for DevOps professionals / SRE 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
