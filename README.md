@@ -227,6 +227,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Todd Hoff](http://highscalability.com/blog/2018/8/22/what-do-you-believe-now-that-you-didnt-five-years-ago-centra.html) - (2018) What Do You Believe Now That You Didn't Five Years Ago? Centralized Wins. Decentralized Loses.
 * [Dustin Barnes](https://dev9.com/blog-posts/2017/5/increasing-software-transparency-with-lightweight-architectural-decision-records) - (2017) Increasing Software Transparency with Lightweight Architectural Decision Records
 * [Vijini Mallawaarachchi](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - (2017) 10 Common Software Architectural Patterns in a nutshell
+* [Kai Niklas](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b) - (2018) 38 Actions and Insights to Become a Better Software Architect
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -655,6 +656,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Dustin Barnes](https://dev9.com/blog-posts/2017/5/increasing-software-transparency-with-lightweight-architectural-decision-records) - (2017) Increasing Software Transparency with Lightweight Architectural Decision Records
 * [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
 * [Libby Sander](http://www.bbc.com/capital/story/20180718-open-offices-make-people-talk-less-and-email-more) - (2018) Open offices make people talk less and email more
+* [Eser Gozcu](https://hackernoon.com/devops-behind-scenes-817d586a1548) - (2018) DevOps and Behind the Scenes | BEST EFFORT != BEST PRACTICE | DevOps starts with a real communication. Moving towards a common goal requires social engineering
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1091,6 +1093,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeroen van Wilgenburg](https://vanwilgenburg.wordpress.com/2018/08/22/lessons-learned-after-serving-thousands-of-concurrent-users-in-a-devops-team-for-a-year/) - (2018) Lessons learned after serving thousands of concurrent users in a devops team for a year
 * [Darío Blanco](https://medium.com/@dariobit/devops-is-counterintuitive-47979d6bc54d) - (2018) DevOps is counterintuitive | Reliability without sacrificing speed
 * [IdeasForDevOps/100IdeasForDevOps](https://github.com/IdeasForDevOps/100IdeasForDevOps) - 100 Ideas to bring DevOps into an Organization
+* [Eser Gozcu](https://hackernoon.com/devops-behind-scenes-817d586a1548) - (2018) DevOps and Behind the Scenes | BEST EFFORT != BEST PRACTICE | DevOps starts with a real communication. Moving towards a common goal requires social engineering
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
