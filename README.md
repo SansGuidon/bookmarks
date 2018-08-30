@@ -397,6 +397,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Hugo Lassiège](https://www.eventuallycoding.com/index.php/travailler-autrement/) - (2013) [FR] Travailler autrement | sur les crises et court-termisme entre autres 
 * [Gabe Hicks](https://dev9.com/blog-posts/2017/4/6-ways-to-control-cloud-costs) - (2017) 6 Ways to Control Cloud Costs
 * [Mike Ensor](https://dev9.com/blog-posts/2017/1/containers-the-software-development-life-cycles-last-mile-ks7cp) - (2018) Containers: The Software Development Life Cycle’s Last Mile
+* [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
 
 ## Cryptocurrency
 > News
@@ -651,6 +652,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve Losh](http://stevelosh.com/blog/2013/09/teach-dont-tell/) - (2013) Teach, Don't Tell | about documentation
 * [Sacha Labourey, Nigel Willie](https://dzone.com/articles/devops-technician-training-think-requirements-not) - (2018) DevOps Technician Training: Think Requirements, Not Solutions
 * [Dustin Barnes](https://dev9.com/blog-posts/2017/5/increasing-software-transparency-with-lightweight-architectural-decision-records) - (2017) Increasing Software Transparency with Lightweight Architectural Decision Records
+* [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1082,6 +1084,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gabe Hicks](https://dev9.com/blog-posts/2017/4/6-ways-to-control-cloud-costs) - (2017) 6 Ways to Control Cloud Costs
 * [CI/CD Life](http://cicd.life/) - Continuous Integration / Continuous Delivery 4 Life - tips & tricks
 * [Philipp Hauer](https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/) - (2016) Version Numbers for Continuous Delivery with Maven and Docker
+* [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
