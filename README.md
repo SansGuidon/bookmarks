@@ -401,6 +401,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gabe Hicks](https://dev9.com/blog-posts/2017/4/6-ways-to-control-cloud-costs) - (2017) 6 Ways to Control Cloud Costs
 * [Mike Ensor](https://dev9.com/blog-posts/2017/1/containers-the-software-development-life-cycles-last-mile-ks7cp) - (2018) Containers: The Software Development Life Cycle’s Last Mile
 * [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
+* [Robert Greene, Joost Elffers](http://www.elffers.com/low/start/index2.html) - The 48 Laws of Power
 
 ## Cryptocurrency
 > News
@@ -4728,6 +4729,8 @@ Raw
 * [Cee-Enneagramme](http://www.cee-enneagramme.eu/enneagramme/les-9-types/) - Les 9 types
 * [Eclectic Energies](https://www.eclecticenergies.com/francais/enneagramme/type1) - Type de l'Ennéagramme 1 - Le Réformateur.
 * [Eclectic Energies](https://www.eclecticenergies.com/francais/enneagramme/introduction) - Introduction à l'ennéagramme
+* [Robert Greene, Joost Elffers](http://www.elffers.com/low/start/index2.html) - The 48 Laws of Power
+* [Alicia Liu](https://blog.navapbc.com/when-it-comes-to-feedback-start-with-yourself-801684120cca) - (2018) When It Comes to Feedback, Start with Yourself. Changing yourself leads to change in others. | Leadership
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
