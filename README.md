@@ -1098,6 +1098,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gary Woodfine](https://garywoodfine.com/not-devops-engineer/) - (2018) You are not a DevOps Engineer | Your organisation won’t be saved by a terminal wonder kid in a hoody churning awesome BASH scripts during his lunch break. | Changing your department names form Software Development and IT operations and moving them to a co-located zone with a pool & Ping Pong tables, open plan kitchen and bean bags and then calling them DevOps is not really going to make your customers any happier.
 * [Antonio Cangiano](https://programmingzen.com/building-better-software-info-ops-daniel-b-markham-interview/) - (2018) Building Better Software With Info-Ops: An Interview With Daniel B. Markham
 * [AJ Ross, Adrian Hilton, Dave Rensin](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html) - (2017) SLOs, SLIs, SLAs, oh my - CRE life lessons | for DevOps professionals / SRE 
+* [Tim Hall](https://oracle-base.com/blog/2018/06/12/why-automation-matters-lost-time/) - (2018) Why Automation Matters : Lost Time
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -3788,6 +3789,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 * [Wikipedia](https://en.wikipedia.org/wiki/Rule_of_three_%28computer_programming%29) - Rule of three (computer programming) | only refactor when similar code is used three times (and more)
 * [Johannes Brodwall](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/) - (2018) Forget about Clean Code, let’s embrace Compassionate Code | Make people Awesome. Clean Code may help or hurt that goal. Learn to see the difference.
+* [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
 
 ## Conferences
 > In Belgium
@@ -4758,6 +4760,7 @@ Raw
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 * [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
 * [Danny Hillis](http://catb.org/jargon/html/koans.html) - (2003) Some AI Koans
+* [Tim Hall](https://oracle-base.com/blog/2018/06/12/why-automation-matters-lost-time/) - (2018) Why Automation Matters : Lost Time
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -5237,6 +5240,7 @@ Raw
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 * [JSONLint](https://jsonlint.com/) - JSON validator
+* [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
