@@ -2807,6 +2807,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Adam Boczek](https://emea.nttdata.com/blog/en/jira-workflows-from-the-trenches/) - (2016) JIRA Workflows from the Trenches | The Problem with the Standard Configuration + Some useful Practices and Rules
 * [Idalko](https://www.idalko.com/jira-workflow-best-practices/) - (2018) A guide to Jira workflow best practices (with examples)
 * [Idalko](https://www.idalko.com/worst-common-advice-for-jira/) - (2018) The worst (common) advice for Jira that is killing your productivity
+* [Vjaceslavs Kreidikovs](https://medium.com/chili-labs/why-workflows-are-important-in-your-work-70e4641913bd) - (2018) JIRA workflow configuration tips, explanation & examples
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
