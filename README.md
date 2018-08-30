@@ -3778,6 +3778,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 Containers, Clouds and Lean Business
 * [AnsibleFest](https://www.ansible.com/ansiblefest) - brings together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
 * [GOTO](https://blog.gotocon.com/) - Created for developers, by developers, GOTO Conferences are focused on bringing the best minds in the software community and the most interesting topics to light.
+* [DevOps Conferences 2018](https://www.gotodevops.org/)
+* [John P. Mello Jr.](https://techbeacon.com/best-devops-conferences-2018) - (2018) The best DevOps conferences of 2018
 
 > Learn
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
