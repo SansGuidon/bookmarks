@@ -653,6 +653,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sacha Labourey, Nigel Willie](https://dzone.com/articles/devops-technician-training-think-requirements-not) - (2018) DevOps Technician Training: Think Requirements, Not Solutions
 * [Dustin Barnes](https://dev9.com/blog-posts/2017/5/increasing-software-transparency-with-lightweight-architectural-decision-records) - (2017) Increasing Software Transparency with Lightweight Architectural Decision Records
 * [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
+* [Ian Miell](https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/) - (2018) Five Things I Did to Change a Team’s Culture
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
