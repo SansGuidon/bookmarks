@@ -5025,6 +5025,7 @@ Raw
 * [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
 * [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
 * [Information Security Stack Exchange](https://security.stackexchange.com/questions/51512/why-pull-upgrade-from-production-server-rather-pushing-them-from-development-ser) - Why pull upgrade from production server rather pushing them from development server?
+* [Information Security Stack Exchange](https://security.stackexchange.com/questions/162273/password-manager-or-two-actor-authentication) - Password manager or two -actor authentication
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
