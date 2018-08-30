@@ -323,6 +323,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html) - DevOps with OpenShift
 * [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
 * [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
+* [MorganGeek](https://researchportal.unamur.be/fr/studentTheses/design-of-a-support-system-for-modelling-gene-regulatory-networks) - (2015) Design of a support system for modelling gene regulatory networks. **Bonus** : [Download in PDF](https://researchportal.unamur.be/files/36918347/2015_WattiezM_memoire.pdf)
 
 # Business & Economics
 > News
