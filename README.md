@@ -1095,6 +1095,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [IdeasForDevOps/100IdeasForDevOps](https://github.com/IdeasForDevOps/100IdeasForDevOps) - 100 Ideas to bring DevOps into an Organization
 * [Eser Gozcu](https://hackernoon.com/devops-behind-scenes-817d586a1548) - (2018) DevOps and Behind the Scenes | BEST EFFORT != BEST PRACTICE | DevOps starts with a real communication. Moving towards a common goal requires social engineering
 * [Gary Woodfine](https://garywoodfine.com/not-devops-engineer/) - (2018) You are not a DevOps Engineer | Your organisation won’t be saved by a terminal wonder kid in a hoody churning awesome BASH scripts during his lunch break. | Changing your department names form Software Development and IT operations and moving them to a co-located zone with a pool & Ping Pong tables, open plan kitchen and bean bags and then calling them DevOps is not really going to make your customers any happier.
+* [Antonio Cangiano](https://programmingzen.com/building-better-software-info-ops-daniel-b-markham-interview/) - (2018) Building Better Software With Info-Ops: An Interview With Daniel B. Markham
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -2772,6 +2773,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
 * [Gabe Hicks](https://dev9.com/blog-posts/2017/4/6-ways-to-control-cloud-costs) - (2017) 6 Ways to Control Cloud Costs
 * [Nexthink](https://www.nexthink.com/periodic-table/) - Periodic Table of IT Ops Tools
+* [Antonio Cangiano](https://programmingzen.com/building-better-software-info-ops-daniel-b-markham-interview/) - (2018) Building Better Software With Info-Ops: An Interview With Daniel B. Markham
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
