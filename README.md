@@ -2179,6 +2179,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jordane Moody Zangueneh](http://www.osezbriller.com/trouver-sa-vocation-13-conseils/) - [FR] :fr: Trouver sa vocation : 13 conseils à suivre pour se secouer 
 * [Jobat](https://www.jobat.be/fr/articles/20-methodes-pour-trouver-sa-vocation/) - (2013) [FR] :fr: 20 méthodes pour trouver sa vocation
 * [Natasha Stanley](https://www.careershifters.org/expert-advice/no-clear-career-ideas-the-3-mistakes-youre-making-and-3-things-to-do-instead) - No Clear Career Ideas? The 3 Mistakes You’re Making (And 3 Things To Do Instead)
+* [Blaz Kos](https://agileleanlife.com/business-model-you/) - Business Model You – Book Summary – Reinvent your career
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
