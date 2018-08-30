@@ -4441,6 +4441,7 @@ Raw
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 * [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks 
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
+* [Michael Malis](http://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) - (2017) How to Improve Your Productivity as a Working Programmer | It only takes one or two changes each week for things to quickly snowball.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
