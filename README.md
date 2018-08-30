@@ -3181,6 +3181,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Our new approach felt more natural and we became more responsive to our customer's needs. We spent less time trying to predict how much work we could get done in a rigid time box, and instead allowed ourselves to work on items that ranged from a few hours to a few days.
 * [Satyandra Vadavalli](https://vnvsatyendra.wordpress.com/2012/04/06/paralysis-by-analysis/) - (2012) Paralysis by Analysis
 * [Libby Sander](http://www.bbc.com/capital/story/20180718-open-offices-make-people-talk-less-and-email-more) - (2018) Open offices make people talk less and email more
+* [Morgan Housel](https://www.collaborativefund.com/blog/making-history-by-doing-nothing/) - (2018) Making History By Doing Nothing
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
