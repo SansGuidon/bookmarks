@@ -5017,7 +5017,8 @@ Raw
 * [Apache Docs](https://httpd.apache.org/docs/2.4/en/misc/security_tips.html) - Security Tips for Apache HTTP server
 * [Daniel Aleksandersen](https://www.ctrl.blog/entry/migrating-to-bitwarden) - (2018) Why I migrated from LastPass to Bitwarden
 * [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
- * [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
+* [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
+* [Information Security Stack Exchange](https://security.stackexchange.com/questions/51512/why-pull-upgrade-from-production-server-rather-pushing-them-from-development-ser) - Why pull upgrade from production server rather pushing them from development server?
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
