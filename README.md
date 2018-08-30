@@ -2176,6 +2176,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Healthcare compassion](https://charterforcompassion.org/gaining-emotional-strength/the-biology-of-joy) - The Biology of Joy | some people are genetically predisposed to be happy by virtue of their busy prefrontal cortexes, and research in infants confirms it.
 * [Hugo Lassiège](https://www.eventuallycoding.com/index.php/travailler-autrement/) - (2013) [FR] Travailler autrement | sur les crises et court-termisme entre autres 
 * [Brandur Leach](https://brandur.org/fragments/caffeine) - Caffeine | An experiment of Brandur in seriously throttling back its caffeine intake for the first time in years.
+* [Jordane Moody Zangueneh](http://www.osezbriller.com/trouver-sa-vocation-13-conseils/) - [FR] :fr: Trouver sa vocation : 13 conseils à suivre pour se secouer 
+* [Jobat](https://www.jobat.be/fr/articles/20-methodes-pour-trouver-sa-vocation/) - (2013) [FR] :fr: 20 méthodes pour trouver sa vocation
+
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
