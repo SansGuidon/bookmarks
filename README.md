@@ -2189,6 +2189,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Blaz Kos](https://agileleanlife.com/business-model-you/) - Business Model You – Book Summary – Reinvent your career
 * [Gretchen Rubin](https://www.realsimple.com/health/mind-mood/emotional-health/things-can-happy-next-minutes) - 9 Things You Can Do to Be Happy in the Next 30 Minutes
 * [Libby Sander](http://www.bbc.com/capital/story/20180718-open-offices-make-people-talk-less-and-email-more) - (2018) Open offices make people talk less and email more
+* [Carl Phillips](https://minimalism.life/frugality-and-the-simpler-life/) - (2018) Frugality and the Simpler Life
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
