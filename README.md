@@ -4715,6 +4715,9 @@ Raw
 * [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
 * [Gretchen Rubin](https://www.realsimple.com/health/mind-mood/emotional-health/things-can-happy-next-minutes) - 9 Things You Can Do to Be Happy in the Next 30 Minutes
 * [Libby Sander](http://www.bbc.com/capital/story/20180718-open-offices-make-people-talk-less-and-email-more) - (2018) Open offices make people talk less and email more
+* [Cee-Enneagramme](http://www.cee-enneagramme.eu/enneagramme/les-9-types/) - Les 9 types
+* [Eclectic Energies](https://www.eclecticenergies.com/francais/enneagramme/type1) - Type de l'Ennéagramme 1 - Le Réformateur.
+* [Eclectic Energies](https://www.eclecticenergies.com/francais/enneagramme/introduction) - Introduction à l'ennéagramme
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
