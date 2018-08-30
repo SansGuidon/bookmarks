@@ -3771,6 +3771,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [DevOps Con](https://devopsconference.de/program/) - The Conference for Continuous Delivery, Microservices,
 Containers, Clouds and Lean Business
 * [AnsibleFest](https://www.ansible.com/ansiblefest) - brings together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
+* [GOTO](https://blog.gotocon.com/) - Created for developers, by developers, GOTO Conferences are focused on bringing the best minds in the software community and the most interesting topics to light.
 
 > Learn
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
@@ -3779,6 +3780,8 @@ Containers, Clouds and Lean Business
 * [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo) - [Video] videos from KubeCon + CloudNativeCon 2018 - Copenhagen
 * [Docker](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV) - [Videos] content from DockerCon 2017
 * [Ansible](https://www.ansible.com/resources/videos/ansiblefest-london-2017) - [Videos] (2017) AnsibleFest London Videos
+* [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg) - [Videos] Devoxx channel on youtube
+* [GOTO Conferences](https://www.youtube.com/user/GotoConferences) - [Videos] video interviews and presentations from GOTO Conferences and GOTO Nights.
 
 ## Correctness
 * [Wikipedia](https://en.wikipedia.org/wiki/Hoare_logic) - Hoare logic is a formal system for reasoning about the correctness of computer programs
