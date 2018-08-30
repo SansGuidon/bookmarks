@@ -1086,7 +1086,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [CI/CD Life](http://cicd.life/) - Continuous Integration / Continuous Delivery 4 Life - tips & tricks
 * [Philipp Hauer](https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/) - (2016) Version Numbers for Continuous Delivery with Maven and Docker
 * [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
-* [Jeroen van WilgenburgLeave a comment](https://vanwilgenburg.wordpress.com/2018/08/22/lessons-learned-after-serving-thousands-of-concurrent-users-in-a-devops-team-for-a-year/) - (2018) Lessons learned after serving thousands of concurrent users in a devops team for a year
+* [Jeroen van Wilgenburg](https://vanwilgenburg.wordpress.com/2018/08/22/lessons-learned-after-serving-thousands-of-concurrent-users-in-a-devops-team-for-a-year/) - (2018) Lessons learned after serving thousands of concurrent users in a devops team for a year
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
