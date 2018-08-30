@@ -2180,6 +2180,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jobat](https://www.jobat.be/fr/articles/20-methodes-pour-trouver-sa-vocation/) - (2013) [FR] :fr: 20 méthodes pour trouver sa vocation
 * [Natasha Stanley](https://www.careershifters.org/expert-advice/no-clear-career-ideas-the-3-mistakes-youre-making-and-3-things-to-do-instead) - No Clear Career Ideas? The 3 Mistakes You’re Making (And 3 Things To Do Instead)
 * [Blaz Kos](https://agileleanlife.com/business-model-you/) - Business Model You – Book Summary – Reinvent your career
+* [Gretchen Rubin](https://www.realsimple.com/health/mind-mood/emotional-health/things-can-happy-next-minutes) - 9 Things You Can Do to Be Happy in the Next 30 Minutes
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -4695,6 +4696,7 @@ Raw
 * [Tuck Sleep](https://www.tuck.com/memory-and-sleep/) - (2017) Memory and Sleep | How Does Sleep Affect Your Short and Long Term Memory
 * [Derek Sivers](https://sivers.org/ff) - (2010) [Video] First Follower: Leadership Lessons from a Dancing Guy | a Lesson of leadership
 * [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
+* [Gretchen Rubin](https://www.realsimple.com/health/mind-mood/emotional-health/things-can-happy-next-minutes) - 9 Things You Can Do to Be Happy in the Next 30 Minutes
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -5136,6 +5138,7 @@ Raw
 * [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
 * [Matthew Yglesias](https://www.vox.com/2014/8/5/5970767/case-against-time-zones) - (2014) The case against time zones: They're impractical & outdated
 * [Charles Petzold](http://www.charlespetzold.com/blog/2015/07/De-Obfuscating-the-Statistics-of-Mass-Shootings.html) - (2015) De-Obfuscating the Statistics of Mass Shootings
+* [Mariel Bluteau](https://www.franceinter.fr/societe/nous-sommes-face-a-un-danger-comparable-a-celui-d-une-guerre-mondiale-sans-doute-meme-plus-grave-cyril-dion) - (2018) [FR] :fr: Psycho : comment expliquer le déni face au réchauffement climatique ?
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
