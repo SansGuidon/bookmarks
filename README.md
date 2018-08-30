@@ -2192,6 +2192,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gretchen Rubin](https://www.realsimple.com/health/mind-mood/emotional-health/things-can-happy-next-minutes) - 9 Things You Can Do to Be Happy in the Next 30 Minutes
 * [Libby Sander](http://www.bbc.com/capital/story/20180718-open-offices-make-people-talk-less-and-email-more) - (2018) Open offices make people talk less and email more
 * [Carl Phillips](https://minimalism.life/frugality-and-the-simpler-life/) - (2018) Frugality and the Simpler Life
+* [Hampus Jakobsson](https://hajak.se/how-to-get-things-done-and-not-die-7df12873b388) - (2018) How to get things done and not die
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -3121,6 +3122,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
 * [Color names](https://www.graphviz.org/doc/info/colors.html) - color names for graphviz, plantuml, etc...
 * [Michele Lim](https://community.atlassian.com/t5/Marketplace-Apps-articles/The-7-hacks-of-highly-successful-automation/ba-p/871490) - (2018) The 7 hacks of highly successful automation
+* [Hampus Jakobsson](https://hajak.se/how-to-get-things-done-and-not-die-7df12873b388) - (2018) How to get things done and not die
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
