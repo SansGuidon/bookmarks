@@ -231,6 +231,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Kai Niklas](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b) - (2018) 38 Actions and Insights to Become a Better Software Architect
 * [Architectural Katas](https://archkatas.herokuapp.com/) - small-group exercises for practicing being software architect 
 * [The C4 model](http://c4model.com/) - consists of a hierarchical set of software architecture diagrams for context, containers, components, and code.
+* [Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html) - (2013) Introducing Event Storming | EventStorming is a workshop format for quickly exploring complex business domains.
+* [Jeppe Cramon](https://www.slideshare.net/jeppec/event-storming-48594742) - (2015) [Slides] Event storming
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -668,6 +670,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
 * [Ron Jeffries](https://ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
+* [Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html) - (2013) Introducing Event Storming | EventStorming is a workshop format for quickly exploring complex business domains.
+* [Jeppe Cramon](https://www.slideshare.net/jeppec/event-storming-48594742) - (2015) [Slides] Event storming
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
