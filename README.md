@@ -2916,6 +2916,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lou Bichard](https://simpleprogrammer.com/overcoming-obstacles-stoic-mindset/) - (2018) Overcoming Programmer Career Obstacles With A Stoic Mindset
 * [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme 
 * [John Cleese](https://www.youtube.com/watch?v=wvVPdyYeaQU) - [Video] on Stupidity
+* [BrainyQuote](https://www.brainyquote.com/topics/patience) - Patience Quotes
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
