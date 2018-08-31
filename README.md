@@ -417,6 +417,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Brave New Coin](https://bravenewcoin.com/) - Bitcoin Price, Charts, Research, Cryptocurrency Insights
 * [Slofile](https://slofile.com/category/Crypto) - Slack channels on cryptocurrency
 * [CSVShare](https://csvshare.com/view/Vk_tfwlTX) - Blockchain & Crypto Slack Communities
+* [WalletInvestor](https://walletinvestor.com/forecast) - Cryptocurrency Forecast (Bitcoin & Altcoin, ICO Prediction, Prognosis 2018, 2019) 
 
 > Learn
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
