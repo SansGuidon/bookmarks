@@ -672,6 +672,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ron Jeffries](https://ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
 * [Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html) - (2013) Introducing Event Storming | EventStorming is a workshop format for quickly exploring complex business domains.
 * [Jeppe Cramon](https://www.slideshare.net/jeppec/event-storming-48594742) - (2015) [Slides] Event storming
+* [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -739,6 +740,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme 
 * [Derek Sivers](https://sivers.org/slow) - (2016) I’m a very slow thinker
 * [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
+* [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1491,7 +1493,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Docker](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV) - [Videos] content from DockerCon 2017
 * [Mike Ensor](https://dev9.com/blog-posts/2017/1/containers-the-software-development-life-cycles-last-mile-ks7cp) - (2018) Containers: The Software Development Life Cycle’s Last Mile
  * [Philipp Hauer](https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/) - (2016) Version Numbers for Continuous Delivery with Maven and Docker
-
+* [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
+ 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
@@ -2798,6 +2801,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gabe Hicks](https://dev9.com/blog-posts/2017/4/6-ways-to-control-cloud-costs) - (2017) 6 Ways to Control Cloud Costs
 * [Nexthink](https://www.nexthink.com/periodic-table/) - Periodic Table of IT Ops Tools
 * [Antonio Cangiano](https://programmingzen.com/building-better-software-info-ops-daniel-b-markham-interview/) - (2018) Building Better Software With Info-Ops: An Interview With Daniel B. Markham
+* [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
