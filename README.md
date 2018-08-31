@@ -3138,6 +3138,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Michele Lim](https://community.atlassian.com/t5/Marketplace-Apps-articles/The-7-hacks-of-highly-successful-automation/ba-p/871490) - (2018) The 7 hacks of highly successful automation
 * [Hampus Jakobsson](https://hajak.se/how-to-get-things-done-and-not-die-7df12873b388) - (2018) How to get things done and not die
 * [Sam Altman](https://www.atrium.co/blog/sam-altman-start-the-right-company/?hn) - (2018) How to Avoid Distractions and Start the Right Company: Startup Tips from Sam Altman
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2018/05/20/staying-focused/) - (2018) Staying focused, the productive way
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
