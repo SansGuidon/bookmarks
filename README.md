@@ -115,6 +115,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Society](#society)
 * [Sports](#sports)
 * [Testing](#testing)
+* [Travel](#travel)
 * [Troubleshooting](#troubleshooting)
 * [UX / UI](#ux--ui)
   * [Design humor](#design-humor)
@@ -4561,7 +4562,7 @@ Raw
 * [The Codeless Code](http://thecodelesscode.com/case/random) - An illustrated collection of (sometimes violent) fables, concerning the Art and Philosophy of software development
 * [Steve Losh](http://stevelosh.com/blog/2013/04/git-koans/) - (2013) Git Koans. Inspired by [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/)
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/vim-koans/) - (2016) Vim Koans
-* [Tom Ryder](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt) - Emperor Sh and the Traveller  "Don't do it in shell"
+* [Tom Ryder](https://sanctum.geek.nz/etc/emperor-sh-and-the-haler.txt) - Emperor Sh and the Traveller  "Don't do it in shell"
 * [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
 * [Eric Steven Raymond](http://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
 * [Danny Hillis](http://catb.org/jargon/html/koans.html) - (2003) Some AI Koans
@@ -5260,6 +5261,9 @@ Raw
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 * [JSONLint](https://jsonlint.com/) - JSON validator
 * [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
+
+# Travel
+* [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
