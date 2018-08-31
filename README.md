@@ -3138,11 +3138,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jacquelyn Smith](https://www.forbes.com/sites/jacquelynsmith/2012/06/22/how-to-ignore-distractions-at-work/#7e4b56663641) - (2012) How To Ignore Distractions In The Workplace
 * [Anjida Sripongworakul](http://blogs.lse.ac.uk/studentsatlse/2016/11/16/if-i-could-tell-you-one-thing-lessons-in-how-to-create-and-how-to-succeed/) - (2016) If I could tell you one thing…lessons in how to create and how to succeed
 * [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
-* [Color names](https://www.graphviz.org/doc/info/colors.html) - color names for graphviz, plantuml, etc...
+* [Graphviz Docs](https://www.graphviz.org/doc/info/colors.html) - color names for graphviz, plantuml, etc...
 * [Michele Lim](https://community.atlassian.com/t5/Marketplace-Apps-articles/The-7-hacks-of-highly-successful-automation/ba-p/871490) - (2018) The 7 hacks of highly successful automation
 * [Hampus Jakobsson](https://hajak.se/how-to-get-things-done-and-not-die-7df12873b388) - (2018) How to get things done and not die
 * [Sam Altman](https://www.atrium.co/blog/sam-altman-start-the-right-company/?hn) - (2018) How to Avoid Distractions and Start the Right Company: Startup Tips from Sam Altman
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/05/20/staying-focused/) - (2018) Staying focused, the productive way
+* [Graphviz Docs](https://www.graphviz.org/doc/info/attrs.html) - Node, Edge and Graph Attributes
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
