@@ -782,6 +782,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
 * [Sam Thielman](https://news.vice.com/en_us/article/8xm7dx/rick-and-morty-is-a-tv-powerhouse-because-millennials-are-broke) - (2017) Why broke millennials love “Rick and Morty”
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
+* [Linux Academy](https://linuxacademy.com/amazon-web-services/courses) - Courses: Master your Linux and cloud stack. | Azure, OpenStack, DevOps, Big Data, Containers, Security, AWS, Google Cloud Platform, Linux, ... **Examples** : [AWS Certification Training](https://linuxacademy.com/amazon-web-services/courses)
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1107,6 +1108,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Antonio Cangiano](https://programmingzen.com/building-better-software-info-ops-daniel-b-markham-interview/) - (2018) Building Better Software With Info-Ops: An Interview With Daniel B. Markham
 * [AJ Ross, Adrian Hilton, Dave Rensin](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html) - (2017) SLOs, SLIs, SLAs, oh my - CRE life lessons | for DevOps professionals / SRE 
 * [Tim Hall](https://oracle-base.com/blog/2018/06/12/why-automation-matters-lost-time/) - (2018) Why Automation Matters : Lost Time
+* [Linux Academy](https://linuxacademy.com/amazon-web-services/courses) - Courses: Master your Linux and cloud stack. | Azure, OpenStack, DevOps, Big Data, Containers, Security, AWS, Google Cloud Platform, Linux, ... **Examples** : [AWS Certification Training](https://linuxacademy.com/amazon-web-services/courses)
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
