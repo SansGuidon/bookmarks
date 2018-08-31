@@ -2062,6 +2062,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeux libres](http://jeuxlibres.net/) - :fr: [FR] un catalogue de jeux vidéos libres principalement sous GNU/Linux
 * [Abandonware France](https://www.abandonware-france.org/) - :fr: [FR] l'histoire des vieux jeux video et retrogaming
 * [DHTML Lemmings](https://www.elizium.nu/scripts/lemmings/) - a remake of Lemmings all written in JavaScript, to play in your browser
+* [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home
 
 ## Role-playing
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
