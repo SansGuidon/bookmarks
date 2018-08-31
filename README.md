@@ -5322,6 +5322,7 @@ Raw
 * [Christiaan Verwijs](https://blog.agilistic.nl/7-powerful-ways-to-get-feedback-from-users-in-scrum/) - 7 Powerful Ways To Get Feedback From Users (In Scrum)
 * [John Cutler](https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480) - (2018) We Can’t Do That In One Sprint
 * [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
+* [Moritz Arendt](https://www.getopensocial.com/blog/community-management/real-users-dont-read-manuals) - (2017) Real Users Don't Read Manuals
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
