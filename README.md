@@ -230,6 +230,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Vijini Mallawaarachchi](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - (2017) 10 Common Software Architectural Patterns in a nutshell
 * [Kai Niklas](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b) - (2018) 38 Actions and Insights to Become a Better Software Architect
 * [Architectural Katas](https://archkatas.herokuapp.com/) - small-group exercises for practicing being software architect 
+* [The C4 model](http://c4model.com/) - consists of a hierarchical set of software architecture diagrams for context, containers, components, and code.
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
