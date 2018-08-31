@@ -402,6 +402,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mike Ensor](https://dev9.com/blog-posts/2017/1/containers-the-software-development-life-cycles-last-mile-ks7cp) - (2018) Containers: The Software Development Life Cycle’s Last Mile
 * [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
 * [Robert Greene, Joost Elffers](http://www.elffers.com/low/start/index2.html) - The 48 Laws of Power
+* [Sam Altman](https://www.atrium.co/blog/sam-altman-start-the-right-company/?hn) - (2018) How to Avoid Distractions and Start the Right Company: Startup Tips from Sam Altman
 
 ## Cryptocurrency
 > News
@@ -3136,6 +3137,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Color names](https://www.graphviz.org/doc/info/colors.html) - color names for graphviz, plantuml, etc...
 * [Michele Lim](https://community.atlassian.com/t5/Marketplace-Apps-articles/The-7-hacks-of-highly-successful-automation/ba-p/871490) - (2018) The 7 hacks of highly successful automation
 * [Hampus Jakobsson](https://hajak.se/how-to-get-things-done-and-not-die-7df12873b388) - (2018) How to get things done and not die
+* [Sam Altman](https://www.atrium.co/blog/sam-altman-start-the-right-company/?hn) - (2018) How to Avoid Distractions and Start the Right Company: Startup Tips from Sam Altman
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
