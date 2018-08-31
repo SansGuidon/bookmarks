@@ -2204,6 +2204,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Hampus Jakobsson](https://hajak.se/how-to-get-things-done-and-not-die-7df12873b388) - (2018) How to get things done and not die
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
+* [Avdi Grimm](http://www.virtuouscode.com/2014/02/10/the-passion-gospel/) - (2014) The Passion Gospel | No product or company deserves your passion. You can choose to throw your passion into anything you want, but no project inherently deserves it.
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
