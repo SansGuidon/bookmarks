@@ -3610,6 +3610,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 * [The Codeless Code](http://thecodelesscode.com/case/random) - An illustrated collection of (sometimes violent) fables, concerning the Art and Philosophy of software development
 * [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html) - (2017) Just Following Orders | Reminder: Doing your job does not mean that you just follow orders. The courts are going to hold you to a high ethical standard, even if your employer does not.
+* [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3826,6 +3827,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Wikipedia](https://en.wikipedia.org/wiki/Rule_of_three_%28computer_programming%29) - Rule of three (computer programming) | only refactor when similar code is used three times (and more)
 * [Johannes Brodwall](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/) - (2018) Forget about Clean Code, let’s embrace Compassionate Code | Make people Awesome. Clean Code may help or hurt that goal. Learn to see the difference.
 * [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
+* [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
 
 ## Conferences
 > In Belgium
@@ -4487,6 +4489,7 @@ Raw
 * [Michael Malis](http://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) - (2017) How to Improve Your Productivity as a Working Programmer | It only takes one or two changes each week for things to quickly snowball.
 * [Jan Mewes](https://dev.to/janux_de/how-to-pick-up-a-new-technology-in-minimal-time-2i4l) - (2018) How to pick up a new technology in minimal time?
 * [Ron Jeffries](https://ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
+* [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
