@@ -4681,6 +4681,7 @@ Raw
 * [Security Now!](https://www.grc.com/securitynow.htm) - weekly audio security column & podcast by Steve Gibson and Leo Laporte
 * [qit](https://qit.cloud/) - Search for Tech podcasts by topic 
 * [The Life Coach School](https://thelifecoachschool.com/podcasts/) - podcasts by Brooke Castillo
+* [Change ma vie](https://changemavie.com/episodes) - [FR] :fr: le podcast qui vous donne des outils pour votre esprit. par Clotilde Dusoulier
 
 # Psychology
 > News
@@ -4771,6 +4772,8 @@ Raw
 * [Robert Greene, Joost Elffers](http://www.elffers.com/low/start/index2.html) - The 48 Laws of Power
 * [Alicia Liu](https://blog.navapbc.com/when-it-comes-to-feedback-start-with-yourself-801684120cca) - (2018) When It Comes to Feedback, Start with Yourself. Changing yourself leads to change in others. | Leadership
 * [Joshua Becker](https://www.becomingminimalist.com/science-happiness/) - (2018) Want to Lead a Happy Life? Science Says to Focus on These 10 Things
+* [The Life Coach School](https://thelifecoachschool.com/podcasts/) - podcasts by Brooke Castillo
+* [Change ma vie](https://changemavie.com/episodes) - [FR] :fr: le podcast qui vous donne des outils pour votre esprit. par Clotilde Dusoulier
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
