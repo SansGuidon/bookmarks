@@ -16,11 +16,12 @@
 * [Untappd](https://untappd.com/user/MorganGeek/wishlist) - MorganGeek' wishlist of beers
 * [GitHub](https://github.com/search?utf8=%E2%9C%93&q=declarative+stage+steps&type=Code) - Examples of declarative jenkins pipelines
 * [Caracol](http://www.webopac.cfwb.be/nivelles/dispatcher.aspx?action=historySearch&database=ChoiceBooks&search=((ex-%3Eej%20=%20%22Gembloux*%22))&limit=25&SRT0=ti&TYP0=&SEQ0=ascending&position=1) - [FR] Gembloux / Bibloux Books catalog 
-* [Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - fake o'reilly books pictures on Google
+* [Google Search](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - fake o'reilly books pictures on Google
 * [Twitter](https://twitter.com/search?q=%23QuickTip&src=savs) - #QuickTip on twitter
 * [GitHub](https://github.com/topics/awesome) - Topic: awesome on GitHub
 * [Twitter](https://twitter.com/search?q=practices%20list%20programming%20&src=typd) - list of programming practices on Twitter
 * [Twitter](https://twitter.com/search?q=dev%20operability&src=typd) - dev + operability on twitter
 * [Facebook Mobile](https://m.facebook.com/pages/launchpoint/discover/?from=pages_nav_discover&ref=timeline_chaining) - discover pages of interest. **See also** : [Discover pages based on given contextid](https://m.facebook.com/pages/launchpoint/discover/?ref=timeline_chaining&from=timeline_chaining&contextid=499718403532040&pymlcategory=timeline_similar) or [find similar pages](https://www.facebook.com/pages/?ref=page_suggestions_on_liking_refresh&frompageid=) **Related** : * [Find your Facebook ID](https://findmyfbid.com/) - find the Facebook context / numeric ID for profile and pages
 * [SlideShare](https://www.slideshare.net//tag/ansible) - ansible related slideshares
-* [Google](https://www.google.be/search?q=why+devops+is+bad) - Why devops is bad
+* [Google Search](https://www.google.be/search?q=why+devops+is+bad) - Why devops is bad
+* [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
