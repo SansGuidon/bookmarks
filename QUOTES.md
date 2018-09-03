@@ -80,3 +80,4 @@
 * You can't be a senior software engineer unless you take ops seriously - [Source](https://twitter.com/esigler/status/778706455419465728)
 * Leave Things BETTER than you found them. - Robert Baden Powell
 * 90% of the bugs I produced were for one of the two reasons. 1) Doing multiple things at one place. 2) Doing one thing at multiple places [Source](https://twitter.com/CodeWisdom/status/998180793385209856)
+* [victorlaerte/awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes) - a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
