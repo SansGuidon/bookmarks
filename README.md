@@ -5117,6 +5117,7 @@ Raw
 * [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
 * [Information Security Stack Exchange](https://security.stackexchange.com/questions/51512/why-pull-upgrade-from-production-server-rather-pushing-them-from-development-ser) - Why pull upgrade from production server rather pushing them from development server?
 * [Information Security Stack Exchange](https://security.stackexchange.com/questions/162273/password-manager-or-two-actor-authentication) - Password manager or two -actor authentication
+* [Yukinoshita47/Yuki-Chan-The-Auto-Pentest](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest) - an Automated Penetration Testing tool this tool will auditing all standard security test method for you.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
