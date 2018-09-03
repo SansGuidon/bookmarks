@@ -5368,6 +5368,7 @@ Raw
 * [John Cutler](https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480) - (2018) We Can’t Do That In One Sprint
 * [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
 * [Moritz Arendt](https://www.getopensocial.com/blog/community-management/real-users-dont-read-manuals) - (2017) Real Users Don't Read Manuals
+* [Web Design Museum](https://www.webdesignmuseum.org/) - The museum exhibits over 900 carefully selected and sorted web sites that show web design trends between the years 1995 and 2005.
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
