@@ -4921,6 +4921,7 @@ Raw
 * [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
 * [Tom Ryder](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt) - Emperor Sh and the Traveller  "Don't do it in shell"
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/shell-from-vi/) - (2017) Shell from vi
+* [Kevin Marquette](https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/) - (2017) Powershell: Building a Module, one microstep at a time
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -5494,6 +5495,7 @@ Raw
 * [MorganGeek](cheat/windows-subsystem.md) - Windows Subsystem for Linux cheatsheet / tips
 * [jeffpatton1971/mod-posh](https://github.com/jeffpatton1971/mod-posh) - A collection of PowerShell scripts and script modules
 * [Amar Kulo](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/) - (2017) Integrating database of pwned password hashes with Microsoft AD
+* [Kevin Marquette](https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/) - (2017) Powershell: Building a Module, one microstep at a time
 
 # Writing
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
