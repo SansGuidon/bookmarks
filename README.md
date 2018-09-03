@@ -2414,7 +2414,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Pradipta Kumar Banerjee](http://cloudgeekz.com/625/howto-create-a-docker-image-for-rhel.html) - Howto create a Docker Image for RHEL
 * [Red Hat Customer Portal](https://access.redhat.com/articles/2772861) - Differences between RHEL Server and RHEL Atomic Host
 * [Vivek Gite](https://www.cyberciti.biz/faq/centos-redhat-fedora-yum-lock-package-version-command/) - CentOS / RHEL: Yum Lock Package Version At a Particular Version
-* [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 40 Linux Server Hardening Security Tips
+* :star: [**Vivek Gite**](https://www.cyberciti.biz/tips/linux-security.html) - (2017) 40 Linux Server Hardening Security Tips
 * [LewisVo/Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software/) - curated list of awesome applications, softwares, tools and other materials for Linux distros.
 * [Brendan D. Gregg](http://www.brendangregg.com/Perf/linux_observability_tools.png) - [IMG] Linux performance observability tools
 * [Curl Docs](https://curl.haxx.se/docs/comparison-table.html) - Compare curl Features with Other Download Tools
@@ -2808,6 +2808,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Nexthink](https://www.nexthink.com/periodic-table/) - Periodic Table of IT Ops Tools
 * [Antonio Cangiano](https://programmingzen.com/building-better-software-info-ops-daniel-b-markham-interview/) - (2018) Building Better Software With Info-Ops: An Interview With Daniel B. Markham
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
+* :star: [**Vivek Gite**](https://www.cyberciti.biz/tips/linux-security.html) - (2017) 40 Linux Server Hardening Security Tips
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -5001,7 +5002,7 @@ Raw
 * [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
 * [Johannes Gilger](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/) - SSH Agent Forwarding considered harmful
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
-* [Vivek Gite](https://www.cyberciti.biz/tips/linux-security.html) - 40 Linux Server Hardening Security Tips
+* :star: [**Vivek Gite**](https://www.cyberciti.biz/tips/linux-security.html) - (2017) 40 Linux Server Hardening Security Tips
 * [Passive Aggressive Passwords](http://www.trypap.com/) - [Humor] The Passive Aggressive Password Machine
 * [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
 * [Aptive](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - guide for SSL / TLS penetration testing
