@@ -1121,6 +1121,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [AJ Ross, Adrian Hilton, Dave Rensin](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html) - (2017) SLOs, SLIs, SLAs, oh my - CRE life lessons | for DevOps professionals / SRE 
 * [Tim Hall](https://oracle-base.com/blog/2018/06/12/why-automation-matters-lost-time/) - (2018) Why Automation Matters : Lost Time
 * [Linux Academy](https://linuxacademy.com/amazon-web-services/courses) - Courses: Master your Linux and cloud stack. | Azure, OpenStack, DevOps, Big Data, Containers, Security, AWS, Google Cloud Platform, Linux, ... **Examples** : [AWS Certification Training](https://linuxacademy.com/amazon-web-services/courses)
+* [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -2812,6 +2813,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 * :star: [**Vivek Gite**](https://www.cyberciti.biz/tips/linux-security.html) - (2017) 40 Linux Server Hardening Security Tips
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
+* [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
