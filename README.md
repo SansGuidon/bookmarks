@@ -1944,6 +1944,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Siftery](https://siftery.com/trending) - Trending products | explore softwares others people are using at work
 * [Libraries.io](https://libraries.io/) - discovers millions open source libraries accros +36 package managers
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
+* [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
