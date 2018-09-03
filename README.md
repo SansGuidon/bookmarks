@@ -1556,7 +1556,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [jenkinsci/jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts/tree/master/scriptler) - collection of utility scripts for use with Jenkins
 * [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md) - collection of tips, advice, gotchas and other best practices for using Jenkins Pipeline
 * [fabric8io/fabric8-jenkinsfile-library](https://github.com/fabric8io/fabric8-jenkinsfile-library) - library of reusable Jenkinsfile, which make use of Fabric8 Pipeline library
-* [fabric8io/fabric8-pipeline-library](https://github.com/fabric8io/fabric8-pipeline-library) - Source code of Fabric8 Pipeline library for Jenkins
+* :star: [**fabric8io/fabric8-pipeline-library**](https://github.com/fabric8io/fabric8-pipeline-library) - Source code of Fabric8 Pipeline library for Jenkins
 * [terradatum/jenkins-pipeline-library](https://github.com/terradatum/jenkins-pipeline-library/tree/master/vars) - source code of Terradatum Pipeline library for Jenkins
 * [pedroamador/jenkins-pipeline-library](https://github.com/pedroamador/jenkins-pipeline-library) - another Jenkins Pipeline Library
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/) - Extending with Shared Libraries
