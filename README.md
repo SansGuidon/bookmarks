@@ -3615,6 +3615,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Codeless Code](http://thecodelesscode.com/case/random) - An illustrated collection of (sometimes violent) fables, concerning the Art and Philosophy of software development
 * [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html) - (2017) Just Following Orders | Reminder: Doing your job does not mean that you just follow orders. The courts are going to hold you to a high ethical standard, even if your employer does not.
 * [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
+* [victorlaerte/awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes) - a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
