@@ -235,6 +235,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeppe Cramon](https://www.slideshare.net/jeppec/event-storming-48594742) - (2015) [Slides] Event storming
 * [Jesse Weaver](https://medium.com/s/story/a-simple-framework-for-designing-choices-ab93e0fc6610) - (2015) A Simple Framework for Designing Choices | No design is neutral
 * [Jerry Hargrove](https://www.awsgeek.com/) - AWS | Cloud Diagrams & Notes
+* [Gordon Brander](http://gordonbrander.com/pattern/) - Patterns : "This is my bag of tricks — loose notes, design patterns, rules-of-thumb, methods of enquiry, tools, cheatsheets, gimmicks, leverage points, descriptions of systems, key questions, risks, and unknowns."
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -680,6 +681,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 * [Jesse Weaver](https://medium.com/s/story/a-simple-framework-for-designing-choices-ab93e0fc6610) - (2015) A Simple Framework for Designing Choices | No design is neutral
 * [Lolly Daskal](https://medium.com/s/story/10-dumb-rules-that-make-your-best-people-want-to-quit-8491b446dde5) - (2017) Dumb Rules That Make Your Best People Want to Quit | TL;DR — Trust employees like the adults they are
+* [Gordon Brander](http://gordonbrander.com/pattern/) - Patterns : "This is my bag of tricks — loose notes, design patterns, rules-of-thumb, methods of enquiry, tools, cheatsheets, gimmicks, leverage points, descriptions of systems, key questions, risks, and unknowns."
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3176,6 +3178,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sam Altman](https://www.atrium.co/blog/sam-altman-start-the-right-company/?hn) - (2018) How to Avoid Distractions and Start the Right Company: Startup Tips from Sam Altman
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/05/20/staying-focused/) - (2018) Staying focused, the productive way
 * [Graphviz Docs](https://www.graphviz.org/doc/info/attrs.html) - Node, Edge and Graph Attributes
+* [Gordon Brander](http://gordonbrander.com/pattern/) - Patterns : "This is my bag of tricks — loose notes, design patterns, rules-of-thumb, methods of enquiry, tools, cheatsheets, gimmicks, leverage points, descriptions of systems, key questions, risks, and unknowns."
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
