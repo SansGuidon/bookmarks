@@ -1,6 +1,6 @@
 I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world. I'm also on Twitter at [@MorganGeek](https://twitter.com/MorganGeek)
 
-+:warning: :squirrel: I advise you to consult this very same page at https://github.com/MorganGeek/bookmarks/blob/master/README.md for integral content, as [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729), 
++:warning: :squirrel: I advise you to consult this very same page at https://github.com/MorganGeek/bookmarks/blob/master/README.md for integral content, as [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729)
 
 ## Contents
 
@@ -1657,6 +1657,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sandeep Dinesh](https://www.weave.works/blog/kubernetes-best-practices) - (2018) Top 5 Kubernetes Best Practices From Sandeep Dinesh (Google)
 * [Ádám Sándor](https://container-solutions.com/propagating-configuration-from-terraform-to-kubernetes-apps/) - (2018) Propagating configuration from Terraform to Kubernetes Apps
 * [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo) - [Video] videos from KubeCon + CloudNativeCon 2018 - Copenhagen
+* [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -5131,6 +5132,7 @@ Raw
 * [Information Security Stack Exchange](https://security.stackexchange.com/questions/51512/why-pull-upgrade-from-production-server-rather-pushing-them-from-development-ser) - Why pull upgrade from production server rather pushing them from development server?
 * [Information Security Stack Exchange](https://security.stackexchange.com/questions/162273/password-manager-or-two-actor-authentication) - Password manager or two -actor authentication
 * [Yukinoshita47/Yuki-Chan-The-Auto-Pentest](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest) - an Automated Penetration Testing tool this tool will auditing all standard security test method for you.
+* [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
