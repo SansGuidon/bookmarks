@@ -3112,7 +3112,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - How to Actually Publish More Things
 * [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] :fr: Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
-* [MorganGeek blog](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] :fr: La sélection naturelle de contenus
+* [MorganGeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] :fr: La sélection naturelle de contenus
 * [Mike Davidson](https://twitter.com/iok/status/497749033918558209/photo/1) - [IMG] Wisdom : A prototype is worth a thousand meetings
 * [Jeff Atwood](https://blog.codinghorror.com/because-reading-is-fundamental-2/) - (2014) Because Reading is Fundamental / spend less time talking and more time reading
 * [Mike Veerman](https://medium.com/@mikeveerman/simple-is-the-opposite-of-easy-56d585f95039) - Simple is the opposite of easy
