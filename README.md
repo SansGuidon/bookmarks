@@ -683,6 +683,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jesse Weaver](https://medium.com/s/story/a-simple-framework-for-designing-choices-ab93e0fc6610) - (2015) A Simple Framework for Designing Choices | No design is neutral
 * [Lolly Daskal](https://medium.com/s/story/10-dumb-rules-that-make-your-best-people-want-to-quit-8491b446dde5) - (2017) Dumb Rules That Make Your Best People Want to Quit | TL;DR — Trust employees like the adults they are
 * [Gordon Brander](http://gordonbrander.com/pattern/) - Patterns : "This is my bag of tricks — loose notes, design patterns, rules-of-thumb, methods of enquiry, tools, cheatsheets, gimmicks, leverage points, descriptions of systems, key questions, risks, and unknowns."
+* [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/12/process.html) - (2011) Who Needs Process? 
+> Get rid of your prioritized list of tasks. Stop having your daily stand-ups. No more status report e-mails. Just stop doing that stuff, and get rid of anyone who can't cope. Nothing terrible will happen.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3184,6 +3186,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/05/20/staying-focused/) - (2018) Staying focused, the productive way
 * [Graphviz Docs](https://www.graphviz.org/doc/info/attrs.html) - Node, Edge and Graph Attributes
 * [Gordon Brander](http://gordonbrander.com/pattern/) - Patterns : "This is my bag of tricks — loose notes, design patterns, rules-of-thumb, methods of enquiry, tools, cheatsheets, gimmicks, leverage points, descriptions of systems, key questions, risks, and unknowns."
+* [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/12/process.html) - (2011) Who Needs Process? 
+> Get rid of your prioritized list of tasks. Stop having your daily stand-ups. No more status report e-mails. Just stop doing that stuff, and get rid of anyone who can't cope. Nothing terrible will happen.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
