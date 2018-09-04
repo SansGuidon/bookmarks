@@ -139,7 +139,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] :fr: Les Patterns des Grands du Web – DevOps
 * [Don MacAskill](https://don.blogs.smugmug.com/2011/04/24/how-smugmug-survived-the-amazonpocalypse/) - How SmugMug survived the Amazonpocalypse
 * [Krishnan Subramanian](https://www.cloudave.com/11973/designing-for-failure-some-key-facts/) - Designing For Failure: Some Key Facts
-* [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
+* [Martin Fowler](https://www.martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 * [Principles of Chaos Engineering](http://principlesofchaos.org/)
 * [Daniel Miessler](https://danielmiessler.com/blog/stop-being-proud-of-complexity/) - Stop Being Proud of Complexity
 * [Derek Greer](http://aspiringcraftsman.com/2008/01/03/art-of-separation-of-concerns/) - (2008) The Art of Separation of Concerns
@@ -185,7 +185,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gregg Caines](http://caines.ca/blog/2009/12/26/the-lost-art-of-prototyping/) - (2009) The Lost Art of Prototyping
 * [Steve McConnell](http://stevemcconnell.com/articles/teach-programming-principles-not-tools-and-tips/) - (1996) Teach Programming Principles, Not “Tools and Tips”
 * [Steve McConnell](http://stevemcconnell.com/articles/keep-it-simple/) - (1996) Keep It Simple
-* [Martin Fowler](https://martinfowler.com/bliki/CQRS.html) - (2011) Command Query Responsibility Segregation (CQRS)
+* [Martin Fowler](https://www.martinfowler.com/bliki/CQRS.html) - (2011) Command Query Responsibility Segregation (CQRS)
 * [Laura klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 * [Kenneth N. Lodding, Nasa](https://queue.acm.org/detail.cfm?id=1016985) - (2004) Hitchhiker's Guide to Biomorphic Software | The natural world may be the inspiration we need for solving our computer problems.
@@ -223,7 +223,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
 * [Graham Lee](https://www.sicpers.info/2018/02/its-about-the-thinking/) - (2018) It’s about the thinking
 * [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
-* [Zhamak Dehghani](https://martinfowler.com/articles/break-monolith-into-microservices.html) - (2018) How to break a Monolith into Microservices | What to decouple and when
+* [Zhamak Dehghani](https://www.martinfowler.com/articles/break-monolith-into-microservices.html) - (2018) How to break a Monolith into Microservices | What to decouple and when
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 * [Todd Hoff](http://highscalability.com/blog/2018/8/22/what-do-you-believe-now-that-you-didnt-five-years-ago-centra.html) - (2018) What Do You Believe Now That You Didn't Five Years Ago? Centralized Wins. Decentralized Loses.
 * [Dustin Barnes](https://dev9.com/blog-posts/2017/5/increasing-software-transparency-with-lightweight-architectural-decision-records) - (2017) Increasing Software Transparency with Lightweight Architectural Decision Records
@@ -626,7 +626,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Srinivas Rao](https://medium.com/the-mission/professionals-vs-amateurs-6ef9ec64cbc3) - (2018) Professionals vs Amateurs
 > When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
 * [The XY problem](http://xyproblem.info/) - (2014) is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
-* [Eric Steven Raymond, Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
+* [Eric Steven Raymond, Rick Moen](https://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
 * [Josh Johnson](https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/) - (2015) DevOps Is Bullshit: Why One Programmer Doesn’t Do It Anymore
 * [Hacker News](https://news.ycombinator.com/item?id=16227268) - (2018) Building an Engineering Culture from scratch?
 * [Thomas Wedell-Wedellsborg](https://hbr.org/2017/01/are-you-solving-the-right-problems) - (2017) Are You Solving the Right Problems? via [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/03/11/export-to-pdf-a-tale-in-understanding-the-business-need/)'s article titled "Export to PDF: A Tale in Understanding the Business Need"
@@ -676,7 +676,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jan Mewes](https://dev.to/janux_de/how-to-pick-up-a-new-technology-in-minimal-time-2i4l) - (2018) How to pick up a new technology in minimal time?
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
-* [Ron Jeffries](https://ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
+* [Ron Jeffries](https://www.ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
 * [Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html) - (2013) Introducing Event Storming | EventStorming is a workshop format for quickly exploring complex business domains.
 * [Jeppe Cramon](https://www.slideshare.net/jeppec/event-storming-48594742) - (2015) [Slides] Event storming
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
@@ -1672,7 +1672,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
-* [Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
+* [Martin Fowler](https://www.martinfowler.com/bliki/MonolithFirst.html) - MonolithFirst
 * [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - curated list of Microservice Architecture related principles and technologies.
 * [Milen Dyankov](https://www.youtube.com/watch?v=O77777Zy_HE) - [Video] Microservices and Modularity or the difference between treatment and cure!
 * [Richard Clayton](https://rclayton.silvrback.com/failing-at-microservices) - (2014) Failing at Microservices. | Please avoid our mistakes!
@@ -1686,7 +1686,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Avi Cavale](http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository) - (2016) Our journey to microservices: mono repo vs multiple repositories
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
 * [Hacker News](https://news.ycombinator.com/item?id=16166645) - (2018) Ask HN: How do you keep track of releases/deployments of dozens micro-services?
-* [Zhamak Dehghani](https://martinfowler.com/articles/break-monolith-into-microservices.html) - (2018) How to break a Monolith into Microservices | What to decouple and when
+* [Zhamak Dehghani](https://www.martinfowler.com/articles/break-monolith-into-microservices.html) - (2018) How to break a Monolith into Microservices | What to decouple and when
 
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
@@ -2203,7 +2203,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Cornell University Ergonomics Web](http://ergo.human.cornell.edu/AHTutorials/typingposture.html) - Ideal typing posture: Negative slope keyboard support
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/18/rsi-solution/) - (2016) How I stopped the RSI pain that almost destroyed my programming career
 * [tamar Turner-Trauring](https://codewithoutrules.com/2016/08/18/productive-programmer/) - (2016) Less stress, more productivity: why working fewer hours is better for you and your employer
-* [Glassdoor](https://glassdoor.com/) - a site that lets employees post anonymous salaries and reviews of their company.
+* [Glassdoor](https://www.glassdoor.com/) - a site that lets employees post anonymous salaries and reviews of their company.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/14/job-you-dont-hate/) - (2016) How to find a programming job you won’t hate
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/08/living-below-your-means/) - (2016) Why living below your means can help you find a better job
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/03/20/open-floor-plan/) - (2017) Dear recruiter, “open floor space” is not a job benefit
@@ -2504,7 +2504,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The Linux Documentation Project (LDP)](http://www.tldp.org/guides.html) - Linux Documentation Project Guides 
 * [Benjamin Cane](https://bencane.com/2013/12/23/yum-plugins-verifying-packages-and-configurations-with-yum-verify/) - (2013) Yum Plugins: Verifying packages and configurations with Yum Verify
 * [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
-* [Eric Steven Raymond](http://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
+* [Eric Steven Raymond](https://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/cron-best-practices/) - (2016) Cron best practices
 * [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
 
@@ -2606,7 +2606,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
-* [MorganGeek](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
+* [MorganGeek](https://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
 * [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
 * [Clara Darko](https://vimeo.com/112499601) - [Video] Movie montage of dystopian / utopias societies
@@ -2624,7 +2624,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot)
 * [Short of the Week](https://www.shortoftheweek.com/) - Watch the best short films online
-* [MorganGeek](http://morgangeek.be//minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
+* [MorganGeek](https://www.morgangeek.be//minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
 * [Vimeo](https://vimeo.com/) - The high-quality home for video hosting and watching in HD with no ads, used by a vast number of indie filmmakers. The place to find refreshing, art-house movies to stream on demand.
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
@@ -3112,7 +3112,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - How to Actually Publish More Things
 * [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] :fr: Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
-* [MorganGeek](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] :fr: La sélection naturelle de contenus
+* [MorganGeek](https://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] :fr: La sélection naturelle de contenus
 * [Mike Davidson](https://twitter.com/iok/status/497749033918558209/photo/1) - [IMG] Wisdom : A prototype is worth a thousand meetings
 * [Jeff Atwood](https://blog.codinghorror.com/because-reading-is-fundamental-2/) - (2014) Because Reading is Fundamental / spend less time talking and more time reading
 * [Mike Veerman](https://medium.com/@mikeveerman/simple-is-the-opposite-of-easy-56d585f95039) - Simple is the opposite of easy
@@ -3159,7 +3159,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Amy M Haddad](https://medium.com/swlh/effective-tips-for-working-remotely-23cc290a8c08) - (2017) Effective Tips for Working Remotely
 * [Zdravko Cvijetic](https://medium.com/personal-growth/two-essential-principles-that-will-help-you-form-or-break-any-habit-73d3d7aa7692) - (2018) Two Principles That Will Help You Form Any Habit
 * [Dinnie Muslihat](https://blog.zenkit.com/how-the-simple-checklist-can-improve-your-productivity-d061f3c893ec) - (2018) How the simple checklist can improve your productivity | A tool to help you accomplish more things in your day
-* [Eric Steven Raymond, Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
+* [Eric Steven Raymond, Rick Moen](https://www.catb.org/esr/faqs/smart-questions.html) - (2001) How To Ask Questions The Smart Way
 * [Kristen Bahler](http://time.com/money/5077954/linkedin-profile-tips-resume/#77ba6828-9e05-4086-9ccc-0428eea386f4) - (2018) What Your LinkedIn Profile Should Look Like in 2018
 * [Richard Rusczyk](https://artofproblemsolving.com/articles/stupid-mistakes) - (2015) Stop Making Stupid Mistakes | developing good habits and organizing your work.
 * [Tim Ottinger](https://www.industriallogic.com/blog/real-work-workshops/) - (2017) Make People Awesome through Real Work
@@ -3286,7 +3286,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar) - this Android app let you listen to or read on screen the text from other Android apps, e.g. web pages, news articles, long emails, TXT, PDF, DOC, DOCX, RTF ... useful to do multitasking specialists !!
-* [MorganGeek](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
+* [MorganGeek](https://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [Things I Learned Today](http://thingsilearnedtoday.net/2013/07/20/too-many-tabs-in-google-chrome/) - Too Many Tabs in Google Chrome? try this extension
 * [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
 * [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
@@ -3426,8 +3426,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [John Sonmez](https://simpleprogrammer.com/2013/08/19/software-development-career/) - (2013) 4 Things I Wish I Would Have Known When I Started My Software Development Career
 * [JAX Editorial Team](https://jaxenter.com/the-most-dangerous-word-in-the-english-language-for-all-developers-108018.html) - (2014) The most dangerous word in the English language for all developers
 * [Dale Myers](https://myers.io/2017/04/04/the-joel-test-for-2017/) - The Joel Test for 2017
-* [Martin Fowler Site](https://martinfowler.com/) - author, speaker, and loud-mouth on the design of enterprise software. Evangelist of refactoring and CI/CD
-* [Ron Jeffries](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/) - (2014) why you shouldn't put refactoring stories on your backlog
+* [Martin Fowler Site](https://www.martinfowler.com/) - author, speaker, and loud-mouth on the design of enterprise software. Evangelist of refactoring and CI/CD
+* [Ron Jeffries](https://www.ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/) - (2014) why you shouldn't put refactoring stories on your backlog
 * [Martin Fowler](https://www.martinfowler.com/bliki/BoiledCarrot.html) - (2016) When a technique fails ask yourself if it's a faulty technique or a faulty use of the technique
 * [Seph Gentle](https://josephg.com/blog/what-i-tell-all-new-programmers/) - (2014) What I tell all new programmers
 * [Billy Hollis](https://www.youtube.com/watch?v=LiGsw_k8JhY) - (2006) [Video] about programmer code addiction
@@ -3552,8 +3552,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jez Humble](https://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/) - (2011) Make Large Scale Changes Incrementally with Branch By Abstraction
 * [Paul Hammant](https://paulhammant.com/blog/branch_by_abstraction.html) - (2007) Introducing Branch By Abstraction
 * [Trunk Based Development](https://trunkbaseddevelopment.com/) - all the related facts, rationale and techniques for Trunk-Based Development
-* [Martin Fowler](https://martinfowler.com/bliki/FeatureBranch.html) - (2009) FeatureBranch | and dangers of feature branching
-* [Martin Fowler](https://martinfowler.com/bliki/FeatureToggle.html) - (2010) FeatureToggle | feature toggles as an alternative to evil feature branching
+* [Martin Fowler](https://www.martinfowler.com/bliki/FeatureBranch.html) - (2009) FeatureBranch | and dangers of feature branching
+* [Martin Fowler](https://www.martinfowler.com/bliki/FeatureToggle.html) - (2010) FeatureToggle | feature toggles as an alternative to evil feature branching
 * [Fernando Rubbo  ](https://fernandorubbo.blogspot.be/2013/03/feature-toggles-good-or-bad.html) - (2013) Feature toggles: good or bad
 * [John Sonmez](https://simpleprogrammer.com/4-biggest-reasons-software-developers-suck-estimation/) - (2014) Why Software Developers Suck at Estimation
 * [John Sonmez](https://simpleprogrammer.com/5-ways-software-developers-can-become-better-estimation/) - (2014) 5 Ways Software Developers Can Become Better at Estimation
@@ -4622,8 +4622,8 @@ Raw
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/vim-koans/) - (2016) Vim Koans
 * [Tom Ryder](https://sanctum.geek.nz/etc/emperor-sh-and-the-haler.txt) - Emperor Sh and the Traveller  "Don't do it in shell"
 * [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
-* [Eric Steven Raymond](http://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
-* [Danny Hillis](http://catb.org/jargon/html/koans.html) - (2003) Some AI Koans
+* [Eric Steven Raymond](https://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
+* [Danny Hillis](https://www.catb.org/jargon/html/koans.html) - (2003) Some AI Koans
 * [Days Since Last JavaScript Framework](https://dayssincelastjavascriptframework.com/) - with regular updates ! 
 
 ## Prolog
@@ -4843,7 +4843,7 @@ Raw
 * [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site for captcha haters
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 * [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
-* [Danny Hillis](http://catb.org/jargon/html/koans.html) - (2003) Some AI Koans
+* [Danny Hillis](https://www.catb.org/jargon/html/koans.html) - (2003) Some AI Koans
 * [Tim Hall](https://oracle-base.com/blog/2018/06/12/why-automation-matters-lost-time/) - (2018) Why Automation Matters : Lost Time
 
 # Shell scripting
