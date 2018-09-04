@@ -837,6 +837,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Netflix](https://medium.com/@NetflixTechBlog) - NetFlix Technology Blog
 * [Netflix](https://medium.com/netflix-techblog) - Netflix TechBlog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
+* [DevOps'ish](https://devopsish.com/) - DevOps, Cloud Native, Open Source, and the ‘ish in between.
 * [Stack Exchange](https://devops.stackexchange.com/) - DevOps questions & answers
 * :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [Puppet Blog](https://puppet.com/blog)
@@ -865,7 +866,6 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Electric Cloud Blog](https://electric-cloud.com/blog/) - DevOps, Continuous Delivery, and all that jazz...
 * [Continuous Discussions (#c9d9)](https://electric-cloud.com/c9d9-devops-podcast/#recap) - A community podcast, discussing Agile, DevOps & Continuous Delivery
 * [fabric8 Blog](https://blog.fabric8.io/) - Blog of fabric8, the open source microservices platform for developers, based on Docker, Kubernetes and Jenkins
-* [DevOps'ish](https://devopsish.com/) - DevOps, Cloud Native, Open Source, and the ‘ish in between.
 * [sysadvent](https://sysadvent.blogspot.be/) - One article for each day of December, ending on the 25th article | great articles about systems administration topics written by fellow sysadmins.
 * [SysAdvent Calendar](https://www.redpill-linpro.com/sysadvent/) - Pre Christmas Tips and Tricks for Sysadmins
 * [AWS News Blog](https://aws.amazon.com/fr/blogs/aws/)
