@@ -1520,6 +1520,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 * [Play with Docker Classroom](https://training.play-with-docker.com/) - The Play with Docker classroom brings you labs and tutorials that help you get hands-on experience using Docker
 * [Hacker News](https://news.ycombinator.com/item?id=16446226) - Ask HN: What best practices for in-house Docker Registry? | examples of using labels and tags when building the docker images
+* [Théo Chamley](https://cloud.google.com/blog/products/gcp/7-best-practices-operating-containers) - (2018) 7 best practices for operating containers
  
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -1669,6 +1670,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ádám Sándor](https://container-solutions.com/propagating-configuration-from-terraform-to-kubernetes-apps/) - (2018) Propagating configuration from Terraform to Kubernetes Apps
 * [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo) - [Video] videos from KubeCon + CloudNativeCon 2018 - Copenhagen
 * [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
+* [Théo Chamley](https://cloud.google.com/blog/products/gcp/7-best-practices-operating-containers) - (2018) 7 best practices for operating containers
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -2838,6 +2840,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
 * [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 * [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
+* [Théo Chamley](https://cloud.google.com/blog/products/gcp/7-best-practices-operating-containers) - (2018) 7 best practices for operating containers
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
