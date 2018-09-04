@@ -4523,7 +4523,7 @@ Raw
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 * [Michael Malis](http://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) - (2017) How to Improve Your Productivity as a Working Programmer | It only takes one or two changes each week for things to quickly snowball.
 * [Jan Mewes](https://dev.to/janux_de/how-to-pick-up-a-new-technology-in-minimal-time-2i4l) - (2018) How to pick up a new technology in minimal time?
-* [Ron Jeffries](https://ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
+* [Ron Jeffries](https://www.ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
 * [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
 
