@@ -334,6 +334,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
 * [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
 * [MorganGeek](https://researchportal.unamur.be/fr/studentTheses/design-of-a-support-system-for-modelling-gene-regulatory-networks) - (2015) Design of a support system for modelling gene regulatory networks. **Bonus** : [Download in PDF](https://researchportal.unamur.be/files/36918347/2015_WattiezM_memoire.pdf)
+* [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
 
 # Business & Economics
 > News
@@ -750,6 +751,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Derek Sivers](https://sivers.org/slow) - (2016) I’m a very slow thinker
 * [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
+* [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -5538,6 +5540,7 @@ Raw
 * [Charles Petzold](http://www.charlespetzold.com/blog/2007/10/081247.html) - (2007) Hard Work, No Pay: What's the Point? | Charles Petzold on writing books, reading books, and exercising the internal UTM
 > Of Course Writing Books is Hard! But that's what makes it fun and rewarding! You really shouldn't try to write a book unless you have a fire in your belly. If you have that fire, then nothing that Jeff Atword or I can say will discourage you.
 * [Scott W. Ambler](http://www.ambysoft.com/books/bookWriting.html) - (2006) How to Write a Technical Book
+* [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
 
 [Dillinger]: <http://dillinger.io>
 [bats]: <https://github.com/sstephenson/bats>
