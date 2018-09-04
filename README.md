@@ -2895,6 +2895,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Idalko](https://www.idalko.com/jira-workflow-best-practices/) - (2018) A guide to Jira workflow best practices (with examples)
 * [Idalko](https://www.idalko.com/worst-common-advice-for-jira/) - (2018) The worst (common) advice for Jira that is killing your productivity
 * [Vjaceslavs Kreidikovs](https://medium.com/chili-labs/why-workflows-are-important-in-your-work-70e4641913bd) - (2018) JIRA workflow configuration tips, explanation & examples
+* [Kim Wall](https://www.atlassian.com/blog/jira-software/human-side-scaling-jira-software-governance-custom-fields-admins) - (2017) The human side to scaling Jira software: governance, change control, and more
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
