@@ -687,6 +687,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Get rid of your prioritized list of tasks. Stop having your daily stand-ups. No more status report e-mails. Just stop doing that stuff, and get rid of anyone who can't cope. Nothing terrible will happen.
 * [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/03/devops-scam.html) - (2011) Devops Is a Poorly Executed Scam
 > You need to change the culture the hard way, or replace people as necessary until the culture works.
+* [Hugo Sharman-Firth](https://blog.hugo.codes/2018/08/the-dangers-of-best-practices.html) - (2018) The dangers of best practices | Best is the enemy of better
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -4263,6 +4264,7 @@ Raw
 ## JavaScript
 > News
 * [JavaScript Weekly](http://javascriptweekly.com/) - JavaScript news and articles
+* [Days Since Last JavaScript Framework](https://dayssincelastjavascriptframework.com/) - with regular updates ! (humor)
 
 > Learn
 * [Ilse Garcia](https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - The JS Path: JavaScript Best Practices Pt. 1
@@ -4622,6 +4624,7 @@ Raw
 * [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
 * [Eric Steven Raymond](http://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
 * [Danny Hillis](http://catb.org/jargon/html/koans.html) - (2003) Some AI Koans
+* [Days Since Last JavaScript Framework](https://dayssincelastjavascriptframework.com/) - with regular updates ! 
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
