@@ -25,3 +25,4 @@
 * [SlideShare](https://www.slideshare.net//tag/ansible) - ansible related slideshares
 * [Google Search](https://www.google.be/search?q=why+devops+is+bad) - Why devops is bad
 * [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
+* [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=morgangeek&src=typd&lang=fr) - latest MorganGeek mentions & tweets
