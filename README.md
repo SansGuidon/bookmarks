@@ -339,7 +339,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 # Business & Economics
 > News
 * [Collaborative Fund](http://www.collaborativefund.com/blog/archive/) - About information, collaboration and investments
-* [Paul Graham's Blog](http://www.paulgraham.com/articles.html) - Essays by Paul Graham
+* [Paul Graham](http://www.paulgraham.com/articles.html) - Essays by Paul Graham
 
 > Learn
 * [Jean-Luc](https://bitcoin.fr/Les-confessions-d-un-mineur-de-bitcoin/#main) - (2013) [FR] :fr: Les confessions d’un mineur de bitcoin
@@ -855,9 +855,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Codeship](https://blog.codeship.com/archive/) - Codeship Blog, about CI/CD
 * [ThoughtWorks Insights](https://www.thoughtworks.com/insights) - ThoughtWorks Insights
 * [ThoughtWorks Insights](https://www.thoughtworks.com/insights/continuous-delivery) - ThoughtWorks Insights on continuous delivery
-* [Paul Hammant's Blog](https://paulhammant.com/archive/) - articles about CD, DevOps, etc. **Specific sections** : [Continuous_Delivery](https://paulhammant.com/categories.html#Continuous_Delivery) and [DevOps](https://paulhammant.com/categories.html#DevOps)
+* [Paul Hammant](https://paulhammant.com/archive/) - articles about CD, DevOps, etc. **Specific sections** : [Continuous_Delivery](https://paulhammant.com/categories.html#Continuous_Delivery) and [DevOps](https://paulhammant.com/categories.html#DevOps)
 * [Stackify](https://stackify.com/content/DevOps/) - all posts tagged as DevOps
-* [Jessie Frazelle's Blog](https://blog.jessfraz.com/) - articles about DevOps, Containers, Linux, etc
+* [Jessie Frazelle](https://blog.jessfraz.com/) - articles about DevOps, Containers, Linux, etc
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
 * [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news
 * [Red Hat Blog](https://www.redhat.com/en/blog) - Official Red Hat Blog
@@ -2116,7 +2116,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 # Health and Work-Life Balance
 > News
-* [Itamar Turner-Trauring Blog](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
+* [Itamar Turner-Trauring](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
 * [Simple Programmer](https://simpleprogrammer.com/) - Robert Whitcomb's Blog about soft skills + health & work-life balance for programmers
 * [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - [Podcast] Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
 
@@ -2606,7 +2606,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
 * [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
-* [MorganGeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
+* [MorganGeek](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
 * [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
 * [Clara Darko](https://vimeo.com/112499601) - [Video] Movie montage of dystopian / utopias societies
@@ -2705,12 +2705,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [the morning paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
 * [OSNews](http://www.osnews.com/) - explore the future of computing and about technology, OS, hardware, development, and other cool news
 * [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
-* [Jeffrey Ventrella's Blog](https://ventrellathing.wordpress.com/) - Nature -> Brain -> Technology | Things and Stuff
+* [Jeffrey Ventrella](https://ventrellathing.wordpress.com/) - Nature -> Brain -> Technology | Things and Stuff
 * [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
 * [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
 * [reddit](https://www.reddit.com/controversial/) - most controversial links
 * [sebsauvage](http://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
-* [Korben's Blog](https://korben.info/) - :fr: [FR] Upgrade your mind
+* [Korben](https://korben.info/) - :fr: [FR] Upgrade your mind
 * [coreight](https://coreight.com/) - :fr: [FR] Le blog d'infos et astuces web; high tech
 * [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
 
@@ -3112,7 +3112,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - How to Actually Publish More Things
 * [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] :fr: Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
-* [MorganGeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] :fr: La sélection naturelle de contenus
+* [MorganGeek](http://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] :fr: La sélection naturelle de contenus
 * [Mike Davidson](https://twitter.com/iok/status/497749033918558209/photo/1) - [IMG] Wisdom : A prototype is worth a thousand meetings
 * [Jeff Atwood](https://blog.codinghorror.com/because-reading-is-fundamental-2/) - (2014) Because Reading is Fundamental / spend less time talking and more time reading
 * [Mike Veerman](https://medium.com/@mikeveerman/simple-is-the-opposite-of-easy-56d585f95039) - Simple is the opposite of easy
@@ -3286,7 +3286,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar) - this Android app let you listen to or read on screen the text from other Android apps, e.g. web pages, news articles, long emails, TXT, PDF, DOC, DOCX, RTF ... useful to do multitasking specialists !!
-* [MorganGeek Blog](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
+* [MorganGeek](http://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [Things I Learned Today](http://thingsilearnedtoday.net/2013/07/20/too-many-tabs-in-google-chrome/) - Too Many Tabs in Google Chrome? try this extension
 * [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
 * [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
@@ -3334,12 +3334,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [feststelltaste (Markus Harrer)](http://www.feststelltaste.de/) - About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering
 * [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 * [Methods & Tools Editor Blog](http://blog.martinig.ch/) - Software Development Ideas + [links](http://blog.martinig.ch/category/links/)
-* [Zach Holman's Blog](https://zachholman.com/) - Blog of Zach Holman, Founder of During, previously at GitHub and Gild.
+* [Zach Holman](https://zachholman.com/) - Blog of Zach Holman, Founder of During, previously at GitHub and Gild.
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
 * [O'Reilly Media](https://www.oreilly.com/ideas) - Ideas | What's on the radar
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
 * [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
-* [Itamar Turner-Trauring Blog](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
+* [Itamar Turner-Trauring](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
 * [Simple Programmer](https://simpleprogrammer.com/) - Robert Whitcomb's Blog about soft skills + health & work-life balance for programmers
 * [programming is terrible](https://programmingisterrible.com/) - Blog of Thomas Figg (tef) | lessons learned from a life wasted
 * [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
@@ -4326,7 +4326,7 @@ Raw
 
 ## Productivity
 > News
-* [Itamar Turner-Trauring Blog](https://codewithoutrules.com/productivity/) - Become more productive ; articles about being more productive as programmer without necessarily working longer hours
+* [Itamar Turner-Trauring](https://codewithoutrules.com/productivity/) - Become more productive ; articles about being more productive as programmer without necessarily working longer hours
 
 > Learn
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - 10 Productivity tips for software developers
