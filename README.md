@@ -678,6 +678,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jeppe Cramon](https://www.slideshare.net/jeppec/event-storming-48594742) - (2015) [Slides] Event storming
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 * [Jesse Weaver](https://medium.com/s/story/a-simple-framework-for-designing-choices-ab93e0fc6610) - (2015) A Simple Framework for Designing Choices | No design is neutral
+* [Lolly Daskal](https://medium.com/s/story/10-dumb-rules-that-make-your-best-people-want-to-quit-8491b446dde5) - (2017) Dumb Rules That Make Your Best People Want to Quit | TL;DR — Trust employees like the adults they are
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
