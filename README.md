@@ -1132,6 +1132,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Linux Academy](https://linuxacademy.com/amazon-web-services/courses) - Courses: Master your Linux and cloud stack. | Azure, OpenStack, DevOps, Big Data, Containers, Security, AWS, Google Cloud Platform, Linux, ... **Examples** : [AWS Certification Training](https://linuxacademy.com/amazon-web-services/courses)
 * [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 * [Jerry Hargrove](https://www.awsgeek.com/) - AWS | Cloud Diagrams & Notes
+* [Hacker News](https://news.ycombinator.com/item?id=16446226) - Ask HN: What best practices for in-house Docker Registry? | examples of using labels and tags when building the docker images
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -1511,6 +1512,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
  * [Philipp Hauer](https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/) - (2016) Version Numbers for Continuous Delivery with Maven and Docker
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 * [Play with Docker Classroom](https://training.play-with-docker.com/) - The Play with Docker classroom brings you labs and tutorials that help you get hands-on experience using Docker
+* [Hacker News](https://news.ycombinator.com/item?id=16446226) - Ask HN: What best practices for in-house Docker Registry? | examples of using labels and tags when building the docker images
  
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
