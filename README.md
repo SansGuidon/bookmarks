@@ -4077,7 +4077,7 @@ Containers, Clouds and Lean Business
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/) - On the Matter of Beautiful git Diffs
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
 * [Gitdude.com](https://gitdude.com/) - code improvement tips posted as a comment on your Github commits
-* :star: [**Seth Robertson**](https://sethrobertson.github.io/GitBestPractices/) - Git Best practices : commit often, perfect later, publish once, etc.
+* :star: [**Seth Robertson**](https://sethrobertson.github.io/GitBestPractices/) - (2012) Git Best practices : commit often, perfect later, publish once, etc.
 * [Bitbucket Docs](https://confluence.atlassian.com/bitbucket/code-search-in-bitbucket-873876782.html#CodesearchinBitbucket-Searchoperators) - Tips & tricks for code search in Bitbucket
 * [Gary Ewan Park](https://www.youtube.com/watch?v=SlM02V1tkSc) - Control your GitHub releases with GitVersion and GitReleaseManager
 * [Nicola Paolucci](https://www.slideshare.net/GoAtlassian/becoming-a-git-master-nicola-paolucci) - Becoming a Git Master / some interesting tips provided in this presentation
