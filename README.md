@@ -233,6 +233,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [The C4 model](http://c4model.com/) - consists of a hierarchical set of software architecture diagrams for context, containers, components, and code.
 * [Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html) - (2013) Introducing Event Storming | EventStorming is a workshop format for quickly exploring complex business domains.
 * [Jeppe Cramon](https://www.slideshare.net/jeppec/event-storming-48594742) - (2015) [Slides] Event storming
+* [Jesse Weaver](https://medium.com/s/story/a-simple-framework-for-designing-choices-ab93e0fc6610) - (2015) A Simple Framework for Designing Choices | No design is neutral
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -410,6 +411,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
 * [Robert Greene, Joost Elffers](http://www.elffers.com/low/start/index2.html) - The 48 Laws of Power
 * [Sam Altman](https://www.atrium.co/blog/sam-altman-start-the-right-company/?hn) - (2018) How to Avoid Distractions and Start the Right Company: Startup Tips from Sam Altman
+* [Jesse Weaver](https://medium.com/s/story/a-simple-framework-for-designing-choices-ab93e0fc6610) - (2015) A Simple Framework for Designing Choices | No design is neutral
 
 ## Cryptocurrency
 > News
@@ -675,6 +677,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html) - (2013) Introducing Event Storming | EventStorming is a workshop format for quickly exploring complex business domains.
 * [Jeppe Cramon](https://www.slideshare.net/jeppec/event-storming-48594742) - (2015) [Slides] Event storming
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
+* [Jesse Weaver](https://medium.com/s/story/a-simple-framework-for-designing-choices-ab93e0fc6610) - (2015) A Simple Framework for Designing Choices | No design is neutral
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1227,6 +1230,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ansible Docs](http://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html#variable-precedence-where-should-i-put-a-variable) - Ansible variable precedence rules
 * [Jakub Skałecki](https://rock-it.pl/managing-multiple-environments-with-ansible-best-practices/) - (2017) Managing multiple environments with Ansible - best practices
 * [Ansible](https://www.ansible.com/resources/videos/ansiblefest-london-2017) - [Videos] (2017) AnsibleFest London Videos
+* [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -2484,6 +2488,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
 * [Eric Steven Raymond](http://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/cron-best-practices/) - (2016) Cron best practices
+* [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -2814,6 +2819,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * :star: [**Vivek Gite**](https://www.cyberciti.biz/tips/linux-security.html) - (2017) 40 Linux Server Hardening Security Tips
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
 * [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+* [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
