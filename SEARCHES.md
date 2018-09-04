@@ -8,7 +8,7 @@
 * [Hacker News](https://hn.algolia.com/?query=Jenkins&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month jenkins news
 * [Hacker News](https://hn.algolia.com/?query=Ansible&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month ansible news
 * [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month DevOps news
-* [Hacker News](https://hn.algolia.com/?query=best%20practices&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Best practices news
+* [Hacker News](https://hn.algolia.com/?query=best%20practice&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Best practice news
 * [Hacker News](https://hn.algolia.com/?query=tricks&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tricks news
 * [Hacker News](https://hn.algolia.com/?query=tips&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tips news
 * [Hacker News](https://hn.algolia.com/?query=productivity&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Productivity news
