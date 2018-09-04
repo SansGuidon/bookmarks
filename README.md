@@ -685,6 +685,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Gordon Brander](http://gordonbrander.com/pattern/) - Patterns : "This is my bag of tricks — loose notes, design patterns, rules-of-thumb, methods of enquiry, tools, cheatsheets, gimmicks, leverage points, descriptions of systems, key questions, risks, and unknowns."
 * [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/12/process.html) - (2011) Who Needs Process? 
 > Get rid of your prioritized list of tasks. Stop having your daily stand-ups. No more status report e-mails. Just stop doing that stuff, and get rid of anyone who can't cope. Nothing terrible will happen.
+* [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/03/devops-scam.html) - (2011) Devops Is a Poorly Executed Scam
+> You need to change the culture the hard way, or replace people as necessary until the culture works.
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1135,6 +1137,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 * [Jerry Hargrove](https://www.awsgeek.com/) - AWS | Cloud Diagrams & Notes
 * [Hacker News](https://news.ycombinator.com/item?id=16446226) - Ask HN: What best practices for in-house Docker Registry? | examples of using labels and tags when building the docker images
+* [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/03/devops-scam.html) - (2011) Devops Is a Poorly Executed Scam
+> You need to change the culture the hard way, or replace people as necessary until the culture works.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
