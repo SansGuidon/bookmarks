@@ -1529,12 +1529,12 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
-* [Cloudbees](https://www.cloudbees.com/blog/categories/Jenkins) - Jenkins articles on CloudBees site
+* [CloudBees](https://www.cloudbees.com/blog/categories/Jenkins) - Jenkins articles on CloudBees site
 * [Jenkins Community Blog](https://jenkins.io/node/) - Jenkins articles
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
 * :star: [**CloudBees**](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
 * [Hacker News](https://hn.algolia.com/?query=Jenkins&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year jenkins news
-* [Cloudbees](https://support.cloudbees.com/hc/en-us/articles/226122247-How-to-Customize-Checkout-for-Pipeline-Multibranch) - How to Customize Checkout for Pipeline Multibranch
+* [CloudBees](https://support.cloudbees.com/hc/en-us/articles/226122247-How-to-Customize-Checkout-for-Pipeline-Multibranch) - How to Customize Checkout for Pipeline Multibranch
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/jenkins-blueocean) - Q&A about Blue Ocean
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/jenkins-pipeline) - Q&A about Jenkins pipeline
 * [Jenkins Governance Meeting Agenda](https://wiki.jenkins.io/display/JENKINS/Governance+Meeting+Agenda#GovernanceMeetingAgenda-MeetingDates/Archives) - all internal meetings and decision notes, since 2011. Very interesting
@@ -1556,7 +1556,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [funkwerk/jenkins-workflow](https://github.com/funkwerk/jenkins-workflow/tree/master/vars) - repository with examples of jenkins workflow scripts
 * :star: [**Andrew Bayer**](https://www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition) - (2014) Seven Habits of Highly Effective Jenkins Users (2014 edition!) | Old but principles still apply
 * [CloudBees](https://www.cloudbees.com/sites/default/files/declarative-pipeline-refcard.pdf) - [PDF] Declarative Pipeline Quick Reference
-* [Jenkins Doc](https://github.com/jenkinsci/pipeline-model-definition-plugin/wiki/Syntax-Reference) - full syntax for Jenkins Declarative Pipeline
+* [Jenkins Docs](https://github.com/jenkinsci/pipeline-model-definition-plugin/wiki/Syntax-Reference) - full syntax for Jenkins Declarative Pipeline
 * [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin/blob/master/job-dsl-core/src/main/groovy/javaposse/jobdsl/dsl/helpers/step/MSBuildContext.groovy) - source code of msbuild step
 * [Stack Overflow](https://stackoverflow.com/questions/37657810/job-dsl-plugin-vs-pipeline-plugin) - Job DSL vs Pipeline Plugin
 * [Liam Newman](https://www.cloudbees.com/blog/sending-notifications-pipeline) - Sending Notifications in Pipeline, contains examples for Slack, Email, HipChat
@@ -3237,7 +3237,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Matthew Yglesias](https://www.vox.com/2014/8/5/5970767/case-against-time-zones) - (2014) The case against time zones: They're impractical & outdated
 * [Mark Johnson](https://hackernoon.com/how-i-shipped-six-side-projects-in-2017-3dde6c77adbb) - (2018) How I Launched Six Side Projects in 2017
 * [Gary Klein](https://hbr.org/2007/09/performing-a-project-premortem) - (2007) Performing a Project Premortem
-* [Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
+* [Dr. Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-dark-side-of-goal-setting.php) - (2011) The Dark Side of Goal-Setting | when we goals are too many, too specific or too short-terms
 * [Matt Stauffer](https://mattstauffer.com/blog/why-i-wrote-my-book-with-oreilly/) - (2016) Why I wrote my book with O'Reilly
 * [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
@@ -4778,7 +4778,7 @@ Raw
 * [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
 * [Zdravko Cvijetic](https://medium.com/personal-growth/two-essential-principles-that-will-help-you-form-or-break-any-habit-73d3d7aa7692) - (2018) Two Principles That Will Help You Form Any Habit
 * [Wikipedia](https://en.wikipedia.org/wiki/Zeigarnik_effect) - the Zeigarnik effect states that people remember uncompleted or interrupted tasks better than completed tasks
-* [Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
+* [Dr. Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
 * [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-what-the-hell-effect.php) - (2011) The What-The-Hell Effect | Goal-setting can be a handy way of improving performance, except when we fall foul of a nasty little side-effect.
 > the what-the-hell effect can be avoided by having longer-term goals and transforming inhibitional goals into acquisitional goals. e.g : Procrastinators can forget about their idling and concentrate on producing a certain amount of work each day
