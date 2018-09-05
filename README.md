@@ -4307,6 +4307,7 @@ Raw
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 * [Praveen Durairaj](https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4) - (2018) An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps
 * [JSONLint](https://jsonlint.com/) - JSON validator
+* [The State of JavaScript 2017](https://stateofjs.com/2017/introduction/) - Results of a survey to more than 28,000 developers all over the world about JavaScript ecosystem, covering numerous topics (testing, front-end, back-end, build tools, opinions, ...)
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
