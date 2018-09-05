@@ -688,6 +688,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/03/devops-scam.html) - (2011) Devops Is a Poorly Executed Scam
 > You need to change the culture the hard way, or replace people as necessary until the culture works.
 * [Hugo Sharman-Firth](https://blog.hugo.codes/2018/08/the-dangers-of-best-practices.html) - (2018) The dangers of best practices | Best is the enemy of better
+* [Mat Lawrence](https://www.atlassian.com/blog/inside-atlassian/how-to-facilitate-successful-offsite-meetings-human-dynamics) - (2017) How to facilitate successful offsite meetings: it’s all about the team
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
