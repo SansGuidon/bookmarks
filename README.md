@@ -696,6 +696,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/how-to-run-effective-meetings) - (2018) Running effective meetings: a guide for humans
 * [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without 
 * [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/kick-off-meeting-agenda-mistakes) - (2018) Avoid these 5 mistakes for an amazing kick-off meeting
+* [Bernie Ferguson](https://www.atlassian.com/blog/inside-atlassian/how-to-facilitate-meetings-guide) - (2017) How to manage meetings like an expert facilitator
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3207,6 +3208,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Gordon Brander](http://gordonbrander.com/pattern/) - Patterns : "This is my bag of tricks — loose notes, design patterns, rules-of-thumb, methods of enquiry, tools, cheatsheets, gimmicks, leverage points, descriptions of systems, key questions, risks, and unknowns."
 * [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/12/process.html) - (2011) Who Needs Process? 
 > Get rid of your prioritized list of tasks. Stop having your daily stand-ups. No more status report e-mails. Just stop doing that stuff, and get rid of anyone who can't cope. Nothing terrible will happen.
+* [Bernie Ferguson](https://www.atlassian.com/blog/inside-atlassian/how-to-facilitate-meetings-guide) - (2017) How to manage meetings like an expert facilitator
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
