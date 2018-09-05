@@ -4998,6 +4998,7 @@ Raw
 * [/r/crypto](https://www.reddit.com/r/crypto/) - cryptography news and discussions
 * [/r/codes](https://www.reddit.com/r/codes/) - Hiding data, cracking codes, finding hidden messages
 * [/r/security](https://www.reddit.com/r/security/) - security news on reddit
+* [Stack Exchange](https://security.stackexchange.com/) - Information Security Stack Exchange
 * [DiabloHorn](https://diablohorn.com/) - a site for people attempting to understand security
 * [/r/opsec](https://www.reddit.com/r/opsec/) - opsec, to learn about proper habits and policies for minimizing attack surfaces and SPOF
 * [/r/OperationsSecurity](https://www.reddit.com/r/OperationsSecurity/) - Operations security news, resources, questions & discussions
@@ -5053,7 +5054,6 @@ Raw
 * [Computer Science Department at FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) - Offensive Computer Security Course with Lecture / Videos / Slides / Reading
 * [Walter Goulet](http://blog.securism.com/2009/01/summarizing-pki-certificate-validation/) - Summarizing PKI certificate validation
 * [Walter Goulet](http://blog.securism.com/2013/02/using-a-hsm-doesnt-automatically-make-you-more-secure/) - Using a HSM doesn't automatically make you more 'secure'
-* [Stack Exchange](https://security.stackexchange.com/) - Information Security Stack Exchange
 * [Daniel Miessler](https://danielmiessler.com/blog/security-how-to-monitor-your-network-connections/) - Security: How To Monitor Your Network Connections
 * [Daniel Miessler](https://danielmiessler.com/projects/webappsec_testing_resources/) - Web Application Security Testing Resources
 * [Daniel Miessler](https://danielmiessler.com/blog/professional-firewall-iptables/) - Building a Professional Firewall with Linux and Iptables
