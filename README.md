@@ -694,6 +694,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Hugo Sharman-Firth](https://blog.hugo.codes/2018/08/the-dangers-of-best-practices.html) - (2018) The dangers of best practices | Best is the enemy of better
 * [Mat Lawrence](https://www.atlassian.com/blog/inside-atlassian/how-to-facilitate-successful-offsite-meetings-human-dynamics) - (2017) How to facilitate successful offsite meetings: it’s all about the team
 * [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/how-to-run-effective-meetings) - (2018) Running effective meetings: a guide for humans
+* [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without 
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3264,6 +3265,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Morgan Housel](https://www.collaborativefund.com/blog/making-history-by-doing-nothing/) - (2018) Making History By Doing Nothing
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
+* [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without 
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
