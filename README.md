@@ -2871,6 +2871,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 > Learn
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
 * [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
+* [Katrina Morales](https://www.atlassian.com/blog/add-ons/5-real-life-examples-beautiful-technical-documentation) - (2017) 5 real-life examples of beautiful technical documentation | user friendly docs on confluence
 
 ## Infrastructure
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
