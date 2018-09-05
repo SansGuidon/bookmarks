@@ -2881,6 +2881,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
 * [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
 * [Katrina Morales](https://www.atlassian.com/blog/add-ons/5-real-life-examples-beautiful-technical-documentation) - (2017) 5 real-life examples of beautiful technical documentation | user friendly docs on confluence
+* [Karl Tate](https://www.clearvision-cm.com/blog/confluence-best-practice-10-quick-and-dirty-tips-for-maintaining-your-confluence-environment/) - (2018) Confluence Best Practice: 10 Quick Tips for Maintaining Your Confluence Environment
 
 ## Infrastructure
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - Building a Better Dashboard for Virtual Infrastructure
@@ -4180,6 +4181,7 @@ Raw
 * [Matthew Brett](https://matthew-brett.github.io/curious-git/index.html) - The curious coder’s guide to git
 * [Steve Losh](http://stevelosh.com/blog/2013/04/git-koans/) - (2013) Git Koans
 * [Vadim Samokhin](https://hackernoon.com/gitflow-is-a-poor-branching-model-hack-d46567a156e7) - (2018) Gitflow is a Poor Branching Model Hack | gitflow sucks
+* [Paul Christie](https://www.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/) - (2018) What to do when you commit to the wrong Git branch
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
