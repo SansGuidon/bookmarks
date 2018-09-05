@@ -697,6 +697,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without 
 * [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/kick-off-meeting-agenda-mistakes) - (2018) Avoid these 5 mistakes for an amazing kick-off meeting
 * [Bernie Ferguson](https://www.atlassian.com/blog/inside-atlassian/how-to-facilitate-meetings-guide) - (2017) How to manage meetings like an expert facilitator
+* [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+* [Akash Nimare](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) - (2016) A Beginners Guide to writing a Kickass README ✍
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
