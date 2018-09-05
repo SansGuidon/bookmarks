@@ -4656,6 +4656,7 @@ Raw
 * [Eric Steven Raymond](https://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
 * [Danny Hillis](https://www.catb.org/jargon/html/koans.html) - (2003) Some AI Koans
 * [Days Since Last JavaScript Framework](https://dayssincelastjavascriptframework.com/) - with regular updates ! 
+* [Bitbucket](https://bitbucket.org/spooning/) - Spooning makes pair programming look like child's play. Achieve the speed of pair programming with an added level of quiet, knowing intimacy.
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
