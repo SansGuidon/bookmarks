@@ -236,6 +236,9 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Jesse Weaver](https://medium.com/s/story/a-simple-framework-for-designing-choices-ab93e0fc6610) - (2015) A Simple Framework for Designing Choices | No design is neutral
 * [Jerry Hargrove](https://www.awsgeek.com/) - AWS | Cloud Diagrams & Notes
 * [Gordon Brander](http://gordonbrander.com/pattern/) - Patterns : "This is my bag of tricks — loose notes, design patterns, rules-of-thumb, methods of enquiry, tools, cheatsheets, gimmicks, leverage points, descriptions of systems, key questions, risks, and unknowns."
+* [James Somers](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) - (2017) The Coming Software Apocalypse
+A small group of programmers wants to change how we code—before catastrophe strikes.
+> “Computing is fundamentally invisible,” Gerard Berry said in his talk. “When your tires are flat, you look at your tires, they are flat. When your software is broken, you look at your software, you see nothing.” “So that’s a big problem.”
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
