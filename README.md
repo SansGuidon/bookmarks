@@ -239,6 +239,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [James Somers](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) - (2017) The Coming Software Apocalypse
 A small group of programmers wants to change how we code—before catastrophe strikes.
 > “Computing is fundamentally invisible,” Gerard Berry said in his talk. “When your tires are flat, you look at your tires, they are flat. When your software is broken, you look at your software, you see nothing.” “So that’s a big problem.”
+* [Zdenek Nemec (Z, zdne)](https://blog.goodapi.co/api-maturity-fb25560151a3) - (2018) API Maturity
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -3656,6 +3657,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
 * [victorlaerte/awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes) - a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
 * [Jeff Knupp](https://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/) - (2014) How 'DevOps' is Killing the Developer
+* [James Somers](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) - (2017) The Coming Software Apocalypse
+A small group of programmers wants to change how we code—before catastrophe strikes.
+> “Computing is fundamentally invisible,” Gerard Berry said in his talk. “When your tires are flat, you look at your tires, they are flat. When your software is broken, you look at your software, you see nothing.” “So that’s a big problem.”
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -3674,6 +3678,11 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Christian Maioli Mackeprang](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
 * [Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) - (2013) Best Practices for Designing a Pragmatic RESTful API
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
+* [Zdenek Nemec (Z, zdne)](https://blog.goodapi.co/api-maturity-fb25560151a3) - (2018) API Maturity
+* [Mike Amundsen (mamund)](http://amundsen.com/talks/2016-11-apistrat-wadm/2016-11-apistrat-wadm.pdf) - (2016) [Slides] Web API Design
+Maturity Model
+* [Martin Fowler](https://martinfowler.com/articles/richardsonMaturityModel.html) - (2010) Richardson Maturity Model | steps toward the glory of REST
+* [Damien Frémont](https://damienfremont.com/2017/11/23/rest-api-maturity-levels-from-0-to-5/) - (2017) REST API Maturity Levels : From 0 to 5
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
