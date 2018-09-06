@@ -2278,6 +2278,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Avdi Grimm](http://www.virtuouscode.com/2014/02/10/the-passion-gospel/) - (2014) The Passion Gospel | No product or company deserves your passion. You can choose to throw your passion into anything you want, but no project inherently deserves it.
 * [Caroline Beaton](https://www.forbes.com/sites/carolinebeaton/2016/10/23/the-psychology-of-professional-purpose-how-to-follow-your-calling/#37a8e436c68d) - (2016) The Psychology Of Professional Purpose: How To Follow Your Calling
 > A calling is feeling that the work “has to be done.” It connects us to something greater than ourselves. Duckworth explains, “The long days and evenings of toil … the sacrifice, all this is worth it because [our] efforts pay dividends to other people.”
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2018/01/23/job-with-technology-you-dont-know/) - (2016) How to get a job with a technology stack you don’t know
+> Look for jobs that excite you, for jobs you think you can do with just a little ramp-up time. And then apply for those jobs, knowing that most of them will ignore you—but it only takes one yes to get an exciting new job, and an exciting new opportunity to learn new skills.
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -3701,10 +3703,12 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [James Somers](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) - (2017) The Coming Software Apocalypse
 A small group of programmers wants to change how we code—before catastrophe strikes.
 > “Computing is fundamentally invisible,” Gerard Berry said in his talk. “When your tires are flat, you look at your tires, they are flat. When your software is broken, you look at your software, you see nothing.” “So that’s a big problem.”
-* [The Three Virtues of a GREAT Programmer](http://threevirtues.com/) - Laziness, Impatience and Hubris
+* [The Three Virtues of a GREAT Programmer](http://threevirtues.com/) - (2010) Laziness, Impatience and Hubris
 > Laziness: The quality that makes you go to great effort to reduce overall energy expenditure.
 > Impatience: The anger you feel when the computer is being lazy.
 > Hubris: The quality that makes you write (and maintain) programs that other people won't want to say bad things about.
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2018/01/23/job-with-technology-you-dont-know/) - (2016) How to get a job with a technology stack you don’t know
+> Look for jobs that excite you, for jobs you think you can do with just a little ramp-up time. And then apply for those jobs, knowing that most of them will ignore you—but it only takes one yes to get an exciting new job, and an exciting new opportunity to learn new skills.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
