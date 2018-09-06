@@ -4846,6 +4846,7 @@ Raw
 * [Joshua Becker](https://www.becomingminimalist.com/science-happiness/) - (2018) Want to Lead a Happy Life? Science Says to Focus on These 10 Things
 * [The Life Coach School](https://thelifecoachschool.com/podcasts/) - podcasts by Brooke Castillo
 * [Change ma vie](https://changemavie.com/episodes) - [FR] :fr: le podcast qui vous donne des outils pour votre esprit. par Clotilde Dusoulier
+* [HelpGuide](https://www.helpguide.org/articles/anxiety/how-to-stop-worrying.htm) - (2018) How to Stop Worrying | Self-Help Tips for Anxiety Relief. **Via** [Google](https://www.google.com/search?q=anxiety+worry&ie=utf-8&oe=utf-8&client=firefox-b-ab) - Anxiety & Worry
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
