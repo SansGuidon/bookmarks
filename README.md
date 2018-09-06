@@ -240,6 +240,8 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 A small group of programmers wants to change how we code—before catastrophe strikes.
 > “Computing is fundamentally invisible,” Gerard Berry said in his talk. “When your tires are flat, you look at your tires, they are flat. When your software is broken, you look at your software, you see nothing.” “So that’s a big problem.”
 * [Zdenek Nemec (Z, zdne)](https://blog.goodapi.co/api-maturity-fb25560151a3) - (2018) API Maturity
+* [Rich Archbold](https://www.intercom.com/blog/run-less-software/) - (2018) Run less software
+> 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -339,6 +341,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
 * [MorganGeek](https://researchportal.unamur.be/fr/studentTheses/design-of-a-support-system-for-modelling-gene-regulatory-networks) - (2015) Design of a support system for modelling gene regulatory networks. **Bonus** : [Download in PDF](https://researchportal.unamur.be/files/36918347/2015_WattiezM_memoire.pdf)
 * [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
+* [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
+* [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
 
 # Business & Economics
 > News
@@ -419,6 +423,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Robert Greene, Joost Elffers](http://www.elffers.com/low/start/index2.html) - The 48 Laws of Power
 * [Sam Altman](https://www.atrium.co/blog/sam-altman-start-the-right-company/?hn) - (2018) How to Avoid Distractions and Start the Right Company: Startup Tips from Sam Altman
 * [Jesse Weaver](https://medium.com/s/story/a-simple-framework-for-designing-choices-ab93e0fc6610) - (2015) A Simple Framework for Designing Choices | No design is neutral
+* [Rich Archbold](https://www.intercom.com/blog/run-less-software/) - (2018) Run less software
+> 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
 
 ## Cryptocurrency
 > News
@@ -699,6 +705,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Bernie Ferguson](https://www.atlassian.com/blog/inside-atlassian/how-to-facilitate-meetings-guide) - (2017) How to manage meetings like an expert facilitator
 * [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 * [Akash Nimare](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) - (2016) A Beginners Guide to writing a Kickass README ✍
+* [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
+* [Rich Archbold](https://www.intercom.com/blog/run-less-software/) - (2018) Run less software
+> 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -2094,6 +2103,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
+* [What Does My Site Cost?](https://whatdoesmysitecost.com/) - Find out how much it costs for someone to use your site on mobile networks around the world.
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -3217,6 +3227,10 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/12/process.html) - (2011) Who Needs Process? 
 > Get rid of your prioritized list of tasks. Stop having your daily stand-ups. No more status report e-mails. Just stop doing that stuff, and get rid of anyone who can't cope. Nothing terrible will happen.
 * [Bernie Ferguson](https://www.atlassian.com/blog/inside-atlassian/how-to-facilitate-meetings-guide) - (2017) How to manage meetings like an expert facilitator
+* [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
+* [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
+* [Rich Archbold](https://www.intercom.com/blog/run-less-software/) - (2018) Run less software
+> 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
@@ -4852,6 +4866,7 @@ Raw
 * [HelpGuide](https://www.helpguide.org/articles/anxiety/how-to-stop-worrying.htm) - (2018) How to Stop Worrying | Self-Help Tips for Anxiety Relief. **Via** [Google](https://www.google.com/search?q=anxiety+worry&ie=utf-8&oe=utf-8&client=firefox-b-ab) - Anxiety & Worry
 * [Caroline Beaton](https://www.forbes.com/sites/carolinebeaton/2016/10/23/the-psychology-of-professional-purpose-how-to-follow-your-calling/#37a8e436c68d) - (2016) The Psychology Of Professional Purpose: How To Follow Your Calling
 > A calling is feeling that the work “has to be done.” It connects us to something greater than ourselves. Duckworth explains, “The long days and evenings of toil … the sacrifice, all this is worth it because [our] efforts pay dividends to other people.”
+* [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -5536,6 +5551,7 @@ Raw
 * [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
 * [Flavio Copes](https://flaviocopes.com/chrome-devtools-tips/) - (2018 A list of cool Chrome DevTools Tips and Tricks
 * [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
+* [What Does My Site Cost?](https://whatdoesmysitecost.com/) - Find out how much it costs for someone to use your site on mobile networks around the world.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
