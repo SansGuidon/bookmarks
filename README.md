@@ -2925,6 +2925,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Vjaceslavs Kreidikovs](https://medium.com/chili-labs/why-workflows-are-important-in-your-work-70e4641913bd) - (2018) JIRA workflow configuration tips, explanation & examples
 * [Kim Wall](https://www.atlassian.com/blog/jira-software/human-side-scaling-jira-software-governance-custom-fields-admins) - (2017) The human side to scaling Jira software: governance, change control, and more
 * [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver0710/project-screens-schemes-and-fields-953144607.html) - Project screens, schemes and fields
+* [Atlassian Community](https://community.atlassian.com/t5/Jira-discussions/What-would-be-your-advice-to-first-time-Jira-Software-admins/td-p/711667) - (2018) What would be your advice to first-time Jira Software admins? | good tips & tricks in answers 
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
