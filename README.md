@@ -1176,7 +1176,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ansible](https://www.ansible.com/blog/ansible-performance-tuning) - Ansible Performance Tuning (for Fun and Profit)
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_filters.html) - Jinja2 Filters
 * [Jinja2 Docs](http://jinja.pocoo.org/docs/dev/templates/#builtin-filters) - Templates and Builtin filters
-* [Remy Van Elst](https://raymii.org/s/tutorials/Ansible_-_Only_if_a_file_exists_or_does_not_exist.html) - Ansible - Only if a file exists or does not exist
+* [Remy van Elst](https://raymii.org/s/tutorials/Ansible_-_Only_if_a_file_exists_or_does_not_exist.html) - Ansible - Only if a file exists or does not exist
 * [Ansible Docs](http://docs.ansible.com/ansible/intro_configuration.html) - Available settings in Ansible configuration file
 * [Jens Depuydt](http://jensd.be/587/linux/tips-tricks-for-ansible) - Tips & tricks for Ansible
 * [Maxim Chernyak](http://hakunin.com/six-ansible-practices) - 6 practices for super smooth Ansible experience
@@ -1685,7 +1685,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [praqmatim](https://www.praqma.com/stories/ask/) - Atlassian high availability as code | Containerized Data Center on Kubernetes
 * [Andrew Lock](https://andrewlock.net/home-home-on-the-range-installing-kubernetes-using-rancher-2-0/) - (2017) Home, home on the range: Installing Kubernetes using Rancher 2.0
 * [Alex Ellis](https://blog.alexellis.io/openfaas-colorisebot-comes-to-kubecon/) - (2017) Colorisebot and OpenFaaS
-* [Finnian ANderson](https://finnian.io/blog/colourising-video-with-openfaas-serverless-functions/) - (2017) Colourising Video with OpenFaaS Serverless Functions
+* [Finnian Anderson](https://finnian.io/blog/colourising-video-with-openfaas-serverless-functions/) - (2017) Colourising Video with OpenFaaS Serverless Functions
 * [Alex Ellis](https://blog.alexellis.io/you-need-to-know-kubernetes-and-swarm/) - (2017) What you need to know: Kubernetes and Swarm
 * [Sachin Arote](https://medium.com/@sachin.arote1/kubernetes-best-practices-9b1435a4cb53) - (2017) Kubernetes Best Practices
 * [Sandeep Dinesh](https://speakerdeck.com/thesandlord/kubernetes-best-practices) - [Slides] (2017) Kubernetes Best Practices
