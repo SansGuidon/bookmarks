@@ -4615,7 +4615,7 @@ Raw
 * [MonkeyUser](http://www.monkeyuser.com/) - software development satire web comic
 * :star: [**The Coding Love**](http://thecodinglove.com/) - the_coding_love(); /* epic gifs for developers */
 * [Scott Adams](http://dilbert.com/) - Dilbert comic : satiric humor about a micromanaged office featuring engineer Dilbert
-* [Devhumor](http://devhumor.com/) - humor for developers
+* [DevHumor](http://devhumor.com/) - humor for developers
 * [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - programmer humor on reddit
 * [Jose Aguinaga](https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6) - What if companies interviewed translators the way they interview coders?
 * [Luís Silva/IdleWork](https://github.com/LudeeD/IdleWork) - IdleWork : Useful scripts to make you look like you're working and also look awesome doing so.
