@@ -186,7 +186,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 * [Steve McConnell](http://stevemcconnell.com/articles/teach-programming-principles-not-tools-and-tips/) - (1996) Teach Programming Principles, Not “Tools and Tips”
 * [Steve McConnell](http://stevemcconnell.com/articles/keep-it-simple/) - (1996) Keep It Simple
 * [Martin Fowler](https://www.martinfowler.com/bliki/CQRS.html) - (2011) Command Query Responsibility Segregation (CQRS)
-* [Laura klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
+* [Laura Klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 * [Kenneth N. Lodding, Nasa](https://queue.acm.org/detail.cfm?id=1016985) - (2004) Hitchhiker's Guide to Biomorphic Software | The natural world may be the inspiration we need for solving our computer problems.
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
@@ -3604,7 +3604,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Steve McConnell](http://stevemcconnell.com/articles/how-to-defend-an-unpopular-schedule/) - (1996) How to Defend an Unpopular Schedule
 * [Giedrius Majauskas](https://www.majauskas.com/programmer-mindset-5-traits-of-programmers-that-have-a-chance-to-become-good-ones) - (2009) Programmer mindset: 5 traits of programmers that have a chance to become good ones
 * [Dan Milstein](http://blog.hut8labs.com/coding-fast-and-slow.html) - (2013) Coding, Fast and Slow: Developers and the Psychology of Overconfidence | about inability of developers to predict how long a project will take.
-* [laura Klein](https://www.usersknow.com/blog/2015/02/your-job-is-not-to-write-code.html) - (2015) Your Job Is Not to Write Code
+* [Laura Klein](https://www.usersknow.com/blog/2015/02/your-job-is-not-to-write-code.html) - (2015) Your Job Is Not to Write Code
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 * [Jim Bird](http://swreflections.blogspot.be/2014/08/feature-toggles-are-one-of-worst-kinds.html) - (2014) Feature Toggles are one of the worst kinds of Technical Debt
 * [Jez Humble](https://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/) - (2011) Make Large Scale Changes Incrementally with Branch By Abstraction
@@ -5475,7 +5475,7 @@ Raw
 * [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
 * [UX Quotes](http://uxchoice.com/ux-quotes) - Tweetable quotes on User Experience / Design
-* [Laura klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
+* [Laura Klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
 * [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
 * [Christiaan Verwijs](https://blog.agilistic.nl/7-powerful-ways-to-get-feedback-from-users-in-scrum/) - 7 Powerful Ways To Get Feedback From Users (In Scrum)
 * [John Cutler](https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480) - (2018) We Can’t Do That In One Sprint
