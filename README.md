@@ -1161,6 +1161,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Hacker News](https://news.ycombinator.com/item?id=16446226) - Ask HN: What best practices for in-house Docker Registry? | examples of using labels and tags when building the docker images
 * [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/03/devops-scam.html) - (2011) Devops Is a Poorly Executed Scam
 > You need to change the culture the hard way, or replace people as necessary until the culture works.
+* [DevOps Bookmarks](http://www.devopsbookmarks.com/provisioning) - Discover tools and frameworks in the DevOps landscape.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
