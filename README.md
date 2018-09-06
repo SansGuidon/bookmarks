@@ -21,7 +21,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
   * [Bitbucket](#bitbucket)
   * [ChatOps](#chatops)
   * [Chef](#chef)
-  * [Consul (by Hashicorp)](#consul-by-hashicorp)
+  * [Consul (by HashiCorp)](#consul-by-hashicorp)
   * [Containers](#containers)
   * [Gradle](#gradle)
   * [Jenkins](#jenkins)
@@ -32,7 +32,7 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
   * [OpenShift](#openshift)
   * [SecOps](#secops)
   * [Vagrant](#vagrant)
-  * [Vault (by Hashicorp)](#vault-by-hashicorp)
+  * [Vault (by HashiCorp)](#vault-by-hashicorp)
   * [VirtualBox](#virtualbox)
 * [Digital marketing](#digital-marketing)
 * [Finding content](#finding-content)
@@ -849,7 +849,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 
 # DevOps
 > News
-* [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
+* [HashiCorp](https://www.hashicorp.com/blog/) - HashiCorp Blog
 * [CloudBees](https://www.cloudbees.com/blog) - CloudBees Blog
 * [Jenkins CI](https://www.youtube.com/channel/UC5JBtmoz7ePk-33ZHimGiDQ) - Jenkins CI Youtube Channel
 * [CloudBees](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
@@ -1354,7 +1354,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 ## Chef
 * [Nathen Harvey's Talks](https://speakerdeck.com/nathenharvey) - Talks / Slides by Chef's Community Director
 
-## Consul (by Hashicorp)
+## Consul (by HashiCorp)
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
 * [Consul Docs](https://www.consul.io/docs/agent/checks.html) - health checks / check definitions
 * [Docker Hub](https://hub.docker.com/_/consul/) - Docker Image for Consul, maintained by HashiCorp
@@ -1798,7 +1798,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ross Tuck](http://rosstuck.com/slightly-faster-ansible-testing-with-vagrant/) - (Slightly) Faster Ansible Testing with Vagrant
 * [mitchellh/vagrant](https://github.com/mitchellh/vagrant/issues/1755) - Re-associate vagrant with vm
 * [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Connect-to-Your-Vagrant-Virtual-Machine-with-PuTTY) - Connect to Your Vagrant Virtual Machine with PuTTY
-* [Hashicorp](https://atlas.hashicorp.com/puppetlabs) - Official Puppet Vagrant boxes
+* [HashiCorp](https://atlas.hashicorp.com/puppetlabs) - Official Puppet Vagrant boxes
 * [Willem Meints](http://fizzylogic.nl/2015/01/27/building-containerized-apps-with-vagrant/) - Building Containerized Apps With Vagrant
 * [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Scott Keck-Warren](http://www.thisprogrammingthing.com/2015/multiple-vagrant-vms-in-one-vagrantfile/) - Multiple Vagrant VMs in One Vagrantfile
@@ -1821,17 +1821,17 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Darren Beale](https://24ways.org/2014/what-is-vagrant-and-why-should-i-care/) - (2014) What Is Vagrant and Why Should I Care?
 * [Vagrant](https://app.vagrantup.com/boxes/search) - discover vagrant boxes
 
-## Vault (by Hashicorp)
-* [HashiCorp](https://www.hashicorp.com/blog/) - Hashicorp Blog
+## Vault (by HashiCorp)
+* [HashiCorp](https://www.hashicorp.com/blog/) - HashiCorp Blog
 * [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image
 * [Vault Docs](https://www.vaultproject.io/intro/getting-started/deploy.html) - Deploy Vault
 * [Aun Raza](https://linoxide.com/how-tos/secure-secret-store-vault/) - How to Securely Store Passwords and Api Keys Using Vault
-* [Katacoda](https://www.katacoda.com/courses/docker-production/vault-secrets) - Interactive Course : Docker in Production - Store Secrets using Hashicorp Vault
+* [Katacoda](https://www.katacoda.com/courses/docker-production/vault-secrets) - Interactive Course : Docker in Production - Store Secrets using HashiCorp Vault
 * [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - Use Vault with Consul on Docker
 * [Vyacheslav Voronenko](https://www.codementor.io/slavko/how-to-install-vault-hashicorp-secure-deployment-secrets-du107xlqd) - Using Vault to Secure Your Deployment Secrets
-* [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for Hashicorp Vault
+* [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for HashiCorp Vault
 * [Vault Docs](https://www.vaultproject.io/docs/auth/userpass.html) - Auth Backend: Username & Password
-* [Hashicorp](https://www.hashicorp.com/blog/vault-0-6/) - Vault 0.6 Release announcement
+* [HashiCorp](https://www.hashicorp.com/blog/vault-0-6/) - Vault 0.6 Release announcement
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2016/10/01/vault-use-cases/) - Vault – Use cases
 * [Vault Docs](https://www.vaultproject.io/docs/secrets/ssh/) - SSH Secret Backend
 * [Vault Docs](https://www.vaultproject.io/api/) - HTTP API
@@ -2036,7 +2036,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [TestMy](http://testmy.net/) - Internet speed test
 * [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
 * [Jotti](https://virusscan.jotti.org/) - online virus scanner
-* [Ethical hacking tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
+* [Ethical Hacking Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
 * [COMODO CA](https://crt.sh/) - Certificate search online
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
 * [Ethical Hacking tools](https://pentest-tools.com/home) - online penetration testing tools
@@ -5108,7 +5108,7 @@ Raw
 * [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions
 * [DiabloHorn](https://diablohorn.com/2015/09/04/discovering-the-secrets-of-a-pageant-minidump/) - Discovering the secrets of a pageant minidump
 * [Aaron Toponce, Thomas H. Ptacek, ...](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a) - Cryptographic Best practices
-* [Ethical hacking tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
+* [Ethical Hacking Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
 * [Patrik Hudak](https://blog.sweepatic.com/art-of-subdomain-enumeration/) - the art of subdomain enumeration
 * [COMODO CA](https://crt.sh/) - crt.sh : Certificate search online for any domain
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
