@@ -3234,6 +3234,13 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
 * [Rich Archbold](https://www.intercom.com/blog/run-less-software/) - (2018) Run less software
 > 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
+* [Mayo Oshin](https://medium.com/swlh/the-ivy-lee-method-a-100-year-old-routine-for-stress-free-productivity-242f1151b22e) - (2018) The Ivy Lee Method: A 100-year old Routine for Stress-Free Productivity 
+> 1) Clearly define your vision, goals and objectives for your life, business, health etc.
+> 2) Write down the six most important tasks for each
+> 3) Rank and prioritize these six tasks in order of importance.
+> 4) Each morning, begin with most important task on the list, once you're done, go to the next
+> 5) Work your way through the six tasks. If at the end of the day you don’t finish a task, move it to the new list of six tasks for the following day.
+> 6) Rinse and repeat this process every day.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
