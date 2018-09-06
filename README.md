@@ -708,6 +708,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
 * [Rich Archbold](https://www.intercom.com/blog/run-less-software/) - (2018) Run less software
 > 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
+* [Aytekin Tank](https://medium.com/swlh/the-power-of-culture-how-to-hire-and-attract-amazing-people-fd9e37b6d520) - (2018) The power of culture: how to hire and attract amazing people
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
