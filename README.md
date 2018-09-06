@@ -4757,6 +4757,7 @@ Raw
 # Psychology
 > News
 * [Positive Psychology Program](https://positivepsychologyprogram.com/category/positive-emotions/) - Positive Emotions related articles
+* [Psychology Today](https://www.psychologytoday.com/us/basics/cognitive-behavioral-therapy) - Cognitive Behavioral Therapy
 
 > Learn
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
