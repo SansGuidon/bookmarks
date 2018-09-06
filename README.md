@@ -2280,6 +2280,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 > A calling is feeling that the work “has to be done.” It connects us to something greater than ourselves. Duckworth explains, “The long days and evenings of toil … the sacrifice, all this is worth it because [our] efforts pay dividends to other people.”
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/01/23/job-with-technology-you-dont-know/) - (2016) How to get a job with a technology stack you don’t know
 > Look for jobs that excite you, for jobs you think you can do with just a little ramp-up time. And then apply for those jobs, knowing that most of them will ignore you—but it only takes one yes to get an exciting new job, and an exciting new opportunity to learn new skills.
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2018/08/10/always-more-work-to-do/) - (2018) There’s always more work to do—but you still don’t need to work long hours
+> Whenever you feel yourself with too much work to do, go back and apply these principles: underpromise, limit your own time, prioritize ruthlessly. With practice you’ll learn how to deliver the results that really matter—without working long hours.
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -3246,6 +3248,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 > 4) Each morning, begin with most important task on the list, once you're done, go to the next
 > 5) Work your way through the six tasks. If at the end of the day you don’t finish a task, move it to the new list of six tasks for the following day.
 > 6) Rinse and repeat this process every day.
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2018/08/10/always-more-work-to-do/) - (2018) There’s always more work to do—but you still don’t need to work long hours
+> Whenever you feel yourself with too much work to do, go back and apply these principles: underpromise, limit your own time, prioritize ruthlessly. With practice you’ll learn how to deliver the results that really matter—without working long hours.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
