@@ -711,6 +711,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 > 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
 * [Aytekin Tank](https://medium.com/swlh/the-power-of-culture-how-to-hire-and-attract-amazing-people-fd9e37b6d520) - (2018) The power of culture: how to hire and attract amazing people
 * [Reed Hastings](https://www.slideshare.net/reed2001/culture-1798664) - [Slides] (2009) Netflix culture. **Bonus** : [new version here](https://jobs.netflix.com/culture)
+* [Wikipedia](https://en.wikipedia.org/wiki/The_No_Asshole_Rule) - The No Asshole Rule
+> 1. After encountering the person, do people feel oppressed, humiliated or otherwise worse about themselves?
+> 2. Does the person target people who are less powerful than him/her?
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
