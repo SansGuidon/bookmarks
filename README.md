@@ -2926,6 +2926,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Kim Wall](https://www.atlassian.com/blog/jira-software/human-side-scaling-jira-software-governance-custom-fields-admins) - (2017) The human side to scaling Jira software: governance, change control, and more
 * [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver0710/project-screens-schemes-and-fields-953144607.html) - Project screens, schemes and fields
 * [Atlassian Community](https://community.atlassian.com/t5/Jira-discussions/What-would-be-your-advice-to-first-time-Jira-Software-admins/td-p/711667) - (2018) What would be your advice to first-time Jira Software admins? | good tips & tricks in answers 
+* [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver071/configuring-a-custom-field-802592532.html?_ga=2.69739668.52022900.1536230565-1749018630.1466933040#Configuringacustomfield-add_schemeAddinganewcontext) - Configuring a custom field : Adding a new context | Adding a new context allows you to configure a custom field differently for different combinations of issue types and projects.
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
