@@ -3701,6 +3701,10 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [James Somers](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) - (2017) The Coming Software Apocalypse
 A small group of programmers wants to change how we code—before catastrophe strikes.
 > “Computing is fundamentally invisible,” Gerard Berry said in his talk. “When your tires are flat, you look at your tires, they are flat. When your software is broken, you look at your software, you see nothing.” “So that’s a big problem.”
+* [The Three Virtues of a GREAT Programmer](http://threevirtues.com/) - Laziness, Impatience and Hubris
+> Laziness: The quality that makes you go to great effort to reduce overall energy expenditure.
+> Impatience: The anger you feel when the computer is being lazy.
+> Hubris: The quality that makes you write (and maintain) programs that other people won't want to say bad things about.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
