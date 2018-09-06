@@ -2264,6 +2264,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
 * [Avdi Grimm](http://www.virtuouscode.com/2014/02/10/the-passion-gospel/) - (2014) The Passion Gospel | No product or company deserves your passion. You can choose to throw your passion into anything you want, but no project inherently deserves it.
+* [Caroline Beaton](https://www.forbes.com/sites/carolinebeaton/2016/10/23/the-psychology-of-professional-purpose-how-to-follow-your-calling/#37a8e436c68d) - (2016) The Psychology Of Professional Purpose: How To Follow Your Calling
+> A calling is feeling that the work “has to be done.” It connects us to something greater than ourselves. Duckworth explains, “The long days and evenings of toil … the sacrifice, all this is worth it because [our] efforts pay dividends to other people.”
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -4848,6 +4850,8 @@ Raw
 * [The Life Coach School](https://thelifecoachschool.com/podcasts/) - podcasts by Brooke Castillo
 * [Change ma vie](https://changemavie.com/episodes) - [FR] :fr: le podcast qui vous donne des outils pour votre esprit. par Clotilde Dusoulier
 * [HelpGuide](https://www.helpguide.org/articles/anxiety/how-to-stop-worrying.htm) - (2018) How to Stop Worrying | Self-Help Tips for Anxiety Relief. **Via** [Google](https://www.google.com/search?q=anxiety+worry&ie=utf-8&oe=utf-8&client=firefox-b-ab) - Anxiety & Worry
+* [Caroline Beaton](https://www.forbes.com/sites/carolinebeaton/2016/10/23/the-psychology-of-professional-purpose-how-to-follow-your-calling/#37a8e436c68d) - (2016) The Psychology Of Professional Purpose: How To Follow Your Calling
+> A calling is feeling that the work “has to be done.” It connects us to something greater than ourselves. Duckworth explains, “The long days and evenings of toil … the sacrifice, all this is worth it because [our] efforts pay dividends to other people.”
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
