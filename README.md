@@ -2039,7 +2039,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ethical Hacking Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
 * [COMODO CA](https://crt.sh/) - Certificate search online
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
-* [Ethical Hacking tools](https://pentest-tools.com/home) - online penetration testing tools
+* [Ethical Hacking Tools](https://pentest-tools.com/home) - online penetration testing tools
 * [Open Port Check Tool](https://www.yougetsignal.com/tools/open-ports/) - Port forwarding tester - open port finder
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 * [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
@@ -5112,7 +5112,7 @@ Raw
 * [Patrik Hudak](https://blog.sweepatic.com/art-of-subdomain-enumeration/) - the art of subdomain enumeration
 * [COMODO CA](https://crt.sh/) - crt.sh : Certificate search online for any domain
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
-* [Ethical Hacking tools](https://pentest-tools.com/home) - online penetration testing tools
+* [Ethical Hacking Tools](https://pentest-tools.com/home) - online penetration testing tools
 * [Vincent Yiu/RedTips](https://github.com/vysec/RedTips) - Red Team Tips
 * [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
 * [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices
