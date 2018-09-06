@@ -4606,6 +4606,11 @@ Raw
 * [Ron Jeffries](https://www.ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
 * [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
+* [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
+* [Liz Bennett](https://www.loggly.com/blog/regexes-the-bad-better-best/) - (2015) Regexes: The Bad, the Better, and the Best | A Story about How Just a Few Characters Can Make Such a Big Difference in Performance
+* [RexEgg](http://www.rexegg.com/regex-best-trick.html) - (2014) The Greatest Regex Trick Ever
+* [RegEx Hub](https://projects.lukehaas.me/regexhub/) - Useful Regex Patterns
+* [Regular Expression Library](http://regexlib.com/) - Search for RegEx patterns
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
