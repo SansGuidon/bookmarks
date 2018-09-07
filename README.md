@@ -3963,6 +3963,7 @@ Maturity Model
 * [Sandi Metz](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - (2016) The Wrong Abstraction 
 > 1. duplication is far cheaper than the wrong abstraction
 > 2. prefer duplication over the wrong abstraction
+* [John D. Cook](https://www.johndcook.com/blog/2008/05/03/reusable-code-vs-re-editable-code/) - (2008) Reusable code vs. re-editable code
 
 ## Conferences
 > In Belgium
