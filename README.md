@@ -3720,6 +3720,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/01/23/job-with-technology-you-dont-know/) - (2016) How to get a job with a technology stack you don’t know
 > Look for jobs that excite you, for jobs you think you can do with just a little ramp-up time. And then apply for those jobs, knowing that most of them will ignore you—but it only takes one yes to get an exciting new job, and an exciting new opportunity to learn new skills.
 * [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering 
+* [DEV](https://dev.to/ben/what-are-some-fundamentals-of-security-every-developer-should-understand-3ki3) - What are some fundamentals of security every developer should understand?
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -5243,6 +5244,7 @@ Raw
 * [Yukinoshita47/Yuki-Chan-The-Auto-Pentest](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest) - an Automated Penetration Testing tool this tool will auditing all standard security test method for you.
 * [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html) - (2018) Top 20 OpenSSH Server Best Security Practices
+* [DEV](https://dev.to/ben/what-are-some-fundamentals-of-security-every-developer-should-understand-3ki3) - What are some fundamentals of security every developer should understand?
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
