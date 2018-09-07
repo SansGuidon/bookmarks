@@ -266,6 +266,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [maxogden/biofabric](https://github.com/maxogden/biofabric) - a client side module for generating biofabric graphs in svg using d3
 * [Mode Analytics](https://community.modeanalytics.com/gallery/hive-plot/) - example of Hive plot
 * [Amanda Sopkin](https://dev.to/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om) - (2018) Fantastic Personal Websites and How to Make Them | tips for good portfolio
+* [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) - Awesome Creative Portfolio Websites
 
 # Books
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -5629,6 +5630,7 @@ Raw
 * [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
 * [What Does My Site Cost?](https://whatdoesmysitecost.com/) - Find out how much it costs for someone to use your site on mobile networks around the world.
 * [Amanda Sopkin](https://dev.to/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om) - (2018) Fantastic Personal Websites and How to Make Them | tips for good portfolio
+* [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) - Awesome Creative Portfolio Websites
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
