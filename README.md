@@ -3346,6 +3346,10 @@ A small group of programmers wants to change how we code—before catastrophe st
 > 3. Work Less, Nap More
 > 4. Work Less, Exercise More
 > 5. Work Less, Take More Breaks
+* [Farnam Street](https://fs.blog/2015/08/william-deresiewicz-learn-how-to-think/) - (2015) Learning How to Think: The Skill No One Taught You
+> Multitasking, in short, is not only not thinking, it impairs your ability to think. Thinking means concentrating on one thing long enough to develop an idea about it.
+> Developing your own ideas. In short, thinking for yourself. You simply cannot do that in bursts of 20 seconds at a time, constantly interrupted by Facebook messages or Twitter tweets, or fiddling with your iPod, or watching something on YouTube.
+> It’s only by concentrating, sticking to the question, being patient, letting all the parts of my mind come into play, that I arrive at an original idea.
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
