@@ -82,3 +82,4 @@
 * 90% of the bugs I produced were for one of the two reasons. 1) Doing multiple things at one place. 2) Doing one thing at multiple places [Source](https://twitter.com/CodeWisdom/status/998180793385209856)
 * [victorlaerte/awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes) - a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
 * What matters for simplicity is that there's not interleaving. - [Rich Hickey](https://twitter.com/CodeWisdom/status/993165747219288064)
+* I think that most of the problems in programming arise from building an abstraction where a simple repetition of some code would be more than enough - [Kristijan Ristovski (Kitze)](https://twitter.com/thekitze/status/992698579830628353)
