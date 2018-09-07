@@ -2418,7 +2418,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Vivek Gite](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/) - (2018) Top 32 Nmap Command Examples For Sys/Network Admins
 * [Lakshmanan Ganapathy](http://www.thegeekstuff.com/2012/08/lsof-command-examples) - 15 Linux lsof Command Examples (Identify Open Files)
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/11/50-linux-commands/) - 50 Most Frequently Used UNIX / Linux Commands (With Examples)
-* [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
+* :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
 * [Ramesh Natarajan](http://www.thegeekstuff.com/2011/06/iptables-rules-examples/) - 25 Most Frequently Used Linux IPTables Rules Examples. **Bonus** : [Gist on GitHub](https://gist.github.com/virtualstaticvoid/1024546)
 * [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/09/linux-one-liners/) - 6 Useful Linux One Liners
@@ -4454,7 +4454,7 @@ Raw
 * [Atom on Slack](http://atom-slack.herokuapp.com/) - Slack community for Atom Text editor
 * [Automations Tools Bootcamp on Slack](https://automationtools-bootcamp-slack.herokuapp.com/) - Development tools that enable automation of software projects
 * [Code search for Developers](http://codegists.com/search/jenkinsfile-tutorial/) - search for code snippets
-* [Command line fu](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
+* :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
 * [URL Encoded Characters](http://www.degraeve.com/reference/urlencoding.php) - mapping table of encoded characters in URLS (%20, %22, %7D, ...)
@@ -5084,6 +5084,7 @@ Raw
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/shell-from-vi/) - (2017) Shell from vi
 * [Kevin Marquette](https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/) - (2017) Powershell: Building a Module, one microstep at a time
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
+* :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
