@@ -4626,6 +4626,9 @@ Raw
 * [RexEgg](http://www.rexegg.com/regex-best-trick.html) - (2014) The Greatest Regex Trick Ever
 * [RegEx Hub](https://projects.lukehaas.me/regexhub/) - Useful Regex Patterns
 * [Regular Expression Library](http://regexlib.com/) - Search for RegEx patterns
+* [Tyler Hakes](https://www.7pace.com/blog/how-to-measure-developer-productivity) - (2018) How to Measure Developer Productivity
+> It’s easy to accomplish 100 small tasks to make yourself look more productive. But in many cases, it’s the one, big, ugly project that takes the most time and is holding us (and the rest of the team) back from moving forward.
+> Measuring productivity can be difficult. But using the wrong metrics makes it impossible.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
