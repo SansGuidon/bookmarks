@@ -5692,5 +5692,5 @@ Raw
 [img-buymeacoffee]: https://img.shields.io/badge/buy-me%20a%20coffee-blue.svg?style=flat&colorA=555555&colorB=FF813F
 [img-twitter]: https://img.shields.io/badge/share-on%20twitter-blue.svg?style=flat&colorA=555555&colorB=1DA1F2
 
-[twitter]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FMorganGeek%2Fbookmarks&via=morgangeek&text=awesome resources%20for%20geeks%20and%20software%20crafters
+[twitter]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FMorganGeek%2Fbookmarks&via=morgangeek&text=awesome%20resources%20for%20geeks%20and%20software%20crafters
 
