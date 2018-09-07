@@ -242,6 +242,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Zdenek Nemec (Z, zdne)](https://blog.goodapi.co/api-maturity-fb25560151a3) - (2018) API Maturity
 * [Rich Archbold](https://www.intercom.com/blog/run-less-software/) - (2018) Run less software
 > 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
+* [Sandi Metz](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - (2016) The Wrong Abstraction 
+> 1. duplication is far cheaper than the wrong abstraction
+> 2. prefer duplication over the wrong abstraction
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -3943,6 +3946,9 @@ Maturity Model
 * [Johannes Brodwall](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/) - (2018) Forget about Clean Code, let’s embrace Compassionate Code | Make people Awesome. Clean Code may help or hurt that goal. Learn to see the difference.
 * [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
 * [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
+* [Sandi Metz](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - (2016) The Wrong Abstraction 
+> 1. duplication is far cheaper than the wrong abstraction
+> 2. prefer duplication over the wrong abstraction
 
 ## Conferences
 > In Belgium
