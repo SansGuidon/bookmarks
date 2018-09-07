@@ -3267,6 +3267,10 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Whenever you feel yourself with too much work to do, go back and apply these principles: underpromise, limit your own time, prioritize ruthlessly. With practice you’ll learn how to deliver the results that really matter—without working long hours.
 * [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
 > don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
+* [Sam Altman](https://blog.samaltman.com/productivity) - (2018) Productivity
+> - productivity in the wrong direction isn’t worth anything at all.  Think more about what to work on.
+> - Don’t neglect your family and friends for the sake of productivity
+> - it’s good to overcommit a little bit. However, overcommitting a lot is disastrous.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
