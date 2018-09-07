@@ -714,6 +714,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Wikipedia](https://en.wikipedia.org/wiki/The_No_Asshole_Rule) - The No Asshole Rule
 > 1. After encountering the person, do people feel oppressed, humiliated or otherwise worse about themselves?
 > 2. Does the person target people who are less powerful than him/her?
+* [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering 
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3718,6 +3719,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Hubris: The quality that makes you write (and maintain) programs that other people won't want to say bad things about.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/01/23/job-with-technology-you-dont-know/) - (2016) How to get a job with a technology stack you don’t know
 > Look for jobs that excite you, for jobs you think you can do with just a little ramp-up time. And then apply for those jobs, knowing that most of them will ignore you—but it only takes one yes to get an exciting new job, and an exciting new opportunity to learn new skills.
+* [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering 
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
