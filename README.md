@@ -3325,6 +3325,12 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
 * [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without 
+* [Nils Salzgeber](https://www.njlifehacks.com/work-less-be-more-productive/) - (2017) The Productivity Paradox: How Working Less Will Make You More Productive
+> 1. Work Less, Sleep More
+> 2. Work Less, Meditate More
+> 3. Work Less, Nap More
+> 4. Work Less, Exercise More
+> 5. Work Less, Take More Breaks
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
