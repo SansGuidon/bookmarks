@@ -2292,6 +2292,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Look for jobs that excite you, for jobs you think you can do with just a little ramp-up time. And then apply for those jobs, knowing that most of them will ignore you—but it only takes one yes to get an exciting new job, and an exciting new opportunity to learn new skills.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/08/10/always-more-work-to-do/) - (2018) There’s always more work to do—but you still don’t need to work long hours
 > Whenever you feel yourself with too much work to do, go back and apply these principles: underpromise, limit your own time, prioritize ruthlessly. With practice you’ll learn how to deliver the results that really matter—without working long hours.
+* [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
+> don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -3261,6 +3263,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 > 6) Rinse and repeat this process every day.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/08/10/always-more-work-to-do/) - (2018) There’s always more work to do—but you still don’t need to work long hours
 > Whenever you feel yourself with too much work to do, go back and apply these principles: underpromise, limit your own time, prioritize ruthlessly. With practice you’ll learn how to deliver the results that really matter—without working long hours.
+* [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
+> don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
@@ -4913,6 +4917,8 @@ Raw
 * [Caroline Beaton](https://www.forbes.com/sites/carolinebeaton/2016/10/23/the-psychology-of-professional-purpose-how-to-follow-your-calling/#37a8e436c68d) - (2016) The Psychology Of Professional Purpose: How To Follow Your Calling
 > A calling is feeling that the work “has to be done.” It connects us to something greater than ourselves. Duckworth explains, “The long days and evenings of toil … the sacrifice, all this is worth it because [our] efforts pay dividends to other people.”
 * [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
+* [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
+> don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
