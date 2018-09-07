@@ -4637,10 +4637,10 @@ Raw
 > It’s easy to accomplish 100 small tasks to make yourself look more productive. But in many cases, it’s the one, big, ugly project that takes the most time and is holding us (and the rest of the team) back from moving forward.
 > Measuring productivity can be difficult. But using the wrong metrics makes it impossible.
 * [John D. Cook](https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/) - (2009) Why programmers are not paid in proportion to their productivity
-> extreme productivity may not be obvious
-> programmers are most effective when they avoid writing code
-> when they are being their most productive, nobody says “Wow! You were just 100x more productive than if you’d done this the hard way. You deserve a raise.”
-> it may take a long time to realize that others are programming with sound and fury but producing nothing.
+> 1. extreme productivity may not be obvious
+> 2. programmers are most effective when they avoid writing code
+> 3. when they are being their most productive, nobody says “Wow! You were just 100x more productive than if you’d done this the hard way. You deserve a raise.”
+> 4. it may take a long time to realize that others are programming with sound and fury but producing nothing.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
