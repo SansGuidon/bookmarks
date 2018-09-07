@@ -3029,6 +3029,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
 * [Joe L. Wroten](https://medium.com/@SharpShark28/whats-in-a-photo-e00637e9fc99) - What’s In A Photo?
 * [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
+* [The Golden Hour Calculator](http://www.golden-hour.com/) - Sunrise and Sunset information for photographers | a.k.a. what's the best time to take a good picture depending on your location. That's a tip I've learned while preparing my visit to the Neon Museum in Las Vegas
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
