@@ -26,14 +26,14 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
 
 ## Contents
 
-* [Anime](#anime)
+* [Anime](#anime-jp)
 * [Architecture / Design / Patterns](#architecture--design--patterns)
 * [Art](#art-art)
-* [Books](#books)
+* [Books](#books-books)
 * [Business & Economics](#business--economics)
   * [Cryptocurrency](#cryptocurrency)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
-* [Creativity](#creativity)
+* [Creativity](#creativity-bulb)
 * [CRM](#CRM)
 * [Culture](#culture)
 * [Data](#data)
@@ -137,7 +137,7 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
 * [Society](#society)
 * [Sports](#sports)
 * [Testing](#testing)
-* [Travel](#travel)
+* [Travel](#travel-airplane)
 * [Troubleshooting](#troubleshooting)
 * [UX / UI](#ux--ui)
   * [Design humor](#design-humor)
@@ -145,7 +145,7 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
 * [Windows](#windows)
 * [Writing](#writing)
 
-# Anime
+# Anime :jp:
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
 
 # Architecture / Design / Patterns
@@ -289,7 +289,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Amanda Sopkin](https://dev.to/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om) - (2018) Fantastic Personal Websites and How to Make Them | tips for good portfolio
 * [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) - Awesome Creative Portfolio Websites
 
-# Books
+# Books :books:
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
 * [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer
@@ -745,7 +745,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering 
 * [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips 
 
-# Creativity
+# Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - (2011) CK Theory : The Concept Knowledge Theory
 * [Jason Fried](https://m.signalvnoise.com/the-intimidating-zero-4d90fcdcc3b2) - The Intimidating Zero
@@ -5502,7 +5502,7 @@ Raw
 * [JSONLint](https://jsonlint.com/) - JSON validator
 * [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
 
-# Travel
+# Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
 
 # Troubleshooting
