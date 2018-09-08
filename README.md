@@ -1,6 +1,12 @@
-I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world. I'm also on Twitter at [@MorganGeek](https://twitter.com/MorganGeek)
+# Bookmarks :bookmark:
+> A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) resources for geeks and software crafters :beer:
 
-+:warning: :squirrel: I advise you to consult this very same page at https://github.com/MorganGeek/bookmarks/blob/master/README.md for integral content, as [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729)
+- I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world.
+- +:warning: :squirrel: I advise you to consult this very same page at https://github.com/MorganGeek/bookmarks/blob/master/README.md for integral content, as [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729)
+
+Contributions are more than welcome. Add links through pull requests or create an issue to start a discussion.
+
+by **[@MorganGeek](https://twitter.com/MorganGeek)**
 
 [![Say Thanks!][img-saythanks]][saythanks] [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] [![Share on Twitter][img-twitter]][twitter] [![License: GPL v3][img-gpl3]][gpl3]
 
