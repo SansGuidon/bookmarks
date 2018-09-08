@@ -1,6 +1,12 @@
-http://gordonbrander.com/pattern/I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world. I'm also on Twitter at [@MorganGeek](https://twitter.com/MorganGeek)
+# Bookmarks :bookmark:
+> A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) resources for geeks and software crafters :beer:
 
-+:warning: :squirrel: I advise you to consult this very same page at https://github.com/MorganGeek/bookmarks/blob/master/README.md for integral content, as [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729)
+- I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world.
+- +:warning: :squirrel: I advise you to consult this very same page at https://github.com/MorganGeek/bookmarks/blob/master/README.md for integral content, as [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729)
+
+Contributions are more than welcome. Add links through pull requests or create an issue to start a discussion.
+
+by **[@MorganGeek](https://twitter.com/MorganGeek)**
 
 [![Say Thanks!][img-saythanks]][saythanks] [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] [![Share on Twitter][img-twitter]][twitter] [![License: GPL v3][img-gpl3]][gpl3]
 
@@ -2313,6 +2319,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Whenever you feel yourself with too much work to do, go back and apply these principles: underpromise, limit your own time, prioritize ruthlessly. With practice you’ll learn how to deliver the results that really matter—without working long hours.
 * [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
 > don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
+* [Chris Dottie](https://social.hays.com/2018/02/08/4-things-recruiter-needs-know/) - (2018) 4 things your recruiter needs to know about you
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
@@ -4677,6 +4684,7 @@ Raw
 > 2. programmers are most effective when they avoid writing code
 > 3. when they are being their most productive, nobody says “Wow! You were just 100x more productive than if you’d done this the hard way. You deserve a raise.”
 > 4. it may take a long time to realize that others are programming with sound and fury but producing nothing.
+* [Osman (Ozzie) Ahmed Osman](https://hackernoon.com/just-in-case-vs-just-in-time-learning-c87f61d24360) - (2018) Just-In-Case vs. Just-In-Time Learning | Should software engineers learn new things “just in case” we need them in the future? Or should we learn the things we need “just in time”, when we realize we actually need them?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
