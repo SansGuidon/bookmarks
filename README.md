@@ -4,6 +4,16 @@ I spend a lot of time on internet, losing myself in lot of topics. I choose GitH
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/MorganGeek) [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] [![Share on Twitter][img-twitter]][twitter] [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+<!-- Links -->
+[Dillinger]: <http://dillinger.io>
+[bats]: <https://github.com/sstephenson/bats>
+[buymeacoffee]: https://www.buymeacoffee.com/morgangeek
+[twitter]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FMorganGeek%2Fbookmarks&via=morgangeek&text=awesome%20resources%20for%20geeks%20and%20software%20crafters
+
+<!-- Images -->
+[img-buymeacoffee]: https://img.shields.io/badge/buy-me%20a%20coffee-blue.svg?style=flat&colorA=555555&colorB=FF813F
+[img-twitter]: https://img.shields.io/badge/share-on%20twitter-blue.svg?style=flat&colorA=555555&colorB=1DA1F2
+
 ## Contents
 
 * [Anime](#anime)
@@ -5705,12 +5715,3 @@ Raw
 > Of Course Writing Books is Hard! But that's what makes it fun and rewarding! You really shouldn't try to write a book unless you have a fire in your belly. If you have that fire, then nothing that Jeff Atword or I can say will discourage you.
 * [Scott W. Ambler](http://www.ambysoft.com/books/bookWriting.html) - (2006) How to Write a Technical Book
 * [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
-
-[Dillinger]: <http://dillinger.io>
-[bats]: <https://github.com/sstephenson/bats>
-[buymeacoffee]: https://www.buymeacoffee.com/morgangeek
-[img-buymeacoffee]: https://img.shields.io/badge/buy-me%20a%20coffee-blue.svg?style=flat&colorA=555555&colorB=FF813F
-[img-twitter]: https://img.shields.io/badge/share-on%20twitter-blue.svg?style=flat&colorA=555555&colorB=1DA1F2
-
-[twitter]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FMorganGeek%2Fbookmarks&via=morgangeek&text=awesome%20resources%20for%20geeks%20and%20software%20crafters
-
