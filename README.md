@@ -737,6 +737,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > 1. After encountering the person, do people feel oppressed, humiliated or otherwise worse about themselves?
 > 2. Does the person target people who are less powerful than him/her?
 * [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering 
+* [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips 
 
 # Creativity
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -4870,6 +4871,7 @@ Raw
 * [qit](https://qit.cloud/) - Search for Tech podcasts by topic 
 * [The Life Coach School](https://thelifecoachschool.com/podcasts/) - podcasts by Brooke Castillo
 * [Change ma vie](https://changemavie.com/episodes) - [FR] :fr: le podcast qui vous donne des outils pour votre esprit. par Clotilde Dusoulier
+* [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips 
 
 # Psychology
 > News
