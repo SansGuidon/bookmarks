@@ -2313,6 +2313,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Whenever you feel yourself with too much work to do, go back and apply these principles: underpromise, limit your own time, prioritize ruthlessly. With practice you’ll learn how to deliver the results that really matter—without working long hours.
 * [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
 > don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
+* [Chris Dottie](https://social.hays.com/2018/02/08/4-things-recruiter-needs-know/) - (2018) 4 things your recruiter needs to know about you
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - Best sites for finding your dream remote job
