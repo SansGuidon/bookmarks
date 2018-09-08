@@ -176,7 +176,7 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
 * [John D. Cook](https://www.johndcook.com/blog/2008/02/18/what-to-make-flexible/) - (2008) What to make flexible // about art of good design
 * [Scott McCarty](http://rhelblog.redhat.com/2016/03/16/container-tidbits-when-should-i-break-my-application-into-multiple-containers/) - (2016) Container Tidbits: When Should I Break My Application into Multiple Containers?
-* [Umer Mansoor](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/) - (2017) YAGNI, Cargo Cult and Overengineering - (2017) the Planes Won't Land Just Because You Built a Runway in Your Backyard
+* [Umer Mansoor](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/) - (2017) YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard
 * [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
@@ -942,9 +942,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Don Macvittie](https://devops.com/moving-big-project-cicd/) - Moving That Big Project to CI/CD
 * [Yaniv Yehuda](https://devops.com/7-highly-effective-continuous-delivery-principles/) - 7 Highly Effective Continuous Delivery Principles
 * [Automatic Software](https://automic.com/resources/tco-assessment-tools/devops-maturity-assessment) - DevOps Maturity model assessment : Where are you on your DevOps journey?
-* [Phillip Holmes](http://doatt.com/2015/02/02/fourth-the-build-system/index.html) - (2015) Fourth - (2015) The Build System
+* [Phillip Holmes](http://doatt.com/2015/02/02/fourth-the-build-system/index.html) - (2015) Fourth - The Build System
 * [Phillip Holmes](http://doatt.com/2015/04/27/the-build-methodology-decision/index.html) - (2015) The Build Methodology Decision
-* [Michael Hedgpeth](https://blog.chef.io/2017/04/13/guest-post-why-habitat/) - (2017) Why Habitat? - (2017) Chef Blog
+* [Michael Hedgpeth](https://blog.chef.io/2017/04/13/guest-post-why-habitat/) - (2017) Why Habitat? - Chef Blog
 * [Samuele Resca](https://dev.to/samueleresca/continuos-delivery-using-feature-toggle) - Continuous Delivery using feature toggle
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] (Master's thesis) Container-based Continuous Delivery for Clusters, interesting for some parts
 * [Nathan Hurst](http://engineering.teacherspayteachers.com/2015/12/01/from-10-hours-to-10-minutes-scaling-release-automation-at-teachers-pay-teachers.html) - (2015) From 10 Hours to 10 Minutes: Scaling Release Automation at Teachers Pay Teachers
@@ -1207,7 +1207,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Pierre Baillet](http://blog.ippon.tech/ansible-tips-and-tricks/) - 10 Ansible tips and tricks
 * [Timothy Appnel, James Martin](https://www.redhat.com/en/about/videos/ansible-best-practices-startups-enterprises) - [Video] Ansible best practices for startups to enterprises
 * [Ansible Galaxy](https://galaxy.ansible.com/list#/roles?page=1&page_size=10) - Ansible Galaxy Roles
-* [Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - (2017) Tricks of the Trades : Ansible - (2017) Ad Hoc Commands and Modules
+* [Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - (2017) Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
 * [Ansible](https://www.ansible.com/blog/ansible-performance-tuning) - Ansible Performance Tuning (for Fun and Profit)
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_filters.html) - Jinja2 Filters
 * [Jinja2 Docs](http://jinja.pocoo.org/docs/dev/templates/#builtin-filters) - Templates and Builtin filters
@@ -1410,7 +1410,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Brian DeHamer](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - [Slides] (2015) Optimizing Docker Images
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Csaba Palfi](https://csabapalfi.github.io/random-docker-tips/) - (2014) 24 random docker tips
-* [Scarlz](http://www.tricksofthetrades.net/2016/03/14/docker-data-volumes/) - (2016) Tricks of the Trades : Docker - (2016) Data Volumes and Data Containers
+* [Scarlz](http://www.tricksofthetrades.net/2016/03/14/docker-data-volumes/) - (2016) Tricks of the Trades : Docker - Data Volumes and Data Containers
 * [Deni Bertovic](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/) - Handling Permissions with Docker Volumes
 * [Docker Docs](https://docs.docker.com/engine/swarm/secrets/) - Manage sensitive data with Docker secrets
 * [tcnksm/docker-alias](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases
@@ -1465,7 +1465,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Faheetah](https://gist.github.com/Faheetah/a2a401a01d2d56fa7d1a9d7ab0d2831b) - Docker patterns/anti-patterns : Generic Dockerfile demonstrating good practices
 * [Scott Coulton](https://speakerdeck.com/scottyc/if-its-in-a-container-its-secure-right-1) - If it’s in a container it’s secure right ?
 * [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
-* [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - (2015) Debugging - (2015) into rabbit hole with docker containers
+* [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - (2015) Debugging - into rabbit hole with docker containers
 * [Sreenivas Makam](https://www.slideshare.net/SreenivasMakam/docker-networking-common-issues-and-troubleshooting-techniques) - Docker Networking - Common Issues and Troubleshooting Techniques
 * [Nathan Leclaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - (2015) Using Ansible with Docker Machine to Bootstrap Host Nodes
 * [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
@@ -2490,7 +2490,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Vivek Gite](https://www.cyberciti.biz/hardware/howto-see-historical-statistical-uptime-on-linux-server/) - Linux Server See the Historical and Statistical Uptime of System With tuptime Utility
 * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - (2017) Linux tracing systems * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - (2017) Linux tracing systems * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - Linux tracing systems & how they fit together how they fit together how they fit together
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - (2013) 10 Basic Linux Networking and Monitoring Commands You Should Know
-* [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - (2013) Linux Server Monitoring and Networking Commands for Linux Server Administrators - (2013) Part 2
+* [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - (2013) Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
 * [LZone](https://lzone.de/cheat-sheet/Linux-Networking) - Linux networking cheatsheet
 * [FedoraProject Wiki](https://fedoraproject.org/wiki/Packaging:RPMMacros?rd=Packaging/RPMMacros) - definitions for some common RPM specfile macros
 * [Stack Overflow](https://stackoverflow.com/questions/8076471/how-to-know-the-value-of-built-in-macro-in-rpm) - How to know the value of built-in macro in RPM?
@@ -2650,7 +2650,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Christian Zibreg](http://www.idownloadblog.com/2015/09/14/how-to-start-up-mac-from-bootable-media/) - (2015) How to start up your Mac from a bootable CD/DVD, USB thumb drive or external storage device
 * [Daniel Miessler](https://danielmiessler.com/blog/8-powerful-features-of-safari-that-few-people-know-about/) - 8 Powerful Features of Safari That Few People Know About
 * [Daniel Miessler](https://danielmiessler.com/blog/first-10-things-new-mac/) - The First 10 Things I Do on a New Mac
-* [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - (2014) OS X: Creating Packages from the Command Line - (2014) Tutorial and a Makefile - (2014) Part I
+* [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - (2014) OS X: Creating Packages from the Command Line - Tutorial and a Makefile - Part I
 * [Lucas Hall](https://opensource.com/article/17/5/8-open-source-tools-managing-macos) - 8 open source tools for managing macOS
 * [Maksym Grebenets](http://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node) - (2015) Jenkins Remote Node on Mac OS X
 * [Praval Singh](http://praval.com/2015/10/your-mac-is-probably-eating-your-internet-bandwidth-look-for-nsurlsessiond/) - (2015) Your Mac is probably eating your Internet bandwidth (and you don’t know about it!). **Bonus** : other links on the subject : [1](https://paulromer.net/iot-nsurlsessiond-and-trust/) [2](https://ayteck.blogspot.be/2015/09/limited-bandwidth-apple-and-hell-caused.html) [3](https://discussions.apple.com/thread/6605949?tstart=0) [4](https://theblogmatic.wordpress.com/2015/11/26/solution-nsurlsessiond-taking-up-bandwidth-and-downloading-data-mac/)
@@ -2733,7 +2733,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - (2013) 10 Basic Linux Networking and Monitoring Commands You Should Know
-* [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - (2013) Linux Server Monitoring and Networking Commands for Linux Server Administrators - (2013) Part 2
+* [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - (2013) Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
 * [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
 * [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
 * [Daniel Miessler](https://danielmiessler.com/blog/security-how-to-monitor-your-network-connections/) - Security: How To Monitor Your Network Connections
@@ -3000,9 +3000,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [MorganGeek](https://gist.github.com/MorganGeek/16e76740b5c3ed75481eea4972f583a7) - monitoring tools summarized
 * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - (2017) Linux tracing systems * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - (2017) Linux tracing systems * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - Linux tracing systems & how they fit together how they fit together how they fit together
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - (2013) 10 Basic Linux Networking and Monitoring Commands You Should Know
-* [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - (2013) Linux Server Monitoring and Networking Commands for Linux Server Administrators - (2013) Part 2
+* [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - (2013) Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
 * [Steven Vaughan-Nichols](https://insights.hpe.com/articles/16-linux-server-monitoring-commands-you-really-need-to-know-1703.html) - 16 Linux server monitoring commands you really need to know
-* [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - (2015) Bash monitoring tips - (2015) watch * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - (2015) Bash monitoring tips - (2015) watch * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee tee tee
+* [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - (2015) Bash monitoring tips - watch * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - (2015) Bash monitoring tips - watch * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee tee tee
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - (2016) Test Driven Infrastructure with Goss
@@ -3578,7 +3578,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Lin Taylor](http://linbug.github.io/programming/2017/10/11/Pseudocode-Programming-fake-it-before-you-make-it/) - (2017) Pseudocode Programming: fake it before you make it
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
 * [Gregg Caines](http://caines.ca/blog/2017/10/21/working-without-estimates/) - (2017) Working Without Estimates
-* [Umer Mansoor](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/) - (2017) YAGNI, Cargo Cult and Overengineering - (2017) the Planes Won't Land Just Because You Built a Runway in Your Backyard
+* [Umer Mansoor](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/) - (2017) YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/the_language_squint_test.html) - (2008) The Language Squint Test
 * [c9x](http://c9x.me/compile/bib/) - Resources for Amateur Compiler Writers
 * [Brian Kelly](https://morethancoding.com/2012/08/17/the-programming-language-skill-scale/) - (2012) The Programming Language Skill Scale
@@ -4065,7 +4065,7 @@ Containers, Clouds and Lean Business
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - (2010) How to Debug C Program using gdb in 6 Simple Steps
 * [Jaroslav Tulach](http://www.methodsandtools.com/archive/debugger.php) - Use the Debugger. Stupid!
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
-* [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - (2015) Debugging - (2015) into rabbit hole with docker containers
+* [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - (2015) Debugging - into rabbit hole with docker containers
 * :star: [**Aaron Maxwell**](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - Use the Unofficial Bash Strict Mode (Unless You Looove Debugging). **Bonus** : [some bash tips when dealing with bash strict mode](https://gist.github.com/Integralist/0fc25edb5d9ceeae74cc)
 * [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
 * [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
@@ -5028,7 +5028,7 @@ Raw
 * :star: [**Aaron Zauner/community_bash_style_guide**](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide. Discovered via [DevHub](https://devhub.io/repos/azet-community_bash_style_guide)
 * [Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/) - 3 shell scripts to improve your writing
 * [Quickshiftin](https://quickshiftin.com/blog/2014/01/template-method-pattern-bash/) - (2014) Template method pattern in BASH
-* [Fahd Shariff](http://fahdshariff.blogspot.be/2013/10/shell-scripting-best-practices.html) - (2013) Shell Scripting - (2013) Best Practices
+* [Fahd Shariff](http://fahdshariff.blogspot.be/2013/10/shell-scripting-best-practices.html) - (2013) Shell Scripting - Best Practices
 * [Fahd Shariff](http://fahdshariff.blogspot.be/2017/05/shell-scripting-and.html) - (2017) Shell Scripting: <, << and <<<
 * [Nitin Bhadauria](http://www.tothenew.com/blog/foolproof-your-bash-script-some-best-practices/) - Foolproof Your Bash Script – Some Best Practices
 * [David Pashley](http://www.davidpashley.com/articles/writing-robust-shell-scripts/) - Writing Robust Bash Shell Scripts
@@ -5055,7 +5055,7 @@ Raw
 * [Eric Pement](http://www.pement.org/sed/sed1line.txt) - useful one-liners for sed. [FR version](http://sed.sourceforge.net/sed1line_fr.html)
 * [raidzero/dotfiles](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
 * [Rich Felker](http://www.etalabs.net/sh_tricks.html) - Rich’s sh (POSIX shell) tricks
-* [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - (2015) Bash monitoring tips - (2015) watch * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - (2015) Bash monitoring tips - (2015) watch * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee tee tee
+* [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - (2015) Bash monitoring tips - watch * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - (2015) Bash monitoring tips - watch * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee tee tee
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 * [Eric Wendelin](https://www.eriwen.com/tools/grep-is-a-beautiful-tool/) - grep is a beautiful tool

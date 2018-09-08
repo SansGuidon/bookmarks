@@ -5,7 +5,7 @@ do
   grep "/$year/" README.md | grep -v "($year)" | grep -v " - (" | while read -r line
   do
     echo "$line"
-    replace=$(echo "$line" | sed "s/ - / - ($year) /g" | sed -e "s#\*#\\\*#g" | sed -e "s#\[#\\\[#g" | sed -e "s#\]#\\\]#g" | sed -e "s#/#\\\/#g")
+    replace=$(echo "$line" | sed "s/) - /) - ($year) /g" | sed -e "s#\*#\\\*#g" | sed -e "s#\[#\\\[#g" | sed -e "s#\]#\\\]#g" | sed -e "s#/#\\\/#g")
     orig=$(echo "$line" | sed -e "s#/#\\\/#g" | sed -e "s#\*#\\\*#g" |  sed -e "s#\[#\\\[#g" | sed -e "s#\]#\\\]#g" )
     sed -i.bak "s;$orig;$replace;g" README.md
   done
