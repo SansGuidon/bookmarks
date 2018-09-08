@@ -4677,6 +4677,7 @@ Raw
 > 2. programmers are most effective when they avoid writing code
 > 3. when they are being their most productive, nobody says “Wow! You were just 100x more productive than if you’d done this the hard way. You deserve a raise.”
 > 4. it may take a long time to realize that others are programming with sound and fury but producing nothing.
+* [Osman (Ozzie) Ahmed Osman](https://hackernoon.com/just-in-case-vs-just-in-time-learning-c87f61d24360) - (2018) Just-In-Case vs. Just-In-Time Learning | Should software engineers learn new things “just in case” we need them in the future? Or should we learn the things we need “just in time”, when we realize we actually need them?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
