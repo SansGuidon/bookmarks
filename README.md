@@ -261,6 +261,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Sandi Metz](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - (2016) The Wrong Abstraction 
 > 1. duplication is far cheaper than the wrong abstraction
 > 2. prefer duplication over the wrong abstraction
+* [Gordon Brander](http://gordonbrander.com/pattern/second-system-syndrome/) - Second System Syndrome | a simple system is doomed to be replaced by an excessively abstract, over-engeered, or bloated successor.
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
