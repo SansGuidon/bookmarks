@@ -2,7 +2,7 @@
 > A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) resources for geeks and software crafters :beer:
 
 - I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world.
-- +:warning: :squirrel: I advise you to consult this very same page at https://github.com/MorganGeek/bookmarks/blob/master/README.md for integral content, as [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729)
+- :warning: [**Full version**](https://github.com/MorganGeek/bookmarks/blob/master/README.md) :warning: I advise you to consult this very same page [here](https://github.com/MorganGeek/bookmarks/blob/master/README.md) for full content, as [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729), causing incomplete display of this list.
 
 Contributions are more than welcome. Add links through pull requests or create an issue to start a discussion.
 
