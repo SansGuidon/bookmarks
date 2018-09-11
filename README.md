@@ -57,18 +57,18 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
   * [Vault (by HashiCorp)](#vault-by-hashicorp)
   * [VirtualBox](#virtualbox)
 * [Digital marketing](#digital-marketing)
-* [Finding content](#finding-content)
+* [Finding content](#finding-content-mag)
   * [App discovery](#app-discovery)
   * [Event discovery](#event-discovery)
-* [Free online tools](#free-online-tools)
+* [Free online tools](#free-online-tools-free)
 * [Gaming](#gaming-video_game)
-  * [Role-playing](#role-playing)
+  * [Role-playing](#role-playing-dragon)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
   * [Remote jobs](#remote-jobs)
 * [Hobbies](#hobbies)
-* [Humor](#humor)
+* [Humor](#humor-trollface)
 * [Images / Wallpapers](#images--wallpapers)
-* [Linux / Unix](#linux--unix)
+* [Linux / Unix](#linux--unix-penguin)
   * [Emacs](#emacs)
   * [Linux for fun](#linux-for-fun)
   * [Raspberry Pi](#raspberry-pi)
@@ -78,9 +78,9 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
   * [Code signing](#code-signing)
 * [Manga](#manga)
 * [Movies](#movies)
-* [Music](#music)
+* [Music](#music-notes)
 * [Networking](#networking)
-* [News](#news)
+* [News](#news-exclamation)
 * [Operations / IT OPS](#operations--it-ops)
   * [Apache](#apache)
   * [Atlassian](#atlassian)
@@ -89,13 +89,13 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
   * [Logging](#logging)
   * [Monitoring](#monitoring)
   * [ServiceNow](#servicenow)
-* [Philosophy](#philosophy)
+* [Philosophy](#philosophy-thought_balloon)
 * [Photography](#photography)
-* [Podcasts](#podcasts)
+* [Podcasts](#podcasts-radio)
 * [Prepping](#prepping)
 * [Principles](PRINCIPLES.md)
 * [Privacy](#privacy)
-* [Productivity](#productivity)
+* [Productivity](#productivity-fast_forward)
 * [Programming](#programming)
   * [API](#api)
   * [Assembly](#assembly)
@@ -108,7 +108,7 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
   * [Elixir](#elixir)
   * [Erlang](#erlang)
   * [Gamedev](#gamedev)
-  * [Git](#git)
+  * [Git](#git-octocat)
   * [Golang / Go](#golang--go)
   * [Groovy](#groovy)
   * [Haskell](#haskell)
@@ -117,7 +117,7 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
   * [JavaScript](#javascript)
   * [Lisp](#lisp)
   * [Machine learning](#machine-learning)
-  * [Mobile development](#mobile-development)
+  * [Mobile development](#mobile-development-iphone)
   * [Productivity](#productivity-1)
   * [Programmer humor](#programmer-humor)
   * [Prolog](#prolog)
@@ -125,7 +125,7 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
   * [Reverse engineering](#reverse-engineering)
   * [Ruby](#ruby)
   * [Rust](#rust)
-* [Psychology](#psychology)
+* [Psychology](#psychology-thought_balloon)
 * [Quotes](QUOTES.md)
 * [Robots](#robots)
 * [Shell scripting](#shell-scripting)
@@ -136,14 +136,14 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
   * [Web](#web)
 * [Society](#society)
 * [Sports](#sports)
-* [Testing](#testing)
+* [Testing](#testing-ok_hand)
 * [Travel](#travel-airplane)
 * [Troubleshooting](#troubleshooting)
 * [UX / UI](#ux--ui)
   * [Design humor](#design-humor)
 * [Web development](#web-development)
 * [Windows](#windows)
-* [Writing](#writing)
+* [Writing](#writing-pencil2)
 
 # Anime :jp:
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
@@ -1885,7 +1885,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
 * [Neil Patel](https://blog.hubspot.com/marketing/psychology-of-excitement) - (2015) The Psychology of Excitement: How to Better Engage Your Audience | marketing
 
-# Finding content
+# Finding content :mag:
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
 * :star: [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
 * :star: [**Library Genesis**](http://libgen.io/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.pw/), [Mirrors list](http://sguru.org/libgen-proxy/)
@@ -2033,7 +2033,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
 
-# Free online tools
+# Free online tools :free:
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze a website performance
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
@@ -2172,7 +2172,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [DHTML Lemmings](https://www.elizium.nu/scripts/lemmings/) - a remake of Lemmings all written in JavaScript, to play in your browser
 * [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : * [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
 
-## Role-playing
+## Role-playing :dragon:
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 * [NESblog / Speed Game](https://www.youtube.com/watch?v=VKvcQNLk9yA) - [FR] :fr: [Video] Le Jeu de Rôle Papier, analyse des spécificités de cette famille de jeu
@@ -2359,7 +2359,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Post Apocalyptic fictions
 * [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
 
-# Humor
+# Humor :trollface:
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 * [/r/DiWHY](https://www.reddit.com/r/DiWHY/) - when DIY goes wrong
 * [/r/redneckengineering](https://www.reddit.com/r/redneckengineering/) - white trash repairs, and other workarounds that make you laugh
@@ -2418,7 +2418,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [SpaceX](https://www.flickr.com/photos/spacex) - Official SpaceX Photos on Flickr
 * [Will Gallego](https://codeascraft.com/2017/05/30/reducing-image-file-size-at-etsy/) - (2017) Reducing Image File Size at Etsy
 
-# Linux / Unix
+# Linux / Unix :penguin:
 > News
 * [/r/linux](https://www.reddit.com/r/linux/) - discussions & news about linux on reddit
 * :star: [**nixCraft**](https://www.cyberciti.biz/) - linux tips, hacks, tutorials and ideas
@@ -2703,7 +2703,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
 
-# Music
+# Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
 * [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
 * [16Personalities](https://www.16personalities.com/articles/music-preferences-by-personality-type) - Music Preferences by Personality Type
@@ -2759,7 +2759,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query?bflag&searchtext=) - Webupdates / database query
 * [CIDR/Netmask Lookup Tool](https://www.ultratools.com/tools/netMaskResult?ipAddress=37.98.232.8%2F29) -  get information about a CIDR range including the IP addresses and host addresses contained in it.
 
-# News
+# News :exclamation:
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
 * :fire: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * :star: [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
@@ -3034,7 +3034,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Fix_Scripts#Testing_Fix_Scripts&gsc.tab=0) - Fix Scripts & Testing Fix Scripts
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Script_Includes#gsc.tab=0) - Script Includes. Related : [Use Script Includes](https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/server-scripting/concept/c_UseScriptIncludes.html)
 
-# Philosophy
+# Philosophy :thought_balloon:
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
 * [Real News](http://www.realnews24.com/socrates-was-one-of-the-smartest-people-who-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read/) - some Socrates quotes worth the reading
 * [Daniel Miessler](https://danielmiessler.com/blog/is-it-wrong-to-have-children/) - Is It Wrong to Have Children?
@@ -3136,7 +3136,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Reset The Net](https://pack.resetthenet.org/) - Privacy Pack
 * [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
 
-# Productivity
+# Productivity :fast_forward:
 > News
 * [Hacker News](https://hn.algolia.com/?query=tricks&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tricks
 * [Hacker News](https://hn.algolia.com/?query=tips&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tips
@@ -4143,7 +4143,7 @@ Containers, Clouds and Lean Business
 * [JR Heard](http://blog.jrheard.com/procedural-dungeon-generation-drunkards-walk-in-clojurescript) - (2016) Procedural Dungeon Generation: A Drunkard's Walk in ClojureScript
 * [JR Heard](http://blog.jrheard.com/procedural-dungeon-generation-cellular-automata) - (2016) Procedural Dungeon Generation: Cellular Automata
 
-## Git
+## Git :octocat:
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
 * [Think Like (a) Git](http://think-like-a-git.net/) - Git shouldn't be so hard to learn : a guide for the perplexed
 * [Oh shit, git!](http://ohshitgit.com/) - git may be hard, screwing up is easy, here are some tips to fix your mistakes
@@ -4465,7 +4465,7 @@ Raw
 * [Rob Harrigan](https://unsupervisedpandas.com/python/supervised-classification-preprocessing/) - (2017) Supervised Classification: An Introduction and Preprocessing
 * [David Venturi](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0) - (2017) Every single Machine Learning course on the internet, ranked by your reviews
 
-## Mobile Development
+## Mobile Development :iphone:
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
 * [The Android Arsenal](https://android-arsenal.com/) - inventory / categorized directory of libraries and tools for Android
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
@@ -4846,7 +4846,7 @@ Raw
 * [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
-# Podcasts
+# Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Player FM](https://player.fm/podcasts/Software-Development) - Software Development Podcasts
 * [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers
@@ -4882,7 +4882,7 @@ Raw
 * [Change ma vie](https://changemavie.com/episodes) - [FR] :fr: le podcast qui vous donne des outils pour votre esprit. par Clotilde Dusoulier
 * [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips 
 
-# Psychology
+# Psychology :thought_balloon:
 > News
 * [Positive Psychology Program](https://positivepsychologyprogram.com/category/positive-emotions/) - Positive Emotions related articles
 * [Psychology Today](https://www.psychologytoday.com/us/basics/cognitive-behavioral-therapy) - Cognitive Behavioral Therapy
@@ -5437,7 +5437,7 @@ Raw
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
 
-# Testing
+# Testing :ok_hand:
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
 * [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated
 * [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing
@@ -5715,7 +5715,7 @@ Raw
 * [Amar Kulo](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/) - (2017) Integrating database of pwned password hashes with Microsoft AD
 * [Kevin Marquette](https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/) - (2017) Powershell: Building a Module, one microstep at a time
 
-# Writing
+# Writing :pencil2:
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
 * [Matt Stauffer](https://mattstauffer.com/blog/why-i-wrote-my-book-with-oreilly/) - (2016) Why I wrote my book with O'Reilly
 * [Carla King](http://mediashift.org/2014/04/indie-publishing-tools-for-small-press-and-author-co-ops/) - (2014) 6 Great Self-Publishing Tools for Small Press and Author Co-Ops
