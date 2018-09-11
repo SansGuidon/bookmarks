@@ -881,6 +881,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [BioFabric](http://www.biofabric.org/) - displays a network where nodes are depicted as horizontal lines, not as points! Take a look at the [Super-Quick Demo](http://www.biofabric.org/gallery/pages/SuperQuickBioFabric.html) to see how it works in under 60 seconds. **Example** : [Simple BioFabric Rendered](http://www.biofabric.org/gallery/pages/JustBioFabric.html)
 * [maxogden/biofabric](https://github.com/maxogden/biofabric) - a client side module for generating biofabric graphs in svg using d3
 * [Mode Analytics](https://community.modeanalytics.com/gallery/hive-plot/) - example of Hive plot
+* [OpenCycleMap](https://opencyclemap.org/) - the OpenStreetMap Cycle Map
 
 # DevOps
 > News
@@ -5436,6 +5437,7 @@ Raw
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
+* [OpenCycleMap](https://opencyclemap.org/) - the OpenStreetMap Cycle Map
 
 # Testing :ok_hand:
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
