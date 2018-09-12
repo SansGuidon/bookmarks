@@ -747,6 +747,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 > 2. Does the person target people who are less powerful than him/her?
 * [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering 
 * [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips 
+* [Catherine Louis](https://opensource.com/article/18/3/tips-better-agile-retrospective-meetings) - (2018) 8 tips for better agile retrospective meetings
+* [Retromap](https://retromat.org) - Inspiration & plans for (agile) retrospectives : Planning your next agile retrospective? Start with a random plan, change it to fit the team's situation, print it and share the URL. Or browse around for new ideas!
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -816,6 +818,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 * [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
+* [Retromap](https://retromat.org) - Inspiration & plans for (agile) retrospectives : Planning your next agile retrospective? Start with a random plan, change it to fit the team's situation, print it and share the URL. Or browse around for new ideas!
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
