@@ -4,7 +4,7 @@
 - I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world.
 - :warning: [**Full version**](https://github.com/MorganGeek/bookmarks/blob/master/README.md) :warning: I advise you to consult this very same page [here](https://github.com/MorganGeek/bookmarks/blob/master/README.md) for full content, as [GitHub truncates files with a size over 500KB on main page](https://twitter.com/MorganGeek/status/976936079025737729), causing incomplete display of this list.
 
-Contributions are more than welcome. Add links through pull requests or create an issue to start a discussion.
+Contributions are more than welcome. Read the [contribution guidelines](CONTRIBUTING.md).
 
 by **[@MorganGeek](https://twitter.com/MorganGeek)**
 
