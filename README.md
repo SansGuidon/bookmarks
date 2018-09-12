@@ -3785,6 +3785,18 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [DEV](https://dev.to/ben/what-are-some-fundamentals-of-security-every-developer-should-understand-3ki3) - What are some fundamentals of security every developer should understand?
 * [DEV](https://dev.to/jeffreyuvero/what-is-your-personal-programming-ethics-483a) - (2018) What is your personal Programming ethics?
 * [ACM Ethics](https://ethics.acm.org/code-of-ethics/software-engineering-code/) - (1997) The Software Engineering Code of Ethics and Professional Practice
+* [Coding Blocks](https://www.codingblocks.net/podcast/78-deliberate-practice-for-programmers/) - (2018) [Podcast] Deliberate Practice for Programmers
+* [exercism](https://exercism.io/) - Code practice and mentorship for everyone | Learning through Exercism is quite different to other programming websites, with a focus on individual practice and mentor-based learning
+* [Joe Zack](https://www.codingblocks.net/practice/four-reasons-why-10x-developer-controversial/) - (2018) 4 reasons why the “10x Developer” is so controversial
+> 0 Productivity is hard to measure
+> 1 Tiny sample size
+> 2 Well, common sense….
+> 3 The study was done over 50 years ago
+* [Yevgeniy Brikman](https://www.ybrikman.com/writing/2013/09/29/the-10x-developer-is-not-myth/) - (2013) The 10x developer is NOT a myth
+> - If you can’t measure it, you can still reason about it
+> - 10x programmers are rare
+> - Programming is about choices
+* [Code Golf](https://code-golf.io/) - a game designed to let you show off your code-fu by solving problems in the least number of characters. It is written in Go and is open source, patches welcome!
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4891,6 +4903,7 @@ Raw
 * [The Life Coach School](https://thelifecoachschool.com/podcasts/) - podcasts by Brooke Castillo
 * [Change ma vie](https://changemavie.com/episodes) - [FR] :fr: le podcast qui vous donne des outils pour votre esprit. par Clotilde Dusoulier
 * [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips 
+* [Coding Blocks](https://www.codingblocks.net/podcast/78-deliberate-practice-for-programmers/) - (2018) [Podcast] Deliberate Practice for Programmers
 
 # Psychology :thought_balloon:
 > News
