@@ -454,6 +454,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Rich Archbold](https://www.intercom.com/blog/run-less-software/) - (2018) Run less software
 > 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
 * [Reed Hastings](https://www.slideshare.net/reed2001/culture-1798664) - [Slides] (2009) Netflix culture. **Bonus** : [new version here](https://jobs.netflix.com/culture)
+* [Meredith Somers](http://mitsloan.mit.edu/newsroom/articles/the-20-year-old-entrepreneur-is-a-lie/) - (2018) The 20-year-old entrepreneur is a lie | Data from the Census Bureau and the IRS show the average age of successful business founders is 42.
+> **WHY IT MATTERS**
+> Good ideas come at any age, but it takes experience to turn them into success stories. Steve Jobs was 21 when he helped found Apple, but he was a 43-year-old CEO when the company created the iMac.
 
 ## Cryptocurrency
 > News
@@ -3780,6 +3783,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Look for jobs that excite you, for jobs you think you can do with just a little ramp-up time. And then apply for those jobs, knowing that most of them will ignore you—but it only takes one yes to get an exciting new job, and an exciting new opportunity to learn new skills.
 * [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering 
 * [DEV](https://dev.to/ben/what-are-some-fundamentals-of-security-every-developer-should-understand-3ki3) - What are some fundamentals of security every developer should understand?
+* [DEV](https://dev.to/jeffreyuvero/what-is-your-personal-programming-ethics-483a) - (2018) What is your personal Programming ethics?
+* [ACM Ethics](https://ethics.acm.org/code-of-ethics/software-engineering-code/) - (1997) The Software Engineering Code of Ethics and Professional Practice
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4687,6 +4692,10 @@ Raw
 > 3. when they are being their most productive, nobody says “Wow! You were just 100x more productive than if you’d done this the hard way. You deserve a raise.”
 > 4. it may take a long time to realize that others are programming with sound and fury but producing nothing.
 * [Osman (Ozzie) Ahmed Osman](https://hackernoon.com/just-in-case-vs-just-in-time-learning-c87f61d24360) - (2018) Just-In-Case vs. Just-In-Time Learning | Should software engineers learn new things “just in case” we need them in the future? Or should we learn the things we need “just in time”, when we realize we actually need them?
+* [Gaurav Makhecha](https://dev.to/gauravmak/time-saving-habits-for-programmers-i37) - (2018) Time saving habits for programmers
+> - Forget office politics
+> - Code quality
+> - ...
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
