@@ -750,6 +750,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips 
 * [Catherine Louis](https://opensource.com/article/18/3/tips-better-agile-retrospective-meetings) - (2018) 8 tips for better agile retrospective meetings
 * [Retromap](https://retromat.org) - Inspiration & plans for (agile) retrospectives : Planning your next agile retrospective? Start with a random plan, change it to fit the team's situation, print it and share the URL. Or browse around for new ideas!
+* [John Allspaw](https://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/) - (2017) Taking Human Performance Seriously
+> A proper treatment of the human element requires the human to be the focus
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3385,6 +3387,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Multitasking, in short, is not only not thinking, it impairs your ability to think. Thinking means concentrating on one thing long enough to develop an idea about it.
 > Developing your own ideas. In short, thinking for yourself. You simply cannot do that in bursts of 20 seconds at a time, constantly interrupted by Facebook messages or Twitter tweets, or fiddling with your iPod, or watching something on YouTube.
 > It’s only by concentrating, sticking to the question, being patient, letting all the parts of my mind come into play, that I arrive at an original idea.
+* [John Allspaw](https://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/) - (2017) Taking Human Performance Seriously
+> A proper treatment of the human element requires the human to be the focus
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -5013,6 +5017,7 @@ Raw
 * [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
 > don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
 * [Farnam Street](https://fs.blog/mental-models/) - (2018) Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)
+* [Andrew Scull](https://www.the-tls.co.uk/articles/public/what-is-empathy/) - (2018) What is empathy?
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
