@@ -371,6 +371,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
 * [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
 * [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
+* [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
 
 # Business & Economics
 > News
@@ -3311,6 +3312,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 > - Communication should travel via the shortest path necessary to get the job done
 > - A major source of issues is poor communication between depts. The way to solve this is allow free flow of information between all levels
 > - If following a “company rule” is obviously ridiculous in a particular situation, such that it would make for a great Dilbert cartoon, then the rule should change.
+* [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
+* [Farnam Street](https://fs.blog/mental-models/) - (2018) Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
@@ -5006,6 +5009,7 @@ Raw
 * [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
 * [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
 > don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
+* [Farnam Street](https://fs.blog/mental-models/) - (2018) Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
