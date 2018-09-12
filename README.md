@@ -1207,6 +1207,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/03/devops-scam.html) - (2011) Devops Is a Poorly Executed Scam
 > You need to change the culture the hard way, or replace people as necessary until the culture works.
 * [DevOps Bookmarks](http://www.devopsbookmarks.com/provisioning) - Discover tools and frameworks in the DevOps landscape.
+* [Krishelle Hardson-Hurley](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c) - (2017) So you want to be an SRE?
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -2925,6 +2926,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
 * [Théo Chamley](https://cloud.google.com/solutions/best-practices-for-operating-containers) - (2018) 7 best practices for operating containers
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html) - (2018) Top 20 OpenSSH Server Best Security Practices
+* [Krishelle Hardson-Hurley](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c) - (2017) So you want to be an SRE?
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
