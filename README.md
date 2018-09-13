@@ -895,6 +895,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [OpenCycleMap](https://opencyclemap.org/) - :bicyclist: the OpenStreetMap Cycle Map
 * [Digital Wallonia](https://opendata.digitalwallonia.be/) - [FR] [BE] Open Data pour la Wallonie
 * [Data.gov.be](https://data.gov.be/fr/search/datasets) - [FR] [BE] Belgian open data portal
+* [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool (by Google) for working with messy data and improving it. **See also** [http://openrefine.org/](Official site)
 
 # DevOps
 > News
