@@ -2154,7 +2154,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
 * [What Does My Site Cost?](https://whatdoesmysitecost.com/) - Find out how much it costs for someone to use your site on mobile networks around the world.
 * [JSONLint](https://jsonlint.com/) - JSON validator
-
+* [The Password Meter](http://www.passwordmeter.com/) - assess the strength of password strings.
+ 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -5361,6 +5362,7 @@ Raw
 * [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html) - (2018) Top 20 OpenSSH Server Best Security Practices
 * [DEV](https://dev.to/ben/what-are-some-fundamentals-of-security-every-developer-should-understand-3ki3) - What are some fundamentals of security every developer should understand?
+* [The Password Meter](http://www.passwordmeter.com/) - assess the strength of password strings.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
