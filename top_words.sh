@@ -1,3 +1,13 @@
-#/usr/bin/env bash
-BASEDIR=$(dirname "$0")
-grep -o -E '[a-zA-Z]{3,}' "$BASEDIR/README.md" | tr A-Z a-z | grep -vwFf stopwords.txt | sort | uniq -c | sort -n
+#!/usr/bin/env bash
+set -o errexit
+set -o nounset
+set -o pipefail
+
+url="${1:-}"
+basedir=$(dirname "$0")
+
+if [[ "${url:-}" = "" ]]; then
+  grep --only-matching --extended-regexp '[a-zA-Z]{3,}' "$basedir/README.md" | tr '[:upper:]' '[:lower:]' | grep --invert-match --word-regexp --fixed-strings --file=stopwords.txt | sort | uniq --count | sort -n
+else
+  curl "$url" | grep --only-matching --extended-regexp '[a-zA-Z]{3,}' | tr '[:upper:]' '[:lower:]' | grep --invert-match --word-regexp --fixed-strings --file=stopwords.txt | sort | uniq --count | sort -n
+fi
