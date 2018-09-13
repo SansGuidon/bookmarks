@@ -2157,7 +2157,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [JSONLint](https://jsonlint.com/) - JSON validator
 * [The Password Meter](http://www.passwordmeter.com/) - assess the strength of password strings.
 * [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
- 
+ * [Gnoosic](http://www.gnoosic.com) - Based on your choices, Gnod predicts you might like the music of
+
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -2745,6 +2746,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Metalcast](http://www.metalcastshow.com/) - :metal: Ultimate metal show
 * [Steve Losh](http://stevelosh.com/blog/2009/04/why-people-dont-like-metal/) - :metal: (2009) Why People Don’t Like Metal
 * [Steve Losh](http://stevelosh.com/blog/2010/11/keep-calm-and-carry-on/) - (2010) Keep Calm and Carry On | listen to music, damn it!
+* [Gnoosic](http://www.gnoosic.com) - Based on your choices, Gnod predicts you might like the music of
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
