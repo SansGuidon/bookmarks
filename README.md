@@ -893,7 +893,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [maxogden/biofabric](https://github.com/maxogden/biofabric) - a client side module for generating biofabric graphs in svg using d3
 * [Mode Analytics](https://community.modeanalytics.com/gallery/hive-plot/) - example of Hive plot
 * [OpenCycleMap](https://opencyclemap.org/) - :bicyclist: the OpenStreetMap Cycle Map
-* [Digital Wallonia](https://opendata.digitalwallonia.be/) - [BE] Open Data pour la Wallonie
+* [Digital Wallonia](https://opendata.digitalwallonia.be/) - [FR] [BE] Open Data pour la Wallonie
+* [Data.gov.be](https://data.gov.be/fr/search/datasets) - [FR] [BE] Belgian open data portal
 
 # DevOps
 > News
