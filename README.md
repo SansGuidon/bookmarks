@@ -4048,6 +4048,7 @@ Maturity Model
 > 1. duplication is far cheaper than the wrong abstraction
 > 2. prefer duplication over the wrong abstraction
 * [John D. Cook](https://www.johndcook.com/blog/2008/05/03/reusable-code-vs-re-editable-code/) - (2008) Reusable code vs. re-editable code
+* [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
 
 ## Conferences
 > In Belgium
@@ -5188,6 +5189,8 @@ Raw
 * [Kevin Marquette](https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/) - (2017) Powershell: Building a Module, one microstep at a time
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
 * :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
+* [GreyCat's Wiki](https://mywiki.wooledge.org/Quotes) - quoting in shell programming
+* [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
