@@ -4831,6 +4831,7 @@ Raw
 * [Bitbucket](https://bitbucket.org/spooning/) - Spooning makes pair programming look like child's play. Achieve the speed of pair programming with an added level of quiet, knowing intimacy.
 * [Faut-il HTTPS sur mon site ?](https://faut-il-https-sur-mon-site.fr/) - [FR] :fr: does your site require HTTPS ?
 * [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
+* [Method Namer](http://methodnamer.com/) - Can't think of a good method name? Try this
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
