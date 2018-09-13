@@ -4838,6 +4838,7 @@ Raw
 * [Stacy Warden](https://www.pluralsight.com/blog/life/star-wars-day) - (2015) 10 things tech pros can learn from "Star Wars"
 * [Hmm-la-bd](http://hmm-la-bd.eu/260/) - [FR] :fr: les onglets | browser tabs 
 > Note: ça m'arrive régulièrement d'investiguer chaque sujet en ouvrant pas mal de tabs... et en + de multi-task... mes collègues s'étonnent souvent du grand nombre d'onglets que je gère.
+* [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
