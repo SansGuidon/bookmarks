@@ -752,6 +752,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Retromap](https://retromat.org) - Inspiration & plans for (agile) retrospectives : Planning your next agile retrospective? Start with a random plan, change it to fit the team's situation, print it and share the URL. Or browse around for new ideas!
 * [John Allspaw](https://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/) - (2017) Taking Human Performance Seriously
 > A proper treatment of the human element requires the human to be the focus
+* [wikiHow](https://www.wikihow.com/Make-a-QR-Code-to-Share-Your-WiFi-Password) - (2018) How to Make a QR Code to Share Your WiFi Password.
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3320,6 +3321,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > - If following a “company rule” is obviously ridiculous in a particular situation, such that it would make for a great Dilbert cartoon, then the rule should change.
 * [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
 * [Farnam Street](https://fs.blog/mental-models/) - (2018) Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)
+* [wikiHow](https://www.wikihow.com/Make-a-QR-Code-to-Share-Your-WiFi-Password) - (2018) How to Make a QR Code to Share Your WiFi Password
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
