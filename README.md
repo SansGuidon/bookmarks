@@ -268,6 +268,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > 1. duplication is far cheaper than the wrong abstraction
 > 2. prefer duplication over the wrong abstraction
 * [Gordon Brander](http://gordonbrander.com/pattern/second-system-syndrome/) - Second System Syndrome | a simple system is doomed to be replaced by an excessively abstract, over-engeered, or bloated successor.
+* [Stacy Warden](https://www.pluralsight.com/blog/life/star-wars-day) - (2015) 10 things tech pros can learn from "Star Wars"
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -4832,6 +4833,7 @@ Raw
 * [Faut-il HTTPS sur mon site ?](https://faut-il-https-sur-mon-site.fr/) - [FR] :fr: does your site require HTTPS ?
 * [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
 * [Method Namer](http://methodnamer.com/) - Can't think of a good method name? Try this
+* [Stacy Warden](https://www.pluralsight.com/blog/life/star-wars-day) - (2015) 10 things tech pros can learn from "Star Wars"
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
