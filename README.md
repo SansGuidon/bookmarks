@@ -2950,7 +2950,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] :fr: Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
 * [phanan/htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
 * [Apache Docs](https://httpd.apache.org/docs/2.4/en/misc/security_tips.html) - Security Tips for Apache HTTP server
-* [AskApache](https://www.askapache.com/htaccess/) - THE Ultimate .htaccess tutorial with 100's of Examples | This is a guide for using htaccess to the fullest.
+* [AskApache](https://www.askapache.com/htaccess/) - THE Ultimate .htaccess tutorial with 100's of Examples | This is a guide for using htaccess to the fullest. **Bonus** : [Htaccess Files from Github](https://www.askapache.com/htaccess-file/)
 
 ## Atlassian
 > News
