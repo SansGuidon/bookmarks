@@ -2156,6 +2156,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [What Does My Site Cost?](https://whatdoesmysitecost.com/) - Find out how much it costs for someone to use your site on mobile networks around the world.
 * [JSONLint](https://jsonlint.com/) - JSON validator
 * [The Password Meter](http://www.passwordmeter.com/) - assess the strength of password strings.
+* [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
  
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -4826,6 +4827,7 @@ Raw
 * [Days Since Last JavaScript Framework](https://dayssincelastjavascriptframework.com/) - with regular updates ! 
 * [Bitbucket](https://bitbucket.org/spooning/) - Spooning makes pair programming look like child's play. Achieve the speed of pair programming with an added level of quiet, knowing intimacy.
 * [Faut-il HTTPS sur mon site ?](https://faut-il-https-sur-mon-site.fr/) - [FR] :fr: does your site require HTTPS ?
+* [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
@@ -5365,6 +5367,7 @@ Raw
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html) - (2018) Top 20 OpenSSH Server Best Security Practices
 * [DEV](https://dev.to/ben/what-are-some-fundamentals-of-security-every-developer-should-understand-3ki3) - What are some fundamentals of security every developer should understand?
 * [The Password Meter](http://www.passwordmeter.com/) - assess the strength of password strings.
+* [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
