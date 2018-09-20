@@ -2998,6 +2998,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Atlassian Community](https://community.atlassian.com/t5/Jira-discussions/What-would-be-your-advice-to-first-time-Jira-Software-admins/td-p/711667) - (2018) What would be your advice to first-time Jira Software admins? | good tips & tricks in answers 
 * [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver071/configuring-a-custom-field-802592532.html?_ga=2.69739668.52022900.1536230565-1749018630.1466933040#Configuringacustomfield-add_schemeAddinganewcontext) - Configuring a custom field : Adding a new context | Adding a new context allows you to configure a custom field differently for different combinations of issue types and projects.
 * [Atlassian Docs](https://docs.atlassian.com/software/jira/docs/api/REST/latest) - Latest Jira documentation for REST API **Bonus** : [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)
+* [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
@@ -4875,6 +4876,7 @@ Raw
 * [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
 * [JR Heard](http://blog.jrheard.com/truthiness-and-short-circuit-evaluation-in-python) - (2018) Truthiness and Short-Circuit Evaluation in Python
 * [Michal Charemza](https://charemza.name/blog/posts/programming/smells/say-no-to-more-optional-arguments/) - (2016) Say no to more optional arguments
+* [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
