@@ -3903,7 +3903,7 @@ Maturity Model
 * :star: [**Kristories/Awesome Guidelines**](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 * [Tom Preston-Werner](http://semver.org/) - Semantic Versioning 2.0.0
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
-* [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
+* [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide. **Deprecated** : use [jsguide.html](https://google.github.io/styleguide/jsguide.html) in place
 * [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
 * [EditorConfig](http://editorconfig.org/) - EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs
@@ -3912,7 +3912,7 @@ Maturity Model
 * [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 * [golang/go/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) - Go Code Review Comments : collects common comments made during reviews of Go code. This is a laundry list of common mistakes, not a style guide.
 * [Google](https://google.github.io/styleguide/javaguide.html) - Google Java Style Guide
-* [Google](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
+* [Google](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide. **Deprecated** : use [pyguide.md](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) in place
 * [Google](https://google.github.io/styleguide/) - Google Style Guides
 * [sharipov-ru/all-coding-style-guides](https://github.com/sharipov-ru/all-coding-style-guides) - (2015) All coding style guides in one right place
 * [Josh Reichardt](https://thepracticalsysadmin.com/lint-your-dockerfiles-with-hadolint/) - Lint your Dockerfiles with Hadolint
@@ -4467,7 +4467,7 @@ Raw
 * [Alexandru Vladutu](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make) - Top 10 Mistakes Node.js Developers Make
 * [Azat Mardan](https://webapplog.com/seven-things-you-should-stop-doing-with-node-js/) - Seven Things You Should Stop Doing with Node.js
 * [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
-* [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide
+* [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide. **Deprecated** : use [jsguide.html](https://google.github.io/styleguide/jsguide.html) in place
 * [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
@@ -4865,7 +4865,7 @@ Raw
 * [OpenStack/python-jenkins](https://media.readthedocs.org/pdf/python-jenkins/latest/python-jenkins.pdf) - [PDF] python-jenkins documentation
 * [pycontribs/jenkinsapi](https://github.com/pycontribs/jenkinsapi) - A Python library to automate most common Jenkins operations
 * [pypi/feedparser](https://pypi.python.org/pypi/feedparser) - Parse Atom and RSS feeds in Python.
-* [Google](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
+* [Google](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide. **Deprecated** : use [pyguide.md](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) in place
 * [python-cx_Oracle](https://oracle.github.io/python-cx_Oracle/) - cx_Oracle - Python Interface for Oracle Database
 * [353Solutions](https://www.353.solutions/py2go/index.html) - Python to Go CheatSheet
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
