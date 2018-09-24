@@ -754,6 +754,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [John Allspaw](https://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/) - (2017) Taking Human Performance Seriously
 > A proper treatment of the human element requires the human to be the focus
 * [wikiHow](https://www.wikihow.com/Make-a-QR-Code-to-Share-Your-WiFi-Password) - (2018) How to Make a QR Code to Share Your WiFi Password.
+* [Vadim Kravcenko](http://vadimkravcenko.com/growing-your-interns) - (2018) Growing your interns | eventually you will become Senior Developers and will need to nurture your own interns.
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -3825,6 +3826,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > - Programming is about choices
 * [Code Golf](https://code-golf.io/) - a game designed to let you show off your code-fu by solving problems in the least number of characters. It is written in Go and is open source, patches welcome!
 * [Ada Nduka Oyom](https://dev.to/kolokodess/on-becoming-a-technical-writer-318e) - (2018) On Becoming a Technical Writer
+* [Vadim Kravcenko](http://vadimkravcenko.com/growing-your-interns) - (2018) Growing your interns | eventually you will become Senior Developers and will need to nurture your own interns.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
