@@ -4053,6 +4053,7 @@ Maturity Model
 * [John D. Cook](https://www.johndcook.com/blog/2008/05/03/reusable-code-vs-re-editable-code/) - (2008) Reusable code vs. re-editable code
 * [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
 * [Kat Dober](https://blog.newrelic.com/engineering/ansible-best-practices-guide/) - (2018) New to Ansible? Check Out Our Best Practices Guide
+* [sloria/7001839](https://gist.github.com/sloria/7001839) - The Best of the Best Practices (BOBP) Guide for Python
 
 ## Conferences
 > In Belgium
@@ -4877,6 +4878,7 @@ Raw
 * [JR Heard](http://blog.jrheard.com/truthiness-and-short-circuit-evaluation-in-python) - (2018) Truthiness and Short-Circuit Evaluation in Python
 * [Michal Charemza](https://charemza.name/blog/posts/programming/smells/say-no-to-more-optional-arguments/) - (2016) Say no to more optional arguments
 * [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
+* [sloria/7001839](https://gist.github.com/sloria/7001839) - The Best of the Best Practices (BOBP) Guide for Python
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
