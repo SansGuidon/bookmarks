@@ -4890,6 +4890,7 @@ Raw
 * [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
 * [sloria/7001839](https://gist.github.com/sloria/7001839) - The Best of the Best Practices (BOBP) Guide for Python
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) - This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
+* [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
