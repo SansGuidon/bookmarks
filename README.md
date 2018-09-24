@@ -5060,6 +5060,7 @@ Raw
 * [Farnam Street](https://fs.blog/mental-models/) - (2018) Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)
 * [Andrew Scull](https://www.the-tls.co.uk/articles/public/what-is-empathy/) - (2018) What is empathy?
 * [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
+* [Bobby Duffy](http://perils.ipsos.com/slides/index.html) - [Slides] (2018) The Perils of Perception | the main reasons why we’re so often so wrong.
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
