@@ -5402,6 +5402,7 @@ Raw
 * [DEV](https://dev.to/ben/what-are-some-fundamentals-of-security-every-developer-should-understand-3ki3) - What are some fundamentals of security every developer should understand?
 * [The Password Meter](http://www.passwordmeter.com/) - assess the strength of password strings.
 * [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
+* [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
