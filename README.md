@@ -901,6 +901,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Digital Wallonia](https://opendata.digitalwallonia.be/) - [FR] [BE] Open Data pour la Wallonie
 * [Data.gov.be](https://data.gov.be/fr/search/datasets) - [FR] [BE] Belgian open data portal
 * [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool (by Google) for working with messy data and improving it. **See also** [http://openrefine.org/](Official site)
+* [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
 
 # DevOps
 > News
@@ -5058,6 +5059,7 @@ Raw
 > don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
 * [Farnam Street](https://fs.blog/mental-models/) - (2018) Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)
 * [Andrew Scull](https://www.the-tls.co.uk/articles/public/what-is-empathy/) - (2018) What is empathy?
+* [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -5518,6 +5520,7 @@ Raw
 * [John Cleese](https://www.youtube.com/watch?v=wvVPdyYeaQU) - [Video] on Stupidity
 * [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html) - (2017) Just Following Orders | Reminder: Doing your job does not mean that you just follow orders. The courts are going to hold you to a high ethical standard, even if your employer does not.
 * [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
+* [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
