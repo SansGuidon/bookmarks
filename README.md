@@ -3085,6 +3085,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme 
 * [John Cleese](https://www.youtube.com/watch?v=wvVPdyYeaQU) - [Video] on Stupidity
 * [BrainyQuote](https://www.brainyquote.com/topics/patience) - Patience Quotes
+* [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -5516,6 +5517,7 @@ Raw
 * [Mariel Bluteau](https://www.franceinter.fr/societe/nous-sommes-face-a-un-danger-comparable-a-celui-d-une-guerre-mondiale-sans-doute-meme-plus-grave-cyril-dion) - (2018) [FR] :fr: Psycho : comment expliquer le déni face au réchauffement climatique ?
 * [John Cleese](https://www.youtube.com/watch?v=wvVPdyYeaQU) - [Video] on Stupidity
 * [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html) - (2017) Just Following Orders | Reminder: Doing your job does not mean that you just follow orders. The courts are going to hold you to a high ethical standard, even if your employer does not.
+* [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
