@@ -2163,7 +2163,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [JSONLint](https://jsonlint.com/) - JSON validator
 * [The Password Meter](http://www.passwordmeter.com/) - assess the strength of password strings.
 * [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
- * [Gnoosic](http://www.gnoosic.com) - Based on your choices, Gnod predicts you might like the music of
+* [Gnoosic](http://www.gnoosic.com) - Based on your choices, Gnod predicts you might like the music of
+* [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -3162,6 +3163,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
 * [Reset The Net](https://pack.resetthenet.org/) - Privacy Pack
 * [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
+* [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
 
 # Productivity :fast_forward:
 > News
