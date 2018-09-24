@@ -4740,6 +4740,7 @@ Raw
 > - Forget office politics
 > - Code quality
 > - ...
+* [Paul Graham](http://paulgraham.com/head.html) - (2007) Holding a Program in One's Head
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
