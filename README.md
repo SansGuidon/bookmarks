@@ -289,6 +289,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Mode Analytics](https://community.modeanalytics.com/gallery/hive-plot/) - example of Hive plot
 * [Amanda Sopkin](https://dev.to/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om) - (2018) Fantastic Personal Websites and How to Make Them | tips for good portfolio
 * [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) - Awesome Creative Portfolio Websites
+* [Anne Quito](https://qz.com/quartzy/1381916/drawing-is-the-best-way-to-learn-even-if-youre-no-leonardo-da-vinci/) - (2018) Drawing is the best way to learn, even if you’re no Leonardo da Vinci
 
 # Books :books:
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -825,6 +826,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 * [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
 * [Retromap](https://retromat.org) - Inspiration & plans for (agile) retrospectives : Planning your next agile retrospective? Start with a random plan, change it to fit the team's situation, print it and share the URL. Or browse around for new ideas!
+* [Anne Quito](https://qz.com/quartzy/1381916/drawing-is-the-best-way-to-learn-even-if-youre-no-leonardo-da-vinci/) - (2018) Drawing is the best way to learn, even if you’re no Leonardo da Vinci
+> - Drawing helps us think better
+> - Drawing makes us better humans
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
