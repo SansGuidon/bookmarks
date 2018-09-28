@@ -1,4 +1,4 @@
-#/usr/bin/env bash
+#!/usr/bin/env bash
 BASEDIR=$(dirname "$0")
 
 current=$(date "+%Y")
