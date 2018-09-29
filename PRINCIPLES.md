@@ -165,6 +165,8 @@
 * Write simple code that does not need to be refactored immediately : build solutions that can still be used or adapted to tomorrow needs
 * Build solutions for today but anticipate future changes and always be at least one step ahead
 * Teamwork starts with trust
+* Il n'y a pas de forteresses imprenables, il n'y a que des mauvaises stratégies
+* Think twice
 
 ## Art of Questions
 * Just ask
