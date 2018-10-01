@@ -2106,7 +2106,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Cactus2000](http://www.cactus2000.de/uk/unit/masswas.shtml) - Converter for hardness of water
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * :star: [**Two Factor Auth (2FA)**](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
-* [Random.org](https://www.random.org/) - true random number service, but not only
+* [Random.org](https://www.random.org/) - true random number service, but not only : are also proposed some functions for numbers, lists, text, strings, maps and web tools...
 * [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
 * [Sepastop](https://www.sepastop.eu/fr-fr/) - [FR] :fr: resiliate your affiliation to all kinds of products and services
 * [Tor2web](https://tor2web.org/) - Browse the Tor Onion Services
