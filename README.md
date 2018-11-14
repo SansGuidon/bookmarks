@@ -2201,6 +2201,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Abandonware France](https://www.abandonware-france.org/) - :fr: [FR] l'histoire des vieux jeux video et retrogaming
 * [DHTML Lemmings](https://www.elizium.nu/scripts/lemmings/) - a remake of Lemmings all written in JavaScript, to play in your browser
 * [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : * [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
+* [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
+* [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
 
 ## Role-playing :dragon:
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -5102,6 +5104,8 @@ Raw
 * [Danny Hillis](https://www.catb.org/jargon/html/koans.html) - (2003) Some AI Koans
 * [Tim Hall](https://oracle-base.com/blog/2018/06/12/why-automation-matters-lost-time/) - (2018) Why Automation Matters : Lost Time
 * [Neil Patel](https://blog.hubspot.com/marketing/psychology-of-excitement) - (2015) The Psychology of Excitement: How to Better Engage Your Audience | marketing
+* [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
+* [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -5528,6 +5532,7 @@ Raw
 * [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html) - (2017) Just Following Orders | Reminder: Doing your job does not mean that you just follow orders. The courts are going to hold you to a high ethical standard, even if your employer does not.
 * [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
 * [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
+* [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
