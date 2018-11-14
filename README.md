@@ -2761,6 +2761,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Steve Losh](http://stevelosh.com/blog/2009/04/why-people-dont-like-metal/) - :metal: (2009) Why People Don’t Like Metal
 * [Steve Losh](http://stevelosh.com/blog/2010/11/keep-calm-and-carry-on/) - (2010) Keep Calm and Carry On | listen to music, damn it!
 * [Gnoosic](http://www.gnoosic.com) - Based on your choices, Gnod predicts you might like the music of
+* [Graspop Metal Meeting](https://www.graspop.be/en/history/) - Archives of Graspop Line up through time :metal:
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
