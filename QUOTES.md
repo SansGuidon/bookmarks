@@ -89,3 +89,4 @@
 * A developer who's 10x more productive needs to spend most of his/her time making everybody else better. If you let that person become a "key" programmer, they'll create a bottleneck that will damage the overall productivity of the team. A 10x programmer is NOT an asset unless the organization understands Lean enough to know how to leverage him/her. [Allen Holub](https://twitter.com/allenholub/status/988081186751705088)
 * We developers, we love to optimize code that we never measure. [Source](https://twitter.com/tpierrain/status/987644540944289793)
 * A team of senior engineers without junior engineers is a team of engineers. [Malte Ubl, Immigrant (cramforce)](https://twitter.com/cramforce/status/927960579263700993)
+* [Programming quotes](http://quotes.cat-v.org/programming/)
