@@ -1223,6 +1223,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > You need to change the culture the hard way, or replace people as necessary until the culture works.
 * [DevOps Bookmarks](http://www.devopsbookmarks.com/provisioning) - Discover tools and frameworks in the DevOps landscape.
 * [Krishelle Hardson-Hurley](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c) - (2017) So you want to be an SRE?
+* [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -2618,6 +2619,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html) - (2018) Top 20 OpenSSH Server Best Security Practices
 * [CertDepot](https://www.certdepot.net/rhel7-get-started-systemd/) - (2018) RHEL7: How to get started with Systemd.
+* [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -5826,6 +5828,7 @@ Raw
 * [jeffpatton1971/mod-posh](https://github.com/jeffpatton1971/mod-posh) - A collection of PowerShell scripts and script modules
 * [Amar Kulo](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/) - (2017) Integrating database of pwned password hashes with Microsoft AD
 * [Kevin Marquette](https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/) - (2017) Powershell: Building a Module, one microstep at a time
+* [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 
 # Writing :pencil2:
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
