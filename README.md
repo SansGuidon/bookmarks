@@ -2956,6 +2956,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Théo Chamley](https://cloud.google.com/solutions/best-practices-for-operating-containers) - (2018) 7 best practices for operating containers
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html) - (2018) Top 20 OpenSSH Server Best Security Practices
 * [Krishelle Hardson-Hurley](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c) - (2017) So you want to be an SRE?
+* [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -5231,6 +5232,7 @@ Raw
 * :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
 * [GreyCat's Wiki](https://mywiki.wooledge.org/Quotes) - quoting in shell programming
 * [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
+* [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
