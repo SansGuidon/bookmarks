@@ -2032,6 +2032,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
 * [qit](https://qit.cloud/) - Search for Tech podcasts by topic 
 * [DSL-Store](https://dls-store.com/) - T-Shirt online store. Your best t-shirt should be like your bed. It just feels like you are home when you are in it.
+* [Putlocker](https://www6.putlockertv.to/) - The easiest way to watch your favorite movies online!
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2741,6 +2742,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Vimeo](https://vimeo.com/) - The high-quality home for video hosting and watching in HD with no ads, used by a vast number of indie filmmakers. The place to find refreshing, art-house movies to stream on demand.
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
+* [Putlocker](https://www6.putlockertv.to/) - The easiest way to watch your favorite movies online!
 
 # Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
