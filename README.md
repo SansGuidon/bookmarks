@@ -4375,6 +4375,7 @@ Raw
 * [Steve Losh](http://stevelosh.com/blog/2013/04/git-koans/) - (2013) Git Koans
 * [Vadim Samokhin](https://hackernoon.com/gitflow-is-a-poor-branching-model-hack-d46567a156e7) - (2018) Gitflow is a Poor Branching Model Hack | gitflow sucks
 * [Paul Christie](https://www.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/) - (2018) What to do when you commit to the wrong Git branch
+* [Mark Lodato](https://marklodato.github.io/visual-git-guide/) - A Visual Git Reference
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
