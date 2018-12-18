@@ -2363,6 +2363,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
 > don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
 * [Chris Dottie](https://social.hays.com/2018/02/08/4-things-recruiter-needs-know/) - (2018) 4 things your recruiter needs to know about you
+* [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
@@ -5089,6 +5090,7 @@ Raw
 * [Andrew Scull](https://www.the-tls.co.uk/articles/public/what-is-empathy/) - (2018) What is empathy?
 * [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
 * [Bobby Duffy](http://perils.ipsos.com/slides/index.html) - [Slides] (2018) The Perils of Perception | the main reasons why we’re so often so wrong.
+* [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
@@ -5557,6 +5559,7 @@ Raw
 * [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
 * [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
+* [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
