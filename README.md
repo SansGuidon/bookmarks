@@ -5633,6 +5633,7 @@ Raw
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
+* [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - allows you to compare your home country with different countries around the world.
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
