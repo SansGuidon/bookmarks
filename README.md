@@ -758,6 +758,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [wikiHow](https://www.wikihow.com/Make-a-QR-Code-to-Share-Your-WiFi-Password) - (2018) How to Make a QR Code to Share Your WiFi Password.
 * [Vadim Kravcenko](http://vadimkravcenko.com/growing-your-interns) - (2018) Growing your interns | eventually you will become Senior Developers and will need to nurture your own interns.
 * [Greg Kamradt](https://www.gregkamradt.com/gregkamradt/how-awesome-people-have-taught-me-to-make-things) - (2018) How awesome people have taught me to make things happen
+* [Vadim Kravcenko](http://vadimkravcenko.com/dealing-with-complex-projects) - (2018) Dealing with complex projects
+> If you fail - you learn, if you succeed – even better. And never forget the importance of communication.
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
