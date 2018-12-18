@@ -3191,6 +3191,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Reset The Net](https://pack.resetthenet.org/) - Privacy Pack
 * [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
 * [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
+* [PrivacyAngel](https://privacyangel.com/) - Better protect your privacy online | Know which data you share for each popular online services.
 
 # Productivity :fast_forward:
 > News
