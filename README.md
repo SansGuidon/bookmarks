@@ -4089,6 +4089,7 @@ Maturity Model
 * [Kat Dober](https://blog.newrelic.com/engineering/ansible-best-practices-guide/) - (2018) New to Ansible? Check Out Our Best Practices Guide
 * [sloria/7001839](https://gist.github.com/sloria/7001839) - The Best of the Best Practices (BOBP) Guide for Python
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) - This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
+* [George Gritsouk](https://gggritso.com/legacy-code) - (2016) Legacy Code | The noblest pursuit of our weekdays | slow programming
 
 ## Conferences
 > In Belgium
