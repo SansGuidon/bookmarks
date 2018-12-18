@@ -3858,6 +3858,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ada Nduka Oyom](https://dev.to/kolokodess/on-becoming-a-technical-writer-318e) - (2018) On Becoming a Technical Writer
 * [Vadim Kravcenko](http://vadimkravcenko.com/growing-your-interns) - (2018) Growing your interns | eventually you will become Senior Developers and will need to nurture your own interns.
 * [Programming quotes](http://quotes.cat-v.org/programming/)
+* [George Gritsouk](https://gggritso.com/2014/12/02/code-hierarchy-of-needs/) - (2014) Code Hierarchy of Needs | Maslow would not approve of this.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
