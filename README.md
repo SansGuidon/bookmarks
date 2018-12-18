@@ -460,6 +460,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Meredith Somers](http://mitsloan.mit.edu/newsroom/articles/the-20-year-old-entrepreneur-is-a-lie/) - (2018) The 20-year-old entrepreneur is a lie | Data from the Census Bureau and the IRS show the average age of successful business founders is 42.
 > **WHY IT MATTERS**
 > Good ideas come at any age, but it takes experience to turn them into success stories. Steve Jobs was 21 when he helped found Apple, but he was a 43-year-old CEO when the company created the iMac.
+* [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
 
 ## Cryptocurrency
 > News
@@ -833,6 +834,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
 * [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
 * [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity 
+* [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -3431,6 +3433,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > It’s only by concentrating, sticking to the question, being patient, letting all the parts of my mind come into play, that I arrive at an original idea.
 * [John Allspaw](https://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/) - (2017) Taking Human Performance Seriously
 > A proper treatment of the human element requires the human to be the focus
+* [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
