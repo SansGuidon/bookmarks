@@ -2628,6 +2628,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [CertDepot](https://www.certdepot.net/rhel7-get-started-systemd/) - (2018) RHEL7: How to get started with Systemd.
 * [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 * [Vivek Gite](https://www.cyberciti.biz/faq/linuxunix-move-file-starting-with-a-dash/) - (2010) Linux/UNIX: Move File Starting With A Dash
+* [Lori Kaufman](https://www.howtogeek.com/275069/how-to-create-multiple-subdirectories-with-one-linux-command/) - (2016) How to Create Multiple Subdirectories with One Linux Command
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
