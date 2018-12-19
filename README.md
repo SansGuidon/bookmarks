@@ -2182,6 +2182,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Gnoosic](http://www.gnoosic.com) - Based on your choices, Gnod predicts you might like the music of
 * [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
 * [regex101](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
+* [Rextester](https://rextester.com/) - run code online
  
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -4784,6 +4785,7 @@ Raw
 * [Paul Graham](http://paulgraham.com/head.html) - (2007) Holding a Program in One's Head
 * [George Gritsouk](https://gggritso.com/human-git-aliases) - (2016) Human Git Aliases | Stubbornly Refusing to Speak The Computer's Language | **Bonus** : [author's dotfiles](https://github.com/gggritso/dotfiles/blob/master/gitconfig.symlink)
 * [regex101](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
+* [Rextester](https://rextester.com/) - run code online
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
