@@ -5097,6 +5097,7 @@ Raw
 * [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
 * [Bobby Duffy](http://perils.ipsos.com/slides/index.html) - [Slides] (2018) The Perils of Perception | the main reasons why we’re so often so wrong.
 * [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
+* [Get Mental Notes](http://www.getmentalnotes.com/cards) - 52 Principles x Your Imagination.
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
