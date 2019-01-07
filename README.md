@@ -3864,6 +3864,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Vadim Kravcenko](http://vadimkravcenko.com/growing-your-interns) - (2018) Growing your interns | eventually you will become Senior Developers and will need to nurture your own interns.
 * [Programming quotes](http://quotes.cat-v.org/programming/)
 * [George Gritsouk](https://gggritso.com/2014/12/02/code-hierarchy-of-needs/) - (2014) Code Hierarchy of Needs | Maslow would not approve of this.
+* [stanislaw/SoftwareDesignHeuristics](https://github.com/stanislaw/SoftwareDesignHeuristics) - heuristics found to be useful in software engineering practice. We call “heuristics” everything that helps us to write better code given we keep them in mind.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4096,6 +4097,7 @@ Maturity Model
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) - This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 * [George Gritsouk](https://gggritso.com/legacy-code) - (2016) Legacy Code | The noblest pursuit of our weekdays | slow programming
 * [Slow Programming](https://slowprogramming.com/) - Programming has become a pursuit of profit over personal knowledge. The craft of programming has developed into a rapid rush to the finish line via bootcamps and brief tutorials.
+* [stanislaw/SoftwareDesignHeuristics](https://github.com/stanislaw/SoftwareDesignHeuristics) - heuristics found to be useful in software engineering practice. We call “heuristics” everything that helps us to write better code given we keep them in mind.
 
 ## Conferences
 > In Belgium
