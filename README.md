@@ -2630,6 +2630,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 * [Vivek Gite](https://www.cyberciti.biz/faq/linuxunix-move-file-starting-with-a-dash/) - (2010) Linux/UNIX: Move File Starting With A Dash
 * [Lori Kaufman](https://www.howtogeek.com/275069/how-to-create-multiple-subdirectories-with-one-linux-command/) - (2016) How to Create Multiple Subdirectories with One Linux Command
+* [Guillermo Garron](https://www.garron.me/en/linux/set-time-date-timezone-ntp-linux-shell-gnome-command-line.html) - (2012) Set Time, Date Timezone in Linux from Command Line or Gnome | Use ntp
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -5677,6 +5678,7 @@ Raw
 * [Dmitriy Samovskiy](http://www.somic.org/2011/09/30/complex-systems-generalists-and-specialists/) - (2011) Complex Systems: Generalists and Specialists | on diagnosing problems
 * [Benjamin Cane](https://bencane.com/2013/12/23/yum-plugins-verifying-packages-and-configurations-with-yum-verify/) - (2013) Yum Plugins: Verifying packages and configurations with Yum Verify
 * [Vivek Gite](https://www.cyberciti.biz/faq/linuxunix-move-file-starting-with-a-dash/) - (2010) Linux/UNIX: Move File Starting With A Dash
+* [Guillermo Garron](https://www.garron.me/en/linux/set-time-date-timezone-ntp-linux-shell-gnome-command-line.html) - (2012) Set Time, Date Timezone in Linux from Command Line or Gnome | Use ntp
  
 # UX / UI
 > News
