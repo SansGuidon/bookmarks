@@ -269,6 +269,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > 2. prefer duplication over the wrong abstraction
 * [Gordon Brander](http://gordonbrander.com/pattern/second-system-syndrome/) - Second System Syndrome | a simple system is doomed to be replaced by an excessively abstract, over-engeered, or bloated successor.
 * [Stacy Warden](https://www.pluralsight.com/blog/life/star-wars-day) - (2015) 10 things tech pros can learn from "Star Wars"
+* [James Somers](http://jsomers.net/blog/gettiers) - The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -3120,6 +3121,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [John Cleese](https://www.youtube.com/watch?v=wvVPdyYeaQU) - [Video] on Stupidity
 * [BrainyQuote](https://www.brainyquote.com/topics/patience) - Patience Quotes
 * [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
+* [James Somers](http://jsomers.net/blog/gettiers) - The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -5692,7 +5694,8 @@ Raw
 * [Benjamin Cane](https://bencane.com/2013/12/23/yum-plugins-verifying-packages-and-configurations-with-yum-verify/) - (2013) Yum Plugins: Verifying packages and configurations with Yum Verify
 * [Vivek Gite](https://www.cyberciti.biz/faq/linuxunix-move-file-starting-with-a-dash/) - (2010) Linux/UNIX: Move File Starting With A Dash
 * [Guillermo Garron](https://www.garron.me/en/linux/set-time-date-timezone-ntp-linux-shell-gnome-command-line.html) - (2012) Set Time, Date Timezone in Linux from Command Line or Gnome | Use ntp
- 
+* [James Somers](http://jsomers.net/blog/gettiers) - The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
+
 # UX / UI
 > News
 * [Users Known](https://www.usersknow.com/podcast) - [Podcast] What Is Wrong with UX?
