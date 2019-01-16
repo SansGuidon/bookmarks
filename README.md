@@ -2450,6 +2450,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Bitcoin Regret Club](https://bitcoinregret.club/) - satirical site for people who want to calculate all the money they you could’ve made with Bitcoin
 * [Richard Gale](https://www.youtube.com/watch?v=9VDvgL58h_Y) - [Video] (2009) The Horribly Slow Murderer with the Extremely Inefficient Weapon
 * [DSL-Store](https://dls-store.com/) - T-Shirt online store. Your best t-shirt should be like your bed. It just feels like you are home when you are in it.
+* [Manifesto for Half-Arsed Agile Software Development](https://www.halfarsedagilemanifesto.org/) - "We have heard about new ways of developing software by paying consultants and reading Gartner reports...."
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
