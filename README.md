@@ -2842,6 +2842,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Korben](https://korben.info/) - :fr: [FR] Upgrade your mind
 * [coreight](https://coreight.com/) - :fr: [FR] Le blog d'infos et astuces web; high tech
 * [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
+* [DEVURLS](https://devurls.com/) - a developer news aggregator.
+* [TECHURLS](https://techurls.com/) - a technology news aggregator.
+* [SCIURLS](https://sciurls.com/) - a science news aggregator.
 
 # Operations / IT OPS
 > News
@@ -3541,6 +3544,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [The Changelog](https://changelog.com/podcast) - [Podcast] Conversations with the hackers, leaders, and innovators of open source.
 * [Industrial Logic Blog](https://www.industriallogic.com/blog/) - leveraging safety wisdom in workspace from manufacturing, psychology, culture change and Agile and Lean developmen
 * [GOTO Blog](https://blog.gotocon.com/blog/) - Created for developers, by developers, GOTO is focused on bringing together the best minds in the software community and the most interesting topics to light.
+* [DEVURLS](https://devurls.com/) - a developer news aggregator.
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange
