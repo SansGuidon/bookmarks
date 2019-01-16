@@ -5271,6 +5271,7 @@ Raw
 * [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 * [Vivek Gite](https://www.cyberciti.biz/faq/linuxunix-move-file-starting-with-a-dash/) - (2010) Linux/UNIX: Move File Starting With A Dash
 * [Ian Miell](https://zwischenzugs.com/2018/10/12/eleven-bash-tips-you-might-want-to-know/) - (2018) Eleven bash Tips You Might Want to Know
+* [Jakub Koziol](https://pragmaticcoders.com/blog/bash-tips-and-tricks/) - (2018) Bash tips & tricks: good and not-so-good bash practices
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
