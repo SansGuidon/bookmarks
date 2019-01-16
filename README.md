@@ -2634,6 +2634,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Vivek Gite](https://www.cyberciti.biz/faq/linuxunix-move-file-starting-with-a-dash/) - (2010) Linux/UNIX: Move File Starting With A Dash
 * [Lori Kaufman](https://www.howtogeek.com/275069/how-to-create-multiple-subdirectories-with-one-linux-command/) - (2016) How to Create Multiple Subdirectories with One Linux Command
 * [Guillermo Garron](https://www.garron.me/en/linux/set-time-date-timezone-ntp-linux-shell-gnome-command-line.html) - (2012) Set Time, Date Timezone in Linux from Command Line or Gnome | Use ntp
+* [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator, designed for power keyboard users
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -3377,6 +3378,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Farnam Street](https://fs.blog/mental-models/) - (2018) Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)
 * [wikiHow](https://www.wikihow.com/Make-a-QR-Code-to-Share-Your-WiFi-Password) - (2018) How to Make a QR Code to Share Your WiFi Password
 * [Greg Kamradt](https://www.gregkamradt.com/gregkamradt/how-awesome-people-have-taught-me-to-make-things) - (2018) How awesome people have taught me to make things happen
+* [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator, designed for power keyboard users
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
