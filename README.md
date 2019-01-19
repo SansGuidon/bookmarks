@@ -2978,6 +2978,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Krishelle Hardson-Hurley](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c) - (2017) So you want to be an SRE?
 * [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 * [jdumars/agileops](https://github.com/jdumars/agileops) - The Agile Operations methodology
+* [Fred Hébert](https://ferd.ca/operable-software.html) - (2019) Operator Experience (OpEx), Observability, and making observable systems
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
