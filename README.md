@@ -3880,6 +3880,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Programming quotes](http://quotes.cat-v.org/programming/)
 * [George Gritsouk](https://gggritso.com/2014/12/02/code-hierarchy-of-needs/) - (2014) Code Hierarchy of Needs | Maslow would not approve of this.
 * [stanislaw/SoftwareDesignHeuristics](https://github.com/stanislaw/SoftwareDesignHeuristics) - heuristics found to be useful in software engineering practice. We call “heuristics” everything that helps us to write better code given we keep them in mind.
+* [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
