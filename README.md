@@ -375,6 +375,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
 * [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
 * [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
+* [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind
 
 # Business & Economics
 > News
