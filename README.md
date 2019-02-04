@@ -3522,6 +3522,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Carla King](http://mediashift.org/2014/04/indie-publishing-tools-for-small-press-and-author-co-ops/) - (2014) 6 Great Self-Publishing Tools for Small Press and Author Co-Ops
 * [Alex Efros](https://powerman.name/doc/asciidoc) - AsciiDoc cheatsheet
 * [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
+* [WikiDiff](https://wikidiff.com/) - display difference between two terms, using wikipedia definition. Useful when answering online tests
 
 # Programming
 > News
