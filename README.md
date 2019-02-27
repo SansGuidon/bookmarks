@@ -927,7 +927,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [**DevOps'ish**](https://devopsish.com/) - DevOps, Cloud Native, Open Source, and the ‘ish in between.
 * [Stack Exchange](https://devops.stackexchange.com/) - DevOps questions & answers
 * :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
-* [Puppet Blog](https://puppet.com/blog)
+* [Puppet Blog](https://puppet.com/blog) - educates readers on configuration management, cloud migration and cloud management, DevOps, security, compliance, Windows ...
 * [Hacker News](https://hn.algolia.com/?query=devops&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year DevOps news
 * [InfoWorld](https://www.infoworld.com/category/devops/) - information, news, how-to advices about DevOps
 * [Medium](https://medium.com/tag/devops) - DevOps Stories on medium
@@ -5849,7 +5849,7 @@ Raw
 * [Rob Reynolds](https://puppet.com/blog/chocolatey-creating-your-own-chocolatey-packages) - Chocolatey: Creating your own Chocolatey packages
 * [Korben](https://korben.info/univers/windows) - [FR] :fr: Windows tips & tools
 * [Nir Sofer](http://www.nirsoft.net/utils/) - Nirsoft : lot of free tools & utilities for windows, free of malwares and developed over decades by Nir Sofer, who's not stopping [More info about that](http://www.nirsoft.net/about_nirsoft_freeware.html)
-* [Puppet Blog](https://puppet.com/blog-tags/chocolatey) - Posts about Chocolatey
+* [Puppet Blog#Chocolatey](https://puppet.com/blog-tags/chocolatey) - Posts about Chocolatey
 * [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - curated list of best applications and tools for Windows.
 * [Awesome-Windows/awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - cool stuffs you can do with windows terminal
 * [WinAdmins on Slack](https://slofile.com/slack/winadmins) - Worldwide chat of Windows admins
