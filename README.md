@@ -924,7 +924,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Netflix](https://medium.com/@NetflixTechBlog) - NetFlix Technology Blog
 * [Netflix](https://medium.com/netflix-techblog) - Netflix TechBlog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
-* [DevOps'ish](https://devopsish.com/) - DevOps, Cloud Native, Open Source, and the ‘ish in between.
+* :star: [**DevOps'ish**](https://devopsish.com/) - DevOps, Cloud Native, Open Source, and the ‘ish in between.
 * [Stack Exchange](https://devops.stackexchange.com/) - DevOps questions & answers
 * :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [Puppet Blog](https://puppet.com/blog)
