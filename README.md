@@ -2690,6 +2690,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/vim-koans/) - (2016) Vim Koans
 * [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/shell-from-vi/) - (2017) Shell from vi
+* [Tom Ryder](https://sanctum.geek.nz/arabesque/vim-anti-patterns/) - (2012) Vim anti-patterns
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
