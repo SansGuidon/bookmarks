@@ -2188,6 +2188,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [regex101](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
 * [Rextester](https://rextester.com/) - run code online
 * [JSON to YAML](https://www.json2yaml.com/) - Convert JSON to YAML online
+* [globtester](http://www.globtester.com/) - a little utility for testing minimatch. Can also be used as ANT Style Pattern Matcher
  
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
