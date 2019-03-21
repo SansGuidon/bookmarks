@@ -5667,6 +5667,7 @@ Raw
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
 * [JSONLint](https://jsonlint.com/) - JSON validator
 * [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
+* [Daniel Lebrero](https://labs.ig.com/code-coverage-100-percent-tragedy) - (2016) The tragedy of 100% code coverage
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
