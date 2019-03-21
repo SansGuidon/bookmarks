@@ -270,6 +270,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Gordon Brander](http://gordonbrander.com/pattern/second-system-syndrome/) - Second System Syndrome | a simple system is doomed to be replaced by an excessively abstract, over-engeered, or bloated successor.
 * [Stacy Warden](https://www.pluralsight.com/blog/life/star-wars-day) - (2015) 10 things tech pros can learn from "Star Wars"
 * [James Somers](http://jsomers.net/blog/gettiers) - (2019) The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
+* [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
