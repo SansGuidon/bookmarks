@@ -1766,7 +1766,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 * [Théo Chamley](https://cloud.google.com/solutions/best-practices-for-operating-containers) - (2018) 7 best practices for operating containers
 * [ZooBab](http://www.zoobab.com/kubernetes-workshop) - Kubernetes Workshop / introduction guide 
-* [Dan Lebrero](https://danlebrero.com/2018/07/09/kubernetes-explained-in-pictures-the-theme-park-analogy) - (2018) Kubernetes explained in pictures: the theme park analogy | This is an attempt to explain Kubernetes core concepts (pods, nodes, services, resources, ...) with an theme park analogy.
+* [Daniel Lebrero](https://danlebrero.com/2018/07/09/kubernetes-explained-in-pictures-the-theme-park-analogy) - (2018) Kubernetes explained in pictures: the theme park analogy | This is an attempt to explain Kubernetes core concepts (pods, nodes, services, resources, ...) with an theme park analogy.
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
