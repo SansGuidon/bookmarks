@@ -3888,6 +3888,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [George Gritsouk](https://gggritso.com/2014/12/02/code-hierarchy-of-needs/) - (2014) Code Hierarchy of Needs | Maslow would not approve of this.
 * [stanislaw/SoftwareDesignHeuristics](https://github.com/stanislaw/SoftwareDesignHeuristics) - heuristics found to be useful in software engineering practice. We call “heuristics” everything that helps us to write better code given we keep them in mind.
 * [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+* [Arnaud Lemaire](https://www.youtube.com/watch?v=bQfumbBN6YQ) - [Videos] :fr: [FR] (2019) Entre industrialisation et artisanat, le métier de développeur.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4121,6 +4122,7 @@ Maturity Model
 * [George Gritsouk](https://gggritso.com/legacy-code) - (2016) Legacy Code | The noblest pursuit of our weekdays | slow programming
 * [Slow Programming](https://slowprogramming.com/) - Programming has become a pursuit of profit over personal knowledge. The craft of programming has developed into a rapid rush to the finish line via bootcamps and brief tutorials.
 * [stanislaw/SoftwareDesignHeuristics](https://github.com/stanislaw/SoftwareDesignHeuristics) - heuristics found to be useful in software engineering practice. We call “heuristics” everything that helps us to write better code given we keep them in mind.
+* [Arnaud Lemaire](https://www.youtube.com/watch?v=bQfumbBN6YQ) - [Videos] :fr: [FR] (2019) Entre industrialisation et artisanat, le métier de développeur.
 
 ## Conferences
 > In Belgium
