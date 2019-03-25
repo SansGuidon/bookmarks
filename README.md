@@ -5692,6 +5692,7 @@ Raw
 * [JSONLint](https://jsonlint.com/) - JSON validator
 * [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
 * [Daniel Lebrero](https://labs.ig.com/code-coverage-100-percent-tragedy) - (2016) The tragedy of 100% code coverage
+* [Daniel Lebrero](https://danlebrero.com/2019/02/18/other-reasons-for-test-driven-development-baby-steps-roi-evil-manager-watching-the-watchmen/#content) - (2019) Other reasons for TDD: Baby steps, ROI, Evil Manager Syndrome and Watching the watchmen | Describing some reasons to do Test Driven Development that are rarely mentioned
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
