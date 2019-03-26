@@ -273,6 +273,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [James Somers](http://jsomers.net/blog/gettiers) - (2019) The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
 * [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
 * [Daniel Lebrero](https://danlebrero.com/2019/02/27/architecture-decisions-beligerent-contrarian-rule-of-three/) - (2019) Architecture decisions: the belligerent contrarian and the rule of three
+* [David Futcher](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb) - (2019) You Don’t Need All That Complex/Expensive/Distracting Infrastructure
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
