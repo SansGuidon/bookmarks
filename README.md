@@ -467,6 +467,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > **WHY IT MATTERS**
 > Good ideas come at any age, but it takes experience to turn them into success stories. Steve Jobs was 21 when he helped found Apple, but he was a 43-year-old CEO when the company created the iMac.
 * [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
+* [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
 
 ## Cryptocurrency
 > News
@@ -3488,6 +3489,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [John Allspaw](https://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/) - (2017) Taking Human Performance Seriously
 > A proper treatment of the human element requires the human to be the focus
 * [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
+* [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -5626,6 +5628,7 @@ Raw
 * [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
 * [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
+* [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
