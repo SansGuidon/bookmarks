@@ -468,6 +468,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Good ideas come at any age, but it takes experience to turn them into success stories. Steve Jobs was 21 when he helped found Apple, but he was a 43-year-old CEO when the company created the iMac.
 * [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
 * [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
+* [Mike Jarvis](https://builttoadapt.io/how-to-save-a-fortune-on-cloud-infrastructure-5ff418c7658c) - (2018) How to Save a Fortune On Cloud Infrastructure
 
 ## Cryptocurrency
 > News
@@ -3420,6 +3421,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [wikiHow](https://www.wikihow.com/Make-a-QR-Code-to-Share-Your-WiFi-Password) - (2018) How to Make a QR Code to Share Your WiFi Password
 * [Greg Kamradt](https://www.gregkamradt.com/gregkamradt/how-awesome-people-have-taught-me-to-make-things) - (2018) How awesome people have taught me to make things happen
 * [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator, designed for power keyboard users
+* [Mike Jarvis](https://builttoadapt.io/how-to-save-a-fortune-on-cloud-infrastructure-5ff418c7658c) - (2018) How to Save a Fortune On Cloud Infrastructure
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
