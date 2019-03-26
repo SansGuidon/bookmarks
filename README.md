@@ -1792,6 +1792,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [ZooBab](http://www.zoobab.com/kubernetes-workshop) - Kubernetes Workshop / introduction guide 
 * [Daniel Lebrero](https://danlebrero.com/2018/07/09/kubernetes-explained-in-pictures-the-theme-park-analogy) - (2018) Kubernetes explained in pictures: the theme park analogy | This is an attempt to explain Kubernetes core concepts (pods, nodes, services, resources, ...) with an theme park analogy.
 * [Ilya Dmitrichenko](https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops) - (2018) Kubernetes anti-patterns: Let's do GitOps, not CIOps!
+* [Mark Ramm](https://www.weave.works/blog/managing-secrets-in-kubernetes) - (2019) Managing Secrets in Kubernetes
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -5512,6 +5513,7 @@ Raw
 * [The Password Meter](http://www.passwordmeter.com/) - assess the strength of password strings.
 * [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
 * [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
+* [Mark Ramm](https://www.weave.works/blog/managing-secrets-in-kubernetes) - (2019) Managing Secrets in Kubernetes
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -5527,6 +5529,7 @@ Raw
 * [/r/GPGpractice](https://www.reddit.com/r/GPGpractice/) - community of people learning GPG (Gnu Privacy Guard).
 * [Saraev Nikita](https://www.reddit.com/r/GnuPG/comments/47f23m/gnupg_with_32kb_rsa_keys/) - GnuPG with 32kb RSA keys
 * [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
+* [Anita Buehrle](https://www.weave.works/blog/continuous-security-for-gitops) - (2019) Continuous Security for GitOps
 
 ## OpenSSL
 * [ZyTrax](http://www.zytrax.com/tech/survival/ssl.html) - Survival guides - TLS/SSL and SSL (X.509) Certificates
