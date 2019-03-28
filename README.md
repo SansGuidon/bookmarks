@@ -788,6 +788,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [James Somers](http://jsomers.net/blog/gettiers) - (2019) The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
 * [John D. Cook](https://www.johndcook.com/blog/2009/04/22/being-indispensable/) - (2009) Do you really want to be indispensable?
 * [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
+* [Hubert Sablonnière](https://www.youtube.com/watch?v=T6YJlaY0Dpw) - (2017) [Video] :fr: [FR] Documentation as Code (expliqué à mon père) | DevFest Nantes 2017 | about AsciiDoc, KISS, DRY, Quality, Collaboration
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
