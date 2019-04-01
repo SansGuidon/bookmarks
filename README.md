@@ -2221,7 +2221,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Rextester](https://rextester.com/) - run code online
 * [JSON to YAML](https://www.json2yaml.com/) - Convert JSON to YAML online
 * [globtester](http://www.globtester.com/) - a little utility for testing minimatch. Can also be used as ANT Style Pattern Matcher
- 
+* [Spotify Library Exporter](https://spotify-library-exporter.herokuapp.com/) - a tool to download your Spotify library as a CSV to be used elsewhere. Can also be useful to migrate from Spotify to Apple Music, backup your library to use elsewhere, keep a record offline. It doesn't matter! 🎉
+
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -2824,6 +2825,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Steve Losh](http://stevelosh.com/blog/2010/11/keep-calm-and-carry-on/) - (2010) Keep Calm and Carry On | listen to music, damn it!
 * [Gnoosic](http://www.gnoosic.com) - Based on your choices, Gnod predicts you might like the music of
 * [Graspop Metal Meeting](https://www.graspop.be/en/history/) - Archives of Graspop Line up through time :metal:
+* [Spotify Library Exporter](https://spotify-library-exporter.herokuapp.com/) - a tool to download your Spotify library as a CSV to be used elsewhere. Can also be useful to migrate from Spotify to Apple Music, backup your library to use elsewhere, keep a record offline. It doesn't matter! 🎉
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
