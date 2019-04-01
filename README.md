@@ -2437,6 +2437,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
 * [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
 * [Brandur Leach](https://brandur.org/fragments/caffeine) - Caffeine | An experiment of Brandur in seriously throttling back its caffeine intake for the first time in years.
+* [The Coffee Compass](https://baristahustle.com/blog/the-coffee-compass/) - Brew a coffee. Taste it. Adapt and repeat until you find the coffee you prefer.
 
 > Toys collections
 * [Yo Joe!](http://www.yojoe.com/action/) - the internet's premiere archive site about G.I. Joe: A Real American Hero | probably the oldest website I remember to visit in my young age
