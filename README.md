@@ -770,6 +770,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Vadim Kravcenko](http://vadimkravcenko.com/dealing-with-complex-projects) - (2018) Dealing with complex projects
 > If you fail - you learn, if you succeed – even better. And never forget the importance of communication.
 * [Daniel Lebrero](https://danlebrero.com/2019/02/27/architecture-decisions-beligerent-contrarian-rule-of-three/) - (2019) Architecture decisions: the belligerent contrarian and the rule of three
+* [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 
 ## Documentation
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
@@ -791,6 +792,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [John D. Cook](https://www.johndcook.com/blog/2009/04/22/being-indispensable/) - (2009) Do you really want to be indispensable?
 * [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
 * [Hubert Sablonnière](https://www.youtube.com/watch?v=T6YJlaY0Dpw) - (2017) [Video] :fr: [FR] Documentation as Code (expliqué à mon père) | DevFest Nantes 2017 | about AsciiDoc, KISS, DRY, Quality, Collaboration
+* [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -868,6 +870,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
 * [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity 
 * [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
+* [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
