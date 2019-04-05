@@ -1893,6 +1893,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Yevgeniy Brikman](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c) - (2016) Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation
 * [Ádám Sándor](https://container-solutions.com/propagating-configuration-from-terraform-to-kubernetes-apps/) - (2018) Propagating configuration from Terraform to Kubernetes Apps
 * [Terraform Best Practices](https://www.terraform-best-practices.com/) - free book with most of best-practices and recommendations for Terraform users
+* [Anton Babenko](https://fosdem.org/2019/schedule/event/terraform_best_practices/) - [Videos] (2019) Codifying infrastructure with Terraform for the future | be aware of principles related to management of Terraform resources, Terraform modules best-practices and some CI/CD principles applicable to infrastructure management and deployments.
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -4172,6 +4173,8 @@ Maturity Model
 * [Slow Programming](https://slowprogramming.com/) - Programming has become a pursuit of profit over personal knowledge. The craft of programming has developed into a rapid rush to the finish line via bootcamps and brief tutorials.
 * [stanislaw/SoftwareDesignHeuristics](https://github.com/stanislaw/SoftwareDesignHeuristics) - heuristics found to be useful in software engineering practice. We call “heuristics” everything that helps us to write better code given we keep them in mind.
 * [Arnaud Lemaire](https://www.youtube.com/watch?v=bQfumbBN6YQ) - [Videos] :fr: [FR] (2019) Entre industrialisation et artisanat, le métier de développeur. | a very good and accurate talk of software craftsmanship 
+* [Terraform Best Practices](https://www.terraform-best-practices.com/) - free book with most of best-practices and recommendations for Terraform users
+* [Anton Babenko](https://fosdem.org/2019/schedule/event/terraform_best_practices/) - [Videos] (2019) Codifying infrastructure with Terraform for the future | be aware of principles related to management of Terraform resources, Terraform modules best-practices and some CI/CD principles applicable to infrastructure management and deployments.
 
 ## Conferences
 > In Belgium
