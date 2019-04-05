@@ -54,6 +54,8 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
   * [Nexus](#nexus)
   * [OpenShift](#openshift)
   * [SecOps](#secops)
+  * [Terraform](#terraform)
+  * [Travis CI](#travis-ci)
   * [Vagrant](#vagrant)
   * [Vault (by HashiCorp)](#vault-by-hashicorp)
   * [VirtualBox](#virtualbox)
@@ -1885,6 +1887,12 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
 * [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 * [Jaikumar Vijayan](https://techbeacon.com/how-securely-scale-chatops-enterprise) - How to securely scale ChatOps in the enterprise
+
+## Terraform
+* [Kevin London](https://www.kevinlondon.com/2016/09/20/devops-from-scratch-pt-2.html) - (2016) DevOps from Scratch, Part 2: Amazon & Terraform
+* [Yevgeniy Brikman](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c) - (2016) Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation
+* [Ádám Sándor](https://container-solutions.com/propagating-configuration-from-terraform-to-kubernetes-apps/) - (2018) Propagating configuration from Terraform to Kubernetes Apps
+* [Terraform Best Practices](https://www.terraform-best-practices.com/) - free book with most of best-practices and recommendations for Terraform users
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
