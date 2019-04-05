@@ -1898,12 +1898,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - (2016) How I test Ansible configuration on 7 different OSes with Docker
 
-## VirtualBox
-* [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
-* [Thomas-Krenn](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox) - Headless Mode for VirtualBox
-* [VirtualBox issues tracker](https://www.virtualbox.org/ticket/14374) - Network adapters not working after host returns from sleep Win 7 host Linux Mint 17.2 guest
-* [VirtualBox Docs](https://www.virtualbox.org/manual/) - Oracle VM VirtualBox Documentation / User manual
-
 ## Vagrant
 * [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
 * [Ross Tuck](http://rosstuck.com/slightly-faster-ansible-testing-with-vagrant/) - (Slightly) Faster Ansible Testing with Vagrant
@@ -1955,6 +1949,12 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
 * [Armon Dadgar](https://www.hashicorp.com/blog/why-we-need-dynamic-secrets) - (2018) Why We Need Dynamic Secrets | how applications do a terrible job keeping secrets, and why we need to embrace ephemeral credentials, or "Dynamic Secrets" in Vault.
 * [Armon Dadgar](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) - [Podcast] (2017) SE-Radio Episode 311: Armon Dadgar on Secrets Management
+
+## VirtualBox
+* [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
+* [Thomas-Krenn](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox) - Headless Mode for VirtualBox
+* [VirtualBox issues tracker](https://www.virtualbox.org/ticket/14374) - Network adapters not working after host returns from sleep Win 7 host Linux Mint 17.2 guest
+* [VirtualBox Docs](https://www.virtualbox.org/manual/) - Oracle VM VirtualBox Documentation / User manual
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
