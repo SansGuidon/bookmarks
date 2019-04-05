@@ -2112,6 +2112,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 * [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
 * [switching.social](https://switching.social/) - ethical, easy-to-use and privacy-conscious alternatives to popular sites and apps
+* [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
