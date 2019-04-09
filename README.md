@@ -382,6 +382,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
 * [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind
+* [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
 
 # Business & Economics
 > News
@@ -3877,7 +3878,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Patrick Louys](https://patricklouys.com/2017/12/27/become-a-better-developer-in-2018/) - (2017) Become a better developer in 2018
 * [Joel Kemp](https://hackernoon.com/work-for-an-employer-that-builds-something-you-love-58f4ced947e9) - (2017) Work for an employer that builds something you love
 * [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
-* [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
+* [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
 * [Jeremy Phelps](http://jeremyphelps.com/blog/why-youre-having-trouble-hiring-developers.html) - (2017) Why you're having trouble hiring developers
 * [Erik Dietrich](https://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - (2013) How Developers Stop Learning: Rise of the Expert Beginner
 * [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
@@ -4816,7 +4817,7 @@ Raw
 * [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
 * [ezekg/git-hound](https://github.com/ezekg/git-hound) -  Git plugin that prevents sensitive data from being committed.
 * [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-* [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
+* [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
 * [Brandon Sheffield](https://www.gamasutra.com/view/news/310570/Developers_share_their_most_memorable_dirty_coding_tricks.php) - (2017) Developers share their most memorable dirty coding tricks
 * [Dan Kelch](https://spin.atomicobject.com/2017/12/13/favorite-git-commands/) - (2017) Git Good: Improve Your Version Control Skills
 * [Ben Thompson](https://blog.gitprime.com/2017-software-developer-productivity-survey/) - (2017) 2017 Software Developer Productivity Survey
