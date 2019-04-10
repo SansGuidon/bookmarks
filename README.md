@@ -1796,6 +1796,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [CloudBeesTV](https://www.youtube.com/playlist?list=PLvBBnHmZuNQLqgKDFmGnUClw68qsQ9Hq5) - [Videos] Jenkins World 2017
 * [Damien Duportal, Adrien Lecharpentier](https://speakerdeck.com/alecharp/jenkins-10-choses-que-tout-le-monde-fait-quil-ne-faut-pas-faire) - (2018) [Slides] [FR] :fr: Jenkins - 10 choses (que tout le monde fait) qu'il ne faut pas faire avec Jenkins
 * [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
+* [Andreas Grabner](https://www.dynatrace.com/news/blog/optimizing-jenkins-to-ensure-fast-build-times-with-dynatrace/) - (2018) Optimizing Jenkins to ensure fast build times with Dynatrace | Tips for using Jenkins on Kubernetes
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -1825,6 +1826,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ilya Dmitrichenko](https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops) - (2018) Kubernetes anti-patterns: Let's do GitOps, not CIOps!
 * [Mark Ramm](https://www.weave.works/blog/managing-secrets-in-kubernetes) - (2019) Managing Secrets in Kubernetes
 * [Anita Buehrle](https://www.weave.works/blog/delivering-quality-at-speed-with-gitops) - (2019) Delivering Quality at Speed With GitOps
+* [Andreas Grabner](https://www.dynatrace.com/news/blog/optimizing-jenkins-to-ensure-fast-build-times-with-dynatrace/) - (2018) Optimizing Jenkins to ensure fast build times with Dynatrace | Tips for using Jenkins on Kubernetes
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
