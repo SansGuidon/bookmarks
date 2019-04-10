@@ -1775,6 +1775,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [CI/CD Life](http://cicd.life/) - Continuous Integration / Continuous Delivery 4 Life - tips & tricks
 * [CloudBeesTV](https://www.youtube.com/playlist?list=PLvBBnHmZuNQLqgKDFmGnUClw68qsQ9Hq5) - [Videos] Jenkins World 2017
 * [Damien Duportal, Adrien Lecharpentier](https://speakerdeck.com/alecharp/jenkins-10-choses-que-tout-le-monde-fait-quil-ne-faut-pas-faire) - (2018) [Slides] [FR] :fr: Jenkins - 10 choses (que tout le monde fait) qu'il ne faut pas faire avec Jenkins
+* [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
