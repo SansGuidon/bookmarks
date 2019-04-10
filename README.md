@@ -41,6 +41,7 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
 * [DevOps](#devops)
   * [Ansible](#ansible)
     * [Ansible Vault](#ansible-vault)
+  * [AWS](#aws)
   * [Bitbucket](#bitbucket)
   * [ChatOps](#chatops)
   * [Chef](#chef)
@@ -1384,6 +1385,25 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Michel Blanc](https://leucos.github.io/articles/transparent-vault-revisited/) - Transparent encryption with ansible vault revisited
 * [Tristan Fisher](https://gist.github.com/tristanfisher/e5a306144a637dc739e7) - Working with ansible-vault : A short tutorial on how to use Vault in your Ansible workflow
 * [Chris Short](https://opensource.com/article/16/12/devops-security-ansible-vault) - Improve your DevOps security game with Ansible Vault
+
+## AWS
+> News
+* [AWS News Blog](https://aws.amazon.com/fr/blogs/aws/)
+* [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels' (Amazon' CTO) weblog on building scalable and robust distributed systems.
+
+> Learn
+* [Don MacAskill](https://don.blogs.smugmug.com/2011/04/24/how-smugmug-survived-the-amazonpocalypse/) - (2011) How SmugMug survived the Amazonpocalypse
+* [Werner Vogels](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) - (2016) 10 Lessons from 10 Years of Amazon Web Services
+* [Kevin London](https://www.kevinlondon.com/2016/09/20/devops-from-scratch-pt-2.html) - (2016) DevOps from Scratch, Part 2: Amazon & Terraform
+* [Linux Academy](https://linuxacademy.com/amazon-web-services/courses) - Courses: Master your Linux and cloud stack. | Azure, OpenStack, DevOps, Big Data, Containers, Security, AWS, Google Cloud Platform, Linux, ... **Examples** : [AWS Certification Training](https://linuxacademy.com/amazon-web-services/courses)
+* [Denny Cherry](http://itknowledgeexchange.techtarget.com/sql-server/another-cloud-outage-awsdown-this-time-another-group-of-companies-show-they-dont-have-dr/) - (2017) Another Cloud Outage (#awsdown this time) Another Group of Companies Show They Don’t Have DR
+* [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+* [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
+* [Ciro S. Costa](https://ops.tips/blog/publishing-a-blog-with-aws/) - (2018) How to publish a blog using AWS
+* [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
+* [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
+* [Jamie Maguire](https://www.devteam.space/blog/aws-top-10-security-tips/) - (2018) AWS Top 10 Security Tips
+* [Boris Serebrov](https://serebrov.github.io/html/2018-01-11-aws-ec2-ssh-tunnel.html) - (2018) SSH Tunnels | on AWS, EC2 and SSH tunnels
 
 ## Bitbucket
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
@@ -3080,6 +3100,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
 * [The OpenStack Marketplace](https://www.openstack.org/marketplace/) - [Private Clouds](https://www.openstack.org/marketplace/hosted-private-clouds/) + [Public Clouds](https://www.openstack.org/marketplace/public-clouds/)
 * [Michal Charemza](https://charemza.name/blog/posts/devops/aws/non-atomic-deployments/) - (2017) Non atomic deployments | Cron-free deferred delete of obsolete static resources | The best infrastructure is the one that doesn't exist
+* [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
 
 ## Jira
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
@@ -5021,6 +5042,7 @@ Raw
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) - This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 * [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 * [Raivat Shah](https://towardsdatascience.com/understanding-python-virtual-environments-7ccf690320d7) - (2019) Understanding Python Virtual Environments
+* [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
