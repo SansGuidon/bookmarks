@@ -796,6 +796,18 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
 * [Hubert Sablonnière](https://www.youtube.com/watch?v=T6YJlaY0Dpw) - (2017) [Video] :fr: [FR] Documentation as Code (expliqué à mon père) | DevFest Nantes 2017 | about AsciiDoc, KISS, DRY, Quality, Collaboration
 * [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
+* [Alex Efros](https://powerman.name/doc/asciidoc) - AsciiDoc cheatsheet
+* [Dillinger](http://dillinger.io/) - Online Markdown Editor
+* [StackEdit](https://stackedit.io/editor) - in-browser markdown editor
+* [Adam Pritchard/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown Cheatsheet
+* [CommonMark](http://commonmark.org/help/) - syntax reference for CommonMark, a rationalized version of Markdown syntax
+* [CommonMark](http://spec.commonmark.org/dingus/) - Try CommonMark / CommonMark Demo
+* [ty-/spec-style-guide](https://github.com/ty-/spec-style-guide) - some best practices for writing markdown based specifications to be printable by gitprint.com and pandoc
+* [Daichi](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089) - (2017) Boost your productivity using Markdown.
+* [Carla King](http://mediashift.org/2014/04/indie-publishing-tools-for-small-press-and-author-co-ops/) - (2014) 6 Great Self-Publishing Tools for Small Press and Author Co-Ops
+* [WikiDiff](https://wikidiff.com/) - display difference between two terms, using wikipedia definition. Useful when answering online tests
+* [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
+* [Markdeep](http://casual-effects.com/markdeep/) -  a free technology for writing plain text documents that will look good in any web browser, whether local or remote. It supports diagrams, calendars, equations, and other features as extensions of Markdown syntax.
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
