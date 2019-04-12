@@ -1797,6 +1797,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Damien Duportal, Adrien Lecharpentier](https://speakerdeck.com/alecharp/jenkins-10-choses-que-tout-le-monde-fait-quil-ne-faut-pas-faire) - (2018) [Slides] [FR] :fr: Jenkins - 10 choses (que tout le monde fait) qu'il ne faut pas faire avec Jenkins
 * [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
 * [Andreas Grabner](https://www.dynatrace.com/news/blog/optimizing-jenkins-to-ensure-fast-build-times-with-dynatrace/) - (2018) Optimizing Jenkins to ensure fast build times with Dynatrace | Tips for using Jenkins on Kubernetes
+* [Denny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-jenkins-groovy-a4) - (2018) CheatSheet: Jenkins & Groovy
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -4567,6 +4568,7 @@ Raw
 * [Groovy web console](https://groovyconsole.appspot.com/) - a website for sharing and executing Groovy programming snippets of code!
 * [MorganGeek](cheat/groovy.md) - groovy cheatsheet / tips
 * [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile / Groovy syntax 
+* [Denny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-jenkins-groovy-a4) - (2018) CheatSheet: Jenkins & Groovy
 
 ## Haskell
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
