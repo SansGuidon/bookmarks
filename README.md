@@ -776,8 +776,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Michelle Venetucci Harvey](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2) - (2017) A research roundup to show that your office layout is toxic (and some tips for making it better)
 
 ## Documentation
+> Learn
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
-* [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
 * [Chastity Blackwell](https://opensource.com/article/17/10/7-deadly-sins-documentation) - 7 deadly sins of documentation
 * [Fred Hébert](https://ferd.ca/don-t-be-a-jerk-write-documentation.html) - Don't be a Jerk: Write Documentation
 * [Write the Docs](http://www.writethedocs.org/guide/) - Documentation Guide : a best practice handbook for building, structuring, and writing software documentation, for creating more wonderful documentation in the world
@@ -795,6 +795,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [John D. Cook](https://www.johndcook.com/blog/2009/04/22/being-indispensable/) - (2009) Do you really want to be indispensable?
 * [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
 * [Hubert Sablonnière](https://www.youtube.com/watch?v=T6YJlaY0Dpw) - (2017) [Video] :fr: [FR] Documentation as Code (expliqué à mon père) | DevFest Nantes 2017 | about AsciiDoc, KISS, DRY, Quality, Collaboration
+
+> Tools
+* [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
 * [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 * [Alex Efros](https://powerman.name/doc/asciidoc) - AsciiDoc cheatsheet
 * [Dillinger](http://dillinger.io/) - Online Markdown Editor
