@@ -2479,7 +2479,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Northern Ireland Business](https://www.nibusinessinfo.co.uk/content/common-causes-stress-work) - How to deal with stress : Common causes of stress at work
 
 # Hobbies
-> Beers
+> Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
 * [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing » :beer:
@@ -2488,7 +2488,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Chess
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 
-> Coffee
+> Coffee :coffee:
 * [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
