@@ -2732,6 +2732,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Guillermo Garron](https://www.garron.me/en/linux/set-time-date-timezone-ntp-linux-shell-gnome-command-line.html) - (2012) Set Time, Date Timezone in Linux from Command Line or Gnome | Use ntp
 * [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator, designed for power keyboard users
 * [Pradeep Kumar](https://www.linuxtechi.com/capture-analyze-packets-tcpdump-command-linux/) - (2018) How to capture and analyze packets with tcpdump command on Linux
+* [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -2916,6 +2917,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
 * [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query?bflag&searchtext=) - Webupdates / database query
 * [CIDR/Netmask Lookup Tool](https://www.ultratools.com/tools/netMaskResult?ipAddress=37.98.232.8%2F29) -  get information about a CIDR range including the IP addresses and host addresses contained in it.
+* [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 
 # News :exclamation:
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
@@ -5825,6 +5827,7 @@ Raw
 * [Guillermo Garron](https://www.garron.me/en/linux/set-time-date-timezone-ntp-linux-shell-gnome-command-line.html) - (2012) Set Time, Date Timezone in Linux from Command Line or Gnome | Use ntp
 * [James Somers](http://jsomers.net/blog/gettiers) - (2019) The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
 * [Pradeep Kumar](https://www.linuxtechi.com/capture-analyze-packets-tcpdump-command-linux/) - (2018) How to capture and analyze packets with tcpdump command on Linux
+* [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 
 # UX / UI
 > News
