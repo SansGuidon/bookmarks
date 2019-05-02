@@ -384,6 +384,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind
 * [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
+* [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better
 
 # Business & Economics
 > News
@@ -3490,6 +3491,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Greg Kamradt](https://www.gregkamradt.com/gregkamradt/how-awesome-people-have-taught-me-to-make-things) - (2018) How awesome people have taught me to make things happen
 * [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator, designed for power keyboard users
 * [Mike Jarvis](https://builttoadapt.io/how-to-save-a-fortune-on-cloud-infrastructure-5ff418c7658c) - (2018) How to Save a Fortune On Cloud Infrastructure
+* [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better :books: 
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
