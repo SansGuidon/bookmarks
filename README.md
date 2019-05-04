@@ -2133,6 +2133,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Putlocker](https://www6.putlockertv.to/) - The easiest way to watch your favorite movies online!
 * [Open Culture](http://www.openculture.com/freemoviesonline) - 1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, Documentaries, etc.
 * [ZippyShare](https://zippysharesearch.info) - Search and Download Free MP3, Music, Books, APK and Video
+* [Yggtorrent](https://www2.yggtorrent.gg) - 1st French torrent tracker
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
