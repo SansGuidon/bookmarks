@@ -2737,6 +2737,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator, designed for power keyboard users
 * [Pradeep Kumar](https://www.linuxtechi.com/capture-analyze-packets-tcpdump-command-linux/) - (2018) How to capture and analyze packets with tcpdump command on Linux
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
+* [Ubuntu Community Help Wiki](https://help.ubuntu.com/community/SSH/OpenSSH/Keys) - Internet and Networking >> SSH >> SSH/OpenSSH/Keys
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -3085,6 +3086,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 * [jdumars/agileops](https://github.com/jdumars/agileops) - The Agile Operations methodology
 * [Fred Hébert](https://ferd.ca/operable-software.html) - (2019) Operator Experience (OpEx), Observability, and making observable systems
+* [Ubuntu Community Help Wiki](https://help.ubuntu.com/community/SSH/OpenSSH/Keys) - Internet and Networking >> SSH >> SSH/OpenSSH/Keys
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
