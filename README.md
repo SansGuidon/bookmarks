@@ -2136,6 +2136,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [ZippyShare](https://zippysharesearch.info) - Search and Download Free MP3, Music, Books, Epubs, APK and Video
 * [Yggtorrent](https://www2.yggtorrent.gg) - 1st French torrent tracker
 * [ZLibrary](https://b-ok.cc/) - The world's largest ebook library.
+* [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2321,6 +2322,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
 * [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
 * [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity 
+* [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
 
 ## Role-playing :dragon:
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
