@@ -945,6 +945,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Sam Thielman](https://news.vice.com/en_us/article/8xm7dx/rick-and-morty-is-a-tv-powerhouse-because-millennials-are-broke) - (2017) Why broke millennials love “Rick and Morty”
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 * [Linux Academy](https://linuxacademy.com/amazon-web-services/courses) - Courses: Master your Linux and cloud stack. | Azure, OpenStack, DevOps, Big Data, Containers, Security, AWS, Google Cloud Platform, Linux, ... **Examples** : [AWS Certification Training](https://linuxacademy.com/amazon-web-services/courses)
+* [ImagoTV](https://imagotv.fr) - :fr: [FR] Netflix gratuit de la transition écologique !
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -2868,6 +2869,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
 * [Putlocker](https://www6.putlockertv.to/) - The easiest way to watch your favorite movies online!
+* [ImagoTV](https://imagotv.fr) - :fr: [FR] Netflix gratuit de la transition écologique !
 
 # Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
