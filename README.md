@@ -574,7 +574,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
 * [Mike Cannon-Brookes](https://medium.com/smells-like-team-spirit/an-amateurs-guide-to-turning-impostor-syndrome-into-an-asset-1bac56917d46) - An amateur’s guide to turning impostor syndrome into an asset
 * [Chris Parnin](https://github.com/chrisparnin/notes/blob/master/interruptions.md) - (2014) Notes on Interruption for Programmers
-* [Write the Docs](http://www.writethedocs.org/guide/) - Documentation Guide : a best practice handbook for building, structuring, and writing software documentation, for creating more wonderful documentation in the world
+* :star: [**Write the Docs**](http://www.writethedocs.org/guide/) - Documentation Guide : a best practice handbook for building, structuring, and writing software documentation, for creating more wonderful documentation in the world
 * [Umer Mansoor](https://codeahoy.com/2017/07/26/fix-employee-weaknesses-or-focus-on-their-strengths/) - (2017) Fix Employee Weaknesses or Focus on Their Strengths?
 * [Umer Mansoor](https://codeahoy.com/2016/04/03/effective-code-reviews/) - (2016) Effective Code Reviews
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
@@ -783,7 +783,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 * [Chastity Blackwell](https://opensource.com/article/17/10/7-deadly-sins-documentation) - 7 deadly sins of documentation
 * [Fred Hébert](https://ferd.ca/don-t-be-a-jerk-write-documentation.html) - Don't be a Jerk: Write Documentation
-* [Write the Docs](http://www.writethedocs.org/guide/) - Documentation Guide : a best practice handbook for building, structuring, and writing software documentation, for creating more wonderful documentation in the world
+* :star: [**Write the Docs**](http://www.writethedocs.org/guide/) - Documentation Guide : a best practice handbook for building, structuring, and writing software documentation, for creating more wonderful documentation in the world
 * [Lauri Apple](https://opensource.com/open-organization/17/10/readme-maturity-model) - (2017) documentation : a maturity model for READMEs | Your step-by-step guide to more effective documentation
 * [Tanja Roth](https://opensource.com/article/17/12/7-rules) - (2017) 7 rules for avoiding documentation pitfalls
 * [Carmen Bourlon](https://www.javascriptjanuary.com/blog/document-like-a-journalist) - Document like a Journalist
