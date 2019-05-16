@@ -2291,7 +2291,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [PlaylistConverter](http://www.playlist-converter.net/) - Convert your Playlist from multiple Music Services and File Format. Works for Spotify too
 * [EPUB to MOBI Converter](https://convertio.co/epub-mobi/) - Convert your epub files to mobi online & free
 * [DigiCert SSL Certificate Checker](https://www.digicert.com/help/) - If you are having a problem with your SSL certificate installation, this diagnostic tool will help you locate the problem and verify your SSL Certificate installation.
- 
+* [D&D Beyond](https://www.dndbeyond.com/characters/builder#/) - Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e)
+
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -2329,6 +2330,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
 * [Tabletop Audio](https://tabletopaudio.com/) - Original, ambiances and music for your role playing games and stories
 * [NESblog / Speed Game](https://www.youtube.com/watch?v=VKvcQNLk9yA) - [FR] :fr: [Video] Le Jeu de Rôle Papier, analyse des spécificités de cette famille de jeu
+* [D&D Beyond](https://www.dndbeyond.com/characters/builder#/) - Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e)
 
 # Health and Work-Life Balance
 > News
