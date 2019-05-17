@@ -5,7 +5,7 @@ Your character has a unique view of the world, of right and wrong, of fairness a
 ## D&D Online Alignment Test ##
 Your Character’s Alignment
 
-Based on your answers to the quiz, your character’s most likely alignment is *Neutral Good*.
+Based on your answers to the quiz, your character’s most likely alignment is **Neutral Good**.
 
 ### Neutral Good ###
 
