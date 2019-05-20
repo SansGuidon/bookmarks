@@ -1,4 +1,4 @@
-[D&D Online Alignment Test](https://www.wizards.com/dnd/article.asp?x=dnd/dx20001222b) - Online Alignment Test
+[D&D Online Alignment Test](https://www.wizards.com/default.asp?x=dnd%2Fdnd%2F20001222b) - Online Alignment Test
 
 Your character has a unique view of the world, of right and wrong, of fairness and natural rights. This alignment test, taken from the Alignment chapter of the Hero Builder's Guidebook, helps you figure out how your character will relate to various moral and ethical choices in the game.
 
