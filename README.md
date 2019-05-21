@@ -3126,6 +3126,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > News
 * [Atlassian Release Notes](https://atlassianreleasenotes.tumblr.com/latestversions) - All release notes for all Atlassian products in one place!
 * [Atlassian Community](https://community.atlassian.com/t5/forums/recentpostspage) - forums recent posts
+* [Atlassian Jira](https://jira.atlassian.com/secure/Dashboard.jspa?selectPageId=85890&utm_source=newsletter-email&utm_medium=email&utm_campaign=cops-dc-server-investment-2_EML-4343&jobid=104097550&subid=1419604548) - Jira Server and Data Center: current work and future plans dashboard.
 
 > Learn
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
@@ -3146,6 +3147,10 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
 
 ## Jira
+> News
+* [Atlassian Jira](https://jira.atlassian.com/secure/Dashboard.jspa?selectPageId=85890&utm_source=newsletter-email&utm_medium=email&utm_campaign=cops-dc-server-investment-2_EML-4343&jobid=104097550&subid=1419604548) - Jira Server and Data Center: current work and future plans dashboard.
+
+> Learn
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
 * [Dan Radigan](https://www.atlassian.com/blog/jira-software/8-steps-to-jira-field-greatness) - (2013) 8 steps to Jira field greatness
 * [Dan Radigan](https://www.atlassian.com/blog/jira-software/building-workflow-awesome) - (2013) Building an awesome Jira workflow: concepts and examples
