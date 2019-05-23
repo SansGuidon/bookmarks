@@ -1118,7 +1118,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 * [Ask Hacker News](https://news.ycombinator.com/item?id=15737215) - (2017) How do you deal with operational work as a software engineer?
 * [Manisha Sahasrabudhe](https://sdtimes.com/stuck-new-devops-matrix-hell/) - (2017) Are you stuck in the new DevOps matrix from hell? | about complexity of env-app configuration management
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. **Bonus** : [Website](https://free-for.dev)
 * [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - confd is a lightweight configuration management tool to keep local config files up-to-date using either etcd, consul, dynamodb, redis, vault, zookeeper, aws ssm parameter store or env vars
 * [Eric Myhre](https://gist.github.com/warpfork/0ad12d99d2b4de32412f7f294c23fde5) - You probably don't really want CI-triggered CD
 * [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
@@ -2292,7 +2292,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [EPUB to MOBI Converter](https://convertio.co/epub-mobi/) - Convert your epub files to mobi online & free
 * [DigiCert SSL Certificate Checker](https://www.digicert.com/help/) - If you are having a problem with your SSL certificate installation, this diagnostic tool will help you locate the problem and verify your SSL Certificate installation.
 * [D&D Beyond](https://www.dndbeyond.com/characters/builder#/) - Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e)
-
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. **Bonus** : [Website](https://free-for.dev)
+ 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -3039,7 +3040,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Erez Yaary](https://techbeacon.com/how-secure-container-lifecycle) - (2017) How to secure the container lifecycle
 * [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 * [Ask Hacker News](https://news.ycombinator.com/item?id=15737215) - (2017) How do you deal with operational work as a software engineer?
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. **Bonus** : [Website](https://free-for.dev)
 * [Softpanorama](http://www.softpanorama.org/Admin/admin_horror_stories.shtml) - classification of sysadmin horror stories
 * [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
 * [Asaf Yigal](https://devops.com/sre-vs-devops-false-distinction/) - (2017) SRE vs. DevOps — a False Distinction?
@@ -4806,7 +4807,7 @@ Raw
 * [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 * [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. **Bonus** : [Website](https://free-for.dev)
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 * [Dan Pollock](http://someonewhocares.org/hosts/) - the host file you need to make the internet not suck (as much)
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - collection of simplified and community-driven man pages.
