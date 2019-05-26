@@ -2912,6 +2912,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Graspop Metal Meeting](https://www.graspop.be/en/history/) - Archives of Graspop Line up through time :metal:
 * [Spotify Library Exporter](https://spotify-library-exporter.herokuapp.com/) - a tool to download your Spotify library as a CSV to be used elsewhere. Can also be useful to migrate from Spotify to Apple Music, backup your library to use elsewhere, keep a record offline. It doesn't matter! 🎉
 * [PlaylistConverter](http://www.playlist-converter.net/) - Convert your Playlist from multiple Music Services and File Format. Works for Spotify too
+* [Map of Metal](https://mapofmetal.com/) - :metal: An interactive map of Metal history and the influential bands that helped shaped the genres we know today.
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
