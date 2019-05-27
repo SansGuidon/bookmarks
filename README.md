@@ -476,7 +476,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
 * [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
 * [Mike Jarvis](https://builttoadapt.io/how-to-save-a-fortune-on-cloud-infrastructure-5ff418c7658c) - (2018) How to Save a Fortune On Cloud Infrastructure
-* [Grille de Salaires anonyme des startupers](https://docs.google.com/spreadsheets/d/1Zjvz-Ud2TR3rco2BTq0X0Ovr29ohASCRiAATwmAX5YY/edit#gid=1145296357) - :fr: [FR] Tu bosses en startup ? Découvre les salaires pratiqués, ou partage ton salaire. Tout ceci est anonyme.
+* [Grille de Salaires anonyme des startupers](https://docs.google.com/spreadsheets/d/1Zjvz-Ud2TR3rco2BTq0X0Ovr29ohASCRiAATwmAX5YY/edit#gid=1145296357) - :fr: [FR] Tu bosses en startup ? Découvre les salaires pratiqués, ou partage ton salaire. Tout ceci est anonyme. | salaries for french startups
 
 ## Cryptocurrency
 > News
