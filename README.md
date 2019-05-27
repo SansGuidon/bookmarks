@@ -1428,10 +1428,13 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 * [Ciro S. Costa](https://ops.tips/blog/publishing-a-blog-with-aws/) - (2018) How to publish a blog using AWS
 * [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
-* [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
 * [Jamie Maguire](https://www.devteam.space/blog/aws-top-10-security-tips/) - (2018) AWS Top 10 Security Tips
 * [Boris Serebrov](https://serebrov.github.io/html/2018-01-11-aws-ec2-ssh-tunnel.html) - (2018) SSH Tunnels | on AWS, EC2 and SSH tunnels
+
+> Tools
+* [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
 * [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html) - estimate your monthly AWS bill more efficiently. Using this tool, you can add, modify and remove services from your 'bill' and it will recalculate your estimated monthly charges automatically. The calculator also shows common customer samples and their usage, such as Disaster Recovery and Backup or Web Application.
+* [toniblyx/prowler](https://github.com/toniblyx/prowler) - Tool for assessing AWS Security Best Practices, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+90). **Bonus** : [Official CIS for AWS guide]( https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
 
 ## Bitbucket
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
@@ -5634,6 +5637,7 @@ Raw
 * [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
 * [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 * [Mark Ramm](https://www.weave.works/blog/managing-secrets-in-kubernetes) - (2019) Managing Secrets in Kubernetes
+* [toniblyx/prowler](https://github.com/toniblyx/prowler) - Tool for assessing AWS Security Best Practices, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+90). **Bonus** : [Official CIS for AWS guide]( https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
