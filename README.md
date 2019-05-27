@@ -3524,6 +3524,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator, designed for power keyboard users
 * [Mike Jarvis](https://builttoadapt.io/how-to-save-a-fortune-on-cloud-infrastructure-5ff418c7658c) - (2018) How to Save a Fortune On Cloud Infrastructure
 * [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better :books: 
+* [David R. MacIver](https://www.drmaciver.com/2013/08/how-did-you-get-started-so-quickly/) - (2013) How to quickly become effective when joining a new company
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
