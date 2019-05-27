@@ -778,6 +778,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Daniel Lebrero](https://danlebrero.com/2019/02/27/architecture-decisions-beligerent-contrarian-rule-of-three/) - (2019) Architecture decisions: the belligerent contrarian and the rule of three
 * [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 * [Michelle Venetucci Harvey](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2) - (2017) A research roundup to show that your office layout is toxic (and some tips for making it better)
+* [David R. MacIver](https://www.drmaciver.com/2019/05/how-to-do-hard-things/) - (2019) How to do hard things
 
 ## Documentation
 > Learn
