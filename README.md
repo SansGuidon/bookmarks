@@ -2532,6 +2532,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Post Apocalyptic fictions
 * [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
 
+> Sport
+* [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
+
 # Humor :trollface:
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 * [/r/DiWHY](https://www.reddit.com/r/DiWHY/) - when DIY goes wrong
