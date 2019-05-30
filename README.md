@@ -479,6 +479,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Mike Jarvis](https://builttoadapt.io/how-to-save-a-fortune-on-cloud-infrastructure-5ff418c7658c) - (2018) How to Save a Fortune On Cloud Infrastructure
 * [Grille de Salaires anonyme des startupers](https://docs.google.com/spreadsheets/d/1Zjvz-Ud2TR3rco2BTq0X0Ovr29ohASCRiAATwmAX5YY/edit#gid=1145296357) - :fr: [FR] Tu bosses en startup ? Découvre les salaires pratiqués, ou partage ton salaire. Tout ceci est anonyme. | salaries for french startups
 * [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wikipedia page](https://en.wikipedia.org/wiki/Wardley_map)
+* [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
 
 ## Cryptocurrency
 > News
@@ -2307,6 +2308,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. **Bonus** : [Website](https://free-for.dev)
 * [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html) - estimate your monthly AWS bill more efficiently. Using this tool, you can add, modify and remove services from your 'bill' and it will recalculate your estimated monthly charges automatically. The calculator also shows common customer samples and their usage, such as Disaster Recovery and Backup or Web Application.
 * [TimestampConvert.com](https://www.timestampconvert.com/) - Convert dates to or from timestamps online
+* [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
  
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
