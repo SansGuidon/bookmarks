@@ -90,3 +90,4 @@
 * We developers, we love to optimize code that we never measure. [Source](https://twitter.com/tpierrain/status/987644540944289793)
 * A team of senior engineers without junior engineers is a team of engineers. [Malte Ubl, Immigrant (cramforce)](https://twitter.com/cramforce/status/927960579263700993)
 * [Programming quotes](http://quotes.cat-v.org/programming/)
+* Give me six hours to chop down a tree and I will spend the first four sharpening the axe. Abraham Lincoln
