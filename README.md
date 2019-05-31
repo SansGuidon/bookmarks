@@ -2080,8 +2080,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [SoMeFilm](https://somefilm.net/auth/guest) - Movies / tv shows recommendations : what will you watch tonight ?
 * [Book Suggestions Ninja](https://www.booksuggestions.ninja/) - books suggestions based on book / author or genre
 * [Reading Stash](http://readingstash.com/index) - Just a book recommender
-* [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
-* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies
+* [Tunefind](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
+* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
 * :star: [**What is my movie ?**](http://www.whatismymovie.com/) - finds movies based on your own words, actors, directors, genres etc.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [FileChef](http://filechef.com/) - Get direct download links for almost anything
@@ -2871,8 +2871,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
 * [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
 * [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
-* [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
-* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies
+* [Tunefind](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
+* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 * [MorganGeek](https://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
@@ -2908,8 +2908,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [DΛTΛSSETTE](http://www.musicforprogramming.net/) - music for programming
 * [MorganGeek](https://gist.github.com/MorganGeek/66c9c8524e446550757d92c527c28c93) - work / programming playlists selection
 * [Tellement Nomade](http://www.tellementnomade.org/forum/) - [FR] :fr: forum for reviews, advices from audiophiles and discussions about music material (headphones, music players...)
-* [Tunefind](https://www.tunefind.com/browse/tv) - Music from all tv shows
-* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all tv shows and movies
+* [Tunefind](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
+* [Tunefind](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
 * [Ranker](http://www.ranker.com/list/songs-based-on-game-of-thrones/ranker-of-thrones) - Some of the Best Songs Based on Game of Thrones
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 * [ProgrammableWeb](https://www.programmableweb.com/category/music/apis?category=19990) - Music related APIs
