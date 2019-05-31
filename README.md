@@ -92,6 +92,7 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
   * [Jira](#jira)
   * [Logging](#logging)
   * [Monitoring](#monitoring)
+  * [Nginx](#nginx)
   * [ServiceNow](#servicenow)
 * [Philosophy](#philosophy-thought_balloon)
 * [Photography](#photography)
@@ -1434,6 +1435,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
 * [Jamie Maguire](https://www.devteam.space/blog/aws-top-10-security-tips/) - (2018) AWS Top 10 Security Tips
 * [Boris Serebrov](https://serebrov.github.io/html/2018-01-11-aws-ec2-ssh-tunnel.html) - (2018) SSH Tunnels | on AWS, EC2 and SSH tunnels
+* [Cody Parker](https://codyparker.com/force-entire-site-ssl-nginx-behind-aws-load-balancer/) - (2017) How To Force HTTPS in NGINX behind a classic AWS Load Balancer
 
 > Tools
 * [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
@@ -3246,6 +3248,11 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Alex Dzyoba](https://alex.dzyoba.com/blog/go-prometheus-service/) - (2018) Instrumenting a Go service for Prometheus
 * [Daniel Lebrero](https://danlebrero.com/2016/11/21/the-boy-who-cried-wolf-an-it-tale/) - (2016) The boy who cried wolf, an IT tale | on the importance of a correct log level 
 > How does a project get to be one year late? … One day at a time.
+
+## Nginx
+* [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
+* [oci-pronghorn/GreenLightning](https://github.com/oci-pronghorn/GreenLightning) - Small Java HTTP/s server many times faster than Netty or NGINX
+* [Cody Parker](https://codyparker.com/force-entire-site-ssl-nginx-behind-aws-load-balancer/) - (2017) How To Force HTTPS in NGINX behind a classic AWS Load Balancer
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - (2015) Integrating ServiceNow with HipChat
