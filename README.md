@@ -4061,6 +4061,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 * [Arnaud Lemaire](https://www.youtube.com/watch?v=bQfumbBN6YQ) - [Videos] :fr: [FR] (2019) Entre industrialisation et artisanat, le métier de développeur. | a very good and accurate talk of software craftsmanship 
 * [Bryan Cantrill](http://dtrace.org/blogs/bmc/2018/10/05/assessing-software-engineering-candidates/) - (2018) Assessing software engineering candidates
+* [David Winterbottom](https://codeinthehole.com/lists/little-known-words-relevant-to-software-development/) - (2017) Little-known words relevant to software development
+> Example: VERSCHLIMMBESSERN - (German) - to make something worse while attempting to make it better
+> and many others...
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
