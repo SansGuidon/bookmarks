@@ -4598,6 +4598,8 @@ Raw
 * [List of All ASCII Emoticons](https://upli.st/l/list-of-all-ascii-emoticons) - A massive list of all the ASCII emoticons discovered on the interweb.
 * [dysfunc/ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential ASCII Emoji
 * [Matej Jellus](https://juffalow.com/other/write-good-git-commit-message) - (2018) Write good git commit message
+* [David Winterbottom](https://codeinthehole.com/tips/advanced-pull-request-crafting/) - (2018) Advanced pull-request crafting.
+* [Keavy McMinn](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/) - (2015) How to write the perfect pull request
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
