@@ -5474,6 +5474,8 @@ Raw
 * [Vivek Gite](https://www.cyberciti.biz/faq/linuxunix-move-file-starting-with-a-dash/) - (2010) Linux/UNIX: Move File Starting With A Dash
 * [Ian Miell](https://zwischenzugs.com/2018/10/12/eleven-bash-tips-you-might-want-to-know/) - (2018) Eleven bash Tips You Might Want to Know
 * [Jakub Koziol](https://pragmaticcoders.com/blog/bash-tips-and-tricks/) - (2018) Bash tips & tricks: good and not-so-good bash practices
+* [Bazyli Brzóska](https://invent.life/project/bash-infinity-framework) - (2015) Bash Infinity Framework
+* [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
