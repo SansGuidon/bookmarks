@@ -11,8 +11,6 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
 [![Say Thanks!][img-saythanks]][saythanks] [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] [![Share on Twitter][img-twitter]][twitter] [![License: GPL v3][img-gpl3]][gpl3]
 
 <!-- Links -->
-[Dillinger]: <http://dillinger.io>
-[bats]: <https://github.com/sstephenson/bats>
 [buymeacoffee]: https://www.buymeacoffee.com/morgangeek
 [twitter]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FMorganGeek%2Fbookmarks&via=morgangeek&text=awesome%20resources%20for%20geeks%20and%20software%20crafters
 [saythanks]: https://saythanks.io/to/MorganGeek
