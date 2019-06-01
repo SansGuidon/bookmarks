@@ -815,6 +815,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 
 > Tips
 * [Wikipedia](https://en.wikipedia.org/wiki/Box-drawing_character) - Box-drawing character | because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
+* [Bazyli Brzóska](https://invent.life/blog/on-organizing-projects-and-files/) - (2013) On organizing projects and files
 
 > Tools
 * [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
@@ -3556,6 +3557,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Mike Jarvis](https://builttoadapt.io/how-to-save-a-fortune-on-cloud-infrastructure-5ff418c7658c) - (2018) How to Save a Fortune On Cloud Infrastructure
 * [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better :books: 
 * [David R. MacIver](https://www.drmaciver.com/2013/08/how-did-you-get-started-so-quickly/) - (2013) How to quickly become effective when joining a new company
+* [Bazyli Brzóska](https://invent.life/blog/on-organizing-projects-and-files/) - (2013) On organizing projects and files
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
