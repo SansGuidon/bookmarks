@@ -518,7 +518,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [CryptoCompare](https://www.cryptocompare.com/exchanges/#/overview) - Compare all Bitcoin exchanges, reviews, live streaming bitcoin prices, fees, deposit methods
 * [GamerZ](https://www.gamerz.be/forum/bitcoin-crypto/) - :fr: [FR] GamerZ discussion forum about Bitcoin / Cryptocurrencies
 * [Anne Gaviola](http://www.cbc.ca/beta/news/business/bitcoin-s-gender-divide-could-be-a-bad-sign-experts-say-1.4458884) - (2018) Bitcoin's gender divide could be a bad sign, experts say
-
+* [Lucca Runger-Field](https://bitshouts.com/blockchain-in-politics/) - (2018) Blockchain In: Politics
+ 
 # Collaboration & Problem solving
 > News
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
