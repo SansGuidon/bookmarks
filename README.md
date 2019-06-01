@@ -4288,7 +4288,7 @@ Maturity Model
 * [Arnaud Lemaire](https://www.youtube.com/watch?v=bQfumbBN6YQ) - [Videos] :fr: [FR] (2019) Entre industrialisation et artisanat, le métier de développeur. | a very good and accurate talk of software craftsmanship 
 * [Terraform Best Practices](https://www.terraform-best-practices.com/) - free book with most of best-practices and recommendations for Terraform users
 * [Anton Babenko](https://fosdem.org/2019/schedule/event/terraform_best_practices/) - [Videos] (2019) Codifying infrastructure with Terraform for the future | be aware of principles related to management of Terraform resources, Terraform modules best-practices and some CI/CD principles applicable to infrastructure management and deployments.
-* [Matej Jellus](https://juffalow.com/other/write-good-git-commit-message) - (2019) Write good git commit message
+* [Matej Jellus](https://juffalow.com/other/write-good-git-commit-message) - (2018) Write good git commit message
 
 ## Conferences
 > In Belgium
@@ -4587,7 +4587,7 @@ Raw
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
 * [List of All ASCII Emoticons](https://upli.st/l/list-of-all-ascii-emoticons) - A massive list of all the ASCII emoticons discovered on the interweb.
 * [dysfunc/ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential ASCII Emoji
-* [Matej Jellus](https://juffalow.com/other/write-good-git-commit-message) - (2019) Write good git commit message
+* [Matej Jellus](https://juffalow.com/other/write-good-git-commit-message) - (2018) Write good git commit message
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -5097,6 +5097,7 @@ Raw
 > Note: ça m'arrive régulièrement d'investiguer chaque sujet en ouvrant pas mal de tabs... et en + de multi-task... mes collègues s'étonnent souvent du grand nombre d'onglets que je gère.
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics  
+* [Matej Jellus](https://juffalow.com/other/funny-stuff-from-programmers-realm) - (2016) Funny stuff from programmers realm
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
