@@ -5109,6 +5109,7 @@ Raw
 * [StackOverflow](https://stackoverflow.com/questions/tagged/prolog) - Prolog tagged questions on StackOverflow
 * [Prolog Site](https://sites.google.com/site/prologsite/prolog-problems) - Prolog Problems : a remake of the P-99: Ninety-Nine Prolog Problems
 * [Learn Prolog Now!](https://devrant.com/feed/) - a free online introductory course to programming in Prolog
+* [Logtalk](https://logtalk.org/) - is a declarative object-oriented logic programming language that extends and leverages the Prolog language with modern code encapsulation and code reuse mechanisms while also providing improved predicate semantics.
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
