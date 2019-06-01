@@ -2500,6 +2500,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Chris Dottie](https://social.hays.com/2018/02/08/4-things-recruiter-needs-know/) - (2018) 4 things your recruiter needs to know about you
 * [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
 * [Michelle Venetucci Harvey](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2) - (2017) A research roundup to show that your office layout is toxic (and some tips for making it better)
+* [James Conca](https://www.forbes.com/sites/jamesconca/2012/06/10/energys-deathprint-a-price-always-paid/#71ef4f07709b) - (2012) How Deadly Is Your Kilowatt? We Rank The Killer Energy Sources | It seems that Coal is way more harmful than Nuclear.
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
