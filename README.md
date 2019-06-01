@@ -519,6 +519,10 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [GamerZ](https://www.gamerz.be/forum/bitcoin-crypto/) - :fr: [FR] GamerZ discussion forum about Bitcoin / Cryptocurrencies
 * [Anne Gaviola](http://www.cbc.ca/beta/news/business/bitcoin-s-gender-divide-could-be-a-bad-sign-experts-say-1.4458884) - (2018) Bitcoin's gender divide could be a bad sign, experts say
 * [Lucca Runger-Field](https://bitshouts.com/blockchain-in-politics/) - (2018) Blockchain In: Politics
+* [Nathaniel Whittemore](https://medium.com/@nlw/we-talk-about-blockchain-governance-so-why-not-blockchain-politics-28f787bc9ff6) - (2018) We Talk About Blockchain Governance, So Why Not Blockchain Politics?
+* [Joseph Lubin](https://blockgeeks.com/news/blockchain-voting/) - (2016) Is Blockchain Technology Going To Disrupt Our Political System: We Hope So
+* [David Ernst](https://blog.liquid.us/2016/09/21/what-is-liquid-democracy/) - (2016) What is Liquid Democracy?
+* [Danny Crichton](https://techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/) - (2018) Liquid democracy uses blockchain to fix politics, and now you can vote for it
  
 # Collaboration & Problem solving
 > News
