@@ -5779,6 +5779,7 @@ Raw
 * [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
 * [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
 * [The Tarot Cards Of Tech](http://tarotcardsoftech.artefactgroup.com/) - Gaze into the future of your product and consider the impact of what we create | See also Ethics vs Technology, Black Mirror 
+* [James Conca](https://www.forbes.com/sites/jamesconca/2012/06/10/energys-deathprint-a-price-always-paid/#71ef4f07709b) - (2012) How Deadly Is Your Kilowatt? We Rank The Killer Energy Sources | It seems that Coal is way more harmful than Nuclear.
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
