@@ -2889,7 +2889,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [MorganGeek](https://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
 * [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
-* [Clara Darko](https://vimeo.com/112499601) - [Video] Movie montage of dystopian / utopias societies
+* [Clara Darko](https://www.youtube.com/watch?v=A1ZHl8qqg4A) - [Video] Movie montage of dystopian / utopias societies
 * [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
 * [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
 * [Addic7ed.com](http://www.addic7ed.com/) - free subtitles for tv show and movies
@@ -4089,6 +4089,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 Maturity Model
 * [Martin Fowler](https://martinfowler.com/articles/richardsonMaturityModel.html) - (2010) Richardson Maturity Model | steps toward the glory of REST
 * [Damien Frémont](https://damienfremont.com/2017/11/23/rest-api-maturity-levels-from-0-to-5/) - (2017) REST API Maturity Levels : From 0 to 5
+* [Jakub Holy](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** Archive of previous version about code quality only : [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
@@ -4246,7 +4247,7 @@ Maturity Model
 * [Thomas Figg (tef)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) - (2016) Write code that is easy to delete, not easy to extend.
 * [Jakub Holý](https://theholyjava.wordpress.com/2011/02/14/clean-code-four-simple-design-rules/) - (2011) Clean Code: Four Simple Design Rules – Obligatory Read
 * [Dimitris Staikos](http://www.commonsense4commonpeople.net/2008/11/the-code-is-the-documentation.html) - (2008) The code is THE documentation | why the code is not the documentation
-* [Jakub Holy](https://theholyjava.wordpress.com/code-quality/) - Code (And Design) Quality And Why Should We Care
+* [Jakub Holy](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** Archive of previous version about code quality only : [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
 * [Jakub Holy](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
 * [Steven A. Lowe](https://techbeacon.com/program-faster-all-time-best-tips-pros) - Code faster: 53 tips from the pros
 > The only way to go fast is to go well. Every time you yield to the temptation to trade quality for speed, you slow down. Every time. [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
@@ -5769,7 +5770,7 @@ Raw
 * [Etienne Chouard](https://www.youtube.com/watch?v=oN5tdMSXWV8) - [FR] :fr: [Video] Chercher la cause des causes - TED // Questioning democracy / questionnement et remise en cause de la démocratie
 * [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/?id=1883) - (2010) [IMG] Why are there so few women in engineering / science ?
 * [Gizmodo](https://sploid.gizmodo.com/fascinating-graphic-shows-who-owns-all-the-major-brands-1599537576) - Fascinating graphics show who owns all the major brands in the world
-* [Clara Darko](https://vimeo.com/112499601) - [Video] Movie montage of dystopian / utopias societies
+* [Clara Darko](https://www.youtube.com/watch?v=A1ZHl8qqg4A) - [Video] Movie montage of dystopian / utopias societies
 * [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
 * [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
 * [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
