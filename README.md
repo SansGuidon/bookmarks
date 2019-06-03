@@ -4291,7 +4291,7 @@ Maturity Model
 > 1. duplication is far cheaper than the wrong abstraction
 > 2. prefer duplication over the wrong abstraction
 * [John D. Cook](https://www.johndcook.com/blog/2008/05/03/reusable-code-vs-re-editable-code/) - (2008) Reusable code vs. re-editable code
-* [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
+* [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right! Collection of Best practices acquired from experience for Bash
 * [Kat Dober](https://blog.newrelic.com/engineering/ansible-best-practices-guide/) - (2018) New to Ansible? Check Out Our Best Practices Guide
 * [sloria/7001839](https://gist.github.com/sloria/7001839) - The Best of the Best Practices (BOBP) Guide for Python
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) - This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
@@ -5477,7 +5477,7 @@ Raw
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
 * :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
 * [GreyCat's Wiki](https://mywiki.wooledge.org/Quotes) - quoting in shell programming
-* [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
+* [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right! Collection of Best practices acquired from experience for Bash
 * [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 * [Vivek Gite](https://www.cyberciti.biz/faq/linuxunix-move-file-starting-with-a-dash/) - (2010) Linux/UNIX: Move File Starting With A Dash
 * [Ian Miell](https://zwischenzugs.com/2018/10/12/eleven-bash-tips-you-might-want-to-know/) - (2018) Eleven bash Tips You Might Want to Know
