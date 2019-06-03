@@ -606,7 +606,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Philippe Bourgau](http://philippe.bourgau.net/from-zero-to-pair-programming-hero/) - (2015) From Zero to Pair Programming Hero
 * [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2010-03-20-code-reading-as-a-team-activity.html) - (2010) Code Reading as a Team Activity
-* [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+* [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** : [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
 * [Joël Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - (2007) Evidence Based Scheduling
 * [Joël Spolsky](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - (2001) Human Task Switches Considered Harmful
@@ -802,7 +802,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Felix](https://thinkingsideways.net/working/culture/2019/01/03/knowledge-transfers.html) - (2019) The Trouble with Knowledge Transfers
 * [Steve Losh](http://stevelosh.com/blog/2013/09/teach-dont-tell/) - (2013) Teach, Don't Tell | about documentation
 * [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
-* [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+* [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** : [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 * [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 * [Akash Nimare](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) - (2016) A Beginners Guide to writing a Kickass README ✍
 * [Chris Ward](https://blog.codeship.com/distributing-operational-knowledge-across-a-team/) - (2017) Distributing Operational Knowledge Across a Team
@@ -1394,7 +1394,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [pmarkham/writing-ansible-modules-in-bash](https://github.com/pmarkham/writing-ansible-modules-in-bash/blob/master/ansible_bash_modules.md) - Writing Ansible Modules in Bash
 * [fewbits/ansible-laws](https://github.com/fewbits/ansible-laws) - Ansible laws : list of best Practices when using Ansible
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/automating-your-automation-ansible-tower) - (2015) Automating Your Automation with Ansible Tower
-* [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - (2017) [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
+* [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - (2017) [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** : [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
 * [Jiri Tyr](https://www.slideshare.net/jtyr/automation-and-ansible) - (2016) [Slides] Automation and Ansible
 * [SlideShare](https://www.slideshare.net//tag/ansible) - ansible related slideshares
 * [Ansible](https://www.ansible.com/videos-ansible-automates-2017) - (2017) [Videos] Ansible Automates Videos
@@ -1814,7 +1814,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Ownership+Plugin) - Ownership Plugin. **Bonus** : [GitHub repo](https://github.com/jenkinsci/ownership-plugin)
 * [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin, using YAML syntax. **Note** : check also the [praqma-prototype branch](https://github.com/jenkinsci/configuration-as-code-plugin/tree/praqma-prototype)
 * [Jenkins Developers](https://groups.google.com/forum/#!forum/jenkinsci-dev) - Google group of Jenkins Developers
-* [Praqma/JenkinsAsCodeReference](https://github.com/Praqma/JenkinsAsCodeReference) - reference Jenkins configuration as code as well as JobDSL library. **Bonus** [description of configuration](https://github.com/Praqma/JenkinsAsCodeReference/blob/master/dockerizeit/master/README.md), [jenkins.properties](https://github.com/Praqma/JenkinsAsCodeReference/blob/master/dockerizeit/master/jenkins.properties)
+* [Praqma/JenkinsAsCodeReference](https://github.com/Praqma/JenkinsAsCodeReference) - reference Jenkins configuration as code as well as JobDSL library. **Bonus** : [description of configuration](https://github.com/Praqma/JenkinsAsCodeReference/blob/master/dockerizeit/master/README.md), [jenkins.properties](https://github.com/Praqma/JenkinsAsCodeReference/blob/master/dockerizeit/master/jenkins.properties)
 * [jenkinsci/jep/201](https://github.com/jenkinsci/jep/tree/master/jep/201) - Jenkins Enhancement Proposals : JEP-201: Jenkins Configuration as Code
 * [Michael Hedgpeth](http://hedge-ops.com/cookbook-pipeline-with-jenkinsfile) - (2017) Cookbook Pipeline with Jenkinsfile
 * [Jason Vanderhoof](https://www.conjur.org/blog/2017/12/19/untangling-jenkins.html) - (2017) Untangling Jenkins | Lessons learned radically overhauling Jenkins for developer and operator happiness
@@ -2361,7 +2361,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [NESblog / Speed Game](https://www.youtube.com/watch?v=VKvcQNLk9yA) - [FR] :fr: [Video] Le Jeu de Rôle Papier, analyse des spécificités de cette famille de jeu
 * [D&D Beyond](https://www.dndbeyond.com/characters/builder#/) - Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e)
 * [Dungeons & Dragons Dice Roller](https://www.wizards.com/dnd/dice/dice.htm) - Online dice roller for D&D
-* [Dungeons & Dragons](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf) - (2018) D&D Basic Rules, Version 1.0
+* [Dungeons & Dragons](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf) - [PDF] (2018) D&D Basic Rules, Version 1.0
 
 # Health and Work-Life Balance
 > News
@@ -2932,7 +2932,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [foobar2000](http://www.foobar2000.org/components/by+date) - List of all plugins for foobar2000
 * [foobar2000](http://mobile.foobar2000.com/) - There exist a mobile version of foobar2000
 * [Tunefind](https://www.tunefind.com/show/the-walking-dead) - Walking Dead tv show soundtracks online
-* [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] :fr: [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
+* [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] :fr: [Podcast] every month, 2 hours of music from video games **Bonus** : [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
 * :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
 * [Banjo Guy Ollie](https://www.youtube.com/channel/UC5-umfrfqPvDvWCYHJGYtpA) - [Videos] videos of Olivier Longuet (aka Ollie LongZ / BanjoGuyOllie), a youtuber making awesome video game music covers. **Bonus** : his other youtube channel [FR] :fr: [Grand Theft Z'Audio](https://www.youtube.com/channel/UCAORviTS6Ua_a0eo4XGDPPg) if you like funny surreal dubbing of games cinematic, mainly inspired by [Message à caractère informatif (https://www.youtube.com/watch?v=ozJmcB-mVgw)
 * :star: [**YouTube to MP3 converter**](https://ytmp3.cc/)
@@ -3744,7 +3744,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Emiliano Soldi](https://www.linkedin.com/pulse/relentlessly-avoid-technical-debt-emiliano-soldi) - Relentlessly Avoid Technical Debt
 * [Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs) - [Video] The Silver Bullet Syndrome (Devoxx Brussels 2015)
 * [Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) - How to Pick a Good Monitor for Software Development
-* [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know. **Bonus** [alternative link](http://www.tuicool.com/articles/YvIvMj)
+* [Philip Reames](https://web.archive.org/web/20160731182553/http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/) - Things every practicing software engineer should aim to know. **Bonus** : [alternative link](http://www.tuicool.com/articles/YvIvMj)
 * [Engin Yöyen](http://enginyoyen.com/improving-problem-solving-skills-for-developers/) - Improving problem-solving skills for developers
 * [James Hood](https://dev.to/jlhcoder/tips-for-new-software-developers) - Tips for New Software Developers
 * [Andrew Wulf](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) - Lessons From A Lifetime Of Being A Programmer
@@ -3881,7 +3881,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html) - (2017) Advice on starting a programming blog
 * [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2010-03-20-code-reading-as-a-team-activity.html) - (2010) Code Reading as a Team Activity
-* [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+* [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** : [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - lists of interview questions.
 * [Yegor Bugayenko](http://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) - (2014) Anti-Patterns in OOP
 * [Joël Spolsky](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) - (2006) A Field Guide to Developers : what they’re looking for, what they like and dislike in a workplace, and what it’s going to take to be a top choice for top developers.
@@ -3889,7 +3889,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Adrian Colyer](https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/) - (2017) Analyzing software requirements errors in safety-critical embedded systems
 * [the morning paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
 * [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services.
-* [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss | **Bonus** [Website](http://paperswelove.org/) - repository of academic computer science papers and a community who loves reading them.
+* [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss | **Bonus** : [Website](http://paperswelove.org/) - repository of academic computer science papers and a community who loves reading them.
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 * [Fagner Martins Brack (fagnerbrack)](https://medium.com/@fagnerbrack/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac) - (2017) Why Developers Become Frustrated And Companies Can’t Find Talent
 * [Kim Hirokuni](http://kimh.github.io/blog/being-backend-engineer/) - (2017) Backend Engineer Principles
@@ -4089,7 +4089,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 Maturity Model
 * [Martin Fowler](https://martinfowler.com/articles/richardsonMaturityModel.html) - (2010) Richardson Maturity Model | steps toward the glory of REST
 * [Damien Frémont](https://damienfremont.com/2017/11/23/rest-api-maturity-levels-from-0-to-5/) - (2017) REST API Maturity Levels : From 0 to 5
-* [Jakub Holy](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** Archive of previous version about code quality only : [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
+* [Jakub Holy](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** : Archive of previous version about code quality only ; [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
@@ -4192,7 +4192,7 @@ Maturity Model
 * [Joël Spolsky](https://www.joelonsoftware.com/2003/12/01/craftsmanship-2/) - (2003) Craftsmanship
 * [Joël Spolsky](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/) - (2009) The Duct Tape Programmer
 * [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - (2008) Common shell script mistakes
-* [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - (2017) [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
+* [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - (2017) [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** : [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
 * [Jiri Tyr](https://www.slideshare.net/jtyr/automation-and-ansible) - (2016) [Slides] Automation and Ansible
 * [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
 * [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
@@ -5186,7 +5186,7 @@ Raw
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Player FM](https://player.fm/podcasts/Software-Development) - Software Development Podcasts
 * [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers
-* [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] :fr: [Podcast] every month, 2 hours of music from video games **Bonus** [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
+* [LDDM (Les Démons du MIDI)](https://www.geekzone.fr/tag/les-demons-du-midi/) - [FR] :fr: [Podcast] every month, 2 hours of music from video games **Bonus** : [LDDM sur RadioKawa](http://www.radiokawa.com/jeux-video/les-demons-du-midi/?)
 * [RadioKawa](http://www.radiokawa.com/) - [FR] :fr: lot of good podcasts in video games, music, arts, tv, cinema, culture, and misc.
 * [Geekzone](https://www.geekzone.fr/podcasts/) - [FR] :fr: a couple of tasty podcasts for geeks
 * [Distorsion Podcast](https://distorsionpodcast.com/) - [FR] :fr: Urban legends from our digital world | Des histoires étranges de l'ère numérique
@@ -5471,7 +5471,7 @@ Raw
 * [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
 * [Eric Pement](http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
 * [Kevin van Zonneveld](https://kvz.io/blog/2013/11/21/bash-best-practices/) - (2013) Best Practices for Writing Bash Scripts
-* [BASH3 Boilerplate (or b3bp)](http://bash3boilerplate.sh/) - Templates to write better Bash scripts **Bonus** [Github Repo](https://github.com/kvz/bash3boilerplate)
+* [BASH3 Boilerplate (or b3bp)](http://bash3boilerplate.sh/) - Templates to write better Bash scripts **Bonus** : [Github Repo](https://github.com/kvz/bash3boilerplate)
 * [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
 * [Tom Ryder](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt) - Emperor Sh and the Traveller  "Don't do it in shell"
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/shell-from-vi/) - (2017) Shell from vi
@@ -5534,7 +5534,7 @@ Raw
 * [Geek Flare](https://geekflare.com/category/security/) - general security articles, tips & tools
 * [SecurityHQ on Slack](https://securityhq.herokuapp.com/) - Security professionals and newbies
 * [Offensive Security](https://www.exploit-db.com/google-hacking-database/) - Google Hacking Database (GHDB) Your Home for "googledorks"
-* [rought](https://fr.scribd.com/doc/151644566/Google-Hacks) - Google Hacks (dork list). Similar lists by [hardikdobariya](https://fr.scribd.com/document/185683271/EthicalHacking1-Com-Google-Hacking-Dork-List)
+* [conzu](http://www.conzu.de/en/google-dork-liste-2018-conzu/) - Google Hacks (dork list). Similar lists by [hardikdobariya](https://fr.scribd.com/document/185683271/EthicalHacking1-Com-Google-Hacking-Dork-List)
 * [Julian Alexander Murillo](https://gist.github.com/64lines/248492a02a50c536903f) - Google tricks / dorks
 * [Offensive Security](https://www.exploit-db.com/shellcode/) - Archived Shellcode for various Operating Systems and Architectures
 * [Offensive Security](https://www.exploit-db.com/browse/) - exploits database
