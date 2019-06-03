@@ -2360,6 +2360,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [NESblog / Speed Game](https://www.youtube.com/watch?v=VKvcQNLk9yA) - [FR] :fr: [Video] Le Jeu de Rôle Papier, analyse des spécificités de cette famille de jeu
 * [D&D Beyond](https://www.dndbeyond.com/characters/builder#/) - Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e)
 * [Dungeons & Dragons Dice Roller](https://www.wizards.com/dnd/dice/dice.htm) - Online dice roller for D&D
+* [Dungeons & Dragons](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf) - (2018) D&D Basic Rules, Version 1.0
 
 # Health and Work-Life Balance
 > News
