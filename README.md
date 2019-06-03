@@ -2320,6 +2320,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [TimestampConvert.com](https://www.timestampconvert.com/) - Convert dates to or from timestamps online
 * [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search. 
+* [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -6069,6 +6070,7 @@ Raw
 * [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) - Awesome Creative Portfolio Websites
 * [HTML5 Please](http://html5please.com/) - Use the new and shiny responsibly. | Look up HTML5, CSS3, etc features, know if they are ready for use, and if so find out how you should use them – with polyfills, fallbacks or as they are.
 * [Jack Lenox](https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance/) - (2019) How Improving Website Performance Can Help Save The Planet
+* [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
