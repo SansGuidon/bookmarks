@@ -301,11 +301,85 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Anne Quito](https://qz.com/quartzy/1381916/drawing-is-the-best-way-to-learn-even-if-youre-no-leonardo-da-vinci/) - (2018) Drawing is the best way to learn, even if you’re no Leonardo da Vinci
 
 # Books :books:
-* [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
-* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
+* [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
+
+> Learn
 * [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer
 * [John Allspaw](http://www.kitchensoap.com/2017/03/06/book-suggestion-dialogue-the-art-of-thinking-together/) - (2017) Dialogue: The Art Of Thinking Together
-* [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] :fr: [eBook] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
+* [Andrew Hatch](https://medium.com/seek-blog/platform-engineering-why-we-dont-need-a-devops-team-e88c8b97cc4f) - (2017) Why We Don’t Need a DevOps Team | Rename your DevOps Team
+* [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
+* [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better
+
+> Complete books
+* [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
+* [The Pragmatic Programmers](https://media.pragprog.com/titles/auto/PragmaticAutomationSummary.pdf) - [PDF] Pragmatic Project Automation Summary Road Map / good one-page summary of [Pragmatic Project Automation](http://www.pragprog.com/titles/auto) book
+* [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] :fr: [Book] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
+* [Google](https://landing.google.com/sre/book.html) - [Book] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
+* [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
+* :star: [**Library Genesis**](http://libgen.io/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.pw/), [Mirrors list](http://sguru.org/libgen-proxy/)
+* [b-ok.org](http://b-ok.org/) - ebooks
+* [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - [TOR] a list of websites that have free ebooks.
+* [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
+* [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
+* [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) - +27 million content in biomedical literature from MEDLINE, life science journals, and online books.
+* [Fox eBook](https://www.foxebook.net) - ebooks site
+* [Smashwords](https://www.smashwords.com/books/category/1/newest/0/free/any) - ebooks from independent authors and publishers
+* [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
+* [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
+* [Brian Kelly](https://morethancoding.com/2011/02/27/the-greatest-software-stories-ever-told/) - (2011) [Book] The Greatest Software Stories Ever Told
+* [Erik Helin and Adam Renberg](http://littleosbook.github.io/#a-simple-read-only-file-system) - [Book] The little book about OS development
+* [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
+* [Markus Triska](https://www.metalevel.at/prolog) - [Book] The Power of Prolog. **Bonus** : git repo [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog)
+* [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
+* [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
+* [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
+* [Launch School](https://launchschool.com/books/) - Open Book Shelf for developers | some beginner friendly readings about programming, git, command line, etc
+* [Learn You Some Erlang](http://learnyousomeerlang.com/content) - Online book. Reading this tutorial should be one of your first steps in learning Erlang
+* [Ogre](http://ogres-crypt.com/Kindle/) - Free Kindle Book Listings
+* [Reddit](https://www.reddit.com/r/FreeEBOOKS/) - Free Ebooks
+* [OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html) - DevOps with OpenShift
+* [MorganGeek](https://researchportal.unamur.be/fr/studentTheses/design-of-a-support-system-for-modelling-gene-regulatory-networks) - (2015) Design of a support system for modelling gene regulatory networks. **Bonus** : [Download in PDF](https://researchportal.unamur.be/files/36918347/2015_WattiezM_memoire.pdf)
+
+> Summaries, notes and reviews
+* [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
+* [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
+* [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
+* [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
+* [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
+* [onaclov2000/PassionateProgrammer](https://github.com/onaclov2000/PassionateProgrammer) - a list of the tips from the book "Passionate Programmer"
+* [sfrapoport/daily-pragmatic-tip](https://github.com/sfrapoport/daily-pragmatic-tip/blob/master/pragmaticprogrammer.txt) - notes from book "Pragmatic Programmer"
+* [braydie/PragProgTips](https://github.com/braydie/PragProgTips/blob/master/index.html) - some tips from pragmatic programmer book
+* Some GitHub resources on clean coding practices, mostly based on book 'Clean Code: A Handbook of Agile Software Craftsmanship' by Robert C. Martin : [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29), [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code), [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code), [harry830622/clean-code-notes](https://github.com/harry830622/clean-code-notes), [thebentern/clean-code-study](https://github.com/thebentern/clean-code-study), [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes), [timkendall/clean-code](https://github.com/timkendall/clean-code)
+* [jbelmont/pragmatic-programmer-and-clean-code](https://github.com/jbelmont/pragmatic-programmer-and-clean-code) - principles from Pragmatic Programmer and Clean Code books
+* [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang
+* [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell
+* [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
+* [Alex Ott](http://alexott.net/en/fp/books/#sec12) - books review on Lisp
+* [Alex Ott](http://alexott.net/en/fp/books/) - Functional programming books overview
+* [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog
+* [Sam Harris](https://medium.com/growth-mindset-podcast/the-hard-thing-about-hard-things-summary-51ea0213e837) - (2017) The Hard Thing About Hard Things — Summary of book
+* [Farnam Street](https://www.fs.blog/2012/07/how-to-win-friends-and-influence-people/) - (2012) The Best Summary of Dale Carnegie's How to Win Friends and Influence People
+* [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
+* [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
+* [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
+* [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
+* [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
+
+> Tips
+* [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
+* [Opentrackers.org](https://opentrackers.org/downloading-ebooks-textbooks/) - (2017) A guide to help people find ebooks & textbooks
+* [NDTV Gadgets360](https://gadgets.ndtv.com/internet/features/the-6-best-places-to-legally-download-ebooks-for-free-663886) - (2015)  The 6 Best Places to Legally Download Ebooks for Free  
+* [Quora](https://www.quora.com/What-is-a-good-website-for-free-books) - What is a good website for free books?
+* [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
+* [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
+
+> Tools
+* [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
+* [EPUB to MOBI Converter](https://convertio.co/epub-mobi/) - Convert your epub files to mobi online & free
+
+> Book Suggestions
+* [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
+* [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
 * [Learn by Reading](https://learnbyreading.herokuapp.com/) - Discover your next favorite learnable (Non-fiction) book from Amazon Book
 * [Gnod](http://www.gnooks.com/faves.php) - Discover new books based on what you like
 * :star: [**Goodreads**](https://www.goodreads.com/) - a home for you books, to manage your collection and discover new books
@@ -317,77 +391,15 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Readgeek](https://www.readgeek.com/rate_many) - Let Readgeek get to know your book taste to get recommendations
 * [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
-* [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
-* [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
-* [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
-* [The Pragmatic Programmers](https://media.pragprog.com/titles/auto/PragmaticAutomationSummary.pdf) - [PDF] Pragmatic Project Automation Summary Road Map / good one-page summary of [Pragmatic Project Automation](http://www.pragprog.com/titles/auto) book
-* [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
-* [Google](https://landing.google.com/sre/book.html) - [Book] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
-* [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
-* :star: [**Library Genesis**](http://libgen.io/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.pw/), [Mirrors list](http://sguru.org/libgen-proxy/)
-* [b-ok.org](http://b-ok.org/) - ebooks
-* [Kooba](http://koob.jake.run/) - an interactive graph for finding new books
 * [Book Suggestions Ninja](https://www.booksuggestions.ninja/) - books suggestions based on book / author or genre
 * [Reading Stash](http://readingstash.com/index) - Just a book recommender
-* [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - [TOR] a list of websites that have free ebooks.
-* [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
-* [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
-* [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) - +27 million content in biomedical literature from MEDLINE, life science journals, and online books.
-* [Fox eBook](https://www.foxebook.net) - ebooks site
-* [Smashwords](https://www.smashwords.com/books/category/1/newest/0/free/any) - ebooks from independent authors and publishers
-* [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
-* [Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) - Free book : Learn Vimscript the Hard Way, learn how to customize vim
-* [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
-* [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
-* [Brian Kelly](https://morethancoding.com/2011/02/27/the-greatest-software-stories-ever-told/) - (2011) [Books] The Greatest Software Stories Ever Told
-* [Erik Helin and Adam Renberg](http://littleosbook.github.io/#a-simple-read-only-file-system) - [Book] The little book about OS development
-* [onaclov2000/PassionateProgrammer](https://github.com/onaclov2000/PassionateProgrammer) - a list of the tips from the book "Passionate Programmer"
-* [sfrapoport/daily-pragmatic-tip](https://github.com/sfrapoport/daily-pragmatic-tip/blob/master/pragmaticprogrammer.txt) - notes from book "Pragmatic Programmer"
-* [braydie/PragProgTips](https://github.com/braydie/PragProgTips/blob/master/index.html) - some tips from pragmatic programmer book
-* Some GitHub resources on clean coding practices, mostly based on book 'Clean Code: A Handbook of Agile Software Craftsmanship' by Robert C. Martin : [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29), [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code), [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code), [harry830622/clean-code-notes](https://github.com/harry830622/clean-code-notes), [thebentern/clean-code-study](https://github.com/thebentern/clean-code-study), [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes), [timkendall/clean-code](https://github.com/timkendall/clean-code)
-* [jbelmont/pragmatic-programmer-and-clean-code](https://github.com/jbelmont/pragmatic-programmer-and-clean-code) - principles from Pragmatic Programmer and Clean Code books
-* [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang
-* [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
-* [Alex Ott](http://alexott.net/en/fp/books/#sec7) - books review on Haskell
-* [Hugo Matilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
-* [Alex Ott](http://alexott.net/en/fp/books/#sec12) - books review on Lisp
-* [Alex Ott](http://alexott.net/en/fp/books/) - Functional programming books overview
-* [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
-* [Markus Triska](https://www.metalevel.at/prolog) - [Book] The Power of Prolog. **Bonus** : git repo [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog)
-* [Alex Ott](http://alexott.net/en/fp/books/#sec14) - books review on Prolog
-* [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
-* [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
-* [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
-* [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
+* [Kooba](http://koob.jake.run/) - an interactive graph for finding new books
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
-* [Launch School](https://launchschool.com/books/) - Open Book Shelf for developers | some beginner friendly readings about programming, git, command line, etc
-* [Learn You Some Erlang](http://learnyousomeerlang.com/content) - Online book. Reading this tutorial should be one of your first steps in learning Erlang
-* [Opentrackers.org](https://opentrackers.org/downloading-ebooks-textbooks/) - (2017) A guide to help people find ebooks & textbooks
-* [NDTV Gadgets360](https://gadgets.ndtv.com/internet/features/the-6-best-places-to-legally-download-ebooks-for-free-663886) - (2015)  The 6 Best Places to Legally Download Ebooks for Free  
 * [Goodreads](https://www.goodreads.com/shelf/show/reddit-top-200) - Popular Reddit Top 200 Books
 * [Amazon](https://www.amazon.com/Best-Sellers-Kindle-Store-eBooks/zgbs/digital-text/154606011/ref=zg_bs?_encoding=UTF8&tf=1) - Top 100 Free Amazon Best Sellers
-* [Quora](https://www.quora.com/What-is-a-good-website-for-free-books) - What is a good website for free books?
-* [Ogre](http://ogres-crypt.com/Kindle/) - Free Kindle Book Listings
-* [Reddit](https://www.reddit.com/r/FreeEBOOKS/) - Free Ebooks
-* [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
-* [Andrew Hatch](https://medium.com/seek-blog/platform-engineering-why-we-dont-need-a-devops-team-e88c8b97cc4f) - (2017) Why We Don’t Need a DevOps Team | Rename your DevOps Team
-* [Sam Harris](https://medium.com/growth-mindset-podcast/the-hard-thing-about-hard-things-summary-51ea0213e837) - (2017) The Hard Thing About Hard Things — Summary of book
-* [Farnam Street](https://www.fs.blog/2012/07/how-to-win-friends-and-influence-people/) - (2012) The Best Summary of Dale Carnegie's How to Win Friends and Influence People
 * [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/) - (2015) Recommended Reading for Developers
-* [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
-* [OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html) - DevOps with OpenShift
-* [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
-* [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
-* [MorganGeek](https://researchportal.unamur.be/fr/studentTheses/design-of-a-support-system-for-modelling-gene-regulatory-networks) - (2015) Design of a support system for modelling gene regulatory networks. **Bonus** : [Download in PDF](https://researchportal.unamur.be/files/36918347/2015_WattiezM_memoire.pdf)
-* [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
-* [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
-* [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
-* [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind
-* [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
-* [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better
-* [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
-* [EPUB to MOBI Converter](https://convertio.co/epub-mobi/) - Convert your epub files to mobi online & free
+* [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
 
 # Business & Economics
 > News
