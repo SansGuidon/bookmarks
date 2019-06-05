@@ -309,6 +309,12 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Andrew Hatch](https://medium.com/seek-blog/platform-engineering-why-we-dont-need-a-devops-team-e88c8b97cc4f) - (2017) Why We Don’t Need a DevOps Team | Rename your DevOps Team
 * [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
 * [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better
+* [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
+* [Opentrackers.org](https://opentrackers.org/downloading-ebooks-textbooks/) - (2017) A guide to help people find ebooks & textbooks
+* [NDTV Gadgets360](https://gadgets.ndtv.com/internet/features/the-6-best-places-to-legally-download-ebooks-for-free-663886) - (2015)  The 6 Best Places to Legally Download Ebooks for Free  
+* [Quora](https://www.quora.com/What-is-a-good-website-for-free-books) - What is a good website for free books?
+* [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
+* [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
 
 > Complete books
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
@@ -364,14 +370,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
 * [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
 * [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
-
-> Tips
-* [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
-* [Opentrackers.org](https://opentrackers.org/downloading-ebooks-textbooks/) - (2017) A guide to help people find ebooks & textbooks
-* [NDTV Gadgets360](https://gadgets.ndtv.com/internet/features/the-6-best-places-to-legally-download-ebooks-for-free-663886) - (2015)  The 6 Best Places to Legally Download Ebooks for Free  
-* [Quora](https://www.quora.com/What-is-a-good-website-for-free-books) - What is a good website for free books?
-* [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
-* [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
+* [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 
 > Tools
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
@@ -390,7 +389,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [AllReaders](http://allreaders.com/booksearch.asp) - book search engine, get details and recommendations about books you like
 * [Readgeek](https://www.readgeek.com/rate_many) - Let Readgeek get to know your book taste to get recommendations
 * [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
-* [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 * [Book Suggestions Ninja](https://www.booksuggestions.ninja/) - books suggestions based on book / author or genre
 * [Reading Stash](http://readingstash.com/index) - Just a book recommender
 * [Kooba](http://koob.jake.run/) - an interactive graph for finding new books
