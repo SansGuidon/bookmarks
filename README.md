@@ -398,6 +398,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/) - (2015) Recommended Reading for Developers
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind
 * [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
+* [Favobooks](http://favobooks.com/) - famous people's favourite books : explore book recommendations of great thinkers, entrepreneurs, pioneers and visionaries.
 
 # Business & Economics
 > News
