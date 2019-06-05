@@ -302,7 +302,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
-* [jivoi/awesome-osint#books](https://github.com/jivoi/awesome-osint/blob/master/README.md#-books-and-reading) - Books & Reading section of the awesome-osint repository 
 
 > Learn
 * [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer
