@@ -385,7 +385,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [**LibraryThing**](https://www.librarything.com/) - a home for your books, to manage your library and discover new books. | Recommendations are numerous and usually relevant to me for every book I tried
 * [Whichbook](http://www.openingthebook.com/whichbook/) - a tool for selecting what book to read next
 * [What Should I Read Next?](http://www.whatshouldireadnext.com/) - another tool to discover new books based on what you like
-* [YourNextRead](http://www.yournextread.com/us/) - books recommendations based on what you like
 * [AllReaders](http://allreaders.com/booksearch.asp) - book search engine, get details and recommendations about books you like
 * [Readgeek](https://www.readgeek.com/rate_many) - Let Readgeek get to know your book taste to get recommendations
 * [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
@@ -935,7 +934,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [**LibraryThing**](https://www.librarything.com/) - a home for your books, to manage your library and discover new books. | Recommendations are numerous and usually relevant to me for every book I tried
 * [Whichbook](http://www.openingthebook.com/whichbook/) - a tool for selecting what book to read next
 * [What Should I Read Next?](http://www.whatshouldireadnext.com/) - another tool to discover new books based on what you like
-* [YourNextRead](http://www.yournextread.com/us/) - books recommendations based on what you like
 * [AllReaders](http://allreaders.com/booksearch.asp) - book search engine, get details and recommendations about books you like
 * [Readgeek](https://www.readgeek.com/rate_many) - Let Readgeek get to know your book taste to get recommendations
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
