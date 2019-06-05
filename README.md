@@ -376,6 +376,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Tools
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
 * [EPUB to MOBI Converter](https://convertio.co/epub-mobi/) - Convert your epub files to mobi online & free
+* [Google Books](https://books.google.com/) - Search the world's most comprehensive index of full-text books
 
 > Book Suggestions
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
