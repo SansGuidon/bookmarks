@@ -3997,7 +3997,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ashton Kemerling](http://ashtonkemerling.com/blog/2014/06/09/the-swordsman-and-the-software-engineer/) - (2014) The Swordsman and the Software Engineer | It’s easy to believe that specializing and focusing will make you better than your peers
 * [Ashton Kemerling](http://ashtonkemerling.com/blog/2014/03/24/disdain/) - (2014) Disdain | the accomplished engineer knows that completing a task is not about the number of hours spent, but the quality
 * [Andrew Hunt and David Thomas](https://pragprog.com/the-pragmatic-programmer/extracts/coincidence) - (1999) Programming by Coincidence | Don’t Program by Coincidence. Extract from The Pragmatic Programmer book
-* [Jakub Holy](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
+* [Jakub Holý](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
 * [Fred Hébert](https://www.codemesh.io/codemesh2017/fred-hebert) - (2017) Everything is Terrible : how fundamental components can end up causing us problems. Target audience : Developers who enjoy cynicism. **Bonus** : [Slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/766/original/Fred_Herbert_-_Everything_is_terrible.pdf?1510584735)
 * [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
 * [Christian Maioli Mackeprang](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
@@ -4115,7 +4115,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 Maturity Model
 * [Martin Fowler](https://martinfowler.com/articles/richardsonMaturityModel.html) - (2010) Richardson Maturity Model | steps toward the glory of REST
 * [Damien Frémont](https://damienfremont.com/2017/11/23/rest-api-maturity-levels-from-0-to-5/) - (2017) REST API Maturity Levels : From 0 to 5
-* [Jakub Holy](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** : Archive of previous version about code quality only ; [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
+* [Jakub Holý](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** : Archive of previous version about code quality only ; [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
@@ -4273,8 +4273,8 @@ Maturity Model
 * [Thomas Figg (tef)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) - (2016) Write code that is easy to delete, not easy to extend.
 * [Jakub Holý](https://theholyjava.wordpress.com/2011/02/14/clean-code-four-simple-design-rules/) - (2011) Clean Code: Four Simple Design Rules – Obligatory Read
 * [Dimitris Staikos](http://www.commonsense4commonpeople.net/2008/11/the-code-is-the-documentation.html) - (2008) The code is THE documentation | why the code is not the documentation
-* [Jakub Holy](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** Archive of previous version about code quality only : [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
-* [Jakub Holy](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
+* [Jakub Holý](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** Archive of previous version about code quality only : [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
+* [Jakub Holý](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
 * [Steven A. Lowe](https://techbeacon.com/program-faster-all-time-best-tips-pros) - Code faster: 53 tips from the pros
 > The only way to go fast is to go well. Every time you yield to the temptation to trade quality for speed, you slow down. Every time. [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
 * [Christian Maioli Mackeprang](https://techbeacon.com/3-creative-techniques-writing-modular-code) - (2018) 3 creative techniques for writing modular code
