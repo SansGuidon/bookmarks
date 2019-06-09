@@ -2062,7 +2062,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [TVsubtitles.net](http://www.tvsubtitles.net/) - large collection of subtitles for tv shows
 * [Addic7ed.com](http://www.addic7ed.com/) - free subtitles for tv show and movies
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
-* [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
+* [InterfaceLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
 * :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -2627,7 +2627,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
-* [InterfactLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
+* [InterfaceLIFT](https://interfacelift.com/wallpaper/downloads/date/any/) - High resolution photography wallpapers for every screen size
 * [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
 * [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
 * [François Dourlen](https://www.francoisdourlen.com/photos) - 'feel good' mash-up pictures, combining pop-culture characters and actual locations
