@@ -2174,6 +2174,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [ZLibrary](https://b-ok.cc/) - The world's largest ebook library.
 * [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts : The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
+* [TorrentSeeker](https://search.torrents.io) - is a powerful torrent search combining results from dozens of torrent sites
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
