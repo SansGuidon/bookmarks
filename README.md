@@ -36,7 +36,7 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
 * [CRM](#CRM)
 * [Culture](#culture)
 * [Data](#data)
-* [DevOps](#devops)
+* [DevOps](#devops--cicd)
   * [Ansible](#ansible)
     * [Ansible Vault](#ansible-vault)
   * [AWS](#aws)
@@ -1001,7 +1001,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search. 
 
-# DevOps
+# DevOps / CICD
 > News
 * [HashiCorp](https://www.hashicorp.com/blog/) - HashiCorp Blog
 * [CloudBees](https://www.cloudbees.com/blog) - CloudBees Blog
