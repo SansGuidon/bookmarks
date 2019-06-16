@@ -494,6 +494,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Grille de Salaires anonyme des startupers](https://docs.google.com/spreadsheets/d/1Zjvz-Ud2TR3rco2BTq0X0Ovr29ohASCRiAATwmAX5YY/edit#gid=1145296357) - :fr: [FR] Tu bosses en startup ? Découvre les salaires pratiqués, ou partage ton salaire. Tout ceci est anonyme. | salaries for french startups
 * [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wikipedia page](https://en.wikipedia.org/wiki/Wardley_map)
 * [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
+* [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 
 ## Cryptocurrency
 > News
@@ -4096,6 +4097,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [David Winterbottom](https://codeinthehole.com/lists/little-known-words-relevant-to-software-development/) - (2017) Little-known words relevant to software development
 > Example: VERSCHLIMMBESSERN - (German) - to make something worse while attempting to make it better
 > and many others...
+* [Jakub Holý](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** : Archive of previous version about code quality only ; [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
+* [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4119,7 +4122,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 Maturity Model
 * [Martin Fowler](https://martinfowler.com/articles/richardsonMaturityModel.html) - (2010) Richardson Maturity Model | steps toward the glory of REST
 * [Damien Frémont](https://damienfremont.com/2017/11/23/rest-api-maturity-levels-from-0-to-5/) - (2017) REST API Maturity Levels : From 0 to 5
-* [Jakub Holý](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** : Archive of previous version about code quality only ; [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
 
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
@@ -4334,6 +4336,7 @@ Maturity Model
 * [Terraform Best Practices](https://www.terraform-best-practices.com/) - free book with most of best-practices and recommendations for Terraform users
 * [Anton Babenko](https://fosdem.org/2019/schedule/event/terraform_best_practices/) - [Videos] (2019) Codifying infrastructure with Terraform for the future | be aware of principles related to management of Terraform resources, Terraform modules best-practices and some CI/CD principles applicable to infrastructure management and deployments.
 * [Matej Jellus](https://juffalow.com/other/write-good-git-commit-message) - (2018) Write good git commit message
+* [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 
 ## Conferences
 > In Belgium
@@ -5036,6 +5039,7 @@ Raw
 * [Rextester](https://rextester.com/) - run code online
 * [Hacker Tools](https://hacker-tools.github.io/) - Learn to make the most of the tools used by hackers / programmers 
 * [Kent C. Dodds](https://kentcdodds.com/blog/write-tests) - (2017) Write tests. Not too many. Mostly integration.
+* [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
