@@ -36,7 +36,7 @@ by **[@MorganGeek](https://twitter.com/MorganGeek)**
 * [CRM](#CRM)
 * [Culture](#culture)
 * [Data](#data)
-* [DevOps](#devops--cicd)
+* [DevOps / CICD](#devops--cicd)
   * [Ansible](#ansible)
     * [Ansible Vault](#ansible-vault)
   * [AWS](#aws)
