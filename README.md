@@ -191,7 +191,7 @@ Be the first to support me : [![Say Thanks!][img-saythanks]][saythanks] [![Buy m
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
 * [Brian Kelly](https://www.datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/) - Building Resilient Microservices from the Fallacies of Distributed Computing
 * [Queues](http://queues.io/) - Job queues, message queues and other queues listed and compared in one place
-* [Wikipedia](https://en.wikipedia.org/wiki/Composition_over_inheritance) - Choose Composition over inheritance
+* [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance) - Choose Composition over inheritance
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources
 * [Jonas Downey](https://m.signalvnoise.com/move-slowly-and-fix-things-e5a560fd928b) - (2017) Move Slowly and Fix Things | Ruminations on the heavy weight of software design
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
@@ -282,7 +282,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
 * [Daniel Lebrero](https://danlebrero.com/2019/02/27/architecture-decisions-beligerent-contrarian-rule-of-three/) - (2019) Architecture decisions: the belligerent contrarian and the rule of three
 * [David Futcher](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb) - (2019) You Don’t Need All That Complex/Expensive/Distracting Infrastructure
-* [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wikipedia page](https://en.wikipedia.org/wiki/Wardley_map)
+* [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wardley map](https://en.wikipedia.org/wiki/Wardley_map)
 
 # Art :art:
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
@@ -343,7 +343,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Markus Triska](https://www.metalevel.at/prolog) - [Book] The Power of Prolog. **Bonus** : git repo [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog)
 * [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
 * [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
-* [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
+* [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] Musings on Linux and Open Source by an Accidental Revolutionary
 * [Launch School](https://launchschool.com/books/) - Open Book Shelf for developers | some beginner friendly readings about programming, git, command line, etc
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) - Online book. Reading this tutorial should be one of your first steps in learning Erlang
 * [Ogre](http://ogres-crypt.com/Kindle/) - Free Kindle Book Listings
@@ -477,7 +477,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [David NiuMark Roberge](https://hbr.org/2017/03/how-morale-changes-as-a-startup-grows) - (2017) How Morale Changes as a Startup Grows | how company's culture changes
 * [Kristof Kovacs](https://kkovacs.eu/the-death-star-design-pattern) - The Death Star Design Pattern
 * [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) - is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person.
-* [Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle) - Hype Cycle : a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
+* [Hype Cycle](https://en.wikipedia.org/wiki/Hype_cycle) - a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 * [Hugo Lassiège](https://www.eventuallycoding.com/index.php/travailler-autrement/) - (2013) [FR] Travailler autrement | sur les crises et court-termisme entre autres 
 * [Gabe Hicks](https://dev9.com/blog-posts/2017/4/6-ways-to-control-cloud-costs) - (2017) 6 Ways to Control Cloud Costs
@@ -496,7 +496,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
 * [Mike Jarvis](https://builttoadapt.io/how-to-save-a-fortune-on-cloud-infrastructure-5ff418c7658c) - (2018) How to Save a Fortune On Cloud Infrastructure
 * [Grille de Salaires anonyme des startupers](https://docs.google.com/spreadsheets/d/1Zjvz-Ud2TR3rco2BTq0X0Ovr29ohASCRiAATwmAX5YY/edit#gid=1145296357) - :fr: [FR] Tu bosses en startup ? Découvre les salaires pratiqués, ou partage ton salaire. Tout ceci est anonyme. | salaries for french startups
-* [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wikipedia page](https://en.wikipedia.org/wiki/Wardley_map)
+* [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wardley map](https://en.wikipedia.org/wiki/Wardley_map)
 * [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * [Freelance.tv](http://freelance.tv) - Videos about freelancing
@@ -606,7 +606,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Umer Mansoor](https://codeahoy.com/2016/04/03/effective-code-reviews/) - (2016) Effective Code Reviews
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
-* [Wikipedia](https://en.wikipedia.org/wiki/Oblique_Strategies) - Oblique Strategies
+* [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) - How to break creative blocks by encouraging lateral thinking.
 * [Jeff Wainwright](https://css-tricks.com/code-review-etiquette/) - (2017) Code Review Etiquette
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
 * [Doug Tedder](https://www.dougtedder.com/2017/07/02/cab-dead-long-live-cab/) - (2017) The CAB is Dead. Long Live the CAB.
@@ -746,7 +746,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Derek Sivers](https://sivers.org/slow) - (2016) I’m a very slow thinker
 * [Derek Sivers](https://sivers.org/ff) - (2010) [Video] First Follower: Leadership Lessons from a Dancing Guy | a Lesson of leadership
 * [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
-* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
+* [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 * [Satyandra Vadavalli](https://vnvsatyendra.wordpress.com/2012/04/06/paralysis-by-analysis/) - (2012) Paralysis by Analysis
 * [Steve Losh](http://stevelosh.com/blog/2013/09/teach-dont-tell/) - (2013) Teach, Don't Tell | about documentation
 * [Sacha Labourey, Nigel Willie](https://dzone.com/articles/devops-technician-training-think-requirements-not) - (2018) DevOps Technician Training: Think Requirements, Not Solutions
@@ -780,7 +780,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
 * [Aytekin Tank](https://medium.com/swlh/the-power-of-culture-how-to-hire-and-attract-amazing-people-fd9e37b6d520) - (2018) The power of culture: how to hire and attract amazing people
 * [Reed Hastings](https://www.slideshare.net/reed2001/culture-1798664) - [Slides] (2009) Netflix culture. **Bonus** : [new version here](https://jobs.netflix.com/culture)
-* [Wikipedia](https://en.wikipedia.org/wiki/The_No_Asshole_Rule) - The No Asshole Rule
+* [The No Asshole Rule](https://en.wikipedia.org/wiki/The_No_Asshole_Rule)
 > 1. After encountering the person, do people feel oppressed, humiliated or otherwise worse about themselves?
 > 2. Does the person target people who are less powerful than him/her?
 * [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering 
@@ -798,7 +798,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 * [Michelle Venetucci Harvey](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2) - (2017) A research roundup to show that your office layout is toxic (and some tips for making it better)
 * [David R. MacIver](https://www.drmaciver.com/2019/05/how-to-do-hard-things/) - (2019) How to do hard things
-* [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wikipedia page](https://en.wikipedia.org/wiki/Wardley_map)
+* [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wardley map](https://en.wikipedia.org/wiki/Wardley_map)
 * [Bryan Cantrill](http://dtrace.org/blogs/bmc/2018/10/05/assessing-software-engineering-candidates/) - (2018) Assessing software engineering candidates
 
 ## Communication
@@ -807,7 +807,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential.
 > Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
 * [Eser Gozcu](https://hackernoon.com/devops-behind-scenes-817d586a1548) - (2018) DevOps and Behind the Scenes | BEST EFFORT != BEST PRACTICE | DevOps starts with a real communication. Moving towards a common goal requires social engineering
-* [Wikipedia](https://en.wikipedia.org/wiki/Nonviolent_Communication) - Nonviolent Communication - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
+* [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
 * [Alex Naoumidis](https://www.themindsetapp.com/musk-letter/) - (2018) Elon Musk reveals his productivity rules in a letter he sent to Tesla employees 
 > - Get of all large meetings, unless you’re certain they are providing value to the whole audience, in which case keep them very short.
 > - Also get rid of frequent meetings
@@ -823,6 +823,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Lenny Zeltser](https://zeltser.com/human-communications-cheat-sheet/) - Tips for Troubleshooting Human Communications | Human Communications Cheat Sheet
 * [Vadim Kravcenko](http://vadimkravcenko.com/dealing-with-complex-projects) - (2018) Dealing with complex projects
 > If you fail - you learn, if you succeed – even better. And never forget the importance of communication.
+* [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge) - a cognitive bias that occurs when someone assumes that the others have the same background to understand.
 
 ## Documentation
 > Learn
@@ -846,7 +847,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Hubert Sablonnière](https://www.youtube.com/watch?v=T6YJlaY0Dpw) - (2017) [Video] :fr: [FR] Documentation as Code (expliqué à mon père) | DevFest Nantes 2017 | about AsciiDoc, KISS, DRY, Quality, Collaboration
 
 > Tips
-* [Wikipedia](https://en.wikipedia.org/wiki/Box-drawing_character) - Box-drawing character | because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
+* [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
 * [Bazyli Brzóska](https://invent.life/blog/on-organizing-projects-and-files/) - (2013) On organizing projects and files | TLDR : we shoudl use tags and we need more tools supporting them
 * [Christopher Laine](https://medium.com/it-dead-inside/ubiquitous-language-in-your-software-domain-1ff6df49ac8c) - (2019) Ubiquitous Language in your software domain | Defining your software domain’s language makes everything easier
 
@@ -895,7 +896,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [Lionel Dricot](http://ploum.net/votre-idee-ne-vaut-rien/) - [FR] :fr: Votre idée ne vaut rien
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
-* [Wikipedia](https://en.wikipedia.org/wiki/Oblique_Strategies) - Oblique Strategies
+* [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) - How to break creative blocks by encouraging lateral thinking.
 * [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
 * [Katie McKenna](https://www.portent.com/blog/copywriting/better-content-5-lessons-learned-from-yoga-teacher-training.htm) - (2017) Be a Better Writer: 5 Lessons Learned From Yoga Teacher Training
 * [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
@@ -2530,7 +2531,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Nick Cassella](https://civicskunk.works/ask-your-coworkers-what-they-make-youll-earn-more-46efb2daf63e) - (2018) Ask Your Coworkers What They Make. You’ll Earn More.
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer  
 > A lot of people (especially entrepreneurs) are so obsessed with how fast they will become successful that they will sacrifice their mental health in order to constantly push themselves.
-* [Wikipedia](https://en.wikipedia.org/wiki/Nonviolent_Communication) - Nonviolent Communication - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
+* [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
 * [Jacquelyn Smith](https://www.forbes.com/sites/jacquelynsmith/2012/06/22/how-to-ignore-distractions-at-work/#7e4b56663641) - (2012) How To Ignore Distractions In The Workplace
 * [Tuck Sleep](https://www.tuck.com/memory-and-sleep/) - (2017) Memory and Sleep | How Does Sleep Affect Your Short and Long Term Memory
 * [Healthcare compassion](https://charterforcompassion.org/gaining-emotional-strength/the-biology-of-joy) - The Biology of Joy | some people are genetically predisposed to be happy by virtue of their busy prefrontal cortexes, and research in infants confirms it.
@@ -3931,7 +3932,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [**Pierluigi Vernetto**](http://www.javamonamour.org/2015/01/end-of-my-32-years-contract-on-osb.html) - (2015) End of my 3.2 years contract on a OSB integration project.... lesson learned. | some good lessons learned for developers / project management
 * [Dan McKinley](https://speakerdeck.com/mcfunley/choose-boring-technology) - (2015) [Slides] Choose Boring Technology
 * [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
-* [Wikipedia](https://en.m.wikipedia.org/wiki/List_of_programming_languages_by_type) - List of programming languages by type
+* [List of programming languages by type](https://en.m.wikipedia.org/wiki/List_of_programming_languages_by_type)
 * [Yegor Bugayenko](http://www.yegor256.com/2014/10/29/how-much-do-you-cost.html) - (2014) How Much Do You Cost?
 * [James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html) - (2017) Advice on starting a programming blog
 * [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
@@ -3966,7 +3967,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [MyBroadband](https://mybroadband.co.za/news/smartphones/246583-how-programmers-learn-to-code.html) - (2018) How programmers learn to code | What programmers want
 * [Fagner Martins Brack (fagnerbrack)](https://hackernoon.com/the-angry-programmer-52a93bfcbc3c) - (2016) The Angry Programmer | How an engineer can be competent and incompetent at the same time
 * [Devoxx Belgium](https://devoxx.be/2017/11/the-top-100-rated-devoxx-belgium-2017-talks/) - (2017) The Top-100 rated Devoxx Belgium 2017 talks
-* [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
+* [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - [Book] Musings on Linux and Open Source by an Accidental Revolutionary
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
 * [Antonio Bello](https://www.raywenderlich.com/120612/freelance-software-development) - (2016) Freelance Software Development: Is It For You?
 * [Antonio Bello](https://www.raywenderlich.com/122835/freelance-software-development-tips) - (2016) Freelance Software Development Tips
@@ -4356,9 +4357,9 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [Brandur Leach](https://brandur.org/minimalism) - (2018) In Pursuit of Production Minimalism
 * [Birat Rai](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385) - (2017) Step 8: The Boy Scout Rule ~Robert C. Martin (Uncle Bob) 
 > “Leave Things BETTER than you found them.” ~ Robert Baden Powell
-* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
+* [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
-* [Wikipedia](https://en.wikipedia.org/wiki/Rule_of_three_%28computer_programming%29) - Rule of three (computer programming) | only refactor when similar code is used three times (and more)
+* [Rule of three (computer programming)](https://en.wikipedia.org/wiki/Rule_of_three_%28computer_programming%29) - only refactor when similar code is used three times (and more)
 * [Johannes Brodwall](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/) - (2018) Forget about Clean Code, let’s embrace Compassionate Code | Make people Awesome. Clean Code may help or hurt that goal. Learn to see the difference.
 * [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
 * [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
@@ -4410,11 +4411,11 @@ Containers, Clouds and Lean Business
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences) - [Videos] video interviews and presentations from GOTO Conferences and GOTO Nights.
 
 ## Correctness
-* [Wikipedia](https://en.wikipedia.org/wiki/Hoare_logic) - Hoare logic is a formal system for reasoning about the correctness of computer programs
+* [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic) - is a formal system for reasoning about the correctness of computer programs
 * [Cormac Flanagan](https://classes.soe.ucsc.edu/cmps203/Winter11/08-axiomatic.ppt.pdf) - (2003) [Slides] [PDF] Axiomatic Semantics
 * [Ranjit Jhala](https://cseweb.ucsd.edu/classes/wi10/cse230/lectures/lec5.pdf) - (2010) [PDF] Axiomatic Semantics
 * [Ken Slonneger](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/Chapter11.pdf) - Axiomatic Semantics
-* [Wikipedia](https://en.wikipedia.org/wiki/Operational_semantics) - Operational semantics
+* [Operational semantics](https://en.wikipedia.org/wiki/Operational_semantics) - is a category of formal programming language semantics in which certain desired properties of a program, such as correctness, safety or security, are verified by constructing proofs from logical statements about its execution and procedures, rather than by attaching mathematical meanings to its terms (denotational semantics). 
 * [Caitie McCaffrey](https://queue.acm.org/detail.cfm?id=2889274) - (2016) The Verification of a Distributed System | A practitioner's guide to increasing confidence in system correctness
 
 ## Database
@@ -4441,7 +4442,7 @@ Containers, Clouds and Lean Business
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
 * [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - (2015) Debugging - into rabbit hole with docker containers
 * :star: [**Aaron Maxwell**](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - Use the Unofficial Bash Strict Mode (Unless You Looove Debugging). **Bonus** : [some bash tips when dealing with bash strict mode](https://gist.github.com/Integralist/0fc25edb5d9ceeae74cc)
-* [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
+* [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 * [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Debugging_Business_Rules#gsc.tab=0) - Debugging Business Rules
 * [Vivek Gite](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
@@ -5115,7 +5116,7 @@ Raw
 * [turnoff.us](http://turnoff.us/) - geek comic site about developers
 * [Classic Programmer Paintings](http://classicprogrammerpaintings.com/) - funny tumblr about software engineering as depicted by artists through history
 * [Access Main Computer File](http://accessmaincomputerfile.net/) - a Visual Study of computer GUI in cinema
-* [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Rubber duck debugging
+* [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 * [Fast Good Cheap](http://fastgood.cheap/) - pick any two ...
 * [presquejamais](http://www.cfsl.net/forums/viewtopic.php?f=45&t=25587) - [FR] :fr: [STRIPS] Les aventures d'une barre de téléchargement
 * [I Am Devloper](https://twitter.com/iamdevloper) - the funniest developer on twitter
@@ -5337,7 +5338,7 @@ Raw
 * [Changing minds](http://changingminds.org/techniques/questioning/5w1h.htm) - 5W1H - A simple set of question framings
 * [Changing minds](http://changingminds.org/techniques/questioning/socratic_questions.htm) - Socratic Questioning
 * [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
-* [Wikipedia](https://en.wikipedia.org/wiki/Curse_of_knowledge) - Curse of knowledge : a cognitive bias that occurs when someone assumes that the others have the same background to understand.
+* [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge) - a cognitive bias that occurs when someone assumes that the others have the same background to understand.
 * [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
 * [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
 * [Charles Chu](https://medium.com/the-polymath-project/our-clothes-can-change-who-we-are-dc89dbc1467c) - (2017) Our clothes can change who we are
@@ -5352,7 +5353,7 @@ Raw
 * [Tiffanie Wen](http://www.bbc.com/capital/story/20170627-the-tricks-to-make-yourself-effortlessly-charming) - (2017) The tricks to make yourself effortlessly charming
 * [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
 * [Zdravko Cvijetic](https://medium.com/personal-growth/two-essential-principles-that-will-help-you-form-or-break-any-habit-73d3d7aa7692) - (2018) Two Principles That Will Help You Form Any Habit
-* [Wikipedia](https://en.wikipedia.org/wiki/Zeigarnik_effect) - the Zeigarnik effect states that people remember uncompleted or interrupted tasks better than completed tasks
+* [Zeigarnik effect](https://en.wikipedia.org/wiki/Zeigarnik_effect) - people remember uncompleted or interrupted tasks better than completed tasks
 * [Dr. Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
 * [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
 * [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-what-the-hell-effect.php) - (2011) The What-The-Hell Effect | Goal-setting can be a handy way of improving performance, except when we fall foul of a nasty little side-effect.
@@ -5371,7 +5372,7 @@ Raw
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
 * [Farnam Street](https://www.fs.blog/2012/07/how-to-win-friends-and-influence-people/) - (2012) The Best Summary of Dale Carnegie's How to Win Friends and Influence People
 * [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
-* [Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle) - Hype Cycle : a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
+* [Hype Cycle](https://en.wikipedia.org/wiki/Hype_cycle) - a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
 * [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
 * [Tuck Sleep](https://www.tuck.com/memory-and-sleep/) - (2017) Memory and Sleep | How Does Sleep Affect Your Short and Long Term Memory
 * [Derek Sivers](https://sivers.org/ff) - (2010) [Video] First Follower: Leadership Lessons from a Dancing Guy | a Lesson of leadership
@@ -6213,4 +6214,4 @@ Raw
 * [Scott W. Ambler](http://www.ambysoft.com/books/bookWriting.html) - (2006) How to Write a Technical Book
 * [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
 * [Ada Nduka Oyom](https://dev.to/kolokodess/on-becoming-a-technical-writer-318e) - (2018) On Becoming a Technical Writer
-* [Wikipedia](https://en.wikipedia.org/wiki/Box-drawing_character) - Box-drawing character | because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
+* [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
