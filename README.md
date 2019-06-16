@@ -1117,7 +1117,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Slant](https://www.slant.co/topics/799/~best-continuous-integration-tools) - Best CI (Continuous Integration) tools
 * [Stackify](https://stackify.com/top-continuous-integration-tools/) - (2017) Top Continuous Integration Tools: 51 Tools to Streamline Your Development Process, Boost Quality, and Enhance Accuracy
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
-* [TotalCloud](https://totalcloud.io/devops_checklists.html) - A collection of DevOps checklists
+* [TotalCloud](https://blog.totalcloud.io/collection-devops-checklists/) - A collection of DevOps checklists
 * [Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops) - DevOps Checklist
 * :star: [**Aymen El Amri**](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - The 15-point DevOps Check List
 * [Steve Pereira](http://devopschecklist.com/) - The DevOps Checklist
@@ -1157,7 +1157,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Eric Myhre](https://gist.github.com/warpfork/0ad12d99d2b4de32412f7f294c23fde5) - You probably don't really want CI-triggered CD
 * [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
 * [Dag Sonstebo](https://www.slideshare.net/DagSonstebo/techug-glasgow-talk-22feb17-configuration-management-best-practices) - (2017) Configuration Management Best Practices
-* [Concourse CI](https://concourse.ci/) - CI that scales with your project.
+* [Concourse CI](https://concourse-ci.org/) - CI that scales with your project.
 * [Buildbot](https://buildbot.net/) - The Continuous Integration Framework
 * [JP La Torre](http://caylent.com/50-useful-docker-tools/) - 50+ Useful Docker Tools
 * [Asaf Yigal](https://devops.com/sre-vs-devops-false-distinction/) - (2017) SRE vs. DevOps — a False Distinction?
