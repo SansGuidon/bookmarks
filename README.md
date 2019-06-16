@@ -3240,6 +3240,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver071/configuring-a-custom-field-802592532.html?_ga=2.69739668.52022900.1536230565-1749018630.1466933040#Configuringacustomfield-add_schemeAddinganewcontext) - Configuring a custom field : Adding a new context | Adding a new context allows you to configure a custom field differently for different combinations of issue types and projects.
 * [Atlassian Docs](https://docs.atlassian.com/software/jira/docs/api/REST/latest) - Latest Jira documentation for REST API **Bonus** : [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)
 * [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
+* [Atlassian Docs](https://confluence.atlassian.com/jirakb/enable-dark-feature-in-jira-959286331.html) - Enable Dark Feature in Jira
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
