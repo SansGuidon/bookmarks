@@ -2404,6 +2404,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 * [Boardgame Recommendations](https://larrydag.shinyapps.io/boardgame_reco/) - a board game recommendation engine built by larrydag 
+* [Board Game Finder](https://www.boardgamefinder.net/) - Discover your next board game in a few clicks.
 
 ## Role-playing :dragon:
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
