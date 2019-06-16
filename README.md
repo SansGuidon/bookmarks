@@ -1827,7 +1827,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [rusty-dev/jenkins-job-builder-pipeline](https://github.com/rusty-dev/jenkins-job-builder-pipeline) - Pipeline support for jenkins-job-builder
 * [OpenStack Docs](https://docs.openstack.org/infra/system-config/jjb.html) - Documentation for Jenkins Job Builder; a system for configuring Jenkins jobs using simple YAML files stored in Git.
 * [OpenStack Docs](https://docs.openstack.org/infra/jenkins-job-builder/project_pipeline.html) - Jenkins Job Builder documentation for the Pipeline Project module
-* [Hannah Inman](https://www.cloudbees.com/blog/jenkins-world-speaker-highlight-automated-software-maintenance) - (2017) Jenkins World Speaker Highlight: Automated Software Maintenance | use periodic builds for fast detection of CI/CD failures  
+* [Hannah Inman](https://www.cloudbees.com/blog/jenkins-world-speaker-highlight-automated-software-maintenance) - (2017) Jenkins World Speaker Highlight: Automated Software Maintenance | use periodic builds for fast detection of CI/CD failures 
 * [Jenkins Docs](https://jenkins.io/doc/tutorials/) - tutorials showing how to use Jenkins to cover the basics of CI/CD
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Groovy+Hook+Script) - Groovy Hook Scripts
 * [oleg-nenashev/demo-jenkins-config-as-code](https://github.com/oleg-nenashev/demo-jenkins-config-as-code) - Jenkins Configuration-As-Code with Docker and Groovy Hook Scripts. **Bonus** : [RU] :ru: (https://speakerdeck.com/onenashev/moscow-jenkins-meetup-number-3-upravliaiem-konfighuratsiiami-jenkins-groovy-khuki-i-configuration-as-code-plugin-1)
@@ -1863,6 +1863,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
 * [Andreas Grabner](https://www.dynatrace.com/news/blog/optimizing-jenkins-to-ensure-fast-build-times-with-dynatrace/) - (2018) Optimizing Jenkins to ensure fast build times with Dynatrace | Tips for using Jenkins on Kubernetes
 * [Denny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-jenkins-groovy-a4) - (2018) CheatSheet: Jenkins & Groovy
+* [James Rawlings](https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870) - (2018) Serverless Jenkins with Jenkins X
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
