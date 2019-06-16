@@ -1319,6 +1319,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Krishelle Hardson-Hurley](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c) - (2017) So you want to be an SRE?
 * [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 * [Anita Buehrle](https://www.weave.works/blog/delivering-quality-at-speed-with-gitops) - (2019) Delivering Quality at Speed With GitOps
+* [Eero Laukkanena & Juha Itkonena & Casper Lassenius](https://www.sciencedirect.com/science/article/pii/S0950584916302324) - (2015) Problems, causes and solutions when adopting continuous delivery - A systematic literature review
+> When adopting continuous delivery, problems related to system design are common, critical and little studied. The found problems, causes and solutions can be used to solve problems when adopting continuous delivery in practice.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
