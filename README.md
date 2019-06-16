@@ -498,6 +498,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wikipedia page](https://en.wikipedia.org/wiki/Wardley_map)
 * [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
+* [Freelance.tv](http://freelance.tv) - Videos about freelancing
 
 ## Cryptocurrency
 > News
