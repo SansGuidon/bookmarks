@@ -1177,7 +1177,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Thomas Steinborn](https://opensource.com/article/18/1/future-devops) - (2018) The future of DevOps is mastery of multi-cloud environments
 * [Angie Jones](https://techbeacon.com/6-reasons-co-locate-your-app-automation-code) - (2018) 6 reasons to co-locate your app and automation code
 * [Maxime Choffat](https://mrrandol.github.io/devops_meetup_slides/index.html#/cover) - (2018) [Slides] of You said DevOps ? - Introduction to DevOps [Meetup](https://www.meetup.com/fr-FR/Brussels-WeCraft-DevOps/events/246397252/)
-* [CloudBees](https://pages.cloudbees.com/continuous-delivery-cloudbees-jenkins-solutions.pdf) - (2014) [PDF] Infographic on Continuous Delivery: Are you really doing it? 41% think they are, only 8% truly are
+* [CloudBees](https://pages.cloudbees.com/rs/cloudbees/images/Continuous-Delivery-Infographic.pdf) - (2014) [PDF] Infographic on Continuous Delivery: Are you really doing it? 41% think they are, only 8% truly are
 * [Thierry de Pauw](https://confengine.com/agile-india-2018/proposal/5644/feature-branching-considered-evil) - (2017) [Video] + [Slides] Feature Branching considered Evil. **Bonus** : [Recent slides - 2018](https://speakerdeck.com/tdpauw/socrates-be-meetup-201801-feature-branching-considered-evil)
 * [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
 * [Steve Ropa](https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/) - (2018) A Craftsman looks at continuous integration
