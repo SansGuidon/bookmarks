@@ -33,6 +33,7 @@ Be the first to support me : [![Say Thanks!][img-saythanks]][saythanks] [![Buy m
 * [Business & Economics](#business--economics)
   * [Cryptocurrency](#cryptocurrency)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
+  * [Communication](#communication)
   * [Documentation](#documentation)
 * [Creativity](#creativity-bulb)
 * [CRM](#CRM)
@@ -547,7 +548,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Collaborative Fund](http://www.collaborativefund.com/blog/archive/) - About information, collaboration and investments
 
 > Learn
-* [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - (2014) 15 rules for communicating at GitHub
 * [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
 * [Dale Emery](http://cwd.dhemery.com/2005/05/motivation) - (2005) model of motivation : Motivation = Ability × Results × Preferences
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/what-if-we-forget-to-write-the-tests) - What If We Forget To Write the Tests?
@@ -562,7 +562,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
 * [Dr. Deborah Mowshowitz](http://www.columbia.edu/cu/biology/faculty/mowshowitz/explaining.html) - How to Explain
 * [Joe Landsberger](http://www.studygs.net/problem/problemsolvingv1.htm) - Defining a problem; identifying causes; gathering information
-* [Jason Davis](http://engineering.simondata.com/effective-communication-in-a-remote-eng-setting) - Effective Communication in a Remote Engineering Setting
 * [Mike Walker](https://opensource.com/open-organization/17/6/team-differentiator-not-tech) - Your team's differentiator isn't its tech
 * [John Allspaw](http://www.kitchensoap.com/2017/03/06/book-suggestion-dialogue-the-art-of-thinking-together/) - (2017) Dialogue: The Art Of Thinking Together
 * [MindTools](https://www.mindtools.com/pages/article/Assertiveness.htm) - Assertiveness : Working WITH People, Not Against Them
@@ -611,7 +610,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jeff Wainwright](https://css-tricks.com/code-review-etiquette/) - (2017) Code Review Etiquette
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
 * [Doug Tedder](https://www.dougtedder.com/2017/07/02/cab-dead-long-live-cab/) - (2017) The CAB is Dead. Long Live the CAB.
-* [Jon Cairns](https://medium.com/techspiration-ideas-making-it-happen/communication-how-to-be-a-better-software-developer-869c50767701) - Communication: how to be a better software developer
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/17/what-does-a-cto-do-connecting-people-to-enable-magic.html) - (2015) Connecting People to Enable Magic
 * [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
 * [Kirsten Pickworth](https://www.portent.com/blog/internet-marketing/avoid-best-practices-trap.htm) - (2017) How to Avoid the Best Practices Trap
@@ -633,7 +631,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [David McRaney](https://youarenotsosmart.com/2010/05/19/fanboyism-and-brand-loyalty/) - (2010) Fanboyism and Brand Loyalty
 * [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
 * [Rachel Potvin & Josh Levenberg](https://dl.acm.org/citation.cfm?id=2854146) - Why Google stores billions of lines of code in a single repository
-* [Lenny Zeltser](https://zeltser.com/human-communications-cheat-sheet/) - Tips for Troubleshooting Human Communications | Human Communications Cheat Sheet
 * [Michael Lynch](https://mtlynch.io/human-code-reviews-1/) - (2017) How to Do Code Reviews Like a Human (Part One). **Bonus** : [Part Two](https://mtlynch.io/human-code-reviews-2/)
 * [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
 * [Maura Thomas](https://hbr.org/2017/02/your-teams-time-management-problem-might-be-a-focus-problem) - (2017) Your Team’s Time Management Problem Might Be a Focus Problem
@@ -697,7 +694,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Arlo Belshee](http://arlobelshee.com/is-pair-programming-for-me/) - (2012) Is Pair Programming for Me?
 * [Christian Maioli Mackeprang](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 * [Oded Zilinsky](https://techbeacon.com/how-use-chatops-boost-business-engagement-across-teams) - (2018) How to use ChatOps to boost business engagement across teams | Go cross-silo with chatbots
-* [Software Engineering Tips](http://www.yacoset.com/Home/communication-tips) - (2010) Communication Tips
 * [James Wade](https://wade.be/development/2017/10/06/reviewing-code.html) - (2017) What's involved in a code review?
 * [Mike Bursell](https://opensource.com/article/18/2/most-important-issue-devops-transformation) - (2018) Tackling the most important issue in a DevOps transformation | Why culture is the most important issue in a DevOps transformation
 * :star: [**Ian Miell**](https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/) - (2018) Five Things I Did to Change a Team’s Culture
@@ -727,8 +723,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
 * [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication:
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/the-power-of-network-effects-why-they-make-such-valuable-companies-and-how-to-harness-them-5d3fbc3659f8) - (2015) The Power of Network Effects: Why they make such Valuable Companies, and how to Harness them
-* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential.
-> Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
 * [Eric Jorgenson](https://medium.com/evergreen-business-weekly/how-not-to-hire-like-a-clownshow-evergreen-business-weekly-2-hiring-f4da0e9d3230) - (2015) How Not to Hire Like a Clownshow—Evergreen Business Weekly 2: Hiring
 * [Kevin J. Delaney](https://qz.com/846530/something-weird-happens-to-companies-when-they-hit-150-people/) - (2016) Something weird happens to companies when they hit 150 people
 * [Robin Dunbar](https://www.theguardian.com/science/2011/apr/25/few-people-dunbars-number) - (2011) Friends to count on | The perfect number for a human social group is 150. The challenge is maintaining a real sense of community
@@ -742,7 +736,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [**Bridget Kromhout**](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
 * [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) - is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person.
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
-* [Wikipedia](https://en.wikipedia.org/wiki/Nonviolent_Communication) - Nonviolent Communication - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
 * [Xiao Ma](https://medium.com/open-sourced-thoughts/code-life-1a44121290a1) - (2015) Code • Life | We are already doing these things to our code, why not do them to ourselves?
 * [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
@@ -760,7 +753,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Dustin Barnes](https://dev9.com/blog-posts/2017/5/increasing-software-transparency-with-lightweight-architectural-decision-records) - (2017) Increasing Software Transparency with Lightweight Architectural Decision Records
 * [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
 * [Libby Sander](http://www.bbc.com/capital/story/20180718-open-offices-make-people-talk-less-and-email-more) - (2018) Open offices make people talk less and email more
-* [Eser Gozcu](https://hackernoon.com/devops-behind-scenes-817d586a1548) - (2018) DevOps and Behind the Scenes | BEST EFFORT != BEST PRACTICE | DevOps starts with a real communication. Moving towards a common goal requires social engineering
 * [Jan Mewes](https://dev.to/janux_de/how-to-pick-up-a-new-technology-in-minimal-time-2i4l) - (2018) How to pick up a new technology in minimal time?
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
@@ -808,6 +800,29 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [David R. MacIver](https://www.drmaciver.com/2019/05/how-to-do-hard-things/) - (2019) How to do hard things
 * [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wikipedia page](https://en.wikipedia.org/wiki/Wardley_map)
 * [Bryan Cantrill](http://dtrace.org/blogs/bmc/2018/10/05/assessing-software-engineering-candidates/) - (2018) Assessing software engineering candidates
+
+## Communication
+* [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
+* [Eric Jorgenson](https://medium.com/@ericjorgenson/why-growing-past-20-employees-is-so-damn-hard-and-what-you-can-do-about-it-e37cb302db58) - (2017) Why Growing Past 20 Employees is so Damn Hard (and what you can do about it)
+* [Eric Jorgenson](https://medium.com/evergreen-business-weekly/lets-stop-communicating-like-minions-evergreen-business-weekly-3-internal-communication-97a9705eb71a) - (2015) Secrets to Perfecting Organizational Communication—Evergreen Business Weekly 3: Internal Communication | If the members of the team cannot communicate, isolation limits their potential.
+> Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
+* [Eser Gozcu](https://hackernoon.com/devops-behind-scenes-817d586a1548) - (2018) DevOps and Behind the Scenes | BEST EFFORT != BEST PRACTICE | DevOps starts with a real communication. Moving towards a common goal requires social engineering
+* [Wikipedia](https://en.wikipedia.org/wiki/Nonviolent_Communication) - Nonviolent Communication - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
+* [Alex Naoumidis](https://www.themindsetapp.com/musk-letter/) - (2018) Elon Musk reveals his productivity rules in a letter he sent to Tesla employees 
+> - Get of all large meetings, unless you’re certain they are providing value to the whole audience, in which case keep them very short.
+> - Also get rid of frequent meetings
+> - Walk out of a meeting or drop off a call as soon as it is obvious you aren’t adding value. 
+> - Don’t use acronyms or nonsense words for objects
+> - Communication should travel via the shortest path necessary to get the job done
+> - A major source of issues is poor communication between depts. The way to solve this is allow free flow of information between all levels
+> - If following a “company rule” is obviously ridiculous in a particular situation, such that it would make for a great Dilbert cartoon, then the rule should change.
+* [Jon Cairns](https://medium.com/techspiration-ideas-making-it-happen/communication-how-to-be-a-better-software-developer-869c50767701) - Communication: how to be a better software developer
+* [Software Engineering Tips](http://www.yacoset.com/Home/communication-tips) - (2010) Communication Tips
+* [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - (2014) 15 rules for communicating at GitHub
+* [Jason Davis](http://engineering.simondata.com/effective-communication-in-a-remote-eng-setting) - Effective Communication in a Remote Engineering Setting
+* [Lenny Zeltser](https://zeltser.com/human-communications-cheat-sheet/) - Tips for Troubleshooting Human Communications | Human Communications Cheat Sheet
+* [Vadim Kravcenko](http://vadimkravcenko.com/dealing-with-complex-projects) - (2018) Dealing with complex projects
+> If you fail - you learn, if you succeed – even better. And never forget the importance of communication.
 
 ## Documentation
 > Learn
@@ -4045,7 +4060,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [melissa mcewen](https://medium.com/@melissamcewen/coders-should-fear-what-happened-to-writers-d87a895b03db) - (2017) Coders Should Fear What Happened To Writers | meaning only those in top coding jobs are rewarded well
 * [Lou Bichard](https://simpleprogrammer.com/overcoming-obstacles-stoic-mindset/) - (2018) Overcoming Programmer Career Obstacles With A Stoic Mindset
 * [Angela Stringfellow](https://stackify.com/devops-resume-mistakes/) - (2017) Mistakes to Avoid on Your DevOps Resume: Tips from 20 DevOps Leaders and Hiring Managers
-* [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication:
+* [Tim Ottinger](https://www.industriallogic.com/blog/behavior-driven-development/) - (2014) Avoid Rework Through Behavior-Driven Development | eXamples and features specification should be written in a formal way that is easily automated / increasing the signal-to-noise ratio in your communication
 * [Joshua Kerievsky](http://www.industriallogic.com/wp-content/uploads/2005/09/StopOverEngineering.pdf) - (2005) [PDF] (2002) Stop Over-Engineering!
 * [panic](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g2230a66ea4_136_9) - gallery of programmer interfaces (UIs)
 * [Joe Forshaw](https://www.joeforshaw.com/blog/message-oriented-programming) - (2017) Message-Oriented Programming
@@ -5866,6 +5881,7 @@ Raw
 * [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
 * [The Tarot Cards Of Tech](http://tarotcardsoftech.artefactgroup.com/) - Gaze into the future of your product and consider the impact of what we create | See also Ethics vs Technology, Black Mirror 
 * [James Conca](https://www.forbes.com/sites/jamesconca/2012/06/10/energys-deathprint-a-price-always-paid/#71ef4f07709b) - (2012) How Deadly Is Your Kilowatt? We Rank The Killer Energy Sources | It seems that Coal is way more harmful than Nuclear.
+* [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
