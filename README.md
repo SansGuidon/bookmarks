@@ -832,6 +832,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Tips
 * [Wikipedia](https://en.wikipedia.org/wiki/Box-drawing_character) - Box-drawing character | because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
 * [Bazyli Brzóska](https://invent.life/blog/on-organizing-projects-and-files/) - (2013) On organizing projects and files | TLDR : we shoudl use tags and we need more tools supporting them
+* [Christopher Laine](https://medium.com/it-dead-inside/ubiquitous-language-in-your-software-domain-1ff6df49ac8c) - (2019) Ubiquitous Language in your software domain | Defining your software domain’s language makes everything easier
 
 > Tools
 * [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
