@@ -2405,6 +2405,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 * [Boardgame Recommendations](https://larrydag.shinyapps.io/boardgame_reco/) - a board game recommendation engine built by larrydag 
 * [Board Game Finder](https://www.boardgamefinder.net/) - Discover your next board game in a few clicks.
+* [Board Games For Me](http://www.boardgamesfor.me/recommendations) - Find board game recommendations you'll love 
 
 ## Role-playing :dragon:
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
