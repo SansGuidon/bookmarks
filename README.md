@@ -1,4 +1,3 @@
-
 # Bookmarks :bookmark:
 > A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) resources for geeks and software crafters :beer:
 
@@ -5320,4 +5319,879 @@ Raw
 * [Changing minds](http://changingminds.org/techniques/questioning/5w1h.htm) - 5W1H - A simple set of question framings
 * [Changing minds](http://changingminds.org/techniques/questioning/socratic_questions.htm) - Socratic Questioning
 * [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
-* [Wikipedia](https://en.wikipedia.org/wiki/Curse_of_knowledge) - Curse of knowled
+* [Wikipedia](https://en.wikipedia.org/wiki/Curse_of_knowledge) - Curse of knowledge : a cognitive bias that occurs when someone assumes that the others have the same background to understand.
+* [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
+* [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
+* [Charles Chu](https://medium.com/the-polymath-project/our-clothes-can-change-who-we-are-dc89dbc1467c) - (2017) Our clothes can change who we are
+* [Yan-David Erlich](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - [Slides] (2017) Six page cheat-sheet for the book [Never Split the Difference, by Chris Voss](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
+* [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
+* [Farnam Street](https://www.fs.blog/2014/09/mistakes/) - (2014) Mistakes — It’s not the Failures that Define us so Much as How We Respond to Them
+* [Morgan Housel](http://www.collaborativefund.com/blog/conflicting-skill-sets/) - (2017) Conflicting Skill Sets
+* [Josh Archer](https://www.josharcher.uk/blog/motivation-is-dangerous/) - (2017) Motivation is dangerous | be disciplined
+* [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
+* [Kunal Shandilya](https://byrslf.co/what-happens-when-you-stop-trying-a0c26d93c95d) - (2017) What Happens When You Stop Trying?
+* [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
+* [Tiffanie Wen](http://www.bbc.com/capital/story/20170627-the-tricks-to-make-yourself-effortlessly-charming) - (2017) The tricks to make yourself effortlessly charming
+* [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
+* [Zdravko Cvijetic](https://medium.com/personal-growth/two-essential-principles-that-will-help-you-form-or-break-any-habit-73d3d7aa7692) - (2018) Two Principles That Will Help You Form Any Habit
+* [Wikipedia](https://en.wikipedia.org/wiki/Zeigarnik_effect) - the Zeigarnik effect states that people remember uncompleted or interrupted tasks better than completed tasks
+* [Dr. Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
+* [Teresa Amabile and Steven J. Kramer](https://hbr.org/2011/05/the-power-of-small-wins) - (2011) The Power of Small Wins | making progress in meaningful work | Managers can help employees see how their work is contributing.
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-what-the-hell-effect.php) - (2011) The What-The-Hell Effect | Goal-setting can be a handy way of improving performance, except when we fall foul of a nasty little side-effect.
+> the what-the-hell effect can be avoided by having longer-term goals and transforming inhibitional goals into acquisitional goals. e.g : Procrastinators can forget about their idling and concentrate on producing a certain amount of work each day
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/10/why-you-should-keep-your-goals-secret.php) - (2011) Why You Should Keep Your Goals Secret | Making a public commitment to your goals reduces motivation. the next time you read this widespread advice about publicly committing to a personal goal, ignore it.
+* [Tisha x](http://www.behindtheschmile.com/silent-successes-stop-sharing-your-goals/) - (2017) Silent Successes: Stop Sharing Your Goals!
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2008/09/how-to-improve-your-self-control.php) - (2008) How to Improve Your Self-Control | think in high-level, abstract terms demonstrated greater self-control
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2008/11/getting-big-projects-done-balancing.php) - (2008) Getting Big Projects Done: Balancing Task-Focus with Goal-Focus | keep the ultimate goal in mind, focus to succeeding on the individual task, ...
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/01/how-to-commit-to-a-goal.php) - (2011) How to Commit to a Goal | Reality check (Indulge, Dwell, Contrast)
+> People have a natural tendency to avoid decisions, preferring to stay in a fantasy land where the chance of failure is zero.
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/09/how-to-avoid-being-distracted-from-your-goals.php) - (2011) How to Avoid Being Distracted From Your Goals | Specific plans free the mind
+> Making plans helps free up mental space for whatever we are doing right now, allowing us to be more efficient in the long term.
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2009/01/how-to-avoid-procrastination-think.php) - (2009) How to Avoid Procrastination: Think Concrete | focus on task's details and use self-imposed deadlines. While working on it : keep the ultimate, abstract goal in mind. When it's hard, stay focused on details, when it get easier : choose a more abstract, goal focus
+* [Positive Psychology Program](https://positivepsychologyprogram.com/dacher-keltner-emotions-in-a-meaningful-life/) - (2016) Dacher Keltner: Emotions in a Meaningful Life
+* [Dacher Keltner](https://www.fs.blog/2018/03/dacher-keltner-power/) - (2018) [Podcast] Survival of the Kindest: Dacher Keltner Reveals the New Rules of Power | how to feel good with simple tricks + learn about high jen behaviors + empathy and positive influences
+* [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
+* [Farnam Street](https://www.fs.blog/2012/07/how-to-win-friends-and-influence-people/) - (2012) The Best Summary of Dale Carnegie's How to Win Friends and Influence People
+* [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
+* [Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle) - Hype Cycle : a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
+* [Jo Meenen](https://www.cutemachine.com/the-art-of-non-conformity-book-summary/) - The Art Of Non-Conformity Book Summary
+* [Tuck Sleep](https://www.tuck.com/memory-and-sleep/) - (2017) Memory and Sleep | How Does Sleep Affect Your Short and Long Term Memory
+* [Derek Sivers](https://sivers.org/ff) - (2010) [Video] First Follower: Leadership Lessons from a Dancing Guy | a Lesson of leadership
+* [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
+* [Gretchen Rubin](https://www.realsimple.com/health/mind-mood/emotional-health/things-can-happy-next-minutes) - 9 Things You Can Do to Be Happy in the Next 30 Minutes
+* [Libby Sander](http://www.bbc.com/capital/story/20180718-open-offices-make-people-talk-less-and-email-more) - (2018) Open offices make people talk less and email more
+* [Cee-Enneagramme](http://www.cee-enneagramme.eu/enneagramme/les-9-types/) - Les 9 types
+* [Eclectic Energies](https://www.eclecticenergies.com/francais/enneagramme/type1) - Type de l'Ennéagramme 1 - Le Réformateur.
+* [Eclectic Energies](https://www.eclecticenergies.com/francais/enneagramme/introduction) - Introduction à l'ennéagramme
+* [Robert Greene, Joost Elffers](http://www.elffers.com/low/start/index2.html) - The 48 Laws of Power
+* [Alicia Liu](https://blog.navapbc.com/when-it-comes-to-feedback-start-with-yourself-801684120cca) - (2018) When It Comes to Feedback, Start with Yourself. Changing yourself leads to change in others. | Leadership
+* [Joshua Becker](https://www.becomingminimalist.com/science-happiness/) - (2018) Want to Lead a Happy Life? Science Says to Focus on These 10 Things
+* [The Life Coach School](https://thelifecoachschool.com/podcasts/) - podcasts by Brooke Castillo
+* [Change ma vie](https://changemavie.com/episodes) - [FR] :fr: le podcast qui vous donne des outils pour votre esprit. par Clotilde Dusoulier
+* [HelpGuide](https://www.helpguide.org/articles/anxiety/how-to-stop-worrying.htm) - (2018) How to Stop Worrying | Self-Help Tips for Anxiety Relief. **Via** [Google](https://www.google.com/search?q=anxiety+worry&ie=utf-8&oe=utf-8&client=firefox-b-ab) - Anxiety & Worry
+* [Caroline Beaton](https://www.forbes.com/sites/carolinebeaton/2016/10/23/the-psychology-of-professional-purpose-how-to-follow-your-calling/#37a8e436c68d) - (2016) The Psychology Of Professional Purpose: How To Follow Your Calling
+> A calling is feeling that the work “has to be done.” It connects us to something greater than ourselves. Duckworth explains, “The long days and evenings of toil … the sacrifice, all this is worth it because [our] efforts pay dividends to other people.”
+* [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
+* [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
+> don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
+* [Farnam Street](https://fs.blog/mental-models/) - (2018) Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)
+* [Andrew Scull](https://www.the-tls.co.uk/articles/public/what-is-empathy/) - (2018) What is empathy?
+* [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
+* [Bobby Duffy](http://perils.ipsos.com/slides/index.html) - [Slides] (2018) The Perils of Perception | the main reasons why we’re so often so wrong.
+* [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
+* [Get Mental Notes](http://www.getmentalnotes.com/cards) - 52 Principles x Your Imagination.
+* [Allan Richarz](https://www.citylab.com/transportation/2018/05/the-amazing-psychology-of-japanese-train-stations/560822/) - (2018) The Amazing Psychology of Japanese Train Stations
+
+# Robots
+* [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
+* [/r/Automate](https://www.reddit.com/r/Automate/) - automation & robots discussion on reddit
+* [/r/totallynotrobots](https://www.reddit.com/r/totallynotrobots/) - a place where ~~robots~~ humans share their thoughts (humor)
+* [/r/RobotNews](https://www.reddit.com/r/RobotNews/) - discussions and news about robotisation of society
+* [/r/shittyrobots](https://www.reddit.com/r/shittyrobots/) - useless, stupid, shitty funny robots
+* [Kurzgesagt](https://www.youtube.com/watch?v=WSKi8HfcxEk) - The Rise of the Machines – Why Automation is Different this Time
+* [Gojko Adzic](https://gojko.net/2017/03/15/automation-horribly-wrong.html) - (2017) When automation goes horribly wrong
+* [Humans vs Computers](https://leanpub.com/humansvscomputers) - a book about wrong assumptions, computer bugs, and people caught in between
+* [John D. Cook](https://www.johndcook.com/blog/2008/10/27/why-there-will-always-be-programmers/) - (2008) Why there will always be programmers
+* [Andrew McAfee](https://hbr.org/2014/07/the-kind-of-work-humans-still-do-better-than-robots) - (2014) The Kind of Work Humans Still Do Better Than Robots
+* [Dan Finnigan](https://hbr.org/2016/11/robots-and-automation-may-not-take-your-desk-job-after-all) - (2016) Robots and Automation May Not Take Your Desk Job After All
+* [Jeff Bradberry](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) - (2015) Introduction to Monte Carlo Tree Search
+* [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
+* [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
+* [Tim Wheeler](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/) - AlphaGo Zero - How and Why it Works
+* [Kevin Kelly](https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/) - (2017) The Myth of a Superhuman AI
+* [You Are Not So Smart](https://youarenotsosmart.com/2017/11/20/yanss-115-how-we-transferred-our-biases-into-our-machines-and-what-we-can-do-about-it/) - (2017) [Podcast] How we transferred our biases into our machines and what we can do about it
+* [Future of Life Institute](https://futureoflife.org/ai-principles/) - Asilomar AI Principles | Move over Asimov: 23 principles to make AI safe and ethical. Prominent members of Future of Life Institute include the likes of Stephen Hawking and Elon Musk
+* [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - (2017) [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Podcast](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456)
+* [Dave Gershgorn](https://qz.com/1146753/ai-is-now-so-complex-its-creators-cant-trust-why-it-makes-decisions/) - (2017) AI is now so complex its creators can’t trust why it makes decisions
+* [Carol Smith](https://www.slideshare.net/carologic/ai-and-machine-learning-demystified-by-carol-smith-at-midwest-ux-2017/45-AI_and_ML_Demystified_carologic) - (2017) AI and Machine Learning Demystified by Carol Smith at Midwest UX 2017
+* [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
+* [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence.
+* [Sarah Cooper](https://thecooperreview.com/how-to-be-seen-as-an-expert-in-artificial-intelligence/) - [Humor] How to Be Seen as an Expert in Artificial Intelligence
+* [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
+* [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - Artificial Intelligence (AI) courses, books, video lectures and papers.
+* [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
+* [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site for captcha haters
+* [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
+* [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
+* [Danny Hillis](https://www.catb.org/jargon/html/koans.html) - (2003) Some AI Koans
+* [Tim Hall](https://oracle-base.com/blog/2018/06/12/why-automation-matters-lost-time/) - (2018) Why Automation Matters : Lost Time
+* [Neil Patel](https://blog.hubspot.com/marketing/psychology-of-excitement) - (2015) The Psychology of Excitement: How to Better Engage Your Audience | marketing
+* [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
+* [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
+* [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity 
+
+# Shell scripting
+* [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
+* [Hacker Rank](https://www.hackerrank.com/domains/shell) - Linux Shell challenges, funny but nothing fancy
+* [Commandline Challenge](https://cmdchallenge.com/) - Linux Shell challenges
+* [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
+* [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make
+* :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
+* [Nicola Paolucci](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/) - (2015) Ten tips for wonderful bash productivity
+* [blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) - Mastering Bash and Terminal
+* [kvz.io](http://kvz.io/blog/2013/11/21/bash-best-practices/) - (2013) Best Practices for Writing Bash Scripts
+* :star: [**Aaron Zauner/community_bash_style_guide**](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide. Discovered via [DevHub](https://devhub.io/repos/azet-community_bash_style_guide)
+* [Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/) - 3 shell scripts to improve your writing
+* [Quickshiftin](https://quickshiftin.com/blog/2014/01/template-method-pattern-bash/) - (2014) Template method pattern in BASH
+* [Fahd Shariff](http://fahdshariff.blogspot.be/2013/10/shell-scripting-best-practices.html) - (2013) Shell Scripting - Best Practices
+* [Fahd Shariff](http://fahdshariff.blogspot.be/2017/05/shell-scripting-and.html) - (2017) Shell Scripting: <, << and <<<
+* [Nitin Bhadauria](http://www.tothenew.com/blog/foolproof-your-bash-script-some-best-practices/) - Foolproof Your Bash Script – Some Best Practices
+* [David Pashley](http://www.davidpashley.com/articles/writing-robust-shell-scripts/) - Writing Robust Bash Shell Scripts
+* [Paul Armstrong](https://google.github.io/styleguide/shell.xml) - Shell Style Guide by Google
+* :star: [**Aaron Maxwell**](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - Use the Unofficial Bash Strict Mode (Unless You Looove Debugging). **Bonus** : [some bash tips when dealing with bash strict mode](https://gist.github.com/Integralist/0fc25edb5d9ceeae74cc)
+* [Aaron Maxwell](http://redsymbol.net/articles/bash-exit-traps/) - How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable
+* [Ray Smith](http://assets.en.oreilly.com/1/event/12/Shell%20Scripting%20Craftsmanship%20Presentation%201.pdf) - [PDF] Shell Scripting Craftsmanship
+* [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - (2008) Common shell script mistakes
+* [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - (2014) Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
+* [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
+* :star: [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
+* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3015657/linux/changing-how-bash-behaves.html) - Changing how bash behaves
+* [FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting) - Bash tips: Colors and formatting
+* [SS64.com](https://ss64.com/bash/) - An A-Z Index of the Bash command line for Linux.
+* [SS64.com](https://ss64.com/bash/syntax-keyboard.html) - Bash Keyboard Shortcuts
+* [Marvin Pinto](https://disjoint.ca/til/2016/05/17/how-to-determine-the-file-size-of-a-remote-http-object/) - (2016) How to determine the file size of a remote HTTP object
+* [Vitaly Belman](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019) - My favorite command-line utilities / How I stopped worrying about GUI and learned to love the terminal
+* [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
+* [LZone](http://lzone.de/cheat-sheet/Bash) - Bash Cheat Sheet
+* [LZone](http://lzone.de/cheat-sheet/Bash%20Regex) - Bash Regex Cheat Sheet
+* [Vivek Gite](https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html) - zcommands: Read gzip Compressed Text Files On a Fly
+* [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
+* [Eric Pement](http://www.pement.org/sed/sed1line.txt) - useful one-liners for sed. [FR version](http://sed.sourceforge.net/sed1line_fr.html)
+* [raidzero/dotfiles](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
+* [Rich Felker](http://www.etalabs.net/sh_tricks.html) - Rich’s sh (POSIX shell) tricks
+* [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - (2015) Bash monitoring tips - watch * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - (2015) Bash monitoring tips - watch * [Justyna Ilczuk](http://tinystruggles.com/2015/03/22/bash-monitoring-tips.html) - Bash monitoring tips - watch & tee tee tee
+* [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
+* [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
+* [Eric Wendelin](https://www.eriwen.com/tools/grep-is-a-beautiful-tool/) - grep is a beautiful tool
+* [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+* [Sam Rowe](http://samrowe.com/wordpress/advancing-in-the-bash-shell/) - Advancing in the Bash Shell
+* [nojhan/Liquid Prompt](https://github.com/nojhan/liquidprompt) - a useful adaptive prompt for Bash & zsh
+* [Boris Huisgen](https://blog.hbis.fr) - [FR] :fr: various and interesting linux / sysadmin / devops tips & tricks with command line examples
+* [Andy Ray](https://andrewray.me/bash-prompt-builder/) - Online Bash Prompt Builder for Git / Hg / SVN
+* [Matthieu Parisot](http://blog.wescale.fr/2016/04/07/bash-pro-tips/) - (2016) [FR] :fr: Bash Pro Tips for logs / errors handling etc.
+* [Journal du hacker](https://www.journalduhacker.net/t/lignes%20de%20commande/) - [FR] :fr: tips & tricks with command line examples
+* :star: [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+* [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
+* [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
+* :star: [**Kfir Lavi**](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - (2012) Defensive BASH Programming
+* [GreyCat](http://mywiki.wooledge.org/BashWeaknesses) - BashWeaknesses : There are certain things BASH is not very good at.
+* [GNU](http://www.gnu.org/software/autoconf/manual/autoconf.html#Portable-Shell) - Portable Shell Programming
+* [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
+* [Ask Ubuntu](https://askubuntu.com/questions/45521/how-to-navigate-long-commands-faster) - How to navigate long commands faster?
+* [Whitson Gordon](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts) - Become a Command Line Ninja With These Time-Saving Shortcuts
+* [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
+* [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
+* [PowerShell commands](https://ss64.com/ps/) - A-Z of windows powershell commands
+* [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - script to automate tasks on a fresh windows 10 / windows server 2016
+* [PowerShellScripts.com](http://powershellscripts.com/) - some scripts, tutoriels for powershell. Warning : some dead links here
+* [JeffOps](http://jeffwouters.nl/) - The Scripting dutchman : lot of scripts and tips for powershell
+* [PSScriptAnalyzer](https://www.powershellgallery.com/packages/PSScriptAnalyzer/) -  provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
+* [Eric Pement](http://www.pement.org/awk/awk_sed.txt) - (2001) Comparing similar operations with sed and awk
+* [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash + some tips
+* [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
+* [Fred Hébert](https://ferd.ca/awk-in-20-minutes.html) - Awk in 20 Minutes
+* [GreyCat](http://mywiki.wooledge.org/BashFAQ/082) - Why is $(...) preferred over `...` (backticks)?
+* [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
+* [GreyCat's Wiki](http://mywiki.wooledge.org/BashFAQ) - BASH Frequently Asked Questions
+* [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide) - BASH Guide
+* [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices for people doing Unix shell scripting or system administration
+* [Ian Miell](https://github.com/ianmiell/learn-bash-the-hard-way/blob/master/learnbashthehardway.pdf) - [PDF] Learn Bash The Hard Way
+* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
+* [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
+* [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps
+* [blue.penguin](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/) - (2016) Bash scripting tutorial: A coding style guideline
+* [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools
+* [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - list of Terminal frameworks, plugins & resources for CLI lovers
+* [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
+* [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go. **Bonus** : [website](https://neugram.io)
+* [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands
+* [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+* [Alan Franzoni](https://www.franzoni.eu/shell-scripting-when-to-use-the-long-or-the-shor/) - (2017) Shell scripting: short or long format options?
+* [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-01-18-mkcd.html) - (2013) use mkcd (mkdir + cd)
+* [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+* [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - collection of simplified and community-driven man pages.
+* [accatyyc/tldr-man](https://github.com/accatyyc/tldr-man) - A Makefile that creates manpages from all the [tldr-pages/tldr](https://github.com/tldr-pages/tldr).
+* [Pádraig Brady](http://www.pixelbeat.org/docs/unix-parallel-tools.html) - (2017) Parallel processing with unix tools
+* [Pádraig Brady](http://www.pixelbeat.org/docs/terminal_colours/) - (2008) Terminal colour highlights | usages and tips for colours in terminals
+* [Pádraig Brady](http://www.pixelbeat.org/docs/unix_file_replacement.html) - (2010) File replacement on UNIX | some tips for this tricky operation
+* [LinuxCommand.org](http://www.linuxcommand.org/) - An excellent place to learn the command line and Bash shell scripting.
+* [Heiner's SHELLdorado](http://www.shelldorado.com/) - your UNIX shell scripting resource | a shell scripting education site. **Bonus** : [Commands](http://www.shelldorado.com/scripts/commands.html) + [Links](http://www.shelldorado.com/links/)
+* [SHELLdorado](http://www.shelldorado.com/articles/ignorantsguide.html) - The Ignorant's Guide to Shell Programming
+* [GNU](https://www.gnu.org/software/bash/manual/bash.html) - Bash Reference Manual
+* [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/nonportable) - portable vs non portable BASH specific syntax
+* [bats-core/bats-core](https://github.com/bats-core/bats-core) : Bats is a [TAP](https://testanything.org/)-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. **Bonus** : see also the original [sstephenson/bats](https://github.com/sstephenson/bats)
+* [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
+* [Bhaskar Karambelkar](https://dev.to/bhaskar_vk/bash-shell-tricks) - (2017) Bash Shell Tricks
+* [Chris Hermansen](https://opensource.com/article/18/1/two-great-uses-cp-command-update) - (2018) Two great uses for the cp command: Bash shortcuts
+* [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
+* [Eric Pement](http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
+* [Kevin van Zonneveld](https://kvz.io/blog/2013/11/21/bash-best-practices/) - (2013) Best Practices for Writing Bash Scripts
+* [BASH3 Boilerplate (or b3bp)](http://bash3boilerplate.sh/) - Templates to write better Bash scripts **Bonus** : [Github Repo](https://github.com/kvz/bash3boilerplate)
+* [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
+* [Tom Ryder](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt) - Emperor Sh and the Traveller  "Don't do it in shell"
+* [Tom Ryder](https://sanctum.geek.nz/arabesque/shell-from-vi/) - (2017) Shell from vi
+* [Kevin Marquette](https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/) - (2017) Powershell: Building a Module, one microstep at a time
+* [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
+* :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
+* [GreyCat's Wiki](https://mywiki.wooledge.org/Quotes) - quoting in shell programming
+* [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right! Collection of Best practices acquired from experience for Bash
+* [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
+* [Vivek Gite](https://www.cyberciti.biz/faq/linuxunix-move-file-starting-with-a-dash/) - (2010) Linux/UNIX: Move File Starting With A Dash
+* [Ian Miell](https://zwischenzugs.com/2018/10/12/eleven-bash-tips-you-might-want-to-know/) - (2018) Eleven bash Tips You Might Want to Know
+* [Jakub Koziol](https://pragmaticcoders.com/blog/bash-tips-and-tricks/) - (2018) Bash tips & tricks: good and not-so-good bash practices
+* [Bazyli Brzóska](https://invent.life/project/bash-infinity-framework) - (2015) Bash Infinity Framework
+* [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
+
+## Shell Aliases
+* [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
+* [Vivek Gite](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) - 30 Handy Bash Shell Aliases For Linux / Unix / Mac OS X
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3121790/linux/making-troubleshooting-with-lsof-easier.html) - Unix tips: Making troubleshooting with lsof easier. See also [Unix commands: Troubleshooting with lsof](http://www.computerworld.com/article/3119775/linux/troubleshooting-with-lsof.html)
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3085495/linux/unix-aliases-for-good-and-evil.html) - Unix aliases for good and evil
+* [tcnksm/docker-alias](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases for zsh
+* [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - (2014) Useful Docker Bash Functions And Aliases
+
+# Security / Infosec
+> News
+* [CloudPassage Blog](https://blog.cloudpassage.com/) - insights for a unsecure world / news & tips on protecting critical assets
+* [Security Now!](https://www.grc.com/securitynow.htm) - weekly audio security column & podcast by Steve Gibson and Leo Laporte
+
+> Learn
+* [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - Penetration Testing Tools Cheat Sheet
+* [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
+* [IT Security Blog](http://blog.feedspot.com/information_security_blogs) - Top 100 Information Security Blogs for Data Security Professionals
+* [Max Veytsman](https://dev.to/appcanary/should-you-encrypt-or-compress-first) - Should you encrypt or compress first?
+* [pentestmonkey](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Reverse Shell Cheat Sheet
+* [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - (2011) Basic Linux Privilege Escalation
+* [Unhide](http://www.unhide-forensics.info/) - open source forensic tool to find hidden processes
+* [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist
+* [Jacob Appelbaum/ioerror/duraconf](https://github.com/ioerror/duraconf) - duraconf : A collection of hardened configuration files for SSL/TLS services
+* [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
+* [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
+* [/r/netsec](https://www.reddit.com/r/netsec/) - network security on reddit
+* [/r/blackhat](https://www.reddit.com/r/blackhat/) - hackers on steroid
+* [/r/crypto](https://www.reddit.com/r/crypto/) - cryptography news and discussions
+* [/r/codes](https://www.reddit.com/r/codes/) - Hiding data, cracking codes, finding hidden messages
+* [/r/security](https://www.reddit.com/r/security/) - security news on reddit
+* [Stack Exchange](https://security.stackexchange.com/) - Information Security Stack Exchange
+* [DiabloHorn](https://diablohorn.com/) - a site for people attempting to understand security
+* [/r/opsec](https://www.reddit.com/r/opsec/) - opsec, to learn about proper habits and policies for minimizing attack surfaces and SPOF
+* [/r/OperationsSecurity](https://www.reddit.com/r/OperationsSecurity/) - Operations security news, resources, questions & discussions
+* [/r/websec](https://www.reddit.com/r/websec/) - Web security
+* [/r/compsec](https://www.reddit.com/r/compsec/) - computer security
+* [/r/NSALeaks](https://www.reddit.com/r/NSALeaks/) - everything about NSA leaks, news from Edward Snowden or governmental abuses
+* [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
+* [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - various awesome lists for hackers, pentesters and security researchers
+* [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - awesome-security : resources and cools stuffs about security.
+* [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
+* [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
+* [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
+* [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
+* [Geek Flare](https://geekflare.com/category/security/) - general security articles, tips & tools
+* [SecurityHQ on Slack](https://securityhq.herokuapp.com/) - Security professionals and newbies
+* [Offensive Security](https://www.exploit-db.com/google-hacking-database/) - Google Hacking Database (GHDB) Your Home for "googledorks"
+* [conzu](http://www.conzu.de/en/google-dork-liste-2018-conzu/) - Google Hacks (dork list). Similar lists by [hardikdobariya](https://fr.scribd.com/document/185683271/EthicalHacking1-Com-Google-Hacking-Dork-List)
+* [Julian Alexander Murillo](https://gist.github.com/64lines/248492a02a50c536903f) - Google tricks / dorks
+* [Offensive Security](https://www.exploit-db.com/shellcode/) - Archived Shellcode for various Operating Systems and Architectures
+* [Offensive Security](https://www.exploit-db.com/browse/) - exploits database
+* [berzerk0 (Ben)/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - 5+ Billion Passwords in Order of Most Popular... is yours in the list ?
+* [sgoedecke](https://sgoedecke.github.io/blockchain-for-beginners/) - A dead simple introduction to the blockchain (with ~90 line JavaScript demo)
+* [SSL247](https://www.ssl247.fr/kb/ssl-certificates/generalinformation/what-is-rsa-dsa-ecc) - What is RSA, DSA and ECC?
+* [James McGivern](https://fr.slideshare.net/JamesMcGivern/ecc-vs-rsa-battle-of-the-cryptoninjas) - (Devoxx UK 2014) [Slides] ECC vs RSA: Battle of the Crypto-Ninjas
+* [PortForward](https://portforward.com/router-password/) - The most comprehensive default router password list on the Internet.
+* [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. can be self hosted
+* [Maarten Billemont](http://masterpasswordapp.com/) - Master Password, a password generator algorithm to remove the need of password managers.
+* [AV-TEST](https://www.av-test.org/en/antivirus/) - Antivirus test results on Mobile devices (Android), Windows, Mac
+* [AV-Comparatives](https://www.av-comparatives.org/) - independent tests of antivirus softwares
+* [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
+* [Jotti](https://virusscan.jotti.org/) - online virus scanner
+* [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions
+* [DiabloHorn](https://diablohorn.com/2015/09/04/discovering-the-secrets-of-a-pageant-minidump/) - (2015) Discovering the secrets of a pageant minidump
+* [Aaron Toponce, Thomas H. Ptacek, ...](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a) - Cryptographic Best practices
+* [Ethical Hacking Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
+* [Patrik Hudak](https://blog.sweepatic.com/art-of-subdomain-enumeration/) - the art of subdomain enumeration
+* [COMODO CA](https://crt.sh/) - crt.sh : Certificate search online for any domain
+* [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
+* [Ethical Hacking Tools](https://pentest-tools.com/home) - online penetration testing tools
+* [Vincent Yiu/RedTips](https://github.com/vysec/RedTips) - Red Team Tips
+* [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
+* [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices
+* [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
+* [Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos) - [Videos] Introduction to Cryptography
+* [Shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
+* [Aloria](https://securityreactions.tumblr.com/) - Infosec Reactions
+* [Johannes Gilger](https://heipei.github.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/) - (2015) SSH Agent Forwarding considered harmful
+* [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
+* :star: [**Vivek Gite**](https://www.cyberciti.biz/tips/linux-security.html) - (2017) 40 Linux Server Hardening Security Tips
+* [Passive Aggressive Passwords](http://www.trypap.com/) - [Humor] The Passive Aggressive Password Machine
+* [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
+* [Aptive](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - guide for SSL / TLS penetration testing
+* [Computer Science Department at FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) - Offensive Computer Security Course with Lecture / Videos / Slides / Reading
+* [Walter Goulet](http://blog.securism.com/2009/01/summarizing-pki-certificate-validation/) - (2009) Summarizing PKI certificate validation
+* [Walter Goulet](http://blog.securism.com/2013/02/using-a-hsm-doesnt-automatically-make-you-more-secure/) - (2013) Using a HSM doesn't automatically make you more 'secure'
+* [Daniel Miessler](https://danielmiessler.com/blog/security-how-to-monitor-your-network-connections/) - Security: How To Monitor Your Network Connections
+* [Daniel Miessler](https://danielmiessler.com/projects/webappsec_testing_resources/) - Web Application Security Testing Resources
+* [Daniel Miessler](https://danielmiessler.com/blog/professional-firewall-iptables/) - Building a Professional Firewall with Linux and Iptables
+* [Daniel Miessler](https://danielmiessler.com/blog/putting-ssh-another-port-good-idea/) - Why Putting SSH On Another Port is a Good Idea
+* [Daniel Miessler](https://danielmiessler.com/blog/security-and-obscurity-does-changing-your-ssh-port-lower-your-risk/) - Security and Obscurity: Does Changing Your SSH Port Lower Your Risk
+* [Daniel Miessler](https://danielmiessler.com/study/security-by-obscurity/) - Obscurity is a Valid Security Layer
+* [Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/) - Information Security Interview Questions
+* [Daniel Miessler](https://danielmiessler.com/blog/10-essential-firefox-plugins-for-the-infosec-professional/) - 10 Essential Firefox Plugins for the Infosec Professional
+* [Daniel Miessler](https://danielmiessler.com/study/infosecconcepts/) - Information Security Concepts
+* [Daniel Miessler](https://danielmiessler.com/study/information-security-metrics/) - An Information Security Metrics Primer
+* [Daniel Miessler](https://danielmiessler.com/study/security-assessment-types/) - Information Security Assessment Types
+* [Daniel Miessler](https://danielmiessler.com/study/multi-dimensional-vulnerability-hierarchies/) - Multi-dimensional Vulnerability Hierarchies
+* [Dan Walsh](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/) - (2016) Secure Your Containers with this One Weird Trick
+* [Daniel J Walsh](https://opensource.com/business/13/11/selinux-policy-guide) - Your visual how-to guide for SELinux policy enforcement
+* [Dan Walsh](http://www.projectatomic.io/blog/2015/08/why-we-dont-let-non-root-users-run-docker-in-centos-fedora-or-rhel/) - (2015) Why we don't let non-root users run Docker in CentOS, Fedora, or RHEL
+* [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
+* [Javin Paul](http://javarevisited.blogspot.be/2012/05/best-practices-while-dealing-with.html?m=1) - (2012) Best Practices while dealing with Password in Java
+* [Google](https://www.youtube.com/watch?v=d90Ov6QM1jE) - [Video] How Google Protects Its Corporate Security Perimeter without Firewalls / Very interesting insight into Google's BeyondCorp Zero Trust Network.
+* [Google Security Blog](https://security.googleblog.com/) - latest news and insights from Google on security and safety on the Internet
+* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist
+* [OWASP](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet) - OWASP Top Ten Cheat Sheet
+* [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
+* [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
+* [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
+* [stribika](https://stribika.github.io/2015/01/04/secure-secure-shell.html) - (2015) Secure Secure Shell
+* [Gert van Dijk](https://blog.g3rt.nl/upgrade-your-ssh-keys.html) - Upgrade your SSH keys!
+* [Asankhaya Sharma](https://www.linkedin.com/pulse/how-can-you-ensure-your-open-source-components-secure-sharma/) - (2016) How can you ensure that your open source components are secure?
+* [Julien Pivotto](https://fr.slideshare.net/roidelapluie/enhance-openssh-for-fun-and-security) - (2015) Enhance OpenSSH for fun and security
+* [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - A curated list of SSH resources.
+* [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - list of awesome social engineering resources
+* [George Bolo](https://linuxctl.com/2017/03/building-tiny-secure-docker-containers/) - (2017) Building Tiny Secure Docker Containers
+* [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
+* [Erez Yaary](https://techbeacon.com/how-secure-container-lifecycle) - (2017) How to secure the container lifecycle
+* [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-02-11-avoid-committing-your-password.html) - (2013) git tip: avoid committing your password
+* [Aris Adamantiadis](https://blog.0xbadc0de.be/archives/300) - (2016) SSH: Best practices
+* [Dan Pollock](http://someonewhocares.org/hosts/) - the host file you need to make the internet not suck (as much)
+* [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - list of cryptography resources and links.
+* [Steven J. Vaughan-Nichols ](http://www.zdnet.com/article/linus-linux-torvalds-gives-security-developers-guidance/) - Linus 'Linux' Torvalds gives security developers guidance
+* [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
+* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
+* [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+* [CoreOS Blog](https://coreos.com/blog/vulnerability-analysis-for-containers.html) - Clair: Open Source Vulnerability Analysis for your Containers
+* [jessfraz/bane](https://github.com/jessfraz/bane) - AppArmor profile generator for Docker containers.
+* [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
+* [Diogo Mónica](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/) - (2017) Why you shouldn't use ENV variables for secret data
+* [Laurens Van Houtven](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html) - (2015) Don't expose the Docker socket (not even to a container)
+* [Laurens Van Houtven](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels. **Bonus** : [GitHub repo](https://github.com/crypto101/book)
+* [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Team / Red Teaming Resources
+* [Lesley Carhart](https://tisiphone.net/2017/11/27/the-infosec-introvert-travel-blog/) - (2017) The Infosec Introvert Travel Blog
+* [Hybrid Analysis](https://www.hybrid-analysis.com/) - free automated malware analysis service
+* [National Vulnerability Database (NVD)](https://nvd.nist.gov/) - U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). Enables automation of vulnerability management, security measurement, and compliance.
+* [David Gilbertson](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) - (2018) I’m harvesting credit card numbers and passwords from your site. Here’s how.
+> If an attacker successfully injects any code at all, it’s pretty much game over
+* [Michael Kwaku Aboagye](https://opensource.com/article/18/1/securing-linux-filesystem-tripwire) - (2018) Securing the Linux filesystem with Tripwire
+* [Ian Maddox](https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html) - (2018) 12 best practices for user account, authorization and password management
+* [Evan Klein](https://blog.openshift.com/container-vulnerability-management-opssight/) - (2018) Container Vulnerability Management with OpsSight
+* [David Appelbaum](https://blog.cloudpassage.com/2018/01/02/2018-docker-containers-need-secure/) - (2018) It’s 2018 and your Docker containers need to be secure
+* [Cliff Turner](https://blog.cloudpassage.com/2018/02/01/10-tips-will-ensure-containers-compliant/) - (2018) These 10 tips will ensure your containers are compliant
+* [Cliff Turner](https://blog.cloudpassage.com/2017/12/07/common-misconfiguration-mistakes/) - (2017) Do you know the most common software and application misconfiguration mistakes?
+* [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
+* [Coda Hale](https://codahale.com/how-to-safely-store-a-password/) - (2010) How To Safely Store A Password | "In which I recommend bcrypt."
+* [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
+* [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
+* [OverTheWire](https://overthewire.org/wargames/) - Wargames : help you to learn and practice security concepts in the form of fun-filled games
+* [Matt Behrens](https://spin.atomicobject.com/2017/02/06/security-hygiene/) - (2017) Security Hygiene for Software Professionals
+* [CVE security vulnerabilities](https://www.cvedetails.com/vulnerability-list.php?vendor_id=15865&product_id=34004&version_id=0&page=1&hasexp=0&opdos=0&opec=0&opov=0&opcsrf=0&opgpriv=0&opsqli=0&opxss=0&opdirt=0&opmemc=0&ophttprs=0&opbyp=0&opfileinc=0&opginf=0&cvssscoremin=6&cvssscoremax=0&year=0&month=0&cweid=0&order=1&trc=29&sha=972b519195a324e211440860f0337f2d75a9aad6) - Jenkins : List of security vulnerabilities
+* [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys key
+* [Armon Dadgar](https://www.hashicorp.com/blog/why-we-need-dynamic-secrets) - (2018) Why We Need Dynamic Secrets | how applications do a terrible job keeping secrets, and why we need to embrace ephemeral credentials, or "Dynamic Secrets" in Vault.
+* [Julian Cohen](https://medium.com/@HockeyInJune/secure-engineering-guidelines-3b8845ac3265) - (2017) Secure Engineering Guidelines | Some best practices for building and trusting software.
+* [Anna Kennedy](https://sysadvent.blogspot.be/2017/12/day-22-building-secure-bastion-host-or.html) - (2017) Building a secure bastion host, or, 50 ways to kill your server. **Bonus** : [Slides](https://www.slideshare.net/AnnaKennedy11/building-a-secure-bastion-or-50-ways-to-kill-your-server-81551575)
+* [Patrick Cable](https://sysadvent.blogspot.be/2017/12/day-4-this-christmas-build-your-own-pki.html) - (2017) This Christmas, build your own PKI
+* [ezekg/git-hound](https://github.com/ezekg/git-hound) -  Git plugin that prevents sensitive data from being committed.
+* [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+* [Jamie Maguire](https://www.devteam.space/blog/aws-top-10-security-tips/) - (2018) AWS Top 10 Security Tips
+* [Biarity](https://biarity.gitlab.io/2018/02/23/passwordless/) - (2018) An argument for passwordless | consider alternatives to password authentication
+* [Armon Dadgar](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) - [Podcast] (2017) SE-Radio Episode 311: Armon Dadgar on Secrets Management
+* [Fred Blaise](https://modernciso.com/2018/02/21/secrets-management-for-security-and-speed/) - (2018) Secrets Management for Security and Speed
+* [Matrix.org Blog](https://matrix.org/blog/home/) - An open network for secure, decentralized communication.
+* [Slack](https://a.slack-edge.com/4c1ae/img/security_ent/Security_White_Paper.pdf) - [PDF] Slack’s approach to security
+* [COMODO Certificate Search](https://crt.sh/)
+* [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
+* [Hak5](https://www.hak5.org/blog/15-second-password-hack-mr-robot-style) - (2016) 15 Second Password Hack, Mr Robot Style : Pilfering Passwords with the USB Rubber Ducky
+* [WonderHowTo](https://null-byte.wonderhowto.com/how-to/mr-robot-hacks/) - Mr. Robot Hacks how-to's
+* [Boris Serebrov](https://serebrov.github.io/html/2018-01-11-aws-ec2-ssh-tunnel.html) - (2018) SSH Tunnels | on AWS, EC2 and SSH tunnels
+* [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
+* [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
+* [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
+* [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
+* [Amar Kulo](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/) - (2017) Integrating database of pwned password hashes with Microsoft AD
+* [Russell Brandom](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin) - (2017) This is why you shouldn’t use texts for 2FA / two-factor authentication
+* [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
+* [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
+* [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
+* [Apache Docs](https://httpd.apache.org/docs/2.4/en/misc/security_tips.html) - Security Tips for Apache HTTP server
+* [Daniel Aleksandersen](https://www.ctrl.blog/entry/migrating-to-bitwarden) - (2018) Why I migrated from LastPass to Bitwarden
+* [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
+* [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
+* [Information Security Stack Exchange](https://security.stackexchange.com/questions/51512/why-pull-upgrade-from-production-server-rather-pushing-them-from-development-ser) - Why pull upgrade from production server rather pushing them from development server?
+* [Information Security Stack Exchange](https://security.stackexchange.com/questions/162273/password-manager-or-two-actor-authentication) - Password manager or two -actor authentication
+* [Yukinoshita47/Yuki-Chan-The-Auto-Pentest](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest) - an Automated Penetration Testing tool this tool will auditing all standard security test method for you.
+* [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
+* [Vivek Gite](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html) - (2018) Top 20 OpenSSH Server Best Security Practices
+* [DEV](https://dev.to/ben/what-are-some-fundamentals-of-security-every-developer-should-understand-3ki3) - What are some fundamentals of security every developer should understand?
+* [The Password Meter](http://www.passwordmeter.com/) - assess the strength of password strings.
+* [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
+* [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
+* [Mark Ramm](https://www.weave.works/blog/managing-secrets-in-kubernetes) - (2019) Managing Secrets in Kubernetes
+* [toniblyx/prowler](https://github.com/toniblyx/prowler) - Tool for assessing AWS Security Best Practices, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+90). **Bonus** : [Official CIS for AWS guide]( https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
+* [Mike Malone](https://smallstep.com/blog/everything-pki.html) - (2018) Everything you should know about certificates and PKI but are too afraid to ask
+* [SecurityTrails](https://securitytrails.com/blog/google-hacking-techniques) - (2019) Exploring Google Hacking Techniques
+
+## GPG
+* [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
+* [Riseup!](https://riseup.net/fr/security/message-security/openpgp/gpg-keys) - [FR] :fr: Gestion des clés OpenPGP
+* [Riseup!](https://riseup.net/fr/security/message-security/openpgp/best-practices) - [FR] :fr: Bonnes pratiques pour l'utilisation d'OpenPGP
+* [Jacob Appelbaum/ioerror/duraconf](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) - Example of hardened GPG config file from duraconf
+* [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/) - GNU Privacy Guard Manual
+* [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). Discovered via [Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
+* [Nitin Venkatesh](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - PGP and SSH keys - Generate, export, backup and restore
+* [GnuPG Docs](https://www.gnupg.org/gph/en/manual/book1.html) - (1999) The GNU Privacy Handbook
+* [/r/GnuPG](https://www.reddit.com/r/GnuPG/) - resources on everything about GnuPG, PGP, OpenPGP
+* [/r/pgp](https://www.reddit.com/r/pgp/) - everything about PGP
+* [/r/GPGpractice](https://www.reddit.com/r/GPGpractice/) - community of people learning GPG (Gnu Privacy Guard).
+* [Saraev Nikita](https://www.reddit.com/r/GnuPG/comments/47f23m/gnupg_with_32kb_rsa_keys/) - GnuPG with 32kb RSA keys
+* [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
+* [Anita Buehrle](https://www.weave.works/blog/continuous-security-for-gitops) - (2019) Continuous Security for GitOps
+
+## OpenSSL
+* [ZyTrax](http://www.zytrax.com/tech/survival/ssl.html) - Survival guides - TLS/SSL and SSL (X.509) Certificates
+* [LZone](http://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
+* [Remy van Elst](https://raymii.org/s/tutorials/Encrypt_and_decrypt_files_to_public_keys_via_the_OpenSSL_Command_Line.html) - Encrypt and decrypt files to public keys via the OpenSSL Command Line
+* [LinuxConfig](https://linuxconfig.org/using-openssl-to-encrypt-messages-and-files-on-linux) - Using OpenSSL to encrypt messages and files on Linux
+* [Tom Dryer](http://tombuntu.com/index.php/2007/12/12/simple-file-encryption-with-openssl/) - (2007) Simple File Encryption with OpenSSL
+* [Stack Overflow](https://stackoverflow.com/a/31552829/2309958) - File encryption with OpenSSL and Why you should use GPG instead
+* [Chandan Kumar](https://geekflare.com/openssl-commands-certificates/) - 21 OpenSSL command examples
+* [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
+* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
+* [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
+* [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
+* [SSL Shopper](https://www.sslshopper.com/article-most-common-openssl-commands.html) - The Most Common OpenSSL Commands
+* [SSL Shopper](https://www.sslshopper.com/ssl-converter.html) - tools & commands examples for certificates format conversion
+* [Paul Heinlein](https://www.madboa.com/geek/openssl/) - OpenSSL cookbook / command-line howto
+* [Nick Burch](http://gagravarr.org/writing/openssl-certs/others.shtml) - howtos for installing other people's certificates
+* [Andrej](https://gist.github.com/4ndrej/4547029) - SSLPoke.java for quick validation of Java SSL configuration
+* [SSL Shopper](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html) - java keytool keystore cheatsheet
+* [Brusten Philip & Van der Velpen Jan](https://shib.kuleuven.be/docs/ssl_commands.shtml) - a few frequently used SSL commands (openssl, keytool, certutil)
+* [CheapSSLSecurity](https://cheapsslsecurity.com/blog/various-types-ssl-commands-keytool/) - SSL commands list
+* [DigiCert](https://www.digicert.com/ssl-support/pem-ssl-creation.htm) - .pem SSL creation instructions
+* [Arun GP](https://myonlineusb.wordpress.com/2011/06/19/what-are-the-differences-between-pem-der-p7bpkcs7-pfxpkcs12-certificates/) - (2011) differences between PEM, DER, P7B/PKCS#7, PFX/PKCS#12 certificates
+* [SSL Shopper](https://www.sslshopper.com/special-ssl-certificate-types.html) - Special Types of SSL Certificates
+* [DigiCert](https://www.digicert.com/ssl-support/apache-multiple-ssl-certificates-using-sni.htm) - Using Multiple SSL Certificates in Apache with One IP Address
+* [Deb Shinder](http://techgenix.com/SSL-Acceleration-Offloading-Security-Implications/) - SSL Acceleration and Offloading: What Are the Security Implications?
+* [Aptive](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - guide for SSL / TLS penetration testing
+* [University of Wisconsin KB](https://kb.wisc.edu/middleware/page.php?id=4064) - Verifying that a Private Key Matches a Certificate
+* [University of Wisconsin KB](https://kb.wisc.edu/middleware/page.php?id=4543) - Verifying that a Certificate is issued by a CA
+* [John Herbert](http://movingpackets.net/2015/03/18/telling-openssl-about-your-root-certificates/) - (2015) Telling OpenSSL About Your Root Certificates / for *Nix and OS X
+* [John Herbert](http://movingpackets.net/2015/03/16/five-essential-openssl-troubleshooting-commands) - (2015) Five Essential OpenSSL Troubleshooting Commands
+* [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] :fr: Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
+* [mdoehle](https://www.cheatography.com/mdoehle/cheat-sheets/pki-openssl/) - PKI / openSSL Cheat Sheet
+* [BogPeople](http://www.bogpeople.com/networking/openssl.shtml) - OpenSSL Cheat Sheet
+* [ThorneLabs](https://thornelabs.net/2014/05/18/openssl-commands-cheat-sheet.html) - (2014) OpenSSL Commands Cheat Sheet
+* [LZone](https://lzone.de/cheat-sheet/OpenSSL) - OpenSSL Cheat Sheet
+* [James Coyle](https://www.jamescoyle.net/cheat-sheets/1078-openssl-certificate-cheat-sheet) - OpenSSL Certificate Cheat Sheet
+* [Jamie Nguyen](https://jamielinux.com/docs/openssl-certificate-authority/) - OpenSSL Certificate Authority / a guide to demonstrate how to act as your own CA using OpenSSL
+* [German Jaber](https://blog.talpor.com/2015/07/ssltls-certificates-beginners-tutorial/) - (2015) SSL/TLS certificates beginner's tutorial
+* [George Bolo](https://linuxctl.com/2016/12/openssl---reference/) - (2016) OpenSSL - Reference
+* [George Bolo](https://linuxctl.com/2017/02/x509-certificate-manual-signature-verification/) - (2017) x509 Certificate Manual Signature Verification
+* [DigiCert SSL Certificate Checker](https://www.digicert.com/help/) - If you are having a problem with your SSL certificate installation, this diagnostic tool will help you locate the problem and verify your SSL Certificate installation.
+
+## Web
+* [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
+* [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
+* [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger - Block third party tracking in your browser
+* :star: [**Two Factor Auth (2FA)**](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
+* [chrome notifications settings](chrome://settings/content/notifications) open `chrome://settings/content/notifications` in Chrome to manage notifications exceptions
+* [Daniel Miessler](https://danielmiessler.com/study/http/) - A Security-focused HTTP Primer
+* [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
+* [Daniel Miessler](https://danielmiessler.com/blog/the-connected-web-why-its-time-for-strong-authentication/) - The Connected Web: Why It’s Time For Strong Authentication
+* [Frédéric Kayser](https://openweb.eu.org/articles/https-de-ssl-a-tls-1-3) - (2017) [FR] :fr: HTTPS : de SSL à TLS 1.3
+* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources.
+* [chrome site data settings](chrome://settings/siteData) open `chrome://settings/siteData`in Chrome to manage cookies / sites data
+* [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
+* [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
+* [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
+* [Faut-il HTTPS sur mon site ?](https://faut-il-https-sur-mon-site.fr/) - [FR] :fr: does your site require HTTPS ?
+* [DigiCert SSL Certificate Checker](https://www.digicert.com/help/) - If you are having a problem with your SSL certificate installation, this diagnostic tool will help you locate the problem and verify your SSL Certificate installation.
+
+# Society
+* [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
+* [Grise Bouille](https://grisebouille.net/ailleurs-cest-pire/) - [FR] :fr: Ailleurs, c’est pire
+* [Topito](https://twitter.com/topito_com/status/420918985870172161/photo/1) - (2014) [FR] :fr: [IMG] Plus fort que la pancarte de manif’ : le miroir
+* [Yves Miserey](http://www.lefigaro.fr/environnement/2012/05/25/01029-20120525ARTFIG00710-les-ogm-ont-perdu-la-guerre-contre-les-mauvaises-herbes.php) - (2012) [FR] :fr: Les OGM ont perdu la guerre contre les mauvaises herbes
+* [Le blog d'un odieux connard](https://odieuxconnard.files.wordpress.com/2014/01/extrc3aame-final-2.jpg) - (2014) [FR] :fr: [IMG] - Les Aventures Magiques de l'Extrême-Droite
+* [Horace Dediu](https://twitter.com/asymco/status/418845332349661184/photo/1) - (2014) [IMG] There are two types of people in the world. // using the Internet vs not using the Internet
+* [Cameron Power](https://twitter.com/cap0w/status/431176293590106112/photo/1) - (2014) [IMG] Wtf is wrong with this dude? What is he looking at? The world?
+* [Etienne Chouard](https://www.youtube.com/watch?v=oN5tdMSXWV8) - [FR] :fr: [Video] Chercher la cause des causes - TED // Questioning democracy / questionnement et remise en cause de la démocratie
+* [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/?id=1883) - (2010) [IMG] Why are there so few women in engineering / science ?
+* [Gizmodo](https://sploid.gizmodo.com/fascinating-graphic-shows-who-owns-all-the-major-brands-1599537576) - Fascinating graphics show who owns all the major brands in the world
+* [Clara Darko](https://www.youtube.com/watch?v=A1ZHl8qqg4A) - [Video] Movie montage of dystopian / utopias societies
+* [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
+* [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
+* [Dean Baker](https://www.politico.com/agenda/story/2017/10/25/doctors-salaries-pay-disparities-000557) - (2017) The problem of doctors’ salaries
+* [Daniel Miessler](https://danielmiessler.com/blog/new-luxury-good-information/) - (2017) The New Luxury of Having Good Information
+* [You Are Not So Smart](https://youarenotsosmart.com/category/articles/) - explore the ways you and everyone else tends to develop an undeserved confidence in human perception, motivation, and behavior. you’ll rediscover a humility and reconnect with the stumbling, fumbling community of man trying to make sense of things the best we can. The central theme of You Are Not So Smart is that you are unaware of how unaware you are.
+* [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
+* [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - (2017) [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Podcast](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456)
+* [Lee Rainie](https://www.slideshare.net/PewInternet/10-facts-about-jobs-in-the-future/9-5_People_express_more_worry) - (2017) 10 facts about jobs in the future
+* [AI Now Institute](https://ainowinstitute.org/) - an interdisciplinary research center dedicated to understanding the social implications of artificial intelligence.
+* [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
+* [Bloomberg](https://www.bloomberg.com/graphics/pessimists-guide-to-2018/) - (2017) The Pessimist's Guide to 2018
+* [Karl Jilg](https://twitter.com/voxdotcom/status/534731895930896384/photo/1) - (2014) [IMG] brilliant illustration shows how much public space we've surrendered to cars
+* [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
+* [umair haque](https://eand.co/the-dopamine-economy-336b239272ef) - (2017) The Dopamine Economy
+* [John B. Sparks](http://www.visualcapitalist.com/histomap/) - Histomap: Visualizing the 4,000 Year History of Global Power
+* [Atlas of Prejudice](https://atlasofprejudice.com/) - salacious political incorrectness and unconventional historical studies, with maps
+* [Yanko Tsvetkov](https://atlasofprejudice.com/tearing-europe-apart-10d01e876eab) - (2014) Tearing Europe Apart | 20 ways to break Europe. Did the laws of neuroscience shape European history?
+* [Sean Illing](https://www.vox.com/2017/12/20/16772670/baby-boomers-millennials-congress-debt) - (2017) How the baby boomers — not millennials — screwed America | “The boomers inherited a rich, dynamic country and have gradually bankrupted it."
+* [Joshua Rothman](https://www.newyorker.com/books/page-turner/a-new-history-of-the-second-world-war) - (2017) A New History of the Second World War
+* [The Huffington Post](http://highline.huffingtonpost.com/articles/en/poor-millennials/) - Millenials Are Screwed | Why millennials are facing the scariest financial future of any generation since the Great Depression.
+* [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
+* [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
+* [Matthew Yglesias](https://www.vox.com/2014/8/5/5970767/case-against-time-zones) - (2014) The case against time zones: They're impractical & outdated
+* [Charles Petzold](http://www.charlespetzold.com/blog/2015/07/De-Obfuscating-the-Statistics-of-Mass-Shootings.html) - (2015) De-Obfuscating the Statistics of Mass Shootings
+* [Mariel Bluteau](https://www.franceinter.fr/societe/nous-sommes-face-a-un-danger-comparable-a-celui-d-une-guerre-mondiale-sans-doute-meme-plus-grave-cyril-dion) - (2018) [FR] :fr: Psycho : comment expliquer le déni face au réchauffement climatique ?
+* [John Cleese](https://www.youtube.com/watch?v=wvVPdyYeaQU) - [Video] on Stupidity
+* [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html) - (2017) Just Following Orders | Reminder: Doing your job does not mean that you just follow orders. The courts are going to hold you to a high ethical standard, even if your employer does not.
+* [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
+* [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
+* [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
+* [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
+* [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
+* [The Tarot Cards Of Tech](http://tarotcardsoftech.artefactgroup.com/) - Gaze into the future of your product and consider the impact of what we create | See also Ethics vs Technology, Black Mirror 
+* [James Conca](https://www.forbes.com/sites/jamesconca/2012/06/10/energys-deathprint-a-price-always-paid/#71ef4f07709b) - (2012) How Deadly Is Your Kilowatt? We Rank The Killer Energy Sources | It seems that Coal is way more harmful than Nuclear.
+
+# Sports
+* [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
+* [OpenCycleMap](https://opencyclemap.org/) - :bicyclist: the OpenStreetMap Cycle Map
+* [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
+
+# Testing :ok_hand:
+* [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
+* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated
+* [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing
+* [Joe Colantonio](https://www.joecolantonio.com/2017/03/02/automation-testing/) - (2015) Automation Testing Resources & Best Practices
+* :star: [**Gregg Caines**](http://caines.ca/blog/2015/01/29/continuous-testing/) - (2015) Continuous Testing
+* [Andrew Wulf](http://thecodist.com/article/my_job_as_a_programmer_is_to_make_testers_miserable) - My Job As A Programmer Is To Make Testers Miserable
+* [Locust](http://locust.io/) - a modern open source load testing framework
+* [Gojko Adzic](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html) - (2016) Five ways to reduce the cost of large test suites
+* [aelsabbahy/goss](https://github.com/aelsabbahy/goss#installation) - goss : Quick and Easy server testing/validation
+* [aelsabbahy/dgoss-examples](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
+* [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
+* [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
+* [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - (2016) Test Driven Infrastructure with Goss
+* [metacloud/molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
+* [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
+* [Dan Tehranian](https://dantehranian.wordpress.com/2015/06/18/testing-ansible-roles-with-test-kitchen/) - (2015) Testing Ansible Roles with Test Kitchen
+* [Daniel Miessler](https://danielmiessler.com/projects/webappsec_testing_resources/) - Web Application Security Testing Resources
+* [Rusty Harold](https://www.youtube.com/watch?v=cjxXv0eifhY) - [Video] Testing Legacy Code Elliotte
+* [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing) - (2013) How the Usability Matrix of Emotions Can Benefit Your Software Testing
+* [Fabio Pereira](https://www.thoughtworks.com/insights/blog/introducing-software-testing-cupcake-anti-pattern) - (2014) Introducing the Software Testing Cupcake (Anti-Pattern)
+* [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Gremlins.js : JS monkey testing library that tests webapp robustness through random user actions
+* [J. B. Rainsberger](http://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam) - Integrated Tests Are A Scam
+* [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576) - "Worried that TDD will slow down your programmers? Don't. They probably need slowing down."
+* [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
+* [volanja/ansible_spec](https://github.com/volanja/ansible_spec) - a ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration (or TDD).
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - (2016) How I test Ansible configuration on 7 different OSes with Docker
+* [nickjj/RoleSpec](https://github.com/nickjj/rolespec) - A test library for testing Ansible roles
+* [Dennis Stevens](https://www.leadingagile.com/2013/09/stop-writing-code-cant-yet-test/) - (2013) Stop Writing Code You Can't Yet Test
+* [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+* [Stef Walter](http://stef.thewalter.net/git-coverage-useful-code-coverage.html) - (2012) git-coverage: Useful code coverage
+* [PaulWaltersDev/FreeLearningResourcesForSoftwareTesters](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - free Online Learning Resources for New and Experienced Software Testers.
+* [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+* [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
+* [James Routley](https://routley.io/tech/2017/07/20/golang-test-fixtures.html) - (2017) Simplify Golang test fixtures with this one weird trick
+* [Nemanja Mijailovic](https://mijailovic.net/2017/07/29/go-fuzz/) - (2017) Going down the rabbit hole with go-fuzz | testing techniques
+* [Principles of Chaos Engineering](http://principlesofchaos.org/)
+* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources
+* [bats-core/bats-core](https://github.com/bats-core/bats-core) : Bats is a [TAP](https://testanything.org/)-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. **Bonus** : see also the original [sstephenson/bats](https://github.com/sstephenson/bats)
+* [Test Anything Protocol (TAP)](https://testanything.org/) - a simple text-based interface between testing modules in a test harness, with implementations in C, C++, Python, PHP, Perl, Java, JavaScript, and others.
+* [Andy Zaidman](https://azaidman.wordpress.com/2017/05/10/is-testing-on-stackoverflow-dead/) - (2017) Is Testing (on StackOverflow) Dead?
+* [Dave Syer](https://spring.io/blog/2007/01/15/unit-testing-with-stubs-and-mocks/) - (2007) Unit Testing with Stubs and Mocks
+* [Maaike Brinkhof](http://blog.xebia.com/mapping-biases-to-testing-confirmation-bias/) - (2016) Mapping Biases to Testing: Confirmation Bias
+* [Caitie McCaffrey](https://queue.acm.org/detail.cfm?id=2889274) - (2016) The Verification of a Distributed System | A practitioner's guide to increasing confidence in system correctness
+* [Nathen Harvey](https://www.slideshare.net/nathenharvey/effective-testing-with-ansible-and-inspec) - (2018) Effective Testing with Ansible and InSpec
+* [Nathen Harvey](https://www.slideshare.net/nathenharvey/dev-opsdc-inspecworkshopslideshare) - (2017) Compliance Automation with InSpec
+* [Nathen Harvey](https://speakerdeck.com/nathenharvey/compliance-as-code) - (2017) Compliance as Code
+* [Sarah Mei](https://www.devmynd.com/blog/five-factor-testing/) - Five Factor Testing
+* [Christiaan Verwijs](https://blog.agilistic.nl/7-powerful-ways-to-get-feedback-from-users-in-scrum/) - 7 Powerful Ways To Get Feedback From Users (In Scrum)
+* [Scott Vokes](https://spin.atomicobject.com/2014/09/16/property-based-testing/) - (2014) Property-Based Testing | Testing Assumptions You Don’t Know You’re Making
+* [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/02/10/fail-fast-spend-less-time-in-root-cause-analysis/) - (2015) Fail fast, spend less time in root cause analysis
+* [Jakub Holý](https://theholyjava.wordpress.com/2016/03/04/dont-add-unnecessary-checks-to-your-code-pretty-please/) - (2016) Don’t add unnecessary checks to your code, pretty please!
+* [Robert Ecker](https://dev.to/teamcoder/the-problem-with-high-test-coverage-4dh) - (2017) The Problem With High Test Coverage
+* [PropEr Testing](http://propertesting.com/) - Fred Hébert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
+* [Anna Kennedy](http://annaken.github.io/testing-packer-builds-with-serverspec) - (2017) Testing Packer builds with Serverspec
+* [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight
+* [Michal Charemza](https://charemza.name/blog/posts/methodologies/testing/questions-to-ask-yourself-when-writing-tests/) - (2018) Questions to ask yourself when writing tests : Talk to yourself to make sure your tests help you achieve your aims
+* [Bill Wake](https://www.industriallogic.com/blog/multiple-asserts-are-ok/) - (2015) Multiple Asserts Are OK | Some people suggest we should restrict ourselves to a single assertion per test. Are multiple asserts in a test ever OK?
+* [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
+* [Stack Exchange](https://devops.stackexchange.com/questions/98/how-to-test-provisioning-and-configuration-in-ansible-setup) - (2017) How to test provisioning and configuration in Ansible setup? Solutions : Goss, Testinfra, Serverspec, Inspec
+* [aelsabbahy/goss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - dgoss is a convenience wrapper around goss that aims to bring the simplicity of goss to docker containers.
+* [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
+* [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
+* [JSONLint](https://jsonlint.com/) - JSON validator
+* [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
+* [Daniel Lebrero](https://labs.ig.com/code-coverage-100-percent-tragedy) - (2016) The tragedy of 100% code coverage
+* [Daniel Lebrero](https://danlebrero.com/2019/02/18/other-reasons-for-test-driven-development-baby-steps-roi-evil-manager-watching-the-watchmen/#content) - (2019) Other reasons for TDD: Baby steps, ROI, Evil Manager Syndrome and Watching the watchmen | Describing some reasons to do Test Driven Development that are rarely mentioned
+* [Kent C. Dodds](https://kentcdodds.com/blog/write-tests) - (2017) Write tests. Not too many. Mostly integration.
+
+# Transportation :train2: :oncoming_automobile:
+> Learn
+* [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX
+* [Karl Jilg](https://twitter.com/voxdotcom/status/534731895930896384/photo/1) - (2014) [IMG] brilliant illustration shows how much public space we've surrendered to cars
+* [Greg Rosalsky](https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/) - (2017) The Economics of the Office: Why Do We Still Commute?
+* [Allan Richarz](https://www.citylab.com/transportation/2018/05/the-amazing-psychology-of-japanese-train-stations/560822/) - (2018) The Amazing Psychology of Japanese Train Stations
+
+> Tools
+* [Train Map](https://trainmap.belgiantrain.be) - [BE] Show belgian train positions in realtime. Train positions are calculated based on timetables, real time info and prognoses. 
+
+# Travel :airplane:
+* [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
+* [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - allows you to compare your home country with different countries around the world.
+* [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
+
+# Troubleshooting
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
+* [Narad Shrestha](https://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/) - 12 Tcpdump Commands – A Network Sniffer Tool
+* [Edoceo](http://edoceo.com/cli/tcpdump) - tcpdump examples
+* [rationallyPARANOID](https://rationallyparanoid.com/articles/tcpdump.html) - Tcpdump usage examples
+* [Sebastien Wains](https://www.wains.be/pub/networking/tcpdump_advanced_filters.txt) - tcpdump advanced filters
+* [Ravi Saive](https://www.tecmint.com/20-netstat-commands-for-linux-network-management/) - 20 Netstat Commands for Linux Network Management
+* [Milosz Galazka](https://blog.sleeplessbeastie.eu/2013/10/31/how-to-deal-with-dmesg-timestamps/) - (2013) How to deal with dmesg timestamps
+* [Stack Exchange](https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted) - Find and remove large files that are open but have been deleted
+* :star: [**Phil Rzewski**](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/) - Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
+* [Steven Iveson](http://packetpushers.net/masterclass-tcpdump-interpreting-output/) - Masterclass – Tcpdump – Interpreting Output
+* [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
+* [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
+* [Daniel Miessler](https://danielmiessler.com/study/tcpdump/) - A tcpdump Tutorial and Primer with Examples
+* [Daniel Miessler](https://danielmiessler.com/study/tcpflags/) - How to Remember Your TCP Flags
+* [Working all day](http://workrobot.com/sysadmin/security/tcpdump_expressions.html) - TCPDUMP expressions
+* [Oleg Muravskiy](https://texnoblog.wordpress.com/2010/04/17/using-tcpdump/) - (2010) Using tcpdump to see HTTP requests and responses
+* [Steve Howard](http://appcrawler.com/wordpress/2012/08/01/tcpdump-to-see-oracle-errors/) - (2012) tcpdump to see Oracle errors
+* [SystemRescueCd](http://www.system-rescue-cd.org/) - a Linux system rescue disk available as a bootable CD-ROM or USB stick for fixing your system and data after a crash.
+* [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
+* [Vivek Gite](https://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) - 20 Examples: Make Sure Unix / Linux Configuration Files Are Free From Syntax Errors
+* [DataFire](https://datafire-repos.github.io/oblique-strategies/) - Oblique Strategies for Programmers : Random tips for building, debugging, and overcoming creative blocks.
+* :star: [**Adam Bertram**](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips) - 3 troubleshooting tips that can save you a world of time
+* [Julia Evans](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) - (2016) tcpdump is amazing
+* [Jeff Jones](http://outofmyhead.olssonandjones.com/2017/12/02/wget-cant-execute-ssl_helper/) - (2017) `wget: can't execute 'ssl_helper': No such file or directory wget: error getting response: Connection reset by peer` | error happening in alpine container 3.5.2. **Bonus** : seem to be as design... see [docker-library/busybox/issues/25](https://github.com/docker-library/busybox/issues/25)
+* [Ask Ubuntu on Stack Exchange](https://askubuntu.com/questions/631077/problem-with-deluge-no-incoming-connection) - Problem with Deluge: “no incoming connection!”
+* [Mike Swieton](https://spin.atomicobject.com/2018/01/27/debugging-complex-problems/) - (2018) Debugging a Complex Problem? Think Like an Epidemiologist
+* [Stack Overflow](https://stackoverflow.com/a/47965269/2309958) - Docker - Cannot remove dead container | `rm: cannot remove /var/lib/docker/overlay/<hash>/merged: Device or resource busy` Solution : grep <hash> /proc/*/mountinfo then find the pid of <hash> and kill it
+* [Brandon Sheffield](https://www.gamasutra.com/view/news/310570/Developers_share_their_most_memorable_dirty_coding_tricks.php) - (2017) Developers share their most memorable dirty coding tricks
+* [Dmitriy Samovskiy](http://www.somic.org/2011/09/30/complex-systems-generalists-and-specialists/) - (2011) Complex Systems: Generalists and Specialists | on diagnosing problems
+* [Benjamin Cane](https://bencane.com/2013/12/23/yum-plugins-verifying-packages-and-configurations-with-yum-verify/) - (2013) Yum Plugins: Verifying packages and configurations with Yum Verify
+* [Vivek Gite](https://www.cyberciti.biz/faq/linuxunix-move-file-starting-with-a-dash/) - (2010) Linux/UNIX: Move File Starting With A Dash
+* [Guillermo Garron](https://www.garron.me/en/linux/set-time-date-timezone-ntp-linux-shell-gnome-command-line.html) - (2012) Set Time, Date Timezone in Linux from Command Line or Gnome | Use ntp
+* [James Somers](http://jsomers.net/blog/gettiers) - (2019) The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
+* [Pradeep Kumar](https://www.linuxtechi.com/capture-analyze-packets-tcpdump-command-linux/) - (2018) How to capture and analyze packets with tcpdump command on Linux
+* [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
+
+# UX / UI
+> News
+* [Users Known](https://www.usersknow.com/podcast) - [Podcast] What Is Wrong with UX?
+
+> Learn
+* [Kevin Marks](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) - How the Web Became Unreadable
+* [Little Big Details](http://littlebigdetails.com/) - a curated collection of the finer details of design, updated every day.
+* [Christelle Mozzati](http://www.24joursdeweb.fr/2013/dark-patterns-design-interface/) - (2013) [FR] :fr: Les dark patterns en design d’interface
+* [Anthony Tseng](http://uxmovement.com/forms/9-small-user-experience-details-most-websites-miss/) - 9 Small User Experience Details Most Websites Miss
+* [Tom Lloyd](https://twitter.com/TomALloyd/status/441601100794585088/photo/1) - A good advice about the CV for Design students
+* [Luke Wroblewski](https://twitter.com/lukew/statuses/455742093839724544) - [IMG] Don't port your desktop UI to mobile. Optimize your UI for mobile.
+* [fireurgunz](https://www.youtube.com/watch?v=YdHTlUGN1zw) - (1957) [Video] Disney did use parallax long before web designers, it was called MultiPlane Camera
+* [Keith Clark](http://keithclark.co.uk/articles/pure-css-parallax-websites/) - (2014) Pure CSS Parallax Websites
+* [Rémi Parmentier](http://www.hteumeuleu.fr/attribut-srcset-images-responsive/) - (2014) [FR] :fr: L’attribut srcset pour des images responsive
+* [Zombidev](https://twitter.com/scottdavis99/statuses/524442305764552705) - "The web is just rectangles inside of rectangles..."
+* [Guillaume Gouessan](http://guillaumegouessan.com/talk/move/) - Making things move when you are a front-end developer / good animating advices
+* [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
+* [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
+* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document
+* [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y
+* [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
+* [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
+* [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+* [Connor John Gettel](https://medium.com/@connorgettel/masters-degree-final-major-project-part-2-theoretical-monzo-design-improvements-and-new-concepts-e6c652a1e3e5) - (2017) Master’s Degree Final Major Project: Theoretical Design Improvements and new Concepts — Monzo.
+* [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
+* [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
+* [UX Quotes](http://uxchoice.com/ux-quotes) - Tweetable quotes on User Experience / Design
+* [Laura Klein](https://www.usersknow.com/blog/2009/11/6-reasons-users-hate-your-new-feature.html) - (2009) 6 Reasons Users Hate Your New Feature
+* [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
+* [Christiaan Verwijs](https://blog.agilistic.nl/7-powerful-ways-to-get-feedback-from-users-in-scrum/) - 7 Powerful Ways To Get Feedback From Users (In Scrum)
+* [John Cutler](https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480) - (2018) We Can’t Do That In One Sprint
+* [Nick Babich](https://theblog.adobe.com/10-tips-develop-better-empathy-maps/) - (2018) 10 Tips to Develop Better Empathy Maps
+* [Moritz Arendt](https://www.getopensocial.com/blog/community-management/real-users-dont-read-manuals) - (2017) Real Users Don't Read Manuals
+* [Web Design Museum](https://www.webdesignmuseum.org/) - The museum exhibits over 900 carefully selected and sorted web sites that show web design trends between the years 1995 and 2005.
+* [Gordon Brander](http://gordonbrander.com/pattern/jack-principles/) - The Jack Principles of conversational UI.
+* [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
+
+## Design Humor
+* [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
+* [Jon Moore](https://medium.com/ux-power-tools/guilty-pleasures-for-designers-b34f2a3f604a) - Guilty Pleasures for Designers
+* [Christian Beck](https://medium.com/ux-power-tools/terrible-ux-trends-for-2017-de6faebf099e) - Terrible UX Trends for 2017
+* [Kamal Nayan](http://www.uxcuses.com/) - Designer Excuses, based on [Jon Moore' article on medium](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910)
+* [Bored Elon Musk](https://twitter.com/BoredElonMusk/statuses/412994747632857089) - Modern web design explained in a simple Venn Diagram
+* [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX
+
+# Web archive / nostalgia
+* :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* [Julia Geist](https://hackernoon.com/guide-to-handling-internet-archives-cdx-server-api-response-c469df5b81f4) - (2017) Guide to Handling Internet Archive’s CDX Server API Response. **Examples** : 
+ * `http://web.archive.org/cdx/search/cdx?limit=1&showResumeKey=true&url=<URL>`
+ * `https://archive.org/wayback/available?timestamp=19010101010101&url=<URL>`
+* [internetarchive/wayback](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server) - Wayback CDX Server API - BETA | The wayback-cdx-server is a standalone HTTP servlet that serves the index that the wayback machine uses to lookup captures.
+* [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
+
+> Some old links from my first times on the web
+* [Donjon de Naheulbeuk](http://www.penofchaos.com/warham/donjon.htm) - [FR] :fr: Podcast / Les premiers MP3 d'aventure
+* [Combattre-ou-Mourir](http://www.combattre-ou-mourir.com/) - [FR] :fr: CoM était un jeu par navigateur où 3 forces s'affrontent pour obtenir le contrôle de la planète.
+* [Quadd X mas](https://web.archive.org/web/20050209125208/http://www.quaddxmas.com:80/) - [FR] :fr: C'était un MMORPG et jeu de stratégie en php gratuit d'ambiance médiévale fantastique
+
+# Web development
+> News
+* [What Web Can Do Today](https://whatwebcando.today/) - Can I rely on the Web Platform features to build my app? An overview of the device integration HTML5 APIs
+
+> Learn
+* [Steve Francia](https://gohugo.io/overview/introduction/) - Hugo is a fast & modern static site generator
+* [Amanda Visconti](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) - Building a static website with Jekyll and GitHub Pages
+* [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
+* [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016?
+* [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze a website performance
+* [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
+* [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
+* [Broken Link Checker](http://www.brokenlinkcheck.com/broken-links.php#status) - Online Dead Link Checking Tool
+* :star: [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
+* [W3C](https://w3c.github.io/developers/tools/) - Various website validation tools
+* [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
+* [First Site Guide Blog](https://firstsiteguide.com/blog/) - articles, [infographics](https://firstsiteguide.com/category/infographics/), [cheatsheets](https://firstsiteguide.com/category/cheat-sheets/) about site/blog creation
+* [A List Apart](https://alistapart.com/) - explores the design, development, and meaning of web content, with a special focus on web standards and best practices.
+* [r/webdev](https://www.reddit.com/r/webdev/) - web development resources & news
+* [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
+* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
+* [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
+* [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
+* [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
+* [Rex Swain](http://www.rexswain.com/httpview.html) - HTTP Viewer : See exactly what an HTTP request returns to your browser
+* [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
+* [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
+* [Christian Haschek](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html) - (2017) How to defend your website with ZIP bombs
+* [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
+* [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
+* [Daniel Miessler](https://danielmiessler.com/study/url-uri/) - The Difference Between URLs and URIs
+* [Daniel Miessler](https://danielmiessler.com/study/dns/) - A DNS Primer
+* [Daniel Miessler](https://danielmiessler.com/study/encoding/) - An Encoding Primer
+* [Daniel Miessler](https://danielmiessler.com/study/http/) - A Security-focused HTTP Primer
+* [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
+* [Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - (2011) How Browsers Work: Behind the scenes of modern web browsers
+* [Kevin Marks](https://www.wired.com/2016/10/how-the-web-became-unreadable/) - (2016) How the Web Became Unreadable
+* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document
+* [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Check that your HTML code conforms to your coding standard
+* [gulpjs/gulp](https://github.com/gulpjs/gulp) - Gulp: The streaming build system
+* [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
+* [Maxime Thirouin](http://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - (2013) [FR] :fr: Automatisez votre workflow front-end
+* [Opquast](https://checklists.opquast.com/oqs-v3/) - [FR] :fr: reference check-list for web quality
+* [Opquast](https://checklists.opquast.com/fr/) - [FR] :fr: several check-lists for performance / SEO related to web & mobile development
+* [Clay](http://fvisser.nl/clay/) - is a CSS preprocessor like LESS and Sass, but implemented as an embedded domain specific language (EDSL) in Haskell.
+* [CSS Diner](http://flukeout.github.io/) - a game to improve your knowledge of CSS selectors
+* [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
+* [SEO'Brien](https://seobrien.com/writing-search-optimized-blog-posts) - (2011) Writing Search Optimized Blog Posts
+* [Matias Meno](http://www.colorglare.com/2014/11/24/stateless-html.html) - (2014) Stop writing stateful HTML
+* [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist
+* [Una Kravets](http://youmightnotneedjs.com/) - You Might Not Need JavaScript
+* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources.
+* [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
+* [REDbot](https://redbot.org/?) - checks HTTP resources to see how they'll behave, pointing out common problems and suggesting improvements.
+* [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
+* [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+* [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
+* [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
+* [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
+* [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
+* [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
+* [Steve Faulkner](http://html5doctor.com/html5-check-it-before-you-wreck-it-with-miketm-smith/) - (2014) HTML5 – Check it Before you Wreck it
+* [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
+* [Maxime Thirouin](https://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - :fr: [FR] (2013) Automatisez votre workflow front-end
+* [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
+* [Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - [Slides] (2014) Front-end Tooling Workflows | 198 slides on tools to help you stay productive on the front-end
+* [Nicolas Hoffmann, Elie Sloïm](https://openweb.eu.org/articles/le-cout-de-la-non-qualite-sur-le-web) - (2014) :fr: [FR] Le coût de la non-qualité sur le Web : 50%
+* [Karolina Szczur](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3) - (2017) The State of the Web | A guide to impactful performance improvements
+* [Vitaly Friedman](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/#front-end-performance-checklist-2017) - (2018) Front-End Performance Checklist 2018
+* [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
+* [The Front-End Checklist](https://frontendchecklist.io/) - perfect for modern websites and meticulous developers!
+* [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
+* [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps
+* [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
+* [Flavio Copes](https://flaviocopes.com/chrome-devtools-tips/) - (2018 A list of cool Chrome DevTools Tips and Tricks
+* [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
+* [What Does My Site Cost?](https://whatdoesmysitecost.com/) - Find out how much it costs for someone to use your site on mobile networks around the world.
+* [Amanda Sopkin](https://dev.to/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om) - (2018) Fantastic Personal Websites and How to Make Them | tips for good portfolio
+* [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) - Awesome Creative Portfolio Websites
+* [HTML5 Please](http://html5please.com/) - Use the new and shiny responsibly. | Look up HTML5, CSS3, etc features, know if they are ready for use, and if so find out how you should use them – with polyfills, fallbacks or as they are.
+* [Jack Lenox](https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance/) - (2019) How Improving Website Performance Can Help Save The Planet
+* [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
+
+# Windows
+* [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
+* [Chocolatey](https://chocolatey.org/packages) - All Packages for Chocolatey, the package manager for windows
+* [Rob Reynolds](https://puppet.com/blog/chocolatey-creating-your-own-chocolatey-packages) - Chocolatey: Creating your own Chocolatey packages
+* [Korben](https://korben.info/univers/windows) - [FR] :fr: Windows tips & tools
+* [Nir Sofer](http://www.nirsoft.net/utils/) - Nirsoft : lot of free tools & utilities for windows, free of malwares and developed over decades by Nir Sofer, who's not stopping [More info about that](http://www.nirsoft.net/about_nirsoft_freeware.html)
+* [Puppet Blog#Chocolatey](https://puppet.com/blog-tags/chocolatey) - Posts about Chocolatey
+* [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - curated list of best applications and tools for Windows.
+* [Awesome-Windows/awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - cool stuffs you can do with windows terminal
+* [WinAdmins on Slack](https://slofile.com/slack/winadmins) - Worldwide chat of Windows admins
+* [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
+* [Rackspace](https://support.rackspace.com/how-to/nslookup-checking-dns-records-on-windows/) - Check DNS records on Windows with nslookup
+* [Microsoft Docs](https://support.microsoft.com/en-gb/help/2696547/how-to-enable-and-disable-smbv1-smbv2-and-smbv3-in-windows-and-windows) - How to enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server
+* [Just Install](https://github.com/just-install/just-install) - The simple package installer for Windows. I didn't tried yet, but it seems a good alternative to Chocolatey, following KISS principle
+* [CMD commands](https://ss64.com/nt/) - A-Z of windows terminal commands
+* [PowerShell commands](https://ss64.com/ps/) - A-Z of windows powershell commands
+* [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - script to automate tasks on a fresh windows 10 / windows server 2016
+* [Steven J. Vaughan-Nichols](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/) - How to secure Windows 10: The paranoid's guide
+* [u/C-Ron](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) - [GUIDE] How to disable data logging in W10.
+* [babypunchingrampage](https://www.reddit.com/r/sysadmin/comments/4gqq6q/add_chocolatey_repo_to_windows_10/) - Add Chocolatey repo to Windows 10 PackageManagement and install apps using Install-Package!
+* [Jianyunt/ChocolateyGet](https://github.com/Jianyunt/ChocolateyGet) - a good provider of chocolatey packages for OneGet
+* [MoonPoint](http://support.moonpoint.com/network/proxy/putty/) - Using PuTTY to set up a SOCKS Proxy Connection
+* [MoonPoint](http://support.moonpoint.com/network/proxy/ie10-socks-proxy.php) - Configuring IE 10 to use an SSH SOCKS Proxy Server
+* [Calomel.org](https://calomel.org/samba_optimize.html) - Samba Optimizations and Speed Tuning for Performance
+* [PSScriptAnalyzer](https://www.powershellgallery.com/packages/PSScriptAnalyzer/) -  provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
+* [Pester](https://github.com/pester/Pester) - PowerShell BDD style testing framework
+* [PowerShellScripts.com](http://powershellscripts.com/) - some scripts, tutoriels for powershell. Warning : some dead links here
+* [JeffOps](http://jeffwouters.nl/) - The Scripting dutchman : lot of scripts and tips for powershell
+* :star: [**Eric Ravenscraft**](http://lifehacker.com/how-to-save-the-windows-10-lock-screen-images-you-like-1768783711) - How to Save the Windows 10 Lock Screen Images You Like
+* [Garrett Serack](https://blogs.technet.microsoft.com/packagemanagement/2015/05/05/10-things-about-oneget-that-are-completely-different-than-you-think/) - (2015) 10 things about OneGet that are completely different than you think.
+* [Craig Buckler](https://www.sitepoint.com/outlook-unblock-unsafe-attachments/) - How to Unblock Unsafe Attachments in Microsoft Outlook
+* [Boxstarter](http://boxstarter.org/) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/running-ansible-within-windows) - (2014) Running Ansible within Windows
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
+* [Jason Stewart](https://eggplant.pro/blog/faster-samba-smb-cifs-share-performance/) - Faster Samba (SMB / CIFS) Share Performance
+* [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
+* [coreight](http://coreight.com/content/logiciels-outils-indispensables-windows) - (2014) [FR] :fr: 8 logiciels à toujours garder sous la main sur Windows
+* [Pekka Väänänen](http://www.lofibucket.com/articles/dwm_latency.html) - (2017) Desktop compositing latency is real and it annoys me | about input latency on Windows 10 vs Windows 7
+* [Win flex-bison](https://sourceforge.net/projects/winflexbison/files/) - Win flex-bison is a port Flex & Bison tools to the Windows platform
+* [MorganGeek](cheat/windows-subsystem.md) - Windows Subsystem for Linux cheatsheet / tips
+* [jeffpatton1971/mod-posh](https://github.com/jeffpatton1971/mod-posh) - A collection of PowerShell scripts and script modules
+* [Amar Kulo](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/) - (2017) Integrating database of pwned password hashes with Microsoft AD
+* [Kevin Marquette](https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/) - (2017) Powershell: Building a Module, one microstep at a time
+* [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
+
+# Writing :pencil2:
+* [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
+* [Matt Stauffer](https://mattstauffer.com/blog/why-i-wrote-my-book-with-oreilly/) - (2016) Why I wrote my book with O'Reilly
+* [Carla King](http://mediashift.org/2014/04/indie-publishing-tools-for-small-press-and-author-co-ops/) - (2014) 6 Great Self-Publishing Tools for Small Press and Author Co-Ops
+* [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
+* [Della Anjeh aka Black Queen of Tech](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9) - (2017) How to Write Awesome Tech Specs
+* [Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/) - (2018) My Writing Process
+* [Jeff Goins](https://goinswriter.com/how-to-write-a-book/) - (2014) How to Write a Book: The 5-Draft Method
+* [Jeff Goins](https://goinswriter.com/tips-writing-book/) - (2012) 10 Ridiculously Simple Steps for Writing a Book
+* [Ben Watson](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/) - (2014) Tips for Writing a Programming Book
+* [Michael Foord](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - (2009) Writing a Technical Book | IronPython in Action with Manning Publications
+* [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
+* [Charles Petzold](http://www.charlespetzold.com/blog/2007/10/081247.html) - (2007) Hard Work, No Pay: What's the Point? | Charles Petzold on writing books, reading books, and exercising the internal UTM
+> Of Course Writing Books is Hard! But that's what makes it fun and rewarding! You really shouldn't try to write a book unless you have a fire in your belly. If you have that fire, then nothing that Jeff Atword or I can say will discourage you.
+* [Scott W. Ambler](http://www.ambysoft.com/books/bookWriting.html) - (2006) How to Write a Technical Book
+* [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
+* [Ada Nduka Oyom](https://dev.to/kolokodess/on-becoming-a-technical-writer-318e) - (2018) On Becoming a Technical Writer
+* [Wikipedia](https://en.wikipedia.org/wiki/Box-drawing_character) - Box-drawing character | because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
