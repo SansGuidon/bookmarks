@@ -2201,6 +2201,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts : The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
 * [TorrentSeeker](https://search.torrents.io) - is a powerful torrent search combining results from dozens of torrent sites
+* [Abbreviations.com](https://www.abbreviations.com/) - The Web's largest and most authoritative acronyms and abbreviations resource
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -3692,6 +3693,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > A proper treatment of the human element requires the human to be the focus
 * [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
 * [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
+* [Abbreviations.com](https://www.abbreviations.com/) - The Web's largest and most authoritative acronyms and abbreviations resource
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
