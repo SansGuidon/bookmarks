@@ -306,6 +306,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Amanda Sopkin](https://dev.to/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om) - (2018) Fantastic Personal Websites and How to Make Them | tips for good portfolio
 * [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) - Awesome Creative Portfolio Websites
 * [Anne Quito](https://qz.com/quartzy/1381916/drawing-is-the-best-way-to-learn-even-if-youre-no-leonardo-da-vinci/) - (2018) Drawing is the best way to learn, even if you’re no Leonardo da Vinci
+* [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -847,6 +848,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [John D. Cook](https://www.johndcook.com/blog/2009/04/22/being-indispensable/) - (2009) Do you really want to be indispensable?
 * [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
 * [Hubert Sablonnière](https://www.youtube.com/watch?v=T6YJlaY0Dpw) - (2017) [Video] :fr: [FR] Documentation as Code (expliqué à mon père) | DevFest Nantes 2017 | about AsciiDoc, KISS, DRY, Quality, Collaboration
+* [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
 
 > Tips
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
