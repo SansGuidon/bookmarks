@@ -5235,6 +5235,7 @@ Raw
 * [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 * [Raivat Shah](https://towardsdatascience.com/understanding-python-virtual-environments-7ccf690320d7) - (2019) Understanding Python Virtual Environments
 * [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
+* [Murtaza Gulamali](https://thoughtbot.com/blog/how-to-manage-your-python-projects-with-pipenv) - (2017) How to manage your Python projects with Pipenv
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
