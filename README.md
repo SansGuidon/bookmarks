@@ -4448,6 +4448,7 @@ Containers, Clouds and Lean Business
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 * [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/03/14/big-data-technology-and-the-responsibility-shift/) - (2015) NoSQL and the responsibility shift | about data quality
+* [Dzmitry Plashchynski](https://medium.com/@plashchynski/postgresql-upgrade-on-centos-4c0ddd2f8687) - (2016) PostgreSQL upgrade on CentOS | applicable to all Red Hat family (RHEL/CentOS/SL/OL 7) and to all PostgreSQL 9.* versions.
 
 ## Debugging
 * [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - (2010) How to Debug C Program using gdb in 6 Simple Steps
