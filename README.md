@@ -2929,6 +2929,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Wesley Moore](http://bitcannon.net/post/finding-an-alternative-to-mac-os-x/) - Finding an Alternative to Mac OS X
 * [Kevin Burke](https://kev.inburke.com/kevin/install-homebrew-go/) - Make your Go Binaries Homebrew Installable
 * [Rich Trouton](https://derflounder.wordpress.com/2014/02/16/managing-the-authorization-database-in-os-x-mavericks/) - (2014) Managing the Authorization Database in OS X Mavericks | and probably for later versions too
+* [Yubico Support](https://support.yubico.com/support/solutions/articles/15000015045-macos-logon-tool-configuration-guide) - macOS Logon Tool Configuration Guide : Enable Yubico 2FA at macOs login screen and for screensaver
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
@@ -5776,6 +5777,7 @@ Raw
 * [toniblyx/prowler](https://github.com/toniblyx/prowler) - Tool for assessing AWS Security Best Practices, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+90). **Bonus** : [Official CIS for AWS guide]( https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
 * [Mike Malone](https://smallstep.com/blog/everything-pki.html) - (2018) Everything you should know about certificates and PKI but are too afraid to ask
 * [SecurityTrails](https://securitytrails.com/blog/google-hacking-techniques) - (2019) Exploring Google Hacking Techniques
+* [Yubico Support](https://support.yubico.com/support/solutions/articles/15000015045-macos-logon-tool-configuration-guide) - macOS Logon Tool Configuration Guide : Enable Yubico 2FA at macOs login screen and for screensaver
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
