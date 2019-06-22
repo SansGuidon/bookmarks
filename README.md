@@ -1358,7 +1358,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Pierre Baillet](http://blog.ippon.tech/ansible-tips-and-tricks/) - 10 Ansible tips and tricks
 * [Timothy Appnel, James Martin](https://www.redhat.com/en/about/videos/ansible-best-practices-startups-enterprises) - [Video] Ansible best practices for startups to enterprises
 * [Ansible Galaxy](https://galaxy.ansible.com/list#/roles?page=1&page_size=10) - Ansible Galaxy Roles
-* [Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - (2017) Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
+* [C.J. Scarlett aka Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - (2017) Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
 * [Ansible](https://www.ansible.com/blog/ansible-performance-tuning) - Ansible Performance Tuning (for Fun and Profit)
 * [Ansible Docs](http://docs.ansible.com/ansible/playbooks_filters.html) - Jinja2 Filters
 * [Jinja2 Docs](http://jinja.pocoo.org/docs/dev/templates/#builtin-filters) - Templates and Builtin filters
@@ -1455,6 +1455,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ansible](https://www.ansible.com/resources/videos/ansiblefest-london-2017) - [Videos] (2017) AnsibleFest London Videos
 * [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
 * [Kat Dober](https://blog.newrelic.com/engineering/ansible-best-practices-guide/) - (2018) New to Ansible? Check Out Our Best Practices Guide
+* [C.J. Scarlett aka Scarlz](https://www.tricksofthetrades.net/2017/10/02/ansible-local-playbooks/) - (2017) Ansible - Local Playbook Execution
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -1589,7 +1590,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Brian DeHamer](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - [Slides] (2015) Optimizing Docker Images
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Csaba Palfi](https://csabapalfi.github.io/random-docker-tips/) - (2014) 24 random docker tips
-* [Scarlz](http://www.tricksofthetrades.net/2016/03/14/docker-data-volumes/) - (2016) Tricks of the Trades : Docker - Data Volumes and Data Containers
+* [C.J. Scarlett aka Scarlz](http://www.tricksofthetrades.net/2016/03/14/docker-data-volumes/) - (2016) Tricks of the Trades : Docker - Data Volumes and Data Containers
 * [Deni Bertovic](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/) - Handling Permissions with Docker Volumes
 * [Docker Docs](https://docs.docker.com/engine/swarm/secrets/) - Manage sensitive data with Docker secrets
 * [tcnksm/docker-alias](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases
