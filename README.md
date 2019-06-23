@@ -5782,6 +5782,7 @@ Raw
 * [OSXDaily](http://osxdaily.com/2017/11/22/use-touch-id-sudo-mac/) - (2017) How to Use Touch ID to Authenticate sudo on Mac OS
 * [USB-Dongle Authentication](https://www.dongleauth.info/) - List of websites and whether or not they support One Time Passwords (OTP) or Web Authentication (WebAuthn) respectively FIDO2, U2F. **Bonus** : [Github repository](https://github.com/Nitrokey/dongleauth)
 * [Two Factor Auth (2FA) Dongles](https://www.dongleauth.info/dongles/) - List of 2FA dongle providers and the platforms they support. **Bonus** : [Github repository](https://github.com/Nitrokey/dongleauth)
+* :star: [**Two Factor Auth (2FA)**](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
