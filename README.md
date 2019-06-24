@@ -1458,6 +1458,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
 * [Kat Dober](https://blog.newrelic.com/engineering/ansible-best-practices-guide/) - (2018) New to Ansible? Check Out Our Best Practices Guide
 * [C.J. Scarlett aka Scarlz](https://www.tricksofthetrades.net/2017/10/02/ansible-local-playbooks/) - (2017) Ansible - Local Playbook Execution
+* [Matt Jaynes](https://hvops.com/articles/ansible-vs-shell-scripts/) - (2019) Shell Scripts vs Ansible: Fight!
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
@@ -5605,6 +5606,7 @@ Raw
 * [Bazyli Brzóska](https://invent.life/project/bash-infinity-framework) - (2015) Bash Infinity Framework
 * [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
 * [Ian Miell](https://zwischenzugs.com/2019/05/11/seven-surprising-bash-variables/) - (2019) Seven Surprising Bash Variables
+* [Matt Jaynes](https://hvops.com/articles/ansible-vs-shell-scripts/) - (2019) Shell Scripts vs Ansible: Fight!
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
