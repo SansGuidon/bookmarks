@@ -84,6 +84,7 @@ Be the first to support me : [![Say Thanks!][img-saythanks]][saythanks] [![Buy m
 * [Mac](#mac)
   * [Code signing](#code-signing)
 * [Manga](#manga)
+* [Math](#math)
 * [Movies](#movies)
 * [Music :notes:](#music-notes)
 * [Networking](#networking)
@@ -2951,6 +2952,15 @@ A small group of programmers wants to change how we code—before catastrophe st
 # Manga
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
 
+# Math
+* [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
+* [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
+* [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : * [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
+* [Philippe Shiu](https://twitter.com/PhilipsShiu/statuses/448760592405241856) - [IMG] math students tip
+* [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
+* [Sandra Henry-Stocker](http://www.computerworld.com/article/2974753/linux/doing-math-with-awk.html) - Doing math with awk
+* [BetterExplained](https://betterexplained.com/) - Math lessons that click | Finally understand math, don't memorize it.
+
 # Movies
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
@@ -4442,8 +4452,10 @@ Containers, Clouds and Lean Business
 * [Cormac Flanagan](https://classes.soe.ucsc.edu/cmps203/Winter11/08-axiomatic.ppt.pdf) - (2003) [Slides] [PDF] Axiomatic Semantics
 * [Ranjit Jhala](https://cseweb.ucsd.edu/classes/wi10/cse230/lectures/lec5.pdf) - (2010) [PDF] Axiomatic Semantics
 * [Ken Slonneger](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/Chapter11.pdf) - Axiomatic Semantics
-* [Operational semantics](https://en.wikipedia.org/wiki/Operational_semantics) - is a category of formal programming language semantics in which certain desired properties of a program, such as correctness, safety or security, are verified by constructing proofs from logical statements about its execution and procedures, rather than by attaching mathematical meanings to its terms (denotational semantics). 
+* [Operational semantics](https://en.wikipedia.org/wiki/Operational_semantics) - is a category of formal programming language semantics in which certain desired properties of a program, such as correctness, safety or security, are verified by constructing proofs from logical statements about its execution and procedures, rather than by attaching mathematical meanings to its terms (denotational semantics).
 * [Caitie McCaffrey](https://queue.acm.org/detail.cfm?id=2889274) - (2016) The Verification of a Distributed System | A practitioner's guide to increasing confidence in system correctness
+* [Literate programming](http://www.literateprogramming.com/) - is a programming paradigm introduced by Donald Knuth in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated.
+* [Literate programming links](http://www.literateprogramming.com/links.html) - articles about literate programming
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
