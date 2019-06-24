@@ -2383,6 +2383,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search. 
 * [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
 * [CICR Tool](https://www.ipaddressguide.com/cidr) - IP Range To CIDR / CIDR to IP Range
+* [Meta Tags](https://metatags.io/) - is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
  
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
