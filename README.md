@@ -126,7 +126,7 @@ Be the first to support me : [![Say Thanks!][img-saythanks]][saythanks] [![Buy m
   * [Lisp](#lisp)
   * [Machine learning](#machine-learning)
   * [Mobile development](#mobile-development-iphone)
-  * [Productivity](#productivity-1)
+  * [Productivity](#productivity)
   * [Programmer humor](#programmer-humor)
   * [Prolog](#prolog)
   * [Python](#python)
