@@ -5604,6 +5604,7 @@ Raw
 * [Jakub Koziol](https://pragmaticcoders.com/blog/bash-tips-and-tricks/) - (2018) Bash tips & tricks: good and not-so-good bash practices
 * [Bazyli Brzóska](https://invent.life/project/bash-infinity-framework) - (2015) Bash Infinity Framework
 * [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
+* [Ian Miell](https://zwischenzugs.com/2019/05/11/seven-surprising-bash-variables/) - (2019) Seven Surprising Bash Variables
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
