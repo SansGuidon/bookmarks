@@ -807,6 +807,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [David R. MacIver](https://www.drmaciver.com/2019/05/how-to-do-hard-things/) - (2019) How to do hard things
 * [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wardley map](https://en.wikipedia.org/wiki/Wardley_map)
 * [Bryan Cantrill](http://dtrace.org/blogs/bmc/2018/10/05/assessing-software-engineering-candidates/) - (2018) Assessing software engineering candidates
+* [Raph Lee](https://lob.com/blog/understand-design-build-a-framework-for-problem-solving) - (2019) Understand, Design, Build: A Framework for Problem-Solving
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -4227,6 +4228,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [Slow Programming](https://slowprogramming.com/) - Programming has become a pursuit of profit over personal knowledge. The craft of programming has developed into a rapid rush to the finish line via bootcamps and brief tutorials.
 * [Derek Sivers](https://sivers.org/slow) - (2016) I’m a very slow thinker
 * [Dan Milstein](http://blog.hut8labs.com/coding-fast-and-slow.html) - (2013) Coding, Fast and Slow: Developers and the Psychology of Overconfidence | about inability of developers to predict how long a project will take.
+* [Raph Lee](https://lob.com/blog/understand-design-build-a-framework-for-problem-solving) - (2019) Understand, Design, Build: A Framework for Problem-Solving
 
 ## Clean code
 > News
