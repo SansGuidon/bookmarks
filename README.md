@@ -325,6 +325,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Quora](https://www.quora.com/What-is-a-good-website-for-free-books) - What is a good website for free books?
 * [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
 * [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
+* [Andy Matuschak](https://andymatuschak.org/books/) - (2019) Why books don’t work
+> Picture some serious non-fiction tomes. The Selfish Gene; Thinking, Fast and Slow; Guns, Germs, and Steel; etc. Have you ever had a book like this—one you’d read—come up in conversation, only to discover that you’d absorbed what amounts to a few sentences?
 
 > Complete books
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
@@ -2961,6 +2963,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [arXiv.org](https://arxiv.org/) - Cornell University library : e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2974753/linux/doing-math-with-awk.html) - Doing math with awk
 * [BetterExplained](https://betterexplained.com/) - Math lessons that click | Finally understand math, don't memorize it.
+* [Khan Academy Long-term Research](https://early.khanacademy.org/early-math/) - Playful worlds of creative math: a design exploration
+> how might we help more kids experience what math lovers experience?
 
 # Movies
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
