@@ -4141,6 +4141,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 > and many others...
 * [Jakub Holý](https://blog.jakubholy.net/craft/) - Craft : About the craft of software development and why it matters. **Bonus** : Archive of previous version about code quality only ; [Code (And Design) Quality And Why Should We Care.](https://web.archive.org/web/20170606194333/http://Theholyjava.wordpress.com/code-quality/)
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
+* [Literate programming](http://www.literateprogramming.com/) - is a programming paradigm introduced by Donald Knuth in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated.
+* [Literate programming links](http://www.literateprogramming.com/links.html) - articles about literate programming
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4396,6 +4398,8 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [Anton Babenko](https://fosdem.org/2019/schedule/event/terraform_best_practices/) - [Videos] (2019) Codifying infrastructure with Terraform for the future | be aware of principles related to management of Terraform resources, Terraform modules best-practices and some CI/CD principles applicable to infrastructure management and deployments.
 * [Matej Jellus](https://juffalow.com/other/write-good-git-commit-message) - (2018) Write good git commit message
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
+* [Literate programming](http://www.literateprogramming.com/) - is a programming paradigm introduced by Donald Knuth in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated.
+* [Literate programming links](http://www.literateprogramming.com/links.html) - articles about literate programming
 
 ## Conferences
 > In Belgium
