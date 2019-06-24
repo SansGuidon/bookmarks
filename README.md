@@ -126,7 +126,7 @@ Be the first to support me : [![Say Thanks!][img-saythanks]][saythanks] [![Buy m
   * [Lisp](#lisp)
   * [Machine learning](#machine-learning)
   * [Mobile development](#mobile-development-iphone)
-  * [Productivity](#productivity)
+  * [Productivity](#productivity-computer)
   * [Programmer humor](#programmer-humor)
   * [Prolog](#prolog)
   * [Python](#python)
@@ -4877,7 +4877,7 @@ Raw
 * [The Android Arsenal](https://android-arsenal.com/) - inventory / categorized directory of libraries and tools for Android
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 
-## Productivity
+## Productivity :computer:
 > News
 * [Itamar Turner-Trauring](https://codewithoutrules.com/productivity/) - Become more productive ; articles about being more productive as programmer without necessarily working longer hours
 
