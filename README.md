@@ -1500,6 +1500,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html) - estimate your monthly AWS bill more efficiently. Using this tool, you can add, modify and remove services from your 'bill' and it will recalculate your estimated monthly charges automatically. The calculator also shows common customer samples and their usage, such as Disaster Recovery and Backup or Web Application.
 * [toniblyx/prowler](https://github.com/toniblyx/prowler) - Tool for assessing AWS Security Best Practices, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+90). **Bonus** : [Official CIS for AWS guide]( https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
 * [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
+* [Amazon S3 Tools](https://s3tools.org/usage) - S3cmd usage (as shown if you type `s3cmd -h`). To access all the options and commands listed below, you'll need s3cmd version 2.0 or newer
 
 ## Bitbucket
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
