@@ -4901,6 +4901,7 @@ Raw
 * [Finnian Anderson](https://finnian.io/blog/colourising-video-with-openfaas-serverless-functions/) - (2017) Colourising Video with OpenFaaS Serverless Functions
 * [Rob Harrigan](https://unsupervisedpandas.com/python/supervised-classification-preprocessing/) - (2017) Supervised Classification: An Introduction and Preprocessing
 * [David Venturi](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0) - (2017) Every single Machine Learning course on the internet, ranked by your reviews
+* [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning) - (2017) The Last 5 Years In Deep Learning
 
 ## Mobile Development :iphone:
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
