@@ -3803,6 +3803,7 @@ type `curl ident.me` to know your public ip
 * [Alex Efros](https://powerman.name/doc/asciidoc) - AsciiDoc cheatsheet
 * [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
 * [WikiDiff](https://wikidiff.com/) - display difference between two terms, using wikipedia definition. Useful when answering online tests
+* [bacook17/acronym](https://github.com/bacook17/acronym) - ACRONYM (Acronym CReatiON for You and Me) | A python-based tool for creating English-ish Acronyms from your fancy project
 
 # Programming
 > News
