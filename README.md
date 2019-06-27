@@ -2866,6 +2866,11 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 * [Ubuntu Community Help Wiki](https://help.ubuntu.com/community/SSH/OpenSSH/Keys) - Internet and Networking >> SSH >> SSH/OpenSSH/Keys
 * [DistroTest](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
+* [David Newcomb](http://www.bigsoft.co.uk/blog/2012/01/06/rpmdb-unable-to-join-the-environment) - (2012) yum install failing on `rpmdb: unable to join the environment` or `db3 error(11) from dbenv->open: Resource temporarily unavailable`. Do the followings: 
+```
+rm -rf /var/lib/rpm/__db*
+rpm --rebuilddb
+```
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -6084,6 +6089,11 @@ type `curl ident.me` to know your public ip
 * [Pradeep Kumar](https://www.linuxtechi.com/capture-analyze-packets-tcpdump-command-linux/) - (2018) How to capture and analyze packets with tcpdump command on Linux
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 * [Sal Ferrarello](https://salferrarello.com/chrome-clear-redirect-cache/) - (2016) Chrome Clear Redirect Cache
+* [David Newcomb](http://www.bigsoft.co.uk/blog/2012/01/06/rpmdb-unable-to-join-the-environment) - (2012) yum install failing on `rpmdb: unable to join the environment` or `db3 error(11) from dbenv->open: Resource temporarily unavailable`. Do the followings: 
+```
+rm -rf /var/lib/rpm/__db*
+rpm --rebuilddb
+```
 
 # UX / UI
 > News
