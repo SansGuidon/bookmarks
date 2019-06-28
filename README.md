@@ -2394,7 +2394,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [CICR Tool](https://www.ipaddressguide.com/cidr) - IP Range To CIDR / CIDR to IP Range
 * [Meta Tags](https://metatags.io/) - is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 * [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
-
+* [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
+ 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -3089,6 +3090,7 @@ type `curl ident.me` to know your public ip
   * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --dport 443 --syn -j LOG --log-prefix "HTTPS SYN: "`
   * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --match multiport --dports 443,636,389,8095,80 --syn -j LOG --log-prefix "HTTPS SYN: "`
   * Removing iptables rule : `sudo iptables -D INPUT -p <etc rest of your above rule>`
+* [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata : 
@@ -5856,6 +5858,7 @@ type `curl ident.me` to know your public ip
 * [USB-Dongle Authentication](https://www.dongleauth.info/) - List of websites and whether or not they support One Time Passwords (OTP) or Web Authentication (WebAuthn) respectively FIDO2, U2F. **Bonus** : [Github repository](https://github.com/Nitrokey/dongleauth)
 * [Two Factor Auth (2FA) Dongles](https://www.dongleauth.info/dongles/) - List of 2FA dongle providers and the platforms they support. **Bonus** : [Github repository](https://github.com/Nitrokey/dongleauth)
 * :star: [**Two Factor Auth (2FA)**](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
+* [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
