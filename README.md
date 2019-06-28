@@ -3082,6 +3082,7 @@ type `curl ident.me` to know your public ip
 * [Super User](https://superuser.com/a/848966/453117) and [Server Fault](https://serverfault.com/a/353134/298315)
   * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --dport 443 --syn -j LOG --log-prefix "HTTPS SYN: "`
   * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --match multiport --dports 443,636,389,8095,80 --syn -j LOG --log-prefix "HTTPS SYN: "`
+  * Removing iptables rule : `sudo iptables -D INPUT -p <etc rest of your above rule>`
 
 # News :exclamation:
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
@@ -6104,6 +6105,7 @@ rpm --rebuilddb
 * [Super User](https://superuser.com/a/848966/453117) and [Server Fault](https://serverfault.com/a/353134/298315)
   * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --dport 443 --syn -j LOG --log-prefix "HTTPS SYN: "`
   * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --match multiport --dports 443,636,389,8095,80 --syn -j LOG --log-prefix "HTTPS SYN: "`
+  * Removing iptables rule : `sudo iptables -D INPUT -p <etc rest of your above rule>`
 
 # UX / UI
 > News
