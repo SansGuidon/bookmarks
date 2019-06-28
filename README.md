@@ -3077,6 +3077,11 @@ rpm --rebuilddb
 * [Sal Ferrarello](https://salferrarello.com/chrome-clear-redirect-cache/) - (2016) Chrome Clear Redirect Cache
 * [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - How to get your IP address from the command line. TLDR; 
 type `curl ident.me` to know your public ip 
+* [Joyent Support](https://help.joyent.com/hc/en-us/articles/226687427-Watching-active-IP-connections-Linux) - (2016) Watching active IP connections - Linux
+  * Incoming connections : `watch -d -n1 lsof -i`
+* [Super User](https://superuser.com/a/848966/453117) and [Server Fault](https://serverfault.com/a/353134/298315)
+  * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --dport 443 --syn -j LOG --log-prefix "HTTPS SYN: "`
+  * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --match multiport --dports 443,636,389,8095,80 --syn -j LOG --log-prefix "HTTPS SYN: "`
 
 # News :exclamation:
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
@@ -6094,6 +6099,11 @@ type `curl ident.me` to know your public ip
 rm -rf /var/lib/rpm/__db*
 rpm --rebuilddb
 ```
+* [Joyent Support](https://help.joyent.com/hc/en-us/articles/226687427-Watching-active-IP-connections-Linux) - (2016) Watching active IP connections - Linux
+  * Incoming connections : `watch -d -n1 lsof -i`
+* [Super User](https://superuser.com/a/848966/453117) and [Server Fault](https://serverfault.com/a/353134/298315)
+  * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --dport 443 --syn -j LOG --log-prefix "HTTPS SYN: "`
+  * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --match multiport --dports 443,636,389,8095,80 --syn -j LOG --log-prefix "HTTPS SYN: "`
 
 # UX / UI
 > News
