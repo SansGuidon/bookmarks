@@ -2260,6 +2260,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
 * [switching.social](https://switching.social/) - ethical, easy-to-use and privacy-conscious alternatives to popular sites and apps
 * [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
+* [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for [JAMstack](https://jamstack.org/) Sites
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -6267,6 +6268,7 @@ rpm --rebuilddb
 * [Jack Lenox](https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance/) - (2019) How Improving Website Performance Can Help Save The Planet
 * [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
+* [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for [JAMstack](https://jamstack.org/) Sites
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
