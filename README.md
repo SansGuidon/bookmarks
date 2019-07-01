@@ -2266,6 +2266,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 
 # Free online tools :free:
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
+* [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze a website performance
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dillinger](http://dillinger.io/) - Online Markdown Editor
@@ -6265,6 +6266,7 @@ rpm --rebuilddb
 * [HTML5 Please](http://html5please.com/) - Use the new and shiny responsibly. | Look up HTML5, CSS3, etc features, know if they are ready for use, and if so find out how you should use them – with polyfills, fallbacks or as they are.
 * [Jack Lenox](https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance/) - (2019) How Improving Website Performance Can Help Save The Planet
 * [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
+* [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
