@@ -3102,6 +3102,8 @@ type `curl ident.me` to know your public ip
   1. Connect to your instance.
   2. Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
   3. Use the following command to get its public IP address:  `curl http://169.254.169.254/latest/meta-data/public-ipv4`
+* Block an IP with `iptables` : `iptables -A INPUT -s 35.196.128.87 -j DROP`
+  * Undo the previous rule : `iptables -D INPUT -s 35.196.128.87 -j DROP`
 
 # News :exclamation:
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
