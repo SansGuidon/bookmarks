@@ -2198,7 +2198,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 * [Paul Myers](http://researchclinic.net/facebooksecrets/) - Facebook Secrets
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
-* :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
 * [GSMArena.com](https://www.gsmarena.com/) - mobile phone reviews, news, specifications and more...
 * [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
@@ -2360,7 +2359,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [User Agent String.Com](http://www.useragentstring.com/index.php) - User Agent String explained : Copy/paste any user agent string in this field and click 'Analyze'
 * [Free Online EPUB Converter](https://www.sendepubtokindle.com/) - The easiest way to send EPUBs to your Kindle!
 * [repl.it](https://repl.it/) - Online REPL, Compiler & IDE : Boot up a programming environment for your favorite language | including JavaScript, Python, Ruby, Java, Node.js, Go, Scheme, C, C#, C++, Lua and many more.
-* :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 * [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 * [Hurricane Electric BGP Toolkit](https://bgp.he.net) - This website is an Internet analysis site for the whole Internet. useful tool to collect ip, addresses, etc
@@ -3501,7 +3499,6 @@ type `curl ident.me` to know your public ip
 * [Georg Szalai](https://www.hollywoodreporter.com/news/google-chairman-eric-schmidt-internet-765989) - (2015) Google Chairman Eric Schmidt: "The Internet Will Disappear"
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
 * [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
-* :star: [**pipl**](https://pipl.com/) - search over billions people by name, username, phone, location. Exploit the deep web to convert nicknames to full identity...
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 * [Carl Chenet](https://carlchenet.com/the-slack-threat/) - (2017) The Slack Threat | why you may need alternatives to slack
 * [JC Brand](https://opkode.com/blog/slacks-bait-and-switch/) - (2018) Slack's bait and switch | We all know the real reason Slack has closed off their gateways. Their business model dictates that they should. They're a typical walled garden, information silo or Siren Server
