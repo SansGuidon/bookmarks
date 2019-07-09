@@ -1580,6 +1580,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jaikumar Vijayan](https://techbeacon.com/how-securely-scale-chatops-enterprise) - How to securely scale ChatOps in the enterprise
 * [List of All ASCII Emoticons](https://upli.st/l/list-of-all-ascii-emoticons) - A massive list of all the ASCII emoticons discovered on the interweb.
 * [dysfunc/ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential ASCII Emoji
+* [Random Emojis for Slack](https://slackmojis.com/categories/19-random-emojis) - big collection of emojis for Slack
 
 ## Chef
 * [Nathen Harvey's Talks](https://speakerdeck.com/nathenharvey) - Talks / Slides by Chef's Community Director
