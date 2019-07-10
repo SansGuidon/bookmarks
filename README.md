@@ -2965,6 +2965,7 @@ rpm --rebuilddb
 * [Rich Trouton](https://derflounder.wordpress.com/2014/02/16/managing-the-authorization-database-in-os-x-mavericks/) - (2014) Managing the Authorization Database in OS X Mavericks | and probably for later versions too
 * [Yubico Support](https://support.yubico.com/support/solutions/articles/15000015045-macos-logon-tool-configuration-guide) - macOS Logon Tool Configuration Guide : Enable Yubico 2FA at macOs login screen and for screensaver
 * [OSXDaily](http://osxdaily.com/2017/11/22/use-touch-id-sudo-mac/) - (2017) How to Use Touch ID to Authenticate sudo on Mac OS
+* [Homebrew Formulae](https://formulae.brew.sh/) - is an online package browser for Homebrew – the macOS package manager.
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
