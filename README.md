@@ -2400,7 +2400,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
 * [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
 * [Xerius](https://brutonetto.xerius.be) - :fr: [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net
-
+* [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
+ 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -3392,6 +3393,7 @@ type `curl ident.me` to know your public ip
 * [Alex Dzyoba](https://alex.dzyoba.com/blog/go-prometheus-service/) - (2018) Instrumenting a Go service for Prometheus
 * [Daniel Lebrero](https://danlebrero.com/2016/11/21/the-boy-who-cried-wolf-an-it-tale/) - (2016) The boy who cried wolf, an IT tale | on the importance of a correct log level 
 > How does a project get to be one year late? … One day at a time.
+* [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
 
 ## Nginx
 * [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
@@ -6128,6 +6130,7 @@ rpm --rebuilddb
   * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --dport 443 --syn -j LOG --log-prefix "HTTPS SYN: "`
   * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --match multiport --dports 443,636,389,8095,80 --syn -j LOG --log-prefix "HTTPS SYN: "`
   * Removing iptables rule : `sudo iptables -D INPUT -p <etc rest of your above rule>`
+* [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
 
 # UX / UI
 > News
