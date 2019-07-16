@@ -834,6 +834,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Vadim Kravcenko](http://vadimkravcenko.com/dealing-with-complex-projects) - (2018) Dealing with complex projects
 > If you fail - you learn, if you succeed – even better. And never forget the importance of communication.
 * [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge) - a cognitive bias that occurs when someone assumes that the others have the same background to understand.
+* [Yegor Bugayenko](https://www.yegor256.com/2018/12/25/speaker-cheat-sheet.html) - (2018) Speaker Cheat Sheet
+* [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
 
 ## Documentation
 > Learn
