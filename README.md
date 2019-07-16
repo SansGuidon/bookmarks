@@ -3104,7 +3104,7 @@ rpm --rebuilddb
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 * [CICR Tool](https://www.ipaddressguide.com/cidr) - Calculator for IP Range To CIDR / CIDR to IP Range
 * [Sal Ferrarello](https://salferrarello.com/chrome-clear-redirect-cache/) - (2016) Chrome Clear Redirect Cache
-* [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - How to get your IP address from the command line. TLDR; 
+* [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR; 
 type `curl ident.me` to know your public ip 
 * [Joyent Support](https://help.joyent.com/hc/en-us/articles/226687427-Watching-active-IP-connections-Linux) - (2016) Watching active IP connections - Linux
   * Incoming connections : `watch -d -n1 lsof -i`
@@ -5691,7 +5691,7 @@ Raw
 * [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
 * [Ian Miell](https://zwischenzugs.com/2019/05/11/seven-surprising-bash-variables/) - (2019) Seven Surprising Bash Variables
 * [Matt Jaynes](https://hvops.com/articles/ansible-vs-shell-scripts/) - (2019) Shell Scripts vs Ansible: Fight!
-* [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - How to get your IP address from the command line. TLDR; 
+* [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR; 
 type `curl ident.me` to know your public ip 
 
 ## Shell Aliases
