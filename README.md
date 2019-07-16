@@ -2615,6 +2615,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > * Embrace quality over quantity.
 > * Find a Hobby.
 > * Spend time with people you love.
+* [Alan Franzoni](https://www.franzoni.eu/productivity-the-office-and-an-open-floor-plan/) - (2018) Productivity, the office, and the open floor plan
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
@@ -3788,6 +3789,7 @@ type `curl ident.me` to know your public ip
 * [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
 * [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
 * [Abbreviations.com](https://www.abbreviations.com/) - The Web's largest and most authoritative acronyms and abbreviations resource
+* [Alan Franzoni](https://www.franzoni.eu/productivity-the-office-and-an-open-floor-plan/) - (2018) Productivity, the office, and the open floor plan
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
