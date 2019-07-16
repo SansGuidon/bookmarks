@@ -2603,6 +2603,15 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
 * [Michelle Venetucci Harvey](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2) - (2017) A research roundup to show that your office layout is toxic (and some tips for making it better)
 * [James Conca](https://www.forbes.com/sites/jamesconca/2012/06/10/energys-deathprint-a-price-always-paid/#71ef4f07709b) - (2012) How Deadly Is Your Kilowatt? We Rank The Killer Energy Sources | It seems that Coal is way more harmful than Nuclear.
+* [Mike Donghia](https://www.becomingminimalist.com/enjoying-life-in-the-slow-lane/) - (2010) Enjoying Life in the Slow Lane
+> here are some easy steps to escape the rat race and enjoy a slower, simpler, happier life:
+> * Choose 3 things to accomplish each day.
+> * Learn to say “no.” Stop taking on more responsibility.
+> * Be unproductive.
+> * Only check your email twice a day.
+> * Embrace quality over quantity.
+> * Find a Hobby.
+> * Spend time with people you love.
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
@@ -4277,6 +4286,15 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [Derek Sivers](https://sivers.org/slow) - (2016) I’m a very slow thinker
 * [Dan Milstein](http://blog.hut8labs.com/coding-fast-and-slow.html) - (2013) Coding, Fast and Slow: Developers and the Psychology of Overconfidence | about inability of developers to predict how long a project will take.
 * [Raph Lee](https://lob.com/blog/understand-design-build-a-framework-for-problem-solving) - (2019) Understand, Design, Build: A Framework for Problem-Solving
+* [Mike Donghia](https://www.becomingminimalist.com/enjoying-life-in-the-slow-lane/) - (2010) Enjoying Life in the Slow Lane
+> here are some easy steps to escape the rat race and enjoy a slower, simpler, happier life:
+> * Choose 3 things to accomplish each day.
+> * Learn to say “no.” Stop taking on more responsibility.
+> * Be unproductive.
+> * Only check your email twice a day.
+> * Embrace quality over quantity.
+> * Find a Hobby.
+> * Spend time with people you love.
 
 ## Clean code
 > News
