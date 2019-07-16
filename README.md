@@ -3354,6 +3354,7 @@ type `curl ident.me` to know your public ip
 * [Atlassian Docs](https://docs.atlassian.com/software/jira/docs/api/REST/latest) - Latest Jira documentation for REST API **Bonus** : [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)
 * [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
 * [Atlassian Docs](https://confluence.atlassian.com/jirakb/enable-dark-feature-in-jira-959286331.html) - Enable Dark Feature in Jira
+* [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
@@ -3853,6 +3854,7 @@ type `curl ident.me` to know your public ip
 * [WikiDiff](https://wikidiff.com/) - display difference between two terms, using wikipedia definition. Useful when answering online tests
 * [bacook17/acronym](https://github.com/bacook17/acronym) - ACRONYM (Acronym CReatiON for You and Me) | A python-based tool for creating English-ish Acronyms from your fancy project
 * [r/personalfinance/tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Personal Finance Tools : Redditor-created Spreadsheets
+* [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
 
 # Programming
 > News
