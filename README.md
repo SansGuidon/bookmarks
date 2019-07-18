@@ -4230,6 +4230,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * [Literate programming](http://www.literateprogramming.com/) - is a programming paradigm introduced by Donald Knuth in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated.
 * [Literate programming links](http://www.literateprogramming.com/links.html) - articles about literate programming
+* [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4303,6 +4304,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > * Embrace quality over quantity.
 > * Find a Hobby.
 > * Spend time with people you love.
+* [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 
 ## Clean code
 > News
@@ -5212,6 +5214,7 @@ Raw
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * [DistroTest](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
 * [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
+* [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -5321,6 +5324,7 @@ Raw
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics  
 * [Matej Jellus](https://juffalow.com/other/funny-stuff-from-programmers-realm) - (2016) Funny stuff from programmers realm
+* [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer. | Not really humour, but anyway it needs to be here.
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
