@@ -810,6 +810,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wardley map](https://en.wikipedia.org/wiki/Wardley_map)
 * [Bryan Cantrill](http://dtrace.org/blogs/bmc/2018/10/05/assessing-software-engineering-candidates/) - (2018) Assessing software engineering candidates
 * [Raph Lee](https://lob.com/blog/understand-design-build-a-framework-for-problem-solving) - (2019) Understand, Design, Build: A Framework for Problem-Solving
+* [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -2407,7 +2408,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - :fr: [FR] (2019) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent) 
-
+* [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
+  
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
@@ -3861,6 +3863,7 @@ type `curl ident.me` to know your public ip
 * [r/personalfinance/tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Personal Finance Tools : Redditor-created Spreadsheets
 * [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - :fr: [FR] (2019) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent) 
+* [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
 
 # Programming
 > News
