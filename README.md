@@ -104,7 +104,7 @@ Be the first to support me : [![Say Thanks!][img-saythanks]][saythanks] [![Buy m
 * [Prepping](#prepping)
 * [Principles](PRINCIPLES.md)
 * [Privacy](#privacy)
-* [Procrastinating](#procrastinating-pig2-dog2)
+* [Procrastinating :pig2: :dog2:](#procrastinating-pig2-dog2)
 * [Productivity :fast_forward:](#productivity-fast_forward)
 * [Programming](#programming)
   * [API](#api)
