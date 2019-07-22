@@ -3133,7 +3133,6 @@ type `curl ident.me` to know your public ip
 * :fire: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * :star: [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
-* [HNfavorites](http://www.hnfavorites.com/) - HNfavorites – Explore the hacker news community's favorite content
 * :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 * :star: [**Le Gorafi**](http://www.legorafi.fr/) - [FR] :fr: news satire
@@ -3723,7 +3722,6 @@ See also [Terraform](#terraform)
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
 * [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
-* [Stephen Thoma](http://www.hnfavorites.com/) - HNfavorites – Explore the Hacker News community's favorite content
 * [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
 * :star: [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - (2013) 7 Shortcuts You Will Regret Taking in Life
