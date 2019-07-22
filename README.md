@@ -104,6 +104,7 @@ Be the first to support me : [![Say Thanks!][img-saythanks]][saythanks] [![Buy m
 * [Prepping](#prepping)
 * [Principles](PRINCIPLES.md)
 * [Privacy](#privacy)
+* [Procrastinating](#procrastinating-pig2-dog2)
 * [Productivity :fast_forward:](#productivity-fast_forward)
 * [Programming](#programming)
   * [API](#api)
@@ -1034,9 +1035,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [OpenCycleMap](https://opencyclemap.org/) - :bicyclist: the OpenStreetMap Cycle Map
 * [Digital Wallonia](https://opendata.digitalwallonia.be/) - [FR] [BE] Open Data pour la Wallonie
 * [Data.gov.be](https://data.gov.be/fr/search/datasets) - [FR] [BE] Belgian open data portal
-* [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool (by Google) for working with messy data and improving it. **See also** [http://openrefine.org/](Official site)
+* [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool (by Google) for working with messy data and improving it. **See also** [https://openrefine.org/](Official site)
 * [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
-* [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search. 
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search.
 
 # DevOps / CICD
 > News
@@ -1408,7 +1409,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code
 * [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
 * [Corban Raun](https://blog.serverdensity.com/what-ive-learnt-from-using-ansible-exclusively-for-2-years/) - Lessons from using Ansible exclusively for 2 years.
-* [Ansible on Slack](http://www.ansiblenetwork.org/) - The Ansible Network
 * [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
 * [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - (2015) Using Ansible with Docker Machine to Bootstrap Host Nodes
@@ -2141,7 +2141,7 @@ See also [Infrastructure](#infrastructure)
 * [TorrentFreak](https://torrentfreak.com/) - file sharing, privacy & copyright news
 * [Opentrackers](https://opentrackers.org/) - private torrent trackers & file sharing
 * [Torrent Franais](http://www.xn--torrentfranais-qjb.fr/) - [FR] :fr: file sharing & torrent news
-* Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [1337x](http://1337x.to/), [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
+* Top torrent sites according to [TorrentFreak](https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2017-170107/) : [YTS.AG](https://yts.ag/browse-movies), [Limetorrents](https://www.limetorrents.cc/), [Torrentz](https://torrentz2.eu/) a meta search engine, [TorrentProject](http://torrentproject.se/), [Torrent Downloads](https://www.torrentdownloads.me/). Others : [Sky torrents](https://www.skytorrents.in/)
 * [MorganGeek](https://gist.github.com/MorganGeek/aa1f21c3b87e90a2cde567a73209ef13) - download sites compared using some searches
 * [The Pirate Bay](https://thepiratebay.org/) - yet one of the best place to find good torrents. **Bonus** : [Pirate Bay Proxies sites](https://proxybay.one/) + [A Pirate bay proxy website](https://pirateproxy.vip/)
 * [iDope](https://idope.se/) - torrent indexer / tribute to kickass
@@ -2248,7 +2248,7 @@ See also [Infrastructure](#infrastructure)
 * [Product Hunt](http://500makers.com/) - a list of top 500 makers on [Product Hunt](https://www.producthunt.com/)
 * [AppRecs](https://apprecs.com) - app search engine
 * [StumbleUpon](https://www.stumbleupon.com/) - discover the best of the web, one click at a time. This service learns what you like and brings you more like it
-* [Random Hunt](http://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
+* [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website
 * [Discuvver](https://www.discuvver.com) - Take you to one random useful website
 * [AlternativeTo](https://alternativeto.net/platform/self-hosted/?license=opensource) - Open Source Self-Hosted apps on AlternativeTo
@@ -3543,6 +3543,9 @@ See also [Terraform](#terraform)
 * [switching.social](https://switching.social/) - ethical, easy-to-use and privacy-conscious alternatives to popular sites and apps
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
 
+# Procrastinating :pig2: :dog2:
+* [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
+
 # Productivity :fast_forward:
 > News
 * [Hacker News](https://hn.algolia.com/?query=tricks&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tricks
@@ -3945,7 +3948,6 @@ See also [Terraform](#terraform)
 * :star: [**RankRed**](http://www.rankred.com/nasa-coding-rules/) - NASA’s 10 Coding Rules for Writing Safety Critical Program
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
-* [DemandRush](https://www.demandrush.com/) - Get paid to build your next side project
 * [Ben Hilburn](https://bhilburn.org/a-keystone-of-success/) - What mature engineers do and don't do / what it means to be a mature engineer.
 * [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
 * [Zazzle](https://www.zazzle.com/software+developer+stickers) - Software Developer Stickers
@@ -4745,7 +4747,6 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
 * [Mark Waite](https://www.youtube.com/watch?v=n0mnVtbQA0I) - [Video] (2017) Git in the Large : Tips and Tricks. **Bonus** : [Slides](https://www.slideshare.net/markewaite/git-inthelarge)
 * [John Wiegley](http://jwiegley.github.io/git-from-the-bottom-up/) - Git from the Bottom Up
-* [Hammer Principle](http://hammerprinciple.com/versioncontrol/items/git/svn) - Git vs SVN features comparison
 * [Emma Jane Westby](https://24ways.org/2014/dealing-with-emergencies-in-git/) - (2014) Dealing with Emergencies in Git
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * [Stef Walter](http://stef.thewalter.net/git-coverage-useful-code-coverage.html) - (2012) git-coverage: Useful code coverage
