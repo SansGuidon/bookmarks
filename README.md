@@ -256,14 +256,14 @@ Be the first to support me : [![Say Thanks!][img-saythanks]][saythanks] [![Buy m
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
 * [Graham Lee](https://www.sicpers.info/2018/02/its-about-the-thinking/) - (2018) It’s about the thinking
-* [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
+* [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar
 * [Zhamak Dehghani](https://www.martinfowler.com/articles/break-monolith-into-microservices.html) - (2018) How to break a Monolith into Microservices | What to decouple and when
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 * [Todd Hoff](http://highscalability.com/blog/2018/8/22/what-do-you-believe-now-that-you-didnt-five-years-ago-centra.html) - (2018) What Do You Believe Now That You Didn't Five Years Ago? Centralized Wins. Decentralized Loses.
 * [Dustin Barnes](https://dev9.com/blog-posts/2017/5/increasing-software-transparency-with-lightweight-architectural-decision-records) - (2017) Increasing Software Transparency with Lightweight Architectural Decision Records
 * [Vijini Mallawaarachchi](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - (2017) 10 Common Software Architectural Patterns in a nutshell
 * [Kai Niklas](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b) - (2018) 38 Actions and Insights to Become a Better Software Architect
-* [Architectural Katas](https://archkatas.herokuapp.com/) - small-group exercises for practicing being software architect 
+* [Architectural Katas](https://archkatas.herokuapp.com/) - small-group exercises for practicing being software architect
 * [The C4 model](http://c4model.com/) - consists of a hierarchical set of software architecture diagrams for context, containers, components, and code.
 * [Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html) - (2013) Introducing Event Storming | EventStorming is a workshop format for quickly exploring complex business domains.
 * [Jeppe Cramon](https://www.slideshare.net/jeppec/event-storming-48594742) - (2015) [Slides] Event storming
@@ -276,7 +276,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Zdenek Nemec (Z, zdne)](https://blog.goodapi.co/api-maturity-fb25560151a3) - (2018) API Maturity
 * [Rich Archbold](https://www.intercom.com/blog/run-less-software/) - (2018) Run less software
 > 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
-* [Sandi Metz](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - (2016) The Wrong Abstraction 
+* [Sandi Metz](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - (2016) The Wrong Abstraction
 > 1. duplication is far cheaper than the wrong abstraction
 > 2. prefer duplication over the wrong abstraction
 * [Gordon Brander](http://gordonbrander.com/pattern/second-system-syndrome/) - Second System Syndrome | a simple system is doomed to be replaced by an excessively abstract, over-engeered, or bloated successor.
@@ -322,7 +322,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better
 * [Nate Hoffelder](https://the-digital-reader.com/2015/02/21/how-to-download-your-kindle-notes-and-highlights-and-export-them/) - (2015) How to Download Your Kindle Notes and Highlights and Export Them
 * [Opentrackers.org](https://opentrackers.org/downloading-ebooks-textbooks/) - (2017) A guide to help people find ebooks & textbooks
-* [NDTV Gadgets360](https://gadgets.ndtv.com/internet/features/the-6-best-places-to-legally-download-ebooks-for-free-663886) - (2015)  The 6 Best Places to Legally Download Ebooks for Free  
+* [NDTV Gadgets360](https://gadgets.ndtv.com/internet/features/the-6-best-places-to-legally-download-ebooks-for-free-663886) - (2015)  The 6 Best Places to Legally Download Ebooks for Free
 * [Quora](https://www.quora.com/What-is-a-good-website-for-free-books) - What is a good website for free books?
 * [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
 * [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
@@ -479,7 +479,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Triin Linamagi](https://www.fastcompany.com/3044519/7-of-the-most-common-reasons-startups-fail) - (2015) The Most Common Reasons Startups Fail
 * [Kevin J. Delaney](https://qz.com/846530/something-weird-happens-to-companies-when-they-hit-150-people/) - (2016) Something weird happens to companies when they hit 150 people
 * [Isaac Park](https://www.pathosethos.com/2017/09/28/founder-problem-youre-the-reason-your-startup-doesnt-grow/) - (2017) Founder Problem: I’m The Reason My Startup Doesn’t Grow
-* [Shoshanna Solomon](https://www.timesofisrael.com/as-startups-grow-founders-need-to-learn-to-let-go/) - (2018) As startups grow, founders need to learn to let go  
+* [Shoshanna Solomon](https://www.timesofisrael.com/as-startups-grow-founders-need-to-learn-to-let-go/) - (2018) As startups grow, founders need to learn to let go
 > As your company grows you have to get used to the fact that you cannot be involved in all the aspects of the company. To delegate is hard
 > Delegating, he said, is another tough thing to do. “The key is to hire people who are more intelligent than you, to find people who are super, super smart, ”
 * [David NiuMark Roberge](https://hbr.org/2017/03/how-morale-changes-as-a-startup-grows) - (2017) How Morale Changes as a Startup Grows | how company's culture changes
@@ -487,7 +487,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) - is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person.
 * [Hype Cycle](https://en.wikipedia.org/wiki/Hype_cycle) - a branded graphical presentation developer by Gartner, for representing the maturity, adoption and social application of specific technologies
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
-* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/travailler-autrement/) - (2013) [FR] Travailler autrement | sur les crises et court-termisme entre autres 
+* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/travailler-autrement/) - (2013) [FR] Travailler autrement | sur les crises et court-termisme entre autres
 * [Gabe Hicks](https://dev9.com/blog-posts/2017/4/6-ways-to-control-cloud-costs) - (2017) 6 Ways to Control Cloud Costs
 * [Mike Ensor](https://dev9.com/blog-posts/2017/1/containers-the-software-development-life-cycles-last-mile-ks7cp) - (2018) Containers: The Software Development Life Cycle’s Last Mile
 * [Beau Lyddon](https://blog.realkinetic.com/stop-wasting-your-beer-money-12c3fe5e4d54?gi=f99e9ab30ea6) - (2018) Stop Wasting Your Beer Money | Why are engineers so bad at paying other engineers for their work?
@@ -525,7 +525,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Brave New Coin](https://bravenewcoin.com/) - Bitcoin Price, Charts, Research, Cryptocurrency Insights
 * [Slofile](https://slofile.com/category/Crypto) - Slack channels on cryptocurrency
 * [CSVShare](https://csvshare.com/view/Vk_tfwlTX) - Blockchain & Crypto Slack Communities
-* [WalletInvestor](https://walletinvestor.com/forecast) - Cryptocurrency Forecast (Bitcoin & Altcoin, ICO Prediction, Prognosis 2018, 2019) 
+* [WalletInvestor](https://walletinvestor.com/forecast) - Cryptocurrency Forecast (Bitcoin & Altcoin, ICO Prediction, Prognosis 2018, 2019)
 
 > Learn
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
@@ -551,7 +551,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Joseph Lubin](https://blockgeeks.com/news/blockchain-voting/) - (2016) Is Blockchain Technology Going To Disrupt Our Political System: We Hope So
 * [David Ernst](https://blog.liquid.us/2016/09/21/what-is-liquid-democracy/) - (2016) What is Liquid Democracy?
 * [Danny Crichton](https://techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/) - (2018) Liquid democracy uses blockchain to fix politics, and now you can vote for it
- 
+
 # Collaboration & Problem solving
 > News
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -773,14 +773,14 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jesse Weaver](https://medium.com/s/story/a-simple-framework-for-designing-choices-ab93e0fc6610) - (2015) A Simple Framework for Designing Choices | No design is neutral
 * [Lolly Daskal](https://medium.com/s/story/10-dumb-rules-that-make-your-best-people-want-to-quit-8491b446dde5) - (2017) Dumb Rules That Make Your Best People Want to Quit | TL;DR — Trust employees like the adults they are
 * [Gordon Brander](http://gordonbrander.com/pattern/) - Patterns : "This is my bag of tricks — loose notes, design patterns, rules-of-thumb, methods of enquiry, tools, cheatsheets, gimmicks, leverage points, descriptions of systems, key questions, risks, and unknowns."
-* [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/12/process.html) - (2011) Who Needs Process? 
+* [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/12/process.html) - (2011) Who Needs Process?
 > Get rid of your prioritized list of tasks. Stop having your daily stand-ups. No more status report e-mails. Just stop doing that stuff, and get rid of anyone who can't cope. Nothing terrible will happen.
 * [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/03/devops-scam.html) - (2011) Devops Is a Poorly Executed Scam
 > You need to change the culture the hard way, or replace people as necessary until the culture works.
 * [Hugo Sharman-Firth](https://blog.hugo.codes/2018/08/the-dangers-of-best-practices.html) - (2018) The dangers of best practices | Best is the enemy of better
 * [Mat Lawrence](https://www.atlassian.com/blog/inside-atlassian/how-to-facilitate-successful-offsite-meetings-human-dynamics) - (2017) How to facilitate successful offsite meetings: it’s all about the team
 * [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/how-to-run-effective-meetings) - (2018) Running effective meetings: a guide for humans
-* [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without 
+* [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without
 * [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/kick-off-meeting-agenda-mistakes) - (2018) Avoid these 5 mistakes for an amazing kick-off meeting
 * [Bernie Ferguson](https://www.atlassian.com/blog/inside-atlassian/how-to-facilitate-meetings-guide) - (2017) How to manage meetings like an expert facilitator
 * [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -793,8 +793,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [The No Asshole Rule](https://en.wikipedia.org/wiki/The_No_Asshole_Rule)
 > 1. After encountering the person, do people feel oppressed, humiliated or otherwise worse about themselves?
 > 2. Does the person target people who are less powerful than him/her?
-* [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering 
-* [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips 
+* [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering
+* [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips
 * [Catherine Louis](https://opensource.com/article/18/3/tips-better-agile-retrospective-meetings) - (2018) 8 tips for better agile retrospective meetings
 * [Retromap](https://retromat.org) - Inspiration & plans for (agile) retrospectives : Planning your next agile retrospective? Start with a random plan, change it to fit the team's situation, print it and share the URL. Or browse around for new ideas!
 * [John Allspaw](https://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/) - (2017) Taking Human Performance Seriously
@@ -820,10 +820,10 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Overcommunicate in all ways, all the time. There is no such thing as too much communication. When you think you’ve communicated something too much, you’re probably just beginning to get through.
 * [Eser Gozcu](https://hackernoon.com/devops-behind-scenes-817d586a1548) - (2018) DevOps and Behind the Scenes | BEST EFFORT != BEST PRACTICE | DevOps starts with a real communication. Moving towards a common goal requires social engineering
 * [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
-* [Alex Naoumidis](https://www.themindsetapp.com/musk-letter/) - (2018) Elon Musk reveals his productivity rules in a letter he sent to Tesla employees 
+* [Alex Naoumidis](https://www.themindsetapp.com/musk-letter/) - (2018) Elon Musk reveals his productivity rules in a letter he sent to Tesla employees
 > - Get of all large meetings, unless you’re certain they are providing value to the whole audience, in which case keep them very short.
 > - Also get rid of frequent meetings
-> - Walk out of a meeting or drop off a call as soon as it is obvious you aren’t adding value. 
+> - Walk out of a meeting or drop off a call as soon as it is obvious you aren’t adding value.
 > - Don’t use acronyms or nonsense words for objects
 > - Communication should travel via the shortest path necessary to get the job done
 > - A major source of issues is poor communication between depts. The way to solve this is allow free flow of information between all levels
@@ -949,7 +949,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > curiosity and broad inquiry are necessarily incompatible with focus on specific goals.
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 * [Xiao Ma](https://medium.com/open-sourced-thoughts/code-life-1a44121290a1) - (2015) Code • Life | We are already doing these things to our code, why not do them to ourselves?
-* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme 
+* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme
 * [Derek Sivers](https://sivers.org/slow) - (2016) I’m a very slow thinker
 * [Derek Sivers](https://sivers.org/obvious) - [Video] Obvious to you. Amazing to others.
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
@@ -960,7 +960,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > - Drawing makes us better humans
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
 * [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
-* [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity 
+* [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity
 * [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
 * [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 
@@ -1310,9 +1310,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Naresh Jain](https://www.industriallogic.com/blog/impact-of-continuous-integration-on-team-culture/) - (2011) Impact of Continuous Integration on Team Culture
 * [RightScale](https://www.rightscale.com/cloud-comparison-tool/) - Cloud Comparison : Google Cloud Platform vs AWS vs Azure vs IBM Cloud
 * [Balaji Vajjala](http://bvajjala.github.io/projects/cd/continuous-delivery-patterns-and-antipatterns/) - (2017) continuous delivery patterns & antipatterns
-* [Cody Boggs](https://sysdig.com/blog/deploying-private-paas-good-meh-aw-crap/) - (2016) Deploying a private PaaS: The good, the meh, and the aw crap 
+* [Cody Boggs](https://sysdig.com/blog/deploying-private-paas-good-meh-aw-crap/) - (2016) Deploying a private PaaS: The good, the meh, and the aw crap
 > "moving to a PaaS is certainly not a decision to be made lightly – but it’s still probably the right decision."
-* [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
+* [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar
 * [Balaji Vajjala](http://bvajjala.github.io/blog/2014/05/07/6-challenges-in-implementing-enterprise-continuous-delivery/) - (2014) 6 Challenges in implementing Enterprise Continuous Delivery
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
 * [OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html) - [Book] DevOps with OpenShift
@@ -1347,7 +1347,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Eser Gozcu](https://hackernoon.com/devops-behind-scenes-817d586a1548) - (2018) DevOps and Behind the Scenes | BEST EFFORT != BEST PRACTICE | DevOps starts with a real communication. Moving towards a common goal requires social engineering
 * [Gary Woodfine](https://garywoodfine.com/not-devops-engineer/) - (2018) You are not a DevOps Engineer | Your organisation won’t be saved by a terminal wonder kid in a hoody churning awesome BASH scripts during his lunch break. | Changing your department names form Software Development and IT operations and moving them to a co-located zone with a pool & Ping Pong tables, open plan kitchen and bean bags and then calling them DevOps is not really going to make your customers any happier.
 * [Antonio Cangiano](https://programmingzen.com/building-better-software-info-ops-daniel-b-markham-interview/) - (2018) Building Better Software With Info-Ops: An Interview With Daniel B. Markham
-* [AJ Ross, Adrian Hilton, Dave Rensin](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html) - (2017) SLOs, SLIs, SLAs, oh my - CRE life lessons | for DevOps professionals / SRE 
+* [AJ Ross, Adrian Hilton, Dave Rensin](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html) - (2017) SLOs, SLIs, SLAs, oh my - CRE life lessons | for DevOps professionals / SRE
 * [Tim Hall](https://oracle-base.com/blog/2018/06/12/why-automation-matters-lost-time/) - (2018) Why Automation Matters : Lost Time
 * [Linux Academy](https://linuxacademy.com/amazon-web-services/courses) - Courses: Master your Linux and cloud stack. | Azure, OpenStack, DevOps, Big Data, Containers, Security, AWS, Google Cloud Platform, Linux, ... **Examples** : [AWS Certification Training](https://linuxacademy.com/amazon-web-services/courses)
 * [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
@@ -1510,7 +1510,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Amazon S3 Tools](https://s3tools.org/usage) - S3cmd usage (as shown if you type `s3cmd -h`). To access all the options and commands listed below, you'll need s3cmd version 2.0 or newer
 
 > Tips
-* [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata : 
+* [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
   1. Connect to your instance.
   2. Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
   3. Use the following command to get its public IP address:  `curl http://169.254.169.254/latest/meta-data/public-ipv4`
@@ -1580,7 +1580,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Bill Doerrfeld](https://nordicapis.com/12-frameworks-to-build-chatops-bots/) - (2016) 12+ Frameworks to Build ChatOps Bots
 * [Zulip](https://zulipchat.com/integrations/) - all native integrations for Zulip
 * [Cog Book](http://book.cog.bot/appendices/designing_for_chatops.html) - Designing ChatOps Commands
-* [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know) 
+* [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know)
 > Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
 * [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - A collection of awesome things about ChatOps.
 * [Jaikumar Vijayan](https://techbeacon.com/how-securely-scale-chatops-enterprise) - How to securely scale ChatOps in the enterprise
@@ -1782,7 +1782,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Hacker News](https://news.ycombinator.com/item?id=16446226) - Ask HN: What best practices for in-house Docker Registry? | examples of using labels and tags when building the docker images
 * [Théo Chamley](https://cloud.google.com/solutions/best-practices-for-operating-containers) - (2018) 7 best practices for operating containers
 * [Google Cloud](https://cloud.google.com/solutions/best-practices-for-building-containers) - (2018) Best Practices for Building Containers
- 
+
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
@@ -1828,7 +1828,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Keyan Pishdadian](http://engineering.teacherspayteachers.com/2017/05/16/unifying-deployments-for-microservices-via-jenkins.html) - (2017) Unifying Deployments for Microservices with Jenkinsfile Pipelines
 * [/r/devops](https://www.reddit.com/r/devops/comments/5mbb5g/jenkinsfiles/) - Interesting discussion about difficulties to work with Jenkinsfiles on /r/devops
 * [JFrogDev/jenkins-pipeline-examples](https://github.com/JFrogDev/project-examples/tree/master/jenkins-pipeline-examples) - Jenkins pipeline example scripts
-* [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile / Groovy syntax 
+* [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile / Groovy syntax
 * [Isaac Cohen](https://www.cloudbees.com/blog/ensuring-corporate-standards-pipelines-custom-marker-files) - Ensuring Corporate Standards in Pipelines with Custom Marker Files
 * [jenkinsci/pipeline-plugin](https://github.com/jenkinsci/pipeline-plugin/blob/master/COMPATIBILITY.md) - Plugin Compatibility with Pipeline
 * [CloudBees](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_at_splunk.pdf) - Jenkins at Splunk and Splunking Jenkins +[Video on YouTube](https://www.youtube.com/watch?v=dlsEprySOrg)
@@ -1876,7 +1876,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [rusty-dev/jenkins-job-builder-pipeline](https://github.com/rusty-dev/jenkins-job-builder-pipeline) - Pipeline support for jenkins-job-builder
 * [OpenStack Docs](https://docs.openstack.org/infra/system-config/jjb.html) - Documentation for Jenkins Job Builder; a system for configuring Jenkins jobs using simple YAML files stored in Git.
 * [OpenStack Docs](https://docs.openstack.org/infra/jenkins-job-builder/project_pipeline.html) - Jenkins Job Builder documentation for the Pipeline Project module
-* [Hannah Inman](https://www.cloudbees.com/blog/jenkins-world-speaker-highlight-automated-software-maintenance) - (2017) Jenkins World Speaker Highlight: Automated Software Maintenance | use periodic builds for fast detection of CI/CD failures 
+* [Hannah Inman](https://www.cloudbees.com/blog/jenkins-world-speaker-highlight-automated-software-maintenance) - (2017) Jenkins World Speaker Highlight: Automated Software Maintenance | use periodic builds for fast detection of CI/CD failures
 * [Jenkins Docs](https://jenkins.io/doc/tutorials/) - tutorials showing how to use Jenkins to cover the basics of CI/CD
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Groovy+Hook+Script) - Groovy Hook Scripts
 * [oleg-nenashev/demo-jenkins-config-as-code](https://github.com/oleg-nenashev/demo-jenkins-config-as-code) - Jenkins Configuration-As-Code with Docker and Groovy Hook Scripts. **Bonus** : [RU] :ru: (https://speakerdeck.com/onenashev/moscow-jenkins-meetup-number-3-upravliaiem-konfighuratsiiami-jenkins-groovy-khuki-i-configuration-as-code-plugin-1)
@@ -1903,7 +1903,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [/r/devops](https://www.reddit.com/r/devops/comments/629dj3/jenkinsansible_vs_jenkinsansibleansible_tower/) - Jenkins+Ansible vs Jenkins+Ansible+Ansible Tower
 * [MorganGeek](https://gist.github.com/MorganGeek/8b2d12ff3384e69453ede4f70c60bc08) - Jenkins / SSH : split your commands over multiple lines. via [Stack Overflow](https://stackoverflow.com/a/39979449/2309958)
 * [Sam Van Oort](https://www.youtube.com/watch?v=p0qX409wwPw) - [Video] Jenkins World 2017: Pipelines At Scale: How Big, How Fast, How Many?
-* [Sanil Pillai](https://jenkins.io/blog/2017/12/15/auto-convert-freestyle-jenkins-jobs-to-coded-pipeline/) - (2017) Auto-Convert Freestyle Jobs to Jenkins Pipeline. **Bonus** : [Convert To Pipeline plugin](https://plugins.jenkins.io/convert-to-pipeline) 
+* [Sanil Pillai](https://jenkins.io/blog/2017/12/15/auto-convert-freestyle-jenkins-jobs-to-coded-pipeline/) - (2017) Auto-Convert Freestyle Jobs to Jenkins Pipeline. **Bonus** : [Convert To Pipeline plugin](https://plugins.jenkins.io/convert-to-pipeline)
 * [Jenkins JIRA](https://issues.jenkins-ci.org/issues/?jql=) - Ticket related to Jenkins
 * [v1v/JenkinsWorld2017](https://github.com/v1v/JenkinsWorld2017/tree/master/groovy) - (2017) Jenkins World 2017: The Game of DevOps: Applying Jenkins Best Practices in a Dynamic Industry, by Victor Martinez. | Groovy scripts to bring back order into jenkins jobs **Bonus** : [Video presentation at Jenkins World 2017](https://www.youtube.com/watch?v=DVejh9AiQrY)
 * [CI/CD Life](http://cicd.life/) - Continuous Integration / Continuous Delivery 4 Life - tips & tricks
@@ -1937,7 +1937,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo) - [Video] videos from KubeCon + CloudNativeCon 2018 - Copenhagen
 * [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 * [Théo Chamley](https://cloud.google.com/solutions/best-practices-for-operating-containers) - (2018) 7 best practices for operating containers
-* [ZooBab](http://www.zoobab.com/kubernetes-workshop) - Kubernetes Workshop / introduction guide 
+* [ZooBab](http://www.zoobab.com/kubernetes-workshop) - Kubernetes Workshop / introduction guide
 * [Daniel Lebrero](https://danlebrero.com/2018/07/09/kubernetes-explained-in-pictures-the-theme-park-analogy) - (2018) Kubernetes explained in pictures: the theme park analogy | This is an attempt to explain Kubernetes core concepts (pods, nodes, services, resources, ...) with an theme park analogy.
 * [Ilya Dmitrichenko](https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops) - (2018) Kubernetes anti-patterns: Let's do GitOps, not CIOps!
 * [Mark Ramm](https://www.weave.works/blog/managing-secrets-in-kubernetes) - (2019) Managing Secrets in Kubernetes
@@ -2227,9 +2227,9 @@ See also [Infrastructure](#infrastructure)
 * [Censys](https://censys.io/) - Find and analyze every reachable server and device on the Internet.
 * [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
 * [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query?bflag&searchtext=) - Webupdates / database query
-* [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks 
+* [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks
 * [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
-* [qit](https://qit.cloud/) - Search for Tech podcasts by topic 
+* [qit](https://qit.cloud/) - Search for Tech podcasts by topic
 * [DSL-Store](https://dls-store.com/) - T-Shirt online store. Your best t-shirt should be like your bed. It just feels like you are home when you are in it.
 * [Putlocker](https://www6.putlockertv.to/) - The easiest way to watch your favorite movies online!
 * [Open Culture](http://www.openculture.com/freemoviesonline) - 1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, Documentaries, etc.
@@ -2294,7 +2294,7 @@ See also [Infrastructure](#infrastructure)
 * [Cached View](http://www.cachedview.com/) - Google + Wayback machine Cached Pages of any website
 * [ChangeDetection](https://www.changedetection.com/) - Know automatically when any web page changes
 * [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
-* [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
+* [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier
 * [Jeffrey Friedl](http://exif.regex.info/exif.cgi) - Jeffrey's Image Metadata Viewer (Exif viewer)
 * [Exif Viewer](http://exif-viewer.com/) - Another image metadata viewer
 * [Whois](https://www.whois.com/whois/) - Whois to get domain name info + identity
@@ -2346,7 +2346,7 @@ See also [Infrastructure](#infrastructure)
 * [Nu Html Checker](https://validator.w3.org/nu) - free online tool experimenting better HTML checking. its behavior remains subject to change
 * [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation Service
 * :star: [**W3C**](https://validator.w3.org/checklink) - Link Checker : Check links and anchors in Web pages or full Web sites
-* [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
+* [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.
 * [Convertio](https://convertio.co/epub-pdf/) - Advanced online tool to convert EPUB files to PDF
 * [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
 * [mastoview](http://www.unmung.com/mastoview?url=mastodon.social&view=local) - A tool to preview what a Mastodon instance is saying, useful if you don't know which one is the best fit for you
@@ -2402,7 +2402,7 @@ See also [Infrastructure](#infrastructure)
 * [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html) - estimate your monthly AWS bill more efficiently. Using this tool, you can add, modify and remove services from your 'bill' and it will recalculate your estimated monthly charges automatically. The calculator also shows common customer samples and their usage, such as Disaster Recovery and Backup or Web Application.
 * [**TimestampConvert.com**](https://www.timestampconvert.com/) - Convert dates to or from timestamps online
 * [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
-* [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search. 
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search.
 * [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
 * [CICR Tool](https://www.ipaddressguide.com/cidr) - IP Range To CIDR / CIDR to IP Range
 * [Meta Tags](https://metatags.io/) - is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
@@ -2445,7 +2445,7 @@ See also [Infrastructure](#infrastructure)
 * [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : * [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
 * [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
-* [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity 
+* [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity
 * [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
 
 ## Board games
@@ -2454,9 +2454,9 @@ See also [Infrastructure](#infrastructure)
 * [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : * [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
-* [Boardgame Recommendations](https://larrydag.shinyapps.io/boardgame_reco/) - a board game recommendation engine built by larrydag 
+* [Boardgame Recommendations](https://larrydag.shinyapps.io/boardgame_reco/) - a board game recommendation engine built by larrydag
 * [Board Game Finder](https://www.boardgamefinder.net/) - Discover your next board game in a few clicks.
-* [Board Games For Me](http://www.boardgamesfor.me/recommendations) - Find board game recommendations you'll love 
+* [Board Games For Me](http://www.boardgamesfor.me/recommendations) - Find board game recommendations you'll love
 
 ## Role-playing :dragon:
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -2582,15 +2582,15 @@ See also [Infrastructure](#infrastructure)
 > we don't take breaks because we are tired, we take breaks so that we are never tired.
 * [Ward Cunningham](http://wiki.c2.com/?AnalyzingXpWithOptionsPricing) - (2014) Analyzing Xp With Options Pricing | in XP, you should consider the Option to abandon, option to switch, option to defer investment and take advantage of possible future opportunity
 * [Nick Cassella](https://civicskunk.works/ask-your-coworkers-what-they-make-youll-earn-more-46efb2daf63e) - (2018) Ask Your Coworkers What They Make. You’ll Earn More.
-* [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer  
+* [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer
 > A lot of people (especially entrepreneurs) are so obsessed with how fast they will become successful that they will sacrifice their mental health in order to constantly push themselves.
 * [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) - an approach to nonviolent living based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms themselves and others when they do not recognize more effective strategies for meeting needs
 * [Jacquelyn Smith](https://www.forbes.com/sites/jacquelynsmith/2012/06/22/how-to-ignore-distractions-at-work/#7e4b56663641) - (2012) How To Ignore Distractions In The Workplace
 * [Tuck Sleep](https://www.tuck.com/memory-and-sleep/) - (2017) Memory and Sleep | How Does Sleep Affect Your Short and Long Term Memory
 * [Healthcare compassion](https://charterforcompassion.org/gaining-emotional-strength/the-biology-of-joy) - The Biology of Joy | some people are genetically predisposed to be happy by virtue of their busy prefrontal cortexes, and research in infants confirms it.
-* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/travailler-autrement/) - (2013) [FR] Travailler autrement | sur les crises et court-termisme entre autres 
+* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/travailler-autrement/) - (2013) [FR] Travailler autrement | sur les crises et court-termisme entre autres
 * [Brandur Leach](https://brandur.org/fragments/caffeine) - Caffeine | An experiment of Brandur in seriously throttling back its caffeine intake for the first time in years.
-* [Jordane Moody Zangueneh](http://www.osezbriller.com/trouver-sa-vocation-13-conseils/) - [FR] :fr: Trouver sa vocation : 13 conseils à suivre pour se secouer 
+* [Jordane Moody Zangueneh](http://www.osezbriller.com/trouver-sa-vocation-13-conseils/) - [FR] :fr: Trouver sa vocation : 13 conseils à suivre pour se secouer
 * [Jobat](https://www.jobat.be/fr/articles/20-methodes-pour-trouver-sa-vocation/) - (2013) [FR] :fr: 20 méthodes pour trouver sa vocation
 * [Natasha Stanley](https://www.careershifters.org/expert-advice/no-clear-career-ideas-the-3-mistakes-youre-making-and-3-things-to-do-instead) - No Clear Career Ideas? The 3 Mistakes You’re Making (And 3 Things To Do Instead)
 * [Blaz Kos](https://agileleanlife.com/business-model-you/) - Business Model You – Book Summary – Reinvent your career
@@ -2610,7 +2610,7 @@ See also [Infrastructure](#infrastructure)
 * [Stavros Korokithakis](https://www.stavros.io/posts/on-increasing-productivity/) - (2018) On increasing productivity
 > don’t stress too much about getting stuff done, it’s fine if you do things at your own pace
 * [Chris Dottie](https://social.hays.com/2018/02/08/4-things-recruiter-needs-know/) - (2018) 4 things your recruiter needs to know about you
-* [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
+* [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity
 * [Michelle Venetucci Harvey](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2) - (2017) A research roundup to show that your office layout is toxic (and some tips for making it better)
 * [James Conca](https://www.forbes.com/sites/jamesconca/2012/06/10/energys-deathprint-a-price-always-paid/#71ef4f07709b) - (2012) How Deadly Is Your Kilowatt? We Rank The Killer Energy Sources | It seems that Coal is way more harmful than Nuclear.
 * [Mike Donghia](https://www.becomingminimalist.com/enjoying-life-in-the-slow-lane/) - (2010) Enjoying Life in the Slow Lane
@@ -2885,9 +2885,9 @@ See also [Infrastructure](#infrastructure)
 * [Ask Ubuntu](https://askubuntu.com/questions/79665/keep-only-essential-packages) - Keep only essential packages
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-bastion-host/) - (2009) Configure Linux As Bastion Host
 * [Anna Kennedy](https://sysadvent.blogspot.be/2017/12/day-22-building-secure-bastion-host-or.html) - (2017) Building a secure bastion host, or, 50 ways to kill your server. **Bonus** : [Slides](https://www.slideshare.net/AnnaKennedy11/building-a-secure-bastion-or-50-ways-to-kill-your-server-81551575)
-* [The Linux Documentation Project (LDP)](http://www.tldp.org/guides.html) - Linux Documentation Project Guides 
+* [The Linux Documentation Project (LDP)](http://www.tldp.org/guides.html) - Linux Documentation Project Guides
 * [Benjamin Cane](https://bencane.com/2013/12/23/yum-plugins-verifying-packages-and-configurations-with-yum-verify/) - (2013) Yum Plugins: Verifying packages and configurations with Yum Verify
-* [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
+* [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual
 * [Eric Steven Raymond](https://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/cron-best-practices/) - (2016) Cron best practices
 * [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
@@ -2902,12 +2902,12 @@ See also [Infrastructure](#infrastructure)
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 * [Ubuntu Community Help Wiki](https://help.ubuntu.com/community/SSH/OpenSSH/Keys) - Internet and Networking >> SSH >> SSH/OpenSSH/Keys
 * [DistroTest](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
-* [David Newcomb](http://www.bigsoft.co.uk/blog/2012/01/06/rpmdb-unable-to-join-the-environment) - (2012) yum install failing on `rpmdb: unable to join the environment` or `db3 error(11) from dbenv->open: Resource temporarily unavailable`. Do the followings: 
+* [David Newcomb](http://www.bigsoft.co.uk/blog/2012/01/06/rpmdb-unable-to-join-the-environment) - (2012) yum install failing on `rpmdb: unable to join the environment` or `db3 error(11) from dbenv->open: Resource temporarily unavailable`. Do the followings:
 ```
 rm -rf /var/lib/rpm/__db*
 rpm --rebuilddb
 ```
-* [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities 
+* [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -2949,7 +2949,7 @@ rpm --rebuilddb
 * [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
 * :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used in Vim through [ALE](https://github.com/w0rp/ale), [Neomake](https://github.com/neomake/neomake), or [Syntastic](https://github.com/vim-syntastic/syntastic)
 * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - The NERDTree is a file system explorer for the Vim editor.
-* [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.  
+* [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.
 * [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
 * [Josh Reichardt](https://thepracticalsysadmin.com/useful-vim-plugins/) - Useful Vim Plugins
 * [Fred Hébert](https://ferd.ca/vim-and-composability.html) - Vim and Composability
@@ -2991,7 +2991,7 @@ rpm --rebuilddb
 * [Yubico Support](https://support.yubico.com/support/solutions/articles/15000015045-macos-logon-tool-configuration-guide) - macOS Logon Tool Configuration Guide : Enable Yubico 2FA at macOs login screen and for screensaver
 * [OSXDaily](http://osxdaily.com/2017/11/22/use-touch-id-sudo-mac/) - (2017) How to Use Touch ID to Authenticate sudo on Mac OS
 * [Homebrew Formulae](https://formulae.brew.sh/) - is an online package browser for Homebrew – the macOS package manager.
-* [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities 
+* [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
@@ -3115,8 +3115,8 @@ rpm --rebuilddb
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 * [CICR Tool](https://www.ipaddressguide.com/cidr) - Calculator for IP Range To CIDR / CIDR to IP Range
 * [Sal Ferrarello](https://salferrarello.com/chrome-clear-redirect-cache/) - (2016) Chrome Clear Redirect Cache
-* [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR; 
-type `curl ident.me` to know your public ip 
+* [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR;
+type `curl ident.me` to know your public ip
 * [Joyent Support](https://help.joyent.com/hc/en-us/articles/226687427-Watching-active-IP-connections-Linux) - (2016) Watching active IP connections - Linux
   * Incoming connections : `watch -d -n1 lsof -i`
 * [Super User](https://superuser.com/a/848966/453117) and [Server Fault](https://serverfault.com/a/353134/298315)
@@ -3126,7 +3126,7 @@ type `curl ident.me` to know your public ip
 * [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
 
 > Tips
-* [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata : 
+* [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
   1. Connect to your instance.
   2. Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
   3. Use the following command to get its public IP address:  `curl http://169.254.169.254/latest/meta-data/public-ipv4`
@@ -3226,7 +3226,7 @@ type `curl ident.me` to know your public ip
 * [csabapalfi/release-it](https://github.com/csabapalfi/release-it) - notes for the book titled 'Release It!' by Michael T. Nygard
 * [Matthew Skelton](https://blog.softwareoperability.com/2013/10/16/operability-can-improve-if-developers-write-a-draft-run-book/) - (2013) Operability can Improve if Developers Write a Draft Run Book
 * [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template) - Run Book / Operations Manual template for modern software systems. **Bonus** : [Link to template markdown](https://github.com/SkeltonThatcher/run-book-template/blob/master/run-book-template.md) + [Run Book Dialog Sheet v1.0](https://github.com/SkeltonThatcher/run-book-template/releases/download/v1.0/Run-Book-dialogue-sheet-A1.pdf) [PDF]
-* [Run Book Dialog Sheet v1.0](https://github.com/SkeltonThatcher/run-book-template/releases/download/v1.0/Run-Book-dialogue-sheet-A1.pdf) [PDF] Discussion / Dialog / Round table cheatsheet for Ops and Devs 
+* [Run Book Dialog Sheet v1.0](https://github.com/SkeltonThatcher/run-book-template/releases/download/v1.0/Run-Book-dialogue-sheet-A1.pdf) [PDF] Discussion / Dialog / Round table cheatsheet for Ops and Devs
 * [Matthew Skelton](https://www.slideshare.net/slideshow/embed_code/key/k8BhSNPZ3o1bM3) - (2017) [Slides] Practical Operability Techniques for Teams
 * [Steve Smith](https://www.continuousdeliveryconsulting.com/blog/aim-for-operability-not-devops-as-a-cult/) - (2017) Aim for Operability, not DevOps As A Cult
 * [Russ Collier](https://www.devopsonwindows.com/it-takes-dev-and-ops-to-make-devops/) - (2013) It Takes Dev and Ops to Make DevOps
@@ -3362,7 +3362,7 @@ See also [Terraform](#terraform)
 * [Vjaceslavs Kreidikovs](https://medium.com/chili-labs/why-workflows-are-important-in-your-work-70e4641913bd) - (2018) JIRA workflow configuration tips, explanation & examples
 * [Kim Wall](https://www.atlassian.com/blog/jira-software/human-side-scaling-jira-software-governance-custom-fields-admins) - (2017) The human side to scaling Jira software: governance, change control, and more
 * [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver0710/project-screens-schemes-and-fields-953144607.html) - Project screens, schemes and fields
-* [Atlassian Community](https://community.atlassian.com/t5/Jira-discussions/What-would-be-your-advice-to-first-time-Jira-Software-admins/td-p/711667) - (2018) What would be your advice to first-time Jira Software admins? | good tips & tricks in answers 
+* [Atlassian Community](https://community.atlassian.com/t5/Jira-discussions/What-would-be-your-advice-to-first-time-Jira-Software-admins/td-p/711667) - (2018) What would be your advice to first-time Jira Software admins? | good tips & tricks in answers
 * [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver071/configuring-a-custom-field-802592532.html?_ga=2.69739668.52022900.1536230565-1749018630.1466933040#Configuringacustomfield-add_schemeAddinganewcontext) - Configuring a custom field : Adding a new context | Adding a new context allows you to configure a custom field differently for different combinations of issue types and projects.
 * [Atlassian Docs](https://docs.atlassian.com/software/jira/docs/api/REST/latest) - Latest Jira documentation for REST API **Bonus** : [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)
 * [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
@@ -3380,7 +3380,7 @@ See also [Terraform](#terraform)
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Sumit Maingi](https://cloudncode.blog/2016/12/30/what-should-you-log-in-an-application-and-how-to-avoid-having-24x7-support-looking-at-them/) - (2016) What should you log in an application and how to avoid having 24×7 support looking at them?
 * [Splunk Docs](http://dev.splunk.com/view/logging-best-practices/SP-CAAAFCK) - Logging best practices. **See also** : [Overview of Splunk logging for Java](http://dev.splunk.com/view/splunk-logging-java/SP-CAAAE2K)
-* [Daniel Lebrero](https://danlebrero.com/2016/11/21/the-boy-who-cried-wolf-an-it-tale/) - (2016) The boy who cried wolf, an IT tale | on the importance of a correct log level 
+* [Daniel Lebrero](https://danlebrero.com/2016/11/21/the-boy-who-cried-wolf-an-it-tale/) - (2016) The boy who cried wolf, an IT tale | on the importance of a correct log level
 > How does a project get to be one year late? … One day at a time.
 
 ## Monitoring
@@ -3418,7 +3418,7 @@ See also [Terraform](#terraform)
 * [Charity Majors](https://honeycomb.io/blog/2017/11/best-practices-for-observability/) - (2017) Best Practices for Observability
 * [Brendan D. Gregg](http://www.brendangregg.com/Perf/linux_observability_tools.png) - [IMG] Linux performance observability tools
 * [Alex Dzyoba](https://alex.dzyoba.com/blog/go-prometheus-service/) - (2018) Instrumenting a Go service for Prometheus
-* [Daniel Lebrero](https://danlebrero.com/2016/11/21/the-boy-who-cried-wolf-an-it-tale/) - (2016) The boy who cried wolf, an IT tale | on the importance of a correct log level 
+* [Daniel Lebrero](https://danlebrero.com/2016/11/21/the-boy-who-cried-wolf-an-it-tale/) - (2016) The boy who cried wolf, an IT tale | on the importance of a correct log level
 > How does a project get to be one year late? … One day at a time.
 * [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
 
@@ -3455,7 +3455,7 @@ See also [Terraform](#terraform)
 * [Paul Graham](http://www.paulgraham.com/mean.html) - (2014) Mean People Fail
 * [The Knowledge Project](https://www.fs.blog/2017/08/ed-latimore-podcast/) - [Podcast] (2017) Ed Latimore on the Secret to a Happy Life
 * [Lou Bichard](https://simpleprogrammer.com/overcoming-obstacles-stoic-mindset/) - (2018) Overcoming Programmer Career Obstacles With A Stoic Mindset
-* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme 
+* [Hugo Lassiège](https://www.eventuallycoding.com/index.php/le-10eme-homme/) - (2017) [FR] Le 10ème homme
 * [John Cleese](https://www.youtube.com/watch?v=wvVPdyYeaQU) - [Video] on Stupidity
 * [BrainyQuote](https://www.brainyquote.com/topics/patience) - Patience Quotes
 * [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
@@ -3521,7 +3521,6 @@ See also [Terraform](#terraform)
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the Internet.
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
-* [Dan Pollock](http://someonewhocares.org/hosts/) - the host file you need to make the internet not suck (as much)
 * [Electronic Frontier Foundation](https://www.eff.org/) - EFF is working to protect our fundamental rights regardless of technology, to educate the press, policymakers and the general public about civil liberties issues related to technology, and to act as a defender of those liberties.
 * [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
@@ -3545,6 +3544,7 @@ See also [Terraform](#terraform)
 * [PrivacyAngel](https://privacyangel.com/) - Better protect your privacy online | Know which data you share for each popular online services.
 * [switching.social](https://switching.social/) - ethical, easy-to-use and privacy-conscious alternatives to popular sites and apps
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
+* [Dan Pollock](https://someonewhocares.org/hosts/) - how to make the internet not suck (as much) | a hosts file to prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
@@ -3585,7 +3585,7 @@ See also [Terraform](#terraform)
 * :star: [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
 * [Lifehacker](http://lifehacker.com/) - tips, tricks and downloads to getting things done
 * [Hackaday](http://hackaday.com/) - fresh hacks every day
-* [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier  
+* [IFTTT](https://ifttt.com/) - use existing services together to automate tasks and make your life easier
 * [Mattias Geniar](https://ma.ttias.be/why-do-we-automate/) - Why do we automate?
 * [Bullet Journal](http://bulletjournal.com/) - a simple system to improve your productivity using only paper
 * :star: [**Leo Babauta**](https://zenhabits.net/archives/) - Zen Habits is about finding simplicity and mindfulness in the daily chaos of our lives
@@ -3687,14 +3687,14 @@ See also [Terraform](#terraform)
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/05/20/staying-focused/) - (2018) Staying focused, the productive way
 * [Graphviz Docs](https://www.graphviz.org/doc/info/attrs.html) - Node, Edge and Graph Attributes
 * [Gordon Brander](http://gordonbrander.com/pattern/) - Patterns : "This is my bag of tricks — loose notes, design patterns, rules-of-thumb, methods of enquiry, tools, cheatsheets, gimmicks, leverage points, descriptions of systems, key questions, risks, and unknowns."
-* [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/12/process.html) - (2011) Who Needs Process? 
+* [Ted Dziuba](http://widgetsandshit.com/teddziuba/2011/12/process.html) - (2011) Who Needs Process?
 > Get rid of your prioritized list of tasks. Stop having your daily stand-ups. No more status report e-mails. Just stop doing that stuff, and get rid of anyone who can't cope. Nothing terrible will happen.
 * [Bernie Ferguson](https://www.atlassian.com/blog/inside-atlassian/how-to-facilitate-meetings-guide) - (2017) How to manage meetings like an expert facilitator
 * [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
 * [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
 * [Rich Archbold](https://www.intercom.com/blog/run-less-software/) - (2018) Run less software
 > 1. Choose standard technology 2. Outsource Undifferentiated Heavy Lifting 3. Create enduring competitive advantage
-* [Mayo Oshin](https://medium.com/swlh/the-ivy-lee-method-a-100-year-old-routine-for-stress-free-productivity-242f1151b22e) - (2018) The Ivy Lee Method: A 100-year old Routine for Stress-Free Productivity 
+* [Mayo Oshin](https://medium.com/swlh/the-ivy-lee-method-a-100-year-old-routine-for-stress-free-productivity-242f1151b22e) - (2018) The Ivy Lee Method: A 100-year old Routine for Stress-Free Productivity
 > 1) Clearly define your vision, goals and objectives for your life, business, health etc.
 > 2) Write down the six most important tasks for each
 > 3) Rank and prioritize these six tasks in order of importance.
@@ -3709,10 +3709,10 @@ See also [Terraform](#terraform)
 > - productivity in the wrong direction isn’t worth anything at all.  Think more about what to work on.
 > - Don’t neglect your family and friends for the sake of productivity
 > - it’s good to overcommit a little bit. However, overcommitting a lot is disastrous.
-* [Alex Naoumidis](https://www.themindsetapp.com/musk-letter/) - (2018) Elon Musk reveals his productivity rules in a letter he sent to Tesla employees 
+* [Alex Naoumidis](https://www.themindsetapp.com/musk-letter/) - (2018) Elon Musk reveals his productivity rules in a letter he sent to Tesla employees
 > - Get of all large meetings, unless you’re certain they are providing value to the whole audience, in which case keep them very short.
 > - Also get rid of frequent meetings
-> - Walk out of a meeting or drop off a call as soon as it is obvious you aren’t adding value. 
+> - Walk out of a meeting or drop off a call as soon as it is obvious you aren’t adding value.
 > - Don’t use acronyms or nonsense words for objects
 > - Communication should travel via the shortest path necessary to get the job done
 > - A major source of issues is poor communication between depts. The way to solve this is allow free flow of information between all levels
@@ -3723,7 +3723,7 @@ See also [Terraform](#terraform)
 * [Greg Kamradt](https://www.gregkamradt.com/gregkamradt/how-awesome-people-have-taught-me-to-make-things) - (2018) How awesome people have taught me to make things happen
 * [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator, designed for power keyboard users
 * [Mike Jarvis](https://builttoadapt.io/how-to-save-a-fortune-on-cloud-infrastructure-5ff418c7658c) - (2018) How to Save a Fortune On Cloud Infrastructure
-* [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better :books: 
+* [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better :books:
 * [David R. MacIver](https://www.drmaciver.com/2013/08/how-did-you-get-started-so-quickly/) - (2013) How to quickly become effective when joining a new company
 * [Bazyli Brzóska](https://invent.life/blog/on-organizing-projects-and-files/) - (2013) On organizing projects and files | TLDR : we shoudl use tags and we need more tools supporting them
 
@@ -3784,7 +3784,7 @@ See also [Terraform](#terraform)
 * [Morgan Housel](https://www.collaborativefund.com/blog/making-history-by-doing-nothing/) - (2018) Making History By Doing Nothing
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
-* [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without 
+* [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without
 * [Nils Salzgeber](https://www.njlifehacks.com/work-less-be-more-productive/) - (2017) The Productivity Paradox: How Working Less Will Make You More Productive
 > 1. Work Less, Sleep More
 > 2. Work Less, Meditate More
@@ -3843,7 +3843,7 @@ See also [Terraform](#terraform)
 * [dupeGuru](https://www.hardcoded.net/dupeguru/) - is a tool to find duplicate files on your computer.
 * [Blueprint](http://devstructure.com/blueprint/) - a config mgmt tool that reverse-engineers servers by figuring out what you've done manually, commit them to git + generates code that can replicate your efforts
 * [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
-* [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.  
+* [Listly](http://listly.io/en/) - Fully-automated Web Scraping. HTML to Excel in seconds : Paste URL, Get Excel.
 * [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
 * [ty-/spec-style-guide](https://github.com/ty-/spec-style-guide) - some best practices for writing markdown based specifications to be printable by gitprint.com and pandoc
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
@@ -3866,13 +3866,14 @@ See also [Terraform](#terraform)
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 * [Carla King](http://mediashift.org/2014/04/indie-publishing-tools-for-small-press-and-author-co-ops/) - (2014) 6 Great Self-Publishing Tools for Small Press and Author Co-Ops
 * [Alex Efros](https://powerman.name/doc/asciidoc) - AsciiDoc cheatsheet
-* [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar 
+* [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar
 * [WikiDiff](https://wikidiff.com/) - display difference between two terms, using wikipedia definition. Useful when answering online tests
 * [bacook17/acronym](https://github.com/bacook17/acronym) - ACRONYM (Acronym CReatiON for You and Me) | A python-based tool for creating English-ish Acronyms from your fancy project
 * [r/personalfinance/tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Personal Finance Tools : Redditor-created Spreadsheets
 * [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
-* [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent) 
+* [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
 * [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
+* [Dan Pollock](https://someonewhocares.org/hosts/) - how to make the internet not suck (as much) | a hosts file to prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
 
 # Programming
 > News
@@ -4183,7 +4184,7 @@ See also [Terraform](#terraform)
 * [Andrew Turley](https://gist.github.com/aturley/49b60c98306d90ffc2f981515827b005) - Important Considerations about Pony programming language, based on [this tweet](https://twitter.com/casio_juarez/status/898706225642086400)
 * [Pony Docs](https://tutorial.ponylang.org/) - Introduction Tutorial about [Pony](https://www.ponylang.org/) : an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 * [Simon Brown](http://www.codingthearchitecture.com/2018/02/09/todays_software_developers_are_the_ivory_tower_architects_of_tomorrow.html) - (2018) Today's software developers are the ivory tower architects of tomorrow
-* [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer  
+* [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer
 > A lot of people (especially entrepreneurs) are so obsessed with how fast they will become successful that they will sacrifice their mental health in order to constantly push themselves.
 * [Ben Northrop](http://www.bennorthrop.com/Essays/2018/the-reality-of-reuse.php) - (2018) The Reality of Reuse | we're hard-wired to want to make decisions quickly and we take too many shortcuts
 * [John Sonmez](http://www.se-radio.net/2015/12/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career/) - (2015) SE Radio Episode 245: John Sonmez on Marketing Yourself and Managing Your Career
@@ -4198,7 +4199,7 @@ See also [Terraform](#terraform)
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 * [The Codeless Code](http://thecodelesscode.com/case/random) - An illustrated collection of (sometimes violent) fables, concerning the Art and Philosophy of software development
 * [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html) - (2017) Just Following Orders | Reminder: Doing your job does not mean that you just follow orders. The courts are going to hold you to a high ethical standard, even if your employer does not.
-* [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
+* [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work.
 * [victorlaerte/awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes) - a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
 * [Jeff Knupp](https://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/) - (2014) How 'DevOps' is Killing the Developer
 * [James Somers](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) - (2017) The Coming Software Apocalypse
@@ -4210,7 +4211,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Hubris: The quality that makes you write (and maintain) programs that other people won't want to say bad things about.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2018/01/23/job-with-technology-you-dont-know/) - (2016) How to get a job with a technology stack you don’t know
 > Look for jobs that excite you, for jobs you think you can do with just a little ramp-up time. And then apply for those jobs, knowing that most of them will ignore you—but it only takes one yes to get an exciting new job, and an exciting new opportunity to learn new skills.
-* [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering 
+* [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) - (2017) Brilliant Jerks in Engineering
 * [DEV](https://dev.to/ben/what-are-some-fundamentals-of-security-every-developer-should-understand-3ki3) - What are some fundamentals of security every developer should understand?
 * [DEV](https://dev.to/jeffreyuvero/what-is-your-personal-programming-ethics-483a) - (2018) What is your personal Programming ethics?
 * [ACM Ethics](https://ethics.acm.org/code-of-ethics/software-engineering-code/) - (1997) The Software Engineering Code of Ethics and Professional Practice
@@ -4232,7 +4233,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [George Gritsouk](https://gggritso.com/2014/12/02/code-hierarchy-of-needs/) - (2014) Code Hierarchy of Needs | Maslow would not approve of this.
 * [stanislaw/SoftwareDesignHeuristics](https://github.com/stanislaw/SoftwareDesignHeuristics) - heuristics found to be useful in software engineering practice. We call “heuristics” everything that helps us to write better code given we keep them in mind.
 * [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
-* [Arnaud Lemaire](https://www.youtube.com/watch?v=bQfumbBN6YQ) - [Videos] :fr: [FR] (2019) Entre industrialisation et artisanat, le métier de développeur. | a very good and accurate talk of software craftsmanship 
+* [Arnaud Lemaire](https://www.youtube.com/watch?v=bQfumbBN6YQ) - [Videos] :fr: [FR] (2019) Entre industrialisation et artisanat, le métier de développeur. | a very good and accurate talk of software craftsmanship
 * [Bryan Cantrill](http://dtrace.org/blogs/bmc/2018/10/05/assessing-software-engineering-candidates/) - (2018) Assessing software engineering candidates
 * [David Winterbottom](https://codeinthehole.com/lists/little-known-words-relevant-to-software-development/) - (2017) Little-known words relevant to software development
 > Example: VERSCHLIMMBESSERN - (German) - to make something worse while attempting to make it better
@@ -4269,8 +4270,8 @@ Maturity Model
 ## Assembly
 * [Mark Larson](http://mark.masmcode.com/) - Assembly Optimization Tips
 
-## C/C++
-* [Mike Acton](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - (2014) [Slides] Data oriented design principles and c++
+## C/C
+* [Mike Acton](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - (2014) [Slides] Data oriented design principles and c
 * [Angel 2D](https://github.com/angel2d/angel2d) - Angel 2D : A cross-platform 2D game prototyping framework based on OpenGL and C++. Looks dead...
 * [SFML](https://www.sfml-dev.org/) - SFML is a simple, fast, cross-platform and object-oriented multimedia API. Written in C++ and provides bindings for various languages such as C, .Net, Ruby, Python.
 * [Vicky Chijwani](https://vickychijwani.me/cpp-gotchas/) - (2014) Common C++ Gotchas
@@ -4484,15 +4485,15 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
 * [Matt Butcher](http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html) - (2018) Be Nice And Write Stable Code
 * [Brandur Leach](https://brandur.org/minimalism) - (2018) In Pursuit of Production Minimalism
-* [Birat Rai](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385) - (2017) Step 8: The Boy Scout Rule ~Robert C. Martin (Uncle Bob) 
+* [Birat Rai](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385) - (2017) Step 8: The Boy Scout Rule ~Robert C. Martin (Uncle Bob)
 > “Leave Things BETTER than you found them.” ~ Robert Baden Powell
 * [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 * [Rule of three (computer programming)](https://en.wikipedia.org/wiki/Rule_of_three_%28computer_programming%29) - only refactor when similar code is used three times (and more)
 * [Johannes Brodwall](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/) - (2018) Forget about Clean Code, let’s embrace Compassionate Code | Make people Awesome. Clean Code may help or hurt that goal. Learn to see the difference.
 * [Trung Thanh Le](https://www.slideshare.net/TrungThanhLe1/connascence-how-to-detect-code-smell) - (2017) [Slides] Connascence - How to detect code smell
-* [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
-* [Sandi Metz](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - (2016) The Wrong Abstraction 
+* [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work.
+* [Sandi Metz](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - (2016) The Wrong Abstraction
 > 1. duplication is far cheaper than the wrong abstraction
 > 2. prefer duplication over the wrong abstraction
 * [John D. Cook](https://www.johndcook.com/blog/2008/05/03/reusable-code-vs-re-editable-code/) - (2008) Reusable code vs. re-editable code
@@ -4503,7 +4504,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [George Gritsouk](https://gggritso.com/legacy-code) - (2016) Legacy Code | The noblest pursuit of our weekdays | slow programming
 * [Slow Programming](https://slowprogramming.com/) - Programming has become a pursuit of profit over personal knowledge. The craft of programming has developed into a rapid rush to the finish line via bootcamps and brief tutorials.
 * [stanislaw/SoftwareDesignHeuristics](https://github.com/stanislaw/SoftwareDesignHeuristics) - heuristics found to be useful in software engineering practice. We call “heuristics” everything that helps us to write better code given we keep them in mind.
-* [Arnaud Lemaire](https://www.youtube.com/watch?v=bQfumbBN6YQ) - [Videos] :fr: [FR] (2019) Entre industrialisation et artisanat, le métier de développeur. | a very good and accurate talk of software craftsmanship 
+* [Arnaud Lemaire](https://www.youtube.com/watch?v=bQfumbBN6YQ) - [Videos] :fr: [FR] (2019) Entre industrialisation et artisanat, le métier de développeur. | a very good and accurate talk of software craftsmanship
 * [Terraform Best Practices](https://www.terraform-best-practices.com/) - free book with most of best-practices and recommendations for Terraform users
 * [Anton Babenko](https://fosdem.org/2019/schedule/event/terraform_best_practices/) - [Videos] (2019) Codifying infrastructure with Terraform for the future | be aware of principles related to management of Terraform resources, Terraform modules best-practices and some CI/CD principles applicable to infrastructure management and deployments.
 * [Matej Jellus](https://juffalow.com/other/write-good-git-commit-message) - (2018) Write good git commit message
@@ -4569,8 +4570,8 @@ Containers, Clouds and Lean Business
 * [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
 * [Lieven Vaneeckhaute (denshade)](https://softwareefficiency.wordpress.com/2015/03/14/big-data-technology-and-the-responsibility-shift/) - (2015) NoSQL and the responsibility shift | about data quality
 * [Dzmitry Plashchynski](https://medium.com/@plashchynski/postgresql-upgrade-on-centos-4c0ddd2f8687) - (2016) PostgreSQL upgrade on CentOS | applicable to all Red Hat family (RHEL/CentOS/SL/OL 7) and to all PostgreSQL 9.* versions.
-* [Stack Overflow](https://stackoverflow.com/questions/876522/creating-a-copy-of-a-database-in-postgresql) - Creating a copy of a database in PostgreSQL. | in essence, what works for me : 
-``` 
+* [Stack Overflow](https://stackoverflow.com/questions/876522/creating-a-copy-of-a-database-in-postgresql) - Creating a copy of a database in PostgreSQL. | in essence, what works for me :
+```
 pg_dumpall > db.out # backup
 psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you do want to replace existing data with same db and table names.
 ```
@@ -4618,7 +4619,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [PropEr Testing](http://propertesting.com/) - Fred Hébert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) - [Book] Online book. Reading this tutorial should be one of your first steps in learning Erlang
-* [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - list of amazingly awesome Elixir and Erlang libraries, resources and more  
+* [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - list of amazingly awesome Elixir and Erlang libraries, resources and more
 * [uhub/awesome-erlang](https://github.com/uhub/awesome-erlang) - list of awesome Erlang frameworks, libraries and software.
 * [drobakowski/awesome-erlang](https://github.com/drobakowski/awesome-erlang) - list of awesome Erlang libraries, resources and shiny things.
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
@@ -4794,7 +4795,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Matt Butcher](https://gist.github.com/technosophos/9c706b1ef10f42014a06) - (2015) Why We Should Not Return to Monolithic Repositories
 * [Avi Cavale](http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository) - (2016) Our journey to microservices: mono repo vs multiple repositories
 * [mozilla.dev.developer-tools](https://groups.google.com/forum/m/#!topic/mozilla.dev.developer-tools/W17drvVMFhY) - Discussion about Multiple repos vs Monolithic repo
-* [Gregory Szorc](https://gregoryszorc.com/blog/2014/09/09/on-monolithic-repositories/) - (2014) On Monolithic Repositories | in favor of monolithic repos  
+* [Gregory Szorc](https://gregoryszorc.com/blog/2014/09/09/on-monolithic-repositories/) - (2014) On Monolithic Repositories | in favor of monolithic repos
 * [Aaron Schlesinger](https://gist.github.com/arschles/5d7ba90495eb50fa04fc) - (2015) Why We Should Use Monolithic Repositories
 Raw
 * [Nathan Leiby](https://medium.com/always-a-student/mo-repos-mo-problems-how-we-make-changes-across-many-git-repositories-293ad7d418f0) - (2017) Mo Repos, Mo Problems? How We Make Changes Across Many Git Repositories
@@ -4880,7 +4881,7 @@ Raw
 * [PLEAC-Groovy](http://pleac.sourceforge.net/pleac_groovy/) - implementation of the Solutions of the Perl Cookbook in the Groovy language
 * [Groovy web console](https://groovyconsole.appspot.com/) - a website for sharing and executing Groovy programming snippets of code!
 * [MorganGeek](cheat/groovy.md) - groovy cheatsheet / tips
-* [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile / Groovy syntax 
+* [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile / Groovy syntax
 * [Denny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-jenkins-groovy-a4) - (2018) CheatSheet: Jenkins & Groovy
 
 ## Haskell
@@ -5080,7 +5081,6 @@ Raw
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. **Bonus** : [Website](https://free-for.dev)
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-* [Dan Pollock](http://someonewhocares.org/hosts/) - the host file you need to make the internet not suck (as much)
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - collection of simplified and community-driven man pages.
 * [accatyyc/tldr-man](https://github.com/accatyyc/tldr-man) - A Makefile that creates manpages from all the [tldr-pages/tldr](https://github.com/tldr-pages/tldr).
 * [Joël Spolsky](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - (2007) Evidence Based Scheduling
@@ -5190,12 +5190,12 @@ Raw
 * [Jeff Atwood](https://blog.codinghorror.com/do-not-buy-this-book/) - (2007) Do Not Buy This Book
 * [Petter Måhlén](https://pettermahlen.com/2011/04/08/if-its-broken-fix-it/) - (2011) If it’s Broken, Fix It
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
-* [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks 
+* [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 * [Michael Malis](http://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) - (2017) How to Improve Your Productivity as a Working Programmer | It only takes one or two changes each week for things to quickly snowball.
 * [Jan Mewes](https://dev.to/janux_de/how-to-pick-up-a-new-technology-in-minimal-time-2i4l) - (2018) How to pick up a new technology in minimal time?
 * [Ron Jeffries](https://www.ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
-* [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work. 
+* [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work.
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
 * [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
 * [Liz Bennett](https://www.loggly.com/blog/regexes-the-bad-better-best/) - (2015) Regexes: The Bad, the Better, and the Best | A Story about How Just a Few Characters Can Make Such a Big Difference in Performance
@@ -5219,7 +5219,7 @@ Raw
 * [George Gritsouk](https://gggritso.com/human-git-aliases) - (2016) Human Git Aliases | Stubbornly Refusing to Speak The Computer's Language | **Bonus** : [author's dotfiles](https://github.com/gggritso/dotfiles/blob/master/gitconfig.symlink)
 * [regex101](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
 * [Rextester](https://rextester.com/) - run code online
-* [Hacker Tools](https://hacker-tools.github.io/) - Learn to make the most of the tools used by hackers / programmers 
+* [Hacker Tools](https://hacker-tools.github.io/) - Learn to make the most of the tools used by hackers / programmers
 * [Kent C. Dodds](https://kentcdodds.com/blog/write-tests) - (2017) Write tests. Not too many. Mostly integration.
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * [DistroTest](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
@@ -5323,16 +5323,16 @@ Raw
 * [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
 * [Eric Steven Raymond](https://www.catb.org/~esr/writings/unix-koans/) - Rootless Root: The Unix Koans of Master Foo
 * [Danny Hillis](https://www.catb.org/jargon/html/koans.html) - (2003) Some AI Koans
-* [Days Since Last JavaScript Framework](https://dayssincelastjavascriptframework.com/) - with regular updates ! 
+* [Days Since Last JavaScript Framework](https://dayssincelastjavascriptframework.com/) - with regular updates !
 * [Bitbucket](https://bitbucket.org/spooning/) - Spooning makes pair programming look like child's play. Achieve the speed of pair programming with an added level of quiet, knowing intimacy.
 * [Faut-il HTTPS sur mon site ?](https://faut-il-https-sur-mon-site.fr/) - [FR] :fr: does your site require HTTPS ?
 * [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
 * [Method Namer](http://methodnamer.com/) - Can't think of a good method name? Try this
 * [Stacy Warden](https://www.pluralsight.com/blog/life/star-wars-day) - (2015) 10 things tech pros can learn from "Star Wars"
-* [Hmm-la-bd](http://hmm-la-bd.eu/260/) - [FR] :fr: les onglets | browser tabs 
+* [Hmm-la-bd](http://hmm-la-bd.eu/260/) - [FR] :fr: les onglets | browser tabs
 > Note: ça m'arrive régulièrement d'investiguer chaque sujet en ouvrant pas mal de tabs... et en + de multi-task... mes collègues s'étonnent souvent du grand nombre d'onglets que je gère.
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
-* [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics  
+* [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics
 * [Matej Jellus](https://juffalow.com/other/funny-stuff-from-programmers-realm) - (2016) Funny stuff from programmers realm
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer. | Not really humour, but anyway it needs to be here.
 
@@ -5434,10 +5434,10 @@ Raw
 * [Metalcast](http://www.metalcastshow.com/) - :metal: Ultimate metal show
 * [John Sonmez](http://www.se-radio.net/2015/12/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career/) - (2015) SE Radio Episode 245: John Sonmez on Marketing Yourself and Managing Your Career
 * [Security Now!](https://www.grc.com/securitynow.htm) - weekly audio security column & podcast by Steve Gibson and Leo Laporte
-* [qit](https://qit.cloud/) - Search for Tech podcasts by topic 
+* [qit](https://qit.cloud/) - Search for Tech podcasts by topic
 * [The Life Coach School](https://thelifecoachschool.com/podcasts/) - podcasts by Brooke Castillo
 * [Change ma vie](https://changemavie.com/episodes) - [FR] :fr: le podcast qui vous donne des outils pour votre esprit. par Clotilde Dusoulier
-* [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips 
+* [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips
 * [Coding Blocks](https://www.codingblocks.net/podcast/78-deliberate-practice-for-programmers/) - (2018) [Podcast] Deliberate Practice for Programmers
 
 # Psychology :thought_balloon:
@@ -5583,7 +5583,7 @@ Raw
 * [Neil Patel](https://blog.hubspot.com/marketing/psychology-of-excitement) - (2015) The Psychology of Excitement: How to Better Engage Your Audience | marketing
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
 * [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
-* [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity 
+* [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity
 
 # Shell scripting
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
@@ -5710,9 +5710,9 @@ Raw
 * [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
 * [Ian Miell](https://zwischenzugs.com/2019/05/11/seven-surprising-bash-variables/) - (2019) Seven Surprising Bash Variables
 * [Matt Jaynes](https://hvops.com/articles/ansible-vs-shell-scripts/) - (2019) Shell Scripts vs Ansible: Fight!
-* [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR; 
-type `curl ident.me` to know your public ip 
-* [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities 
+* [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR;
+type `curl ident.me` to know your public ip
+* [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
 
 ## Shell Aliases
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
@@ -5835,7 +5835,6 @@ type `curl ident.me` to know your public ip
 * [Erez Yaary](https://techbeacon.com/how-secure-container-lifecycle) - (2017) How to secure the container lifecycle
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2013-02-11-avoid-committing-your-password.html) - (2013) git tip: avoid committing your password
 * [Aris Adamantiadis](https://blog.0xbadc0de.be/archives/300) - (2016) SSH: Best practices
-* [Dan Pollock](http://someonewhocares.org/hosts/) - the host file you need to make the internet not suck (as much)
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - list of cryptography resources and links.
 * [Steven J. Vaughan-Nichols ](http://www.zdnet.com/article/linus-linux-torvalds-gives-security-developers-guidance/) - Linus 'Linux' Torvalds gives security developers guidance
 * [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
@@ -5892,7 +5891,7 @@ type `curl ident.me` to know your public ip
 * [Russell Brandom](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin) - (2017) This is why you shouldn’t use texts for 2FA / two-factor authentication
 * [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 * [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
-* [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual 
+* [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual
 * [Apache Docs](https://httpd.apache.org/docs/2.4/en/misc/security_tips.html) - Security Tips for Apache HTTP server
 * [Daniel Aleksandersen](https://www.ctrl.blog/entry/migrating-to-bitwarden) - (2018) Why I migrated from LastPass to Bitwarden
 * [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
@@ -5916,6 +5915,7 @@ type `curl ident.me` to know your public ip
 * [Two Factor Auth (2FA) Dongles](https://www.dongleauth.info/dongles/) - List of 2FA dongle providers and the platforms they support. **Bonus** : [Github repository](https://github.com/Nitrokey/dongleauth)
 * :star: [**Two Factor Auth (2FA)**](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 * [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
+* [Dan Pollock](https://someonewhocares.org/hosts/) - how to make the internet not suck (as much) | a hosts file to prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -6035,9 +6035,9 @@ type `curl ident.me` to know your public ip
 * [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
 * [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
-* [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity 
+* [Tim Wu](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) - (2018) The Tyranny of Convenience | the problem with over conformity
 * [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
-* [The Tarot Cards Of Tech](http://tarotcardsoftech.artefactgroup.com/) - Gaze into the future of your product and consider the impact of what we create | See also Ethics vs Technology, Black Mirror 
+* [The Tarot Cards Of Tech](http://tarotcardsoftech.artefactgroup.com/) - Gaze into the future of your product and consider the impact of what we create | See also Ethics vs Technology, Black Mirror
 * [James Conca](https://www.forbes.com/sites/jamesconca/2012/06/10/energys-deathprint-a-price-always-paid/#71ef4f07709b) - (2012) How Deadly Is Your Kilowatt? We Rank The Killer Energy Sources | It seems that Coal is way more harmful than Nuclear.
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
 
@@ -6123,7 +6123,7 @@ type `curl ident.me` to know your public ip
 * [Allan Richarz](https://www.citylab.com/transportation/2018/05/the-amazing-psychology-of-japanese-train-stations/560822/) - (2018) The Amazing Psychology of Japanese Train Stations
 
 > Tools
-* [Train Map](https://trainmap.belgiantrain.be) - [BE] Show belgian train positions in realtime. Train positions are calculated based on timetables, real time info and prognoses. 
+* [Train Map](https://trainmap.belgiantrain.be) - [BE] Show belgian train positions in realtime. Train positions are calculated based on timetables, real time info and prognoses.
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
@@ -6167,7 +6167,7 @@ type `curl ident.me` to know your public ip
 * [Pradeep Kumar](https://www.linuxtechi.com/capture-analyze-packets-tcpdump-command-linux/) - (2018) How to capture and analyze packets with tcpdump command on Linux
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 * [Sal Ferrarello](https://salferrarello.com/chrome-clear-redirect-cache/) - (2016) Chrome Clear Redirect Cache
-* [David Newcomb](http://www.bigsoft.co.uk/blog/2012/01/06/rpmdb-unable-to-join-the-environment) - (2012) yum install failing on `rpmdb: unable to join the environment` or `db3 error(11) from dbenv->open: Resource temporarily unavailable`. Do the followings: 
+* [David Newcomb](http://www.bigsoft.co.uk/blog/2012/01/06/rpmdb-unable-to-join-the-environment) - (2012) yum install failing on `rpmdb: unable to join the environment` or `db3 error(11) from dbenv->open: Resource temporarily unavailable`. Do the followings:
 ```
 rm -rf /var/lib/rpm/__db*
 rpm --rebuilddb
@@ -6227,7 +6227,7 @@ rpm --rebuilddb
 
 # Web archive / nostalgia
 * :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
-* [Julia Geist](https://hackernoon.com/guide-to-handling-internet-archives-cdx-server-api-response-c469df5b81f4) - (2017) Guide to Handling Internet Archive’s CDX Server API Response. **Examples** : 
+* [Julia Geist](https://hackernoon.com/guide-to-handling-internet-archives-cdx-server-api-response-c469df5b81f4) - (2017) Guide to Handling Internet Archive’s CDX Server API Response. **Examples** :
  * `http://web.archive.org/cdx/search/cdx?limit=1&showResumeKey=true&url=<URL>`
  * `https://archive.org/wayback/available?timestamp=19010101010101&url=<URL>`
 * [internetarchive/wayback](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server) - Wayback CDX Server API - BETA | The wayback-cdx-server is a standalone HTTP servlet that serves the index that the wayback machine uses to lookup captures.
@@ -6323,10 +6323,10 @@ rpm --rebuilddb
 * [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for [JAMstack](https://jamstack.org/) Sites
-* [JAMstack](https://jamstack.org/) : noun `’jam-stak’` : Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. | The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience. 
+* [JAMstack](https://jamstack.org/) : noun `’jam-stak’` : Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. | The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
 
 > Tools
-* [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent) 
+* [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
