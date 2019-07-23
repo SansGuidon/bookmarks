@@ -570,7 +570,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jason Fried](https://m.signalvnoise.com/depend-less-on-each-other-507fe0e23e4b) - Depend less on each other
 * [Vaidehi Joshi](https://dev.to/vaidehijoshi/crafting-better-code-reviews) - Crafting Better Code Reviews
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
-* [Dr. Deborah Mowshowitz](http://www.columbia.edu/cu/biology/faculty/mowshowitz/explaining.html) - How to Explain
+* [Dr. Deborah Mowshowitz](https://web.archive.org/web/20171012144615/http://www.columbia.edu/cu/biology/faculty/mowshowitz/explaining.html) - (2009) How to Explain
 * [Joe Landsberger](http://www.studygs.net/problem/problemsolvingv1.htm) - Defining a problem; identifying causes; gathering information
 * [Mike Walker](https://opensource.com/open-organization/17/6/team-differentiator-not-tech) - Your team's differentiator isn't its tech
 * [John Allspaw](http://www.kitchensoap.com/2017/03/06/book-suggestion-dialogue-the-art-of-thinking-together/) - (2017) Dialogue: The Art Of Thinking Together
