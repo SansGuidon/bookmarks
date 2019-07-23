@@ -26,3 +26,4 @@
 * [Google Search](https://www.google.be/search?q=why+devops+is+bad) - Why devops is bad
 * [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
 * [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=morgangeek&src=typd&lang=fr) - latest MorganGeek mentions & tweets
+* [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
