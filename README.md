@@ -2389,7 +2389,7 @@ See also [Infrastructure](#infrastructure)
 * [Passweird](https://www.passweird.com/) - Passwords too Gross to Steal
 * [Gnoosic](http://www.gnoosic.com) - Based on your choices, Gnod predicts you might like the music of
 * [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
-* [regex101](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
+* :star: [**regex101**](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
 * [Rextester](https://rextester.com/) - run code online
 * [JSON to YAML](https://www.json2yaml.com/) - Convert JSON to YAML online
 * [globtester](http://www.globtester.com/) - a little utility for testing minimatch. Can also be used as ANT Style Pattern Matcher
@@ -5217,7 +5217,7 @@ Raw
 > - ...
 * [Paul Graham](http://paulgraham.com/head.html) - (2007) Holding a Program in One's Head
 * [George Gritsouk](https://gggritso.com/human-git-aliases) - (2016) Human Git Aliases | Stubbornly Refusing to Speak The Computer's Language | **Bonus** : [author's dotfiles](https://github.com/gggritso/dotfiles/blob/master/gitconfig.symlink)
-* [regex101](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
+* :star: [**regex101**](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
 * [Rextester](https://rextester.com/) - run code online
 * [Hacker Tools](https://hacker-tools.github.io/) - Learn to make the most of the tools used by hackers / programmers
 * [Kent C. Dodds](https://kentcdodds.com/blog/write-tests) - (2017) Write tests. Not too many. Mostly integration.
