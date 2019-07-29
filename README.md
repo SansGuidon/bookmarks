@@ -2794,7 +2794,7 @@ See also [Infrastructure](#infrastructure)
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
 * [SathiyaMoorthy](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples) - (2009) cron job examples
 * [Shivam](http://www.trysudo.com/7-tips-for-a-productive-development-setup-on-linux/) - 7 tips for a productive development setup on Linux
-* [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server) - How To Configure SSH Key-Based Authentication on a Linux Server
+* [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server) - How To Configure SSH Key-Based Authentication on a Linux Server. [And please use Ed25519 instead of RSA keys](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54) 
 * [Al Williams](https://hackaday.com/2017/03/10/linux-fu-keeping-things-running/) - (2017) Linux-Fu: Keeping Things Running
 * [Vivek Gite](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Dig Command Find Out TTL (Time to Live) Value For DNS Records
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html) - Linux Find Out Last System Reboot Time and Date Command
@@ -2842,7 +2842,7 @@ See also [Infrastructure](#infrastructure)
 * [DayDreamer](http://daydreamer66.blogspot.be/2014/06/rhel-how-can-non-root-users-can-run.html) - (2014) RHEL: How can non-root users can run tcpdump or Wireshark or use libpcap
 * [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
 * [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
-* [Media Temple](https://mediatemple.net/community/products/dv/204644740/using-ssh-keys-on-your-server) - Using SSH keys on your server
+* [Media Temple](https://mediatemple.net/community/products/dv/204644740/using-ssh-keys-on-your-server) - Using SSH keys on your server [And please use Ed25519 instead of RSA keys](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
 * [Daniel Miessler](https://danielmiessler.com/study/lsof/) - An lsof Primer
 * [Daniel Miessler](https://danielmiessler.com/study/grep/) - A grep Tutorial and Primer
 * [Daniel Miessler](https://danielmiessler.com/blog/collection-of-less-commonly-used-unix-commands/) - Collection of Less Commonly Used Commands
@@ -5826,7 +5826,7 @@ type `curl ident.me` to know your public ip
 * [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [stribika](https://stribika.github.io/2015/01/04/secure-secure-shell.html) - (2015) Secure Secure Shell
-* [Gert van Dijk](https://blog.g3rt.nl/upgrade-your-ssh-keys.html) - Upgrade your SSH keys!
+* [Gert van Dijk](https://web.archive.org/web/20190724120900/https://blog.g3rt.nl/upgrade-your-ssh-keys.html) - (2016) Upgrade your SSH keys!
 * [Asankhaya Sharma](https://www.linkedin.com/pulse/how-can-you-ensure-your-open-source-components-secure-sharma/) - (2016) How can you ensure that your open source components are secure?
 * [Julien Pivotto](https://fr.slideshare.net/roidelapluie/enhance-openssh-for-fun-and-security) - (2015) Enhance OpenSSH for fun and security
 * [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - A curated list of SSH resources.
@@ -5917,6 +5917,7 @@ type `curl ident.me` to know your public ip
 * :star: [**Two Factor Auth (2FA)**](https://twofactorauth.org/) - List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 * [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
 * [Dan Pollock](https://someonewhocares.org/hosts/) - how to make the internet not suck (as much) | a hosts file to prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
+* [Risan Bagja Pradana](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54) - (2018) Upgrade Your SSH Key to Ed25519
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -5925,7 +5926,7 @@ type `curl ident.me` to know your public ip
 * [Jacob Appelbaum/ioerror/duraconf](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) - Example of hardened GPG config file from duraconf
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/) - GNU Privacy Guard Manual
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). Discovered via [Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
-* [Nitin Venkatesh](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - PGP and SSH keys - Generate, export, backup and restore
+* [Nitin Venkatesh](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - (2014) PGP and SSH keys - Generate, export, backup and restore [And please use Ed25519 instead of RSA keys](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54) 
 * [GnuPG Docs](https://www.gnupg.org/gph/en/manual/book1.html) - (1999) The GNU Privacy Handbook
 * [/r/GnuPG](https://www.reddit.com/r/GnuPG/) - resources on everything about GnuPG, PGP, OpenPGP
 * [/r/pgp](https://www.reddit.com/r/pgp/) - everything about PGP
