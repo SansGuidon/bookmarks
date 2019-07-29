@@ -963,6 +963,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity
 * [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
 * [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
+* [Mark Kingwell](https://thewalrus.ca/why-being-bored-is-good/) - (2019) Why Being Bored Is Good
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -3460,6 +3461,7 @@ See also [Terraform](#terraform)
 * [BrainyQuote](https://www.brainyquote.com/topics/patience) - Patience Quotes
 * [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
 * [James Somers](http://jsomers.net/blog/gettiers) - (2019) The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
+* [Mark Kingwell](https://thewalrus.ca/why-being-bored-is-good/) - (2019) Why Being Bored Is Good
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
