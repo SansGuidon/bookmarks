@@ -3547,6 +3547,8 @@ See also [Terraform](#terraform)
 * [switching.social](https://switching.social/) - ethical, easy-to-use and privacy-conscious alternatives to popular sites and apps
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
 * [Dan Pollock](https://someonewhocares.org/hosts/) - how to make the internet not suck (as much) | a hosts file to prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
+* [Sven Slootweg](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) - (2015) Don't use VPN services.
+> Because a VPN in this sense is just a glorified proxy. The VPN provider can see all your traffic, and do with it what they want - including logging.
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
