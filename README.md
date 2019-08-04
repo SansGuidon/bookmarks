@@ -1167,8 +1167,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - (2017) In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [All Day DevOps](https://www.alldaydevops.com/addo17-links-to-presentations) - [Videos] All Day DevOps 2017 videos
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
-* [versioneye/ops_contrib](https://github.com/versioneye/ops_contrib) - Infrastructure code to setup your own VersionEye instance.
-* [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Keith Cirkel](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - (2014) Why we should stop using Grunt & Gulp
 * [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way
@@ -2426,7 +2424,7 @@ See also [Infrastructure](#infrastructure)
 * [Hacknet](http://www.hacknet-os.com/) - a hacking game simulator (not free), potentially boring (move to hackmud)
 * [h a c k m u d](https://www.hackmud.com/) - hackmud, a hacking game simulator (not free) with programming challenges
 * [PortForward](https://portforward.com/ports.htm) - Port Forwarding Ports List
-* [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=game) - Linux & SteamOS gaming community
+* [GamingOnLinux](https://www.gamingonlinux.com/free-games/) - Linux & SteamOS gaming community
 * [Linux game database](https://lgdb.org/games)
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
 * [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday
@@ -2920,7 +2918,7 @@ rpm --rebuilddb
 ## Linux for fun
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
 * [Silver Moon](http://www.binarytides.com/linux-fun-commands/) - 20 amusing Linux commands to have fun with the terminal
-* [GamingOnLinux](https://www.gamingonlinux.com/index.php?module=game) - Linux & SteamOS gaming community
+* [GamingOnLinux](https://www.gamingonlinux.com/free-games/) - Linux & SteamOS gaming community
 * [Linux game database](https://lgdb.org/games)
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
@@ -3221,7 +3219,6 @@ type `curl ident.me` to know your public ip
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
 * [Fred Hébert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - (2017) In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
-* [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way
 * [David Mytton](https://blog.serverdensity.com/server-naming-conventions-and-best-practices/) - (2015) Server Naming Conventions and Best Practices
@@ -3340,7 +3337,6 @@ See also [Terraform](#terraform)
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - (2014) Building a Better Dashboard for Virtual Infrastructure
 * [Marvin Pinto](https://disjoint.ca/writing/2015/11/26/a-framework-for-deployment-of-immutable-infrastructure/) - (2015) A Framework for Deployment of Immutable Infrastructure
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - (2016) Test Driven Infrastructure with Goss
-* [versioneye/ops_contrib](https://github.com/versioneye/ops_contrib) - Infrastructure code to setup your own VersionEye instance.
 * [Eran Chetzroni](https://blog.algolia.com/reducing-infrastructure-cost/) - (2017) Tips for reducing the cost of your infrastructure
 * [Denny Cherry](http://itknowledgeexchange.techtarget.com/sql-server/another-cloud-outage-awsdown-this-time-another-group-of-companies-show-they-dont-have-dr/) - (2017) Another Cloud Outage (#awsdown this time) Another Group of Companies Show They Don’t Have DR
 * [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
@@ -3412,7 +3408,6 @@ See also [Terraform](#terraform)
 * [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
 * [Silver Moon](http://www.binarytides.com/linux-commands-monitor-network/) - 18 commands to monitor network bandwidth on Linux server
 * [Daniel Miessler](https://danielmiessler.com/blog/security-how-to-monitor-your-network-connections/) - Security: How To Monitor Your Network Connections
-* [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Ben Putano](https://stackify.com/application-deployment-process-checklist/) - (2018) Proven Steps to Achieving Deployment Nirvana
 * [Ben Putano](https://stackify.com/cloud-monitoring-tools/) - (2017) The Top 21 Cloud Monitoring Tools for 2018
@@ -5777,8 +5772,8 @@ type `curl ident.me` to know your public ip
 * [Offensive Security](https://www.exploit-db.com/google-hacking-database/) - Google Hacking Database (GHDB) Your Home for "googledorks"
 * [conzu](http://www.conzu.de/en/google-dork-liste-2018-conzu/) - Google Hacks (dork list). Similar lists by [hardikdobariya](https://fr.scribd.com/document/185683271/EthicalHacking1-Com-Google-Hacking-Dork-List)
 * [Julian Alexander Murillo](https://gist.github.com/64lines/248492a02a50c536903f) - Google tricks / dorks
-* [Offensive Security](https://www.exploit-db.com/shellcode/) - Archived Shellcode for various Operating Systems and Architectures
-* [Offensive Security](https://www.exploit-db.com/browse/) - exploits database
+* [Offensive Security](https://www.exploit-db.com/shellcodes) - Archived Shellcode for various Operating Systems and Architectures
+* [Offensive Security](https://www.exploit-db.com/) - exploits database
 * [berzerk0 (Ben)/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - 5+ Billion Passwords in Order of Most Popular... is yours in the list ?
 * [sgoedecke](https://sgoedecke.github.io/blockchain-for-beginners/) - A dead simple introduction to the blockchain (with ~90 line JavaScript demo)
 * [SSL247](https://www.ssl247.fr/kb/ssl-certificates/generalinformation/what-is-rsa-dsa-ecc) - What is RSA, DSA and ECC?
@@ -5836,7 +5831,6 @@ type `curl ident.me` to know your public ip
 * [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist
 * [OWASP](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet) - OWASP Top Ten Cheat Sheet
 * [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
-* [VersionEye](https://www.versioneye.com/) - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [stribika](https://stribika.github.io/2015/01/04/secure-secure-shell.html) - (2015) Secure Secure Shell
 * [Gert van Dijk](https://web.archive.org/web/20190724120900/https://blog.g3rt.nl/upgrade-your-ssh-keys.html) - (2016) Upgrade your SSH keys!
