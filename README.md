@@ -2909,6 +2909,7 @@ rm -rf /var/lib/rpm/__db*
 rpm --rebuilddb
 ```
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
+* [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - (2013) My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -3182,7 +3183,7 @@ type `curl ident.me` to know your public ip
 * [Vivek Gite](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Linux / Unix: Dig Command Find Out TTL (Time to Live) Value For DNS Records
 * [DigitalOcean](https://www.digitalocean.com/community/questions/what-do-you-do-with-your-first-five-minutes-on-a-new-server) - What do you do with your first five minutes on a new server?
 * [Sylvain Kalache](https://www.linux.com/blog/first-5-commands-when-i-connect-linux-server) - First 5 Commands When I Connect on a Linux Server
-* [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
+* [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - (2013) My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
 * [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
 * [alicegoldfuss/oncall-handbook](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
 * [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - (2017) Lies My Parents Told Me (About Logs)
