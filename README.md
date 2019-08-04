@@ -541,7 +541,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Bitcoin Regret Club](https://bitcoinregret.club/) - satirical site for people who want to calculate all the money they you could’ve made.
 * [The HODLer manifesto](https://hodlermanifesto.com) - What is HODL?
 * [Federico Gambarelli (fede93g)](https://steemit.com/bitcoin/@fede93g/the-hodler-manifesto-what-does-being-a-bitcoin-hodler-mean) - (2018) The HODLer Manifesto: what does "being a Bitcoin HODLer" mean?
-* [Where to buy Crypto](https://www.wheretobuycrypto.io/) - Where to buy ... <type any cryptocurrency name here>
 * [Best Bitcoin Exchange Reviews](https://www.bestbitcoinexchange.net/) - Best Bitcoin Exchange Comparison
 * [CryptoCompare](https://www.cryptocompare.com/exchanges/#/overview) - Compare all Bitcoin exchanges, reviews, live streaming bitcoin prices, fees, deposit methods
 * [GamerZ](https://www.gamerz.be/forum/bitcoin-crypto/) - :fr: [FR] GamerZ discussion forum about Bitcoin / Cryptocurrencies
@@ -2374,7 +2373,6 @@ See also [Infrastructure](#infrastructure)
 * [RegExr](https://regexr.com/) - is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 * [Hurricane Electric BGP Toolkit](https://bgp.he.net) - This website is an Internet analysis site for the whole Internet. useful tool to collect ip, addresses, etc
 * [BGPView](https://bgpview.io/) - allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names.
-* [Where to buy Crypto](https://www.wheretobuycrypto.io/) - Where to buy ... <type any cryptocurrency name here>
 * [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
 * [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
