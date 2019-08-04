@@ -3346,6 +3346,7 @@ See also [Terraform](#terraform)
 * [The OpenStack Marketplace](https://www.openstack.org/marketplace/) - [Private Clouds](https://www.openstack.org/marketplace/hosted-private-clouds/) + [Public Clouds](https://www.openstack.org/marketplace/public-clouds/)
 * [Michal Charemza](https://charemza.name/blog/posts/devops/aws/non-atomic-deployments/) - (2017) Non atomic deployments | Cron-free deferred delete of obsolete static resources | The best infrastructure is the one that doesn't exist
 * [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
+* [Wolfram Hempel](https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/) - (2018) An introduction to medieval cities and cloud security
 
 ## Jira
 > News
@@ -5739,7 +5740,7 @@ type `curl ident.me` to know your public ip
 * [Le Comptoir Sécu](https://www.comptoirsecu.fr/categories/emission/) - :fr: [FR] Parlons cybersécurité...autour d'un verre!
 
 > Learn
-* [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - Penetration Testing Tools Cheat Sheet
+* [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - (2016) Penetration Testing Tools Cheat Sheet
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [IT Security Blog](http://blog.feedspot.com/information_security_blogs) - Top 100 Information Security Blogs for Data Security Professionals
 * [Max Veytsman](https://dev.to/appcanary/should-you-encrypt-or-compress-first) - Should you encrypt or compress first?
@@ -5935,6 +5936,7 @@ type `curl ident.me` to know your public ip
 * [Daniel Miessler](https://danielmiessler.com/study/practical-security-principles/) - (2018) Practical Security Principles
 * [Lenny Zeltser](https://zeltser.com/suck-at-security-cheat-sheet/) - (2015) How to Suck at Information Security – A Cheat Sheet
 * [Sqreen](https://www.sqreen.com/checklists/saas-cto-security-checklist) - (2019) The SaaS CTO Security Checklist
+* [Wolfram Hempel](https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/) - (2018) An introduction to medieval cities and cloud security
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
