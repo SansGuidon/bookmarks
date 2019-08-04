@@ -1502,6 +1502,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Boris Serebrov](https://serebrov.github.io/html/2018-01-11-aws-ec2-ssh-tunnel.html) - (2018) SSH Tunnels | on AWS, EC2 and SSH tunnels
 * [Cody Parker](https://codyparker.com/force-entire-site-ssl-nginx-behind-aws-load-balancer/) - (2017) How To Force HTTPS in NGINX behind a classic AWS Load Balancer
 * [HashiCorp Learn](https://learn.hashicorp.com/terraform/?track=getting-started#getting-started) - Getting Started - AWS | In this introduction to Terraform, you will learn how to use Terraform to build infrastructure in AWS.
+* [AWS](https://aws.amazon.com/security/security-resources/) - Security Resources
 
 > Tools
 * [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
@@ -5937,6 +5938,7 @@ type `curl ident.me` to know your public ip
 * [Lenny Zeltser](https://zeltser.com/suck-at-security-cheat-sheet/) - (2015) How to Suck at Information Security – A Cheat Sheet
 * [Sqreen](https://www.sqreen.com/checklists/saas-cto-security-checklist) - (2019) The SaaS CTO Security Checklist
 * [Wolfram Hempel](https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/) - (2018) An introduction to medieval cities and cloud security
+* [AWS](https://aws.amazon.com/security/security-resources/) - Security Resources
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
