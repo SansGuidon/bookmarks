@@ -2423,7 +2423,6 @@ See also [Infrastructure](#infrastructure)
 * [h a c k m u d](https://www.hackmud.com/) - hackmud, a hacking game simulator (not free) with programming challenges
 * [PortForward](https://portforward.com/ports.htm) - Port Forwarding Ports List
 * [GamingOnLinux](https://www.gamingonlinux.com/free-games/) - Linux & SteamOS gaming community
-* [Linux game database](https://lgdb.org/games)
 * [Open Source Game Clones](http://osgameclones.com/) - inventory of open-source remakes of great old games
 * [Mazing](http://mazing.cc/home) - Generate printable mazes of any size for playing. Can be useful someday
 * [UnDropDansLaMare](https://www.youtube.com/watch?v=KzvHvc41qpk) - (Video) [FR] :fr: Le Paradoxe du Joueur [2 minutes pour convaincre] short analysis of insatisfaction with modern video games / why video games were best before
@@ -2917,7 +2916,6 @@ rpm --rebuilddb
 * [Justin Pot](http://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/) - 9 Quirky Linux Commands You Need to Know (And Will Love)
 * [Silver Moon](http://www.binarytides.com/linux-fun-commands/) - 20 amusing Linux commands to have fun with the terminal
 * [GamingOnLinux](https://www.gamingonlinux.com/free-games/) - Linux & SteamOS gaming community
-* [Linux game database](https://lgdb.org/games)
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2012-06-21-linux-git-history.html) - (2012) Linux' Git History is Beautiful
