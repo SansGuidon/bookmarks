@@ -5817,7 +5817,7 @@ type `curl ident.me` to know your public ip
 * [Daniel Miessler](https://danielmiessler.com/study/security-by-obscurity/) - Obscurity is a Valid Security Layer
 * [Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/) - Information Security Interview Questions
 * [Daniel Miessler](https://danielmiessler.com/blog/10-essential-firefox-plugins-for-the-infosec-professional/) - 10 Essential Firefox Plugins for the Infosec Professional
-* [Daniel Miessler](https://danielmiessler.com/study/infosecconcepts/) - Information Security Concepts
+* [Daniel Miessler](https://danielmiessler.com/study/infosecconcepts/) - (2018) Information Security Concepts
 * [Daniel Miessler](https://danielmiessler.com/study/information-security-metrics/) - An Information Security Metrics Primer
 * [Daniel Miessler](https://danielmiessler.com/study/security-assessment-types/) - Information Security Assessment Types
 * [Daniel Miessler](https://danielmiessler.com/study/multi-dimensional-vulnerability-hierarchies/) - Multi-dimensional Vulnerability Hierarchies
@@ -5930,6 +5930,7 @@ type `curl ident.me` to know your public ip
 * [Sven Slootweg](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) - (2015) Don't use VPN services.
 > Because a VPN in this sense is just a glorified proxy. The VPN provider can see all your traffic, and do with it what they want - including logging.
 * [Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html) - (2019) VPN - a Very Precarious Narrative
+* [Daniel Miessler](https://danielmiessler.com/study/practical-security-principles/) - (2018) Practical Security Principles
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
