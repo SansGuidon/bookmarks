@@ -5933,6 +5933,7 @@ type `curl ident.me` to know your public ip
 * [Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html) - (2019) VPN - a Very Precarious Narrative
 * [Daniel Miessler](https://danielmiessler.com/study/practical-security-principles/) - (2018) Practical Security Principles
 * [Lenny Zeltser](https://zeltser.com/suck-at-security-cheat-sheet/) - (2015) How to Suck at Information Security – A Cheat Sheet
+* [Sqreen](https://www.sqreen.com/checklists/saas-cto-security-checklist) - (2019) The SaaS CTO Security Checklist
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
