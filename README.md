@@ -3735,6 +3735,7 @@ See also [Terraform](#terraform)
 * [Farnam Street](https://fs.blog/reading/) - A Helpful Guide to Reading Better :books:
 * [David R. MacIver](https://www.drmaciver.com/2013/08/how-did-you-get-started-so-quickly/) - (2013) How to quickly become effective when joining a new company
 * [Bazyli Brzóska](https://invent.life/blog/on-organizing-projects-and-files/) - (2013) On organizing projects and files | TLDR : we shoudl use tags and we need more tools supporting them
+* [Gmail Help](https://support.google.com/mail/answer/7190?hl=en) - (2013) Search operators you can use with Gmail | You can use words or symbols called search operators to filter your Gmail search results. You can also combine operators to filter your results even more.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
@@ -5823,7 +5824,7 @@ type `curl ident.me` to know your public ip
 * [Daniel Miessler](https://danielmiessler.com/blog/10-essential-firefox-plugins-for-the-infosec-professional/) - 10 Essential Firefox Plugins for the Infosec Professional
 * [Daniel Miessler](https://danielmiessler.com/study/infosecconcepts/) - (2018) Information Security Concepts
 * [Daniel Miessler](https://danielmiessler.com/study/information-security-metrics/) - An Information Security Metrics Primer
-* [Daniel Miessler](https://danielmiessler.com/study/security-assessment-types/) - Information Security Assessment Types
+* [Daniel Miessler](https://danielmiessler.com/study/security-assessment-types/) - (2017) Information Security Assessment Types
 * [Daniel Miessler](https://danielmiessler.com/study/multi-dimensional-vulnerability-hierarchies/) - Multi-dimensional Vulnerability Hierarchies
 * [Dan Walsh](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/) - (2016) Secure Your Containers with this One Weird Trick
 * [Daniel J Walsh](https://opensource.com/business/13/11/selinux-policy-guide) - Your visual how-to guide for SELinux policy enforcement
