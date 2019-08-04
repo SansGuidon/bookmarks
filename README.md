@@ -5939,6 +5939,7 @@ type `curl ident.me` to know your public ip
 * [Sqreen](https://www.sqreen.com/checklists/saas-cto-security-checklist) - (2019) The SaaS CTO Security Checklist
 * [Wolfram Hempel](https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/) - (2018) An introduction to medieval cities and cloud security
 * [AWS](https://aws.amazon.com/security/security-resources/) - Security Resources
+* [SenseDeep](https://www.sensedeep.com/blog/posts/stories/web-developer-security-checklist.html) - (2019) Web Developer Security Checklist V2
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
