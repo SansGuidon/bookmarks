@@ -6149,6 +6149,7 @@ type `curl ident.me` to know your public ip
 
 > Tools
 * [Train Map](https://trainmap.belgiantrain.be) - [BE] Show belgian train positions in realtime. Train positions are calculated based on timetables, real time info and prognoses.
+* [Seety](https://map.seety.co/?lang=en) - [BE] Map of free parking zones | For now mainly for Belgium, soon for Europe
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
