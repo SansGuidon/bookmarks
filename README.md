@@ -2948,7 +2948,6 @@ rpm --rebuilddb
 * [Powerline](https://github.com/powerline/powerline) : a statusline plugin for vim, providing also statuslines and prompts for tools such as zsh, bash, tmux, ...
 * :star: [**VimAwesome**](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
 * [Daniel Miessler](https://danielmiessler.com/study/vim/) - A vim Tutorial and Primer
-* [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
 * :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used in Vim through [ALE](https://github.com/w0rp/ale), [Neomake](https://github.com/neomake/neomake), or [Syntastic](https://github.com/vim-syntastic/syntastic)
 * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - The NERDTree is a file system explorer for the Vim editor.
 * [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.
@@ -5051,7 +5050,6 @@ Raw
 * [Ask Ubuntu](https://askubuntu.com/questions/45521/how-to-navigate-long-commands-faster) - How to navigate long commands faster?
 * [Whitson Gordon](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts) - Become a Command Line Ninja With These Time-Saving Shortcuts
 * [Daniel Miessler](https://danielmiessler.com/study/tmux/) - A tmux Primer
-* [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
 * [Daniel Miessler](https://danielmiessler.com/blog/connect-local-port-remote-ssh-server/) - How to Connect to a Local Port on a Remote SSH Server
 * [Stack Exchange](https://skeptics.stackexchange.com/questions/18539/has-stack-overflow-saved-billions-of-dollars-in-programmer-productivity) - Has Stack Overflow saved billions of dollars in programmer productivity?
 * [John D. Cook](https://www.johndcook.com/blog/2009/03/18/where-does-the-programming-effort-go/) - (2009) Where does the programming effort go?
@@ -5655,7 +5653,6 @@ Raw
 * [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 * [Ask Ubuntu](https://askubuntu.com/questions/45521/how-to-navigate-long-commands-faster) - How to navigate long commands faster?
 * [Whitson Gordon](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts) - Become a Command Line Ninja With These Time-Saving Shortcuts
-* [Daniel Miessler](https://danielmiessler.com/blog/enhancements-to-shell-and-vim-productivity/) - 9 Enhancements to Shell and Vim Productivity
 * [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
 * [PowerShell commands](https://ss64.com/ps/) - A-Z of windows powershell commands
 * [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - script to automate tasks on a fresh windows 10 / windows server 2016
