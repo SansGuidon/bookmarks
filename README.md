@@ -1094,8 +1094,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Derek E. Weeks](https://devops.com/31-reference-architectures-devops-continuous-delivery/) - 31 Reference Architectures for DevOps and Continuous Delivery. [Slides here](https://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 * [Olivier Mallassi, Rudy Krol](http://blog.octo.com/devops/) - [FR] :fr: Les Patterns des Grands du Web – DevOps
-* [Martin Rusev](https://www.amon.cx/blog/how-i-replaced-ssh/) - How I Replaced SSH with ZeroMQ and Salt
-* [Martin Rusev](https://www.amon.cx/blog/saltstack-review/) - SaltStack - Review and how it fares against Ansible and Puppet?
+* [Martin Rusev](https://web.archive.org/web/20170118080812/https://www.amon.cx/blog/how-i-replaced-ssh/) - (2015) How I Replaced SSH with ZeroMQ and Salt
+* [Martin Rusev](https://web.archive.org/web/20170712022233/https://www.amon.cx/blog/saltstack-review/) - (2015) SaltStack - Review and how it fares against Ansible and Puppet?
 * [Josh Dreyfuss](http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/) - Deployment Management Tools: Chef vs. Puppet vs. Ansible vs. SaltStack vs. Fabric
 * [Engin Yöyen](http://enginyoyen.com/service-discovery-choosing-the-right-tool/) - Service Discovery : Choosing the Right Tool
 * :star: [**Viktor Farcic**](https://technologyconversations.com/2017/03/06/the-ten-commandments-of-continuous-delivery/) - (2017) The Ten Commandments Of Continuous Delivery. **Bonus from Jenkins World 2017** : [video](https://www.youtube.com/watch?v=mW_gkQnF4eU) * :star: [**Viktor Farcic**](https://technologyconversations.com/2017/03/06/the-ten-commandments-of-continuous-delivery/) - The Ten Commandments Of Continuous Delivery. **Bonus from Jenkins World 2017** : [video](https://www.youtube.com/watch?v=mW_gkQnF4eU) & [my notes](cd/viktor_farcic_on_continuous_delivery.md) [my notes](cd/viktor_farcic_on_continuous_delivery.md)
@@ -1653,7 +1653,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2017/05/13/docker-for-windows-different-modes/) - (2017) Compare Docker for Windows options
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/) - (2015) How Should I Get Application Configuration into my Docker Containers?
 * [Neil Batlivala](https://www.delphix.com/blog/data-virtualization/why-docker-not-enough) - Why Docker Is Not Enough. **Related** :  [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira) - Docker build for Atlassian Jira
-* [Martin Rusev](https://www.amon.cx/blog/docker-in-production-for-the-average-devops/) - Docker in production for the average DevOps
+* [Martin Rusev](https://web.archive.org/web/20170118114809/https://www.amon.cx/blog/docker-in-production-for-the-average-devops/) - (2015) Docker in production for the average DevOps
 * [Nitin Agarwal](https://medium.com/@nagarwal/docker-containers-filesystem-demystified-b6ed8112a04a) - Docker Container’s Filesystem Demystified
 * [Nitin Agarwal](https://medium.com/@nagarwal/why-use-docker-for-development-f3d1d1b61b05) - Why use Docker for Development
 * [Nitin Agarwal](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe) - Understanding the Docker Internals
@@ -2095,7 +2095,7 @@ See also [Infrastructure](#infrastructure)
 * [Vault Docs](https://www.vaultproject.io/intro/getting-started/authentication.html) - Authentication
 * [Peter A. Tierno](https://wiki.jenkins-ci.org/display/JENKINS/HashiCorp+Vault+Plugin) - HashiCorp Vault Plugin for Jenkins
 * [Seth Vargo](https://www.hashicorp.com/blog/codifying-vault-policies-and-configuration/) - Codifying Vault Policies and Configuration
-* [Martin Rusev](https://www.amon.cx/blog/managing-all-secrets-with-vault/) - Managing all your secrets with Vault - Review and Walkthrough
+* [Martin Rusev](https://web.archive.org/web/20170118081713/https://www.amon.cx/blog/managing-all-secrets-with-vault/) - (2016) Managing all your secrets with Vault - Review and Walkthrough
 * [Vault Docs](https://www.vaultproject.io/intro/getting-started/acl.html) - Access Control Policies (ACLs)
 * [Vault Docs](https://www.vaultproject.io/docs/concepts/tokens.html) - Tokens
 * [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
@@ -3275,7 +3275,7 @@ type `curl ident.me` to know your public ip
 * [Patrick Cable](https://sysadvent.blogspot.be/2017/12/day-4-this-christmas-build-your-own-pki.html) - (2017) This Christmas, build your own PKI
 * [Robert Treat](https://sysadvent.blogspot.be/2017/12/day-6-sysadmins-evolution-of-role.html) - (2017) sysadmins - the evolution of a role amidst revolutionary hype.
 * [cscareerthrowaway567](https://www.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/) - (2017) Accidentally destroyed production database on first day of a job, and was told to leave, on top of this i was told by the CTO that they need to get legal involved, how screwed am i?
-* [Chelsey Lang](https://www.clearvision-cm.com/blog/4-ways-to-approach-incident-management-and-improve-mean-time-to-resolution/) - (2017) 4 Ways to Approach Incident Management and Improve Mean Time to Resolution
+* [Chelsey Lang](https://blog.clearvision-cm.com/blog/4-ways-to-approach-incident-management-and-improve-mean-time-to-resolution/) - (2017) 4 Ways to Approach Incident Management and Improve Mean Time to Resolution
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/04/05/is-it-devops/) - (2017) Is it DevOps? What is DevOps and what is not DevOps
 * [Jim Leonardo](https://jimsrulesregardingeverything.com/2017/04/05/is-it-devops/) - (2017) Is it DevOps? What is DevOps and what is not DevOps
 * [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
@@ -3329,7 +3329,7 @@ type `curl ident.me` to know your public ip
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
 * [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
 * [Katrina Morales](https://www.atlassian.com/blog/add-ons/5-real-life-examples-beautiful-technical-documentation) - (2017) 5 real-life examples of beautiful technical documentation | user friendly docs on confluence
-* [Karl Tate](https://www.clearvision-cm.com/blog/confluence-best-practice-10-quick-and-dirty-tips-for-maintaining-your-confluence-environment/) - (2018) Confluence Best Practice: 10 Quick Tips for Maintaining Your Confluence Environment
+* [Karl Tate](https:/blog.clearvision-cm.com/blog/confluence-best-practice-10-quick-and-dirty-tips-for-maintaining-your-confluence-environment/) - (2018) Confluence Best Practice: 10 Quick Tips for Maintaining Your Confluence Environment
 
 ## Infrastructure
 See also [Terraform](#terraform)
@@ -4817,7 +4817,7 @@ Raw
 * [Matthew Brett](https://matthew-brett.github.io/curious-git/index.html) - The curious coder’s guide to git
 * [Steve Losh](http://stevelosh.com/blog/2013/04/git-koans/) - (2013) Git Koans
 * [Vadim Samokhin](https://hackernoon.com/gitflow-is-a-poor-branching-model-hack-d46567a156e7) - (2018) Gitflow is a Poor Branching Model Hack | gitflow sucks
-* [Paul Christie](https://www.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/) - (2018) What to do when you commit to the wrong Git branch
+* [Paul Christie](https://blog.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/) - (2018) What to do when you commit to the wrong Git branch
 * [Mark Lodato](https://marklodato.github.io/visual-git-guide/) - A Visual Git Reference
 * [George Gritsouk](https://gggritso.com/human-git-aliases) - (2016) Human Git Aliases | Stubbornly Refusing to Speak The Computer's Language | **Bonus** : [author's dotfiles](https://github.com/gggritso/dotfiles/blob/master/gitconfig.symlink)
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
@@ -4868,7 +4868,7 @@ Raw
 * [Kyle Quest](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) - 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
 * [Laura Frank](https://blog.codeship.com/an-intro-to-concurrency-patterns-in-go/) - (2017) An Intro to Concurrency Patterns in Go
 * [Jérôme Petazzoni](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go/33-Error_handling_can_be_verboseif) - [Slides] (2013) Docker and Go: why did we decide to write Docker in Go?
-* [Peter Bourgon](http://peter.bourgon.org/go-in-production/) - (2016) Go: Best Practices for Production Environments. **Bonus** : [Slides](https://github.com/gophercon/2014-talks) and [Video](http://confreaks.com/videos/3434-gophercon2014-best-practices-for-production-environments)
+* [Peter Bourgon](http://peter.bourgon.org/go-in-production/) - (2016) Go: Best Practices for Production Environments. **Bonus** : [Slides](https://github.com/gophercon/2014-talks) and [Video](https://www.youtube.com/watch?v=Y1-RLAl7iOI)
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 * [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys key
 * [Shahidh K Muhammed](https://blog.hasura.io/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c) - (2018) The Ultimate Guide to Writing Dockerfiles for Go Web-apps
@@ -4943,7 +4943,7 @@ Raw
 * [Days Since Last JavaScript Framework](https://dayssincelastjavascriptframework.com/) - with regular updates ! (humor)
 
 > Learn
-* [Ilse Garcia](https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - The JS Path: JavaScript Best Practices Pt. 1
+* [Ilse Garcia](https://web.archive.org/web/20170508084129/https://dev.to/poleslayer/the-js-path-javascript-best-practices-pt-1) - (2017) The JS Path: JavaScript Best Practices Pt. 1
 * [Front-end Rescue](https://uptodate.frontendrescue.org/) - How to keep up to date on Front-End Technologies - The Recipe
 * [Michal Mikolajczyk](https://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes) - Top 18 Most Common Mistakes that AngularJS Developers Make
 * [Sindre Sorhus/avajs/ava](https://github.com/avajs/ava) - AVA : Futuristic JavaScript test runner
