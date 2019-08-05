@@ -1916,6 +1916,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Andreas Grabner](https://www.dynatrace.com/news/blog/optimizing-jenkins-to-ensure-fast-build-times-with-dynatrace/) - (2018) Optimizing Jenkins to ensure fast build times with Dynatrace | Tips for using Jenkins on Kubernetes
 * [Denny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-jenkins-groovy-a4) - (2018) CheatSheet: Jenkins & Groovy
 * [James Rawlings](https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870) - (2018) Serverless Jenkins with Jenkins X
+* [Ryan Smith](https://www.cloudbees.com/blog/enterprise-jvm-administration-and-jenkins-performance) - (2019) Enterprise JVM Administration and Jenkins Performance
+* [CloudBees Support](https://support.cloudbees.com/hc/en-us/articles/222446987-Prepare-Jenkins-for-Support) - (2016) Prepare Jenkins for Support | Magic Java Virtual Machine (JVM) Arguments for Jenkins | Java Parameters + Ulimit settings + Java Home Environment Variables + Log Startup Timing Info
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
