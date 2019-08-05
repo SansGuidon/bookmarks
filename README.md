@@ -5641,7 +5641,7 @@ Raw
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 * [Eric Wendelin](https://www.eriwen.com/tools/grep-is-a-beautiful-tool/) - grep is a beautiful tool
-* [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+* :star: [**alexanderepstein/Bash-Snippets**](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 * [Sam Rowe](http://samrowe.com/wordpress/advancing-in-the-bash-shell/) - Advancing in the Bash Shell
 * [nojhan/Liquid Prompt](https://github.com/nojhan/liquidprompt) - a useful adaptive prompt for Bash & zsh
 * [Boris Huisgen](https://blog.hbis.fr) - [FR] :fr: various and interesting linux / sysadmin / devops tips & tricks with command line examples
