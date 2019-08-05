@@ -2416,6 +2416,7 @@ See also [Infrastructure](#infrastructure)
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
 * [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
 * [Theory Maps](https://www.theorymaps.org/) - Theory mapping is a technique for visually outlining scientific theory. It allows researchers to concretely display interrelations between concepts, which provides for rapid communication and easy evaluation of ideas. Theory mapping was developed to emphasize that good science requires both reliable methods and rigorous theory. The technique is described in the following forthcoming article at Perspectives on Psychological Science.
+* [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox 
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -3881,6 +3882,7 @@ See also [Terraform](#terraform)
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
 * [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
 * [Dan Pollock](https://someonewhocares.org/hosts/) - how to make the internet not suck (as much) | a hosts file to prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
+* [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox 
 
 # Programming
 > News
