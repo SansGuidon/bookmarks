@@ -3811,6 +3811,9 @@ See also [Terraform](#terraform)
 * [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
 * [Abbreviations.com](https://www.abbreviations.com/) - The Web's largest and most authoritative acronyms and abbreviations resource
 * [Alan Franzoni](https://www.franzoni.eu/productivity-the-office-and-an-open-floor-plan/) - (2018) Productivity, the office, and the open floor plan
+* [James Somers](http://jsomers.net/blog/speed-matters) - (2015) Speed matters: Why working quickly is more important than it seems
+> * the only way to learn to do something fast is by doing it lots of times.
+> * because you blog slowly, you’re liable to continue blogging slowly—simply because the only way to learn to do something fast is by doing it lots of times.
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
