@@ -589,7 +589,11 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jessica Kerr](https://blog.codeship.com/growing-tech-stack-say-no/) - Growing Your Tech Stack: When to Say No
 * [Chris Parnin](http://blog.ninlabs.com/2013/01/programmer-interrupted/) - (2013) Programmer Interrupted
 * [Daniel Miessler](https://danielmiessler.com/blog/how-to-build-a-strong-argument/) - How to Build a Strong Argument
-* [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
+* [Daniel Miessler](https://web.archive.org/web/20150910140755/https://danielmiessler.com/blog/three-questions-successful-people-ask/) - (2013) Three Questions Successful People Ask
+> * What do I want to achieve?
+> * What are my obstacles?
+> * Who has solved this already?
+* [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - (2016) How to Actually Publish More Things
 * [Ingrid Towey](https://opensource.com/open-organization/17/9/culture-building-onboarding-buddies) - Growing your team's open culture, one buddy at a time
 * [Sam Knuth](https://opensource.com/open-organization/17/9/exercise-in-transparent-decisions) - A 3-step process for making more transparent decisions
 * [Lauri Apple](https://opensource.com/open-organization/17/10/readme-maturity-model) - (2017) documentation : a maturity model for READMEs | Your step-by-step guide to more effective documentation
@@ -830,7 +834,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jon Cairns](https://medium.com/techspiration-ideas-making-it-happen/communication-how-to-be-a-better-software-developer-869c50767701) - Communication: how to be a better software developer
 * [Software Engineering Tips](http://www.yacoset.com/Home/communication-tips) - (2010) Communication Tips
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - (2014) 15 rules for communicating at GitHub
-* [Jason Davis](http://engineering.simondata.com/effective-communication-in-a-remote-eng-setting) - Effective Communication in a Remote Engineering Setting
+* [Jason Davis](https://medium.com/simon-systems/effective-communication-in-a-remote-engineering-setting-5f466d56aa5c) - (2015) Effective Communication in a Remote Engineering Setting
 * [Lenny Zeltser](https://zeltser.com/human-communications-cheat-sheet/) - Tips for Troubleshooting Human Communications | Human Communications Cheat Sheet
 * [Vadim Kravcenko](http://vadimkravcenko.com/dealing-with-complex-projects) - (2018) Dealing with complex projects
 > If you fail - you learn, if you succeed – even better. And never forget the importance of communication.
@@ -1823,7 +1827,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Liam Newman](https://www.cloudbees.com/blog/sending-notifications-pipeline) - Sending Notifications in Pipeline, contains examples for Slack, Email, HipChat
 * [Andrew Bayer](https://gist.github.com/abayer) - examples of complex/advanced pipeline scripts
 * [Stack Overflow](https://stackoverflow.com/questions/42290133/jenkins-pipeline-git-command-submodule-update) - Example Pipeline for git submodule update
-* [Jason Davis](http://engineering.simondata.com/can-we-use-jenkins-for-that) - Can We Use Jenkins for That?
+* [Jason Davis](https://medium.com/simon-systems/can-we-use-jenkins-for-that-4473878e02f9) - (2015) Can We Use Jenkins for That?
 * [Keyan Pishdadian](http://engineering.teacherspayteachers.com/2017/05/16/unifying-deployments-for-microservices-via-jenkins.html) - (2017) Unifying Deployments for Microservices with Jenkinsfile Pipelines
 * [/r/devops](https://www.reddit.com/r/devops/comments/5mbb5g/jenkinsfiles/) - Interesting discussion about difficulties to work with Jenkinsfiles on /r/devops
 * [JFrogDev/jenkins-pipeline-examples](https://github.com/JFrogDev/project-examples/tree/master/jenkins-pipeline-examples) - Jenkins pipeline example scripts
@@ -2499,7 +2503,7 @@ See also [Infrastructure](#infrastructure)
 * [Daniel Miessler](https://danielmiessler.com/study/hiring/) - A Hiring Primer
 * [Daniel Miessler](https://danielmiessler.com/blog/the-tiger-hiring-algorithm/) - The Tiger Hiring Algorithm
 * [Daniel Miessler](https://danielmiessler.com/projects/gt-rating-system/) - The GT Rating System
-* [Daniel Miessler](https://danielmiessler.com/blog/the-peter-principle/) - The Peter Principle / Anything that works will be used in progressively more challenging applications until it fails.
+* [Daniel Miessler](https://web.archive.org/web/20150910021545/https://danielmiessler.com/blog/the-peter-principle/) - The Peter Principle / Anything that works will be used in progressively more challenging applications until it fails.
 * [Daniel Miessler](https://danielmiessler.com/blog/measuring-quality-culture/) - Measuring the Quality of a Culture
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
 * [Sanna](https://twitter.com/Nikkitita69/status/407949378251280384/photo/1) - [IMG] What if physical illness was treated the same way mental illness is...?
@@ -2751,12 +2755,12 @@ See also [Infrastructure](#infrastructure)
 * [Scott Rippee](http://www.hypexr.org/linux_scp_help.php) - Example syntax for Secure Copy (scp)
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2974753/linux/doing-math-with-awk.html) - Doing math with awk
 * [Vivek Gite](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/) - (2018) Top 32 Nmap Command Examples For Sys/Network Admins
-* [Lakshmanan Ganapathy](http://www.thegeekstuff.com/2012/08/lsof-command-examples) - (2012) 15 Linux lsof Command Examples (Identify Open Files)
-* [The Geek Stuff](http://www.thegeekstuff.com/2010/11/50-linux-commands/) - (2010) 50 Most Frequently Used UNIX / Linux Commands (With Examples)
+* [Lakshmanan Ganapathy](https://www.thegeekstuff.com/2012/08/lsof-command-examples) - (2012) 15 Linux lsof Command Examples (Identify Open Files)
+* [The Geek Stuff](https://www.thegeekstuff.com/2010/11/50-linux-commands/) - (2010) 50 Most Frequently Used UNIX / Linux Commands (With Examples)
 * :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
-* [Ramesh Natarajan](http://www.thegeekstuff.com/2011/06/iptables-rules-examples/) - (2011) 25 Most Frequently Used Linux IPTables Rules Examples. **Bonus** : [Gist on GitHub](https://gist.github.com/virtualstaticvoid/1024546)
+* [Ramesh Natarajan](https://www.thegeekstuff.com/2011/06/iptables-rules-examples/) - (2011) 25 Most Frequently Used Linux IPTables Rules Examples. **Bonus** : [Gist on GitHub](https://gist.github.com/virtualstaticvoid/1024546)
 * [Nick Congleton](https://www.maketecheasier.com/secure-linux-desktop-with-iptables/) - How to Secure Your Linux Desktop with Iptables
-* [The Geek Stuff](http://www.thegeekstuff.com/2010/09/linux-one-liners/) - (2010) 6 Useful Linux One Liners
+* [The Geek Stuff](https://www.thegeekstuff.com/2010/09/linux-one-liners/) - (2010) 6 Useful Linux One Liners
 * [Maxim Chernyak](http://hakunin.com/permissions) - Linux permissions cheatsheet
 * [CHMOD command calculator](https://chmodcommand.com/)
 * [Corinna Baldauf](http://wall-skills.com/2015/the-find-command-in-examples/) - (2015) The find command in examples
@@ -2789,9 +2793,9 @@ See also [Infrastructure](#infrastructure)
 * [Geek Flare](https://geekflare.com/category/web-infrastructure/unix/) - general Unix articles, tips, tools for managing web infrastructure
 * [LZone](https://lzone.de/cheat-sheet/Linux-Commands) - Linux commands cheatsheet
 * [Chandan Kumar](https://geekflare.com/cheat-sheet-system-admin/) - linux sysadmin cheatsheets
-* [SathiyaMoorthy](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples) - (2009) cron job examples
+* [SathiyaMoorthy](https://www.thegeekstuff.com/2009/06/15-practical-crontab-examples) - (2009) cron job examples
 * [Shivam](http://www.trysudo.com/7-tips-for-a-productive-development-setup-on-linux/) - 7 tips for a productive development setup on Linux
-* [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server) - How To Configure SSH Key-Based Authentication on a Linux Server. [And please use Ed25519 instead of RSA keys](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54) 
+* [Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server) - How To Configure SSH Key-Based Authentication on a Linux Server. [And please use Ed25519 instead of RSA keys](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
 * [Al Williams](https://hackaday.com/2017/03/10/linux-fu-keeping-things-running/) - (2017) Linux-Fu: Keeping Things Running
 * [Vivek Gite](https://www.cyberciti.biz/faq/howto-use-dig-to-find-dns-time-to-live-ttl-values/) - Dig Command Find Out TTL (Time to Live) Value For DNS Records
 * [Vivek Gite](https://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html) - Linux Find Out Last System Reboot Time and Date Command
@@ -2834,7 +2838,7 @@ See also [Infrastructure](#infrastructure)
 * [Tom Limoncelli](https://everythingsysadmin.com/2012/09/unorthodoxunix.html) - (2012) 4 unix commands I abuse every day
 * [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
 * [Sysadmin Casts](https://sysadmincasts.com/) - Good resources for sysadmin / ops / devops
-* [Ramesh Natarajan](http://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/) - (2010) 50 UNIX / Linux Sysadmin Tutorials
+* [Ramesh Natarajan](https://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/) - (2010) 50 UNIX / Linux Sysadmin Tutorials
 * [Gaurav Kumar Gupta](http://www.gauravkgupta.com/ten-best-cheat-sheets-first-time-linux-admins/) - Ten Of The Best Cheat Sheets For First Time Linux Admins
 * [DayDreamer](http://daydreamer66.blogspot.be/2014/06/rhel-how-can-non-root-users-can-run.html) - (2014) RHEL: How can non-root users can run tcpdump or Wireshark or use libpcap
 * [Silver Moon](http://www.binarytides.com/linux-ss-command/) - 10 examples of Linux ss command to monitor network connections
@@ -2848,7 +2852,7 @@ See also [Infrastructure](#infrastructure)
 * [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
 * [Josh Reichardt](https://thepracticalsysadmin.com/7-useful-but-hard-to-remember-linux-commands/) - 7 useful but hard to remember Linux commands
 * [Daniel J Walsh](https://opensource.com/business/13/11/selinux-policy-guide) - Your visual how-to guide for SELinux policy enforcement
-* [SathiyaMoorthy](http://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/) - (2010) Understand at, atq, atrm, batch Commands using 9 Examples
+* [SathiyaMoorthy](https://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/) - (2010) Understand at, atq, atrm, batch Commands using 9 Examples
 * [Robert Viseur](https://fr.slideshare.net/ecocentric/rv-jdllicences20140220online) - (2014) [FR] :fr: Comprendre les licences de logiciels libres. **Bonus** : [summary in picture](https://twitter.com/netpublic/status/466082953752489984/photo/1)
 * [GNU Parallel](https://www.gnu.org/software/parallel/) - GNU parallel is a shell tool for executing jobs in parallel using one or more computers.
 * [Bryan Lunduke](https://www.youtube.com/watch?v=5pOxlazS3zs) - (2014) [Video] Linux Sucks // spoiler : this is not a video against Linux ;)
@@ -3605,7 +3609,10 @@ See also [Terraform](#terraform)
 * [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips
 * [Daniel Miessler](https://danielmiessler.com/blog/high-productivity/) - The Secret to High Productivity
 * [Daniel Miessler](https://danielmiessler.com/blog/on-giving-advice-to-friends/) - On Giving Advice to Friends
-* [Daniel Miessler](https://danielmiessler.com/blog/three-questions-successful-people-ask/) - Three Questions Successful People Ask
+* [Daniel Miessler](https://web.archive.org/web/20150910140755/https://danielmiessler.com/blog/three-questions-successful-people-ask/) - (2013) Three Questions Successful People Ask
+> * What do I want to achieve?
+> * What are my obstacles?
+> * Who has solved this already?
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - (2016) How to Actually Publish More Things
 * [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] :fr: Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
 * [MorganGeek](https://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] :fr: La sélection naturelle de contenus
@@ -3734,7 +3741,7 @@ See also [Terraform](#terraform)
 * [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
 * :star: [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - (2013) 7 Shortcuts You Will Regret Taking in Life
-* [Daniel Miessler](https://danielmiessler.com/blog/how-to-decide-who-to-friend-on-facebook-linkedin-and-twitter/) - How To Decide Who To Friend on Facebook, LinkedIn, and Twitter
+* [Daniel Miessler](https://danielmiessler.com/blog/how-to-decide-who-to-friend-on-facebook-linkedin-and-twitter/) - (2010) How To Decide Who To Friend on Facebook, LinkedIn, and Twitter
 * [Daniel Miessler](https://danielmiessler.com/projects/concepts/) - Lot of concepts summarized by Daniel Miessler
 * [Lecture Hunt](http://lecturehunt.com/) - find and share best learning material online (How to's, courses, ...)
 * [Thoughtbot's playbook](https://thoughtbot.com/playbook) - a guide explaining how Thoughtbot build products and run their company
@@ -4141,8 +4148,8 @@ See also [Terraform](#terraform)
 * [Jakub Holý](https://theholyjava.wordpress.com/2016/03/06/it-is-ok-to-requie-your-team-mates-to-have-particular-domaintechnical-knowledge/) - (2016) It Is OK to Require Your Team-mates to Have Particular Domain/Technical Knowledge
 * [Jakub Holý](https://theholyjava.wordpress.com/2016/03/04/dont-add-unnecessary-checks-to-your-code-pretty-please/) - (2016) Don’t add unnecessary checks to your code, pretty please!
 * [Thomas Figg (tef)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) - (2016) Write code that is easy to delete, not easy to extend.
-* [Ashton Kemerling](http://ashtonkemerling.com/blog/2014/06/09/the-swordsman-and-the-software-engineer/) - (2014) The Swordsman and the Software Engineer | It’s easy to believe that specializing and focusing will make you better than your peers
-* [Ashton Kemerling](http://ashtonkemerling.com/blog/2014/03/24/disdain/) - (2014) Disdain | the accomplished engineer knows that completing a task is not about the number of hours spent, but the quality
+* [Ashton Kemerling](https://web.archive.org/web/20181013082216/http://ashtonkemerling.com/blog/2014/06/09/the-swordsman-and-the-software-engineer/) - (2014) The Swordsman and the Software Engineer | It’s easy to believe that specializing and focusing will make you better than your peers
+* [Ashton Kemerling](https://web.archive.org/web/20170711011635/http://ashtonkemerling.com/blog/2014/03/24/disdain/) - (2014) Disdain | the accomplished engineer knows that completing a task is not about the number of hours spent, but the quality
 * [Andrew Hunt and David Thomas](https://pragprog.com/the-pragmatic-programmer/extracts/coincidence) - (1999) Programming by Coincidence | Don’t Program by Coincidence. Extract from The Pragmatic Programmer book
 * [Jakub Holý](https://theholyjava.wordpress.com/2012/09/12/programming-like-kent-beck/) - (2012) Programming Like Kent Beck
 * [Fred Hébert](https://www.codemesh.io/codemesh2017/fred-hebert) - (2017) Everything is Terrible : how fundamental components can end up causing us problems. Target audience : Developers who enjoy cynicism. **Bonus** : [Slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/766/original/Fred_Herbert_-_Everything_is_terrible.pdf?1510584735)
@@ -4578,7 +4585,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 ```
 
 ## Debugging
-* [The Geek Stuff](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - (2010) How to Debug C Program using gdb in 6 Simple Steps
+* [The Geek Stuff](https://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - (2010) How to Debug C Program using gdb in 6 Simple Steps
 * [Jaroslav Tulach](http://www.methodsandtools.com/archive/debugger.php) - Use the Debugger. Stupid!
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
 * [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - (2015) Debugging - into rabbit hole with docker containers
@@ -4675,8 +4682,8 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - (2016) Using git diff with Ansible Vault encrypted files
 * [Marvin Pinto](https://disjoint.ca/til/2016/03/18/modifying-the-date-of-a-commit/) - (2016) Modifying the date of a commit
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/advanced-git-aliases) - One weird trick for powerful Git aliases
-* [Nicola Paolucci](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/) - (2012) Must Have Git Aliases: Advanced Examples + [list available on BitBucket](https://bitbucket.org/durdn/cfg/src/master/.gitconfig?at=master)
-* [Nicola Paolucci](http://durdn.com/blog/2012/12/05/git-12-curated-git-tips-and-workflows/) - (2012) Git: Twelve Curated Tips And Workflows From The Trenches
+* [Nicola Paolucci](https://www.durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/) - (2012) Must Have Git Aliases: Advanced Examples + [list available on BitBucket](https://bitbucket.org/durdn/cfg/src/master/.gitconfig?at=master)
+* [Nicola Paolucci](https://www.durdn.com/blog/2012/12/05/git-12-curated-git-tips-and-workflows/) - (2012) Git: Twelve Curated Tips And Workflows From The Trenches
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
 * [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
 * [Harry Roberts/dotfiles](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
@@ -4686,7 +4693,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Aliases) - Collection of git aliases
 * [Nicola Paolucci](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/) - (2015) The power of Git subtree
 * [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
-* [Nicola Paolucci](http://durdn.com/blog/2009/08/16/i-love-staring-at-branches-and-shuffle-reorder-and-squash-commits/) - (2009) I love staring at branches and shuffle, reorder and squash commits
+* [Nicola Paolucci](https://www.durdn.com/blog/2009/08/16/i-love-staring-at-branches-and-shuffle-reorder-and-squash-commits/) - (2009) I love staring at branches and shuffle, reorder and squash commits
 * [Robby Russell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/456341fd69c3e514e401f1c3c1726b77d733c86b/plugins/git/git.plugin.zsh) - git aliases from oh-my-zsh
 * [Kernel Docs](https://www.kernel.org/pub/software/scm/git/docs/git-push.html) - git-push
 * [Git-SCM Docs](https://git-scm.com/docs/git-diff) - git-diff
@@ -5592,7 +5599,7 @@ Raw
 * [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
 * [Hacker Rank](https://www.hackerrank.com/domains/shell) - Linux Shell challenges, funny but nothing fancy
 * [Commandline Challenge](https://cmdchallenge.com/) - Linux Shell challenges
-* [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
+* [Bash Hackers Wiki](https://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
 * [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make
 * :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
 * [Nicola Paolucci](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/) - (2015) Ten tips for wonderful bash productivity
@@ -5688,7 +5695,7 @@ Raw
 * [Heiner's SHELLdorado](http://www.shelldorado.com/) - your UNIX shell scripting resource | a shell scripting education site. **Bonus** : [Commands](http://www.shelldorado.com/scripts/commands.html) + [Links](http://www.shelldorado.com/links/)
 * [SHELLdorado](http://www.shelldorado.com/articles/ignorantsguide.html) - The Ignorant's Guide to Shell Programming
 * [GNU](https://www.gnu.org/software/bash/manual/bash.html) - Bash Reference Manual
-* [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/nonportable) - portable vs non portable BASH specific syntax
+* [Bash Hackers Wiki](https://wiki.bash-hackers.org/scripting/nonportable) - portable vs non portable BASH specific syntax
 * [bats-core/bats-core](https://github.com/bats-core/bats-core) : Bats is a [TAP](https://testanything.org/)-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. **Bonus** : see also the original [sstephenson/bats](https://github.com/sstephenson/bats)
 * [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
 * [Bhaskar Karambelkar](https://dev.to/bhaskar_vk/bash-shell-tricks) - (2017) Bash Shell Tricks
