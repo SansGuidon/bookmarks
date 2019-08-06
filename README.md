@@ -6246,6 +6246,7 @@ rpm --rebuilddb
 * [Web Design Museum](https://www.webdesignmuseum.org/) - The museum exhibits over 900 carefully selected and sorted web sites that show web design trends between the years 1995 and 2005.
 * [Gordon Brander](http://gordonbrander.com/pattern/jack-principles/) - The Jack Principles of conversational UI.
 * [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
+* [Dark Patterns](https://www.darkpatterns.org/types-of-dark-pattern) - Types of Dark Patterns
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
