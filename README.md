@@ -5241,6 +5241,7 @@ Raw
 * [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 * [Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) - (2019) Do-nothing scripting: the key to gradual automation | pattern for scripts that do nothing but still help on the road to automation
+* :star: [**Eric Pement**](https://web.archive.org/web/20190804114017/http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -5708,7 +5709,7 @@ Raw
 * [Bhaskar Karambelkar](https://dev.to/bhaskar_vk/bash-shell-tricks) - (2017) Bash Shell Tricks
 * [Chris Hermansen](https://opensource.com/article/18/1/two-great-uses-cp-command-update) - (2018) Two great uses for the cp command: Bash shortcuts
 * [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
-* [Eric Pement](https://web.archive.org/web/20190804114017/http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
+* :star: [**Eric Pement**](https://web.archive.org/web/20190804114017/http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
 * [Kevin van Zonneveld](https://kvz.io/blog/2013/11/21/bash-best-practices/) - (2013) Best Practices for Writing Bash Scripts
 * [BASH3 Boilerplate (or b3bp)](http://bash3boilerplate.sh/) - Templates to write better Bash scripts **Bonus** : [Github Repo](https://github.com/kvz/bash3boilerplate)
 * [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
