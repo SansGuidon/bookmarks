@@ -1511,6 +1511,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [toniblyx/prowler](https://github.com/toniblyx/prowler) - Tool for assessing AWS Security Best Practices, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+90). **Bonus** : [Official CIS for AWS guide]( https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
 * [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 * [Amazon S3 Tools](https://s3tools.org/usage) - S3cmd usage (as shown if you type `s3cmd -h`). To access all the options and commands listed below, you'll need s3cmd version 2.0 or newer
+* [AWS Trusted Advisor](https://console.aws.amazon.com/trustedadvisor) - Think of Trusted Advisor as a tool to help you plan new infrastructure, optimize existing ones, or simply run scans to make sure your deployments meet the AWS security standards. Given how hard it is to do this on even a single server manually, Trusted Advisor is one of the hidden gems among lesser-known AWS offerings.
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
