@@ -2996,6 +2996,7 @@ rpm --rebuilddb
 * [OSXDaily](http://osxdaily.com/2017/11/22/use-touch-id-sudo-mac/) - (2017) How to Use Touch ID to Authenticate sudo on Mac OS
 * [Homebrew Formulae](https://formulae.brew.sh/) - is an online package browser for Homebrew – the macOS package manager.
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
+* [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
