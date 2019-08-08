@@ -508,7 +508,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * [Freelance.tv](http://freelance.tv) - Videos about freelancing
-* [Xerius](https://brutonetto.xerius.be) - :fr: [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net
+* :star: [**Xerius**](https://brutonetto.xerius.be) - :fr: [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net
 * [r/personalfinance/tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Personal Finance Tools : Redditor-created Spreadsheets
 
 ## Cryptocurrency
@@ -2413,7 +2413,7 @@ See also [Infrastructure](#infrastructure)
 * [Meta Tags](https://metatags.io/) - is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 * [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
 * [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
-* [Xerius](https://brutonetto.xerius.be) - :fr: [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net
+* :star: [**Xerius**](https://brutonetto.xerius.be) - :fr: [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net
 * [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
