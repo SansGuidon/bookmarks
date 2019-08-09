@@ -2742,7 +2742,7 @@ See also [Infrastructure](#infrastructure)
 * [Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/) - latest information on Red Hat's IT infrastructure products, offerings, and solutions
 * [Opensource.com](https://opensource.com/) - stories about creating, adopting, and sharing open source solutions
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ) - The Linux Foundation Youtube Channel
-* [OSTechNix](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - How To Securely And Permanently Delete Your Data In Linux
+* [Senthil Kumar aka SK](https://www.ostechnix.com/securely-permanently-delete-data-linux/) - (2017) How To Securely And Permanently Delete Your Data In Linux
 * [Alltop](https://linux.alltop.com/) - Top Linux News aggregated
 * [Tux Machines](http://www.tuxmachines.org/) - a community-driven public service/news site which has been around for over a decade and primarily focuses on GNU/Linux
 
@@ -2813,7 +2813,7 @@ See also [Infrastructure](#infrastructure)
 * [FedoraProject Wiki](https://fedoraproject.org/wiki/Packaging:RPMMacros?rd=Packaging/RPMMacros) - definitions for some common RPM specfile macros
 * [Stack Overflow](https://stackoverflow.com/questions/8076471/how-to-know-the-value-of-built-in-macro-in-rpm) - How to know the value of built-in macro in RPM?
 * [RPM](http://rpm.org/user_doc/macros.html) - Macro syntax
-* [Senthil Kumar](https://www.ostechnix.com/download-rpm-package-dependencies-centos/) - How To Download A RPM Package With All Dependencies In CentOS
+* [Senthil Kumar aka SK](https://www.ostechnix.com/download-rpm-package-dependencies-centos/) - (2016) How To Download A RPM Package With All Dependencies In CentOS
 * [Linux Stack Exchange](https://unix.stackexchange.com/questions/259640/how-to-use-yum-to-get-all-rpms-required-for-offline-use) - How to use yum to get all RPMs required, for offline use?
 * [Red Hat Customer Portal](https://access.redhat.com/solutions/10154) - How to use yum to download a package without installing it
 * [Fedora Project Docs](https://docs.fedoraproject.org/ro/Fedora_Draft_Documentation/0.1/html/RPM_Guide/ch08s02s04.html) - Building RPMs with the rpmbuild command
@@ -2916,6 +2916,7 @@ rpm --rebuilddb
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
 * [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - (2013) My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
 * [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - (2011) Basic Linux Privilege Escalation
+* [Senthil Kumar aka SK](https://www.ostechnix.com/random-one-liner-linux-commands-part-1/) - (2018) Some Random One-liner Linux Commands [Part 1]. **Bonus** : [Part 2](https://www.ostechnix.com/random-one-liner-linux-commands-part-2/), [Part 3](https://www.ostechnix.com/random-one-liner-linux-commands-part-3/)
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -5245,6 +5246,7 @@ Raw
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 * [Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) - (2019) Do-nothing scripting: the key to gradual automation | pattern for scripts that do nothing but still help on the road to automation
 * :star: [**Eric Pement**](https://web.archive.org/web/20190804114017/http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
+* [Senthil Kumar aka SK](https://www.ostechnix.com/random-one-liner-linux-commands-part-1/) - (2018) Some Random One-liner Linux Commands [Part 1]. **Bonus** : [Part 2](https://www.ostechnix.com/random-one-liner-linux-commands-part-2/), [Part 3](https://www.ostechnix.com/random-one-liner-linux-commands-part-3/)
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
