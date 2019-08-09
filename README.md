@@ -3742,6 +3742,7 @@ See also [Terraform](#terraform)
 * [David R. MacIver](https://www.drmaciver.com/2013/08/how-did-you-get-started-so-quickly/) - (2013) How to quickly become effective when joining a new company
 * [Bazyli Brzóska](https://invent.life/blog/on-organizing-projects-and-files/) - (2013) On organizing projects and files | TLDR : we shoudl use tags and we need more tools supporting them
 * [Gmail Help](https://support.google.com/mail/answer/7190?hl=en) - (2013) Search operators you can use with Gmail | You can use words or symbols called search operators to filter your Gmail search results. You can also combine operators to filter your results even more.
+* [Gmail Help](https://support.google.com/mail/answer/6594?hl=en) - (2013) Keyboard shortcuts for Gmail | save yourself hours/days every year
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
