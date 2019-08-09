@@ -5252,7 +5252,7 @@ Raw
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
-* :star: [**Geek&Poke**](http://geek-and-poke.com/) - cartoons
+* :star: [**Geek&Poke**](https://geek-and-poke.com/) - cartoons
 * [The Profound Programmer](http://theprofoundprogrammer.com/) - Programming frustrations expressed through profane, beautiful photographs
 * [Programming excuses](http://programmingexcuses.com/) - Excuses for lazy coders
 * [Developer excuses](http://developerexcuses.com/) - Excuses for lazy coders
