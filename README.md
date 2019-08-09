@@ -3879,7 +3879,7 @@ See also [Terraform](#terraform)
 * [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
 * [Culture Codes](https://tettra.co/culture-codes/handbooks/) - Employee Handbox Examples | A collection of company handbooks, employee manuals, and more from real companies.
 * [GSMArena.com](https://www.gsmarena.com/) - mobile phone reviews, news, specifications and more...
-* [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter
+* :star: [**sferik/t**](https://github.com/sferik/t) - A command-line power tool for Twitter
 * [Samuel Hulick](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea) - (2016) Slack, I’m Breaking Up with You
 * [Daichi](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089) - (2017) Boost your productivity using Markdown.
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
