@@ -310,6 +310,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) - Awesome Creative Portfolio Websites
 * [Anne Quito](https://qz.com/quartzy/1381916/drawing-is-the-best-way-to-learn-even-if-youre-no-leonardo-da-vinci/) - (2018) Drawing is the best way to learn, even if you’re no Leonardo da Vinci
 * [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
+* [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -3430,6 +3431,7 @@ See also [Terraform](#terraform)
 * [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
 * [oci-pronghorn/GreenLightning](https://github.com/oci-pronghorn/GreenLightning) - Small Java HTTP/s server many times faster than Netty or NGINX
 * [Cody Parker](https://codyparker.com/force-entire-site-ssl-nginx-behind-aws-load-balancer/) - (2017) How To Force HTTPS in NGINX behind a classic AWS Load Balancer
+* [nginxconfig.io](https://nginxconfig.io/) - ⚙️ NGiИX config generator on steroids 💉. **Bonus** : [GitHub repository](https://github.com/digitalocean/nginxconfig.io)
 
 ## ServiceNow
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - (2015) Integrating ServiceNow with HipChat
@@ -4986,6 +4988,7 @@ Raw
 * [JSONLint](https://jsonlint.com/) - JSON validator
 * [The State of JavaScript 2017](https://stateofjs.com/2017/introduction/) - (2017) Results of a survey to more than 28,000 developers all over the world about JavaScript ecosystem, covering numerous topics (testing, front-end, back-end, build tools, opinions, ...)
 * [Viral Shah](https://blog.usejournal.com/little-known-features-of-javascript-901665291387) - (2018) Little known features of JavaScript | Void operator, With statement, and other things.
+* [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
