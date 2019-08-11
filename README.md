@@ -2720,6 +2720,7 @@ See also [Infrastructure](#infrastructure)
 * [Richard Gale](https://www.youtube.com/watch?v=9VDvgL58h_Y) - [Video] (2009) The Horribly Slow Murderer with the Extremely Inefficient Weapon
 * [DSL-Store](https://dls-store.com/) - T-Shirt online store. Your best t-shirt should be like your bed. It just feels like you are home when you are in it.
 * [Manifesto for Half-Arsed Agile Software Development](https://www.halfarsedagilemanifesto.org/) - "We have heard about new ways of developing software by paying consultants and reading Gartner reports...."
+* [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party or die
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
