@@ -5363,6 +5363,7 @@ Raw
 * [Matej Jellus](https://juffalow.com/other/funny-stuff-from-programmers-realm) - (2016) Funny stuff from programmers realm
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer. | Not really humour, but anyway it needs to be here.
 * [Lenny Zeltser](https://zeltser.com/suck-at-security-cheat-sheet/) - (2015) How to Suck at Information Security – A Cheat Sheet
+* [mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) - A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
