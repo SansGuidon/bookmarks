@@ -1001,7 +1001,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot)
 * [RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) - Fantasy literature worth reading
 * [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
-* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] :fr: [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 * [Duolingo](https://www.duolingo.com/) - free tool for learning another language, Duolingo makes it fun, and helps keep you engaged for the long haul.
 * [Open Culture](http://www.openculture.com/freeonlinecourses) - 1,300 Free Online Courses from Top Universities
 * [Academic Earth](http://academicearth.org/) - free access to world-class education; streaming of lectures from many of top universities
@@ -2209,7 +2208,6 @@ See also [Infrastructure](#infrastructure)
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot)
 * :star: [**khinsider**](https://downloads.khinsider.com/game-soundtracks) - good place to find video game music
-* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] :fr: [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 * [bestofyoutube](http://bestofyoutube.com/) - [Videos] The best of youtube
 * [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] :fr: [Videos] best funny videos from internet
 * [Wolfram Alpha](https://www.wolframalpha.com/) - ultra-nerdy search engine with advanced features
@@ -2702,7 +2700,6 @@ See also [Infrastructure](#infrastructure)
 * [Capitalism & Competitiveness](https://twitter.com/Nniina_/status/523173787077214208/photo/1) (2014) [IMG] [FR] :fr:
 * [LastWeekTonight](https://www.youtube.com/watch?v=T8y5EXFMD4s) - (2014) [Video] Stephen Hawking Interview about artificial intelligence, with John Oliver (HBO)
 * [Cyprien](https://www.youtube.com/watch?v=wNRUzu4fTgw) - [FR] :fr: [Video] Technophobe / what if you could not use technology anymore
-* [Rick Et Morty](http://www.ricketmorty.fr/) - [FR] :fr: [Video] All Rick & Morty episodes in VF / VOSTFR (streaming)
 * [Message à caractère informatif](https://www.youtube.com/watch?v=8N_gatQ5G1U&list=PL3794CF56F0377496) - [FR] :fr: [Videos] funny surreal dubbing of old corporate short movies **Bonus** : [Top 12 best episodes](https://www.youtube.com/watch?v=ozJmcB-mVgw)
 * [Koreus](https://www.koreus.com/videos/nouveau/) - [FR] :fr: [Videos] best funny videos from internet
 * [The Onion](https://www.theonion.com/) - America's Finest News Source | A farcical newspaper featuring world, national and community news.
