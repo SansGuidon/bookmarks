@@ -5254,6 +5254,7 @@ Raw
 * [Senthil Kumar aka SK](https://www.ostechnix.com/random-one-liner-linux-commands-part-1/) - (2018) Some Random One-liner Linux Commands [Part 1]. **Bonus** : [Part 2](https://www.ostechnix.com/random-one-liner-linux-commands-part-2/), [Part 3](https://www.ostechnix.com/random-one-liner-linux-commands-part-3/), [Part 4](https://www.ostechnix.com/some-random-one-liner-linux-commands-part-4/)
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
 * [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions 
+* [Remy Sharp](https://remysharp.com/2018/08/23/cli-improved) - (2018) CLI: improved | presentation of several powerful CLI tools
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
