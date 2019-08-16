@@ -2422,6 +2422,7 @@ See also [Infrastructure](#infrastructure)
 * [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
 * [Theory Maps](https://www.theorymaps.org/) - Theory mapping is a technique for visually outlining scientific theory. It allows researchers to concretely display interrelations between concepts, which provides for rapid communication and easy evaluation of ideas. Theory mapping was developed to emphasize that good science requires both reliable methods and rigorous theory. The technique is described in the following forthcoming article at Perspectives on Psychological Science.
 * [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox 
+* :star: [**DistroTest**](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
 
 # Gaming :video_game:
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2909,7 +2910,7 @@ See also [Infrastructure](#infrastructure)
 * [Pradeep Kumar](https://www.linuxtechi.com/capture-analyze-packets-tcpdump-command-linux/) - (2018) How to capture and analyze packets with tcpdump command on Linux
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 * [Ubuntu Community Help Wiki](https://help.ubuntu.com/community/SSH/OpenSSH/Keys) - Internet and Networking >> SSH >> SSH/OpenSSH/Keys
-* [DistroTest](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
+* :star: [**DistroTest**](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
 * [David Newcomb](http://www.bigsoft.co.uk/blog/2012/01/06/rpmdb-unable-to-join-the-environment) - (2012) yum install failing on `rpmdb: unable to join the environment` or `db3 error(11) from dbenv->open: Resource temporarily unavailable`. Do the followings:
 ```
 rm -rf /var/lib/rpm/__db*
@@ -5248,7 +5249,7 @@ Raw
 * [Hacker Tools](https://hacker-tools.github.io/) - Learn to make the most of the tools used by hackers / programmers
 * [Kent C. Dodds](https://kentcdodds.com/blog/write-tests) - (2017) Write tests. Not too many. Mostly integration.
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
-* [DistroTest](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
+* :star: [**DistroTest**](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
 * [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 * [Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) - (2019) Do-nothing scripting: the key to gradual automation | pattern for scripts that do nothing but still help on the road to automation
