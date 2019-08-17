@@ -5259,6 +5259,7 @@ Raw
 * [Remy Sharp](https://remysharp.com/2018/08/23/cli-improved) - (2018) CLI: improved | presentation of several powerful CLI tools
 * [wwong99/useful_commands.md](https://github.com/wwong99/pentest-notes/blob/9a9d4117cebf06597c050904b387fd14ab59096f/os/useful_commands.md) - Useful commands By [@climagic](https://twitter.com/climagic)
 * [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - Use cheat.sh from VIM
+* [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
