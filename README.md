@@ -2972,6 +2972,7 @@ rpm --rebuilddb
 * [Tom Ryder](https://sanctum.geek.nz/arabesque/vim-anti-patterns/) - (2012) Vim anti-patterns
 * [Why vi Rocks](https://why-vi.rocks/) - a collection of commands, command sequences which make vi rock
 * [Vim Tips Wiki](https://vim.fandom.com/wiki/Highlight_unwanted_spaces) - (2003) Highlight unwanted spaces
+* [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
