@@ -5255,6 +5255,7 @@ Raw
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
 * [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions 
 * [Remy Sharp](https://remysharp.com/2018/08/23/cli-improved) - (2018) CLI: improved | presentation of several powerful CLI tools
+* [wwong99/useful_commands.md](https://github.com/wwong99/pentest-notes/blob/9a9d4117cebf06597c050904b387fd14ab59096f/os/useful_commands.md) - Useful commands By [@climagic](https://twitter.com/climagic)
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
