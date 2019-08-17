@@ -2973,6 +2973,7 @@ rpm --rebuilddb
 * [Why vi Rocks](https://why-vi.rocks/) - a collection of commands, command sequences which make vi rock
 * [Vim Tips Wiki](https://vim.fandom.com/wiki/Highlight_unwanted_spaces) - (2003) Highlight unwanted spaces
 * [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
+* [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - Use cheat.sh from VIM
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -5257,6 +5258,7 @@ Raw
 * [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions 
 * [Remy Sharp](https://remysharp.com/2018/08/23/cli-improved) - (2018) CLI: improved | presentation of several powerful CLI tools
 * [wwong99/useful_commands.md](https://github.com/wwong99/pentest-notes/blob/9a9d4117cebf06597c050904b387fd14ab59096f/os/useful_commands.md) - Useful commands By [@climagic](https://twitter.com/climagic)
+* [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - Use cheat.sh from VIM
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
