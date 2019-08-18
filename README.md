@@ -3382,6 +3382,7 @@ See also [Terraform](#terraform)
 * [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
 * [Atlassian Docs](https://confluence.atlassian.com/jirakb/enable-dark-feature-in-jira-959286331.html) - Enable Dark Feature in Jira
 * [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
+* [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira, more complete than jira-node-cli
 
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
