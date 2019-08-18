@@ -3176,6 +3176,7 @@ type `curl ident.me` to know your public ip
 * [TECHURLS](https://techurls.com/) - a technology news aggregator.
 * [SCIURLS](https://sciurls.com/) - a science news aggregator.
 * [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
+* [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 
 # Operations / IT OPS
 > News
