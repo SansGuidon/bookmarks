@@ -5262,6 +5262,7 @@ Raw
 * [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - Use cheat.sh from VIM
 * [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 * [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
+* :star: [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -5707,7 +5708,7 @@ Raw
 * [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps
 * [blue.penguin](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/) - (2016) Bash scripting tutorial: A coding style guideline
 * [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools
-* [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* :star: [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - list of Terminal frameworks, plugins & resources for CLI lovers
 * [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
 * [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go. **Bonus** : [website](https://neugram.io)
