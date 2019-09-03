@@ -3064,6 +3064,7 @@ rpm --rebuilddb
 * [Putlocker](https://www6.putlockertv.to/) - The easiest way to watch your favorite movies online!
 * [ImagoTV](https://imagotv.fr) - :fr: [FR] Netflix gratuit de la transition écologique !
 * [daltonmenezes/netflix-list-exporter](https://github.com/daltonmenezes/netflix-list-exporter) - 💫 An Extension to export your lists from Netflix to Clipboard area and share with your friends. | also useful if used to compare lists to know what to watch together
+* [DoesTheDogDie.com](https://www.doesthedogdie.com/) - Crowdsourced emotional spoilers for movies, tv, books and more.
 
 # Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
