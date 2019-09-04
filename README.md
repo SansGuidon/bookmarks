@@ -3006,6 +3006,7 @@ rpm --rebuilddb
 * [Homebrew Formulae](https://formulae.brew.sh/) - is an online package browser for Homebrew – the macOS package manager.
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
 * [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
+* [sghiassy/Disable Device Enrollment Notification on Mac.md](https://gist.github.com/sghiassy/a3927405cf4ffe81242f4ecb01c382ac) - How to disable Device Enrollment Notification on Mac / Comment se débarrasser de la notification pour "Inscription du Périphérique" sur Mac
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
