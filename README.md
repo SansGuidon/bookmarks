@@ -5449,6 +5449,7 @@ Raw
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 * [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+* [nushell/nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
