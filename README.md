@@ -816,6 +816,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Bryan Cantrill](http://dtrace.org/blogs/bmc/2018/10/05/assessing-software-engineering-candidates/) - (2018) Assessing software engineering candidates
 * [Raph Lee](https://lob.com/blog/understand-design-build-a-framework-for-problem-solving) - (2019) Understand, Design, Build: A Framework for Problem-Solving
 * [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
+* [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -2631,6 +2632,7 @@ See also [Infrastructure](#infrastructure)
 > * Find a Hobby.
 > * Spend time with people you love.
 * [Alan Franzoni](https://www.franzoni.eu/productivity-the-office-and-an-open-floor-plan/) - (2018) Productivity, the office, and the open floor plan
+* [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
@@ -2646,6 +2648,7 @@ See also [Infrastructure](#infrastructure)
 * [Nathalie Marquez Courtney](https://increment.com/development/home-is-where-the-work-is/) - (2017) Home is where the work is | Flexible. Freeing. Lonely. Three remote engineers share what it’s really like to work from afar.
 * [Julia Evans](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/) - (2018) Working remotely, 4 years in
 * [Northern Ireland Business](https://www.nibusinessinfo.co.uk/content/common-causes-stress-work) - How to deal with stress : Common causes of stress at work
+* [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 
 # Hobbies
 > Beers :beers:
@@ -3754,6 +3757,7 @@ See also [Terraform](#terraform)
 * [Gmail Help](https://support.google.com/mail/answer/7190?hl=en) - (2013) Search operators you can use with Gmail | You can use words or symbols called search operators to filter your Gmail search results. You can also combine operators to filter your results even more.
 * [Gmail Help](https://support.google.com/mail/answer/6594?hl=en) - (2013) Keyboard shortcuts for Gmail | save yourself hours/days every year
 * [Scott Tousley](https://blog.hubspot.com/sales/gmail-keyboard-shortcuts) - (2019) The 33 Gmail Keyboard Shortcuts That Save Me 60 Hours Per Year
+* [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
