@@ -1020,6 +1020,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [ImagoTV](https://imagotv.fr) - :fr: [FR] Netflix gratuit de la transition écologique !
 * [daltonmenezes/netflix-list-exporter](https://github.com/daltonmenezes/netflix-list-exporter) - 💫 An Extension to export your lists from Netflix to Clipboard area and share with your friends. | also useful if used to compare lists to know what to watch together
 * [The Atlantic](https://www.theatlantic.com/timeline/) - Life Timeline : Explore your life in history. | Tell us your birthday, and we’ll show you how the world has changed during your lifetime.
+* [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
