@@ -311,6 +311,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Anne Quito](https://qz.com/quartzy/1381916/drawing-is-the-best-way-to-learn-even-if-youre-no-leonardo-da-vinci/) - (2018) Drawing is the best way to learn, even if you’re no Leonardo da Vinci
 * [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
 * [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
+* [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
