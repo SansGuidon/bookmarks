@@ -2255,7 +2255,7 @@ See also [Infrastructure](#infrastructure)
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
 * :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
-* [AlternativeTo](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
+* :star: [**AlternativeTo**](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
 * [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
 * [Product Hunt](http://500makers.com/) - a list of top 500 makers on [Product Hunt](https://www.producthunt.com/)
