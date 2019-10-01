@@ -5500,6 +5500,7 @@ Raw
 * [The Life Coach School](https://thelifecoachschool.com/212/) - [Podcast] Ep #212: Simple Solutions | About the importance of defining the problem and finding its root cause, + other tips
 * [Coding Blocks](https://www.codingblocks.net/podcast/78-deliberate-practice-for-programmers/) - (2018) [Podcast] Deliberate Practice for Programmers
 * [Le Comptoir Sécu](https://www.comptoirsecu.fr/categories/emission/) - :fr: [FR] Parlons cybersécurité...autour d'un verre!
+* [Podflix](https://podflix.app/) - It's Kinda Like Netflix for Podcasts!
 
 # Psychology :thought_balloon:
 > News
