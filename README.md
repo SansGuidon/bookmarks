@@ -994,7 +994,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 * [Cinesift](https://www.cinesift.com/) - 'Cinesift' Sorts Ratings and Streaming Services to Help Users Pick Films. **Bonus** : [Presentation of Cinesift by Trend Hunter](https://www.trendhunter.com/trends/film-database)
-* [Graph TV](http://graphtv.kevinformatics.com/) - Graph Ratings of Your Favorite TV Shows / Visualize IMDb ratings and trends of TV shows by episode.
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
 * [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
 * :star: [**UnplugTheTV**](http://unplugthetv.com/) - [Videos] Unplug the tv : What should you watch if not the television ?
@@ -1033,7 +1032,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [AcquiredBy](https://acquiredby.co/) - Definitive list of tech acquisitions
 * [Jeroen Janssens](http://datascienceatthecommandline.com/) - Data Science at the Command Line
 * [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/lastfm) - The Last.fm Dataset
-* [Graph TV](http://graphtv.kevinformatics.com/) - Graph Ratings of Your Favorite TV Shows / Visualize IMDb ratings and trends of TV shows by episode.
 * [Information is Beautiful](http://www.informationisbeautiful.net/) - the world’s data, information and knowledge distilled into beautiful and useful graphs & diagrams.
 * [visual complexity](http://www.visualcomplexity.com/vc/) - A visual exploration on mapping complex networks | beautiful graphs in various topics
 * [Worldometers](http://www.worldometers.info/) - shows estimated current numbers based on statistics and projections from the most reputable official organizations, for economics, media, world population, etc.
