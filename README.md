@@ -2439,6 +2439,8 @@ See also [Infrastructure](#infrastructure)
 * [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox 
 * :star: [**DistroTest**](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
 * [transfer.sh](https://transfer.sh) - Easy file sharing from the command line
+* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable maps
+* [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
 
 # Gaming :video_game:
 > News
@@ -2497,6 +2499,7 @@ See also [Infrastructure](#infrastructure)
 * [Dungeons & Dragons Dice Roller](https://www.wizards.com/dnd/dice/dice.htm) - Online dice roller for D&D
 * [Dungeons & Dragons](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf) - [PDF] (2018) D&D Basic Rules, Version 1.0
 * [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
+* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable maps
 
 # Health and Work-Life Balance
 > News
@@ -6232,6 +6235,7 @@ type `curl ident.me` to know your public ip
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
 * [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - allows you to compare your home country with different countries around the world.
 * [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
+* [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
