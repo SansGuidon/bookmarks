@@ -325,6 +325,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Blake Reynolds](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/) - (2015) A Pixel Artist Renounces Pixel Art
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable maps
 * [Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/) - Create a character sprite sheet for your game using 100% open art.
+* [Turtletoy](https://turtletoy.net/) - Create your generative art online using a minimalistic Turtle graphics API.
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -2445,6 +2446,7 @@ See also [Infrastructure](#infrastructure)
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable maps
 * [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
 * [Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/) - Create a character sprite sheet for your game using 100% open art.
+* [Turtletoy](https://turtletoy.net/) - Create your generative art online using a minimalistic Turtle graphics API.
 
 # Gaming :video_game:
 > News
