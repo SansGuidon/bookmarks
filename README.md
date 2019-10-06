@@ -6214,6 +6214,7 @@ type `curl ident.me` to know your public ip
 > Tools
 * [Train Map](https://trainmap.belgiantrain.be) - [BE] Show belgian train positions in realtime. Train positions are calculated based on timetables, real time info and prognoses.
 * [Seety Map](https://map.seety.co/?lang=en) - [BE] Map of free parking zones | For now mainly for Belgium, soon for Europe
+* [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
