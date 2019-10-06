@@ -1970,6 +1970,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Anita Buehrle](https://www.weave.works/blog/delivering-quality-at-speed-with-gitops) - (2019) Delivering Quality at Speed With GitOps
 * [Andreas Grabner](https://www.dynatrace.com/news/blog/optimizing-jenkins-to-ensure-fast-build-times-with-dynatrace/) - (2018) Optimizing Jenkins to ensure fast build times with Dynatrace | Tips for using Jenkins on Kubernetes
 * [Bartłomiej Antoniak](https://medium.com/virtuslab/think-twice-before-using-helm-25fbb18bc822) - (2018) Think twice before using Helm | Beyond hype — a critical look at Helm
+* [Kubernetes Failure Stories](https://k8s.af/) - A compiled list of links to public failure stories related to Kubernetes | Most recent publications on top
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
