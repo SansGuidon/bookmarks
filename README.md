@@ -3852,7 +3852,7 @@ See also [Terraform](#terraform)
 * [CommonMark](http://commonmark.org/help/) - syntax reference for CommonMark, a rationalized version of Markdown syntax
 * [CommonMark](http://spec.commonmark.org/dingus/) - Try CommonMark / CommonMark Demo
 * [/r/dailyscripts](https://www.reddit.com/r/dailyscripts/) - late-night hacks lazy people made when too annoyed by a task's length or difficulty
-* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
+* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - Keep track of new cool github projects
 * [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move
 * [Fost Plus](https://www.fostplus.be/en/all-about-sorting/sort-your-packaging) - Together good sorting, better recycling : Enter your packaging below and find out whether it belongs to. [French version](https://www.fostplus.be/fr/trier-recycler/tout-sur-le-tri/triez-votre-emballage)
 * [PortForward](http://screenshots.portforward.com/) - Router Screenshots Listed by Manufacturer
@@ -3945,6 +3945,7 @@ See also [Terraform](#terraform)
 * [Industrial Logic Blog](https://www.industriallogic.com/blog/) - leveraging safety wisdom in workspace from manufacturing, psychology, culture change and Agile and Lean developmen
 * [GOTO Blog](https://blog.gotocon.com/blog/) - Created for developers, by developers, GOTO is focused on bringing together the best minds in the software community and the most interesting topics to light.
 * [DEVURLS](https://devurls.com/) - a developer news aggregator.
+* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - Keep track of new cool github projects
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange
@@ -3992,7 +3993,6 @@ See also [Terraform](#terraform)
 * [Stack Overflow](http://chat.stackoverflow.com/) - chat rooms on stack overflow
 * :star: [**RankRed**](http://www.rankred.com/nasa-coding-rules/) - NASA’s 10 Coding Rules for Writing Safety Critical Program
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
-* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - cool github projects
 * [Ben Hilburn](https://bhilburn.org/a-keystone-of-success/) - What mature engineers do and don't do / what it means to be a mature engineer.
 * [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
 * [Zazzle](https://www.zazzle.com/software+developer+stickers) - Software Developer Stickers
