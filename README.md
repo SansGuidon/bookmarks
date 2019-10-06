@@ -322,6 +322,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [La boite verte](https://www.laboiteverte.fr/les-illustrations-en-pixel-art-octavi-navarro/) - :fr: [FR] Les illustrations en pixel art de Octavi Navarro
 * [Pixels Huh](https://pixelshuh.tumblr.com/) - Pixel Art paintings by Octavi Navarro
 * [Matej ‘Retro’ Jan](https://medium.com/retronator-magazine/artistsontwitter-ad68bce76e24) - (2017) #artistsontwitter by Retronator
+* [Blake Reynolds](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/) - (2015) A Pixel Artist Renounces Pixel Art
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -980,6 +981,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
 * [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 * [Mark Kingwell](https://thewalrus.ca/why-being-bored-is-good/) - (2019) Why Being Bored Is Good
+* [Blake Reynolds](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/) - (2015) A Pixel Artist Renounces Pixel Art
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -4722,6 +4724,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [JR Heard](http://blog.jrheard.com/procedural-dungeon-generation-drunkards-walk-in-clojurescript) - (2016) Procedural Dungeon Generation: A Drunkard's Walk in ClojureScript
 * [JR Heard](http://blog.jrheard.com/procedural-dungeon-generation-cellular-automata) - (2016) Procedural Dungeon Generation: Cellular Automata
 * [La boite verte](https://www.laboiteverte.fr/les-illustrations-en-pixel-art-octavi-navarro/) - :fr: [FR] Les illustrations en pixel art de Octavi Navarro
+* [Blake Reynolds](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/) - (2015) A Pixel Artist Renounces Pixel Art
 
 ## Git :octocat:
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
