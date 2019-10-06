@@ -321,6 +321,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004 
 * [La boite verte](https://www.laboiteverte.fr/les-illustrations-en-pixel-art-octavi-navarro/) - :fr: [FR] Les illustrations en pixel art de Octavi Navarro
 * [Pixels Huh](https://pixelshuh.tumblr.com/) - Pixel Art paintings by Octavi Navarro
+* [Matej ‘Retro’ Jan](https://medium.com/retronator-magazine/artistsontwitter-ad68bce76e24) - (2017) #artistsontwitter by Retronator
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
