@@ -2430,6 +2430,10 @@ See also [Infrastructure](#infrastructure)
 * [transfer.sh](https://transfer.sh) - Easy file sharing from the command line
 
 # Gaming :video_game:
+> News
+* [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
+
+> Misc
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
 * [leereilly/games](https://github.com/leereilly/games) - Games on GitHub - A list of open source games & add-ons, maps, etc.
@@ -2460,6 +2464,7 @@ See also [Infrastructure](#infrastructure)
 * [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
 * [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity
 * [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
+* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2478,6 +2483,7 @@ See also [Infrastructure](#infrastructure)
 * [D&D Beyond](https://www.dndbeyond.com/characters/builder#/) - Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e)
 * [Dungeons & Dragons Dice Roller](https://www.wizards.com/dnd/dice/dice.htm) - Online dice roller for D&D
 * [Dungeons & Dragons](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf) - [PDF] (2018) D&D Basic Rules, Version 1.0
+* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
 
 # Health and Work-Life Balance
 > News
