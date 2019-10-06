@@ -4684,6 +4684,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Gergo Vas](https://kotaku.com/5991061/the-best-looking-isometric-games) - The Best-Looking Isometric Games
 * [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004 
 * [Pixelation](https://pixelation.org) - A standalone forum dedicated which hosts lots of studies and deeper discussions of pixel art.
+* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
 
 > Tools
 * [libGDX](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
