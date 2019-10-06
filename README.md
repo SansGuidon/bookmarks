@@ -314,6 +314,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics
 * [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004 
 * [Pixelation](https://pixelation.org) - A standalone forum dedicated which hosts lots of studies and deeper discussions of pixel art.
+* [La boite verte](https://www.laboiteverte.fr/) - :fr: [FR] Site de découverte sur la photographie, la science, les arts et tout ce qui est insolite.
 * [La boite verte](https://www.laboiteverte.fr/les-illustrations-en-pixel-art-octavi-navarro/) - :fr: [FR] Les illustrations en pixel art de Octavi Navarro
 
 # Books :books:
@@ -3501,6 +3502,7 @@ See also [Terraform](#terraform)
 * [Joe L. Wroten](https://medium.com/@SharpShark28/whats-in-a-photo-e00637e9fc99) - What’s In A Photo?
 * [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
 * [The Golden Hour Calculator](http://www.golden-hour.com/) - Sunrise and Sunset information for photographers | a.k.a. what's the best time to take a good picture depending on your location. That's a tip I've learned while preparing my visit to the Neon Museum in Las Vegas
+* [La boite verte](https://www.laboiteverte.fr/) - :fr: [FR] Site de découverte sur la photographie, la science, les arts et tout ce qui est insolite.
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
