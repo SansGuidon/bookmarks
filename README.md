@@ -290,6 +290,13 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.
 
 # Art :art:
+> News
+* [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics
+* [Pixelation](https://pixelation.org) - A standalone forum dedicated which hosts lots of studies and deeper discussions of pixel art.
+* [La boite verte](https://www.laboiteverte.fr/) - :fr: [FR] Site de découverte sur la photographie, la science, les arts et tout ce qui est insolite.
+* [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
+
+> Misc
 * [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
@@ -311,10 +318,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Anne Quito](https://qz.com/quartzy/1381916/drawing-is-the-best-way-to-learn-even-if-youre-no-leonardo-da-vinci/) - (2018) Drawing is the best way to learn, even if you’re no Leonardo da Vinci
 * [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
 * [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
-* [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics
 * [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004 
-* [Pixelation](https://pixelation.org) - A standalone forum dedicated which hosts lots of studies and deeper discussions of pixel art.
-* [La boite verte](https://www.laboiteverte.fr/) - :fr: [FR] Site de découverte sur la photographie, la science, les arts et tout ce qui est insolite.
 * [La boite verte](https://www.laboiteverte.fr/les-illustrations-en-pixel-art-octavi-navarro/) - :fr: [FR] Les illustrations en pixel art de Octavi Navarro
 * [Pixels Huh](https://pixelshuh.tumblr.com/) - Pixel Art paintings by Octavi Navarro
 
@@ -2436,6 +2440,7 @@ See also [Infrastructure](#infrastructure)
 # Gaming :video_game:
 > News
 * [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
+* [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
 
 > Misc
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -4690,6 +4695,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004 
 * [Pixelation](https://pixelation.org) - A standalone forum dedicated which hosts lots of studies and deeper discussions of pixel art.
 * [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
+* [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
 
 > Tools
 * [libGDX](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
