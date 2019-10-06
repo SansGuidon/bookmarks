@@ -314,6 +314,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics
 * [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004 
 * [Pixelation](https://pixelation.org) - A standalone forum dedicated which hosts lots of studies and deeper discussions of pixel art.
+* [La boite verte](https://www.laboiteverte.fr/les-illustrations-en-pixel-art-octavi-navarro/) - :fr: [FR] Les illustrations en pixel art de Octavi Navarro
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -4709,6 +4710,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Brandon Sheffield](https://www.gamasutra.com/view/news/310570/Developers_share_their_most_memorable_dirty_coding_tricks.php) - (2017) Developers share their most memorable dirty coding tricks
 * [JR Heard](http://blog.jrheard.com/procedural-dungeon-generation-drunkards-walk-in-clojurescript) - (2016) Procedural Dungeon Generation: A Drunkard's Walk in ClojureScript
 * [JR Heard](http://blog.jrheard.com/procedural-dungeon-generation-cellular-automata) - (2016) Procedural Dungeon Generation: Cellular Automata
+* [La boite verte](https://www.laboiteverte.fr/les-illustrations-en-pixel-art-octavi-navarro/) - :fr: [FR] Les illustrations en pixel art de Octavi Navarro
 
 ## Git :octocat:
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
