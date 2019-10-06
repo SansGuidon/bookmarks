@@ -1024,6 +1024,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [The Atlantic](https://www.theatlantic.com/timeline/) - Life Timeline : Explore your life in history. | Tell us your birthday, and we’ll show you how the world has changed during your lifetime.
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
 * [Rating Graph](https://www.ratingraph.com/) - is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies. 
+* [Blog Histoire](https://blog-histoire.fr/) - :fr: [FR] L'Histoire en podcast
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -5508,6 +5509,7 @@ Raw
 * [Coding Blocks](https://www.codingblocks.net/podcast/78-deliberate-practice-for-programmers/) - (2018) [Podcast] Deliberate Practice for Programmers
 * [Le Comptoir Sécu](https://www.comptoirsecu.fr/categories/emission/) - :fr: [FR] Parlons cybersécurité...autour d'un verre!
 * [Podflix](https://podflix.app/) - It's Kinda Like Netflix for Podcasts!
+* [Blog Histoire](https://blog-histoire.fr/) - :fr: [FR] L'Histoire en podcast
 
 # Psychology :thought_balloon:
 > News
