@@ -126,6 +126,7 @@ Be the first to support me : [![Say Thanks!][img-saythanks]][saythanks] [![Buy m
   * [Java](#java)
     * [Java EE](#java-ee)
   * [JavaScript](#javascript)
+  * [Kotlin](#kotlin)
   * [Lisp](#lisp)
   * [Machine learning](#machine-learning)
   * [Mobile development :iphone:](#mobile-development-iphone)
@@ -5041,6 +5042,7 @@ Raw
 * [Dustin Barnes](https://dev9.com/blog-posts/2014/9/java-release-process-with-continuous-delivery) - (2014) Java Release Process with Continuous Delivery | maven-release-plugin sucks
 * [Nicolai Parlog](https://slides.codefx.org/java-x/#/) - [Slides] (2019) Java 9 To 13
 * [dekorateio/dekorate](https://github.com/dekorateio/dekorate) - Java annotation processors for Kubernetes
+* [Kotlin Docs](https://kotlinlang.org/docs/reference/comparison-to-java.html) - Comparison to Java Programming Language
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - (2016) The state of portable authentication in Java EE, end 2016 update
@@ -5090,6 +5092,10 @@ Raw
 * [The State of JavaScript 2017](https://stateofjs.com/2017/introduction/) - (2017) Results of a survey to more than 28,000 developers all over the world about JavaScript ecosystem, covering numerous topics (testing, front-end, back-end, build tools, opinions, ...)
 * [Viral Shah](https://blog.usejournal.com/little-known-features-of-javascript-901665291387) - (2018) Little known features of JavaScript | Void operator, With statement, and other things.
 * [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
+
+## Kotlin
+* [Kotlin Docs](https://kotlinlang.org/docs/reference/comparison-to-java.html) - Comparison to Java Programming Language
+* [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
