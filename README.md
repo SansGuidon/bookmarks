@@ -2450,6 +2450,7 @@ See also [Infrastructure](#infrastructure)
 * [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
 * [Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/) - Create a character sprite sheet for your game using 100% open art.
 * [Turtletoy](https://turtletoy.net/) - Create your generative art online using a minimalistic Turtle graphics API.
+* [Distant Thunder](https://mynoise.net/NoiseMachines/thunderNoiseGenerator.php) - Custom-shaped Thunder and Rain Noise Generator | The Sound of Thunder, without the fear of strikes
 
 # Gaming :video_game:
 > News
@@ -3139,6 +3140,7 @@ rpm --rebuilddb
 * [PlaylistConverter](http://www.playlist-converter.net/) - Convert your Playlist from multiple Music Services and File Format. Works for Spotify too
 * [Map of Metal](https://mapofmetal.com/) - :metal: An interactive map of Metal history and the influential bands that helped shaped the genres we know today.
 * [midomi](https://www.midomi.com/) - Use your voice or your mic to identify music
+* [Distant Thunder](https://mynoise.net/NoiseMachines/thunderNoiseGenerator.php) - Custom-shaped Thunder and Rain Noise Generator | The Sound of Thunder, without the fear of strikes
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -3948,6 +3950,7 @@ See also [Terraform](#terraform)
 * [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
 * [Dan Pollock](https://someonewhocares.org/hosts/) - how to make the internet not suck (as much) | a hosts file to prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
 * [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox 
+* [Distant Thunder](https://mynoise.net/NoiseMachines/thunderNoiseGenerator.php) - Custom-shaped Thunder and Rain Noise Generator | The Sound of Thunder, without the fear of strikes
 
 # Programming
 > News
