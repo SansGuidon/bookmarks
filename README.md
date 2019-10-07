@@ -1535,6 +1535,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Amazon S3 Tools](https://s3tools.org/usage) - S3cmd usage (as shown if you type `s3cmd -h`). To access all the options and commands listed below, you'll need s3cmd version 2.0 or newer
 * [AWS Trusted Advisor](https://console.aws.amazon.com/trustedadvisor) - Think of Trusted Advisor as a tool to help you plan new infrastructure, optimize existing ones, or simply run scans to make sure your deployments meet the AWS security standards. Given how hard it is to do this on even a single server manually, Trusted Advisor is one of the hidden gems among lesser-known AWS offerings.
 * [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
+* [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
@@ -2073,6 +2074,7 @@ See also [Infrastructure](#infrastructure)
 * [Anton Babenko](https://fosdem.org/2019/schedule/event/terraform_best_practices/) - [Videos] (2019) Codifying infrastructure with Terraform for the future | be aware of principles related to management of Terraform resources, Terraform modules best-practices and some CI/CD principles applicable to infrastructure management and deployments.
 * [HashiCorp Learn](https://learn.hashicorp.com/terraform/?track=getting-started#getting-started) - Getting Started - AWS | In this introduction to Terraform, you will learn how to use Terraform to build infrastructure in AWS.
 * [Regis Wilson](https://medium.com/driven-by-code/the-terrors-and-joys-of-terraform-88bbd1aa4359) - (2019) The Terrors and Joys of Terraform
+* [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -3406,6 +3408,7 @@ See also [Terraform](#terraform)
 * [Michal Charemza](https://charemza.name/blog/posts/devops/aws/non-atomic-deployments/) - (2017) Non atomic deployments | Cron-free deferred delete of obsolete static resources | The best infrastructure is the one that doesn't exist
 * [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
 * [Wolfram Hempel](https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/) - (2018) An introduction to medieval cities and cloud security
+* [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
 
 ## Jira
 > News
@@ -6241,6 +6244,7 @@ type `curl ident.me` to know your public ip
 * [Daniel Lebrero](https://labs.ig.com/code-coverage-100-percent-tragedy) - (2016) The tragedy of 100% code coverage
 * [Daniel Lebrero](https://danlebrero.com/2019/02/18/other-reasons-for-test-driven-development-baby-steps-roi-evil-manager-watching-the-watchmen/#content) - (2019) Other reasons for TDD: Baby steps, ROI, Evil Manager Syndrome and Watching the watchmen | Describing some reasons to do Test Driven Development that are rarely mentioned
 * [Kent C. Dodds](https://kentcdodds.com/blog/write-tests) - (2017) Write tests. Not too many. Mostly integration.
+* [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
