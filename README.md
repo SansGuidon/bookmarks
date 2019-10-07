@@ -4738,6 +4738,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Tzvi Freeman](https://www.gamasutra.com/view/feature/3224/creating_a_great_design_document.php) - (1997) Creating A Great Design Document
 * [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :memo: A list of Game Development resources to make magic happen.
 * [Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/) - Create a character sprite sheet for your game using 100% open art.
+* [Godot Engine](https://godotengine.org) - Free and open source 2D and 3D game engine
 
 > Learn
 * [Gaylord](http://www.journaldugamer.com/2014/08/08/interview-out-there-ecrire-un-bon-jeu/) - (2014) [FR] :fr: [Interview] Un des créateurs d’Out There vous explique comment écrire un bon jeu
