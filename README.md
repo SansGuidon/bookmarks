@@ -832,6 +832,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Raph Lee](https://lob.com/blog/understand-design-build-a-framework-for-problem-solving) - (2019) Understand, Design, Build: A Framework for Problem-Solving
 * [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
 * [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
+* [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -858,6 +859,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge) - a cognitive bias that occurs when someone assumes that the others have the same background to understand.
 * [Yegor Bugayenko](https://www.yegor256.com/2018/12/25/speaker-cheat-sheet.html) - (2018) Speaker Cheat Sheet
 * [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
+* [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
 
 ## Documentation
 > Learn
@@ -885,6 +887,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
 * [Bazyli Brzóska](https://invent.life/blog/on-organizing-projects-and-files/) - (2013) On organizing projects and files | TLDR : we shoudl use tags and we need more tools supporting them
 * [Christopher Laine](https://medium.com/it-dead-inside/ubiquitous-language-in-your-software-domain-1ff6df49ac8c) - (2019) Ubiquitous Language in your software domain | Defining your software domain’s language makes everything easier
+* [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
 
 > Tools
 * [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
@@ -3792,6 +3795,7 @@ See also [Terraform](#terraform)
 * [Gmail Help](https://support.google.com/mail/answer/6594?hl=en) - (2013) Keyboard shortcuts for Gmail | save yourself hours/days every year
 * [Scott Tousley](https://blog.hubspot.com/sales/gmail-keyboard-shortcuts) - (2019) The 33 Gmail Keyboard Shortcuts That Save Me 60 Hours Per Year
 * [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
+* [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
