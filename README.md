@@ -6565,3 +6565,4 @@ rpm --rebuilddb
 * [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/) - (2018) Reading with a pencil | Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it.
 * [Ada Nduka Oyom](https://dev.to/kolokodess/on-becoming-a-technical-writer-318e) - (2018) On Becoming a Technical Writer
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
+* [Steph Smith](https://blog.stephsmith.io/learning-to-write-with-confidence/) - (2019) Writing is Thinking: Learning to Write with Confidence
