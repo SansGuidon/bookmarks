@@ -5361,6 +5361,7 @@ Raw
 * [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 * [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 * :star: [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
