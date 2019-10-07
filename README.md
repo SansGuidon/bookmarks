@@ -1813,12 +1813,14 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Théo Chamley](https://cloud.google.com/solutions/best-practices-for-operating-containers) - (2018) 7 best practices for operating containers
 * [Google Cloud](https://cloud.google.com/solutions/best-practices-for-building-containers) - (2018) Best Practices for Building Containers
 * [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
- 
+* [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
 * [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
 * [Jakub Skałecki](https://rock-it.pl/how-to-write-excellent-dockerfiles/) - (2017) How to write excellent Dockerfiles
+* [emerosa/versioning](https://github.com/nemerosa/versioning) - Gradle plug-in to generate version information from the SCM branch (Git or Svn)
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -1978,6 +1980,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Andreas Grabner](https://www.dynatrace.com/news/blog/optimizing-jenkins-to-ensure-fast-build-times-with-dynatrace/) - (2018) Optimizing Jenkins to ensure fast build times with Dynatrace | Tips for using Jenkins on Kubernetes
 * [Bartłomiej Antoniak](https://medium.com/virtuslab/think-twice-before-using-helm-25fbb18bc822) - (2018) Think twice before using Helm | Beyond hype — a critical look at Helm
 * [Kubernetes Failure Stories](https://k8s.af/) - A compiled list of links to public failure stories related to Kubernetes | Most recent publications on top
+* [dekorateio/dekorate](https://github.com/dekorateio/dekorate) - Java annotation processors for Kubernetes
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -5033,12 +5036,14 @@ Raw
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 * [Dustin Barnes](https://dev9.com/blog-posts/2014/9/java-release-process-with-continuous-delivery) - (2014) Java Release Process with Continuous Delivery | maven-release-plugin sucks
 * [Nicolai Parlog](https://slides.codefx.org/java-x/#/) - [Slides] (2019) Java 9 To 13
+* [dekorateio/dekorate](https://github.com/dekorateio/dekorate) - Java annotation processors for Kubernetes
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - (2016) The state of portable authentication in Java EE, end 2016 update
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2012/11/implementing-container-authentication.html) - (2012) Implementing container authentication in Java EE with JASPIC
 * [Tom Alcott](https://www.ibm.com/developerworks/library/mw-1606-alcott-bluemix-trs/index.html) - What's new in WebSphere Application Server V9?
 * [Tom Alcott](https://www.ibm.com/developerworks/websphere/techjournal/1506_webcon/1506_webcon-trs.html#sec4) - WebSphere Liberty core versus Liberty profile
+* [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 
 ## JavaScript
 > News
