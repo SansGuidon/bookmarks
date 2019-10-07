@@ -2513,6 +2513,7 @@ See also [Infrastructure](#infrastructure)
 * [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity
 * [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
 * [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
+* [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
