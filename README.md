@@ -2090,6 +2090,7 @@ See also [Infrastructure](#infrastructure)
 > - the lack of a way to configure your Terraform state as code.
 > - how to keep your Terraform code DRY and maintainable...
 * [dtan4/terraforming](https://github.com/dtan4/terraforming) - Terraforming allows to export existing AWS resources to Terraform style (tf, tfstate)
+* [Carlos Nunez](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code) - (2017) Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -3424,6 +3425,7 @@ See also [Terraform](#terraform)
 * [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
 * [Wolfram Hempel](https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/) - (2018) An introduction to medieval cities and cloud security
 * [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
+* [Carlos Nunez](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code) - (2017) Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code
 
 ## Jira
 > News
@@ -6274,6 +6276,7 @@ type `curl ident.me` to know your public ip
 * [Daniel Lebrero](https://danlebrero.com/2019/02/18/other-reasons-for-test-driven-development-baby-steps-roi-evil-manager-watching-the-watchmen/#content) - (2019) Other reasons for TDD: Baby steps, ROI, Evil Manager Syndrome and Watching the watchmen | Describing some reasons to do Test Driven Development that are rarely mentioned
 * [Kent C. Dodds](https://kentcdodds.com/blog/write-tests) - (2017) Write tests. Not too many. Mostly integration.
 * [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
+* [Carlos Nunez](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code) - (2017) Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
