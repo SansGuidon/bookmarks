@@ -4779,6 +4779,9 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [La boite verte](https://www.laboiteverte.fr/les-illustrations-en-pixel-art-octavi-navarro/) - :fr: [FR] Les illustrations en pixel art de Octavi Navarro
 * [Blake Reynolds](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/) - (2015) A Pixel Artist Renounces Pixel Art
 
+> Games
+[CARRION](https://store.steampowered.com/app/953490/CARRION/) - is a reverse horror game in which you assume the role of an amorphous creature of unknown origins, stalking and consuming those that imprisoned you.
+
 ## Git :octocat:
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
 * [Think Like (a) Git](http://think-like-a-git.net/) - Git shouldn't be so hard to learn : a guide for the perplexed
