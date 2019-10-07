@@ -2076,6 +2076,10 @@ See also [Infrastructure](#infrastructure)
 * [Regis Wilson](https://medium.com/driven-by-code/the-terrors-and-joys-of-terraform-88bbd1aa4359) - (2019) The Terrors and Joys of Terraform
 * [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
 * [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. **See also** : [https://www.gruntwork.io](Gruntwork website)
+* [Yevgeniy Brikman](https://blog.gruntwork.io/terragrunt-how-to-keep-your-terraform-code-dry-and-maintainable-f61ae06959d8) - (2019) Terragrunt: how to keep your Terraform code DRY and maintainable | Terragrunt is helpful at solving problems such as : 
+> - the lack of locking for Terraform state 
+> - the lack of a way to configure your Terraform state as code.
+> - how to keep your Terraform code DRY and maintainable...
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -4601,6 +4605,10 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [Literate programming](http://www.literateprogramming.com/) - is a programming paradigm introduced by Donald Knuth in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated.
 * [Literate programming links](http://www.literateprogramming.com/links.html) - articles about literate programming
 * [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
+* [Yevgeniy Brikman](https://blog.gruntwork.io/terragrunt-how-to-keep-your-terraform-code-dry-and-maintainable-f61ae06959d8) - (2019) Terragrunt: how to keep your Terraform code DRY and maintainable | Terragrunt is helpful at solving problems such as : 
+> - the lack of locking for Terraform state 
+> - the lack of a way to configure your Terraform state as code.
+> - how to keep your Terraform code DRY and maintainable...
 
 ## Conferences
 > In Belgium
