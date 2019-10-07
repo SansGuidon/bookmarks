@@ -3108,6 +3108,7 @@ rpm --rebuilddb
 * [daltonmenezes/netflix-list-exporter](https://github.com/daltonmenezes/netflix-list-exporter) - 💫 An Extension to export your lists from Netflix to Clipboard area and share with your friends. | also useful if used to compare lists to know what to watch together
 * [DoesTheDogDie.com](https://www.doesthedogdie.com/) - Crowdsourced emotional spoilers for movies, tv, books and more.
 * [Rating Graph](https://www.ratingraph.com/) - is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies. 
+* [Spoiler.io](http://spoiler.io/) - Random Movies and TV Shows Spoilers.
 
 # Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
