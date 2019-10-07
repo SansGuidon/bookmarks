@@ -1065,6 +1065,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Max Roser and Mohamed Nagdy](https://ourworldindata.org/optimism-pessimism) - (2018) Optimism & Pessimism | why people are optimistic or pessimistic about certain things and how this is influenced by human nature, the media, or social changes.
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search.
 * [The Atlantic](https://www.theatlantic.com/timeline/) - Life Timeline : Explore your life in history. | Tell us your birthday, and we’ll show you how the world has changed during your lifetime.
+* [Information is Beautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - World's Biggest Data Breaches & Hacks
 
 # DevOps / CICD
 > News
@@ -5865,6 +5866,7 @@ type `curl ident.me` to know your public ip
 * [CloudPassage Blog](https://blog.cloudpassage.com/) - insights for a unsecure world / news & tips on protecting critical assets
 * [Security Now!](https://www.grc.com/securitynow.htm) - weekly audio security column & podcast by Steve Gibson and Leo Laporte
 * [Le Comptoir Sécu](https://www.comptoirsecu.fr/categories/emission/) - :fr: [FR] Parlons cybersécurité...autour d'un verre!
+* [Information is Beautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - World's Biggest Data Breaches & Hacks
 
 > Learn
 * [highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - (2016) Penetration Testing Tools Cheat Sheet
