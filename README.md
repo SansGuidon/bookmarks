@@ -1043,6 +1043,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
 * [Rating Graph](https://www.ratingraph.com/) - is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies. 
 * [Blog Histoire](https://blog-histoire.fr/) - :fr: [FR] L'Histoire en podcast
+* [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1068,7 +1069,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search.
 * [The Atlantic](https://www.theatlantic.com/timeline/) - Life Timeline : Explore your life in history. | Tell us your birthday, and we’ll show you how the world has changed during your lifetime.
 * [Information is Beautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - World's Biggest Data Breaches & Hacks
-* [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
 
 # DevOps / CICD
 > News
