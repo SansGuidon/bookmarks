@@ -2075,6 +2075,7 @@ See also [Infrastructure](#infrastructure)
 * [HashiCorp Learn](https://learn.hashicorp.com/terraform/?track=getting-started#getting-started) - Getting Started - AWS | In this introduction to Terraform, you will learn how to use Terraform to build infrastructure in AWS.
 * [Regis Wilson](https://medium.com/driven-by-code/the-terrors-and-joys-of-terraform-88bbd1aa4359) - (2019) The Terrors and Joys of Terraform
 * [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
+* [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. **See also** : [https://www.gruntwork.io](Gruntwork website)
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
