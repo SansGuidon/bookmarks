@@ -2481,6 +2481,7 @@ See also [Infrastructure](#infrastructure)
 * [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
 * [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
 * [Retro Gamer](https://www.retrogamer.net) - Magazine about Classic Video Game Info - Spectrum, Commodore, Atari, Amiga, Handhelds, Arcade Games
+* [Gaming Hell](http://gaminghell.co.uk/) - The old game site with guts! Where Zoanthropes Go to Die
 
 > Misc
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
