@@ -1981,6 +1981,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Bartłomiej Antoniak](https://medium.com/virtuslab/think-twice-before-using-helm-25fbb18bc822) - (2018) Think twice before using Helm | Beyond hype — a critical look at Helm
 * [Kubernetes Failure Stories](https://k8s.af/) - A compiled list of links to public failure stories related to Kubernetes | Most recent publications on top
 * [dekorateio/dekorate](https://github.com/dekorateio/dekorate) - Java annotation processors for Kubernetes
+* [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Switch faster between clusters and namespaces in kubectl
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -3972,6 +3973,7 @@ See also [Terraform](#terraform)
 * [myNoise](https://mynoise.net/noiseMachines.php) - Background Noises & Interactive Soundscapes
 * [A Soft Murmur](https://asoftmurmur.com/) - Ambient sounds to wash away distraction.
 * [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity | Mix different sounds and create your perfect environment.
+* [Skitch](https://evernote.com/products/skitch) - Skitch is a screen capture app including the ability to annotate a screenshot with arrows, text, shapes, and stamps. 
 
 # Programming
 > News
