@@ -1536,12 +1536,14 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [AWS Trusted Advisor](https://console.aws.amazon.com/trustedadvisor) - Think of Trusted Advisor as a tool to help you plan new infrastructure, optimize existing ones, or simply run scans to make sure your deployments meet the AWS security standards. Given how hard it is to do this on even a single server manually, Trusted Advisor is one of the hidden gems among lesser-known AWS offerings.
 * [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 * [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
+* [dtan4/terraforming](https://github.com/dtan4/terraforming) - Terraforming allows to export existing AWS resources to Terraform style (tf, tfstate)
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
   1. Connect to your instance.
   2. Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
   3. Use the following command to get its public IP address:  `curl http://169.254.169.254/latest/meta-data/public-ipv4`
+
 
 ## Bitbucket
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
@@ -2080,6 +2082,7 @@ See also [Infrastructure](#infrastructure)
 > - the lack of locking for Terraform state 
 > - the lack of a way to configure your Terraform state as code.
 > - how to keep your Terraform code DRY and maintainable...
+* [dtan4/terraforming](https://github.com/dtan4/terraforming) - Terraforming allows to export existing AWS resources to Terraform style (tf, tfstate)
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
