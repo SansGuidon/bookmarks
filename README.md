@@ -1068,6 +1068,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - Dataset Search enables users to find datasets stored across the Web through a simple keyword search.
 * [The Atlantic](https://www.theatlantic.com/timeline/) - Life Timeline : Explore your life in history. | Tell us your birthday, and we’ll show you how the world has changed during your lifetime.
 * [Information is Beautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - World's Biggest Data Breaches & Hacks
+* [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
 
 # DevOps / CICD
 > News
