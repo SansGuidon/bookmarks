@@ -2119,6 +2119,7 @@ See also [Infrastructure](#infrastructure)
 * [LeapBeyond/terraform-tutorials](https://github.com/LeapBeyond/terraform-tutorials/wiki) - terraform-tutorials wiki!
 * [Yevgeniy Brikman](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9) - (2016) Terraform tips & tricks: loops, if-statements, and gotchas
 * [terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
+* [Dave Kerr](https://dwmkerr.com/dynamic-and-configurable-availability-zones-in-terraform/) - (2019) Dynamic and Configurable Availability Zones in Terraform
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
