@@ -2113,6 +2113,7 @@ See also [Infrastructure](#infrastructure)
 * [Nic Jackson](https://www.hashicorp.com/blog/hashicorp-terraform-modules-as-building-blocks-for) - (2018) HashiCorp Terraform: Modules as Building Blocks for Infrastructure
 * [Chris Pisano](https://medium.com/capital-one-tech/deploying-multiple-environments-with-terraform-kubernetes-7b7f389e622) - (2018) Deploying Multiple Environments with Terraform
 * [LeapBeyond/terraform-tutorials](https://github.com/LeapBeyond/terraform-tutorials/wiki) - terraform-tutorials wiki!
+* [Yevgeniy Brikman](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9) - (2016) Terraform tips & tricks: loops, if-statements, and gotchas
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
