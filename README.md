@@ -1512,6 +1512,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Chris Short](https://opensource.com/article/16/12/devops-security-ansible-vault) - Improve your DevOps security game with Ansible Vault
 
 ## AWS
+See also [Infrastructure](#infrastructure)
+
 > News
 * [AWS News Blog](https://aws.amazon.com/fr/blogs/aws/)
 * [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels' (Amazon' CTO) weblog on building scalable and robust distributed systems.
@@ -1545,6 +1547,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 * [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
 * [dtan4/terraforming](https://github.com/dtan4/terraforming) - Terraforming allows to export existing AWS resources to Terraform style (tf, tfstate)
+* [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
@@ -3444,7 +3447,7 @@ type `curl ident.me` to know your public ip
 * [Karl Tate](https:/blog.clearvision-cm.com/blog/confluence-best-practice-10-quick-and-dirty-tips-for-maintaining-your-confluence-environment/) - (2018) Confluence Best Practice: 10 Quick Tips for Maintaining Your Confluence Environment
 
 ## Infrastructure
-See also [Terraform](#terraform)
+See also [AWS](#aws) and [Terraform](#terraform)
 * [Dan Tehranian](https://dantehranian.wordpress.com/2014/08/11/building-a-better-dashboard-for-virtual-infrastructure/) - (2014) Building a Better Dashboard for Virtual Infrastructure
 * [Marvin Pinto](https://disjoint.ca/writing/2015/11/26/a-framework-for-deployment-of-immutable-infrastructure/) - (2015) A Framework for Deployment of Immutable Infrastructure
 * [Pedro Artino](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/) - (2016) Test Driven Infrastructure with Goss
@@ -3459,6 +3462,7 @@ See also [Terraform](#terraform)
 * [Carlos Nunez](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code) - (2017) Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code
 * [Rosemary Wang](https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b) - (2019) Test-Driven Development for Infrastructure
 * [Nic Jackson](https://www.hashicorp.com/blog/hashicorp-terraform-modules-as-building-blocks-for) - (2018) HashiCorp Terraform: Modules as Building Blocks for Infrastructure
+* [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
 
 ## Jira
 > News
@@ -6333,6 +6337,7 @@ type `curl ident.me` to know your public ip
 * [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
 * [Carlos Nunez](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code) - (2017) Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code
 * [Rosemary Wang](https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b) - (2019) Test-Driven Development for Infrastructure
+* [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
