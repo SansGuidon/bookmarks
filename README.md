@@ -1996,6 +1996,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ross Kukulinski](https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/) - (2017) 10 Most Common Reasons Kubernetes Deployments Fail (Part 1) - [(Part 2)](https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-2/)
 * [Peter Benjamin](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209) - (2018) How do you keep up with Kubernetes?
 * [Tomasz Cholewa](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/) - (2019) 10 most important differences between OpenShift and Kubernetes
+* [Sasha Jeltuhin](https://thenewstack.io/the-challenges-of-monitoring-kubernetes-and-openshift/) - (2018) The Challenges of Monitoring Kubernetes and OpenShift
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -2080,6 +2081,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jorge Tudela Gonzales De Riancho](https://blog.openshift.com/oc-command-newbies/)# - (2018) The oc Command for Newbies
 * [OpenShift](https://www.openshift.com/devops-with-openshift/) - [Book] DevOps with OpenShift
 * [Tomasz Cholewa](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/) - (2019) 10 most important differences between OpenShift and Kubernetes
+* [Sasha Jeltuhin](https://thenewstack.io/the-challenges-of-monitoring-kubernetes-and-openshift/) - (2018) The Challenges of Monitoring Kubernetes and OpenShift
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -3521,6 +3523,7 @@ See also [Terraform](#terraform)
 * [Daniel Lebrero](https://danlebrero.com/2016/11/21/the-boy-who-cried-wolf-an-it-tale/) - (2016) The boy who cried wolf, an IT tale | on the importance of a correct log level
 > How does a project get to be one year late? … One day at a time.
 * [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
+* [Sasha Jeltuhin](https://thenewstack.io/the-challenges-of-monitoring-kubernetes-and-openshift/) - (2018) The Challenges of Monitoring Kubernetes and OpenShift
 
 ## Nginx
 * [Remy van Elst & Juerd](https://cipherli.st/) - Cipherli.st : Examples of strong Ciphers for Apache, nginx, Lighttpd and other tools
