@@ -328,6 +328,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/) - Create a character sprite sheet for your game using 100% open art.
 * [Turtletoy](https://turtletoy.net/) - Create your generative art online using a minimalistic Turtle graphics API.
 * [NeoGaf](https://www.neogaf.com/threads/how-where-when-metal-slug-sprites-made.1237986/) - (2016) How where when Metal slug sprites made? | Interesting thread on NeoGAF
+* [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) - An online comic to learn about Kubernetes and how you can use it for continuous integration and delivery.
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -1389,6 +1390,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Eero Laukkanena & Juha Itkonena & Casper Lassenius](https://www.sciencedirect.com/science/article/pii/S0950584916302324) - (2015) Problems, causes and solutions when adopting continuous delivery - A systematic literature review
 > When adopting continuous delivery, problems related to system design are common, critical and little studied. The found problems, causes and solutions can be used to solve problems when adopting continuous delivery in practice.
 * [Redbubble](https://www.redbubble.com/shop/devops+stickers) - DevOps stickers
+* [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) - An online comic to learn about Kubernetes and how you can use it for continuous integration and delivery.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -1989,6 +1991,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Switch faster between clusters and namespaces in kubectl
 * [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 * [Kubernetes Academy](https://kubernetes.academy/) - courses are composed of a series of bite-size video lessons developed by expert instructors. These courses will help you understand new Kubernetes concepts for free—no strings attached.
+* [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) - An online comic to learn about Kubernetes and how you can use it for continuous integration and delivery.
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
