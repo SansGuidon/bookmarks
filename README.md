@@ -1988,6 +1988,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [dekorateio/dekorate](https://github.com/dekorateio/dekorate) - Java annotation processors for Kubernetes
 * [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Switch faster between clusters and namespaces in kubectl
 * [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
+* [Kubernetes Academy](https://kubernetes.academy/) - courses are composed of a series of bite-size video lessons developed by expert instructors. These courses will help you understand new Kubernetes concepts for free—no strings attached.
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
