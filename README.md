@@ -2108,6 +2108,7 @@ See also [Infrastructure](#infrastructure)
 * [dtan4/terraforming](https://github.com/dtan4/terraforming) - Terraforming allows to export existing AWS resources to Terraform style (tf, tfstate)
 * [Carlos Nunez](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code) - (2017) Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code
 * [Rosemary Wang](https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b) - (2019) Test-Driven Development for Infrastructure
+* [mbrannigan/styleguide.md](https://gist.github.com/mbrannigan/941a8cfd469f8998f53c18db32811203) - (2016) Terraform Style Guide
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
