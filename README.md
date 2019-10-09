@@ -5000,6 +5000,7 @@ Raw
 * [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A Gopher's Reading List : a reading list of blog posts about Go.
 * [Alex Dzyoba](https://alex.dzyoba.com/blog/go-prometheus-service/) - (2018) Instrumenting a Go service for Prometheus
 * [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
+* [Loris Cro](https://kristoff.it/blog/why-go-and-not-rust/) - (2019) Why Go and not Rust? | What's the role of Go in a universe where Rust exists?
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -5558,6 +5559,7 @@ Raw
 * [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 * [nushell/nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
+* [Loris Cro](https://kristoff.it/blog/why-go-and-not-rust/) - (2019) Why Go and not Rust? | What's the role of Go in a universe where Rust exists?
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
