@@ -2111,6 +2111,8 @@ See also [Infrastructure](#infrastructure)
 * [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-bestpractices-september-2018) - [Slides] (2018) Terraform modules and best-practices
 * [Ryan Armstrong](http://cavaliercoder.com/blog/inline-vs-discrete-security-groups-in-terraform.html) - (2017) Inline vs. discrete rules for AWS Security Groups in Terraform
 * [Nic Jackson](https://www.hashicorp.com/blog/hashicorp-terraform-modules-as-building-blocks-for) - (2018) HashiCorp Terraform: Modules as Building Blocks for Infrastructure
+* [Chris Pisano](https://medium.com/capital-one-tech/deploying-multiple-environments-with-terraform-kubernetes-7b7f389e622) - (2018) Deploying Multiple Environments with Terraform
+* [LeapBeyond/terraform-tutorials](https://github.com/LeapBeyond/terraform-tutorials/wiki) - terraform-tutorials wiki!
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
