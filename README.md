@@ -1532,6 +1532,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [HashiCorp Learn](https://learn.hashicorp.com/terraform/?track=getting-started#getting-started) - Getting Started - AWS | In this introduction to Terraform, you will learn how to use Terraform to build infrastructure in AWS.
 * [AWS](https://aws.amazon.com/security/security-resources/) - Security Resources
 * [Rosemary Wang](https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b) - (2019) Test-Driven Development for Infrastructure
+* [Ryan Armstrong](http://cavaliercoder.com/blog/inline-vs-discrete-security-groups-in-terraform.html) - (2017) Inline vs. discrete rules for AWS Security Groups in Terraform
 
 > Tools
 * [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
@@ -1549,7 +1550,6 @@ A small group of programmers wants to change how we code—before catastrophe st
   1. Connect to your instance.
   2. Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
   3. Use the following command to get its public IP address:  `curl http://169.254.169.254/latest/meta-data/public-ipv4`
-
 
 ## Bitbucket
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
@@ -2109,6 +2109,7 @@ See also [Infrastructure](#infrastructure)
 * [Rosemary Wang](https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b) - (2019) Test-Driven Development for Infrastructure
 * [mbrannigan/styleguide.md](https://gist.github.com/mbrannigan/941a8cfd469f8998f53c18db32811203) - (2016) Terraform Style Guide
 * [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-bestpractices-september-2018) - [Slides] (2018) Terraform modules and best-practices
+* [Ryan Armstrong](http://cavaliercoder.com/blog/inline-vs-discrete-security-groups-in-terraform.html) - (2017) Inline vs. discrete rules for AWS Security Groups in Terraform
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
