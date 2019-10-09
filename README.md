@@ -1955,6 +1955,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [James Rawlings](https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870) - (2018) Serverless Jenkins with Jenkins X
 * [Ryan Smith](https://www.cloudbees.com/blog/enterprise-jvm-administration-and-jenkins-performance) - (2019) Enterprise JVM Administration and Jenkins Performance
 * [CloudBees Support](https://support.cloudbees.com/hc/en-us/articles/222446987-Prepare-Jenkins-for-Support) - (2016) Prepare Jenkins for Support | Magic Java Virtual Machine (JVM) Arguments for Jenkins | Java Parameters + Ulimit settings + Java Home Environment Variables + Log Startup Timing Info
+* [codecentric/helm-charts](https://github.com/codecentric/helm-charts/tree/master/charts/jenkins) - This chart install Jenkins on Kubernetes | It allows Jenkins to be completely configured as code that does not require any further manual configuration in the UI. While not required, it is meant to be used with the configuration-as-code plugin and/or Groovy init scripts.
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -1997,6 +1998,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Peter Benjamin](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209) - (2018) How do you keep up with Kubernetes?
 * [Tomasz Cholewa](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/) - (2019) 10 most important differences between OpenShift and Kubernetes
 * [Sasha Jeltuhin](https://thenewstack.io/the-challenges-of-monitoring-kubernetes-and-openshift/) - (2018) The Challenges of Monitoring Kubernetes and OpenShift
+* [codecentric/helm-charts](https://github.com/codecentric/helm-charts/tree/master/charts/jenkins) - This chart install Jenkins on Kubernetes | It allows Jenkins to be completely configured as code that does not require any further manual configuration in the UI. While not required, it is meant to be used with the configuration-as-code plugin and/or Groovy init scripts.
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
