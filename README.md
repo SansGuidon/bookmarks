@@ -8,20 +8,18 @@ Contributions are more than welcome. Read the [contribution guidelines](CONTRIBU
 
 by **[@MorganGeek](https://twitter.com/MorganGeek)**
 
-Be the first to support me : [![Say Thanks!][img-saythanks]][saythanks] [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] [![Share on Twitter][img-twitter]][twitter]
+Be the first to support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] [![Share on Twitter][img-twitter]][twitter]
 
 [![License: GPL v3][img-gpl3]][gpl3]
 
 <!-- Links -->
 [buymeacoffee]: https://www.buymeacoffee.com/morgangeek
 [twitter]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FMorganGeek%2Fbookmarks&via=morgangeek&text=awesome%20resources%20for%20geeks%20and%20software%20crafters
-[saythanks]: https://saythanks.io/to/MorganGeek
 [gpl3]: https://www.gnu.org/licenses/gpl-3.0
 
 <!-- Images -->
 [img-buymeacoffee]: https://img.shields.io/badge/buy-me%20a%20coffee-blue.svg?style=flat&colorA=555555&colorB=FF813F
 [img-twitter]: https://img.shields.io/badge/share-on%20twitter-blue.svg?style=flat&colorA=555555&colorB=1DA1F2
-[img-saythanks]: https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg
 [img-gpl3]: https://img.shields.io/badge/License-GPL%20v3-blue.svg
 
 ## Contents
