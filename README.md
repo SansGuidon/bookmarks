@@ -2303,6 +2303,7 @@ See also [Infrastructure](#infrastructure)
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts : The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
 * [TorrentSeeker](https://search.torrents.io) - is a powerful torrent search combining results from dozens of torrent sites
 * [Abbreviations.com](https://www.abbreviations.com/) - The Web's largest and most authoritative acronyms and abbreviations resource
+* [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2486,6 +2487,7 @@ See also [Infrastructure](#infrastructure)
 * [myNoise](https://mynoise.net/noiseMachines.php) - Background Noises & Interactive Soundscapes
 * [A Soft Murmur](https://asoftmurmur.com/) - Ambient sounds to wash away distraction.
 * [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity | Mix different sounds and create your perfect environment.
+* [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
 
 # Gaming :video_game:
 > News
@@ -4973,6 +4975,7 @@ Raw
 * [David Winterbottom](https://codeinthehole.com/tips/advanced-pull-request-crafting/) - (2018) Advanced pull-request crafting.
 * [Keavy McMinn](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/) - (2015) How to write the perfect pull request
 * [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
+* [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -6115,6 +6118,7 @@ type `curl ident.me` to know your public ip
 * [Wolfram Hempel](https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/) - (2018) An introduction to medieval cities and cloud security
 * [AWS](https://aws.amazon.com/security/security-resources/) - Security Resources
 * [SenseDeep](https://www.sensedeep.com/blog/posts/stories/web-developer-security-checklist.html) - (2019) Web Developer Security Checklist V2
+* [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
