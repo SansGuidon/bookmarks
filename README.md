@@ -1992,6 +1992,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 * [Kubernetes Academy](https://kubernetes.academy/) - courses are composed of a series of bite-size video lessons developed by expert instructors. These courses will help you understand new Kubernetes concepts for free—no strings attached.
 * [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) - An online comic to learn about Kubernetes and how you can use it for continuous integration and delivery.
+* [Kubernetes Docs](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - kubectl Cheat Sheet
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
