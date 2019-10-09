@@ -3910,6 +3910,8 @@ See also [Terraform](#terraform)
 * [James Somers](http://jsomers.net/blog/speed-matters) - (2015) Speed matters: Why working quickly is more important than it seems
 > * the only way to learn to do something fast is by doing it lots of times.
 > * because you blog slowly, you’re liable to continue blogging slowly—simply because the only way to learn to do something fast is by doing it lots of times.
+* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
+> You've surely read plenty about how simple is good, but what's wrong with easy?
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -4406,6 +4408,8 @@ Maturity Model
 * [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
 
 ## Calm programming / Slow programming
+See also [Clean code](#clean-code)
+
 I dedicate this section to the work I'm busy at, about how going faster in short term can cost you quality, money and confidence in long term. Studying relationships between quality, productivity, thinking fast & slow, slowing down, and the craft of programming.
 * [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
 * [Gregg Caines](http://caines.ca/blog/2009/12/13/code-slower/) - (2009) Code Slower
@@ -4432,8 +4436,12 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > * Find a Hobby.
 > * Spend time with people you love.
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
+* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
+> You've surely read plenty about how simple is good, but what's wrong with easy?
 
 ## Clean code
+See also [Calm programming / Slow programming](#calm-programming--slow-programming)
+
 > News
 * :star: [**Coding Blocks**](https://www.codingblocks.net/) - podcast and website for learning how to become a better software developer, covers a wide variety of programming best practices | the rhythm is sometimes slow
 * [The Holy Java](https://theholyjava.wordpress.com/) - Building the right thing, building it right, fast
@@ -4631,6 +4639,8 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > - the lack of locking for Terraform state 
 > - the lack of a way to configure your Terraform state as code.
 > - how to keep your Terraform code DRY and maintainable...
+* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
+> You've surely read plenty about how simple is good, but what's wrong with easy?
 
 ## Conferences
 > In Belgium
@@ -5378,6 +5388,8 @@ Raw
 * [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 * :star: [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
+* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
+> You've surely read plenty about how simple is good, but what's wrong with easy?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
