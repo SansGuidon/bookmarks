@@ -1533,6 +1533,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [AWS](https://aws.amazon.com/security/security-resources/) - Security Resources
 * [Rosemary Wang](https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b) - (2019) Test-Driven Development for Infrastructure
 * [Ryan Armstrong](http://cavaliercoder.com/blog/inline-vs-discrete-security-groups-in-terraform.html) - (2017) Inline vs. discrete rules for AWS Security Groups in Terraform
+* [terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 
 > Tools
 * [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
@@ -2114,6 +2115,7 @@ See also [Infrastructure](#infrastructure)
 * [Chris Pisano](https://medium.com/capital-one-tech/deploying-multiple-environments-with-terraform-kubernetes-7b7f389e622) - (2018) Deploying Multiple Environments with Terraform
 * [LeapBeyond/terraform-tutorials](https://github.com/LeapBeyond/terraform-tutorials/wiki) - terraform-tutorials wiki!
 * [Yevgeniy Brikman](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9) - (2016) Terraform tips & tricks: loops, if-statements, and gotchas
+* [terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
