@@ -5029,6 +5029,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 * [Vincent Tunru](https://agripongit.vincenttunru.com/) - (2016) A Grip On Git | A Simple, Visual Git Tutorial
 * [Alex Chan](https://alexwlchan.net/a-plumbers-guide-to-git/) - (2018) A Plumber’s Guide to Git
+* [Federico Kauffman](https://www.wyeworks.com/blog/2018/01/15/automatically-managing-personal-and-work-git-configurations/) - (2018) Automatically managing personal and work git configurations
 
 ### Dotfiles / Aliases
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
