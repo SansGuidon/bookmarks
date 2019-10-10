@@ -2551,6 +2551,7 @@ See also [Infrastructure](#infrastructure)
 * [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
 * [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Retro SNK NeoGeo games online in your browser | neogeofun is a website let you play your favorite snk neogeo games in your web browser.
 * [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser 
+* [Good Video Game Interface Screenshots](http://videogameinterfaces.com/) - The best collection of the most beautiful, exceptional and inspiring video game interfaces and screenshots.
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -6457,6 +6458,7 @@ rpm --rebuilddb
 * [Gordon Brander](http://gordonbrander.com/pattern/jack-principles/) - The Jack Principles of conversational UI.
 * [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
 * [Dark Patterns](https://www.darkpatterns.org/types-of-dark-pattern) - Types of Dark Patterns
+* [Good Video Game Interface Screenshots](http://videogameinterfaces.com/) - The best collection of the most beautiful, exceptional and inspiring video game interfaces and screenshots.
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
