@@ -531,6 +531,14 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [**Xerius**](https://brutonetto.xerius.be) - :fr: [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net
 * [r/personalfinance/tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Personal Finance Tools : Redditor-created Spreadsheets
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
+* [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed) - (2019) GitHub stars won’t pay your rent
+> Solve your own problem, everything else will follow
+> However, most developers make zero money off open source. Zero.
+> Show your solution to other people as soon as possible
+> Package it and distribute it as soon as possible (note to self)
+> Don’t be scared, ashamed, or discouraged to make it paid
+> Don’t let anyone tell you how much you should charge for your work
+> value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
 
 ## Cryptocurrency
 > News
@@ -994,6 +1002,14 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything
 * [Mark Kingwell](https://thewalrus.ca/why-being-bored-is-good/) - (2019) Why Being Bored Is Good
 * [Blake Reynolds](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/) - (2015) A Pixel Artist Renounces Pixel Art
+* [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed) - (2019) GitHub stars won’t pay your rent
+> Solve your own problem, everything else will follow
+> However, most developers make zero money off open source. Zero.
+> Show your solution to other people as soon as possible
+> Package it and distribute it as soon as possible (note to self)
+> Don’t be scared, ashamed, or discouraged to make it paid
+> Don’t let anyone tell you how much you should charge for your work
+> value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -4712,6 +4728,7 @@ Containers, Clouds and Lean Business
 * [Ansible](https://www.ansible.com/resources/videos/ansiblefest-london-2017) - [Videos] (2017) AnsibleFest London Videos
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg) - [Videos] Devoxx channel on youtube
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences) - [Videos] video interviews and presentations from GOTO Conferences and GOTO Nights.
+* [kitze/awesome-conference-practices](https://github.com/kitze/awesome-conference-practices) - Did you like anything in particular about a conference? Did you hate anything? Let's make organizing conferences an easier task 🎉
 
 ## Correctness
 * [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic) - is a formal system for reasoning about the correctness of computer programs
@@ -5006,6 +5023,14 @@ Raw
 * [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
 * [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
 * [Nikita Prokopov aka tonsky](https://tonsky.me/blog/reinventing-git-interface/) - (2014) Reinventing Git interface
+* [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed) - (2019) GitHub stars won’t pay your rent
+> Solve your own problem, everything else will follow
+> However, most developers make zero money off open source. Zero.
+> Show your solution to other people as soon as possible
+> Package it and distribute it as soon as possible (note to self)
+> Don’t be scared, ashamed, or discouraged to make it paid
+> Don’t let anyone tell you how much you should charge for your work
+> value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
