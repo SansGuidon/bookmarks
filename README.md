@@ -1411,6 +1411,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > When adopting continuous delivery, problems related to system design are common, critical and little studied. The found problems, causes and solutions can be used to solve problems when adopting continuous delivery in practice.
 * [Redbubble](https://www.redbubble.com/shop/devops+stickers) - DevOps stickers
 * [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) - An online comic to learn about Kubernetes and how you can use it for continuous integration and delivery.
+* [topics/awesome-ci](https://github.com/topics/awesome-ci) - GitHub repositories matching awesome-ci topic
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
