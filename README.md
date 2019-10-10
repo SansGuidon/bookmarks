@@ -5005,6 +5005,7 @@ Raw
 * [Keavy McMinn](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/) - (2015) How to write the perfect pull request
 * [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
 * [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
+* [Nikita Prokopov aka tonsky](https://tonsky.me/blog/reinventing-git-interface/) - (2014) Reinventing Git interface
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
