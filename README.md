@@ -118,7 +118,7 @@ Be the first to support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee
   * [Erlang](#erlang)
   * [Gamedev](#gamedev)
   * [Git :octocat:](#git-octocat)
-    * [Dotfiles / Aliases](#dotfiles-aliases)
+    * [Dotfiles / Aliases](#dotfiles--aliases)
   * [Golang / Go](#golang--go)
   * [Groovy](#groovy)
   * [Haskell](#haskell)
@@ -5234,7 +5234,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 
 ## Productivity :computer:
-See also [Dotfiles / Aliases](#dotfiles-aliases)
+See also [Dotfiles / Aliases](#dotfiles--aliases)
 
 > News
 * [Itamar Turner-Trauring](https://codewithoutrules.com/productivity/) - Become more productive ; articles about being more productive as programmer without necessarily working longer hours
