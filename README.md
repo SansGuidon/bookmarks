@@ -2338,6 +2338,7 @@ See also [Infrastructure](#infrastructure)
 * [TorrentSeeker](https://search.torrents.io) - is a powerful torrent search combining results from dozens of torrent sites
 * [Abbreviations.com](https://www.abbreviations.com/) - The Web's largest and most authoritative acronyms and abbreviations resource
 * [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
+* [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -4417,6 +4418,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Literate programming links](http://www.literateprogramming.com/links.html) - articles about literate programming
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 * [Redbubble](https://www.redbubble.com/shop/devops+stickers) - DevOps stickers
+* [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -5033,6 +5035,7 @@ Raw
 > Don’t be scared, ashamed, or discouraged to make it paid
 > Don’t let anyone tell you how much you should charge for your work
 > value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
+* [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
