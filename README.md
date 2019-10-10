@@ -118,6 +118,7 @@ Be the first to support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee
   * [Erlang](#erlang)
   * [Gamedev](#gamedev)
   * [Git :octocat:](#git-octocat)
+    * [Dotfiles / Aliases](#dotfiles-aliases)
   * [Golang / Go](#golang--go)
   * [Groovy](#groovy)
   * [Haskell](#haskell)
@@ -4863,7 +4864,12 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Mikołaj Stolarski](https://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/) - (2015) Principles Of HTML5 Game Design
 
 ## Git :octocat:
+> News
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
+* [GitNews](https://git.news/) - Trending repositories from GitHub, HackerNews & Reddit
+* [GitHub](https://github.com/topics) - Topics on GitHub
+
+> Learn
 * [Think Like (a) Git](http://think-like-a-git.net/) - Git shouldn't be so hard to learn : a guide for the perplexed
 * [Oh shit, git!](http://ohshitgit.com/) - git may be hard, screwing up is easy, here are some tips to fix your mistakes
 * [Emily Xie](https://www.youtube.com/watch?v=Y2Msq90ZknI) - [Video] Dissecting Git's Guts - Git Merge 2016 + [Cheat Sheet of git commands](https://github.com/emilyxxie/gits_guts_commands/blob/master/git_cheat_sheet.pdf)
@@ -4878,20 +4884,9 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - [FR] :fr: Ansible Vault : Automatiser le chiffrement avec Git
 * [Marvin Pinto](https://disjoint.ca/til/2016/04/25/using-git-diff-with-ansible-vault-encrypted-files/) - (2016) Using git diff with Ansible Vault encrypted files
 * [Marvin Pinto](https://disjoint.ca/til/2016/03/18/modifying-the-date-of-a-commit/) - (2016) Modifying the date of a commit
-* [Nicola Paolucci](https://www.atlassian.com/blog/git/advanced-git-aliases) - One weird trick for powerful Git aliases
-* [Nicola Paolucci](https://www.durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/) - (2012) Must Have Git Aliases: Advanced Examples + [list available on BitBucket](https://bitbucket.org/durdn/cfg/src/master/.gitconfig?at=master)
 * [Nicola Paolucci](https://www.durdn.com/blog/2012/12/05/git-12-curated-git-tips-and-workflows/) - (2012) Git: Twelve Curated Tips And Workflows From The Trenches
-* [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
-* [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
-* [Harry Roberts/dotfiles](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
-* [Ben Hilburn/dotfiles](https://github.com/bhilburn/dotfiles) - shared configs / dotfiles / rcfiles / etc.
-* [Amber Yust](https://codingkilledthecat-wordpress-com.cdn.ampproject.org/c/s/codingkilledthecat.wordpress.com/2012/08/08/git-dotfiles-and-hardlinks/amp/) - (2012) Concerns about Git, Dotfiles, and Hardlinks
-* [Michael White](https://gist.github.com/mwhite/6887990) - The Ultimate Git Alias Setup
-* [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Aliases) - Collection of git aliases
 * [Nicola Paolucci](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/) - (2015) The power of Git subtree
-* [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 * [Nicola Paolucci](https://www.durdn.com/blog/2009/08/16/i-love-staring-at-branches-and-shuffle-reorder-and-squash-commits/) - (2009) I love staring at branches and shuffle, reorder and squash commits
-* [Robby Russell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/456341fd69c3e514e401f1c3c1726b77d733c86b/plugins/git/git.plugin.zsh) - git aliases from oh-my-zsh
 * [Kernel Docs](https://www.kernel.org/pub/software/scm/git/docs/git-push.html) - git-push
 * [Git-SCM Docs](https://git-scm.com/docs/git-diff) - git-diff
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/git-submodules-workflows-tips#tip5) - Git submodules: core concept, workflows, and tips
@@ -4911,8 +4906,10 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Buddy Reno](https://medium.freecodecamp.com/git-please-a182f28efeb5) - Git Please: how to force push without being a jerk
 * [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-reset-commit-alchemy-ba3a83bdfddc) - Mastering Git Reset: Commit Alchemy
 * [Alex Blewitt](http://alblue.bandlem.com/2011/05/git-tip-of-week-reflogs.html) - (2011) Git Tip of the Week: Reflogs. The same blog contains a [lot of git tips](http://alblue.bandlem.com/Tag/git/)
-* [Markus Wein](http://nuclearsquid.com/writings/subtree-merging-and-you/) - Subtree merging and you
-* [Markus Wein](http://nuclearsquid.com/writings/git-new-workdir/) - git-new-workdir
+* [Markus Wein](http://nuclearsquid.com/writings/subtree-merging-and-you/) - (2011) Subtree merging and you
+> The subtree merge allows you to merge another repository (let’s call it “Project B”) into your own, but into its own subdirectory. It takes a bit of effort to set everything up the first time, but after that a pull from the other repository is all that is needed to update.
+* [Markus Wein](http://nuclearsquid.com/writings/git-new-workdir/) - (2015) git-new-workdir
+> The git-new-workdir script has been superseded by the git-worktree command added in Git 2.5. This article is there now for historical reference.
 * [Ryan Hodson](https://web.archive.org/web/20161121145327/http://rypress.com/tutorials/git/tips-and-tricks) - [Cached] Tips & Tricks (Ry’s Git Tutorial)
 * [Nicola Paolucci](https://www.atlassian.com/blog/software-teams/git-project-dependencies) - Git and project dependencies
 * [Nicola Paolucci](https://www.atlassian.com/blog/archives/how-to-fetch-pull-requests) - Pull request proficiency: Fetching abilities unlocked!
@@ -4946,14 +4943,12 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Nicola Paolucci](https://www.slideshare.net/GoAtlassian/becoming-a-git-master-nicola-paolucci) - Becoming a Git Master / some interesting tips provided in this presentation
 * [lorey/top-regional-repositories](https://github.com/lorey/top-regional-repositories) - The most-relevant GitHub repositories for all countries and many cities worldwide.
 * [Amit Agarwal](https://www.labnol.org/internet/github-gist-tutorial/28499/) - What You Can Do With Gists on Github?
-* [Oli Young](https://gist.github.com/oliyoung/91a829ea21550a7a7d9469220a7c2f73) - shared .gitconfig with some useful Git aliases
 * [agis/Git Style Guide](https://github.com/agis/git-style-guide) - inspired by [How to Get Your Change Into the Linux Kernel](https://kernel.org/doc/html/latest/process/submitting-patches.html), the [git man pages](http://git-scm.com/doc) and various practices popular among the community.
 * [Sönke Sothmann](https://blog.oio.de/2013/05/08/how-to-rollback-changes-with-git/) - (2013) How to rollback changes with Git
 * [Atlassian Docs](https://www.atlassian.com/git/tutorials/undoing-changes) - Tutorials : Undoing Changes with git checkout / revert / reset / clean
 * [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - (2015) JIRA ID in Git Commit Messages
 * [Delicious Insights](https://delicious-insights.com/fr/articles/git-subtrees/) - [FR] :fr: Comprendre et maîtriser les subtrees Git
 * [Joshua Wehner](https://github.com/blog/2019-how-to-undo-almost-anything-with-git) - How to undo (almost) anything with Git
-* [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
 * [Mark Waite](https://www.youtube.com/watch?v=n0mnVtbQA0I) - [Video] (2017) Git in the Large : Tips and Tricks. **Bonus** : [Slides](https://www.slideshare.net/markewaite/git-inthelarge)
 * [John Wiegley](http://jwiegley.github.io/git-from-the-bottom-up/) - Git from the Bottom Up
 * [Emma Jane Westby](https://24ways.org/2014/dealing-with-emergencies-in-git/) - (2014) Dealing with Emergencies in Git
@@ -4963,7 +4958,6 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of add-ons that extend/enhance the git CLI.
 * [Roger Dudler](https://rogerdudler.github.io/git-guide/) - git - the simple guide | just a simple guide for getting started with git. no deep shit ;)
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/31/getting-out-of-your-first-git-mess.html) - (2015)  Getting Out of Your First Git Mess
-* [GitHub](https://github.com/topics) - Topics on GitHub
 * [Jon Cairns](http://blog.joncairns.com/2015/09/use-git-to-comment-your-code/) - (2015) Use git to comment your code (and stop writing rubbish commit messages, please)
 * [Jason Chen](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 45 Github Issues Dos and Don’ts
 * [Fredrik V. Mørken](https://blogg.bekk.no/why-you-should-stop-using-git-rebase-5552bee4fed1) - (2017) Why you should stop using Git rebase
@@ -5001,8 +4995,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Avi Cavale](http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository) - (2016) Our journey to microservices: mono repo vs multiple repositories
 * [mozilla.dev.developer-tools](https://groups.google.com/forum/m/#!topic/mozilla.dev.developer-tools/W17drvVMFhY) - Discussion about Multiple repos vs Monolithic repo
 * [Gregory Szorc](https://gregoryszorc.com/blog/2014/09/09/on-monolithic-repositories/) - (2014) On Monolithic Repositories | in favor of monolithic repos
-* [Aaron Schlesinger](https://gist.github.com/arschles/5d7ba90495eb50fa04fc) - (2015) Why We Should Use Monolithic Repositories
-Raw
+* [Aaron Schlesinger](https://gist.github.com/arschles/5d7ba90495eb50fa04fc) - (2015) Why We Should Use Monolithic Repositories 
 * [Nathan Leiby](https://medium.com/always-a-student/mo-repos-mo-problems-how-we-make-changes-across-many-git-repositories-293ad7d418f0) - (2017) Mo Repos, Mo Problems? How We Make Changes Across Many Git Repositories
 * [ezekg/git-hound](https://github.com/ezekg/git-hound) -  Git plugin that prevents sensitive data from being committed.
 * [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
@@ -5017,14 +5010,12 @@ Raw
 * [Vadim Samokhin](https://hackernoon.com/gitflow-is-a-poor-branching-model-hack-d46567a156e7) - (2018) Gitflow is a Poor Branching Model Hack | gitflow sucks
 * [Paul Christie](https://blog.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/) - (2018) What to do when you commit to the wrong Git branch
 * [Mark Lodato](https://marklodato.github.io/visual-git-guide/) - A Visual Git Reference
-* [George Gritsouk](https://gggritso.com/human-git-aliases) - (2016) Human Git Aliases | Stubbornly Refusing to Speak The Computer's Language | **Bonus** : [author's dotfiles](https://github.com/gggritso/dotfiles/blob/master/gitconfig.symlink)
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
 * [List of All ASCII Emoticons](https://upli.st/l/list-of-all-ascii-emoticons) - A massive list of all the ASCII emoticons discovered on the interweb.
 * [dysfunc/ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential ASCII Emoji
 * [Matej Jellus](https://juffalow.com/other/write-good-git-commit-message) - (2018) Write good git commit message
 * [David Winterbottom](https://codeinthehole.com/tips/advanced-pull-request-crafting/) - (2018) Advanced pull-request crafting.
 * [Keavy McMinn](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/) - (2015) How to write the perfect pull request
-* [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
 * [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
 * [Nikita Prokopov aka tonsky](https://tonsky.me/blog/reinventing-git-interface/) - (2014) Reinventing Git interface
 * [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed) - (2019) GitHub stars won’t pay your rent
@@ -5036,8 +5027,26 @@ Raw
 > Don’t let anyone tell you how much you should charge for your work
 > value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
-* [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
 * [Vincent Tunru](https://agripongit.vincenttunru.com/) - (2016) A Grip On Git | A Simple, Visual Git Tutorial
+
+### Dotfiles / Aliases
+* [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
+* [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
+* [Harry Roberts/dotfiles](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
+* [Ben Hilburn/dotfiles](https://github.com/bhilburn/dotfiles) - shared configs / dotfiles / rcfiles / etc.
+* [Amber Yust](https://codingkilledthecat-wordpress-com.cdn.ampproject.org/c/s/codingkilledthecat.wordpress.com/2012/08/08/git-dotfiles-and-hardlinks/amp/) - (2012) Concerns about Git, Dotfiles, and Hardlinks
+* [Michael White](https://gist.github.com/mwhite/6887990) - The Ultimate Git Alias Setup
+* [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Aliases) - Collection of git aliases
+* [Nicola Paolucci](https://www.atlassian.com/blog/git/advanced-git-aliases) - One weird trick for powerful Git aliases
+* [Nicola Paolucci](https://www.durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/) - (2012) Must Have Git Aliases: Advanced Examples + [list available on BitBucket](https://bitbucket.org/durdn/cfg/src/master/.gitconfig?at=master)
+* [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
+* [Robby Russell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/456341fd69c3e514e401f1c3c1726b77d733c86b/plugins/git/git.plugin.zsh) - git aliases from oh-my-zsh
+* [Oli Young](https://gist.github.com/oliyoung/91a829ea21550a7a7d9469220a7c2f73) - shared .gitconfig with some useful Git aliases
+* [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
+* [George Gritsouk](https://gggritso.com/human-git-aliases) - (2016) Human Git Aliases | Stubbornly Refusing to Speak The Computer's Language | **Bonus** : [author's dotfiles](https://github.com/gggritso/dotfiles/blob/master/gitconfig.symlink)
+* [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
+* [raidzero/dotfiles](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
+* [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -5225,6 +5234,8 @@ Raw
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 
 ## Productivity :computer:
+See also [Dotfiles / Aliases](#dotfiles-aliases)
+
 > News
 * [Itamar Turner-Trauring](https://codewithoutrules.com/productivity/) - Become more productive ; articles about being more productive as programmer without necessarily working longer hours
 
@@ -5295,7 +5306,6 @@ Raw
 * [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/saneworkweek/) - (2017) The Programmer’s Guide to a Sane Workweek
 * [Recalll](https://recalll.co/) - search engine for programmers, to search programming queries from sites such as stackoverflow
-* [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
 * [Hemanth HM](https://functional.works-hub.com/blog/Functional-Programming-Jargon) - Functional Programming Jargon
 * [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands
 * [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
@@ -5443,7 +5453,6 @@ Raw
 > - Code quality
 > - ...
 * [Paul Graham](http://paulgraham.com/head.html) - (2007) Holding a Program in One's Head
-* [George Gritsouk](https://gggritso.com/human-git-aliases) - (2016) Human Git Aliases | Stubbornly Refusing to Speak The Computer's Language | **Bonus** : [author's dotfiles](https://github.com/gggritso/dotfiles/blob/master/gitconfig.symlink)
 * :star: [**regex101**](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
 * [Rextester](https://rextester.com/) - run code online
 * [Hacker Tools](https://hacker-tools.github.io/) - Learn to make the most of the tools used by hackers / programmers
