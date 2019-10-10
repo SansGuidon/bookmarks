@@ -5036,6 +5036,7 @@ Raw
 > Don’t let anyone tell you how much you should charge for your work
 > value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
+* [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -5293,7 +5294,7 @@ Raw
 * [Devhints](https://devhints.io) - collection of Rico's cheatsheets about programming, DevOps, etc.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/saneworkweek/) - (2017) The Programmer’s Guide to a Sane Workweek
 * [Recalll](https://recalll.co/) - search engine for programmers, to search programming queries from sites such as stackoverflow
-* [dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
+* [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
 * [Hemanth HM](https://functional.works-hub.com/blog/Functional-Programming-Jargon) - Functional Programming Jargon
 * [DEV](https://dev.to/djviolin/what-are-your-unix-pipeline-commands-that-saved-you-from-lot-of-codingtime-7ok) - collaborative list of time saving UNIX pipeline commands
 * [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
