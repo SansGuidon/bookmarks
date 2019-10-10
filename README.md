@@ -3971,6 +3971,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 > * because you blog slowly, you’re liable to continue blogging slowly—simply because the only way to learn to do something fast is by doing it lots of times.
 * [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
 > You've surely read plenty about how simple is good, but what's wrong with easy?
+* [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -4049,6 +4050,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [A Soft Murmur](https://asoftmurmur.com/) - Ambient sounds to wash away distraction.
 * [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity | Mix different sounds and create your perfect environment.
 * [Skitch](https://evernote.com/products/skitch) - Skitch is a screen capture app including the ability to annotate a screenshot with arrows, text, shapes, and stamps. 
+* [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 # Programming
 > News
