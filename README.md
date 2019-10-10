@@ -5486,6 +5486,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
 * [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
 > You've surely read plenty about how simple is good, but what's wrong with easy?
+* [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
