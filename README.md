@@ -5028,6 +5028,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 > value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 * [Vincent Tunru](https://agripongit.vincenttunru.com/) - (2016) A Grip On Git | A Simple, Visual Git Tutorial
+* [Alex Chan](https://alexwlchan.net/a-plumbers-guide-to-git/) - (2018) A Plumber’s Guide to Git
 
 ### Dotfiles / Aliases
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
