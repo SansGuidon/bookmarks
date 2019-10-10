@@ -4839,6 +4839,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [NeoGaf](https://www.neogaf.com/threads/how-where-when-metal-slug-sprites-made.1237986/) - (2016) How where when Metal slug sprites made? | Interesting thread on NeoGAF
 * [Bill Clark](https://technology.riotgames.com/news/taxonomy-tech-debt) - (2018) A Taxonomy of Tech Debt
 * [Frank Force](http://frankforce.com/?p=5826) - (2019) I’m only making business card sized games now
+* [Mikołaj Stolarski](https://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/) - (2015) Principles Of HTML5 Game Design
 
 ## Git :octocat:
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
@@ -6568,6 +6569,7 @@ rpm --rebuilddb
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for [JAMstack](https://jamstack.org/) Sites
 * [JAMstack](https://jamstack.org/) : noun `’jam-stak’` : Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. | The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
+* [Mikołaj Stolarski](https://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/) - (2015) Principles Of HTML5 Game Design
 
 > Tools
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
