@@ -5981,6 +5981,8 @@ type `curl ident.me` to know your public ip
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
 * [transfer.sh](https://transfer.sh) - Easy file sharing from the command line
 * [Vincent Danen](https://www.techrepublic.com/blog/linux-and-open-source/using-vi-key-bindings-in-bash-and-zsh/) - (2008) Using vi key bindings in bash and zsh
+* [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+* [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](#dotfiles--aliases)
