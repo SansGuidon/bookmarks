@@ -2544,6 +2544,8 @@ See also [Infrastructure](#infrastructure)
 * [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
 * [NeoGAF Forum](https://www.neogaf.com/forums/gaming-discussion.2/) - Gaming Discussion Forum
 * [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
+* [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Retro SNK NeoGeo games online in your browser | neogeofun is a website let you play your favorite snk neogeo games in your web browser.
+* [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser 
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -6462,6 +6464,7 @@ rpm --rebuilddb
  * `https://archive.org/wayback/available?timestamp=19010101010101&url=<URL>`
 * [internetarchive/wayback](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server) - Wayback CDX Server API - BETA | The wayback-cdx-server is a standalone HTTP servlet that serves the index that the wayback machine uses to lookup captures.
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
+* [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser 
 
 > Some old links from my first times on the web
 * [Donjon de Naheulbeuk](http://www.penofchaos.com/warham/donjon.htm) - [FR] :fr: Podcast / Les premiers MP3 d'aventure
