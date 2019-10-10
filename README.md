@@ -5636,6 +5636,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Raivat Shah](https://towardsdatascience.com/understanding-python-virtual-environments-7ccf690320d7) - (2019) Understanding Python Virtual Environments
 * [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
 * [Murtaza Gulamali](https://thoughtbot.com/blog/how-to-manage-your-python-projects-with-pipenv) - (2017) How to manage your Python projects with Pipenv
+* [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of | Pampy is pretty small (150 lines), reasonably fast, and often makes your code more readable and hence easier to reason about. There is also a JavaScript version, called Pampy.js.
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
