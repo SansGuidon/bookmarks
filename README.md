@@ -5030,6 +5030,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Vincent Tunru](https://agripongit.vincenttunru.com/) - (2016) A Grip On Git | A Simple, Visual Git Tutorial
 * [Alex Chan](https://alexwlchan.net/a-plumbers-guide-to-git/) - (2018) A Plumber’s Guide to Git
 * [Federico Kauffman](https://www.wyeworks.com/blog/2018/01/15/automatically-managing-personal-and-work-git-configurations/) - (2018) Automatically managing personal and work git configurations
+* [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure! 
 
 ### Dotfiles / Aliases
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
@@ -6465,6 +6466,7 @@ rpm --rebuilddb
   * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --match multiport --dports 443,636,389,8095,80 --syn -j LOG --log-prefix "HTTPS SYN: "`
   * Removing iptables rule : `sudo iptables -D INPUT -p <etc rest of your above rule>`
 * [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
+* [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure! 
 
 # UX / UI
 > News
