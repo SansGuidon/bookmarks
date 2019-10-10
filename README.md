@@ -4834,6 +4834,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Blake Reynolds](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/) - (2015) A Pixel Artist Renounces Pixel Art
 * [NeoGaf](https://www.neogaf.com/threads/how-where-when-metal-slug-sprites-made.1237986/) - (2016) How where when Metal slug sprites made? | Interesting thread on NeoGAF
 * [Bill Clark](https://technology.riotgames.com/news/taxonomy-tech-debt) - (2018) A Taxonomy of Tech Debt
+* [Frank Force](http://frankforce.com/?p=5826) - (2019) I’m only making business card sized games now
 
 ## Git :octocat:
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
@@ -5539,6 +5540,7 @@ Raw
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer. | Not really humour, but anyway it needs to be here.
 * [Lenny Zeltser](https://zeltser.com/suck-at-security-cheat-sheet/) - (2015) How to Suck at Information Security – A Cheat Sheet
 * [mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) - A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
+* [Frank Force](http://frankforce.com/?p=5826) - (2019) I’m only making business card sized games now
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
