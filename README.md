@@ -5034,6 +5034,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Seth Robertson](http://sethrobertson.github.io/GitBestPractices/) - (2013) Commit Often, Perfect Later, Publish Once: Git Best Practices
 
 ### Dotfiles / Aliases
+See also [Shell aliases](#shell-aliases)
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
 * [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
 * [Harry Roberts/dotfiles](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
@@ -5051,6 +5052,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
 * [raidzero/dotfiles](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
 * [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
+* [powerlevel9k/wiki/Show-Off-Your-Config](https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config) - If you have a special configuration show it here!
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -5238,7 +5240,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 
 ## Productivity :computer:
-See also [Dotfiles / Aliases](#dotfiles--aliases)
+See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-aliases)
 
 > News
 * [Itamar Turner-Trauring](https://codewithoutrules.com/productivity/) - Become more productive ; articles about being more productive as programmer without necessarily working longer hours
@@ -5268,7 +5270,6 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Automations Tools Bootcamp on Slack](https://automationtools-bootcamp-slack.herokuapp.com/) - Development tools that enable automation of software projects
 * [Code search for Developers](http://codegists.com/search/jenkinsfile-tutorial/) - search for code snippets
 * :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
-* [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
 * [URL Encoded Characters](http://www.degraeve.com/reference/urlencoding.php) - mapping table of encoded characters in URLS (%20, %22, %7D, ...)
 * [mehcode/Awesome Atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources
@@ -5872,7 +5873,6 @@ Raw
 * [Ray Smith](http://assets.en.oreilly.com/1/event/12/Shell%20Scripting%20Craftsmanship%20Presentation%201.pdf) - [PDF] Shell Scripting Craftsmanship
 * [Pádraig Brady](http://www.pixelbeat.org/programming/shell_script_mistakes.html) - (2008) Common shell script mistakes
 * [Mendel Cooper](http://www.tldp.org/LDP/abs/html/index.html) - (2014) Advanced Bash-Scripting Guide / An in-depth exploration of the art of shell scripting
-* [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * :star: [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
 * [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3015657/linux/changing-how-bash-behaves.html) - Changing how bash behaves
@@ -5983,12 +5983,15 @@ type `curl ident.me` to know your public ip
 * [Vincent Danen](https://www.techrepublic.com/blog/linux-and-open-source/using-vi-key-bindings-in-bash-and-zsh/) - (2008) Using vi key bindings in bash and zsh
 
 ## Shell Aliases
+See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
 * [Vivek Gite](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) - 30 Handy Bash Shell Aliases For Linux / Unix / Mac OS X
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3121790/linux/making-troubleshooting-with-lsof-easier.html) - Unix tips: Making troubleshooting with lsof easier. See also [Unix commands: Troubleshooting with lsof](http://www.computerworld.com/article/3119775/linux/troubleshooting-with-lsof.html)
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3085495/linux/unix-aliases-for-good-and-evil.html) - Unix aliases for good and evil
 * [tcnksm/docker-alias](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases for zsh
 * [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - (2014) Useful Docker Bash Functions And Aliases
+* [powerlevel9k/wiki/Show-Off-Your-Config](https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config) - If you have a special configuration show it here!
+* [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 
 # Security / Infosec
 > News
