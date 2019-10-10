@@ -528,6 +528,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Freelance.tv](http://freelance.tv) - Videos about freelancing
 * :star: [**Xerius**](https://brutonetto.xerius.be) - :fr: [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net
 * [r/personalfinance/tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Personal Finance Tools : Redditor-created Spreadsheets
+* [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 
 ## Cryptocurrency
 > News
@@ -835,6 +836,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
 * [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 * [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
+* [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -4471,6 +4473,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 * [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
 > You've surely read plenty about how simple is good, but what's wrong with easy?
+* [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 
 ## Clean code
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
@@ -5753,6 +5756,7 @@ Raw
 * [Get Mental Notes](http://www.getmentalnotes.com/cards) - 52 Principles x Your Imagination.
 * [Allan Richarz](https://www.citylab.com/transportation/2018/05/the-amazing-psychology-of-japanese-train-stations/560822/) - (2018) The Amazing Psychology of Japanese Train Stations
 * [Theory Maps](https://www.theorymaps.org/) - Theory mapping is a technique for visually outlining scientific theory. It allows researchers to concretely display interrelations between concepts, which provides for rapid communication and easy evaluation of ideas. Theory mapping was developed to emphasize that good science requires both reliable methods and rigorous theory. The technique is described in the following forthcoming article at Perspectives on Psychological Science.
+* [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 
 # Robots
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
