@@ -3887,6 +3887,8 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Scott Tousley](https://blog.hubspot.com/sales/gmail-keyboard-shortcuts) - (2019) The 33 Gmail Keyboard Shortcuts That Save Me 60 Hours Per Year
 * [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 * [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
+* [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/youre-either-a-zero-or-a-one-601e01128a3) - (2018) You’re either a Zero or a One
+> 99% of the time, we get attached to the decimals and we get lost.
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
