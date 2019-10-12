@@ -3112,6 +3112,7 @@ rpm --rebuilddb
 * [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - Solarized Colorscheme for Vim
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/vim.md) - My cheatsheet for Vim
 * [Samuel Walladge](https://www.swalladge.net/archives/2018/06/11/why-vim-2018/) - (2018) Why vim is a solid code editor for 2018
+* [Lucas Fernandes da Costa](http://lucasfcosta.com/2017/01/23/Quick-vIM-Tips-That-Will-Save-Your-Life.html) - (2017) Quick vIM Tips That Will Save Your Life
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
