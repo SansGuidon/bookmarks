@@ -4869,6 +4869,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Bill Clark](https://technology.riotgames.com/news/taxonomy-tech-debt) - (2018) A Taxonomy of Tech Debt
 * [Frank Force](http://frankforce.com/?p=5826) - (2019) I’m only making business card sized games now
 * [Mikołaj Stolarski](https://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/) - (2015) Principles Of HTML5 Game Design
+* [Josh Ge aka Kyzrati](https://www.gridsagegames.com/blog/2019/02/level-design-shaping-cogmind-experience/) - (2019) Level Design and Shaping a Cogmind Experience | A complete rundown of the entire process behind designing and building a new map for the world of Cogmind, and explaining how it integrates with gameplay.
 
 ## Git :octocat:
 > News
@@ -5469,7 +5470,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Paul Graham](http://paulgraham.com/head.html) - (2007) Holding a Program in One's Head
 * :star: [**regex101**](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
 * [Rextester](https://rextester.com/) - run code online
-* [Hacker Tools](https://hacker-tools.github.io/) - Learn to make the most of the tools used by hackers / programmers
+* [**Hacker Tools**](https://hacker-tools.github.io/) - Learn to make the most of the tools used by hackers / programmers
 * [Kent C. Dodds](https://kentcdodds.com/blog/write-tests) - (2017) Write tests. Not too many. Mostly integration.
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * :star: [**DistroTest**](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
