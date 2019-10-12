@@ -49,3 +49,8 @@
 ### Detail of a role 
 
 `SELECT * FROM pg_roles WHERE rolname = '...'`
+
+### Which version of PostgreSQL am I running? [src](https://stackoverflow.com/questions/13733719/which-version-of-postgresql-am-i-running)
+
+If you're using CLI and you're a postgres user, then you can do this:
+`psql -c "SELECT version();"`
