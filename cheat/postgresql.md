@@ -57,6 +57,9 @@ If you're using CLI and you're a postgres user, then you can do this:
 
 ### Creating a copy of a database in PostgreSQL.
 ```
-pg_dumpall > db.out # backup
-psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you do want to replace existing data with same db and table names.
+# backup
+pg_dumpall > db.out 
+# restore 
+# (might requires some DROP DATABASE xxx if you do want to replace existing data with same db and table names.
+psql -f db.out postgres 
 ```
