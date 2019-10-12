@@ -4777,9 +4777,13 @@ Containers, Clouds and Lean Business
 * [Dzmitry Plashchynski](https://medium.com/@plashchynski/postgresql-upgrade-on-centos-4c0ddd2f8687) - (2016) PostgreSQL upgrade on CentOS | applicable to all Red Hat family (RHEL/CentOS/SL/OL 7) and to all PostgreSQL 9.* versions.
 * [Stack Overflow](https://stackoverflow.com/questions/876522/creating-a-copy-of-a-database-in-postgresql) - Creating a copy of a database in PostgreSQL. | in essence, what works for me :
 ```
-pg_dumpall > db.out # backup
-psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you do want to replace existing data with same db and table names.
+# backup :
+pg_dumpall > db.out 
+# restore : 
+# (might requires some DROP DATABASE xxx if you do want to replace existing data with same db and table names) 
+psql -f db.out postgres 
 ```
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/postgresql.md) - My cheatsheet for PostgreSQL
 
 ## Debugging
 * [The Geek Stuff](https://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/) - (2010) How to Debug C Program using gdb in 6 Simple Steps
