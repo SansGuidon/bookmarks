@@ -404,7 +404,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
 * [Jo Meenen](https://www.cutemachine.com/switch-book-summary/) - Switch Book Summary | How to Change Things When Change Is Hard | good tips here
 * [Jo Meenen](https://www.cutemachine.com/7-habits-of-highly-effective-people-summary/) - 7 Habits Of Highly Effective People Summary
-* [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
+* [rondy](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 
 > Tools
@@ -2135,7 +2135,7 @@ See also [Infrastructure](#infrastructure)
 * [dtan4/terraforming](https://github.com/dtan4/terraforming) - Terraforming allows to export existing AWS resources to Terraform style (tf, tfstate)
 * [Carlos Nunez](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code) - (2017) Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code
 * [Rosemary Wang](https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b) - (2019) Test-Driven Development for Infrastructure
-* [mbrannigan/styleguide.md](https://gist.github.com/mbrannigan/941a8cfd469f8998f53c18db32811203) - (2016) Terraform Style Guide
+* [mbranniga](https://gist.github.com/mbrannigan/941a8cfd469f8998f53c18db32811203) - (2016) Terraform Style Guide
 * [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-bestpractices-september-2018) - [Slides] (2018) Terraform modules and best-practices
 * [Ryan Armstrong](http://cavaliercoder.com/blog/inline-vs-discrete-security-groups-in-terraform.html) - (2017) Inline vs. discrete rules for AWS Security Groups in Terraform
 * [Nic Jackson](https://www.hashicorp.com/blog/hashicorp-terraform-modules-as-building-blocks-for) - (2018) HashiCorp Terraform: Modules as Building Blocks for Infrastructure
@@ -3134,7 +3134,7 @@ rpm --rebuilddb
 * [Homebrew Formulae](https://formulae.brew.sh/) - is an online package browser for Homebrew – the macOS package manager.
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
 * [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
-* [sghiassy/Disable Device Enrollment Notification on Mac.md](https://gist.github.com/sghiassy/a3927405cf4ffe81242f4ecb01c382ac) - How to disable Device Enrollment Notification on Mac / Comment se débarrasser de la notification pour "Inscription du Périphérique" sur Mac
+* [sghiassy](https://gist.github.com/sghiassy/a3927405cf4ffe81242f4ecb01c382ac) - How to disable Device Enrollment Notification on Mac / Comment se débarrasser de la notification pour "Inscription du Périphérique" sur Mac
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
@@ -3550,8 +3550,8 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Fortify8Fifty Labs](https://forty8fiftylabs.atlassian.net/wiki/display/DOCS/Configuring+Splunk+to+Send+HipChat+Notifications) - Configuring Splunk to Send HipChat Notifications
 * [BitMeter OS](https://github.com/codebox/bitmeteros) - a cross platform stupid simple and efficient bandwidth monitoring tool running locally with a web interface. [Downloads, FAQs, Docs](https://codebox.net/pages/tagged/BitMeter%20OS)
 * [monitoring-fr](https://www.monitoring-fr.org/solutions/) - [FR] :fr: Inventory of most recommended open source monitoring solutions
-* [MorganGeek](https://gist.github.com/MorganGeek/73217d0cd8435b2c02e1f17be030b04c) - monitoring solutions compared
-* [MorganGeek](https://gist.github.com/MorganGeek/16e76740b5c3ed75481eea4972f583a7) - monitoring tools summarized
+* [MorganGeek](https://gist.github.com/MorganGeek/73217d0cd8435b2c02e1f17be030b04c) - (2017) monitoring solutions compared
+* [MorganGeek](https://gist.github.com/MorganGeek/16e76740b5c3ed75481eea4972f583a7) - (2017) monitoring tools summarized
 * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - (2017) Linux tracing systems * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - (2017) Linux tracing systems * [Julia Evans](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) - Linux tracing systems & how they fit together how they fit together how they fit together
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/10-basic-linux-networking-and.html) - (2013) 10 Basic Linux Networking and Monitoring Commands You Should Know
 * [Naresh Kumar](https://theprofessionalspoint.blogspot.be/2013/10/linux-server-monitoring-and-networking.html) - (2013) Linux Server Monitoring and Networking Commands for Linux Server Administrators - Part 2
@@ -4353,7 +4353,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Patrick Louys](https://patricklouys.com/2017/12/27/become-a-better-developer-in-2018/) - (2017) Become a better developer in 2018
 * [Joel Kemp](https://hackernoon.com/work-for-an-employer-that-builds-something-you-love-58f4ced947e9) - (2017) Work for an employer that builds something you love
 * [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
-* [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
+* [rondy](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
 * [Jeremy Phelps](http://jeremyphelps.com/blog/why-youre-having-trouble-hiring-developers.html) - (2017) Why you're having trouble hiring developers
 * [Erik Dietrich](https://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - (2013) How Developers Stop Learning: Rise of the Expert Beginner
 * [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
@@ -4695,7 +4695,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [John D. Cook](https://www.johndcook.com/blog/2008/05/03/reusable-code-vs-re-editable-code/) - (2008) Reusable code vs. re-editable code
 * [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right! Collection of Best practices acquired from experience for Bash
 * [Kat Dober](https://blog.newrelic.com/engineering/ansible-best-practices-guide/) - (2018) New to Ansible? Check Out Our Best Practices Guide
-* [sloria/7001839](https://gist.github.com/sloria/7001839) - The Best of the Best Practices (BOBP) Guide for Python
+* [sloria](https://gist.github.com/sloria/7001839) - The Best of the Best Practices (BOBP) Guide for Python
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) - This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 * [George Gritsouk](https://gggritso.com/legacy-code) - (2016) Legacy Code | The noblest pursuit of our weekdays | slow programming
 * [Slow Programming](https://slowprogramming.com/) - Programming has become a pursuit of profit over personal knowledge. The craft of programming has developed into a rapid rush to the finish line via bootcamps and brief tutorials.
@@ -4888,7 +4888,7 @@ psql -f db.out postgres # restore (might requires some DROP DATABASE xxx if you 
 * [Emily Xie](https://www.youtube.com/watch?v=Y2Msq90ZknI) - [Video] Dissecting Git's Guts - Git Merge 2016 + [Cheat Sheet of git commands](https://github.com/emilyxxie/gits_guts_commands/blob/master/git_cheat_sheet.pdf)
 * [Spencer Krum](https://www.youtube.com/watch?v=d-T51nhmFhQ) - [Video] 20 Tricks with Git and Shell - Git Merge 2016
 * [James Coyle](https://www.jamescoyle.net/how-to/1891-git-ssl-certificate-problem-caused-by-self-signed-certificates) - Git SSL Certificate Problem Caused By Self Signed Certificates
-* [Scott Nonnenberg](https://blog.scottnonnenberg.com/better-git-configuration/) - Better Git configuration. See also the [shared .gitconfig file](https://gist.github.com/scottnonnenberg/fefa3f65fdb3715d25882f3023b31c29)
+* [Scott Nonnenberg](https://blog.scottnonnenberg.com/better-git-configuration/) - Better Git configuration. **See also :** the [shared .gitconfig file](https://gist.github.com/scottnonnenberg/fefa3f65fdb3715d25882f3023b31c29)
 * [Scott Chacon and Ben Straub](https://git-scm.com/docs/git-config#_variables) - available variables in git config
 * [Corinna Baldauf](http://wall-skills.com/2014/git-pretty-so-youve-got-a-mess-on-your-hand/) - (2014) git pretty – So you’ve got a mess on your hand …
 * [Joseph Kahn](https://blog.josephkahn.io/articles/pre-commit-hooks/) - Pre-commit Hooks: The Good, The Bad & The Ugly
@@ -5068,6 +5068,7 @@ See also [Shell aliases](#shell-aliases)
 * [powerlevel9k/wiki/Show-Off-Your-Config](https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config) - If you have a special configuration show it here!
 * [Lucas Fernandes](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
 * [MorganGeek/dotfiles](https://github.com/MorganGeek/dotfiles) - My own dotfiles
+* [scottnonnenberg](https://gist.github.com/scottnonnenberg/fefa3f65fdb3715d25882f3023b31c29) - Shared `.gitconfig` file
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -5419,7 +5420,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
 * [ezekg/git-hound](https://github.com/ezekg/git-hound) -  Git plugin that prevents sensitive data from being committed.
 * [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-* [rondy/Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
+* [rondy](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
 * [Brandon Sheffield](https://www.gamasutra.com/view/news/310570/Developers_share_their_most_memorable_dirty_coding_tricks.php) - (2017) Developers share their most memorable dirty coding tricks
 * [Dan Kelch](https://spin.atomicobject.com/2017/12/13/favorite-git-commands/) - (2017) Git Good: Improve Your Version Control Skills
 * [Ben Thompson](https://blog.gitprime.com/2017-software-developer-productivity-survey/) - (2017) 2017 Software Developer Productivity Survey
@@ -5496,7 +5497,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
-* [MorganGeek/favorite_commands.md](https://gist.github.com/MorganGeek/3d29301206b52f02db001126d7adfafe) - A gist with all my frequent favorite commands :) "just in case"
+* [MorganGeek](https://gist.github.com/MorganGeek/3d29301206b52f02db001126d7adfafe) - A gist with all my frequent favorite commands :) "just in case"
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -5644,7 +5645,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [JR Heard](http://blog.jrheard.com/truthiness-and-short-circuit-evaluation-in-python) - (2018) Truthiness and Short-Circuit Evaluation in Python
 * [Michal Charemza](https://charemza.name/blog/posts/programming/smells/say-no-to-more-optional-arguments/) - (2016) Say no to more optional arguments
 * [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
-* [sloria/7001839](https://gist.github.com/sloria/7001839) - The Best of the Best Practices (BOBP) Guide for Python
+* [sloria](https://gist.github.com/sloria/7001839) - The Best of the Best Practices (BOBP) Guide for Python
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) - This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 * [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 * [Raivat Shah](https://towardsdatascience.com/understanding-python-virtual-environments-7ccf690320d7) - (2019) Understanding Python Virtual Environments
@@ -5994,7 +5995,7 @@ Raw
 * [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR;
 type `curl ident.me` to know your public ip
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
-* [MorganGeek/favorite_commands.md](https://gist.github.com/MorganGeek/3d29301206b52f02db001126d7adfafe) - A gist with all my frequent favorite commands :) "just in case"
+* [MorganGeek](https://gist.github.com/MorganGeek/3d29301206b52f02db001126d7adfafe) - A gist with all my frequent favorite commands :) "just in case"
 * [Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) - (2019) Do-nothing scripting: the key to gradual automation | pattern for scripts that do nothing but still help on the road to automation
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
 * [transfer.sh](https://transfer.sh) - Easy file sharing from the command line
