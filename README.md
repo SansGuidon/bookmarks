@@ -848,6 +848,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 * [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
+* [Farnam Street](https://fs.blog/2018/09/decision-matrix/) - (2018) The Decision Matrix: How to Prioritize What Matters
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -3894,6 +3895,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
 * [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/youre-either-a-zero-or-a-one-601e01128a3) - (2018) You’re either a Zero or a One
 > 99% of the time, we get attached to the decimals and we get lost.
+* [Farnam Street](https://fs.blog/2018/09/decision-matrix/) - (2018) The Decision Matrix: How to Prioritize What Matters
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
