@@ -2343,6 +2343,7 @@ See also [Infrastructure](#infrastructure)
 * [Abbreviations.com](https://www.abbreviations.com/) - The Web's largest and most authoritative acronyms and abbreviations resource
 * [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
+* [Yacy](https://yacy.net/en/index.html) - is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2420,7 +2421,8 @@ See also [Infrastructure](#infrastructure)
 * [Jotti](https://virusscan.jotti.org/) - online virus scanner
 * [Ethical Hacking Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
 * [COMODO CA](https://crt.sh/) - Certificate search online
-* [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
+* [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records | can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
+
 * [Ethical Hacking Tools](https://pentest-tools.com/home) - online penetration testing tools
 * [Open Port Check Tool](https://www.yougetsignal.com/tools/open-ports/) - Port forwarding tester - open port finder
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
@@ -3704,6 +3706,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Sven Slootweg](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) - (2015) Don't use VPN services.
 > Because a VPN in this sense is just a glorified proxy. The VPN provider can see all your traffic, and do with it what they want - including logging.
 * [Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html) - (2019) VPN - a Very Precarious Narrative
+* [Yacy](https://yacy.net/en/index.html) - is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
@@ -6070,7 +6073,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Ethical Hacking Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
 * [Patrik Hudak](https://blog.sweepatic.com/art-of-subdomain-enumeration/) - the art of subdomain enumeration
 * [COMODO CA](https://crt.sh/) - crt.sh : Certificate search online for any domain
-* [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records
+* [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records | can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 * [Ethical Hacking Tools](https://pentest-tools.com/home) - online penetration testing tools
 * [Vincent Yiu/RedTips](https://github.com/vysec/RedTips) - Red Team Tips
 * [Heaps legit links](https://verylegit.link/) - Like a URL shortener, but worse
