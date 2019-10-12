@@ -6711,6 +6711,7 @@ rpm --rebuilddb
 * [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 * [majkinetor/au](https://github.com/majkinetor/au) - Chocolatey Automatic Package Updater Module
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/windows-subsystem.md) - My cheatsheet about Windows Subsystem for Linux
+* [Cmder](https://cmder.net/) - Lovely console emulator package for Windows
 
 # Writing :pencil2:
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
