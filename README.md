@@ -3708,6 +3708,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 > Because a VPN in this sense is just a glorified proxy. The VPN provider can see all your traffic, and do with it what they want - including logging.
 * [Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html) - (2019) VPN - a Very Precarious Narrative
 * [Yacy](https://yacy.net/en/index.html) - is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.
+* [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
