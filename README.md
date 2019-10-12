@@ -3111,6 +3111,7 @@ rpm --rebuilddb
 * [Vincent Danen](https://www.techrepublic.com/blog/linux-and-open-source/using-vi-key-bindings-in-bash-and-zsh/) - (2008) Using vi key bindings in bash and zsh
 * [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - Solarized Colorscheme for Vim
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/vim.md) - My cheatsheet for Vim
+* [Samuel Walladge](https://www.swalladge.net/archives/2018/06/11/why-vim-2018/) - (2018) Why vim is a solid code editor for 2018
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
