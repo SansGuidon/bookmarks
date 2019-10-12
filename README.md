@@ -1585,6 +1585,7 @@ See also [Infrastructure](#infrastructure)
 * [MorganGeek](cheat/bitbucket.md) - bitbucket cheatsheet / tips
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
 * [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/bitbucket.md) - My cheatsheet for Bitbucket
 
 ## ChatOps
 * [Vivek Gite](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
@@ -1854,6 +1855,7 @@ See also [Infrastructure](#infrastructure)
 * [Jim Bird](http://swreflections.blogspot.be/2017/11/essential-and-free-security-tools-for.html) - (2017) Essential (and free) security tools for Docker
 * [Jakub Skałecki](https://rock-it.pl/how-to-write-excellent-dockerfiles/) - (2017) How to write excellent Dockerfiles
 * [emerosa/versioning](https://github.com/nemerosa/versioning) - Gradle plug-in to generate version information from the SCM branch (Git or Svn)
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/portainer.md) - My cheatsheet for Portainer
 
 ## Jenkins
 * [Plugins Index](https://plugins.jenkins.io/)
@@ -1983,6 +1985,7 @@ See also [Infrastructure](#infrastructure)
 * :star: [**CloudBees Support**](https://support.cloudbees.com/hc/en-us/articles/222446987-Prepare-Jenkins-for-Support) - (2019) Prepare Jenkins for Support | Magic Java Virtual Machine (JVM) Arguments for Jenkins | Java Parameters + Ulimit settings + Java Home Environment Variables + Log Startup Timing Info. **See also** : [Video] [Jenkins Performance: Avoiding Pitfalls, Diagnosing Issues & Scaling for Growth](https://www.youtube.com/watch?v=yTafQ-e84eY)
 * [codecentric/helm-charts](https://github.com/codecentric/helm-charts/tree/master/charts/jenkins) - This chart install Jenkins on Kubernetes | It allows Jenkins to be completely configured as code that does not require any further manual configuration in the UI. While not required, it is meant to be used with the configuration-as-code plugin and/or Groovy init scripts.
 * [CloudBeesTV](https://www.youtube.com/watch?v=yTafQ-e84eY) - [Video] (2019) Jenkins Performance: Avoiding Pitfalls, Diagnosing Issues & Scaling for Growth
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/jenkins.md) - My cheatsheet for Jenkins
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -3063,6 +3066,7 @@ rpm --rebuilddb
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 * [Stephan Zielinski](http://www.stokely.com/lighter.side/sysadm.field.guide.html) - Know Your UNIX System Administrator: A Field Guide
 * [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/nsfw.md) - My NSFW cheatsheet 
 
 ## Raspberry Pi
 * [Ard Ray](http://blog.mxard.com/persistent-iptables-on-raspberry-pi-raspbian) - Persistent IPtables on Raspberry Pi (Raspbian)
@@ -3104,6 +3108,7 @@ rpm --rebuilddb
 * [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - Use cheat.sh from VIM
 * [Vincent Danen](https://www.techrepublic.com/blog/linux-and-open-source/using-vi-key-bindings-in-bash-and-zsh/) - (2008) Using vi key bindings in bash and zsh
 * [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - Solarized Colorscheme for Vim
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/vim.md) - My cheatsheet for Vim
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -3135,6 +3140,7 @@ rpm --rebuilddb
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
 * [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
 * [sghiassy](https://gist.github.com/sghiassy/a3927405cf4ffe81242f4ecb01c382ac) - How to disable Device Enrollment Notification on Mac / Comment se débarrasser de la notification pour "Inscription du Périphérique" sur Mac
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/macos.md) - My cheatsheet for MacOS
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
@@ -3279,8 +3285,7 @@ type `curl ident.me` to know your public ip
   1. Connect to your instance.
   2. Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
   3. Use the following command to get its public IP address:  `curl http://169.254.169.254/latest/meta-data/public-ipv4`
-* Block an IP with `iptables` : `iptables -A INPUT -s 35.196.128.87 -j DROP`
-  * Undo the previous rule : `iptables -D INPUT -s 35.196.128.87 -j DROP`
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet 
 
 # News :exclamation:
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
@@ -5049,6 +5054,7 @@ psql -f db.out postgres
 * [Federico Kauffman](https://www.wyeworks.com/blog/2018/01/15/automatically-managing-personal-and-work-git-configurations/) - (2018) Automatically managing personal and work git configurations
 * [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - (2013) On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure! 
 * [Seth Robertson](http://sethrobertson.github.io/GitBestPractices/) - (2013) Commit Often, Perfect Later, Publish Once: Git Best Practices
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/git.md) - My cheatsheet for Git
 
 ### Dotfiles / Aliases
 See also [Shell aliases](#shell-aliases)
@@ -5137,6 +5143,7 @@ See also [Shell aliases](#shell-aliases)
 * [MorganGeek](cheat/groovy.md) - groovy cheatsheet / tips
 * [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile / Groovy syntax
 * [Denny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-jenkins-groovy-a4) - (2018) CheatSheet: Jenkins & Groovy
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/groovy.md) - My cheatsheet for Groovy
 
 ## Haskell
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
@@ -5656,6 +5663,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Boto Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services (AWS) SDK for Python. It enables Python developers to create, configure, and manage AWS services, such as EC2 and S3. Boto provides an easy to use, object-oriented API, as well as low-level access to AWS services.
 * [Murtaza Gulamali](https://thoughtbot.com/blog/how-to-manage-your-python-projects-with-pipenv) - (2017) How to manage your Python projects with Pipenv
 * [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of | Pampy is pretty small (150 lines), reasonably fast, and often makes your code more readable and hence easier to reason about. There is also a JavaScript version, called Pampy.js.
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/python.md) - My cheatsheet for Python
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
@@ -6696,6 +6704,7 @@ rpm --rebuilddb
 * [Kevin Marquette](https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/) - (2017) Powershell: Building a Module, one microstep at a time
 * [Eiichi Kitagawa](https://success.docker.com/article/windows-cheatsheet) - Windows Cheatsheet for Linux Engineers
 * [majkinetor/au](https://github.com/majkinetor/au) - Chocolatey Automatic Package Updater Module
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/windows-subsystem.md) - My cheatsheet about Windows Subsystem for Linux
 
 # Writing :pencil2:
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
