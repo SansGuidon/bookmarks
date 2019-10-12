@@ -1577,6 +1577,8 @@ See also [Infrastructure](#infrastructure)
   1. Connect to your instance.
   2. Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
   3. Use the following command to get its public IP address:  `curl http://169.254.169.254/latest/meta-data/public-ipv4`
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet 
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/aws.md) - My AWS cheatsheet 
 
 ## Bitbucket
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
@@ -3286,6 +3288,7 @@ type `curl ident.me` to know your public ip
   2. Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
   3. Use the following command to get its public IP address:  `curl http://169.254.169.254/latest/meta-data/public-ipv4`
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet 
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/aws.md) - My AWS cheatsheet 
 
 # News :exclamation:
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
@@ -5950,7 +5953,7 @@ Raw
 * [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash + some tips
 * [Vitaliy Mogilevskiy](http://www.dbatoolz.com/t/sqlplus-s-shell-scripting.html) - sqlplus -s Shell Scripting Techniques
 * [Fred Hébert](https://ferd.ca/awk-in-20-minutes.html) - Awk in 20 Minutes
-* [GreyCat](http://mywiki.wooledge.org/BashFAQ/082) - Why is $(...) preferred over `...` (backticks)?
+* [GreyCat](http://mywiki.wooledge.org/BashFAQ/082) - Why is `$(...)` preferred over `...` (backticks)?
 * [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashFAQ) - BASH Frequently Asked Questions
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide) - BASH Guide
@@ -6505,6 +6508,7 @@ rpm --rebuilddb
   * Removing iptables rule : `sudo iptables -D INPUT -p <etc rest of your above rule>`
 * [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
 * [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - (2013) On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure! 
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet 
 
 # UX / UI
 > News
