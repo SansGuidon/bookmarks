@@ -2344,6 +2344,7 @@ See also [Infrastructure](#infrastructure)
 * [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 * [Yacy](https://yacy.net/en/index.html) - is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.
+* [Loklak Search](https://loklak.org/) - Distributed Open Source Search for Twitter and Social Media with Peer to Peer Technology
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2422,7 +2423,6 @@ See also [Infrastructure](#infrastructure)
 * [Ethical Hacking Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
 * [COMODO CA](https://crt.sh/) - Certificate search online
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records | can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
-
 * [Ethical Hacking Tools](https://pentest-tools.com/home) - online penetration testing tools
 * [Open Port Check Tool](https://www.yougetsignal.com/tools/open-ports/) - Port forwarding tester - open port finder
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
@@ -2529,6 +2529,7 @@ See also [Infrastructure](#infrastructure)
 * [A Soft Murmur](https://asoftmurmur.com/) - Ambient sounds to wash away distraction.
 * [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity | Mix different sounds and create your perfect environment.
 * [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
+* [Loklak Search](https://loklak.org/) - Distributed Open Source Search for Twitter and Social Media with Peer to Peer Technology
 
 # Gaming :video_game:
 > News
