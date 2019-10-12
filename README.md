@@ -5994,7 +5994,7 @@ Raw
 * [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR;
 type `curl ident.me` to know your public ip
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
-* [MorganGeek](https://gist.github.com/MorganGeek/3d29301206b52f02db001126d7adfafe) - My own favorite commands ;-) 
+* [MorganGeek/favorite_commands.md](https://gist.github.com/MorganGeek/3d29301206b52f02db001126d7adfafe) - A gist with all my frequent favorite commands :) "just in case"
 * [Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) - (2019) Do-nothing scripting: the key to gradual automation | pattern for scripts that do nothing but still help on the road to automation
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
 * [transfer.sh](https://transfer.sh) - Easy file sharing from the command line
