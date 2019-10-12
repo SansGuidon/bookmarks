@@ -5496,6 +5496,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
+* [MorganGeek/favorite_commands.md](https://gist.github.com/MorganGeek/3d29301206b52f02db001126d7adfafe) - A gist with all my frequent favorite commands :) "just in case"
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
