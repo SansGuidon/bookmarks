@@ -291,6 +291,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) - Useful resources of information, because most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another's mistakes rather than building on one another's successes.
 * [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
 * [principles.design](https://principles.design/examples/) -  a place to learn about and create Design Principles
+* [Gilles Scokart](https://fr.slideshare.net/gscokart/stop-testing-start-designing) - [Slides] (2016) Stop testing start designing
 
 # Art :art:
 > News
@@ -6460,6 +6461,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Rosemary Wang](https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b) - (2019) Test-Driven Development for Infrastructure
 * [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
 * [Gregg Caines](http://caines.ca/blog/2018/03/27/zero-defect-policy/) - (2018) Zero Defect Policy
+* [Gilles Scokart](https://fr.slideshare.net/gscokart/stop-testing-start-designing) - [Slides] (2016) Stop testing start designing
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
