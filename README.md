@@ -4830,6 +4830,7 @@ psql -f db.out postgres
 * [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
 * [Michael Hoffman](http://code-worrier.com/how-to-be-stuck/#) - (2013) How to be Stuck - Learning to learn to code on the internet
 * [Petter Måhlén](https://pettermahlen.com/2011/04/08/if-its-broken-fix-it/) - (2011) If it’s Broken, Fix It
+* [Gregg Caines](http://caines.ca/blog/2018/03/27/zero-defect-policy/) - (2018) Zero Defect Policy
 
 ## Elixir
 * [David Schmitz](https://www.slideshare.net/koenighotze/elixir-easy-fun-for-busy-developers-devoxx-2016) - [Slides] (2016) Elixir - Easy fun for busy developers | Elixir combines Ruby's love for programmers with the absolute power that is the Erlang platform.
@@ -5519,6 +5520,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 * [MorganGeek](https://gist.github.com/MorganGeek/3d29301206b52f02db001126d7adfafe) - A gist with all my frequent favorite commands :) "just in case"
+* [Gregg Caines](http://caines.ca/blog/2018/03/27/zero-defect-policy/) - (2018) Zero Defect Policy
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -6448,6 +6450,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Carlos Nunez](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code) - (2017) Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code
 * [Rosemary Wang](https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b) - (2019) Test-Driven Development for Infrastructure
 * [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
+* [Gregg Caines](http://caines.ca/blog/2018/03/27/zero-defect-policy/) - (2018) Zero Defect Policy
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
