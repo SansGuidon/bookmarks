@@ -1068,6 +1068,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Rating Graph](https://www.ratingraph.com/) - is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies. 
 * [Blog Histoire](https://blog-histoire.fr/) - :fr: [FR] L'Histoire en podcast
 * [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
+* [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... **See also :** [Website](https://archivebox.io)
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -3728,6 +3729,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html) - (2019) VPN - a Very Precarious Narrative
 * [Yacy](https://yacy.net/en/index.html) - is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
+* [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... **See also :** [Website](https://archivebox.io)
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
