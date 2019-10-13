@@ -288,6 +288,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Simon Wardley](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) - (2015) An introduction to Wardley 'Value Chain' Mapping. **Bonus** : See also [Wardley map](https://en.wikipedia.org/wiki/Wardley_map)
 * [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 * [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.
+* [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) - Useful resources of information, because most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another's mistakes rather than building on one another's successes.
 
 # Art :art:
 > News
