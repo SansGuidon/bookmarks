@@ -4188,7 +4188,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [John Sonmez](https://simpleprogrammer.com/2013/08/19/software-development-career/) - (2013) 4 Things I Wish I Would Have Known When I Started My Software Development Career
 * [JAX Editorial Team](https://jaxenter.com/the-most-dangerous-word-in-the-english-language-for-all-developers-108018.html) - (2014) The most dangerous word in the English language for all developers
 * [Dale Myers](https://myers.io/2017/04/04/the-joel-test-for-2017/) - (2017) The Joel Test for 2017
-* [Martin Fowler Site](https://www.martinfowler.com/) - author, speaker, and loud-mouth on the design of enterprise software. Evangelist of refactoring and CI/CD
+* [Martin Fowler](https://www.martinfowler.com/) - author, speaker, and loud-mouth on the design of enterprise software. Evangelist of refactoring and CI/CD
 * [Ronald Jeffries](https://www.ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/) - (2014) why you shouldn't put refactoring stories on your backlog
 * [Martin Fowler](https://www.martinfowler.com/bliki/BoiledCarrot.html) - (2016) When a technique fails ask yourself if it's a faulty technique or a faulty use of the technique
 * [Seph Gentle](https://josephg.com/blog/what-i-tell-all-new-programmers/) - (2014) What I tell all new programmers
