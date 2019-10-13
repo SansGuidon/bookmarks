@@ -8,7 +8,7 @@ Contributions are more than welcome. Read the [contribution guidelines](CONTRIBU
 
 by **[@MorganGeek](https://twitter.com/MorganGeek)**
 
-Be the first to support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] [![Share on Twitter][img-twitter]][twitter]
+How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or [![Share on Twitter][img-twitter]][twitter]
 
 [![License: GPL v3][img-gpl3]][gpl3]
 
