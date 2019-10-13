@@ -6595,6 +6595,8 @@ rpm --rebuilddb
 * [internetarchive/wayback](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server) - Wayback CDX Server API - BETA | The wayback-cdx-server is a standalone HTTP servlet that serves the index that the wayback machine uses to lookup captures.
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
 * [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser 
+* [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... **See also :** [Website](https://archivebox.io)
+* [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 
 > Some old links from my first times on the web
 * [Donjon de Naheulbeuk](http://www.penofchaos.com/warham/donjon.htm) - [FR] :fr: Podcast / Les premiers MP3 d'aventure
@@ -6688,6 +6690,7 @@ rpm --rebuilddb
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for [JAMstack](https://jamstack.org/) Sites
 * [JAMstack](https://jamstack.org/) : noun `’jam-stak’` : Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. | The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
 * [Mikołaj Stolarski](https://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/) - (2015) Principles Of HTML5 Game Design
+* [illustrated.dev](https://illustrated.dev/) - Web development, illustrated.
 
 > Tools
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
