@@ -801,7 +801,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jan Mewes](https://dev.to/janux_de/how-to-pick-up-a-new-technology-in-minimal-time-2i4l) - (2018) How to pick up a new technology in minimal time?
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
-* [Ron Jeffries](https://www.ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
+* [Ronald Jeffries](https://www.ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
 * [Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html) - (2013) Introducing Event Storming | EventStorming is a workshop format for quickly exploring complex business domains.
 * [Jeppe Cramon](https://www.slideshare.net/jeppec/event-storming-48594742) - (2015) [Slides] Event storming
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
@@ -4189,7 +4189,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [JAX Editorial Team](https://jaxenter.com/the-most-dangerous-word-in-the-english-language-for-all-developers-108018.html) - (2014) The most dangerous word in the English language for all developers
 * [Dale Myers](https://myers.io/2017/04/04/the-joel-test-for-2017/) - (2017) The Joel Test for 2017
 * [Martin Fowler Site](https://www.martinfowler.com/) - author, speaker, and loud-mouth on the design of enterprise software. Evangelist of refactoring and CI/CD
-* [Ron Jeffries](https://www.ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/) - (2014) why you shouldn't put refactoring stories on your backlog
+* [Ronald Jeffries](https://www.ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/) - (2014) why you shouldn't put refactoring stories on your backlog
 * [Martin Fowler](https://www.martinfowler.com/bliki/BoiledCarrot.html) - (2016) When a technique fails ask yourself if it's a faulty technique or a faulty use of the technique
 * [Seph Gentle](https://josephg.com/blog/what-i-tell-all-new-programmers/) - (2014) What I tell all new programmers
 * [Billy Hollis](https://www.youtube.com/watch?v=LiGsw_k8JhY) - (2006) [Video] about programmer code addiction
@@ -5478,7 +5478,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 * [Michael Malis](http://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) - (2017) How to Improve Your Productivity as a Working Programmer | It only takes one or two changes each week for things to quickly snowball.
 * [Jan Mewes](https://dev.to/janux_de/how-to-pick-up-a-new-technology-in-minimal-time-2i4l) - (2018) How to pick up a new technology in minimal time?
-* [Ron Jeffries](https://www.ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
+* [Ronald Jeffries](https://www.ronjeffries.com/articles/018-01ff/abandon-1/) - (2018) Developers Should Abandon Agile
 * [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work.
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - Cheat.sh - the only cheat sheet you need | allow to browse cheatsheets from internet using curl
 * [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
