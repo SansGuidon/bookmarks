@@ -292,6 +292,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
 * [principles.design](https://principles.design/examples/) -  a place to learn about and create Design Principles
 * [Gilles Scokart](https://fr.slideshare.net/gscokart/stop-testing-start-designing) - [Slides] (2016) Stop testing start designing
+* [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
 
 # Art :art:
 > News
@@ -1072,6 +1073,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Blog Histoire](https://blog-histoire.fr/) - :fr: [FR] L'Histoire en podcast
 * [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
 * [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... **See also :** [Website](https://archivebox.io)
+* [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -6573,6 +6575,7 @@ rpm --rebuilddb
 * [Good Video Game Interface Screenshots](http://videogameinterfaces.com/) - The best collection of the most beautiful, exceptional and inspiring video game interfaces and screenshots.
 * [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
 * [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
+* [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
