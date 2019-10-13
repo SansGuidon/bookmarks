@@ -290,6 +290,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) - Useful resources of information, because most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another's mistakes rather than building on one another's successes.
 * [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
+* [principles.design](https://principles.design/examples/) -  a place to learn about and create Design Principles
 
 # Art :art:
 > News
