@@ -289,6 +289,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 * [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.
 * [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) - Useful resources of information, because most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another's mistakes rather than building on one another's successes.
+* [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
 
 # Art :art:
 > News
@@ -6568,6 +6569,7 @@ rpm --rebuilddb
 * [Dark Patterns](https://www.darkpatterns.org/types-of-dark-pattern) - Types of Dark Patterns
 * [Good Video Game Interface Screenshots](http://videogameinterfaces.com/) - The best collection of the most beautiful, exceptional and inspiring video game interfaces and screenshots.
 * [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
+* [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
