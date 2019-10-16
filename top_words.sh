@@ -3,8 +3,11 @@ set -o errexit
 set -o nounset
 set -o pipefail
 
-cmd_args=" | sed -e 's/\[.*\]//g' \
-  | sed 's!http\(s\)\{0,1\}://[^[:space:]]*!!g' \
+sed_bin="LANG=C LC_CTYPE=C sed" # workaround for the illegal byte sequence on MacOS X
+# see also https://stackoverflow.com/questions/11287564/getting-sed-error-illegal-byte-sequence-in-bash
+# and https://unix.stackexchange.com/questions/141420/tr-complains-of-illegal-byte-sequence
+cmd_args=" | $sed_bin -e 's/\[.*\]//g' \
+  | $sed_bin 's!http\(s\)\{0,1\}://[^[:space:]]*!!g' \
   | \grep --only-matching --extended-regexp '[a-zA-Z]{3,}' \
   | tr '[:upper:]' '[:lower:]' \
   | \grep --invert-match --word-regexp --fixed-strings --file=stopwords.txt \
