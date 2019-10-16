@@ -3,6 +3,27 @@ set -o errexit
 set -o nounset
 set -o pipefail
 
+cmd_args=" | sed -e 's/\[.*\]//g' \
+  | sed 's!http\(s\)\{0,1\}://[^[:space:]]*!!g' \
+  | \grep --only-matching --extended-regexp '[a-zA-Z]{3,}' \
+  | tr '[:upper:]' '[:lower:]' \
+  | \grep --invert-match --word-regexp --fixed-strings --file=stopwords.txt \
+  | sort \
+  | uniq -c \
+  | sort -n"
+
+fetch_page_content() {
+  if type "lynx" > /dev/null; then
+    cmd_bin="lynx --dump -nolist -hiddenlinks=ignore -nonumbers -hiddenlinks=merge  "$url""
+    cmd="$cmd_bin $cmd_args"
+    eval "$cmd"
+  else
+    cmd_bin="curl "$url" "
+    cmd="$cmd_bin $cmd_args"
+    eval "$cmd"
+  fi
+}
+
 fetch_top_words() {
   local url
   local basedir
@@ -19,20 +40,11 @@ fetch_top_words() {
   fi
 
   if [[ "${url:-}" = "" ]]; then
-    \grep --only-matching --extended-regexp '[a-zA-Z]{3,}' "$basedir/README.md" \
-    | tr '[:upper:]' '[:lower:]' \
-    | \grep --invert-match --word-regexp --fixed-strings --file=stopwords.txt \
-    | sort \
-    | uniq -c \
-    | sort -n
+    cmd_bin="\cat "$basedir/README.md""
+    cmd="$cmd_bin $cmd_args"
+    eval "$cmd"
   else
-    curl "$url" \
-    | \grep --only-matching --extended-regexp '[a-zA-Z]{3,}' \
-    | tr '[:upper:]' '[:lower:]' \
-    | \grep --invert-match --word-regexp --fixed-strings --file=stopwords.txt \
-    | sort \
-    | uniq -c \
-    | sort -n
+    fetch_page_content "$url"
   fi
 }
 fetch_top_words "$@"
