@@ -4023,6 +4023,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 * [Jason Fried](https://m.signalvnoise.com/status-meetings-are-the-scourge/) - (2016) Status meetings are the scourge.
+* [Fadeke Adegbuyi](https://doist.com/blog/complete-guide-to-deep-work/) - (2019) Deep Work: The Complete Guide (including a step-by-step checklist)
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
