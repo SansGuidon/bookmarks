@@ -293,6 +293,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [principles.design](https://principles.design/examples/) -  a place to learn about and create Design Principles
 * [Gilles Scokart](https://fr.slideshare.net/gscokart/stop-testing-start-designing) - [Slides] (2016) Stop testing start designing
 * [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
+* [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
 
 # Art :art:
 > News
@@ -3651,6 +3652,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Béatrice Sutter](https://www.ladn.eu/tech-a-suivre/data-big-et-smart/internet-nous-rend-il-cons/) - [FR] :fr: (2018) Internet nous rend-il cons ?
 * [James Somers](http://jsomers.net/blog/gettiers) - (2019) The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
 * [Mark Kingwell](https://thewalrus.ca/why-being-bored-is-good/) - (2019) Why Being Bored Is Good
+* [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -4116,7 +4118,8 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
 * [O'Reilly Media](https://www.oreilly.com/ideas) - Ideas | What's on the radar
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
-* [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
+* [hellerve/programming-talks](https://github.com/helle* [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
+rve/programming-talks) - Awesome & Interesting Talks concerning Programming
 * [Itamar Turner-Trauring](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
 * [Simple Programmer](https://simpleprogrammer.com/) - Robert Whitcomb's Blog about soft skills + health & work-life balance for programmers
 * [programming is terrible](https://programmingisterrible.com/) - Blog of Thomas Figg (tef) | lessons learned from a life wasted
@@ -4467,6 +4470,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 * [Redbubble](https://www.redbubble.com/shop/devops+stickers) - DevOps stickers
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
+* [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
