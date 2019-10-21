@@ -857,6 +857,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 * [Farnam Street](https://fs.blog/2018/09/decision-matrix/) - (2018) The Decision Matrix: How to Prioritize What Matters
 * [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
+* [Jason Fried](https://m.signalvnoise.com/status-meetings-are-the-scourge/) - (2016) Status meetings are the scourge.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -4021,6 +4022,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+* [Jason Fried](https://m.signalvnoise.com/status-meetings-are-the-scourge/) - (2016) Status meetings are the scourge.
 
 > Tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
