@@ -2232,6 +2232,7 @@ See also [Infrastructure](#infrastructure)
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
 * [IRCEL - CELINE](http://www.irceline.be/en/front-page?set_language=en) - Current Air Quality Measurements of Belgian Interregional Environment Agency (IRCEL - CELINE)
 * [écoconso](https://www.ecoconso.be/fr/content/magasins-de-vrac-et-zero-dechet-de-wallonie-et-bruxelles) - [FR] [BE] Magasins de vrac et zéro déchet de Wallonie et Bruxelles
+* [GreenIT.fr](https://www.greenit.fr/) - :fr: [FR] est un lieu de réflexion sur ces deux enjeux du numérique durable / responsable (définition); éco-conception des équipements et des services numériques, économie d’énergie, réemploi et recyclage, etc. – mais aussi les usages et le rôle du numérique pour glisser vers une économie plus légère, circulaire (cradle to cradle), puis vers une économie positive.
 
 # Finding content :mag:
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
