@@ -856,6 +856,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 * [Farnam Street](https://fs.blog/2018/09/decision-matrix/) - (2018) The Decision Matrix: How to Prioritize What Matters
+* [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -2797,6 +2798,7 @@ See also [Infrastructure](#infrastructure)
 * [Julia Evans](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/) - (2018) Working remotely, 4 years in
 * [Northern Ireland Business](https://www.nibusinessinfo.co.uk/content/common-causes-stress-work) - How to deal with stress : Common causes of stress at work
 * [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
+* [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
 
 # Hobbies
 > Beers :beers:
@@ -4118,8 +4120,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
 * [O'Reilly Media](https://www.oreilly.com/ideas) - Ideas | What's on the radar
 * [dev-books](http://www.dev-books.com/) - top of most mentioned books on stackoverflow
-* [hellerve/programming-talks](https://github.com/helle* [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
-rve/programming-talks) - Awesome & Interesting Talks concerning Programming
+* [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
 * [Itamar Turner-Trauring](https://codewithoutrules.com/career/) - Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
 * [Simple Programmer](https://simpleprogrammer.com/) - Robert Whitcomb's Blog about soft skills + health & work-life balance for programmers
 * [programming is terrible](https://programmingisterrible.com/) - Blog of Thomas Figg (tef) | lessons learned from a life wasted
@@ -4471,6 +4472,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Redbubble](https://www.redbubble.com/shop/devops+stickers) - DevOps stickers
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 * [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
+* [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
