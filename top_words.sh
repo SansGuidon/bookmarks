@@ -8,6 +8,7 @@ sed_bin="LANG=C LC_CTYPE=C sed" # workaround for the illegal byte sequence on Ma
 # and https://unix.stackexchange.com/questions/141420/tr-complains-of-illegal-byte-sequence
 cmd_args=" | $sed_bin -e 's/\[.*\]//g' \
   | $sed_bin 's!http\(s\)\{0,1\}://[^[:space:]]*!!g' \
+  | $sed_bin -e 's/\(BUTTON\)//g' \
   | \grep --only-matching --extended-regexp '[a-zA-Z]{3,}' \
   | tr '[:upper:]' '[:lower:]' \
   | \grep --invert-match --word-regexp --fixed-strings --file=stopwords.txt \
@@ -17,12 +18,18 @@ cmd_args=" | $sed_bin -e 's/\[.*\]//g' \
 
 fetch_page_content() {
   if type "lynx" > /dev/null; then
-    cmd_bin="lynx --dump -nolist -hiddenlinks=ignore -nonumbers -hiddenlinks=merge  "$url""
+    cmd_bin="lynx --dump -nolist -hiddenlinks=ignore -nonumbers -hiddenlinks=merge $url"
     cmd="$cmd_bin $cmd_args"
     eval "$cmd"
   else
-    cmd_bin="curl "$url" "
-    cmd="$cmd_bin $cmd_args"
+    nohtml_args=" | \grep -oEi \">([^<>]*)<\" \
+        | \sed $'s,\x1b\\[[0-9;]*[a-zA-Z],,g' \
+        | \sed -E 's/><//' \
+        | \sed 's/[<>]//g' \
+        | \sed 's/{.*}//g' \
+        | awk 1 ORS=' '"
+      cmd_bin="curl $url"
+    cmd="$cmd_bin $nohtml_args $cmd_args"
     eval "$cmd"
   fi
 }
