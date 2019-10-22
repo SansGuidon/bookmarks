@@ -3941,6 +3941,14 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/youre-either-a-zero-or-a-one-601e01128a3) - (2018) You’re either a Zero or a One
 > 99% of the time, we get attached to the decimals and we get lost.
 * [Farnam Street](https://fs.blog/2018/09/decision-matrix/) - (2018) The Decision Matrix: How to Prioritize What Matters
+* [Josh Spector](https://web.archive.org/web/20190810225832/https://medium.com/an-idea-for-you/you-dont-have-a-time-management-problem-you-just-think-you-do-ac8eb6952b06) - (2019) You Don’t Have A Time Management Problem — You Just Think You Do
+> 1. The more effort you put into becoming productive, the less productive you will feel
+> _It turns out one of the best ways to manage your time is to stop obsessing about how to better manage your time._
+> 2. You have enough time — you just have too much you want to do.
+> _Let’s get Zen for a moment.
+> It sounds cliche, but your time management goal shouldn’t be to figure out how to do more, but instead to figure out how to want less._
+> 3. It’s not a productivity problem, it’s an emotional one. 
+> _If you feel in control of your time, you’re significantly less likely to feel time pressure than if your time feels out of your control— even if you have the exact same amount of things to do._
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
