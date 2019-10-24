@@ -1554,6 +1554,7 @@ See also [Infrastructure](#infrastructure)
 > News
 * [AWS News Blog](https://aws.amazon.com/fr/blogs/aws/)
 * [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels' (Amazon' CTO) weblog on building scalable and robust distributed systems.
+* [AWS.NZ](https://aws.nz/) - Michael Ludvig's Blog - focused on Architecting, Designing and Implementation of Amazon Web Services solutions for customers of various sized and various AWS adoption levels.
 
 > Learn
 * [Don MacAskill](https://don.blogs.smugmug.com/2011/04/24/how-smugmug-survived-the-amazonpocalypse/) - (2011) How SmugMug survived the Amazonpocalypse
