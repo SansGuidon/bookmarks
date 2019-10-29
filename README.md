@@ -337,6 +337,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) - An online comic to learn about Kubernetes and how you can use it for continuous integration and delivery.
 * [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
 * [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish. 
+* [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -6604,6 +6605,7 @@ rpm --rebuilddb
 * [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
 * [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
 * [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
+* [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
@@ -6718,6 +6720,7 @@ rpm --rebuilddb
 * [JAMstack](https://jamstack.org/) : noun `’jam-stak’` : Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. | The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
 * [Mikołaj Stolarski](https://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/) - (2015) Principles Of HTML5 Game Design
 * [illustrated.dev](https://illustrated.dev/) - Web development, illustrated.
+* [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 
 > Tools
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
