@@ -153,6 +153,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Troubleshooting](#troubleshooting)
 * [UX / UI](#ux--ui)
   * [Design humor](#design-humor)
+* [Web archive / nostalgia](#web-archive--nostalgia)
 * [Web development](#web-development)
 * [Windows](#windows)
 * [Writing :pencil2:](#writing-pencil2)
