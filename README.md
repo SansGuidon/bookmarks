@@ -4492,6 +4492,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 * [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
 * [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
+* [Dave Rupert](https://daverupert.com/2018/04/eponymous-laws-of-tech) - (2018) The Eponymous Laws of Tech | A compendium of tech-related laws, fallacies, and other wisdom
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
