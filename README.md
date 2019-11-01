@@ -6738,7 +6738,7 @@ rpm --rebuilddb
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. **Bonus** [WAVE Browser Extensions](https://wave.webaim.org/extension/)
 * [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
 * [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
-* [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps
+* [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps. **See also** : [Website](https://developers.google.com/web/tools/lighthouse)
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
