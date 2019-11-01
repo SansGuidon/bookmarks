@@ -6743,6 +6743,8 @@ rpm --rebuilddb
 * [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
 * [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps. **See also** : [Website](https://developers.google.com/web/tools/lighthouse)
 * [WebPagetest](https://www.webpagetest.org/) - Test a website's performance | WebPagetest is a tool that was originally developed by AOL for use internally and was open-sourced in 2008 under a BSD license. The platform is under active development on GitHub and is also packaged up periodically and available for download if you would like to run your own instance. **See also** [GitHub repository](https://github.com/WPO-Foundation/webpagetest)
+* [WebPagetest](https://www.webpagetest.org/lighthouse) - Lighthouse Test - Run a Chrome Lighthouse Test | Lighthouse Test
+Run Lighthouse on an emulated mobile device on a 3G network. Running the test will give you the top level scores for all the categories Lighthouse runs on, as well as individual level reports.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
