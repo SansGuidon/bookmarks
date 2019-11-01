@@ -6614,6 +6614,7 @@ rpm --rebuilddb
 * [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 * [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
+* [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
@@ -6688,6 +6689,7 @@ rpm --rebuilddb
 * [illustrated.dev](https://illustrated.dev/) - Web development, illustrated.
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 * [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
+* [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 
 > Checklists
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
