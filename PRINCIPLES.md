@@ -96,6 +96,7 @@
 > 1. After encountering the person, do people feel oppressed, humiliated or otherwise worse about themselves?
 > 2. Does the person target people who are less powerful than him/her?
 * Act. No matter what. [Planned Parenthood](https://twitter.com/cshapiro/status/986225772665991168/photo/1)
+* [Dave Rupert](https://daverupert.com/2018/04/eponymous-laws-of-tech) - (2018) The Eponymous Laws of Tech | A compendium of tech-related laws, fallacies, and other wisdom
 
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
