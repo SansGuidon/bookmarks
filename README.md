@@ -6742,6 +6742,7 @@ rpm --rebuilddb
 * [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
 * [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
 * [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps. **See also** : [Website](https://developers.google.com/web/tools/lighthouse)
+* [WebPagetest](https://www.webpagetest.org/) - Test a website's performance | WebPagetest is a tool that was originally developed by AOL for use internally and was open-sourced in 2008 under a BSD license. The platform is under active development on GitHub and is also packaged up periodically and available for download if you would like to run your own instance. **See also** [GitHub repository](https://github.com/WPO-Foundation/webpagetest)
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
