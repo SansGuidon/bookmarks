@@ -6690,6 +6690,9 @@ rpm --rebuilddb
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 * [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
 * [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
+* [Noé Baylac Jacqué aka Deluvi](https://deluvi.com/blog/webmention/) - (2018) Implementing Webmention on a static website | An explanation of Webmentions and an implementation on Hugo
+> Webmention is a web standard that allows having interactions in a decentralized way. 
+> The big advantage of Webmention is that the protocol is very simple: it only relies on an HTTP POST request.
 
 > Checklists
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
