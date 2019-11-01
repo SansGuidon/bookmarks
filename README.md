@@ -6458,7 +6458,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * [Stef Walter](http://stef.thewalter.net/git-coverage-useful-code-coverage.html) - (2012) git-coverage: Useful code coverage
 * [PaulWaltersDev/FreeLearningResourcesForSoftwareTesters](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - free Online Learning Resources for New and Experienced Software Testers.
-* [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+* [Front-End-Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production
 * [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
 * [James Routley](https://routley.io/tech/2017/07/20/golang-test-fixtures.html) - (2017) Simplify Golang test fixtures with this one weird trick
 * [Nemanja Mijailovic](https://mijailovic.net/2017/07/29/go-fuzz/) - (2017) Going down the rabbit hole with go-fuzz | testing techniques
@@ -6593,7 +6593,7 @@ rpm --rebuilddb
 * [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y
 * [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
-* [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+* [Front-End-Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production
 * [Connor John Gettel](https://medium.com/@connorgettel/masters-degree-final-major-project-part-2-theoretical-monzo-design-improvements-and-new-concepts-e6c652a1e3e5) - (2017) Master’s Degree Final Major Project: Theoretical Design Improvements and new Concepts — Monzo.
 * [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - A curated list of good design and experience principles.
 * [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
@@ -6653,20 +6653,15 @@ rpm --rebuilddb
 * [A List Apart](https://alistapart.com/) - explores the design, development, and meaning of web content, with a special focus on web standards and best practices.
 * [r/webdev](https://www.reddit.com/r/webdev/) - web development resources & news
 * [Christian Haschek](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html) - (2017) How to defend your website with ZIP bombs
-* [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
-* [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
 * [Daniel Miessler](https://danielmiessler.com/study/url-uri/) - The Difference Between URLs and URIs
 * [Daniel Miessler](https://danielmiessler.com/study/dns/) - A DNS Primer
 * [Daniel Miessler](https://danielmiessler.com/study/encoding/) - An Encoding Primer
 * [Daniel Miessler](https://danielmiessler.com/study/http/) - A Security-focused HTTP Primer
-* [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
 * [Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - (2011) How Browsers Work: Behind the scenes of modern web browsers
 * [Kevin Marks](https://www.wired.com/2016/10/how-the-web-became-unreadable/) - (2016) How the Web Became Unreadable
 * [gulpjs/gulp](https://github.com/gulpjs/gulp) - Gulp: The streaming build system
 * [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 * [Maxime Thirouin](https://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - :fr: [FR] (2013) Automatisez votre workflow front-end
-* [Opquast](https://checklists.opquast.com/oqs-v3/) - [FR] :fr: reference check-list for web quality
-* [Opquast](https://checklists.opquast.com/fr/) - [FR] :fr: several check-lists for performance / SEO related to web & mobile development
 * [Clay](http://fvisser.nl/clay/) - is a CSS preprocessor like LESS and Sass, but implemented as an embedded domain specific language (EDSL) in Haskell.
 * [CSS Diner](http://flukeout.github.io/) - a game to improve your knowledge of CSS selectors
 * [SEO'Brien](https://seobrien.com/writing-search-optimized-blog-posts) - (2011) Writing Search Optimized Blog Posts
@@ -6675,19 +6670,12 @@ rpm --rebuilddb
 * [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources.
 * [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
-* [Front-End-Checklist](http://frontendchecklist.com/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
-* [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 * [weightshift/The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - simple one-page website that presents your portrait and some description text in a nicely-formatted manner.
 * [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
 * [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
-* [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
 * [Nicolas Hoffmann, Elie Sloïm](https://openweb.eu.org/articles/le-cout-de-la-non-qualite-sur-le-web) - (2014) :fr: [FR] Le coût de la non-qualité sur le Web : 50%
 * [Karolina Szczur](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3) - (2017) The State of the Web | A guide to impactful performance improvements
-* [Vitaly Friedman](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/#front-end-performance-checklist-2017) - (2018) Front-End Performance Checklist 2018
 * [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
-* [The Front-End Checklist](https://frontendchecklist.io/) - perfect for modern websites and meticulous developers!
-* [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
-* [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps
 * [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
 * [Flavio Copes](https://flaviocopes.com/chrome-devtools-tips/) - (2018) A list of cool Chrome DevTools Tips and Tricks
 * [Amanda Sopkin](https://dev.to/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om) - (2018) Fantastic Personal Websites and How to Make Them | tips for good portfolio
@@ -6700,6 +6688,17 @@ rpm --rebuilddb
 * [illustrated.dev](https://illustrated.dev/) - Web development, illustrated.
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 * [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
+
+> Checklists
+* [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
+* [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
+* [Opquast](https://checklists.opquast.com/oqs-v3/) - [FR] :fr: reference check-list for web quality
+* [Opquast](https://checklists.opquast.com/fr/) - [FR] :fr: several check-lists for performance / SEO related to web & mobile development
+* [Front-End-Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production
+* [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
+* [Vitaly Friedman](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/#front-end-performance-checklist-2017) - (2018) Front-End Performance Checklist 2018
+* [The Front-End Checklist](https://frontendchecklist.io/) - perfect for modern websites and meticulous developers!
+* [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 
 > Tools
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
@@ -6735,6 +6734,9 @@ rpm --rebuilddb
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
 * [EcoIndex](http://www.ecoindex.fr/) - :fr: [FR] L’objectif d’EcoIndex est d’aider le plus grand nombre à prendre conscience de l’impact environnemental de l’internet et de proposer des solutions concrètes pour réduire cet impact. EcoIndex vous propose donc une analyse automatique de premier niveau pour vous aider à identifier rapidement et gratuitement des sites web / services en ligne à ausculter en priorité.
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. 
+* [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
+* [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
+* [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
