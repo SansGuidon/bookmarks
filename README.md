@@ -5681,6 +5681,8 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Lenny Zeltser](https://zeltser.com/suck-at-security-cheat-sheet/) - (2015) How to Suck at Information Security – A Cheat Sheet
 * [mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) - A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 * [Frank Force](http://frankforce.com/?p=5826) - (2019) I’m only making business card sized games now
+* [Coding is Love](https://dev.to/codingislove/sarcastic-web-services-and-websites-that-actually-exist--4e62) - (2018) Sarcastic web services and websites that actually exist 😂
+* [The Best Motherfucking Website](https://thebestmotherfuckingwebsite.co/) - Your motherfucking websites got nothing compared to this beauty. **And some others :** [This is still a motherfucking website.](http://bettermotherfuckingwebsite.com/), [This is the best motherfucking website.](https://bestmotherfucking.website/), [This is the final motherfucking website.](https://perfectmotherfuckingwebsite.com/), [This is the best motherfucking website.](https://thebestmotherfucking.website/)
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
