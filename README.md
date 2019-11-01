@@ -2563,6 +2563,7 @@ See also [Infrastructure](#infrastructure)
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
 * [EcoIndex](http://www.ecoindex.fr/) - :fr: [FR] L’objectif d’EcoIndex est d’aider le plus grand nombre à prendre conscience de l’impact environnemental de l’internet et de proposer des solutions concrètes pour réduire cet impact. EcoIndex vous propose donc une analyse automatique de premier niveau pour vous aider à identifier rapidement et gratuitement des sites web / services en ligne à ausculter en priorité.
+* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. 
 
 # Gaming :video_game:
 > News
@@ -6734,6 +6735,7 @@ rpm --rebuilddb
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
 * [EcoIndex](http://www.ecoindex.fr/) - :fr: [FR] L’objectif d’EcoIndex est d’aider le plus grand nombre à prendre conscience de l’impact environnemental de l’internet et de proposer des solutions concrètes pour réduire cet impact. EcoIndex vous propose donc une analyse automatique de premier niveau pour vous aider à identifier rapidement et gratuitement des sites web / services en ligne à ausculter en priorité.
+* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. 
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
