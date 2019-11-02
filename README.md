@@ -861,6 +861,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
 * [Jason Fried](https://m.signalvnoise.com/status-meetings-are-the-scourge/) - (2016) Status meetings are the scourge.
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
+* [Gergely Orosz](https://blog.pragmaticengineer.com/talk-first-code-later/) - (2019) Talk First, Code Later
+> the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
+> Everyone would have saved so much time, if only we communicated first and wrote code only after.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -889,6 +892,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Chris Mague](http://blog.mague.com/?p=704) - (2017) Things you need to know about giving tech talks
 * [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
+* [Gergely Orosz](https://blog.pragmaticengineer.com/talk-first-code-later/) - (2019) Talk First, Code Later
+> the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
+> Everyone would have saved so much time, if only we communicated first and wrote code only after.
 
 ## Documentation
 > Learn
@@ -4494,6 +4500,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
 * [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
 * [Dave Rupert](https://daverupert.com/2018/04/eponymous-laws-of-tech) - (2018) The Eponymous Laws of Tech | A compendium of tech-related laws, fallacies, and other wisdom
+* [Gergely Orosz](https://blog.pragmaticengineer.com/talk-first-code-later/) - (2019) Talk First, Code Later
+> the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
+> Everyone would have saved so much time, if only we communicated first and wrote code only after.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4573,6 +4582,9 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
+* [Gergely Orosz](https://blog.pragmaticengineer.com/talk-first-code-later/) - (2019) Talk First, Code Later
+> the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
+> Everyone would have saved so much time, if only we communicated first and wrote code only after.
 
 ## Clean code
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
