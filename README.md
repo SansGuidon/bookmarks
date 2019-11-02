@@ -105,6 +105,8 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Privacy tools](#privacy-tools)
 * [Procrastinating :pig2: :dog2:](#procrastinating-pig2-dog2)
 * [Productivity :fast_forward:](#productivity-fast_forward)
+  * [Productivity tips](#productivity-tips)
+  * [Productivity tools](#productivity-tools)
 * [Programming](#programming)
   * [API](#api)
   * [Assembly](#assembly)
@@ -3779,7 +3781,90 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Hacker News](https://hn.algolia.com/?query=productivity&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Productivity news
 * [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - [Podcast] Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
 
-> Tips
+> Learn
+* [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
+* [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
+* [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
+* :star: [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
+* [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - (2013) 7 Shortcuts You Will Regret Taking in Life
+* [Daniel Miessler](https://danielmiessler.com/blog/how-to-decide-who-to-friend-on-facebook-linkedin-and-twitter/) - (2010) How To Decide Who To Friend on Facebook, LinkedIn, and Twitter
+* [Daniel Miessler](https://danielmiessler.com/projects/concepts/) - Lot of concepts summarized by Daniel Miessler
+* [Lecture Hunt](http://lecturehunt.com/) - find and share best learning material online (How to's, courses, ...)
+* [Thoughtbot's playbook](https://thoughtbot.com/playbook) - a guide explaining how Thoughtbot build products and run their company
+* [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
+* [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
+* [J. B. Rainsberger](http://blog.jbrains.ca/permalink/productivity-for-the-depressed) - Productivity for the Depressed
+* [Socratease](https://www.socratease.in/) - A Joyful, Engaging Way to Learn New Things : black holes, quantum mechanics, bitcoins, ...
+* [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
+* [David McRaney](https://youarenotsosmart.com/2010/10/27/procrastination/) - (2010) Procrastination
+* [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
+* [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
+* [Maura Thomas](https://hbr.org/2017/02/your-teams-time-management-problem-might-be-a-focus-problem) - (2017) Your Team’s Time Management Problem Might Be a Focus Problem
+* [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
+* [Logan Mayville](https://www.hellosign.com/blog/busy-kills-productivity) - (2018) How Being Busy Kills Productivity
+* [Jory MacKay](https://blog.rescuetime.com/225-million-hours-productivity/) - (2018) Productivity in 2017: What we learned from analyzing 225 million hours of work time
+* [Nikola Tore](http://blog.hackerearth.com/employee-wellness-affects-productivity-four-fundamental-pillars) - (2017) How employee wellness affects productivity: four fundamental pillars
+* [Nikola Tore](http://blog.hackerearth.com/job-hopping-millennials-hoppers-better-hire) - (2017) Job-hopping makes millennials better hires
+* :star: [**Gregg Caines**](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - (2014) In Defence of the Office
+* [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
+* [Matt Cutts](http://highscalability.com/blog/2015/2/4/matt-cutts-10-lessons-learned-from-the-early-days-of-google.html) - (2015) Matt Cutts: 10 Lessons Learned From The Early Days Of Google
+* [Farnam Street](https://www.fs.blog/2017/08/amateurs-professionals/) - (2017) The Difference Between Amateurs and Professionals
+* [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
+* [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
+* [Kunal Shandilya](https://byrslf.co/what-happens-when-you-stop-trying-a0c26d93c95d) - (2017) What Happens When You Stop Trying?
+* [Mehdi Cherti](http://mehdi.cherti.name/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html) - (2017) Improving my productivity using Pomodoro: takeaways after 2 years of practice
+* [Vincent Bevins](https://theoutline.com/post/2595/productivity-is-dangerous) - (2017) Productivity is dangerous | You know who else was productive?
+* [Posture Desk](https://posturedesk.shop/blogs/posture-blog/burning-calories-standing-up-vs-sitting) - (2017) How many hours a day do you think we sit? Don't feel like sitting? We have a desk for that view
+* [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
+* [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
+* [Srinivas Rao](https://medium.com/the-mission/professionals-vs-amateurs-6ef9ec64cbc3) - (2018) Professionals vs Amateurs
+> When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
+* [The XY problem](http://xyproblem.info/) - (2014) is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
+* [Matthew Yglesias](https://www.vox.com/2014/8/5/5970767/case-against-time-zones) - (2014) The case against time zones: They're impractical & outdated
+* [Mark Johnson](https://hackernoon.com/how-i-shipped-six-side-projects-in-2017-3dde6c77adbb) - (2018) How I Launched Six Side Projects in 2017
+* [Gary Klein](https://hbr.org/2007/09/performing-a-project-premortem) - (2007) Performing a Project Premortem
+* [Dr. Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
+* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-dark-side-of-goal-setting.php) - (2011) The Dark Side of Goal-Setting | when we goals are too many, too specific or too short-terms
+* [Matt Stauffer](https://mattstauffer.com/blog/why-i-wrote-my-book-with-oreilly/) - (2016) Why I wrote my book with O'Reilly
+* [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
+* [Blake Gossard](https://medium.com/@BlakeGossard/the-importance-of-getting-distracted-cd2511ad5b74) - (2018) The Importance of Getting Distracted | The pervasive message of “stay focused for success” is wrong
+> curiosity and broad inquiry are necessarily incompatible with focus on specific goals.
+* [John Mashni](https://medium.com/personal-growth/if-you-dont-eliminate-this-habit-you-will-never-grow-1193bf26e32a) - (2018) If You Don’t Eliminate This Habit, You Will Never Grow  | I had to stop doing this to finally start being consistent.
+* [Isaac Park](https://www.pathosethos.com/2017/09/28/founder-problem-youre-the-reason-your-startup-doesnt-grow/) - (2017) Founder Problem: I’m The Reason My Startup Doesn’t Grow
+* [Joshua Kerievsky](https://www.linkedin.com/pulse/day-we-stopped-sprinting-joshua-kerievsky/) - (2017) The Day We Stopped Sprinting
+> Our new approach felt more natural and we became more responsive to our customer's needs. We spent less time trying to predict how much work we could get done in a rigid time box, and instead allowed ourselves to work on items that ranged from a few hours to a few days.
+* [Satyandra Vadavalli](https://vnvsatyendra.wordpress.com/2012/04/06/paralysis-by-analysis/) - (2012) Paralysis by Analysis
+* [Libby Sander](http://www.bbc.com/capital/story/20180718-open-offices-make-people-talk-less-and-email-more) - (2018) Open offices make people talk less and email more
+* [Morgan Housel](https://www.collaborativefund.com/blog/making-history-by-doing-nothing/) - (2018) Making History By Doing Nothing
+* [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
+* [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
+* [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without
+* [Nils Salzgeber](https://www.njlifehacks.com/work-less-be-more-productive/) - (2017) The Productivity Paradox: How Working Less Will Make You More Productive
+> 1. Work Less, Sleep More
+> 2. Work Less, Meditate More
+> 3. Work Less, Nap More
+> 4. Work Less, Exercise More
+> 5. Work Less, Take More Breaks
+* [Farnam Street](https://fs.blog/2015/08/william-deresiewicz-learn-how-to-think/) - (2015) Learning How to Think: The Skill No One Taught You
+> Multitasking, in short, is not only not thinking, it impairs your ability to think. Thinking means concentrating on one thing long enough to develop an idea about it.
+> Developing your own ideas. In short, thinking for yourself. You simply cannot do that in bursts of 20 seconds at a time, constantly interrupted by Facebook messages or Twitter tweets, or fiddling with your iPod, or watching something on YouTube.
+> It’s only by concentrating, sticking to the question, being patient, letting all the parts of my mind come into play, that I arrive at an original idea.
+* [John Allspaw](https://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/) - (2017) Taking Human Performance Seriously
+> A proper treatment of the human element requires the human to be the focus
+* [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
+* [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
+* [Abbreviations.com](https://www.abbreviations.com/) - The Web's largest and most authoritative acronyms and abbreviations resource
+* [Alan Franzoni](https://www.franzoni.eu/productivity-the-office-and-an-open-floor-plan/) - (2018) Productivity, the office, and the open floor plan
+* [James Somers](http://jsomers.net/blog/speed-matters) - (2015) Speed matters: Why working quickly is more important than it seems
+> * the only way to learn to do something fast is by doing it lots of times.
+> * because you blog slowly, you’re liable to continue blogging slowly—simply because the only way to learn to do something fast is by doing it lots of times.
+* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
+> You've surely read plenty about how simple is good, but what's wrong with easy?
+* [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+* [Jason Fried](https://m.signalvnoise.com/status-meetings-are-the-scourge/) - (2016) Status meetings are the scourge.
+* [Fadeke Adegbuyi](https://doist.com/blog/complete-guide-to-deep-work/) - (2019) Deep Work: The Complete Guide (including a step-by-step checklist)
+
+## Productivity tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/the-two-minute-rule) - The Two-Minute Rule / When You’re Buried in Email
@@ -3970,90 +4055,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 > _If you feel in control of your time, you’re significantly less likely to feel time pressure than if your time feels out of your control— even if you have the exact same amount of things to do._
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
 
-> Learn
-* [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
-* [Wait But Why](http://waitbutwhy.com/) - popular long form blog posts by two guys, about everything
-* [Standuply](https://standuply.com/slack-communities) - big list of Slack communities
-* :star: [**Self Improvement on SlideShare**](https://www.slideshare.net/featured/category/self-improvement) - Self Improvement presentations
-* [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - (2013) 7 Shortcuts You Will Regret Taking in Life
-* [Daniel Miessler](https://danielmiessler.com/blog/how-to-decide-who-to-friend-on-facebook-linkedin-and-twitter/) - (2010) How To Decide Who To Friend on Facebook, LinkedIn, and Twitter
-* [Daniel Miessler](https://danielmiessler.com/projects/concepts/) - Lot of concepts summarized by Daniel Miessler
-* [Lecture Hunt](http://lecturehunt.com/) - find and share best learning material online (How to's, courses, ...)
-* [Thoughtbot's playbook](https://thoughtbot.com/playbook) - a guide explaining how Thoughtbot build products and run their company
-* [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
-* [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
-* [J. B. Rainsberger](http://blog.jbrains.ca/permalink/productivity-for-the-depressed) - Productivity for the Depressed
-* [Socratease](https://www.socratease.in/) - A Joyful, Engaging Way to Learn New Things : black holes, quantum mechanics, bitcoins, ...
-* [Joël Spolsky](https://www.joelonsoftware.com/2000/04/26/designing-for-people-who-have-better-things-to-do-with-their-lives/) - (2000) Designing for People Who Have Better Things To Do With Their Lives
-* [David McRaney](https://youarenotsosmart.com/2010/10/27/procrastination/) - (2010) Procrastination
-* [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - (2013) Survivorship Bias
-* [Michael Lynch](https://www.indiehackers.com/@mtlynch/459e942096) - (2017) The Perils of Outsourcing Your MVP
-* [Maura Thomas](https://hbr.org/2017/02/your-teams-time-management-problem-might-be-a-focus-problem) - (2017) Your Team’s Time Management Problem Might Be a Focus Problem
-* [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
-* [Logan Mayville](https://www.hellosign.com/blog/busy-kills-productivity) - (2018) How Being Busy Kills Productivity
-* [Jory MacKay](https://blog.rescuetime.com/225-million-hours-productivity/) - (2018) Productivity in 2017: What we learned from analyzing 225 million hours of work time
-* [Nikola Tore](http://blog.hackerearth.com/employee-wellness-affects-productivity-four-fundamental-pillars) - (2017) How employee wellness affects productivity: four fundamental pillars
-* [Nikola Tore](http://blog.hackerearth.com/job-hopping-millennials-hoppers-better-hire) - (2017) Job-hopping makes millennials better hires
-* :star: [**Gregg Caines**](http://caines.ca/blog/2014/01/11/in-defence-of-the-office/) - (2014) In Defence of the Office
-* [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
-* [Matt Cutts](http://highscalability.com/blog/2015/2/4/matt-cutts-10-lessons-learned-from-the-early-days-of-google.html) - (2015) Matt Cutts: 10 Lessons Learned From The Early Days Of Google
-* [Farnam Street](https://www.fs.blog/2017/08/amateurs-professionals/) - (2017) The Difference Between Amateurs and Professionals
-* [Morgan Housel](http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/) - (2017) Solving Hard Problems With Simple Ideas
-* [Morgan Housel](http://www.collaborativefund.com/blog/the-full-reset/) - (2017) The Full Reset | understand the power of starting clean
-* [Kunal Shandilya](https://byrslf.co/what-happens-when-you-stop-trying-a0c26d93c95d) - (2017) What Happens When You Stop Trying?
-* [Mehdi Cherti](http://mehdi.cherti.name/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html) - (2017) Improving my productivity using Pomodoro: takeaways after 2 years of practice
-* [Vincent Bevins](https://theoutline.com/post/2595/productivity-is-dangerous) - (2017) Productivity is dangerous | You know who else was productive?
-* [Posture Desk](https://posturedesk.shop/blogs/posture-blog/burning-calories-standing-up-vs-sitting) - (2017) How many hours a day do you think we sit? Don't feel like sitting? We have a desk for that view
-* [Natalie Mendes](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace) - (2017) How do emotions affect productivity? [New research]
-* [Scott Santens](https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income/) - (2017) Why we should all have a basic income
-* [Srinivas Rao](https://medium.com/the-mission/professionals-vs-amateurs-6ef9ec64cbc3) - (2018) Professionals vs Amateurs
-> When we are amateurs our life was about drama, denial, and distraction — Steven Pressfield
-* [The XY problem](http://xyproblem.info/) - (2014) is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
-* [Matthew Yglesias](https://www.vox.com/2014/8/5/5970767/case-against-time-zones) - (2014) The case against time zones: They're impractical & outdated
-* [Mark Johnson](https://hackernoon.com/how-i-shipped-six-side-projects-in-2017-3dde6c77adbb) - (2018) How I Launched Six Side Projects in 2017
-* [Gary Klein](https://hbr.org/2007/09/performing-a-project-premortem) - (2007) Performing a Project Premortem
-* [Dr. Travis Bradberry](https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/#3e954c2f56ee) - (2014) Multitasking Damages Your Brain And Career, New Studies Suggest
-* [Dr. Jeremy Dean](https://www.spring.org.uk/2011/03/the-dark-side-of-goal-setting.php) - (2011) The Dark Side of Goal-Setting | when we goals are too many, too specific or too short-terms
-* [Matt Stauffer](https://mattstauffer.com/blog/why-i-wrote-my-book-with-oreilly/) - (2016) Why I wrote my book with O'Reilly
-* [Quora](https://www.quora.com/What-is-publishing-a-book-with-OReilly-Media-like) - (2014) What is publishing a book with O'Reilly Media like?
-* [Blake Gossard](https://medium.com/@BlakeGossard/the-importance-of-getting-distracted-cd2511ad5b74) - (2018) The Importance of Getting Distracted | The pervasive message of “stay focused for success” is wrong
-> curiosity and broad inquiry are necessarily incompatible with focus on specific goals.
-* [John Mashni](https://medium.com/personal-growth/if-you-dont-eliminate-this-habit-you-will-never-grow-1193bf26e32a) - (2018) If You Don’t Eliminate This Habit, You Will Never Grow  | I had to stop doing this to finally start being consistent.
-* [Isaac Park](https://www.pathosethos.com/2017/09/28/founder-problem-youre-the-reason-your-startup-doesnt-grow/) - (2017) Founder Problem: I’m The Reason My Startup Doesn’t Grow
-* [Joshua Kerievsky](https://www.linkedin.com/pulse/day-we-stopped-sprinting-joshua-kerievsky/) - (2017) The Day We Stopped Sprinting
-> Our new approach felt more natural and we became more responsive to our customer's needs. We spent less time trying to predict how much work we could get done in a rigid time box, and instead allowed ourselves to work on items that ranged from a few hours to a few days.
-* [Satyandra Vadavalli](https://vnvsatyendra.wordpress.com/2012/04/06/paralysis-by-analysis/) - (2012) Paralysis by Analysis
-* [Libby Sander](http://www.bbc.com/capital/story/20180718-open-offices-make-people-talk-less-and-email-more) - (2018) Open offices make people talk less and email more
-* [Morgan Housel](https://www.collaborativefund.com/blog/making-history-by-doing-nothing/) - (2018) Making History By Doing Nothing
-* [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
-* [Tim Denning](https://medium.com/the-mission/why-youre-not-happy-with-your-career-614ee1ab3f5f) - (2018) Why You’re Not Happy With Your Career
-* [Sarah Goff-Dupont](https://www.atlassian.com/blog/teamwork/types-of-meetings) - (2018) 6 types of meetings that are actually worthwhile and meetings you can do without
-* [Nils Salzgeber](https://www.njlifehacks.com/work-less-be-more-productive/) - (2017) The Productivity Paradox: How Working Less Will Make You More Productive
-> 1. Work Less, Sleep More
-> 2. Work Less, Meditate More
-> 3. Work Less, Nap More
-> 4. Work Less, Exercise More
-> 5. Work Less, Take More Breaks
-* [Farnam Street](https://fs.blog/2015/08/william-deresiewicz-learn-how-to-think/) - (2015) Learning How to Think: The Skill No One Taught You
-> Multitasking, in short, is not only not thinking, it impairs your ability to think. Thinking means concentrating on one thing long enough to develop an idea about it.
-> Developing your own ideas. In short, thinking for yourself. You simply cannot do that in bursts of 20 seconds at a time, constantly interrupted by Facebook messages or Twitter tweets, or fiddling with your iPod, or watching something on YouTube.
-> It’s only by concentrating, sticking to the question, being patient, letting all the parts of my mind come into play, that I arrive at an original idea.
-* [John Allspaw](https://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/) - (2017) Taking Human Performance Seriously
-> A proper treatment of the human element requires the human to be the focus
-* [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
-* [Patrick Louis](https://venam.nixers.net/blog/psychology/2019/03/01/internet-time.html) - (2019) Time On The Internet
-* [Abbreviations.com](https://www.abbreviations.com/) - The Web's largest and most authoritative acronyms and abbreviations resource
-* [Alan Franzoni](https://www.franzoni.eu/productivity-the-office-and-an-open-floor-plan/) - (2018) Productivity, the office, and the open floor plan
-* [James Somers](http://jsomers.net/blog/speed-matters) - (2015) Speed matters: Why working quickly is more important than it seems
-> * the only way to learn to do something fast is by doing it lots of times.
-> * because you blog slowly, you’re liable to continue blogging slowly—simply because the only way to learn to do something fast is by doing it lots of times.
-* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
-> You've surely read plenty about how simple is good, but what's wrong with easy?
-* [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-* [Jason Fried](https://m.signalvnoise.com/status-meetings-are-the-scourge/) - (2016) Status meetings are the scourge.
-* [Fadeke Adegbuyi](https://doist.com/blog/complete-guide-to-deep-work/) - (2019) Deep Work: The Complete Guide (including a step-by-step checklist)
-
-> Tools
+## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
