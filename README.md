@@ -867,6 +867,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Gergely Orosz](https://blog.pragmaticengineer.com/talk-first-code-later/) - (2019) Talk First, Code Later
 > the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
+* [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -898,6 +899,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Gergely Orosz](https://blog.pragmaticengineer.com/talk-first-code-later/) - (2019) Talk First, Code Later
 > the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
+* [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
 
 ## Documentation
 > Learn
@@ -3868,6 +3870,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 * [Jason Fried](https://m.signalvnoise.com/status-meetings-are-the-scourge/) - (2016) Status meetings are the scourge.
 * [Fadeke Adegbuyi](https://doist.com/blog/complete-guide-to-deep-work/) - (2019) Deep Work: The Complete Guide (including a step-by-step checklist)
+* [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
 
 ## Productivity tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
