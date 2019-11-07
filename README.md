@@ -298,6 +298,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Gilles Scokart](https://fr.slideshare.net/gscokart/stop-testing-start-designing) - [Slides] (2016) Stop testing start designing
 * [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
 * [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
+* [Sane software manifesto](https://sane-software.globalcode.info/v_0/) - While very opinionated, it's an interesting list of practices for software developers, about safe code, collaboration, reproducible builds, modularity, architecture, testability, etc.
 
 # Art :art:
 > News
@@ -4518,6 +4519,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Gergely Orosz](https://blog.pragmaticengineer.com/talk-first-code-later/) - (2019) Talk First, Code Later
 > the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
+* [Sane software manifesto](https://sane-software.globalcode.info/v_0/) - While very opinionated, it's an interesting list of practices for software developers, about safe code, collaboration, reproducible builds, modularity, architecture, testability, etc.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
