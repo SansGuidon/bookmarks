@@ -4063,6 +4063,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 > 3. It’s not a productivity problem, it’s an emotional one. 
 > _If you feel in control of your time, you’re significantly less likely to feel time pressure than if your time feels out of your control— even if you have the exact same amount of things to do._
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
+* [Anne-Laure Le Cunff](https://nesslabs.com/time-management) - (2019) Time management: do the things you actually want to do
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
