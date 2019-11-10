@@ -595,6 +595,79 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [David Ernst](https://blog.liquid.us/2016/09/21/what-is-liquid-democracy/) - (2016) What is Liquid Democracy?
 * [Danny Crichton](https://techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/) - (2018) Liquid democracy uses blockchain to fix politics, and now you can vote for it
 
+# CLI Tools
+See also [Shell scripting](#shell-scripting)
+* [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
+* [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
+* [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira, more complete than jira-node-cli
+* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-) 
+ * [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/cli_reference/basic_cli_operations.html) - Developer CLI Operations
+* [Christophe Porteneuve](https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df) - 30 Git CLI options you should know about
+* [Alex Ellis](https://blog.alexellis.io/5-keys-to-a-killer-go-cli/) - 5 keys to create a killer CLI in Go
+* [Remy Sharp](https://remysharp.com/2018/08/23/cli-improved) - (2018) CLI: improved | presentation of several powerful CLI tools
+* [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - list of Terminal frameworks, plugins & resources for CLI lovers
+* [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). Discovered via [Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
+* [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
+* [Jeroen Janssens](http://datascienceatthecommandline.com/) - Data Science at the Command Line
+* [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
+* [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know)
+> Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
+* [transfer.sh](https://transfer.sh) - Easy file sharing from the command line
+* [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
+* :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
+* [TuxRadar](http://www.tuxradar.com/content/command-line-tricks-smart-geeks) - Command line tricks for smart geeks
+* [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps
+* [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools
+* [Seco Max](https://dzone.com/articles/most-useful-linux-command-line-tricks) - (2017) Most Useful Linux Command Line Tricks
+* [Guillermo Garron](https://www.garron.me/en/linux/set-time-date-timezone-ntp-linux-shell-gnome-command-line.html) - (2012) Set Time, Date Timezone in Linux from Command Line or Gnome | Use ntp
+* [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
+* [OS X Daily](http://osxdaily.com/2011/09/26/show-package-contents-unavailable-extract-pkg-files-without-installing-them/) - (2011) Command line : Extract .pkg Files Without Installing Them
+* [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - (2013) Mount * [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - Mount & Unmount Drives from the Command Line in Mac OS X Unmount Drives from the Command Line in Mac OS X
+* [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - (2014) OS X: Creating Packages from the Command Line - Tutorial and a Makefile - Part I
+* [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
+* [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR;
+type `curl ident.me` to know your public ip
+* [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
+* [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
+* [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
+* [Donne Martin/gitsome](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
+* [Whitson Gordon](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts) - Become a Command Line Ninja With These Time-Saving Shortcuts
+* :star: [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - podcast about the people who transform technology from the command line up. Presented by Red Hat.
+* [SS64.com](https://ss64.com/bash/) - An A-Z Index of the Bash command line for Linux.
+* [Boris Huisgen](https://blog.hbis.fr) - [FR] :fr: various and interesting linux / sysadmin / devops tips & tricks with command line examples
+* :star: [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+* [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
+* [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
+* [LinuxCommand.org](http://www.linuxcommand.org/) - An excellent place to learn the command line and Bash shell scripting.
+* [Remy van Elst](https://raymii.org/s/tutorials/Encrypt_and_decrypt_files_to_public_keys_via_the_OpenSSL_Command_Line.html) - Encrypt and decrypt files to public keys via the OpenSSL Command Line
+* [Launch School](https://launchschool.com/books/) - Open Book Shelf for developers | some beginner friendly readings about programming, git, command line, etc
+* [Vitaly Belman](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019) - My favorite command-line utilities / How I stopped worrying about GUI and learned to love the terminal
+* :star: [**alexanderepstein/Bash-Snippets**](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+* [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
+* [Silver Moon](http://www.binarytides.com/linux-fun-commands/) - 20 amusing Linux commands to have fun with the terminal
+* [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+* [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator, designed for power keyboard users
+* [Pradeep Kumar](https://www.linuxtechi.com/capture-analyze-packets-tcpdump-command-linux/) - (2018) How to capture and analyze packets with tcpdump command on Linux
+* [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
+* [Markus Wein](http://nuclearsquid.com/macos-terminal-cheat-sheet/) - macOS Terminal cheat sheet
+* [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
+* [Nick Janetakis](https://nickjanetakis.com/blog/who-else-wants-to-boost-their-productivity-with-tmux) - Who Else Wants to Boost Their Terminal Productivity With tmux?
+* [Awesome-Windows/awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - cool stuffs you can do with windows terminal
+* [CMD commands](https://ss64.com/nt/) - A-Z of windows terminal commands
+* [PowerShell commands](https://ss64.com/ps/) - A-Z of windows powershell commands
+* [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know)
+> Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
+* [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
+* :star: [**sferik/t**](https://github.com/sferik/t) - A command-line power tool for Twitter
+* [jq Docs](https://stedolan.github.io/jq/manual/) - online manual for jq (a lightweight and flexible command-line JSON processor)
+* [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+* [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
+* :star: [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
+* [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
+* [Paul Heinlein](https://www.madboa.com/geek/openssl/) - OpenSSL cookbook / command-line howto
+* [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
+
 # Collaboration & Problem solving
 > News
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -950,79 +1023,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 * [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 * [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.
-
-# CLI Tools
-See also [Shell scripting](#shell-scripting)
-* [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
-* [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
-* [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira, more complete than jira-node-cli
-* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-) 
- * [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/cli_reference/basic_cli_operations.html) - Developer CLI Operations
-* [Christophe Porteneuve](https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df) - 30 Git CLI options you should know about
-* [Alex Ellis](https://blog.alexellis.io/5-keys-to-a-killer-go-cli/) - 5 keys to create a killer CLI in Go
-* [Remy Sharp](https://remysharp.com/2018/08/23/cli-improved) - (2018) CLI: improved | presentation of several powerful CLI tools
-* [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - list of Terminal frameworks, plugins & resources for CLI lovers
-* [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). Discovered via [Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
-* [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
-* [Jeroen Janssens](http://datascienceatthecommandline.com/) - Data Science at the Command Line
-* [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
-* [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know)
-> Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
-* [transfer.sh](https://transfer.sh) - Easy file sharing from the command line
-* [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
-* :star: [**Command line fu**](http://www.commandlinefu.com/commands/browse) - a place to find those command-line gems that you return to again and again.
-* [TuxRadar](http://www.tuxradar.com/content/command-line-tricks-smart-geeks) - Command line tricks for smart geeks
-* [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps
-* [Ramkumar Kuppuchamy](http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html) - (2015) Top 15 Best Unix Command Line Tools
-* [Seco Max](https://dzone.com/articles/most-useful-linux-command-line-tricks) - (2017) Most Useful Linux Command Line Tricks
-* [Guillermo Garron](https://www.garron.me/en/linux/set-time-date-timezone-ntp-linux-shell-gnome-command-line.html) - (2012) Set Time, Date Timezone in Linux from Command Line or Gnome | Use ntp
-* [John Goerzen](https://lifehacker.com/5974087/i-raised-my-kids-on-the-command-lineand-they-love-it) - (2013) I Raised My Kids On the Command Line...and They Love It
-* [OS X Daily](http://osxdaily.com/2011/09/26/show-package-contents-unavailable-extract-pkg-files-without-installing-them/) - (2011) Command line : Extract .pkg Files Without Installing Them
-* [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - (2013) Mount * [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - Mount & Unmount Drives from the Command Line in Mac OS X Unmount Drives from the Command Line in Mac OS X
-* [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - (2014) OS X: Creating Packages from the Command Line - Tutorial and a Makefile - Part I
-* [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
-* [The Goose-bearing bash shell](https://goosebearingbashshell.github.io/2016/11/12/how-to-get-your-ip-address-from-the-command-line.html) - (2016) How to get your IP address from the command line. TLDR;
-type `curl ident.me` to know your public ip
-* [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
-* [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-* [Andrew Morton](https://drewish.com/2010/03/29/using-curl-and-the-host-header-to-bypass-a-load-balancer/) - (2010) Using cURL and the host header to bypass a load balancer | command line tips & tricks
-* [Donne Martin/gitsome](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
-* [Whitson Gordon](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts) - Become a Command Line Ninja With These Time-Saving Shortcuts
-* :star: [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
-* [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - podcast about the people who transform technology from the command line up. Presented by Red Hat.
-* [SS64.com](https://ss64.com/bash/) - An A-Z Index of the Bash command line for Linux.
-* [Boris Huisgen](https://blog.hbis.fr) - [FR] :fr: various and interesting linux / sysadmin / devops tips & tricks with command line examples
-* :star: [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-* [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
-* [fish shell](http://fishshell.com/) - Finally, a command line shell for the 90s
-* [LinuxCommand.org](http://www.linuxcommand.org/) - An excellent place to learn the command line and Bash shell scripting.
-* [Remy van Elst](https://raymii.org/s/tutorials/Encrypt_and_decrypt_files_to_public_keys_via_the_OpenSSL_Command_Line.html) - Encrypt and decrypt files to public keys via the OpenSSL Command Line
-* [Launch School](https://launchschool.com/books/) - Open Book Shelf for developers | some beginner friendly readings about programming, git, command line, etc
-* [Vitaly Belman](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019) - My favorite command-line utilities / How I stopped worrying about GUI and learned to love the terminal
-* :star: [**alexanderepstein/Bash-Snippets**](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-* [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
-* [Silver Moon](http://www.binarytides.com/linux-fun-commands/) - 20 amusing Linux commands to have fun with the terminal
-* [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
-* [kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator, designed for power keyboard users
-* [Pradeep Kumar](https://www.linuxtechi.com/capture-analyze-packets-tcpdump-command-linux/) - (2018) How to capture and analyze packets with tcpdump command on Linux
-* [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
-* [Markus Wein](http://nuclearsquid.com/macos-terminal-cheat-sheet/) - macOS Terminal cheat sheet
-* [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
-* [Nick Janetakis](https://nickjanetakis.com/blog/who-else-wants-to-boost-their-productivity-with-tmux) - Who Else Wants to Boost Their Terminal Productivity With tmux?
-* [Awesome-Windows/awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - cool stuffs you can do with windows terminal
-* [CMD commands](https://ss64.com/nt/) - A-Z of windows terminal commands
-* [PowerShell commands](https://ss64.com/ps/) - A-Z of windows powershell commands
-* [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know)
-> Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
-* [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
-* :star: [**sferik/t**](https://github.com/sferik/t) - A command-line power tool for Twitter
-* [jq Docs](https://stedolan.github.io/jq/manual/) - online manual for jq (a lightweight and flexible command-line JSON processor)
-* [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-* [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
-* :star: [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
-* [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
-* [Paul Heinlein](https://www.madboa.com/geek/openssl/) - OpenSSL cookbook / command-line howto
-* [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
