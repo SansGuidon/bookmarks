@@ -1773,6 +1773,7 @@ See also [Infrastructure](#infrastructure)
 * [Docker Hub](https://hub.docker.com/_/consul/) - Docker Image for Consul, maintained by HashiCorp
 
 ## Containers
+> News
 * [Docker](http://blog.docker.com/curated/) - Docker Blog
 * [Docker Forums](https://forums.docker.com/latest) - latest topics on docker forums
 * [DEV](https://dev.to/t/docker) - Docker related articles on dev.to()
@@ -1782,19 +1783,11 @@ See also [Infrastructure](#infrastructure)
 * [Container Journal](https://containerjournal.com/) - news about containers security, ecosystem, management, etc
 * [Red Hat Blog](https://developers.redhat.com/blog/category/containers/) - containers articles
 * [Container Solutions Blog](https://container-solutions.com/blog/) - thinking, news and research at Container Solutions.
-* [Mike Simons](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
-* [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
-* [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
-* [Brian DeHamer](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - [Slides] (2015) Optimizing Docker Images
+
+> Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
-* [Csaba Palfi](https://csabapalfi.github.io/random-docker-tips/) - (2014) 24 random docker tips
-* [C.J. Scarlett aka Scarlz](http://www.tricksofthetrades.net/2016/03/14/docker-data-volumes/) - (2016) Tricks of the Trades : Docker - Data Volumes and Data Containers
 * [Deni Bertovic](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/) - Handling Permissions with Docker Volumes
 * [Docker Docs](https://docs.docker.com/engine/swarm/secrets/) - Manage sensitive data with Docker secrets
-* [tcnksm/docker-alias](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases
-* [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - (2014) Useful Docker Bash Functions And Aliases
-* [Lucas Carlson](https://www.ctl.io/developers/blog/post/15-quick-docker-tips/) - (2014) 15 Quick Docker Tips
-* [LZone](http://lzone.de/cheat-sheet/Docker) - Docker Cheat Sheet
 * [Docker Store](https://store.docker.com/search?q=source%3Dverified&source=verified&type=image) - Containers from verified source
 * [Denis Gladkikh](https://www.splunk.com/blog/2015/08/24/collecting-docker-logs-and-stats-with-splunk/) - (2015) Collecting docker logs and stats with Splunk
 * [Docker Docs](https://docs.docker.com/engine/admin/logging/splunk/) - Splunk logging driver
@@ -1805,7 +1798,6 @@ See also [Infrastructure](#infrastructure)
 * [Docker Docs](https://docs.docker.com/engine/reference/commandline/exec/) - docker exec
 * [Docker Docs](https://docs.docker.com/engine/reference/commandline/commit/#examples) - docker commit examples
 * [Flux7 Labs](http://blog.flux7.com/blogs/docker/docker-tutorial-series-part-9-10-docker-remote-api-commands-for-images) - 10 Docker Remote API Commands for Images
-* [Docker Forums](https://forums.docker.com/t/command-to-remove-all-unused-images/20/5) - Command to remove all unused images
 * [Stack Overflow](https://stackoverflow.com/questions/30604846/docker-error-no-space-left-on-device) - Docker error : no space left on device
 * [James Coyle](https://www.jamescoyle.net/how-to/1512-export-and-import-a-docker-image-between-nodes) - Export and Import a Docker Image Between Nodes
 * [rhmjs/satellite5-docker](https://github.com/rhmjs/satellite5-docker) - RHEL6 containers on a RHEL7 host registered to Satellite 5
@@ -1813,56 +1805,37 @@ See also [Infrastructure](#infrastructure)
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-US/Red_Hat_Satellite/6.1/html/User_Guide/chap-Red_Hat_Satellite-User_Guide-Working_with_Containers.html#proc-Red_Hat_Satellite-User_Guide-Creating_Containers-To_Create_a_Container) - working with containers in Red Hat Satellite
 * [Pradipta Kumar Banerjee](http://cloudgeekz.com/625/howto-create-a-docker-image-for-rhel.html) - Howto create a Docker Image for RHEL
 * [Derek Chamorro](https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/) - (2016) Common Dockerfile Mistakes
-* [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
-* [jwilder/docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller
-* [Jason Wilder](http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/) - (2014) Squashing Docker Images
-* [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-07-03-Docker-Taming-the-Beast-Part-2.html) - Docker: Taming the Beast - Part II
 * [Nicolas Schoemaeker](https://nschoe.com/articles/2016-10-12-Docker-Taming-the-Beast-Part-3.html) - Docker: Taming the Beast - Part III: Building Images
-* [Ansible Container](https://github.com/ansible/ansible-container) - a tool to build Docker images and orchestrate containers using only Ansible playbooks
 * [Evin](https://tech.napsty.com/2016/06/using-ansible-to-build-and-orchestrate-clean-docker-images.html) - (2016) Using ansible to build and orchestrate clean docker images
 * [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2017/05/13/docker-for-windows-different-modes/) - (2017) Compare Docker for Windows options
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/) - (2015) How Should I Get Application Configuration into my Docker Containers?
-* [Neil Batlivala](https://www.delphix.com/blog/data-virtualization/why-docker-not-enough) - Why Docker Is Not Enough. **Related** :  [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira) - Docker build for Atlassian Jira
+* [Neil Batlivala](https://www.delphix.com/blog/data-virtualization/why-docker-not-enough) - Why Docker Is Not Enough. **See also** : [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira) - Docker build for Atlassian Jira
 * [Martin Rusev](https://web.archive.org/web/20170118114809/https://www.amon.cx/blog/docker-in-production-for-the-average-devops/) - (2015) Docker in production for the average DevOps
 * [Nitin Agarwal](https://medium.com/@nagarwal/docker-containers-filesystem-demystified-b6ed8112a04a) - Docker Container’s Filesystem Demystified
 * [Nitin Agarwal](https://medium.com/@nagarwal/why-use-docker-for-development-f3d1d1b61b05) - Why use Docker for Development
 * [Nitin Agarwal](https://medium.com/@nagarwal/understanding-the-docker-internals-7ccb052ce9fe) - Understanding the Docker Internals
 * [Nitin Agarwal](https://medium.com/@nagarwal/lifecycle-of-docker-container-d2da9f85959) - Lifecycle of Docker Container
 * [Nitin Agarwal](https://medium.com/@nagarwal/docker-usecases-3b62f4d68bc4) - Docker Usecases
-* [Nitin Agarwal](https://medium.com/@nagarwal/best-practices-for-working-with-dockerfiles-fb2d22b78186) - Best Practices for working with Dockerfiles
 * [Gianluca Borello](https://sysdig.com/blog/container-isolation-gone-wrong/) - Container isolation gone wrong
 * [Stephane Manciot](https://www.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker) - [FR] :fr: DevOps avec Ansible et Docker
 * [Thomas Graf](https://www.slideshare.net/ThomasGraf5/dockercon-2017-cilium-network-and-application-security-with-bpf-and-xdp) - DockerCon 2017 - Cilium - Network and Application Security with BPF and XDP
 * [Brendan D. Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
 * [Brendan D. Gregg](http://www.brendangregg.com/blog/2017-05-15/container-performance-analysis-dockercon-2017.html) - [Video] Container Performance Analysis at DockerCon 2017 + [Slides](https://www.slideshare.net/brendangregg/container-performance-analysis)
-* [Julien Bisconti](https://veggiemonk.github.io/awesome-docker/) - Awesome-docker : A curated list of Docker resources and projects
-* [Alex Hanson](https://dev.to/ahansondev/lessons-learned-with-docker) - Lessons Learned with Docker
 * [Per-Gustaf Stenberg](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8778168&fileOId=8778169) [PDF] Master's thesis: Container-based Continuous Delivery for Clusters, interesting for some parts
-* [Faheetah](https://gist.github.com/Faheetah/a2a401a01d2d56fa7d1a9d7ab0d2831b) - Docker patterns/anti-patterns : Generic Dockerfile demonstrating good practices
 * [Scott Coulton](https://speakerdeck.com/scottyc/if-its-in-a-container-its-secure-right-1) - If it’s in a container it’s secure right ?
 * [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Justyna Ilczuk](http://tinystruggles.com/2015/05/30/debugging-adventure-docker0.html) - (2015) Debugging - into rabbit hole with docker containers
-* [Sreenivas Makam](https://www.slideshare.net/SreenivasMakam/docker-networking-common-issues-and-troubleshooting-techniques) - Docker Networking - Common Issues and Troubleshooting Techniques
 * [Nathan Leclaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - (2015) Using Ansible with Docker Machine to Bootstrap Host Nodes
-* [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
-* [FROM:latest](https://www.fromlatest.io/#/) - an opinionated Dockerfile linter online
 * [Red Hat Customer Portal](https://access.redhat.com/articles/2772861) - Differences between RHEL Server and RHEL Atomic Host
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/getting_started_with_containers/using_red_hat_base_container_images_standard_and_minimal) - Using Red Hat Base Container Images (standard and minimal)
 * [Thierry Carez](http://superuser.openstack.org/articles/openstack-relevant-containers) - What makes OpenStack relevant in a container-driven world. [Related Video](https://www.youtube.com/watch?v=2QnHdncpypI)
-* :star: [**Aymen El Amri**](https://medium.com/statuscode/dockercheatsheet-9730ce03630d) - My Docker Cheat Sheet
 * [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
 * [Sysdig](https://www.sysdig.org/) - troubleshooting and visibility tool for linux, windows and mac osx with native support for containers technologies
-* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - (2017) Tips * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - (2017) Tips * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - (2017) Tips * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
 * [aelsabbahy/dgoss-examples](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples
-* [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
-* [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 * [Nathan Osman](https://blog.quickmediasolutions.com/2017/09/28/a-1-kb-docker-container.html) - (2017) A 1 KB Docker Container
 * [Julia Evans](https://jvns.ca/blog/2016/10/26/running-container-without-docker/) - (2016) Running containers without Docker
-* [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-* [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet on GitHub
-* [Aboullaite Mohammed](https://aboullaite.me/docker-hacks/) - 15 Docker Hacks & Tips!
 * [Visakh S](https://bobcares.com/blog/coreos-docker-an-easy-way-to-deploy-secure-scalable-web-application-infrastructure/) - CoreOS & Docker – An easy way to deploy secure, scalable web application infrastructure
 * [Docker Docs](https://docs.docker.com/engine/security/https/) - Docker security : running your app in production
 * [Maxfield Stewart](https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial) - Tutorial: Building With Jenkins Inside an Ephemeral Docker Container
@@ -1870,98 +1843,134 @@ See also [Infrastructure](#infrastructure)
 * [Jérôme Petazzoni](https://fr.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon) - Anatomy of a Container: Namespaces, cgroups & Some Filesystem Magic - LinuxCon
 * [Lachlan Evenson](https://medium.com/@LachlanEvenson/5-minutes-dabbling-with-docker-distributed-application-bundles-dab-60f2dca3829) - 5 minutes dabbling with Docker Distributed Application Bundles (DAB)
 * [Janakiram MSV](https://thenewstack.io/dockers-plan-dominate-enterprise-data-center/) - DockerCon 2016: Docker’s Plan to Dominate the Enterprise Data Center
-* [Josh Reichardt](https://thepracticalsysadmin.com/lint-your-dockerfiles-with-hadolint/) - Lint your Dockerfiles with Hadolint
 * [Jorge Morales Pou](http://unpoucode.blogspot.be/2015/06/docker-and-devicemappers-thinpool-in.html) - (2015) ...Docker and devicemapper's thinpool in RHEL 7
-* [Jorge Morales Pou](http://unpoucode.blogspot.be/2014/11/use-proxy-for-speeding-up-docker-images.html) - (2014) ...use a Proxy for speeding up docker images creation
 * [Jérôme Petazzoni](http://jpetazzo.github.io/2014/06/17/transparent-squid-proxy-docker/) - (2014) Setting up a transparent proxy for your Docker containers
-* [estesp/mquery](https://github.com/estesp/mquery) - mquery shows the list of architectures supported by a specific docker image. via [Dieter Reuter](https://twitter.com/Quintus23M/status/911965353806323712)
 * [Scott McCarty](http://rhelblog.redhat.com/2016/10/31/understanding-docker-latest-package/) - (2016) Container Tidbits: Understanding the docker-latest Package
-* [Dan Walsh](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/) - (2016) Secure Your Containers with this One Weird Trick
 * [Dan Walsh](http://www.projectatomic.io/blog/2015/08/why-we-dont-let-non-root-users-run-docker-in-centos-fedora-or-rhel/) - (2015) Why we don't let non-root users run Docker in CentOS, Fedora, or RHEL
-* [Ian Miell](https://zwischenzugs.com/2017/10/23/a-checklist-for-docker-in-the-enterprise-updated/) - (2017) A Checklist for Docker in the Enterprise (Updated)
 * [Ian Miell](https://zwischenzugs.com/2017/06/18/convert-any-server-to-a-docker-container-update-ii/) - (2017) Convert a Server to a Docker Container (Update II)
-* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/stopping-docker-containers-fuzzy-matching-on-name) - (2017) Stopping Docker containers via fuzzy matching on the name
-* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
-* [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - (2016) How I test Ansible configuration on 7 different OSes with Docker
 * [Scott McCarty](http://rhelblog.redhat.com/2016/03/16/container-tidbits-when-should-i-break-my-application-into-multiple-containers/) - (2016) Container Tidbits: When Should I Break My Application into Multiple Containers?
-* [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes.
-* [William Henry](http://www.projectatomic.io/blog/2017/11/getting-started-with-buildah/) - (2017) Getting Started with Buildah | how to build container images compliant with the Open Container Initiative (OCI) image specification
 * [Eric Chiang](https://ericchiang.github.io/post/containers-from-scratch/) - (2017) Containers from Scratch **Bonus** : [Talk](https://www.youtube.com/watch?v=wyqoi52k5jM)
-* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
 * [Julian Friedman](https://www.infoq.com/articles/build-a-container-golang) - (2016) Build Your Own Container Using Less than 100 Lines of Go
-* [Tony Bradley](https://containerjournal.com/2016/03/21/5-docker-best-practices-follow/) - (2016) 5 Docker Best Practices You Should Follow
 * [Container Journal](https://containerjournal.com/2017/10/17/using-cicd-containerization-drive-pre-production-costs/) - (2017) Using CI/CD Over Containerization to Drive Down Pre-Production Costs
-* [Rafael Benevides](https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/) - (2016) 10 things to avoid in docker containers
 * [Tatiana Kochedykova](https://opensource.com/business/16/4/5-reasons-use-docker-productivity) - (2016) 5 reasons to use Docker for productivity software installation
 * [George Bolo](https://linuxctl.com/2017/03/building-tiny-secure-docker-containers/) - (2017) Building Tiny Secure Docker Containers
 * [Carlos Leon](https://container-solutions.com/tagging-docker-images-the-right-way/) - (2017) Semantic versioning and Tagging Docker images the right way
 * [Erez Yaary](https://techbeacon.com/how-secure-container-lifecycle) - (2017) How to secure the container lifecycle
 * [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) - Language focused docker images, minus the operating system.
-* [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Optimize and secure your Docker containers (free and open source)
 * [Tom Donohue](https://cleverbuilder.com/articles/openshift-nexus-docker-registry/) - (2017) Deploy and use the Nexus Docker registry in OpenShift
 * [Cloud Native Computing Foundation website](https://www.cncf.io/) - Sustaining and integrating open source technologies like Kubernetes and Prometheus
-* [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - curated resources for Linux Containers
-* [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-* [CoreOS Blog](https://coreos.com/blog/vulnerability-analysis-for-containers.html) - Clair: Open Source Vulnerability Analysis for your Containers
-* [jessfraz/bane](https://github.com/jessfraz/bane) - AppArmor profile generator for Docker containers.
-* [Kim Hirokuni](https://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/) - (2014) Gotchas in Writing Dockerfile
-* [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
 * [Diogo Mónica](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/) - (2017) Why you shouldn't use ENV variables for secret data
 * [Scott McCarty](https://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/) - (2015) Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters
 * [Laurens Van Houtven](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html) - (2015) Don't expose the Docker socket (not even to a container)
-* [JP La Torre](http://caylent.com/50-useful-docker-tools/) - 50+ Useful Docker Tools
 * [Jérôme Petazzoni](https://jpetazzo.github.io/2017/10/31/devops-docker-empathy/) - (2017) DevOps, Docker, and Empathy | Just because we’re using containers doesn’t mean that we “do DevOps.”
 * [Jérôme Petazzoni](https://jpetazzo.github.io/2016/09/09/go-docker/) - (2016) Go + Docker = ♥ | tips and tricks showing how Docker can be useful when working with Go code
 * [The HFT Guy](https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/) - (2016) Docker in Production: A History of Failure
 * [Jennifer Riggins](https://thenewstack.io/six-lessons-bitnamis-transition-container-based-world/) - (2018) 6 Lessons from Bitnami’s Transition to Container-Based Ops
 * [can I haz non-privileged containers?](http://canihaznonprivilegedcontainers.info/) - Advocacy site for the uptake of using non-privileged containers.
 * [praqmatim](https://www.praqma.com/stories/ask/) - Atlassian high availability as code | Containerized Data Center on Kubernetes
-* [Chris Ward](https://blog.codeship.com/docker-guis/) - (2017) A Comparison of Docker GUIs
-* [Evan Klein](https://blog.openshift.com/container-vulnerability-management-opssight/) - (2018) Container Vulnerability Management with OpsSight
 * [David Appelbaum](https://blog.cloudpassage.com/2018/01/02/2018-docker-containers-need-secure/) - (2018) It’s 2018 and your Docker containers need to be secure
-* [Cliff Turner](https://blog.cloudpassage.com/2018/02/01/10-tips-will-ensure-containers-compliant/) - (2018) These 10 tips will ensure your containers are compliant
-* [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
-* [Andrew Lock](https://andrewlock.net/handy-docker-commands-for-local-development-part-1/) - (2018) Handy Docker commands for local development - Part 1
-* [Andrew Lock](https://andrewlock.net/handy-docker-commands-for-local-development-part-2/) - (2018) Handy Docker commands for local development - Part 2
 * [Alex Ellis](https://blog.alexellis.io/mutli-stage-docker-builds/) - (2017) Builder pattern vs. Multi-stage builds in Docker
 * [Andrew Lock](https://andrewlock.net/home-home-on-the-range-installing-kubernetes-using-rancher-2-0/) - (2017) Home, home on the range: Installing Kubernetes using Rancher 2.0
 * [Alex Ellis](https://blog.alexellis.io/openfaas-colorisebot-comes-to-kubecon/) - (2017) Colorisebot and OpenFaaS
 * [Finnian Anderson](https://finnian.io/blog/colourising-video-with-openfaas-serverless-functions/) - (2017) Colourising Video with OpenFaaS Serverless Functions
 * [Alex Ellis](https://blog.alexellis.io/you-need-to-know-kubernetes-and-swarm/) - (2017) What you need to know: Kubernetes and Swarm
-* [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 * [Docker Community](https://www.docker.com/community/docker-captains) - Docker Captains
-* [Stack Overflow](https://stackoverflow.com/a/47965269/2309958) - Docker - Cannot remove dead container | `rm: cannot remove /var/lib/docker/overlay/<hash>/merged: Device or resource busy` Solution : grep <hash> /proc/*/mountinfo then find the pid of <hash> and kill it
 * [Coda Hale](https://blog.skyliner.io/the-happy-genius-of-my-household-2f76efba535a) - (2016) The Happy Genius Of My Household | approach to containers and the economics underlying that approach.
-* [Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Best practices for writing Dockerfiles
-* [Carl Boettiger](http://www.carlboettiger.info/2014/08/29/docker-notes.html) - (2014) Docker tricks of the trade and best practices thoughts
 * [Marc Campbell](https://blog.replicated.com/refactoring-a-dockerfile-for-image-size/) - (2016) Refactoring a Dockerfile for Image Size
-* [Gerred Dillon](https://blog.replicated.com/optimizing-docker-images-with-multi-stage-builds/) - (2017) Even Smaller Docker Image Sizes
 * [Stephane Manciot](https://fr.slideshare.net/StephaneManciot/devops-avec-ansile-et-docker?) - :fr: [FR] [Slides] (2015) DevOps avec Ansible et Docker
 * :star: [**Bridget Kromhout**](https://queue.acm.org/detail.cfm?id=3185224) - (2018) Containers Will Not Fix Your Broken Culture (and Other Hard Truths) | Complex socio-technical systems are hard;
 * [James Turnbull](https://increment.com/development/an-introduction-to-local-development-with-containers/) - (2017) An introduction to local development with containers
 * [Jérôme Petazzoni](https://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go/33-Error_handling_can_be_verboseif) - [Slides] (2013) Docker and Go: why did we decide to write Docker in Go?
 * [Venkatesan Murugan](https://dzone.com/articles/top-10-benefits-you-will-get-by-using-docker) - (2018) Top 10 Benefits You Will Get by Using Docker
- * [Diogo Monica](https://www.youtube.com/watch?v=LmUw2H6JgJo) - [Video] (2016) Best practices for building secure Docker images
- * [Praveen Durairaj](https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4) - (2018) An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps
+* [Praveen Durairaj](https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4) - (2018) An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps
 * [Shahidh K Muhammed](https://blog.hasura.io/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c) - (2018) The Ultimate Guide to Writing Dockerfiles for Go Web-apps
 * [Daniel Oh](https://opensource.com/article/17/10/10-layers-container-security) - (2017) 10 layers of Linux container security
-* [aelsabbahy/goss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - dgoss is a convenience wrapper around goss that aims to bring the simplicity of goss to docker containers.
-* [Anthony Lapenna](https://www.youtube.com/watch?v=TY27Np2-qto) - [Video] (2018) Manage your Docker environments easily with Portainer, by Anthony Lapenna (founder of Portainer), at Docker Belgium Meetup
 * [Dieter Adant](https://www.youtube.com/watch?v=BZfKXo6MCRs) - [Video] (2018) How Collibra uses Docker to Encourage Teamwork, at Docker Belgium Meetup
-* [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
 * [Docker](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV) - [Videos] content from DockerCon 2017
 * [Mike Ensor](https://dev9.com/blog-posts/2017/1/containers-the-software-development-life-cycles-last-mile-ks7cp) - (2018) Containers: The Software Development Life Cycle’s Last Mile
  * [Philipp Hauer](https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/) - (2016) Version Numbers for Continuous Delivery with Maven and Docker
-* [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 * [Play with Docker Classroom](https://training.play-with-docker.com/) - The Play with Docker classroom brings you labs and tutorials that help you get hands-on experience using Docker
+
+> Best practices
+* [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
+* [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
+* [Nitin Agarwal](https://medium.com/@nagarwal/best-practices-for-working-with-dockerfiles-fb2d22b78186) - Best Practices for working with Dockerfiles
+* [Tony Bradley](https://containerjournal.com/2016/03/21/5-docker-best-practices-follow/) - (2016) 5 Docker Best Practices You Should Follow
+* [Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - Best practices for writing Dockerfiles
+* [Carl Boettiger](http://www.carlboettiger.info/2014/08/29/docker-notes.html) - (2014) Docker tricks of the trade and best practices thoughts
+ * [Diogo Monica](https://www.youtube.com/watch?v=LmUw2H6JgJo) - [Video] (2016) Best practices for building secure Docker images
 * [Hacker News](https://news.ycombinator.com/item?id=16446226) - Ask HN: What best practices for in-house Docker Registry? | examples of using labels and tags when building the docker images
 * [Théo Chamley](https://cloud.google.com/solutions/best-practices-for-operating-containers) - (2018) 7 best practices for operating containers
 * [Google Cloud](https://cloud.google.com/solutions/best-practices-for-building-containers) - (2018) Best Practices for Building Containers
-* [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
-* [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+* [Tibor Vaas and Sebastiaan van Stijn](https://www.slideshare.net/Docker/dcsf19-dockerfile-best-practices) - (2019) DCSF19 Dockerfile Best Practices
+* [Sonatype](http://blog.sonatype.com/docker-devops-new-ordinary) - KISSSSS : good approach to ensure you're successful with containers
+* [Faheetah](https://gist.github.com/Faheetah/a2a401a01d2d56fa7d1a9d7ab0d2831b) - Docker patterns/anti-patterns : Generic Dockerfile demonstrating good practices
+* [Ian Miell](https://zwischenzugs.com/2017/10/23/a-checklist-for-docker-in-the-enterprise-updated/) - (2017) A Checklist for Docker in the Enterprise (Updated)
 
 > Tips
+* [Mike Simons](https://dev.to/mikesimons/mikes-monster-list-of-docker-tips) - Mikes monster list of docker tips
+* [Carl Boettiger](http://www.carlboettiger.info/2014/08/29/docker-notes.html) - (2014) Docker tricks of the trade and best practices thoughts
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/) - (2017) Persisting state between AWS EC2 spot instances | Persisting state between AWS EC2 spot instances using Docker on an external volume
+* [tcnksm/docker-alias](https://github.com/tcnksm/docker-alias/blob/master/zshrc) - Docker aliases
+* [Brian DeHamer](https://www.slideshare.net/BrianDeHamer/optimizing-docker-images) - [Slides] (2015) Optimizing Docker Images
+* [Csaba Palfi](https://csabapalfi.github.io/random-docker-tips/) - (2014) 24 random docker tips
+* [C.J. Scarlett aka Scarlz](http://www.tricksofthetrades.net/2016/03/14/docker-data-volumes/) - (2016) Tricks of the Trades : Docker - Data Volumes and Data Containers
+* [James Turnbull](https://kartar.net/2014/03/useful-docker-bash-functions-and-aliases/) - (2014) Useful Docker Bash Functions And Aliases
+* [Lucas Carlson](https://www.ctl.io/developers/blog/post/15-quick-docker-tips/) - (2014) 15 Quick Docker Tips
+* [LZone](http://lzone.de/cheat-sheet/Docker) - Docker Cheat Sheet
+* [Docker Forums](https://forums.docker.com/t/command-to-remove-all-unused-images/20/5) - Command to remove all unused images
+* [Jason Wilder](http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/) - (2014) Squashing Docker Images
+* [Alex Hanson](https://dev.to/ahansondev/lessons-learned-with-docker) - Lessons Learned with Docker
+* [Sreenivas Makam](https://www.slideshare.net/SreenivasMakam/docker-networking-common-issues-and-troubleshooting-techniques) - Docker Networking - Common Issues and Troubleshooting Techniques
+* :star: [**Aymen El Amri**](https://medium.com/statuscode/dockercheatsheet-9730ce03630d) - My Docker Cheat Sheet
+* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss 
+* [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
+* [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet on GitHub
+* [Aboullaite Mohammed](https://aboullaite.me/docker-hacks/) - 15 Docker Hacks & Tips!
+* [Jorge Morales Pou](http://unpoucode.blogspot.be/2014/11/use-proxy-for-speeding-up-docker-images.html) - (2014) ...use a Proxy for speeding up docker images creation
+* [Dan Walsh](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/) - (2016) Secure Your Containers with this One Weird Trick
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/stopping-docker-containers-fuzzy-matching-on-name) - (2017) Stopping Docker containers via fuzzy matching on the name
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - (2016) How I test Ansible configuration on 7 different OSes with Docker
+* [Rafael Benevides](https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/) - (2016) 10 things to avoid in docker containers
+* [Kim Hirokuni](https://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/) - (2014) Gotchas in Writing Dockerfile
+* [Center for Internet Security (CIS)](https://www.cisecurity.org/cis-benchmarks/) - CIS Benchmarks: 100+ free downloadable configuration guidelines for various technology groups to safeguard systems against today’s evolving cyber threats. | Lot of useful information to harden windows/linux operating systems, secure server softwares, docker containers, etc.
+* [Cliff Turner](https://blog.cloudpassage.com/2018/02/01/10-tips-will-ensure-containers-compliant/) - (2018) These 10 tips will ensure your containers are compliant
+* [Andrew Lock](https://andrewlock.net/handy-docker-commands-for-local-development-part-1/) - (2018) Handy Docker commands for local development - Part 1
+* [Andrew Lock](https://andrewlock.net/handy-docker-commands-for-local-development-part-2/) - (2018) Handy Docker commands for local development - Part 2
+* [Stack Overflow](https://stackoverflow.com/a/47965269/2309958) - Docker - Cannot remove dead container | `rm: cannot remove /var/lib/docker/overlay/<hash>/merged: Device or resource busy` Solution : grep <hash> /proc/*/mountinfo then find the pid of <hash> and kill it
+* [Gerred Dillon](https://blog.replicated.com/optimizing-docker-images-with-multi-stage-builds/) - (2017) Even Smaller Docker Image Sizes
+* [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
+
+> Tools
+* [Julien Bisconti](https://veggiemonk.github.io/awesome-docker/) - Awesome-docker : A curated list of Docker resources and projects. **See also** [GitHub repository](https://github.com/veggiemonk/awesome-docker)
+* [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
+* [FROM:latest](https://www.fromlatest.io/#/) - an opinionated Dockerfile linter online
+* [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
+* [jwilder/docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller
+* [Ansible Container](https://github.com/ansible/ansible-container) - a tool to build Docker images and orchestrate containers using only Ansible playbooks
+* [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
+* [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+* [Josh Reichardt](https://thepracticalsysadmin.com/lint-your-dockerfiles-with-hadolint/) - Lint your Dockerfiles with Hadolint
+* [estesp/mquery](https://github.com/estesp/mquery) - mquery shows the list of architectures supported by a specific docker image. via [Dieter Reuter](https://twitter.com/Quintus23M/status/911965353806323712)
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
+* [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes.
+* [William Henry](http://www.projectatomic.io/blog/2017/11/getting-started-with-buildah/) - (2017) Getting Started with Buildah | how to build container images compliant with the Open Container Initiative (OCI) image specification
+* [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Optimize and secure your Docker containers (free and open source)
+* [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - curated resources for Linux Containers
+* [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+* [CoreOS Blog](https://coreos.com/blog/vulnerability-analysis-for-containers.html) - Clair: Open Source Vulnerability Analysis for your Containers
+* [jessfraz/bane](https://github.com/jessfraz/bane) - AppArmor profile generator for Docker containers.
+* [JP La Torre](http://caylent.com/50-useful-docker-tools/) - 50+ Useful Docker Tools
+* [Chris Ward](https://blog.codeship.com/docker-guis/) - (2017) A Comparison of Docker GUIs
+* [Evan Klein](https://blog.openshift.com/container-vulnerability-management-opssight/) - (2018) Container Vulnerability Management with OpsSight
+* [jay-johnson/owasp-jenkins](https://github.com/jay-johnson/owasp-jenkins) - test your apps vs OWASP and NIST using Jenkins, Ansible and docker
+* [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+* [aelsabbahy/goss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - dgoss is a convenience wrapper around goss that aims to bring the simplicity of goss to docker containers.
+* [Anthony Lapenna](https://www.youtube.com/watch?v=TY27Np2-qto) - [Video] (2018) Manage your Docker environments easily with Portainer, by Anthony Lapenna (founder of Portainer), at Docker Belgium Meetup
+* [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
+* [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
+* [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -2037,7 +2046,7 @@ See also [Infrastructure](#infrastructure)
 * [David Hoover](https://www.youtube.com/watch?v=7ERV9C20GSE) - [Video] Jenkins World 2016 - Jenkins Inside Google
 * [rhwood/jenkins-slave-osx](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
 * [Alvin Huang](https://jenkins.io/blog/2017/07/27/standardizing-builds-with-shared-libraries/) - (2017) Codifying the Build and Release Process with a Pipeline Shared Library
-* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - (2017) Tips * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - (2017) Tips * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - (2017) Tips * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
+* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss 
 * [aelsabbahy/dgoss-examples](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples, including examples for jenkins
 * [Hannah Inman](https://jenkins.io/blog/2017/06/27/speaker-blog-SAS-jenkins-world) - (2017) Extending your Pipeline with Shared Libraries, Global Functions and External Code. **Bonus** : [Slides from Brent Laster](https://www.slideshare.net/BrentLaster/2017-jenkins-world)
 * [Oleg Nenashev](https://speakerdeck.com/onenashev/oslo-jenkins-meetup-managing-security-in-jenkins-cheat-sheet) - Managing Security in Jenkins. Cheat Sheet
@@ -2165,7 +2174,7 @@ See also [Infrastructure](#infrastructure)
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
 * [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
-* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - (2017) Tips * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - (2017) Tips * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - (2017) Tips * [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
+* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss 
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
 * [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
@@ -3639,6 +3648,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Rosemary Wang](https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b) - (2019) Test-Driven Development for Infrastructure
 * [Nic Jackson](https://www.hashicorp.com/blog/hashicorp-terraform-modules-as-building-blocks-for) - (2018) HashiCorp Terraform: Modules as Building Blocks for Infrastructure
 * [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
 
 ## Jira
 > News
@@ -6629,6 +6639,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
 * [Gregg Caines](http://caines.ca/blog/2018/03/27/zero-defect-policy/) - (2018) Zero Defect Policy
 * [Gilles Scokart](https://fr.slideshare.net/gscokart/stop-testing-start-designing) - [Slides] (2016) Stop testing start designing
+* [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
@@ -6699,6 +6710,7 @@ rpm --rebuilddb
 * [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
 * [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - (2013) On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure!
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet
+* [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 
 # UX / UI
 > News
