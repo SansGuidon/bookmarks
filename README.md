@@ -4601,6 +4601,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Sane software manifesto](https://sane-software.globalcode.info/v_0/) - While very opinionated, it's an interesting list of practices for software developers, about safe code, collaboration, reproducible builds, modularity, architecture, testability, etc.
 
+> Tools
+* [Langserver.org](https://langserver.org/) - is a community-driven site, maintained by Sourcegraph, to track development progress of LSP-compatible language servers and clients. | The Language Server protocol is used between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool
+
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
 * :star: [**Gregg Caines**](http://caines.ca/blog/2013/09/13/you-probably-dont-need-to-version-your-web-api/) - (2013) You Probably Don’t Need to Version Your Web API.
