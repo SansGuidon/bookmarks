@@ -2664,6 +2664,7 @@ See also [Infrastructure](#infrastructure)
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
 * [EcoIndex](http://www.ecoindex.fr/) - :fr: [FR] L’objectif d’EcoIndex est d’aider le plus grand nombre à prendre conscience de l’impact environnemental de l’internet et de proposer des solutions concrètes pour réduire cet impact. EcoIndex vous propose donc une analyse automatique de premier niveau pour vous aider à identifier rapidement et gratuitement des sites web / services en ligne à ausculter en priorité.
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. **Bonus** [WAVE Browser Extensions](https://wave.webaim.org/extension/)
+* [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -6765,7 +6766,8 @@ rpm --rebuilddb
 * [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
-
+* [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
+ 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
 * [Jon Moore](https://medium.com/ux-power-tools/guilty-pleasures-for-designers-b34f2a3f604a) - Guilty Pleasures for Designers
@@ -6809,7 +6811,6 @@ rpm --rebuilddb
 * [Daniel Miessler](https://danielmiessler.com/study/http/) - A Security-focused HTTP Primer
 * [Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - (2011) How Browsers Work: Behind the scenes of modern web browsers
 * [Kevin Marks](https://www.wired.com/2016/10/how-the-web-became-unreadable/) - (2016) How the Web Became Unreadable
-
 * [Maxime Thirouin](https://www.24joursdeweb.fr/2013/automatisez-votre-workflow-front-end/) - :fr: [FR] (2013) Automatisez votre workflow front-end
 * [CSS Diner](http://flukeout.github.io/) - a game to improve your knowledge of CSS selectors
 * [SEO'Brien](https://seobrien.com/writing-search-optimized-blog-posts) - (2011) Writing Search Optimized Blog Posts
@@ -6898,6 +6899,11 @@ rpm --rebuilddb
 Run Lighthouse on an emulated mobile device on a 3G network. Running the test will give you the top level scores for all the categories Lighthouse runs on, as well as individual level reports.
 * [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 * [Flavio Copes](https://flaviocopes.com/chrome-devtools-tips/) - (2018) A list of cool Chrome DevTools Tips and Tricks
+* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page.
+* [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
+* [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
+* [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
+* [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
