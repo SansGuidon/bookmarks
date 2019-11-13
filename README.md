@@ -2670,7 +2670,8 @@ See also [Infrastructure](#infrastructure)
 * [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page.
 * [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
-
+* [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
+ 
 # Gaming :video_game:
 > News
 * [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
@@ -6763,6 +6764,7 @@ rpm --rebuilddb
 * [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 * [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
+* [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
