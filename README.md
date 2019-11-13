@@ -330,7 +330,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Anne Quito](https://qz.com/quartzy/1381916/drawing-is-the-best-way-to-learn-even-if-youre-no-leonardo-da-vinci/) - (2018) Drawing is the best way to learn, even if you’re no Leonardo da Vinci
 * [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
 * [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
-* [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004 
+* [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004
 * [La boite verte](https://www.laboiteverte.fr/les-illustrations-en-pixel-art-octavi-navarro/) - :fr: [FR] Les illustrations en pixel art de Octavi Navarro
 * [Pixels Huh](https://pixelshuh.tumblr.com/) - Pixel Art paintings by Octavi Navarro
 * [Matej ‘Retro’ Jan](https://medium.com/retronator-magazine/artistsontwitter-ad68bce76e24) - (2017) #artistsontwitter by Retronator
@@ -340,8 +340,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Turtletoy](https://turtletoy.net/) - Create your generative art online using a minimalistic Turtle graphics API.
 * [NeoGaf](https://www.neogaf.com/threads/how-where-when-metal-slug-sprites-made.1237986/) - (2016) How where when Metal slug sprites made? | Interesting thread on NeoGAF
 * [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) - An online comic to learn about Kubernetes and how you can use it for continuous integration and delivery.
-* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
-* [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish. 
+* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March.
+* [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish.
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 
 # Books :books:
@@ -600,7 +600,7 @@ See also [Shell scripting](#shell-scripting)
 * [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
 * [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
 * [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira, more complete than jira-node-cli
-* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-) 
+* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
  * [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/cli_reference/basic_cli_operations.html) - Developer CLI Operations
 * [Christophe Porteneuve](https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df) - 30 Git CLI options you should know about
 * [Alex Ellis](https://blog.alexellis.io/5-keys-to-a-killer-go-cli/) - 5 keys to create a killer CLI in Go
@@ -997,6 +997,7 @@ type `curl ident.me` to know your public ip
 * [Shubhro Saha](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) - (2014) Software engineers should write
 * [Hubert Sablonnière](https://www.youtube.com/watch?v=T6YJlaY0Dpw) - (2017) [Video] :fr: [FR] Documentation as Code (expliqué à mon père) | DevFest Nantes 2017 | about AsciiDoc, KISS, DRY, Quality, Collaboration
 * [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
+* [Anni Bond](https://opensource.com/article/17/9/adopting-minimalism-your-docs) - Adopting minimalism in your docs
 
 > Tips
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
@@ -1023,6 +1024,7 @@ type `curl ident.me` to know your public ip
 * [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 * [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 * [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.
+* [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language | TOML aims to be a minimal configuration file format that's easy to read due to obvious semantics.
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1162,7 +1164,7 @@ type `curl ident.me` to know your public ip
 * [daltonmenezes/netflix-list-exporter](https://github.com/daltonmenezes/netflix-list-exporter) - 💫 An Extension to export your lists from Netflix to Clipboard area and share with your friends. | also useful if used to compare lists to know what to watch together
 * [The Atlantic](https://www.theatlantic.com/timeline/) - Life Timeline : Explore your life in history. | Tell us your birthday, and we’ll show you how the world has changed during your lifetime.
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
-* [Rating Graph](https://www.ratingraph.com/) - is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies. 
+* [Rating Graph](https://www.ratingraph.com/) - is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies.
 * [Blog Histoire](https://blog-histoire.fr/) - :fr: [FR] L'Histoire en podcast
 * [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
 * [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... **See also :** [Website](https://archivebox.io)
@@ -1682,8 +1684,8 @@ See also [Infrastructure](#infrastructure)
   1. Connect to your instance.
   2. Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
   3. Use the following command to get its public IP address:  `curl http://169.254.169.254/latest/meta-data/public-ipv4`
-* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet 
-* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/aws.md) - My AWS cheatsheet 
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/aws.md) - My AWS cheatsheet
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/) - (2017) Persisting state between AWS EC2 spot instances | Persisting state between AWS EC2 spot instances using Docker on an external volume
 
 ## Bitbucket
@@ -2243,8 +2245,8 @@ See also [Infrastructure](#infrastructure)
 * [Regis Wilson](https://medium.com/driven-by-code/the-terrors-and-joys-of-terraform-88bbd1aa4359) - (2019) The Terrors and Joys of Terraform
 * [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
 * [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. **See also** : [https://www.gruntwork.io](Gruntwork website)
-* [Yevgeniy Brikman](https://blog.gruntwork.io/terragrunt-how-to-keep-your-terraform-code-dry-and-maintainable-f61ae06959d8) - (2019) Terragrunt: how to keep your Terraform code DRY and maintainable | Terragrunt is helpful at solving problems such as : 
-> - the lack of locking for Terraform state 
+* [Yevgeniy Brikman](https://blog.gruntwork.io/terragrunt-how-to-keep-your-terraform-code-dry-and-maintainable-f61ae06959d8) - (2019) Terragrunt: how to keep your Terraform code DRY and maintainable | Terragrunt is helpful at solving problems such as :
+> - the lack of locking for Terraform state
 > - the lack of a way to configure your Terraform state as code.
 > - how to keep your Terraform code DRY and maintainable...
 * [dtan4/terraforming](https://github.com/dtan4/terraforming) - Terraforming allows to export existing AWS resources to Terraform style (tf, tfstate)
@@ -2638,7 +2640,7 @@ See also [Infrastructure](#infrastructure)
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
 * [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
 * [Theory Maps](https://www.theorymaps.org/) - Theory mapping is a technique for visually outlining scientific theory. It allows researchers to concretely display interrelations between concepts, which provides for rapid communication and easy evaluation of ideas. Theory mapping was developed to emphasize that good science requires both reliable methods and rigorous theory. The technique is described in the following forthcoming article at Perspectives on Psychological Science.
-* [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox 
+* [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox
 * :star: [**DistroTest**](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
 * [transfer.sh](https://transfer.sh) - Easy file sharing from the command line
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable maps
@@ -2694,11 +2696,11 @@ See also [Infrastructure](#infrastructure)
 * [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity
 * [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
 * [CARRION](https://store.steampowered.com/app/953490/CARRION/) - is a reverse horror game in which you assume the role of an amorphous creature of unknown origins, stalking and consuming those that imprisoned you.
-* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
+* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March.
 * [NeoGAF Forum](https://www.neogaf.com/forums/gaming-discussion.2/) - Gaming Discussion Forum
 * [NeoGAF](https://www.neogaf.com/threads/nice-looking-dos-games.1502653/) - (2019) Nice looking DOS games | Discussion thread
 * [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Retro SNK NeoGeo games online in your browser | neogeofun is a website let you play your favorite snk neogeo games in your web browser.
-* [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser 
+* [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser
 * [Good Video Game Interface Screenshots](http://videogameinterfaces.com/) - The best collection of the most beautiful, exceptional and inspiring video game interfaces and screenshots.
 
 ## Board games
@@ -2719,7 +2721,7 @@ See also [Infrastructure](#infrastructure)
 * [D&D Beyond](https://www.dndbeyond.com/characters/builder#/) - Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e)
 * [Dungeons & Dragons Dice Roller](https://www.wizards.com/dnd/dice/dice.htm) - Online dice roller for D&D
 * [Dungeons & Dragons](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf) - [PDF] (2018) D&D Basic Rules, Version 1.0
-* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
+* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March.
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable maps
 
 # Health and Work-Life Balance
@@ -3172,9 +3174,9 @@ rpm --rebuilddb
 * [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - (2011) Basic Linux Privilege Escalation
 * [Senthil Kumar aka SK](https://www.ostechnix.com/random-one-liner-linux-commands-part-1/) - (2018) Some Random One-liner Linux Commands [Part 1]. **Bonus** : [Part 2](https://www.ostechnix.com/random-one-liner-linux-commands-part-2/), [Part 3](https://www.ostechnix.com/random-one-liner-linux-commands-part-3/), [Part 4](https://www.ostechnix.com/some-random-one-liner-linux-commands-part-4/)
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
-* [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions 
+* [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/htop/) - (2017) htop explained | Explanation of everything you can see in htop/top on Linux
- 
+
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
 * [Sam Whited](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - (2015) The Dharma of Vi
@@ -3190,7 +3192,7 @@ rpm --rebuilddb
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 * [Stephan Zielinski](http://www.stokely.com/lighter.side/sysadm.field.guide.html) - Know Your UNIX System Administrator: A Field Guide
 * [Terminus](http://luffah.xyz/bidules/Terminus/) - [FR] :fr: funny in browser role playing game to learn the basic of linux command line. NSFW. **Bonus** : [Source](https://github.com/luffah/terminus) + [Original version in english](http://www.mprat.org/Terminus/) with [Sources](https://github.com/mprat/terminus)
-* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/nsfw.md) - My NSFW cheatsheet 
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/nsfw.md) - My NSFW cheatsheet
 
 ## Raspberry Pi
 * [Ard Ray](http://blog.mxard.com/persistent-iptables-on-raspberry-pi-raspbian) - Persistent IPtables on Raspberry Pi (Raspbian)
@@ -3328,7 +3330,7 @@ rpm --rebuilddb
 * [ImagoTV](https://imagotv.fr) - :fr: [FR] Netflix gratuit de la transition écologique !
 * [daltonmenezes/netflix-list-exporter](https://github.com/daltonmenezes/netflix-list-exporter) - 💫 An Extension to export your lists from Netflix to Clipboard area and share with your friends. | also useful if used to compare lists to know what to watch together
 * [DoesTheDogDie.com](https://www.doesthedogdie.com/) - Crowdsourced emotional spoilers for movies, tv, books and more.
-* [Rating Graph](https://www.ratingraph.com/) - is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies. 
+* [Rating Graph](https://www.ratingraph.com/) - is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies.
 * [Spoiler.io](http://spoiler.io/) - Random Movies and TV Shows Spoilers.
 
 # Music :notes:
@@ -3369,7 +3371,7 @@ rpm --rebuilddb
 * [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity | Mix different sounds and create your perfect environment.
 
 > Tools
-* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-) 
+* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
@@ -3417,8 +3419,8 @@ type `curl ident.me` to know your public ip
   1. Connect to your instance.
   2. Use the following command to get its private IP address: `curl http://169.254.169.254/latest/meta-data/local-ipv4`
   3. Use the following command to get its public IP address:  `curl http://169.254.169.254/latest/meta-data/public-ipv4`
-* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet 
-* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/aws.md) - My AWS cheatsheet 
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/aws.md) - My AWS cheatsheet
 
 # News :exclamation:
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
@@ -3943,7 +3945,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [James Somers](http://jsomers.net/blog/speed-matters) - (2015) Speed matters: Why working quickly is more important than it seems
 > * the only way to learn to do something fast is by doing it lots of times.
 > * because you blog slowly, you’re liable to continue blogging slowly—simply because the only way to learn to do something fast is by doing it lots of times.
-* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
+* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 * [Jason Fried](https://m.signalvnoise.com/status-meetings-are-the-scourge/) - (2016) Status meetings are the scourge.
@@ -4137,7 +4139,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 > 2. You have enough time — you just have too much you want to do.
 > _Let’s get Zen for a moment.
 > It sounds cliche, but your time management goal shouldn’t be to figure out how to do more, but instead to figure out how to want less._
-> 3. It’s not a productivity problem, it’s an emotional one. 
+> 3. It’s not a productivity problem, it’s an emotional one.
 > _If you feel in control of your time, you’re significantly less likely to feel time pressure than if your time feels out of your control— even if you have the exact same amount of things to do._
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
 * [Anne-Laure Le Cunff](https://nesslabs.com/time-management) - (2019) Time management: do the things you actually want to do
@@ -4215,13 +4217,13 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
 * [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
 * [Dan Pollock](https://someonewhocares.org/hosts/) - how to make the internet not suck (as much) | a hosts file to prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
-* [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox 
+* [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox
 * [myNoise](https://mynoise.net/noiseMachines.php) - Background Noises & Interactive Soundscapes
 * [A Soft Murmur](https://asoftmurmur.com/) - Ambient sounds to wash away distraction.
 * [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity | Mix different sounds and create your perfect environment.
-* [Skitch](https://evernote.com/products/skitch) - Skitch is a screen capture app including the ability to annotate a screenshot with arrows, text, shapes, and stamps. 
+* [Skitch](https://evernote.com/products/skitch) - Skitch is a screen capture app including the ability to annotate a screenshot with arrows, text, shapes, and stamps.
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-) 
+* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
 
 # Programming
 > News
@@ -4278,20 +4280,8 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Justyna Ilczuk](http://tinystruggles.com/2014/05/13/leveling-up-as-a-software-developer.html) - (2014) Leveling up as a software developer
 * [Web Development Reading List](https://wdrl.info/almanac/2017) - The 2017 Almanac : What happened in “News” in 2016?
 * [Web Development Reading List](https://wdrl.info/evergreen) - The Evergreen List : selection of resources that are important for a longer time.
-* :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
-* [StackShare](https://stackshare.io/trending/tools) - trending tools, find which tools other companies are using
-* [StackShare](https://stackshare.io/trending/stacks) - trending technology stacks, find which stacks others companies are using
-* [GitHub Explore](https://github.com/explore) - Project showcases, discover interesting repositories
-* [GitHub Trending](https://github.com/trending) - Explore trending projects in GitHub community
-* [GitHub Showcases](https://github.com/showcases) - Open source showcases, explore popular repositories
 * :star: [**Hugo Matilla**](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
 * [Methods & Tools](http://www.methodsandtools.com/mt/download.php) - magazine about software development & testing with free content. See also [Partner websites](http://www.methodsandtools.com/network.php)
-* [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
-* [Nick Parlante](http://codingbat.com) - CodingBat : practice your programming skills (exercices in java and python)
-* [Programming Praxis](https://programmingpraxis.com/) - A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer
-* [Hacker Rank](https://www.hackerrank.com/dashboard) - coding challenges (to make yourself ready for coding interviews
-* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - programming challenges on reddit
-* [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * [Philip Stark](https://gist.github.com/hellerbarde/2843375) - Latency numbers every programmer should know
 * :star: [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
 * [Vinh Quốc Nguyễn](https://betterdev.link/) - Better Dev Link collects links around the web that aims to help you learn something new
@@ -4301,9 +4291,6 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * :star: [**RankRed**](http://www.rankred.com/nasa-coding-rules/) - NASA’s 10 Coding Rules for Writing Safety Critical Program
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [Ben Hilburn](https://bhilburn.org/a-keystone-of-success/) - What mature engineers do and don't do / what it means to be a mature engineer.
-* [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
-* [Zazzle](https://www.zazzle.com/software+developer+stickers) - Software Developer Stickers
-* [Redbubble](https://www.redbubble.com/shop/developer+stickers) - Moooaaar developer stickers
 * [Adam Williamson](https://www.happyassassin.net/2016/11/04/i-dont-like-computers/) - (2016) I don't like computers : touching testimonial... because sometimes, we also feel that the web loses us
 * [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices
 * [Lars Kappert](https://webpro.github.io/programming-principles/) - Categorized overview of Programming Principles. [Sources](https://github.com/webpro/programming-principles)
@@ -4314,7 +4301,6 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Community Picks](http://www.communitypicks.com/) - recommended books for hacker subreddits
 * [O'reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) - contributions appearing in book 97 Things Every Programmer Should Know
 * [Geshan Manandhar](https://geshan.com.np/blog/2017/06/software-companies-tech-competency-matrix/) - (2017) Software Companies Tech Competency Matrix / useful skill matrix for devops, security, database...
-* [Redbubble](https://www.redbubble.com/fr/shop/sysadmin+stickers) - Sysadmin stickers
 * [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 * [Raphael Brugier](http://blog.ippon.tech/5-laws-every-developer-should-know/) - 5 laws every developer should know
 * [Anni Bond](https://opensource.com/article/17/9/adopting-minimalism-your-docs) - Adopting minimalism in your docs
@@ -4413,9 +4399,6 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 * [Fagner Martins Brack (fagnerbrack)](https://medium.com/@fagnerbrack/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac) - (2017) Why Developers Become Frustrated And Companies Can’t Find Talent
 * [Kim Hirokuni](http://kimh.github.io/blog/being-backend-engineer/) - (2017) Backend Engineer Principles
-* [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
-* [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-* [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
 * [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
 * [FoundersGrid](https://foundersgrid.com/code-management/) - (2014) How 50+ Startups Manage Their Code
 * [Rachel Potvin & Josh Levenberg](https://dl.acm.org/citation.cfm?id=2854146) - Why Google stores billions of lines of code in a single repository
@@ -4574,7 +4557,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 > - If you can’t measure it, you can still reason about it
 > - 10x programmers are rare
 > - Programming is about choices
-* [Code Golf](https://code-golf.io/) - a game designed to let you show off your code-fu by solving problems in the least number of characters. It is written in Go and is open source, patches welcome!
 * [Ada Nduka Oyom](https://dev.to/kolokodess/on-becoming-a-technical-writer-318e) - (2018) On Becoming a Technical Writer
 * [Vadim Kravcenko](http://vadimkravcenko.com/growing-your-interns) - (2018) Growing your interns | eventually you will become Senior Developers and will need to nurture your own interns.
 * [Programming quotes](http://quotes.cat-v.org/programming/)
@@ -4591,8 +4573,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Literate programming](http://www.literateprogramming.com/) - is a programming paradigm introduced by Donald Knuth in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated.
 * [Literate programming links](http://www.literateprogramming.com/links.html) - articles about literate programming
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
-* [Redbubble](https://www.redbubble.com/shop/devops+stickers) - DevOps stickers
-* [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 * [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
 * [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
 * [Dave Rupert](https://daverupert.com/2018/04/eponymous-laws-of-tech) - (2018) The Eponymous Laws of Tech | A compendium of tech-related laws, fallacies, and other wisdom
@@ -4601,8 +4581,34 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Sane software manifesto](https://sane-software.globalcode.info/v_0/) - While very opinionated, it's an interesting list of practices for software developers, about safe code, collaboration, reproducible builds, modularity, architecture, testability, etc.
 
+> Programming challenges
+* [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
+* [Nick Parlante](http://codingbat.com) - CodingBat : practice your programming skills (exercices in java and python)
+* [Programming Praxis](https://programmingpraxis.com/) - A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer
+* [Hacker Rank](https://www.hackerrank.com/dashboard) - coding challenges (to make yourself ready for coding interviews
+* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - programming challenges on reddit
+* [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
+* [Code Golf](https://code-golf.io/) - a game designed to let you show off your code-fu by solving problems in the least number of characters. It is written in Go and is open source, patches welcome!
+
+> Stickers
+* [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
+* [Zazzle](https://www.zazzle.com/software+developer+stickers) - Software Developer Stickers
+* [Redbubble](https://www.redbubble.com/shop/developer+stickers) - Moooaaar developer stickers
+* [Redbubble](https://www.redbubble.com/fr/shop/sysadmin+stickers) - Sysadmin stickers
+* [Redbubble](https://www.redbubble.com/shop/devops+stickers) - DevOps stickers
+
 > Tools
+* :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
+* [StackShare](https://stackshare.io/trending/tools) - trending tools, find which tools other companies are using
+* [StackShare](https://stackshare.io/trending/stacks) - trending technology stacks, find which stacks others companies are using
+* [GitHub Explore](https://github.com/explore) - Project showcases, discover interesting repositories
+* [GitHub Trending](https://github.com/trending) - Explore trending projects in GitHub community
+* [GitHub Showcases](https://github.com/showcases) - Open source showcases, explore popular repositories
+* [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+* [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
+* [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
 * [Langserver.org](https://langserver.org/) - is a community-driven site, maintained by Sourcegraph, to track development progress of LSP-compatible language servers and clients. | The Language Server protocol is used between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool
+* [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -4679,12 +4685,13 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > * Find a Hobby.
 > * Spend time with people you love.
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
-* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
+* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 * [Gergely Orosz](https://blog.pragmaticengineer.com/talk-first-code-later/) - (2019) Talk First, Code Later
 > the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
+* [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
 
 ## Clean code
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
@@ -4882,11 +4889,11 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Literate programming](http://www.literateprogramming.com/) - is a programming paradigm introduced by Donald Knuth in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated.
 * [Literate programming links](http://www.literateprogramming.com/links.html) - articles about literate programming
 * [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
-* [Yevgeniy Brikman](https://blog.gruntwork.io/terragrunt-how-to-keep-your-terraform-code-dry-and-maintainable-f61ae06959d8) - (2019) Terragrunt: how to keep your Terraform code DRY and maintainable | Terragrunt is helpful at solving problems such as : 
-> - the lack of locking for Terraform state 
+* [Yevgeniy Brikman](https://blog.gruntwork.io/terragrunt-how-to-keep-your-terraform-code-dry-and-maintainable-f61ae06959d8) - (2019) Terragrunt: how to keep your Terraform code DRY and maintainable | Terragrunt is helpful at solving problems such as :
+> - the lack of locking for Terraform state
 > - the lack of a way to configure your Terraform state as code.
 > - how to keep your Terraform code DRY and maintainable...
-* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
+* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [Bill Clark](https://technology.riotgames.com/news/taxonomy-tech-debt) - (2018) A Taxonomy of Tech Debt
 
@@ -4952,10 +4959,10 @@ Containers, Clouds and Lean Business
 * [Stack Overflow](https://stackoverflow.com/questions/876522/creating-a-copy-of-a-database-in-postgresql) - Creating a copy of a database in PostgreSQL. | in essence, what works for me :
 ```
 # backup :
-pg_dumpall > db.out 
-# restore : 
-# (might requires some DROP DATABASE xxx if you do want to replace existing data with same db and table names) 
-psql -f db.out postgres 
+pg_dumpall > db.out
+# restore :
+# (might requires some DROP DATABASE xxx if you do want to replace existing data with same db and table names)
+psql -f db.out postgres
 ```
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/postgresql.md) - My cheatsheet for PostgreSQL
 
@@ -5017,11 +5024,11 @@ psql -f db.out postgres
 * [Indie Game Developers on Slack](https://indie-game-devs-slack.herokuapp.com/) - Independent game developers group
 * [Gamasutra](http://www.gamasutra.com/) - articles about art and business of making games
 * [Gergo Vas](https://kotaku.com/5991061/the-best-looking-isometric-games) - The Best-Looking Isometric Games
-* [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004 
+* [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004
 * [Pixelation](https://pixelation.org) - A standalone forum dedicated which hosts lots of studies and deeper discussions of pixel art.
-* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March. 
+* [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March.
 * [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
-* [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish. 
+* [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish.
 
 > Tools
 * [libGDX](https://github.com/libgdx/libgdx) - libgdx : Desktop/Android/HTML5/iOS Java game development framework
@@ -5187,7 +5194,7 @@ psql -f db.out postgres
 * [Avi Cavale](http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository) - (2016) Our journey to microservices: mono repo vs multiple repositories
 * [mozilla.dev.developer-tools](https://groups.google.com/forum/m/#!topic/mozilla.dev.developer-tools/W17drvVMFhY) - Discussion about Multiple repos vs Monolithic repo
 * [Gregory Szorc](https://gregoryszorc.com/blog/2014/09/09/on-monolithic-repositories/) - (2014) On Monolithic Repositories | in favor of monolithic repos
-* [Aaron Schlesinger](https://gist.github.com/arschles/5d7ba90495eb50fa04fc) - (2015) Why We Should Use Monolithic Repositories 
+* [Aaron Schlesinger](https://gist.github.com/arschles/5d7ba90495eb50fa04fc) - (2015) Why We Should Use Monolithic Repositories
 * [Nathan Leiby](https://medium.com/always-a-student/mo-repos-mo-problems-how-we-make-changes-across-many-git-repositories-293ad7d418f0) - (2017) Mo Repos, Mo Problems? How We Make Changes Across Many Git Repositories
 * [ezekg/git-hound](https://github.com/ezekg/git-hound) -  Git plugin that prevents sensitive data from being committed.
 * [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
@@ -5222,7 +5229,7 @@ psql -f db.out postgres
 * [Vincent Tunru](https://agripongit.vincenttunru.com/) - (2016) A Grip On Git | A Simple, Visual Git Tutorial
 * [Alex Chan](https://alexwlchan.net/a-plumbers-guide-to-git/) - (2018) A Plumber’s Guide to Git
 * [Federico Kauffman](https://www.wyeworks.com/blog/2018/01/15/automatically-managing-personal-and-work-git-configurations/) - (2018) Automatically managing personal and work git configurations
-* [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - (2013) On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure! 
+* [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - (2013) On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure!
 * [Seth Robertson](http://sethrobertson.github.io/GitBestPractices/) - (2013) Commit Often, Perfect Later, Publish Once: Git Best Practices
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/git.md) - My cheatsheet for Git
 
@@ -5667,7 +5674,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * :star: [**Eric Pement**](https://web.archive.org/web/20190804114017/http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
 * [Senthil Kumar aka SK](https://www.ostechnix.com/random-one-liner-linux-commands-part-1/) - (2018) Some Random One-liner Linux Commands [Part 1]. **Bonus** : [Part 2](https://www.ostechnix.com/random-one-liner-linux-commands-part-2/), [Part 3](https://www.ostechnix.com/random-one-liner-linux-commands-part-3/), [Part 4](https://www.ostechnix.com/some-random-one-liner-linux-commands-part-4/)
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
-* [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions 
+* [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions
 * [Remy Sharp](https://remysharp.com/2018/08/23/cli-improved) - (2018) CLI: improved | presentation of several powerful CLI tools
 * [wwong99/useful_commands.md](https://github.com/wwong99/pentest-notes/blob/9a9d4117cebf06597c050904b387fd14ab59096f/os/useful_commands.md) - Useful commands By [@climagic](https://twitter.com/climagic)
 * [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - Use cheat.sh from VIM
@@ -5675,7 +5682,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 * :star: [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
-* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy 
+* [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 * [MorganGeek](https://gist.github.com/MorganGeek/3d29301206b52f02db001126d7adfafe) - A gist with all my frequent favorite commands :) "just in case"
@@ -6015,6 +6022,7 @@ Raw
 * [Allan Richarz](https://www.citylab.com/transportation/2018/05/the-amazing-psychology-of-japanese-train-stations/560822/) - (2018) The Amazing Psychology of Japanese Train Stations
 * [Theory Maps](https://www.theorymaps.org/) - Theory mapping is a technique for visually outlining scientific theory. It allows researchers to concretely display interrelations between concepts, which provides for rapid communication and easy evaluation of ideas. Theory mapping was developed to emphasize that good science requires both reliable methods and rigorous theory. The technique is described in the following forthcoming article at Perspectives on Psychological Science.
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
+* [DZone](http://www.surveygizmo.com/s3/1883619/Developer-Personality-Test) - Developer Personality Test
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
@@ -6193,7 +6201,7 @@ type `curl ident.me` to know your public ip
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 * [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 * [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
-* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-) 
+* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](#dotfiles--aliases)
@@ -6421,7 +6429,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Jacob Appelbaum/ioerror/duraconf](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) - Example of hardened GPG config file from duraconf
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/) - GNU Privacy Guard Manual
 * [GnuPG Docs](https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html) - CLI options for using gpg gen-key from a script (aka unattended GPG key generation). Discovered via [Stack Overflow](https://superuser.com/questions/1003403/how-to-use-gpg-gen-key-in-a-script)
-* [Nitin Venkatesh](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - (2014) PGP and SSH keys - Generate, export, backup and restore [And please use Ed25519 instead of RSA keys](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54) 
+* [Nitin Venkatesh](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - (2014) PGP and SSH keys - Generate, export, backup and restore [And please use Ed25519 instead of RSA keys](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
 * [GnuPG Docs](https://www.gnupg.org/gph/en/manual/book1.html) - (1999) The GNU Privacy Handbook
 * [/r/GnuPG](https://www.reddit.com/r/GnuPG/) - resources on everything about GnuPG, PGP, OpenPGP
 * [/r/pgp](https://www.reddit.com/r/pgp/) - everything about PGP
@@ -6689,8 +6697,8 @@ rpm --rebuilddb
   * Trace all connections on specific port to `/var/log/messages` (syslog) using iptables : `sudo iptables -I INPUT -p tcp --match multiport --dports 443,636,389,8095,80 --syn -j LOG --log-prefix "HTTPS SYN: "`
   * Removing iptables rule : `sudo iptables -D INPUT -p <etc rest of your above rule>`
 * [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
-* [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - (2013) On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure! 
-* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet 
+* [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - (2013) On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure!
+* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet
 
 # UX / UI
 > News
@@ -6752,7 +6760,7 @@ rpm --rebuilddb
  * `https://archive.org/wayback/available?timestamp=19010101010101&url=<URL>`
 * [internetarchive/wayback](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server) - Wayback CDX Server API - BETA | The wayback-cdx-server is a standalone HTTP servlet that serves the index that the wayback machine uses to lookup captures.
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
-* [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser 
+* [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser
 * [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... **See also :** [Website](https://archivebox.io)
 * [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 * [GH Archive](https://www.gharchive.org/) - is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis. **See also:** [GitHub repository](https://github.com/igrigorik/gharchive.org)
@@ -6812,7 +6820,7 @@ rpm --rebuilddb
 * [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
 * [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 * [Noé Baylac Jacqué aka Deluvi](https://deluvi.com/blog/webmention/) - (2018) Implementing Webmention on a static website | An explanation of Webmentions and an implementation on Hugo
-> Webmention is a web standard that allows having interactions in a decentralized way. 
+> Webmention is a web standard that allows having interactions in a decentralized way.
 > The big advantage of Webmention is that the protocol is very simple: it only relies on an HTTP POST request.
 
 ## Web development checklists / best practices
