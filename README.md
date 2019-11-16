@@ -6439,6 +6439,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [AWS](https://aws.amazon.com/security/security-resources/) - Security Resources
 * [SenseDeep](https://www.sensedeep.com/blog/posts/stories/web-developer-security-checklist.html) - (2019) Web Developer Security Checklist V2
 * [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
+* [Aidan Preston](https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html) - (2019) Windows Notes / Cheatsheet | Handy commands and notes from a Penetration Tester
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -6953,6 +6954,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [majkinetor/au](https://github.com/majkinetor/au) - Chocolatey Automatic Package Updater Module
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/windows-subsystem.md) - My cheatsheet about Windows Subsystem for Linux
 * [Cmder](https://cmder.net/) - Lovely console emulator package for Windows
+* [Aidan Preston](https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html) - (2019) Windows Notes / Cheatsheet | Handy commands and notes from a Penetration Tester
 
 # Writing :pencil2:
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
