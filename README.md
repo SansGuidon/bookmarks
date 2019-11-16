@@ -3443,6 +3443,7 @@ type `curl ident.me` to know your public ip
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
 * :star: [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
+* :star: [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
 * :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 * :star: [**Le Gorafi**](http://www.legorafi.fr/) - [FR] :fr: news satire
@@ -3465,7 +3466,6 @@ type `curl ident.me` to know your public ip
 * [Korben](https://korben.info/) - :fr: [FR] Upgrade your mind
 * [coreight](https://coreight.com/) - :fr: [FR] Le blog d'infos et astuces web; high tech
 * [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
-* [DEVURLS](https://devurls.com/) - a developer news aggregator.
 * [TECHURLS](https://techurls.com/) - a technology news aggregator.
 * [SCIURLS](https://sciurls.com/) - a science news aggregator.
 * [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
@@ -4245,6 +4245,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 # Programming
 > News
 * :fire: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
+* :star: [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
 * [SlideShare](https://www.slideshare.net/featured/category/software) - featured software related presentations on SlideShare
 * [DZone](https://dzone.com/) - programming & devops news
@@ -4271,7 +4272,6 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [The Changelog](https://changelog.com/podcast) - [Podcast] Conversations with the hackers, leaders, and innovators of open source.
 * [Industrial Logic Blog](https://www.industriallogic.com/blog/) - leveraging safety wisdom in workspace from manufacturing, psychology, culture change and Agile and Lean developmen
 * [GOTO Blog](https://blog.gotocon.com/blog/) - Created for developers, by developers, GOTO is focused on bringing together the best minds in the software community and the most interesting topics to light.
-* [DEVURLS](https://devurls.com/) - a developer news aggregator.
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - Keep track of new cool github projects
 
 > Learn
