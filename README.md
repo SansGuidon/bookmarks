@@ -2152,6 +2152,7 @@ See also [Infrastructure](#infrastructure)
 * [Tomasz Cholewa](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/) - (2019) 10 most important differences between OpenShift and Kubernetes
 * [Sasha Jeltuhin](https://thenewstack.io/the-challenges-of-monitoring-kubernetes-and-openshift/) - (2018) The Challenges of Monitoring Kubernetes and OpenShift
 * [codecentric/helm-charts](https://github.com/codecentric/helm-charts/tree/master/charts/jenkins) - This chart install Jenkins on Kubernetes | It allows Jenkins to be completely configured as code that does not require any further manual configuration in the UI. While not required, it is meant to be used with the configuration-as-code plugin and/or Groovy init scripts.
+* [@memenetes](https://twitter.com/memenetes) - Twitter account publishing kubernetes dank memes / humor if that's something
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -2963,7 +2964,7 @@ See also [Infrastructure](#infrastructure)
 * [Kimmo Lemetti](http://www.blastwave-comic.com/) - Gone with the blastwave is a post apocalyptic black humorous web comic
 * [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE) - [Video] funny trailers of popular movies
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website
-* [Malaise TV](https://twitter.com/malaisetele) - [FR] :fr: Twitter account showing awkwardness in TV shows
+* [@Malaise TV](https://twitter.com/malaisetele) - [FR] :fr: Twitter account showing awkwardness in TV shows
 * [Mattia Quarta](https://twitter.com/squartadoc/status/380805479414239232/photo/1) - How to read a scientific paper.... brilliant
 * [Philippe Shiu](https://twitter.com/PhilipsShiu/statuses/448760592405241856) - [IMG] math students tip
 * [Topissimo](http://www.topissimo.fr/lol/40-verites-du-quotidien-illustrees-humour.html) - [FR] :fr: TOP 40 des vérités du quotidien illustrées avec humour !
@@ -5820,6 +5821,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Frank Force](http://frankforce.com/?p=5826) - (2019) I’m only making business card sized games now
 * [Coding is Love](https://dev.to/codingislove/sarcastic-web-services-and-websites-that-actually-exist--4e62) - (2018) Sarcastic web services and websites that actually exist 😂
 * [The Best Motherfucking Website](https://thebestmotherfuckingwebsite.co/) - Your motherfucking websites got nothing compared to this beauty. **And some others :** [This is still a motherfucking website.](http://bettermotherfuckingwebsite.com/), [This is the best motherfucking website.](https://bestmotherfucking.website/), [This is the final motherfucking website.](https://perfectmotherfuckingwebsite.com/), [This is the best motherfucking website.](https://thebestmotherfucking.website/)
+* [@memenetes](https://twitter.com/memenetes) - Twitter account publishing kubernetes dank memes / humor if that's something
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
