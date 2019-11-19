@@ -2345,6 +2345,7 @@ See also [Infrastructure](#infrastructure)
 * [IRCEL - CELINE](http://www.irceline.be/en/front-page?set_language=en) - Current Air Quality Measurements of Belgian Interregional Environment Agency (IRCEL - CELINE)
 * [écoconso](https://www.ecoconso.be/fr/content/magasins-de-vrac-et-zero-dechet-de-wallonie-et-bruxelles) - [FR] [BE] Magasins de vrac et zéro déchet de Wallonie et Bruxelles
 * [GreenIT.fr](https://www.greenit.fr/) - :fr: [FR] est un lieu de réflexion sur ces deux enjeux du numérique durable / responsable (définition); éco-conception des équipements et des services numériques, économie d’énergie, réemploi et recyclage, etc. – mais aussi les usages et le rôle du numérique pour glisser vers une économie plus légère, circulaire (cradle to cradle), puis vers une économie positive.
+* [Michael Petit](https://www.slideshare.net/MorganWattiez/les-impacts-du-secteur-tic-11102019) -  :fr: [Slides] [FR] (2019) Les impacts des TIC (Technologies de l'information et de la communication) sur l'environnement | Analyse des impacts, et propositions d'actions et aides concrètes. via Almin conference (UNamur, Belgique)
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
