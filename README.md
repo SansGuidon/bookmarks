@@ -156,6 +156,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Travel :airplane:](#travel-airplane)
 * [Troubleshooting](#troubleshooting)
 * [UX / UI](#ux--ui)
+  * [Accessibility (a11y)](#accessibility-a11y)
   * [Design humor](#design-humor)
 * [Web archive / nostalgia](#web-archive--nostalgia)
 * [Web development](#web-development)
@@ -6741,8 +6742,6 @@ rpm --rebuilddb
 * [Guillaume Gouessan](http://guillaumegouessan.com/talk/move/) - Making things move when you are a front-end developer / good animating advices
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Brian Kelly](https://morethancoding.com/2012/10/24/the-web-apis-you-use-will-fail/) - (2012) The Web APIs You Use Will Fail
-* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page.
-* [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y
 * [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
 * [Front-End-Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production
@@ -6765,12 +6764,17 @@ rpm --rebuilddb
 * [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
 * [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
-* [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
 * [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
-* [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
 * [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
+
+## Accessibility (a11y)
+* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page.
+* [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
+* [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y
+* [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
+* [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
  
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
