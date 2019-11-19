@@ -867,7 +867,7 @@ type `curl ident.me` to know your public ip
 * [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) - is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person.
 * [Simon Wardley](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - (2015) On Pioneers, Settlers, Town Planners and Theft.
 * [Xiao Ma](https://medium.com/open-sourced-thoughts/code-life-1a44121290a1) - (2015) Code • Life | We are already doing these things to our code, why not do them to ourselves?
-* [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
+* [Matthieu Lesne aka coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
 * [Isaac Asimov](http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm) - (1989) The Relativity of Wrong
@@ -3465,7 +3465,7 @@ type `curl ident.me` to know your public ip
 * [reddit](https://www.reddit.com/controversial/) - most controversial links
 * :star: [**sebsauvage**](http://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
 * [Korben](https://korben.info/) - :fr: [FR] Upgrade your mind
-* [coreight](https://coreight.com/) - :fr: [FR] Le blog d'infos et astuces web; high tech
+* [Matthieu Lesne aka coreight](https://coreight.com/) - :fr: [FR] Le blog d'infos et astuces web; high tech
 * [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
 * [TECHURLS](https://techurls.com/) - a technology news aggregator.
 * [SCIURLS](https://sciurls.com/) - a science news aggregator.
@@ -4091,9 +4091,9 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
 * [Thomas Frank](https://collegeinfogeek.com/feynman-technique/) - (2017)  How to Use the Feynman Technique to Learn Faster (With Examples)
 * [Xiao Ma](https://medium.com/open-sourced-thoughts/code-life-1a44121290a1) - (2015) Code • Life | We are already doing these things to our code, why not do them to ourselves?
-* [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
-* [coreight](https://coreight.com/content/choses-idiotes-boites-email-messagerie) - :fr: [FR] (2016) 20 erreurs idiotes que nous faisons tous avec nos boîtes mail
-* [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
+* [Matthieu Lesne aka coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
+* [Matthieu Lesne aka coreight](https://coreight.com/content/choses-idiotes-boites-email-messagerie) - :fr: [FR] (2016) 20 erreurs idiotes que nous faisons tous avec nos boîtes mail
+* [Matthieu Lesne aka coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
 * [Jacquelyn Smith](https://www.forbes.com/sites/jacquelynsmith/2012/06/22/how-to-ignore-distractions-at-work/#7e4b56663641) - (2012) How To Ignore Distractions In The Workplace
 * [Anjida Sripongworakul](http://blogs.lse.ac.uk/studentsatlse/2016/11/16/if-i-could-tell-you-one-thing-lessons-in-how-to-create-and-how-to-succeed/) - (2016) If I could tell you one thing…lessons in how to create and how to succeed
 * [Jo Meenen](https://www.cutemachine.com/the-one-thing-book-summary/) - The ONE Thing Book Summary
@@ -5781,7 +5781,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [devRant](https://devrant.com/feed/top/all) - fun community for developers
 * [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
 * [Phortail](https://phortail.org/blagues/informatique-0272.html) - [FR] :fr: Si les OS étaient des compagnies aériennes
-* [coreight](http://coreight.com/content/os-vraie-vie-velo) - [FR] :fr: Si les OS étaient des vélos
+* [Matthieu Lesne aka coreight](http://coreight.com/content/os-vraie-vie-velo) - [FR] :fr: Si les OS étaient des vélos
 * [ChooseYourBoss](https://www.chooseyourboss.com/quel_dev_etes_vous) - [FR] :fr: Quel développeur êtes-vous ? (Test)
 * [Coding Confessional](https://www.codingconfessional.com/) - Anonymous Confessions from Programmers.
 * [Sebiwi](https://sebiwi.github.io/comics/) - drawings about tech and stuff
@@ -6077,7 +6077,7 @@ Raw
 * [David Rotman](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/) - (2017) The Relentless Pace of Automation
 * [Humans Not Invited](http://www.humansnotinvited.com/) - parodic site for captcha haters
 * [Evan Selinger](https://medium.com/s/when-robots-rule-the-world/this-robot-knows-how-to-trick-you-272c88779151) - (2018) This Robot Knows How to Trick You | Humans Are Flawed and Easy to Trick
-* [coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
+* [Matthieu Lesne aka coreight](https://coreight.com/content/fonctions-pratiques-assistant-vocal) - :fr: [FR] (2016) 10 fonctions pratiques à utiliser avec les commandes vocales
 * [Danny Hillis](https://www.catb.org/jargon/html/koans.html) - (2003) Some AI Koans
 * [Tim Hall](https://oracle-base.com/blog/2018/06/12/why-automation-matters-lost-time/) - (2018) Why Automation Matters : Lost Time
 * [Neil Patel](https://blog.hubspot.com/marketing/psychology-of-excitement) - (2015) The Psychology of Excitement: How to Better Engage Your Audience | marketing
@@ -6634,7 +6634,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Jamie Andrews](https://sysadvent.blogspot.be/2017/12/day-16-inspec-gives-insight.html) - (2017) Inspec gives insight
 * [Michal Charemza](https://charemza.name/blog/posts/methodologies/testing/questions-to-ask-yourself-when-writing-tests/) - (2018) Questions to ask yourself when writing tests : Talk to yourself to make sure your tests help you achieve your aims
 * [Bill Wake](https://www.industriallogic.com/blog/multiple-asserts-are-ok/) - (2015) Multiple Asserts Are OK | Some people suggest we should restrict ourselves to a single assertion per test. Are multiple asserts in a test ever OK?
-* [coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
+* [Matthieu Lesne aka coreight](https://coreight.com/content/bonnes-habitudes-developpeurs) - :fr: [FR] (2016) Les bonnes habitudes de développeurs à appliquer dans sa vie quotidienne
 * [Stack Exchange](https://devops.stackexchange.com/questions/98/how-to-test-provisioning-and-configuration-in-ansible-setup) - (2017) How to test provisioning and configuration in Ansible setup? Solutions : Goss, Testinfra, Serverspec, Inspec
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - dgoss is a convenience wrapper around goss that aims to bring the simplicity of goss to docker containers.
 * [Fred Hébert](https://ferd.ca/the-hitchhiker-s-guide-to-the-unexpected.html) - (2018) The Hitchhiker's Guide to the Unexpected | about clean architecture, and making things easier
@@ -6945,7 +6945,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
 * [Jason Stewart](https://eggplant.pro/blog/faster-samba-smb-cifs-share-performance/) - Faster Samba (SMB / CIFS) Share Performance
 * [Josh Reichardt](https://thepracticalsysadmin.com/powershell-for-linux/) - Powershell for Linux!
-* [coreight](http://coreight.com/content/logiciels-outils-indispensables-windows) - (2014) [FR] :fr: 8 logiciels à toujours garder sous la main sur Windows
+* [Matthieu Lesne aka coreight](http://coreight.com/content/logiciels-outils-indispensables-windows) - (2014) [FR] :fr: 8 logiciels à toujours garder sous la main sur Windows
 * [Pekka Väänänen](http://www.lofibucket.com/articles/dwm_latency.html) - (2017) Desktop compositing latency is real and it annoys me | about input latency on Windows 10 vs Windows 7
 * [Win flex-bison](https://sourceforge.net/projects/winflexbison/files/) - Win flex-bison is a port Flex & Bison tools to the Windows platform
 * [MorganGeek](cheat/windows-subsystem.md) - Windows Subsystem for Linux cheatsheet / tips
