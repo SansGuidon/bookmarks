@@ -2675,7 +2675,7 @@ See also [Infrastructure](#infrastructure)
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
-* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page.
+* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page. **See also** [GitHub repository](https://github.com/Khan/tota11y)
 * [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
@@ -6775,7 +6775,7 @@ rpm --rebuilddb
 * [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
 
 ## Accessibility (a11y)
-* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page.
+* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page. **See also** [GitHub repository](https://github.com/Khan/tota11y)
 * [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
 * [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y
 * [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
@@ -6891,7 +6891,7 @@ rpm --rebuilddb
 * [Rex Swain](http://www.rexswain.com/httpview.html) - HTTP Viewer : See exactly what an HTTP request returns to your browser
 * [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
 * [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
-* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page.
+* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page. **See also** [GitHub repository](https://github.com/Khan/tota11y)
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Check that your HTML code conforms to your coding standard
 * [SecurityHeaders](https://securityheaders.io/) - Scan your site to analyse the HTTP response headers
 * [Observatory by Mozilla](https://observatory.mozilla.org/) - Scan your site against mozilla security checklist
@@ -6916,7 +6916,7 @@ rpm --rebuilddb
 Run Lighthouse on an emulated mobile device on a 3G network. Running the test will give you the top level scores for all the categories Lighthouse runs on, as well as individual level reports.
 * [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 * [Flavio Copes](https://flaviocopes.com/chrome-devtools-tips/) - (2018) A list of cool Chrome DevTools Tips and Tricks
-* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page.
+* [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page. **See also** [GitHub repository](https://github.com/Khan/tota11y)
 * [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
