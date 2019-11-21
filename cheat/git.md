@@ -2,6 +2,10 @@
 
 `git reset HEAD^`
 
+### Get latest submodules changes ([src](https://stackoverflow.com/questions/5828324/update-git-submodule-to-latest-commit-on-origin))
+
+`git submodule foreach git pull origin master`
+
 ### Most active hours from git history ([src](https://gist.github.com/bessarabov/674ea13c77fc8128f24b5e3f53b7f094#gistcomment-2973934))
 
 ```
