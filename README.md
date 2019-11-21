@@ -2113,17 +2113,10 @@ See also [Infrastructure](#infrastructure)
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
-* [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
-* [Stackpoint.io on Slack](http://slack.stackpoint.io/) - Web-based interface for deployment of Kubernetes cluster
-* [Fabric8 on Slack](https://slack.fabric8.io/) - Open source integrated development platform for Kubernetes
-* [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Awesome Kubernetes resources
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
 * [Jesse Newland](https://githubengineering.com/kubernetes-at-github/) - Kubernetes at GitHub
-* [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes.
 * [William Jimenez](https://containerjournal.com/2017/11/02/kubernetes-because-everyone-doing/) - (2017) Kubernetes: Because Everyone is Doing It
 * [Cloud Native Computing Foundation website](https://www.cncf.io/) - Sustaining and integrating open source technologies like Kubernetes and Prometheus
-* [praqmatim](https://www.praqma.com/stories/ask/) - Atlassian high availability as code | Containerized Data Center on Kubernetes
-* [Andrew Lock](https://andrewlock.net/home-home-on-the-range-installing-kubernetes-using-rancher-2-0/) - (2017) Home, home on the range: Installing Kubernetes using Rancher 2.0
 * [Alex Ellis](https://blog.alexellis.io/openfaas-colorisebot-comes-to-kubecon/) - (2017) Colorisebot and OpenFaaS
 * [Finnian Anderson](https://finnian.io/blog/colourising-video-with-openfaas-serverless-functions/) - (2017) Colourising Video with OpenFaaS Serverless Functions
 * [Alex Ellis](https://blog.alexellis.io/you-need-to-know-kubernetes-and-swarm/) - (2017) What you need to know: Kubernetes and Swarm
@@ -2152,8 +2145,18 @@ See also [Infrastructure](#infrastructure)
 * [Peter Benjamin](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209) - (2018) How do you keep up with Kubernetes?
 * [Tomasz Cholewa](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/) - (2019) 10 most important differences between OpenShift and Kubernetes
 * [Sasha Jeltuhin](https://thenewstack.io/the-challenges-of-monitoring-kubernetes-and-openshift/) - (2018) The Challenges of Monitoring Kubernetes and OpenShift
-* [codecentric/helm-charts](https://github.com/codecentric/helm-charts/tree/master/charts/jenkins) - This chart install Jenkins on Kubernetes | It allows Jenkins to be completely configured as code that does not require any further manual configuration in the UI. While not required, it is meant to be used with the configuration-as-code plugin and/or Groovy init scripts.
 * [@memenetes](https://twitter.com/memenetes) - Twitter account publishing kubernetes dank memes / humor if that's something
+
+> Tools
+* [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
+* [Stackpoint.io on Slack](http://slack.stackpoint.io/) - Slack community about NetApp Kubernetes Service, a Web-based interface for deployment of Kubernetes cluster. **See also** [Official website](https://cloud.netapp.com/kubernetes-service)
+* [Fabric8 on Slack](https://slack.fabric8.io/) - Open source integrated development platform for Kubernetes
+* [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Awesome Kubernetes resources
+* [CRI-O](http://cri-o.io) - a lightweight alternative to using Docker as the runtime for kubernetes. Implements  Kubernetes CRI (Container Runtime Interface) & enables OCI (Open Container Initiative) compatible runtimes.
+* [praqmatim](https://www.praqma.com/stories/ask/) - Atlassian high availability as code | Containerized Data Center on Kubernetes
+* [codecentric/helm-charts](https://github.com/codecentric/helm-charts/tree/master/charts/jenkins) - This chart install Jenkins on Kubernetes | It allows Jenkins to be completely configured as code that does not require any further manual configuration in the UI. While not required, it is meant to be used with the configuration-as-code plugin and/or Groovy init scripts.
+* [Andrew Lock](https://andrewlock.net/home-home-on-the-range-installing-kubernetes-using-rancher-2-0/) - (2017) Home, home on the range: Installing Kubernetes using Rancher 2.0
+* [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters. **See also : ** [Official website](https://octant.dev)
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
