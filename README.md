@@ -2679,6 +2679,7 @@ See also [Infrastructure](#infrastructure)
 * [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
+* [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
  
 # Gaming :video_game:
 > News
@@ -6786,6 +6787,7 @@ rpm --rebuilddb
 * [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
 * [Nibbler](https://nibbler.silktide.com/) - is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology.
+* [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
@@ -6924,6 +6926,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
 * [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
 * [Nibbler](https://nibbler.silktide.com/) - is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology.
+* [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
