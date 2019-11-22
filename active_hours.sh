@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 git log --author="Morgan" \
         --format="%ad" \
         --date="format:%H" |\
