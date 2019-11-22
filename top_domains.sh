@@ -1,3 +1,3 @@
-#/usr/bin/env bash
+#!/usr/bin/env bash
 BASEDIR=$(dirname "$0")
-cat "$BASEDIR/README.md" | cut -d'(' -f2 | cut -d')' -f1 | egrep "^http*" | awk -F/ '{print $3}' | sort  | uniq -c | sort -n
+cut -d'(' -f2 "$BASEDIR/README.md" | cut -d')' -f1 | grep -E "^http*" | awk -F/ '{print $3}' | sort  | uniq -c | sort -n
