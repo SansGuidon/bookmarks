@@ -2672,6 +2672,7 @@ See also [Infrastructure](#infrastructure)
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. **Bonus** [WAVE Browser Extensions](https://wave.webaim.org/extension/)
 * [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
 * [Nibbler](https://nibbler.silktide.com/) - is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology.
+* [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -6788,7 +6789,8 @@ rpm --rebuilddb
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
 * [Nibbler](https://nibbler.silktide.com/) - is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology.
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
-
+* [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
+ 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
 * [Jon Moore](https://medium.com/ux-power-tools/guilty-pleasures-for-designers-b34f2a3f604a) - Guilty Pleasures for Designers
@@ -6927,6 +6929,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
 * [Nibbler](https://nibbler.silktide.com/) - is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology.
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
+* [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
