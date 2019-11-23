@@ -6793,7 +6793,9 @@ rpm --rebuilddb
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
 * [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
 * [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) - A Chrome extension, helpful for understanding the problems faced by people with slight to extreme vision problems. **See also** : [Official website](https://accessgarage.wordpress.com)
-
+* [Hampus Sethfors](https://axesslab.com/fonts-dont-matter/) - (2017) Fonts don’t matter
+> The energy put on fonts is hugely overrated. There are other things that are of much greater importance for our members. – Representative from the Swedish Dyslexic Association
+ 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
 * [Jon Moore](https://medium.com/ux-power-tools/guilty-pleasures-for-designers-b34f2a3f604a) - Guilty Pleasures for Designers
