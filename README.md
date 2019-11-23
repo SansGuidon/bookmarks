@@ -6791,7 +6791,8 @@ rpm --rebuilddb
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
 * [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
 * [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) - A Chrome extension, helpful for understanding the problems faced by people with slight to extreme vision problems. **See also** : [Official website](https://accessgarage.wordpress.com)
- 
+* [The A11Y Project](https://a11yproject.com/checklist/) - Checklist : Determine how accessible your site is
+
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
 * [Jon Moore](https://medium.com/ux-power-tools/guilty-pleasures-for-designers-b34f2a3f604a) - Guilty Pleasures for Designers
@@ -6874,6 +6875,7 @@ rpm --rebuilddb
 * [The Front-End Checklist](https://frontendchecklist.io/) - perfect for modern websites and meticulous developers!
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 * [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
+* [The A11Y Project](https://a11yproject.com/checklist/) - Checklist : Determine how accessible your site is
 
 ## Web development tools
 * [Clay](http://fvisser.nl/clay/) - is a CSS preprocessor like LESS and Sass, but implemented as an embedded domain specific language (EDSL) in Haskell.
