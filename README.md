@@ -6795,6 +6795,7 @@ rpm --rebuilddb
 * [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) - A Chrome extension, helpful for understanding the problems faced by people with slight to extreme vision problems. **See also** : [Official website](https://accessgarage.wordpress.com)
 * [Hampus Sethfors](https://axesslab.com/fonts-dont-matter/) - (2017) Fonts don’t matter
 > The energy put on fonts is hugely overrated. There are other things that are of much greater importance for our members. – Representative from the Swedish Dyslexic Association
+* [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y/blob/master/topics/validators.md) - Development Testing and Validators focused on accessibility
  
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
@@ -6937,6 +6938,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
 * [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
 * [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) - A Chrome extension, helpful for understanding the problems faced by people with slight to extreme vision problems. **See also** : [Official website](https://accessgarage.wordpress.com)
+* [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y/blob/master/topics/validators.md) - Development Testing and Validators focused on accessibility
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
