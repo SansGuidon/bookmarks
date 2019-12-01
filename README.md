@@ -5284,6 +5284,7 @@ See also [Shell aliases](#shell-aliases)
 * [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
 * [MorganGeek/dotfiles](https://github.com/MorganGeek/dotfiles) - My own dotfiles
 * [scottnonnenberg](https://gist.github.com/scottnonnenberg/fefa3f65fdb3715d25882f3023b31c29) - Shared `.gitconfig` file
+* [kentcdodds](https://github.com/kentcdodds/dotfiles/blob/master/.macos) - Shared dotfiles for MacOS
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
