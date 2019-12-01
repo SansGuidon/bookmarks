@@ -1972,6 +1972,7 @@ See also [Infrastructure](#infrastructure)
 * [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
 * [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 * [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+* [branderxero](https://github.com/branderxero/dockerdots) - dotfiles for docker
 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -3296,6 +3297,7 @@ rpm --rebuilddb
 * [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
 * [sghiassy](https://gist.github.com/sghiassy/a3927405cf4ffe81242f4ecb01c382ac) - How to disable Device Enrollment Notification on Mac / Comment se débarrasser de la notification pour "Inscription du Périphérique" sur Mac
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/macos.md) - My cheatsheet for MacOS
+* [kentcdodds](https://github.com/kentcdodds/dotfiles/blob/master/.macos) - Shared dotfiles for MacOS
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
@@ -5285,6 +5287,7 @@ See also [Shell aliases](#shell-aliases)
 * [MorganGeek/dotfiles](https://github.com/MorganGeek/dotfiles) - My own dotfiles
 * [scottnonnenberg](https://gist.github.com/scottnonnenberg/fefa3f65fdb3715d25882f3023b31c29) - Shared `.gitconfig` file
 * [kentcdodds](https://github.com/kentcdodds/dotfiles/blob/master/.macos) - Shared dotfiles for MacOS
+* [branderxero](https://github.com/branderxero/dockerdots) - dotfiles for docker
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
