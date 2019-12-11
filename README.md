@@ -5396,6 +5396,7 @@ See also [Shell aliases](#shell-aliases)
 * [Nicolai Parlog](https://slides.codefx.org/java-x/#/) - [Slides] (2019) Java 9 To 13
 * [dekorateio/dekorate](https://github.com/dekorateio/dekorate) - Java annotation processors for Kubernetes
 * [Kotlin Docs](https://kotlinlang.org/docs/reference/comparison-to-java.html) - Comparison to Java Programming Language
+* [kwart/jd-cmd](https://github.com/kwart/jd-cmd) - Command line Java Decompiler
 
 ### Java EE ###
 * [Arjan Tijms](http://arjan-tijms.omnifaces.org/2016/12/the-state-of-portable-authentication-in.html) - (2016) The state of portable authentication in Java EE, end 2016 update
@@ -5892,6 +5893,7 @@ Raw
 * [Caleb Fenton/apkfile](https://github.com/CalebFenton/apkfile) - ApkFile : Android app analysis and feature extraction library
 * [Caleb Fenton/simplify](https://github.com/CalebFenton/simplify) - Simplify : Generic Android Deobfuscator
 * [ODA](https://onlinedisassembler.com/odaweb/) - The online disassembler
+* [kwart/jd-cmd](https://github.com/kwart/jd-cmd) - Command line Java Decompiler
 
 ## Ruby
 * [LZone](http://lzone.de/cheat-sheet/rvm) - RVM Cheat Sheet
