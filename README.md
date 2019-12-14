@@ -394,6 +394,12 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [MorganGeek](https://researchportal.unamur.be/fr/studentTheses/design-of-a-support-system-for-modelling-gene-regulatory-networks) - (2015) Design of a support system for modelling gene regulatory networks. **Bonus** : [Download in PDF](https://researchportal.unamur.be/files/36918347/2015_WattiezM_memoire.pdf)
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts : The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
 * [Terraform Best Practices](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
+* [MagazineLib](https://magazinelib.com/?s=Linux) - Free Pdf & interactive e-magazines
+* [ebpok3000](http://ebook3000.com/plus/search.php?keyword=Linux+magazine&x=0&y=0) - Download PDF Magazines, eBooks, PDF for Free
+* [PDF Giant](http://pdf-giant.com/tags/linux%20magazine) - a place where you can download magazines in digital PDF format. Save trees.
+* [pdf-magazines.me](https://pdf-magazines.me/) - PDF Magazines and ebook, variety of categories, fast search.
+* [WorldMags.net](https://www.worldmags.net/) - Magazines from all over the world
+* [freemagazinepdf.com](https://freemagazinepdf.com/?s=linux) - Magazines PDF download free
 
 > Summaries, notes and reviews
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
