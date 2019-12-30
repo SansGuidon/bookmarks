@@ -2496,6 +2496,8 @@ See also [Infrastructure](#infrastructure)
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 * [Yacy](https://yacy.net/en/index.html) - is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.
 * [Loklak Search](https://loklak.org/) - Distributed Open Source Search for Twitter and Social Media with Peer to Peer Technology
+* [SteamPeek](http://steampeek.hu/) - Find up to 60 similar games for almost any game | Trending and similar indie gems, search by games, tags and categories easily and more
+* [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next. 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2528,7 +2530,6 @@ See also [Infrastructure](#infrastructure)
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for [JAMstack](https://jamstack.org/) Sites
 * :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar/tools) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
-* [SteamPeek](http://steampeek.hu/) - Find up to 60 similar games for almost any game | Trending and similar indie gems, search by games, tags and categories easily and more
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -2749,6 +2750,7 @@ See also [Infrastructure](#infrastructure)
 * [adiGuba](https://switch.adiguba.com/) - :fr: [FR] Les jeux pour Nintendo Switch au meilleur prix !
 * [Deku Deals](https://www.dekudeals.com/) - tracks the prices of Nintendo Switch games on the eShop and at major retailers in order to find the best deals. Add items to your wishlist, and Deku Deals sends you an email as soon as they go on sale.
 * [SteamPeek](http://steampeek.hu/) - Find up to 60 similar games for almost any game | Trending and similar indie gems, search by games, tags and categories easily and more
+* [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next. 
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
