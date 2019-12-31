@@ -1,6 +1,6 @@
 ## My wishlists on internet ##
 
-### Books / Movies / TV Shows ###
+### Books / Movies / TV Shows + Games ###
 * [SensCritique](https://www.senscritique.com/MorganGeek/collection/wish/all/all/all/all/all/all/all/list/page-1) - MorganGeek wishlist
 * [Amazon](https://www.amazon.fr/gp/registry/wishlist/14HF95ODPK8AI/) - Morgan wishlist
 * [Goodreads](https://www.goodreads.com/review/list/17205528?shelf=to-read-x3) - Books x3
@@ -27,6 +27,7 @@
 * [Anime-Planet](http://www.anime-planet.com/users/MorganGeek/manga/wanttoread) - Manga list
 * [RateYourMusic](https://fr.rateyourmusic.com/collection/MorganGeek/stag/to+listen/) - music to listen to
 * [RateYourMusic](https://fr.rateyourmusic.com/collection/MorganGeek/wishlist) - Wishlist (music to buy)
+* [Deku Deals](https://www.dekudeals.com/wishlist/rkfdxtskhw) - Wishlist (nintendo switch games)
 
 ### Material misc ###
 
