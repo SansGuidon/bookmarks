@@ -2751,6 +2751,7 @@ See also [Infrastructure](#infrastructure)
 * [Deku Deals](https://www.dekudeals.com/) - tracks the prices of Nintendo Switch games on the eShop and at major retailers in order to find the best deals. Add items to your wishlist, and Deku Deals sends you an email as soon as they go on sale.
 * [SteamPeek](http://steampeek.hu/) - Find up to 60 similar games for almost any game | Trending and similar indie gems, search by games, tags and categories easily and more
 * [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next. 
+* [Before I Play](https://beforeiplay.com/index.php?title=Category:Games) - tells people about things they should know before they start playing a video game.  Some tips contain spoilers !
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
