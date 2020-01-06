@@ -2704,6 +2704,8 @@ See also [Infrastructure](#infrastructure)
 * [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
 * [Retro Gamer](https://www.retrogamer.net) - Magazine about Classic Video Game Info - Spectrum, Commodore, Atari, Amiga, Handhelds, Arcade Games
 * [Gaming Hell](http://gaminghell.co.uk/) - The old game site with guts! Where Zoanthropes Go to Die
+* [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
+* [WorthPlaying](https://worthplaying.com/news/reviews/) - the leading independent (no corporate overlords here!) video game news and reviews site. | WorthPlaying.com was launched on November 15th 2000, after hard work and a lot of research.
 
 > Misc
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
