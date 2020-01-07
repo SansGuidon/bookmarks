@@ -2498,6 +2498,9 @@ See also [Infrastructure](#infrastructure)
 * [Loklak Search](https://loklak.org/) - Distributed Open Source Search for Twitter and Social Media with Peer to Peer Technology
 * [SteamPeek](http://steampeek.hu/) - Find up to 60 similar games for almost any game | Trending and similar indie gems, search by games, tags and categories easily and more
 * [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next. 
+* [whatoplay](https://whatoplay.com/) - The idea for whatoplay first came as an answer to the question, “How do we pick which games to play?”. You can get recommendations by genre / platform, or explore recommendations starting from specific game. Examples : 
+  * Genre/Platform : [Single Player Switch Games](https://whatoplay.com/switch/single-player/) and [Open World Switch Games](https://whatoplay.com/switch/open-world/)
+  * Similar games : [Slain: Back from Hell on Switch](https://whatoplay.com/switch/slain-back-from-hell/)
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2754,6 +2757,9 @@ See also [Infrastructure](#infrastructure)
 * [SteamPeek](http://steampeek.hu/) - Find up to 60 similar games for almost any game | Trending and similar indie gems, search by games, tags and categories easily and more
 * [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next. 
 * [Before I Play](https://beforeiplay.com/index.php?title=Category:Games) - tells people about things they should know before they start playing a video game.  Some tips contain spoilers !
+* [whatoplay](https://whatoplay.com/) - The idea for whatoplay first came as an answer to the question, “How do we pick which games to play?”. You can get recommendations by genre / platform, or explore recommendations starting from specific game. Examples : 
+  * Genre/Platform : [Single Player Switch Games](https://whatoplay.com/switch/single-player/) and [Open World Switch Games](https://whatoplay.com/switch/open-world/)
+  * Similar games : [Slain: Back from Hell on Switch](https://whatoplay.com/switch/slain-back-from-hell/)
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
