@@ -3028,6 +3028,7 @@ See also [Infrastructure](#infrastructure)
 * [DSL-Store](https://dls-store.com/) - T-Shirt online store. Your best t-shirt should be like your bed. It just feels like you are home when you are in it.
 * [Manifesto for Half-Arsed Agile Software Development](https://www.halfarsedagilemanifesto.org/) - "We have heard about new ways of developing software by paying consultants and reading Gartner reports...."
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party or die
+* [Michael Küsters](https://docs.google.com/document/u/1/d/1-2aZP3BlctQrWP8bNpSxkVBKphypALPINUGGTn26els/mobilebasic) - (2019) The Scream Guide - A comprehensive Guide to Scream: When Scrum would require too much change! (Parodic guide to Scrum)
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -5866,6 +5867,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [The Best Motherfucking Website](https://thebestmotherfuckingwebsite.co/) - Your motherfucking websites got nothing compared to this beauty. **And some others :** [This is still a motherfucking website.](http://bettermotherfuckingwebsite.com/), [This is the best motherfucking website.](https://bestmotherfucking.website/), [This is the final motherfucking website.](https://perfectmotherfuckingwebsite.com/), [This is the best motherfucking website.](https://thebestmotherfucking.website/)
 * [@memenetes](https://twitter.com/memenetes) - Twitter account publishing kubernetes dank memes / humor if that's something
 * [What the Commit](http://whatthecommit.com/) - A random commit message generator. | some inspiration for your next git commit message
+* [Michael Küsters](https://docs.google.com/document/u/1/d/1-2aZP3BlctQrWP8bNpSxkVBKphypALPINUGGTn26els/mobilebasic) - (2019) The Scream Guide - A comprehensive Guide to Scream: When Scrum would require too much change! (Parodic guide to Scrum)
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
