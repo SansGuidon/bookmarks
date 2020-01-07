@@ -2501,6 +2501,7 @@ See also [Infrastructure](#infrastructure)
 * [whatoplay](https://whatoplay.com/) - The idea for whatoplay first came as an answer to the question, “How do we pick which games to play?”. You can get recommendations by genre / platform, or explore recommendations starting from specific game. Examples : 
   * Genre/Platform : [Single Player Switch Games](https://whatoplay.com/switch/single-player/) and [Open World Switch Games](https://whatoplay.com/switch/open-world/)
   * Similar games : [Slain: Back from Hell on Switch](https://whatoplay.com/switch/slain-back-from-hell/)
+* [RAWG](https://rawg.io/) - Discover your next favorite game | The largest video game database and video game discovery service powered by you!. RAWG is building its database as an infotainment and discovery tool where every user can build its own library of video games and find out about new titles. | RAWG is officially the largest video game database in the world
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2760,6 +2761,7 @@ See also [Infrastructure](#infrastructure)
 * [whatoplay](https://whatoplay.com/) - The idea for whatoplay first came as an answer to the question, “How do we pick which games to play?”. You can get recommendations by genre / platform, or explore recommendations starting from specific game. Examples : 
   * Genre/Platform : [Single Player Switch Games](https://whatoplay.com/switch/single-player/) and [Open World Switch Games](https://whatoplay.com/switch/open-world/)
   * Similar games : [Slain: Back from Hell on Switch](https://whatoplay.com/switch/slain-back-from-hell/)
+* [RAWG](https://rawg.io/) - Discover your next favorite game | The largest video game database and video game discovery service powered by you!. RAWG is building its database as an infotainment and discovery tool where every user can build its own library of video games and find out about new titles. | RAWG is officially the largest video game database in the world
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
