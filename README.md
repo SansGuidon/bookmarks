@@ -3300,6 +3300,7 @@ rpm --rebuilddb
 * [Lucas Fernandes da Costa](http://lucasfcosta.com/2017/01/23/Quick-vIM-Tips-That-Will-Save-Your-Life.html) - (2017) Quick vIM Tips That Will Save Your Life
 * [Joe Nelson aka begriffs](https://begriffs.com/posts/2019-07-19-history-use-vim.html) - (2019) History and effective use of Vim
 * [Alexander Vasilyevich Dzyoba](https://alex.dzyoba.com/blog/vim-revamp/) - (2019) How I revamped my Vim setup
+* [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Gorgeous ways to exit Vim :-D (it goes beyond what you expect)
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -5876,6 +5877,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [@memenetes](https://twitter.com/memenetes) - Twitter account publishing kubernetes dank memes / humor if that's something
 * [What the Commit](http://whatthecommit.com/) - A random commit message generator. | some inspiration for your next git commit message
 * [Michael Küsters](https://docs.google.com/document/u/1/d/1-2aZP3BlctQrWP8bNpSxkVBKphypALPINUGGTn26els/mobilebasic) - (2019) The Scream Guide - A comprehensive Guide to Scream: When Scrum would require too much change! (Parodic guide to Scrum)
+* [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Gorgeous ways to exit Vim :-D (it goes beyond what you expect)
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
