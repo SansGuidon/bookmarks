@@ -568,6 +568,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Save Coins](https://savecoins.app/) - helps you save money when you make a purchase at Nintendo Switch eShop.
 * [adiGuba](https://switch.adiguba.com/) - :fr: [FR] Les jeux pour Nintendo Switch au meilleur prix !
 * [Deku Deals](https://www.dekudeals.com/) - tracks the prices of Nintendo Switch games on the eShop and at major retailers in order to find the best deals. Add items to your wishlist, and Deku Deals sends you an email as soon as they go on sale.
+* [Keepa](https://keepa.com) - This Amazon price tracker will enhance your Amazon shopping experience as they provide price history charts, price drop alerts, price watches, daily drops and browser addons.
+* [PSprices](https://psprices.com/region-be/search/?q=&platform=Switch&dlc=show&sort=opencritic) - Game price notifications. Automatically monitor 8 platforms in 48 countries.
 
 ## Cryptocurrency
 > News
@@ -2755,6 +2757,7 @@ See also [Infrastructure](#infrastructure)
 * [Save Coins](https://savecoins.app/) - helps you save money when you make a purchase at Nintendo Switch eShop.
 * [adiGuba](https://switch.adiguba.com/) - :fr: [FR] Les jeux pour Nintendo Switch au meilleur prix !
 * [Deku Deals](https://www.dekudeals.com/) - tracks the prices of Nintendo Switch games on the eShop and at major retailers in order to find the best deals. Add items to your wishlist, and Deku Deals sends you an email as soon as they go on sale.
+* [Keepa](https://keepa.com) - This Amazon price tracker will enhance your Amazon shopping experience as they provide price history charts, price drop alerts, price watches, daily drops and browser addons. Good for watching games price drops.
 * [SteamPeek](http://steampeek.hu/) - Find up to 60 similar games for almost any game | Trending and similar indie gems, search by games, tags and categories easily and more
 * [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next. 
 * [Before I Play](https://beforeiplay.com/index.php?title=Category:Games) - tells people about things they should know before they start playing a video game.  Some tips contain spoilers !
@@ -2762,6 +2765,7 @@ See also [Infrastructure](#infrastructure)
   * Genre/Platform : [Single Player Switch Games](https://whatoplay.com/switch/single-player/) and [Open World Switch Games](https://whatoplay.com/switch/open-world/)
   * Similar games : [Slain: Back from Hell on Switch](https://whatoplay.com/switch/slain-back-from-hell/)
 * [RAWG](https://rawg.io/) - Discover your next favorite game | The largest video game database and video game discovery service powered by you!. RAWG is building its database as an infotainment and discovery tool where every user can build its own library of video games and find out about new titles. | RAWG is officially the largest video game database in the world
+* [PSprices](https://psprices.com/region-be/search/?q=&platform=Switch&dlc=show&sort=opencritic) - Game price notifications. Automatically monitor 8 platforms in 48 countries.
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
