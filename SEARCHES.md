@@ -27,3 +27,4 @@
 * [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
 * [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=morgangeek&src=typd&lang=fr) - latest MorganGeek mentions & tweets
 * [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
+* [Google](https://www.google.be/search?q=what%20are%20the%20worst%20programming%20practices) - what are the worst programming practices
