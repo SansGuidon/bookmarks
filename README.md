@@ -6154,6 +6154,7 @@ Raw
 * [Joon Ian Wong & Nikhil Sonnad](https://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/) - (2016) Google’s AI won the game Go by defying millennia of basic human instinct
 * [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity
 * [Daniel Miessler](https://danielmiessler.com/blog/job-losses-automation-active-passive/) - (2019) Job Losses from Automation Are Being Actively Engineered and Funded
+* [Neo-Luddism](https://en.wikipedia.org/wiki/Neo-Luddism) - Neo-Luddism or new Luddism is a philosophy opposing many forms of modern technology.
 
 # Shell scripting
 See also [CLI Tools](#cli-tools)
@@ -6640,6 +6641,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) - The replication crisis (or replicability crisis or reproducibility crisis) is, as of 2019, an ongoing methodological crisis in which it has been found that many scientific studies are difficult or impossible to replicate or reproduce. The replication crisis affects the social and life sciences most severely.
 * [Finn Brunton & Helen Nissenbaum](https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/) - (2019) The Fantasy of Opting Out
 > There is no simple solution to the problem of privacy, because privacy itself is a solution to societal challenges that are in constant flux. If the apparatus of total surveillance that we have described here were deliberate, centralized, and explicit, a Big Brother machine toggling between cameras, it would demand revolt, and we could conceive of a life outside the totalitarian microscope.
+* [Neo-Luddism](https://en.wikipedia.org/wiki/Neo-Luddism) - Neo-Luddism or new Luddism is a philosophy opposing many forms of modern technology.
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
