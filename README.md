@@ -3444,6 +3444,7 @@ rpm --rebuilddb
 
 > Tools
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
+* [Obscurify Music](https://obscurifymusic.com) - If you're on spotify, Obscurify let you learn more about your music taste and compare it to others' with Obscurify.
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
