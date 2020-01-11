@@ -91,3 +91,4 @@
 * A team of senior engineers without junior engineers is a team of engineers. [Malte Ubl, Immigrant (cramforce)](https://twitter.com/cramforce/status/927960579263700993)
 * [Programming quotes](http://quotes.cat-v.org/programming/)
 * Give me six hours to chop down a tree and I will spend the first four sharpening the axe. Abraham Lincoln
+* Leadership is the ability to hide your panic from others. Lao Tzu
