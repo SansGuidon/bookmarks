@@ -4657,6 +4657,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Sane software manifesto](https://sane-software.globalcode.info/v_0/) - While very opinionated, it's an interesting list of practices for software developers, about safe code, collaboration, reproducible builds, modularity, architecture, testability, etc.
+* [Google search](https://www.google.be/search?q=what%20are%20the%20worst%20programming%20practices) - what are the worst programming practices
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
