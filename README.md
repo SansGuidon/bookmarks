@@ -683,6 +683,7 @@ type `curl ident.me` to know your public ip
 * [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
 * [Paul Heinlein](https://www.madboa.com/geek/openssl/) - OpenSSL cookbook / command-line howto
 * [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
+* [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 
 # Collaboration & Problem solving
 > News
@@ -4296,6 +4297,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
 * [musicForProgramming](https://musicforprogramming.net/) - Music possessing these qualities can often provide just the right amount of interest to occupy the parts of your brain that would otherwise be left free to wander and lead to distraction during your work.
+* [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 
 # Programming
 > News
@@ -6286,6 +6288,7 @@ type `curl ident.me` to know your public ip
 * [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 * [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
+* [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](#dotfiles--aliases)
