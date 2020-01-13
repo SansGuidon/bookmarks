@@ -960,6 +960,7 @@ type `curl ident.me` to know your public ip
 > the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
+* [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -2696,6 +2697,7 @@ See also [Infrastructure](#infrastructure)
 * [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
 * [Nibbler](https://nibbler.silktide.com/) - is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology.
 * [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
+* [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -4302,6 +4304,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
 * [musicForProgramming](https://musicforprogramming.net/) - Music possessing these qualities can often provide just the right amount of interest to occupy the parts of your brain that would otherwise be left free to wander and lead to distraction during your work.
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
+* [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
 
 # Programming
 > News
