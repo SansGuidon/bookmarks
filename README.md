@@ -301,6 +301,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
 * [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
 * [Sane software manifesto](https://sane-software.globalcode.info/v_0/) - While very opinionated, it's an interesting list of practices for software developers, about safe code, collaboration, reproducible builds, modularity, architecture, testability, etc.
+* [Petter Måhlén](https://labs.spotify.com/2014/04/11/qualities-of-quality/) - (2014) Qualities of Quality | Spotify Labs
 
 # Art :art:
 > News
