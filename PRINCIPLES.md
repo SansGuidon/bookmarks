@@ -98,6 +98,14 @@
 * Act. No matter what. [Planned Parenthood](https://twitter.com/cshapiro/status/986225772665991168/photo/1)
 * [Dave Rupert](https://daverupert.com/2018/04/eponymous-laws-of-tech) - (2018) The Eponymous Laws of Tech | A compendium of tech-related laws, fallacies, and other wisdom
 * No code is faster than no code. - Merb Motto
+* If you can't see yourself working with someone else for life, don't work with them for a day. - Naval Ravikant. Tools of Titans by Tim Ferriss.
+* Earn with your mind, not with your time. - Naval Ravikant. Tools of Titans by Tim Ferriss.
+* 99% of all effort is wasted. - Naval Ravikant. Tools of Titans by Tim Ferriss.
+* Total honesty at all times. It's almost always possible to be honest & positive.  - Naval Ravikant. Tools of Titans by Tim Ferriss.
+* Praise specifically, criticize generally (Warren Buffett). - Naval Ravikant. Tools of Titans by Tim Ferriss.
+* All greatness comes from suffering. - Naval Ravikant. Tools of Titans by Tim Ferriss.
+* Enlightment is the space betweeen your thoughts. - Naval Ravikant. Tools of Titans by Tim Ferriss.
+* Love is given, not received. - Naval Ravikant. Tools of Titans by Tim Ferriss.
 
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
