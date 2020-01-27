@@ -3665,6 +3665,7 @@ type `curl ident.me` to know your public ip
 * [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html) - estimate your monthly AWS bill more efficiently. Using this tool, you can add, modify and remove services from your 'bill' and it will recalculate your estimated monthly charges automatically. The calculator also shows common customer samples and their usage, such as Disaster Recovery and Backup or Web Application.
 * [ops.tips](https://ops.tips/) - articles, tutorials and guides about cloud-native technologies: AWS, Golang, Containers, Linux, Infrastructure as a Service and DevOps. **Shortcuts :** [All gists](https://ops.tips/gists/) and [All articles](https://ops.tips/blog/)
 * [O11ycast](https://www.heavybit.com/library/podcasts/o11ycast/) - Exploring the observability side of software development.
+* [Jan Schaumann](https://www.netmeister.org/blog/ops-lessons.html) - (2020) (A few) Ops Lessons We All Learn The Hard Way
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
