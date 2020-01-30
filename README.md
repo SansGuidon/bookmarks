@@ -1697,6 +1697,7 @@ See also [Infrastructure](#infrastructure)
 * [Rodion Chachura](https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310) - (2018) System testing: Localstack + Terraform
 * [dtan4/terraforming](https://github.com/dtan4/terraforming) - Terraforming allows to export existing AWS resources to Terraform style (tf, tfstate)
 * [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
+* [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
@@ -3718,6 +3719,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Nic Jackson](https://www.hashicorp.com/blog/hashicorp-terraform-modules-as-building-blocks-for) - (2018) HashiCorp Terraform: Modules as Building Blocks for Infrastructure
 * [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
+* [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## Jira
 > News
@@ -6731,6 +6733,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Gregg Caines](http://caines.ca/blog/2018/03/27/zero-defect-policy/) - (2018) Zero Defect Policy
 * [Gilles Scokart](https://fr.slideshare.net/gscokart/stop-testing-start-designing) - [Slides] (2016) Stop testing start designing
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
+* [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
