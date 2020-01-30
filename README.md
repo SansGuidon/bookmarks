@@ -564,7 +564,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Daniel Miessler](https://danielmiessler.com/blog/job-losses-automation-active-passive/) - (2019) Job Losses from Automation Are Being Actively Engineered and Funded
 
 > Tools
-* [eShop Checker](http://eshop-checker.xyz/beta/#/) - Compare Nintendo Switch eShop price across zones for lowest price with daily update currency convertion.
 * [Nintendo eShop price comparator](https://eshop-prices.com/prices?currency=EUR) - Find the cheapest price for your favourite game, all prices are in Euro.
 * [Save Coins](https://savecoins.app/) - helps you save money when you make a purchase at Nintendo Switch eShop.
 * [adiGuba](https://switch.adiguba.com/) - :fr: [FR] Les jeux pour Nintendo Switch au meilleur prix !
@@ -2758,7 +2757,6 @@ See also [Infrastructure](#infrastructure)
 * [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser
 * [Good Video Game Interface Screenshots](http://videogameinterfaces.com/) - The best collection of the most beautiful, exceptional and inspiring video game interfaces and screenshots.
 * [HowLongToBeat.com](https://howlongtobeat.com/#search1) - How long does it take to beat your favorite games?
-* [eShop Checker](http://eshop-checker.xyz/beta/#/) - Compare Nintendo Switch eShop price across zones for lowest price with daily update currency convertion.
 * [Nintendo eShop price comparator](https://eshop-prices.com/prices?currency=EUR) - Find the cheapest price for your favourite game, all prices are in Euro.
 * [Save Coins](https://savecoins.app/) - helps you save money when you make a purchase at Nintendo Switch eShop.
 * [adiGuba](https://switch.adiguba.com/) - :fr: [FR] Les jeux pour Nintendo Switch au meilleur prix !
