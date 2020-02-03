@@ -4986,6 +4986,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [Bill Clark](https://technology.riotgames.com/news/taxonomy-tech-debt) - (2018) A Taxonomy of Tech Debt
+* [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
 
 ## Conferences
 > In Belgium
