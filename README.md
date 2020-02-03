@@ -2177,6 +2177,7 @@ See also [Infrastructure](#infrastructure)
 * [codecentric/helm-charts](https://github.com/codecentric/helm-charts/tree/master/charts/jenkins) - This chart install Jenkins on Kubernetes | It allows Jenkins to be completely configured as code that does not require any further manual configuration in the UI. While not required, it is meant to be used with the configuration-as-code plugin and/or Groovy init scripts.
 * [Andrew Lock](https://andrewlock.net/home-home-on-the-range-installing-kubernetes-using-rancher-2-0/) - (2017) Home, home on the range: Installing Kubernetes using Rancher 2.0
 * [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters. **See also : ** [Official website](https://octant.dev)
+* [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
