@@ -2299,6 +2299,7 @@ See also [Infrastructure](#infrastructure)
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
 * [antonbabenko/terragrunt-reference-architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) - Terragrunt Reference Architecture - This repository contains rather complete infrastructure configurations where Terragrunt is used to manage infrastructure for Acme Corporation.
 * [Anton Babenko](https://www.antonbabenko.com/make-terraform-faster-skip-unnecessary-checks-aws-s3/) - (2018) Make Terraform faster — skip unnecessary checks (AWS and S3)
+* [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-some-of-bestpractices-march-2019) - [Slides] (2019) Terraform modules and some of best-practices | Slides of his talk at DevOps Singapore meetup in March 2019 
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -4990,6 +4991,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Bill Clark](https://technology.riotgames.com/news/taxonomy-tech-debt) - (2018) A Taxonomy of Tech Debt
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
 * [antonbabenko/terragrunt-reference-architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) - Terragrunt Reference Architecture - This repository contains rather complete infrastructure configurations where Terragrunt is used to manage infrastructure for Acme Corporation.
+* [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-some-of-bestpractices-march-2019) - [Slides] (2019) Terraform modules and some of best-practices | Slides of his talk at DevOps Singapore meetup in March 2019 
 
 ## Conferences
 > In Belgium
