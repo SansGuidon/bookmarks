@@ -394,7 +394,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html) - DevOps with OpenShift
 * [MorganGeek](https://researchportal.unamur.be/fr/studentTheses/design-of-a-support-system-for-modelling-gene-regulatory-networks) - (2015) Design of a support system for modelling gene regulatory networks. **Bonus** : [Download in PDF](https://researchportal.unamur.be/files/36918347/2015_WattiezM_memoire.pdf)
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts : The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
-* [Terraform Best Practices](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
+* :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
 * [MagazineLib](https://magazinelib.com/?s=Linux) - Free Pdf & interactive e-magazines
 * [ebpok3000](http://ebook3000.com/plus/search.php?keyword=Linux+magazine&x=0&y=0) - Download PDF Magazines, eBooks, PDF for Free
 * [PDF Giant](http://pdf-giant.com/tags/linux%20magazine) - a place where you can download magazines in digital PDF format. Save trees.
@@ -2273,7 +2273,7 @@ See also [Infrastructure](#infrastructure)
 * [Kevin London](https://www.kevinlondon.com/2016/09/20/devops-from-scratch-pt-2.html) - (2016) DevOps from Scratch, Part 2: Amazon & Terraform
 * [Yevgeniy Brikman](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c) - (2016) Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation
 * [Ádám Sándor](https://container-solutions.com/propagating-configuration-from-terraform-to-kubernetes-apps/) - (2018) Propagating configuration from Terraform to Kubernetes Apps
-* [Terraform Best Practices](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
+* :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
 * [Anton Babenko](https://fosdem.org/2019/schedule/event/terraform_best_practices/) - [Videos] (2019) Codifying infrastructure with Terraform for the future | be aware of principles related to management of Terraform resources, Terraform modules best-practices and some CI/CD principles applicable to infrastructure management and deployments.
 * :star: [**HashiCorp Learn**](https://learn.hashicorp.com/terraform/?track=getting-started#getting-started) - Getting Started - AWS | In this introduction to Terraform, you will learn how to use Terraform to build infrastructure in AWS.
 * [Regis Wilson](https://medium.com/driven-by-code/the-terrors-and-joys-of-terraform-88bbd1aa4359) - (2019) The Terrors and Joys of Terraform
@@ -2297,6 +2297,8 @@ See also [Infrastructure](#infrastructure)
 * [Dave Kerr](https://dwmkerr.com/dynamic-and-configurable-availability-zones-in-terraform/) - (2019) Dynamic and Configurable Availability Zones in Terraform
 * [Terratest](https://terratest.gruntwork.io/) - is a Go library that provides patterns and helper functions for testing infrastructure, with 1st-class support for Terraform, Packer, Docker, Kubernetes, AWS, GCP, and more | Automated tests for your infrastructure code.
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
+* [antonbabenko/terragrunt-reference-architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) - Terragrunt Reference Architecture - This repository contains rather complete infrastructure configurations where Terragrunt is used to manage infrastructure for Acme Corporation.
+* [Anton Babenko](https://www.antonbabenko.com/make-terraform-faster-skip-unnecessary-checks-aws-s3/) - (2018) Make Terraform faster — skip unnecessary checks (AWS and S3)
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -3721,7 +3723,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
 * [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-* [Terraform Best Practices](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
+* :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
 
 ## Jira
@@ -4972,7 +4974,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Slow Programming](https://slowprogramming.com/) - Programming has become a pursuit of profit over personal knowledge. The craft of programming has developed into a rapid rush to the finish line via bootcamps and brief tutorials.
 * [stanislaw/SoftwareDesignHeuristics](https://github.com/stanislaw/SoftwareDesignHeuristics) - heuristics found to be useful in software engineering practice. We call “heuristics” everything that helps us to write better code given we keep them in mind.
 * [Arnaud Lemaire](https://www.youtube.com/watch?v=bQfumbBN6YQ) - [Videos] :fr: [FR] (2019) Entre industrialisation et artisanat, le métier de développeur. | a very good and accurate talk of software craftsmanship
-* [Terraform Best Practices](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
+* :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
 * [Anton Babenko](https://fosdem.org/2019/schedule/event/terraform_best_practices/) - [Videos] (2019) Codifying infrastructure with Terraform for the future | be aware of principles related to management of Terraform resources, Terraform modules best-practices and some CI/CD principles applicable to infrastructure management and deployments.
 * [Matej Jellus](https://juffalow.com/other/write-good-git-commit-message) - (2018) Write good git commit message
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
@@ -4987,6 +4989,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [Bill Clark](https://technology.riotgames.com/news/taxonomy-tech-debt) - (2018) A Taxonomy of Tech Debt
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
+* [antonbabenko/terragrunt-reference-architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) - Terragrunt Reference Architecture - This repository contains rather complete infrastructure configurations where Terragrunt is used to manage infrastructure for Acme Corporation.
 
 ## Conferences
 > In Belgium
