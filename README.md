@@ -684,6 +684,7 @@ type `curl ident.me` to know your public ip
 * [Paul Heinlein](https://www.madboa.com/geek/openssl/) - OpenSSL cookbook / command-line howto
 * [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
+* [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
 # Collaboration & Problem solving
 > News
@@ -5355,6 +5356,7 @@ See also [Shell aliases](#shell-aliases)
 * [raidzero/dotfiles](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
 * [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
 * [powerlevel9k/wiki/Show-Off-Your-Config](https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config) - If you have a special configuration show it here!
+* [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience. | Alternative to Powerlevel9k (and compatible with)
 * [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
 * [MorganGeek/dotfiles](https://github.com/MorganGeek/dotfiles) - My own dotfiles
 * [scottnonnenberg](https://gist.github.com/scottnonnenberg/fefa3f65fdb3715d25882f3023b31c29) - Shared `.gitconfig` file
