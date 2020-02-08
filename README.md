@@ -2519,6 +2519,7 @@ See also [Infrastructure](#infrastructure)
   * Genre/Platform : [Single Player Switch Games](https://whatoplay.com/switch/single-player/) and [Open World Switch Games](https://whatoplay.com/switch/open-world/)
   * Similar games : [Slain: Back from Hell on Switch](https://whatoplay.com/switch/slain-back-from-hell/)
 * [RAWG](https://rawg.io/) - Discover your next favorite game | The largest video game database and video game discovery service powered by you!. RAWG is building its database as an infotainment and discovery tool where every user can build its own library of video games and find out about new titles. | RAWG is officially the largest video game database in the world
+* [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -3417,6 +3418,7 @@ rpm --rebuilddb
 * [DoesTheDogDie.com](https://www.doesthedogdie.com/) - Crowdsourced emotional spoilers for movies, tv, books and more.
 * [Rating Graph](https://www.ratingraph.com/) - is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies.
 * [Spoiler.io](http://spoiler.io/) - Random Movies and TV Shows Spoilers.
+* [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
 
 # Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
@@ -5545,6 +5547,7 @@ See also [Shell aliases](#shell-aliases)
 * [Rob Harrigan](https://unsupervisedpandas.com/python/supervised-classification-preprocessing/) - (2017) Supervised Classification: An Introduction and Preprocessing
 * [David Venturi](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0) - (2017) Every single Machine Learning course on the internet, ranked by your reviews
 * [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning) - (2017) The Last 5 Years In Deep Learning
+* [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
 
 ## Mobile Development :iphone:
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
@@ -6182,6 +6185,7 @@ Raw
 * [Radim Řehůřek](https://rare-technologies.com/go_games_life/) - (2016) Go, Games, Strategy and Life: The Big Picture | on Go, insights vs victories, also about creativity
 * [Daniel Miessler](https://danielmiessler.com/blog/job-losses-automation-active-passive/) - (2019) Job Losses from Automation Are Being Actively Engineered and Funded
 * [Neo-Luddism](https://en.wikipedia.org/wiki/Neo-Luddism) - Neo-Luddism or new Luddism is a philosophy opposing many forms of modern technology.
+* [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
 
 # Shell scripting
 See also [CLI Tools](#cli-tools)
