@@ -994,6 +994,7 @@ type `curl ident.me` to know your public ip
 > the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
+* [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 
 ## Documentation
 > Learn
@@ -2727,8 +2728,8 @@ See also [Infrastructure](#infrastructure)
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
- 
- 
+* [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
+
 > News
 * [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
 * [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
@@ -4332,6 +4333,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [musicForProgramming](https://musicforprogramming.net/) - Music possessing these qualities can often provide just the right amount of interest to occupy the parts of your brain that would otherwise be left free to wander and lead to distraction during your work.
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 * [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
+* [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 
 # Programming
 > News
