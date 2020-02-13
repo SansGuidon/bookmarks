@@ -1265,6 +1265,10 @@ type `curl ident.me` to know your public ip
 * [SysAdvent Calendar](https://www.redpill-linpro.com/sysadvent/) - Pre Christmas Tips and Tricks for Sysadmins
 * [AWS News Blog](https://aws.amazon.com/fr/blogs/aws/)
 * [GOTO Blog](https://blog.gotocon.com/blog/) - Created for developers, by developers, GOTO is focused on bringing together the best minds in the software community and the most interesting topics to light.
+* [HangOps](https://signup.hangops.com/) - is a large, active DevOps slack community.
+* [Devops Engineers](https://devopsengineers.com/) - A group of engineers talking about devops related topics in a Slack channel
+* [DevOpsChat](https://devopschat.co/) - Get involved with the Largest DevOps Slack Community
+* [SweetOps](https://slack.cloudposse.com/) - is a collaborative DevOps community for engineers of all skill levels, sponsored by Cloud Posse.
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -1790,6 +1794,10 @@ See also [Infrastructure](#infrastructure)
 * [Random Emojis for Slack](https://slackmojis.com/categories/19-random-emojis) - big collection of emojis for Slack
 * [Emojipedia](https://emojipedia.org/) - 📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍 . **Example** : [Pistol Emoji](https://emojipedia.org/pistol/)
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
+* [HangOps](https://signup.hangops.com/) - is a large, active DevOps slack community.
+* [Devops Engineers](https://devopsengineers.com/) - A group of engineers talking about devops related topics in a Slack channel
+* [DevOpsChat](https://devopschat.co/) - Get involved with the Largest DevOps Slack Community
+* [SweetOps](https://slack.cloudposse.com/) - is a collaborative DevOps community for engineers of all skill levels, sponsored by Cloud Posse.
 
 ## Chef
 * [Nathen Harvey's Talks](https://speakerdeck.com/nathenharvey) - Talks / Slides by Chef's Community Director
@@ -2185,6 +2193,9 @@ See also [Infrastructure](#infrastructure)
 * [Andrew Lock](https://andrewlock.net/home-home-on-the-range-installing-kubernetes-using-rancher-2-0/) - (2017) Home, home on the range: Installing Kubernetes using Rancher 2.0
 * [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters. **See also : ** [Official website](https://octant.dev)
 * [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+* [derailed/popeye](https://github.com/derailed/popeye) - 🧭 A Kubernetes cluster resource sanitizer helper
+* [instrumenta/helm-conftest](https://github.com/instrumenta/helm-conftest) - A Helm plugin for testing Helm Charts using Open Policy Agent
+* [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -6771,6 +6782,8 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [eerkunt/terraform-compliance](https://github.com/eerkunt/terraform-compliance) - a lightweight, security focused, BDD test framework against terraform
 * [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build time - Terraform static analysis 
 * [liamg/tfsec](https://github.com/liamg/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
+* [instrumenta/helm-conftest](https://github.com/instrumenta/helm-conftest) - A Helm plugin for testing Helm Charts using Open Policy Agent
+* [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
