@@ -1713,6 +1713,7 @@ See also [Infrastructure](#infrastructure)
 * [Cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro | Create smart AWS diagrams
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform 
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
@@ -1930,6 +1931,7 @@ See also [Infrastructure](#infrastructure)
  * [Philipp Hauer](https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/) - (2016) Version Numbers for Continuous Delivery with Maven and Docker
 * [Play with Docker Classroom](https://training.play-with-docker.com/) - The Play with Docker classroom brings you labs and tutorials that help you get hands-on experience using Docker
 * [Gruntwork](https://gruntwork.io/devops-resources/) - A collection of blog posts, talks, books, and checklists for learning about DevOps, AWS, Terraform, Docker, Packer, and more
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 
 > Best practices
 * [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
@@ -2013,6 +2015,7 @@ See also [Infrastructure](#infrastructure)
 * [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 * [branderxero](https://github.com/branderxero/dockerdots) - dotfiles for docker
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -2294,6 +2297,7 @@ See also [Infrastructure](#infrastructure)
 * [Terratest](https://terratest.gruntwork.io/) - is a Go library that provides patterns and helper functions for testing infrastructure, with 1st-class support for Terraform, Packer, Docker, Kubernetes, AWS, GCP, and more | Automated tests for your infrastructure code.
 * [Gruntwork](https://gruntwork.io/devops-resources/) - A collection of blog posts, talks, books, and checklists for learning about DevOps, AWS, Terraform, Docker, Packer, and more
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -2339,6 +2343,10 @@ See also [Infrastructure](#infrastructure)
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform 
 * [Gruntwork](https://gruntwork.io/devops-resources/) - A collection of blog posts, talks, books, and checklists for learning about DevOps, AWS, Terraform, Docker, Packer, and more
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
+* [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
+* [Charity Majors aka mipsytipsy](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/) - (2016) Terraform, VPC, and why you want a tfstate file per env
+* [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules/) - (2017) Reusable, composable, battle-tested Terraform modules
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -3598,7 +3606,7 @@ type `curl ident.me` to know your public ip
 * [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - (2013) My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
 * [Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55) - Linux Performance Analysis in 60,000 Milliseconds
 * [alicegoldfuss/oncall-handbook](https://github.com/alicegoldfuss/oncall-handbook) - Tips and tricks for getting through on-call
-* [Charity Majors](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - (2017) Lies My Parents Told Me (About Logs)
+* [Charity Majors aka mipsytipsy](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/) - (2017) Lies My Parents Told Me (About Logs)
 * [Aurore Malherbes](https://www.theodo.fr/blog/2017/05/prevent-command-with-a-specific-option-to-be-run-on-your-server/) - (2017) Prevent command with a specific option to be run on your server
 * [Pat Cable](https://blog.threatstack.com/balancing-security-and-your-on-call-rotation-using-deputize) - Balancing Security and Your On-Call Rotation Using Deputize
 * [Brendan D. Gregg](https://twitter.com/tgraf__/status/855100288251961346/photo/1) - Awesome 60s perf analysis cheatsheet : Host Perf Analysis in 60s
@@ -3625,7 +3633,7 @@ type `curl ident.me` to know your public ip
 * [Justin Weissig](https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know) - Bits Sysadmins Should Know
 * [Sysadmin Casts](https://sysadmincasts.com/) - Good resources for sysadmin / ops / devops
 * [Derek Weeks](http://blog.sonatype.com/embedding-ownership-a-devops-best-practice) - Embedding Ownership: A DevOps Best Practice
-* [Charity Majors](https://opensource.com/article/17/7/state-systems-administration) - (2017) Ops: It's everyone's job now
+* [Charity Majors aka mipsytipsy](https://opensource.com/article/17/7/state-systems-administration) - (2017) Ops: It's everyone's job now
 * [Paul English](https://opensource.com/article/17/7/truth-about-sysadmins) - (2017) The truth about sysadmins
 * [plop_plop_sys](http://linuxfr.org/users/plop_plop_sys/journaux/so-you-wanna-be-a-sysadmin-trolldi-inside) - (2014) [FR] :fr: - Journal So, you wanna be a sysadmin ? (Trolldi inside)
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
@@ -3841,7 +3849,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Matt Watson](https://stackify.com/15-metrics-for-devops-success/) - (2017) 15 Metrics for DevOps Success
 * [Caitie McCaffrey](https://queue.acm.org/detail.cfm?id=2889274) - (2016) The Verification of a Distributed System | A practitioner's guide to increasing confidence in system correctness
 * [OpsStack](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/) - [Slides] (2017) Monitoring the SRE Golden Signals | Actually Getting the Metrics from Common Services
-* [Charity Majors](https://honeycomb.io/blog/2017/11/best-practices-for-observability/) - (2017) Best Practices for Observability
+* [Charity Majors aka mipsytipsy](https://honeycomb.io/blog/2017/11/best-practices-for-observability/) - (2017) Best Practices for Observability
 * [Brendan D. Gregg](http://www.brendangregg.com/Perf/linux_observability_tools.png) - [IMG] Linux performance observability tools
 * [Alex Dzyoba](https://alex.dzyoba.com/blog/go-prometheus-service/) - (2018) Instrumenting a Go service for Prometheus
 * [Daniel Lebrero](https://danlebrero.com/2016/11/21/the-boy-who-cried-wolf-an-it-tale/) - (2016) The boy who cried wolf, an IT tale | on the importance of a correct log level
@@ -6800,6 +6808,8 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [instrumenta/helm-conftest](https://github.com/instrumenta/helm-conftest) - A Helm plugin for testing Helm Charts using Open Policy Agent
 * [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
+* [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules/) - (2017) Reusable, composable, battle-tested Terraform modules
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
