@@ -1712,6 +1712,7 @@ See also [Infrastructure](#infrastructure)
 * [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 * [Cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro | Create smart AWS diagrams
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform 
+* [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
@@ -2011,6 +2012,7 @@ See also [Infrastructure](#infrastructure)
 * [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 * [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 * [branderxero](https://github.com/branderxero/dockerdots) - dotfiles for docker
+* [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
@@ -2291,6 +2293,7 @@ See also [Infrastructure](#infrastructure)
 * [Anna Kennedy](http://annaken.github.io/testing-packer-builds-with-serverspec) - (2017) Testing Packer builds with Serverspec
 * [Terratest](https://terratest.gruntwork.io/) - is a Go library that provides patterns and helper functions for testing infrastructure, with 1st-class support for Terraform, Packer, Docker, Kubernetes, AWS, GCP, and more | Automated tests for your infrastructure code.
 * [Gruntwork](https://gruntwork.io/devops-resources/) - A collection of blog posts, talks, books, and checklists for learning about DevOps, AWS, Terraform, Docker, Packer, and more
+* [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -2335,6 +2338,7 @@ See also [Infrastructure](#infrastructure)
 * [liamg/tfsec](https://github.com/liamg/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform 
 * [Gruntwork](https://gruntwork.io/devops-resources/) - A collection of blog posts, talks, books, and checklists for learning about DevOps, AWS, Terraform, Docker, Packer, and more
+* [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -6795,6 +6799,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [liamg/tfsec](https://github.com/liamg/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
 * [instrumenta/helm-conftest](https://github.com/instrumenta/helm-conftest) - A Helm plugin for testing Helm Charts using Open Policy Agent
 * [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
+* [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
