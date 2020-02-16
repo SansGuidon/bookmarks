@@ -1799,8 +1799,9 @@ See also [Infrastructure](#infrastructure)
 * [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know
 * [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
 * [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - (2011) How GitHub Uses GitHub to Build GitHub
+* [Anders Wallgren](https://dzone.com/articles/chatops-and-devops-best-practices) - (2017) ChatOps and DevOps Best Practices
 
-> Slack communitiess
+> Slack communities
 * [Botmakers](https://botmakers.org/) - Slack Community of bot fans who make and share online bots for Twitter, Slack, etc.
 * [ChatBots & AI group](https://chatbotsgroup.engazify.com/) - Slack community of bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
 * [Kotlin Slack](http://kotlinlang.slack.com/) - official slack managed by jetbrains
