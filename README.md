@@ -693,7 +693,7 @@ type `curl ident.me` to know your public ip
 * [Collaborative Fund](http://www.collaborativefund.com/blog/archive/) - About information, collaboration and investments
 
 > Learn
-* [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
+* [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - (2016) Is group chat making you sweat?
 * [Dale Emery](http://cwd.dhemery.com/2005/05/motivation) - (2005) model of motivation : Motivation = Ability × Results × Preferences
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/what-if-we-forget-to-write-the-tests) - What If We Forget To Write the Tests?
 * [Paul Kaye](https://www.linkedin.com/pulse/control-stifles-creativity-growth-paul-kaye) - Control stifles creativity and growth
@@ -1734,6 +1734,7 @@ See also [Infrastructure](#infrastructure)
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/bitbucket.md) - My cheatsheet for Bitbucket
 
 ## ChatOps
+> Tools
 * [Vivek Gite](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
 * [Richard Jones](https://www.metabrew.com/article/how-we-use-irc-at-lastfm) - (2009) How we use IRC at Last.fm
 * [Vinay Nadig](https://www.icicletech.com/blog/automate-your-development-activities-with-hubot) - Automate Your Development Activities with Hubot
@@ -1743,8 +1744,6 @@ See also [Infrastructure](#infrastructure)
 * [Hubot Scripts](https://github.com/hubot-scripts) - Hubot Scripts on GitHub. Other related repo on GitHub by tag : [hubot-scripts](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot-scripts+&type=Repositories), [hubot](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot+&type=Repositories), [hubot-adapter](https://github.com/search?q=topic%3Ahubot-adapter&type=Repositories)
 * [Rocket.Chat](https://rocket.chat/) - your self hosted cross-platform open source chat solution as an alternative to slack. Related : [RocketChat GitHub repo](https://github.com/RocketChat/Rocket.Chat), [Integrate with Rocket.Chat !](https://github.com/RocketChat/Rocket.Chat.Ops)
 * [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat) - Rocket.Chat Hubot adapter
-* [Botmakers](https://botmakers.org/) - Slack Community of bot fans who make and share online bots for Twitter, Slack, etc.
-* [ChatBots & AI group](https://chatbotsgroup.engazify.com/) - Slack community of bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
 * [Lita](https://www.lita.io/) - A free extensible robot companion, written in Ruby, for your company's chat room. [Plugins here](https://plugins.lita.io/)
 * [Atlassian Docs](https://confluence.atlassian.com/hipchatkb/using-bots-in-hipchat-753404057.html) - Using bots in HipChat : Lita, Hubot, Will, wobot, Err...
 * [HipChat Docs](https://developer.atlassian.com/hipchat) - HipChat developer documentation. [Rest API here](https://developer.atlassian.com/hipchat/guide/hipchat-rest-api), [Sending Messages here](https://developer.atlassian.com/hipchat/guide/sending-messages), [Send room notifications](https://www.hipchat.com/docs/apiv2/method/send_room_notification), [Send room message](https://www.hipchat.com/docs/apiv2/method/send_message), [Capabilities description](https://www.hipchat.com/docs/apiv2/capabilities)
@@ -1755,24 +1754,26 @@ See also [Infrastructure](#infrastructure)
 * [hipchat/hubot-hipchat](https://github.com/hipchat/hubot-hipchat) - HipChat adapter for Hubot
 * [Jabber plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Jabber+Plugin)
 * [Cisco Spark](https://depot.ciscospark.com/integrations/categories/developer-tools) - Cisco Spark integrations with developer tools
-* [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - (2015) Chatops Pitfalls and Tips
 * [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - (2015) Integrating ServiceNow with HipChat
-* [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - Is group chat making you sweat?
-* [XKCD](https://xkcd.com/1810/) - xKCD about chat systems
-* [Sameroom.io](https://cdn.sameroom.io/chat-timeline.pdf) - a brief history of chat services from 1973 to the present day
-* [Pidgin](https://bitbucket.org/pidgin/main/pull-requests/91/implmeth-webex-token-sasl-auth-for-jabber/diff) - Implmeth WEBEX-TOKEN SASL auth for jabber.
-* [matterbridge](https://github.com/42wim/matterbridge/commit/ee643de5b6031b6bdbf2e957f2fea8f1222ace64) - Add compatibility for Cisco Jabber (xmpp)
-* [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know
 * [bhuga/hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc) - hubot-chatops-rpc : Easily add RPC endpoints to your hubot.
-* [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
-* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
 * [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
 * [Dylan Murray](https://blog.openshift.com/rocket-chat-ansible-playbook-bundle-development-deployment-tutorial/) - (2018) Rocket.Chat Ansible Playbook Bundle Development & Deployment Tutorial
-* [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
-* [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - (2011) How GitHub Uses GitHub to Build GitHub
 * [Andrei Soroker](https://sameroom.io/blog/self-hosted-team-chat-options-and-alternatives/) - (2015) Self-Hosted Team Chat Options and Alternatives
 * [Mattermost](https://about.mattermost.com/community-applications/) - Mattermost Apps and Integrations
 * [Rocket.Chat Docs](https://rocket.chat/docs/administrator-guides/integrations/) - Rocket.Chat Integrations
+* [Matrix.org Blog](https://matrix.org/blog/home/) - An open network for secure, decentralized communication.
+* [Rudolf Olah](https://sourcecontribute.com/2015/09/26/zulip-slack-hipchat-competitor/) - (2015) Zulip, an Open Source Slack competitor
+* [Rudolf Olah](https://sourcecontribute.com/2017/09/10/riot-im-0-12-is-out-yes-its-better-than-slack/) - (2017) Riot.im 0.12 is out, yes it’s better than Slack | but I see a very small number of [apps, tools and bridges](https://about.riot.im/apps-bots-and-bridges/). See also [Running your own encrypted chat service with Matrix and Riot](https://gist.github.com/attacus/cb5c8a53380ca755b10a5b37a636a0b9)
+* [Bill Doerrfeld](https://nordicapis.com/12-frameworks-to-build-chatops-bots/) - (2016) 12+ Frameworks to Build ChatOps Bots
+* [Zulip](https://zulipchat.com/integrations/) - all native integrations for Zulip
+* [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know)
+> Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
+
+> Misc
+* [XKCD](https://xkcd.com/1810/) - xKCD about chat systems
+* [Sameroom.io](https://cdn.sameroom.io/chat-timeline.pdf) - a brief history of chat services from 1973 to the present day
+* [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
+* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
 * [Oded Zilinsky](https://techbeacon.com/how-use-chatops-boost-business-engagement-across-teams) - (2018) How to use ChatOps to boost business engagement across teams | Go cross-silo with chatbots
 * [Slack Help Center](https://get.slack.help/hc/en-us/articles/201727913-Connect-to-Slack-over-IRC-and-XMPP) - Connect to Slack over IRC and XMPP | slack ends XMPP / IRC support
 * [Carl Chenet](https://carlchenet.com/the-slack-threat/) - (2017) The Slack Threat | why you may need alternatives to slack
@@ -1781,17 +1782,9 @@ See also [Infrastructure](#infrastructure)
 * [Samuel Hulick](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea) - (2016) Slack, I’m Breaking Up with You
 * [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
 * [Duncan Bayne](https://lobste.rs/s/3ymveg/slack_s_xmpp_gateway_is_broken_they_won_t_be) - (2018) Slack's XMPP gateway is broken, and they won't be fixing it
-* [Matrix.org Blog](https://matrix.org/blog/home/) - An open network for secure, decentralized communication.
-* [Rudolf Olah](https://sourcecontribute.com/2015/09/26/zulip-slack-hipchat-competitor/) - (2015) Zulip, an Open Source Slack competitor
-* [Rudolf Olah](https://sourcecontribute.com/2017/09/10/riot-im-0-12-is-out-yes-its-better-than-slack/) - (2017) Riot.im 0.12 is out, yes it’s better than Slack | but I see a very small number of [apps, tools and bridges](https://about.riot.im/apps-bots-and-bridges/). See also [Running your own encrypted chat service with Matrix and Riot](https://gist.github.com/attacus/cb5c8a53380ca755b10a5b37a636a0b9)
 * [Slack](https://a.slack-edge.com/4c1ae/img/security_ent/Security_White_Paper.pdf) - [PDF] Slack’s approach to security
-* [Atlassian Release Notes](https://atlassianreleasenotes.tumblr.com/tagged/hipchatdatacenter) - HipChat DataCenter Release Notes
 * [JC Brand](https://opkode.com/blog/slacks-bait-and-switch/) - (2018) Slack's bait and switch | We all know the real reason Slack has closed off their gateways. Their business model dictates that they should. They're a typical walled garden, information silo or Siren Server
-* [Bill Doerrfeld](https://nordicapis.com/12-frameworks-to-build-chatops-bots/) - (2016) 12+ Frameworks to Build ChatOps Bots
-* [Zulip](https://zulipchat.com/integrations/) - all native integrations for Zulip
-* [Cog Book](http://book.cog.bot/appendices/designing_for_chatops.html) - Designing ChatOps Commands
-* [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know)
-> Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
+* [Cog Book](https://github.com/operable/cog-book/blob/master/cog-book/source/appendices/designing_for_chatops.rst) - Designing ChatOps Commands
 * [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - A collection of awesome things about ChatOps.
 * [Jaikumar Vijayan](https://techbeacon.com/how-securely-scale-chatops-enterprise) - How to securely scale ChatOps in the enterprise
 * [List of All ASCII Emoticons](https://upli.st/l/list-of-all-ascii-emoticons) - A massive list of all the ASCII emoticons discovered on the interweb.
@@ -1799,6 +1792,18 @@ See also [Infrastructure](#infrastructure)
 * [Random Emojis for Slack](https://slackmojis.com/categories/19-random-emojis) - big collection of emojis for Slack
 * [Emojipedia](https://emojipedia.org/) - 📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍 . **Example** : [Pistol Emoji](https://emojipedia.org/pistol/)
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
+
+> Tips
+* [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - (2015) Chatops Pitfalls and Tips
+* [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - (2016) Is group chat making you sweat?
+* [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know
+* [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
+* [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - (2011) How GitHub Uses GitHub to Build GitHub
+
+> Slack communitiess
+* [Botmakers](https://botmakers.org/) - Slack Community of bot fans who make and share online bots for Twitter, Slack, etc.
+* [ChatBots & AI group](https://chatbotsgroup.engazify.com/) - Slack community of bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
+* [Kotlin Slack](http://kotlinlang.slack.com/) - official slack managed by jetbrains
 * [HangOps](https://signup.hangops.com/) - is a large, active DevOps slack community.
 * [Devops Engineers](https://devopsengineers.com/) - A group of engineers talking about devops related topics in a Slack channel
 * [DevOpsChat](https://devopschat.co/) - Get involved with the Largest DevOps Slack Community
@@ -2348,6 +2353,7 @@ See also [Infrastructure](#infrastructure)
 * [Charity Majors aka mipsytipsy](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/) - (2016) Terraform, VPC, and why you want a tfstate file per env
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules/) - (2017) Reusable, composable, battle-tested Terraform modules
 * [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
+* [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - 🌍 📋 A web dashboard to inspect Terraform States
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -5572,6 +5578,7 @@ See also [Shell aliases](#shell-aliases)
 ## Kotlin
 * [Kotlin Docs](https://kotlinlang.org/docs/reference/comparison-to-java.html) - Comparison to Java Programming Language
 * [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
+* [Kotlin Slack](http://kotlinlang.slack.com/) - official slack managed by jetbrains
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
