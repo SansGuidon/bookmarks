@@ -2359,6 +2359,7 @@ See also [Infrastructure](#infrastructure)
 * [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 * [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - 🌍 📋 A web dashboard to inspect Terraform States
 * :star: [**Bill Wang**](https://medium.com/@ozbillwang/terraform-best-practices-72da22ed0dbf) - (2018) Terraform best practices | Terraform Best Practices for AWS users.
+* [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -4383,6 +4384,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 * [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
+* [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
 # Programming
 > News
