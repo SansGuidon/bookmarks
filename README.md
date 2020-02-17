@@ -686,6 +686,7 @@ type `curl ident.me` to know your public ip
 * [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 * [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+* [Kotlin/kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Pure Kotlin implementation of a generic CLI parser.
 
 # Collaboration & Problem solving
 > News
@@ -5583,6 +5584,7 @@ See also [Shell aliases](#shell-aliases)
 * [Kotlin Docs](https://kotlinlang.org/docs/reference/comparison-to-java.html) - Comparison to Java Programming Language
 * [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
 * [Kotlin Slack](http://kotlinlang.slack.com/) - official slack managed by jetbrains
+* [Kotlin/kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Pure Kotlin implementation of a generic CLI parser.
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
