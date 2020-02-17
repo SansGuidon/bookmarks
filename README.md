@@ -1725,6 +1725,7 @@ See also [Infrastructure](#infrastructure)
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/aws.md) - My AWS cheatsheet
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/) - (2017) Persisting state between AWS EC2 spot instances | Persisting state between AWS EC2 spot instances using Docker on an external volume
+* :star: [**Bill Wang**](https://medium.com/@ozbillwang/terraform-best-practices-72da22ed0dbf) - (2018) Terraform best practices | Terraform Best Practices for AWS users.
 
 ## Bitbucket
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
@@ -2357,7 +2358,7 @@ See also [Infrastructure](#infrastructure)
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules/) - (2017) Reusable, composable, battle-tested Terraform modules
 * [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 * [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - 🌍 📋 A web dashboard to inspect Terraform States
-* :star: [**Bill Wang**](https://medium.com/@ozbillwang/terraform-best-practices-72da22ed0dbf) - (2018) Terraform best practices
+* :star: [**Bill Wang**](https://medium.com/@ozbillwang/terraform-best-practices-72da22ed0dbf) - (2018) Terraform best practices | Terraform Best Practices for AWS users.
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
