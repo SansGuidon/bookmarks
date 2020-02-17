@@ -687,6 +687,7 @@ type `curl ident.me` to know your public ip
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 * [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [Kotlin/kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Pure Kotlin implementation of a generic CLI parser.
+* [Clikt](https://ajalt.github.io/clikt/) - Simple, powerful command line parser for Kotlin | Clikt (pronounced “clicked”) is a Kotlin library that makes writing command line interfaces simple and intuitive. It is the “Command Line Interface for Kotlin”. | better alternative to kotlinx.cli ? 
 
 # Collaboration & Problem solving
 > News
@@ -5585,6 +5586,7 @@ See also [Shell aliases](#shell-aliases)
 * [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
 * [Kotlin Slack](http://kotlinlang.slack.com/) - official slack managed by jetbrains
 * [Kotlin/kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Pure Kotlin implementation of a generic CLI parser.
+* [Clikt](https://ajalt.github.io/clikt/) - Simple, powerful command line parser for Kotlin | Clikt (pronounced “clicked”) is a Kotlin library that makes writing command line interfaces simple and intuitive. It is the “Command Line Interface for Kotlin”. | better alternative to kotlinx.cli ? 
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
