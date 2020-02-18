@@ -5864,6 +5864,9 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [MorganGeek](https://gist.github.com/MorganGeek/3d29301206b52f02db001126d7adfafe) - A gist with all my frequent favorite commands :) "just in case"
 * [Gregg Caines](http://caines.ca/blog/2018/03/27/zero-defect-policy/) - (2018) Zero Defect Policy
 * [musicForProgramming](https://musicforprogramming.net/) - Music possessing these qualities can often provide just the right amount of interest to occupy the parts of your brain that would otherwise be left free to wander and lead to distraction during your work.
+* [Andrew Payne](https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/) - (2020) The Myth of the Myth of the 10x Programmer
+> * I think 10x developers, like world-class athletes, musicians, and authors, absolutely do exist. You’re just not going to find them with a coding test.
+> * Highly productive developers (10x or otherwise) are problem-solving at a much higher level.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
