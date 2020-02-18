@@ -5399,6 +5399,7 @@ psql -f db.out postgres
 * [Seth Robertson](http://sethrobertson.github.io/GitBestPractices/) - (2013) Commit Often, Perfect Later, Publish Once: Git Best Practices
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/git.md) - My cheatsheet for Git
 * [What the Commit](http://whatthecommit.com/) - A random commit message generator. | some inspiration for your next git commit message | NSFW :-D 
+* [rponte/get-latest-tag-on-git.sh](https://gist.github.com/rponte/fdc0724dd984088606b0) - Getting latest tag on git repository
 
 ### Dotfiles / Aliases
 See also [Shell aliases](#shell-aliases)
