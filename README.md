@@ -688,7 +688,8 @@ type `curl ident.me` to know your public ip
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 * [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [Kotlin/kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Pure Kotlin implementation of a generic CLI parser.
-* [Clikt](https://ajalt.github.io/clikt/) - Simple, powerful command line parser for Kotlin | Clikt (pronounced “clicked”) is a Kotlin library that makes writing command line interfaces simple and intuitive. It is the “Command Line Interface for Kotlin”. | better alternative to kotlinx.cli ? 
+* [Clikt](https://ajalt.github.io/clikt/) - Simple, powerful command line parser for Kotlin | Clikt (pronounced “clicked”) is a Kotlin library that makes writing command line interfaces simple and intuitive. It is the “Command Line Interface for Kotlin”. | better alternative to kotlinx.cli ?
+* [b4b4r07/gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
 
 # Collaboration & Problem solving
 > News
@@ -1050,7 +1051,7 @@ type `curl ident.me` to know your public ip
 * [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.
 * [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language | TOML aims to be a minimal configuration file format that's easy to read due to obvious semantics.
 * [Cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro | Create smart AWS diagrams
-* [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform 
+* [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
@@ -1715,7 +1716,7 @@ See also [Infrastructure](#infrastructure)
 * [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 * [Cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro | Create smart AWS diagrams
-* [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform 
+* [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
 * [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 
@@ -1976,7 +1977,7 @@ See also [Infrastructure](#infrastructure)
 * [Alex Hanson](https://dev.to/ahansondev/lessons-learned-with-docker) - Lessons Learned with Docker
 * [Sreenivas Makam](https://www.slideshare.net/SreenivasMakam/docker-networking-common-issues-and-troubleshooting-techniques) - Docker Networking - Common Issues and Troubleshooting Techniques
 * :star: [**Aymen El Amri**](https://medium.com/statuscode/dockercheatsheet-9730ce03630d) - My Docker Cheat Sheet
-* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss 
+* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
 * [Ahmed Elsabbahy](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9) - Tutorial: How to test your docker image in half a second
 * [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet on GitHub
 * [Aboullaite Mohammed](https://aboullaite.me/docker-hacks/) - 15 Docker Hacks & Tips!
@@ -2103,7 +2104,7 @@ See also [Infrastructure](#infrastructure)
 * [David Hoover](https://www.youtube.com/watch?v=7ERV9C20GSE) - [Video] Jenkins World 2016 - Jenkins Inside Google
 * [rhwood/jenkins-slave-osx](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
 * [Alvin Huang](https://jenkins.io/blog/2017/07/27/standardizing-builds-with-shared-libraries/) - (2017) Codifying the Build and Release Process with a Pipeline Shared Library
-* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss 
+* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
 * [aelsabbahy/dgoss-examples](https://github.com/aelsabbahy/dgoss-examples) - dgoss examples, including examples for jenkins
 * [Hannah Inman](https://jenkins.io/blog/2017/06/27/speaker-blog-SAS-jenkins-world) - (2017) Extending your Pipeline with Shared Libraries, Global Functions and External Code. **Bonus** : [Slides from Brent Laster](https://www.slideshare.net/BrentLaster/2017-jenkins-world)
 * [Oleg Nenashev](https://speakerdeck.com/onenashev/oslo-jenkins-meetup-managing-security-in-jenkins-cheat-sheet) - Managing Security in Jenkins. Cheat Sheet
@@ -2239,7 +2240,7 @@ See also [Infrastructure](#infrastructure)
 ## Maven
 * [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
 * [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
-* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss 
+* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
 * [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
@@ -2347,12 +2348,12 @@ See also [Infrastructure](#infrastructure)
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
 * [antonbabenko/terragrunt-reference-architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) - Terragrunt Reference Architecture - This repository contains rather complete infrastructure configurations where Terragrunt is used to manage infrastructure for Acme Corporation.
 * [Anton Babenko](https://www.antonbabenko.com/make-terraform-faster-skip-unnecessary-checks-aws-s3/) - (2018) Make Terraform faster — skip unnecessary checks (AWS and S3)
-* [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-some-of-bestpractices-march-2019) - [Slides] (2019) Terraform modules and some of best-practices | Slides of his talk at DevOps Singapore meetup in March 2019 
+* [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-some-of-bestpractices-march-2019) - [Slides] (2019) Terraform modules and some of best-practices | Slides of his talk at DevOps Singapore meetup in March 2019
 * [shuaibiyy/awesome-terraform](https://project-awesome.org/shuaibiyy/awesome-terraform) - A curated list of resources on HashiCorp's Terraform
 * [eerkunt/terraform-compliance](https://github.com/eerkunt/terraform-compliance) - a lightweight, security focused, BDD test framework against terraform
-* [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build time - Terraform static analysis 
+* [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build time - Terraform static analysis
 * [liamg/tfsec](https://github.com/liamg/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
-* [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform 
+* [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
 * [Gruntwork](https://gruntwork.io/devops-resources/) - A collection of blog posts, talks, books, and checklists for learning about DevOps, AWS, Terraform, Docker, Packer, and more
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
 * [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
@@ -2570,8 +2571,8 @@ See also [Infrastructure](#infrastructure)
 * [Yacy](https://yacy.net/en/index.html) - is a free search engine that anyone can use to build a search portal for their intranet or to help search the public internet.
 * [Loklak Search](https://loklak.org/) - Distributed Open Source Search for Twitter and Social Media with Peer to Peer Technology
 * [SteamPeek](http://steampeek.hu/) - Find up to 60 similar games for almost any game | Trending and similar indie gems, search by games, tags and categories easily and more
-* [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next. 
-* [whatoplay](https://whatoplay.com/) - The idea for whatoplay first came as an answer to the question, “How do we pick which games to play?”. You can get recommendations by genre / platform, or explore recommendations starting from specific game. Examples : 
+* [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next.
+* [whatoplay](https://whatoplay.com/) - The idea for whatoplay first came as an answer to the question, “How do we pick which games to play?”. You can get recommendations by genre / platform, or explore recommendations starting from specific game. Examples :
   * Genre/Platform : [Single Player Switch Games](https://whatoplay.com/switch/single-player/) and [Open World Switch Games](https://whatoplay.com/switch/open-world/)
   * Similar games : [Slain: Back from Hell on Switch](https://whatoplay.com/switch/slain-back-from-hell/)
 * [RAWG](https://rawg.io/) - Discover your next favorite game | The largest video game database and video game discovery service powered by you!. RAWG is building its database as an infotainment and discovery tool where every user can build its own library of video games and find out about new titles. | RAWG is officially the largest video game database in the world
@@ -2832,16 +2833,16 @@ See also [Infrastructure](#infrastructure)
 * [Deku Deals](https://www.dekudeals.com/) - tracks the prices of Nintendo Switch games on the eShop and at major retailers in order to find the best deals. Add items to your wishlist, and Deku Deals sends you an email as soon as they go on sale.
 * [Keepa](https://keepa.com) - This Amazon price tracker will enhance your Amazon shopping experience as they provide price history charts, price drop alerts, price watches, daily drops and browser addons. Good for watching games price drops.
 * [SteamPeek](http://steampeek.hu/) - Find up to 60 similar games for almost any game | Trending and similar indie gems, search by games, tags and categories easily and more
-* [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next. 
+* [ProbQA](http://probqa.com/) - A quiz-based interactive recommendation engine to find the best video game to play next.
 * [Before I Play](https://beforeiplay.com/index.php?title=Category:Games) - tells people about things they should know before they start playing a video game.  Some tips contain spoilers !
-* [whatoplay](https://whatoplay.com/) - The idea for whatoplay first came as an answer to the question, “How do we pick which games to play?”. You can get recommendations by genre / platform, or explore recommendations starting from specific game. Examples : 
+* [whatoplay](https://whatoplay.com/) - The idea for whatoplay first came as an answer to the question, “How do we pick which games to play?”. You can get recommendations by genre / platform, or explore recommendations starting from specific game. Examples :
   * Genre/Platform : [Single Player Switch Games](https://whatoplay.com/switch/single-player/) and [Open World Switch Games](https://whatoplay.com/switch/open-world/)
   * Similar games : [Slain: Back from Hell on Switch](https://whatoplay.com/switch/slain-back-from-hell/)
 * [RAWG](https://rawg.io/) - Discover your next favorite game | The largest video game database and video game discovery service powered by you!. RAWG is building its database as an infotainment and discovery tool where every user can build its own library of video games and find out about new titles. | RAWG is officially the largest video game database in the world
 * [PSprices](https://psprices.com/region-be/search/?q=&platform=Switch&dlc=show&sort=opencritic) - Game price notifications. Automatically monitor 8 platforms in 48 countries.
-* [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt. 
+* [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt.
  :video_game:
- 
+
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [Tric Trac](https://www.trictrac.net/) - :fr: [FR] le site de référence sur les jeux de société. Actualités, sorties de jeux, avis et notes, forums de discussions, évènements ludiques, etc.
@@ -3317,6 +3318,7 @@ rpm --rebuilddb
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
 * [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/htop/) - (2017) htop explained | Explanation of everything you can see in htop/top on Linux
+* [b4b4r07/gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -3792,7 +3794,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
-* [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform 
+* [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
 
 ## Jira
 > News
@@ -4775,6 +4777,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
 * [Langserver.org](https://langserver.org/) - is a community-driven site, maintained by Sourcegraph, to track development progress of LSP-compatible language servers and clients. | The Language Server protocol is used between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
+* [b4b4r07/gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -5064,7 +5067,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Bill Clark](https://technology.riotgames.com/news/taxonomy-tech-debt) - (2018) A Taxonomy of Tech Debt
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
 * [antonbabenko/terragrunt-reference-architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) - Terragrunt Reference Architecture - This repository contains rather complete infrastructure configurations where Terragrunt is used to manage infrastructure for Acme Corporation.
-* [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-some-of-bestpractices-march-2019) - [Slides] (2019) Terraform modules and some of best-practices | Slides of his talk at DevOps Singapore meetup in March 2019 
+* [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-some-of-bestpractices-march-2019) - [Slides] (2019) Terraform modules and some of best-practices | Slides of his talk at DevOps Singapore meetup in March 2019
 
 ## Conferences
 > In Belgium
@@ -5401,7 +5404,7 @@ psql -f db.out postgres
 * [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - (2013) On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure!
 * [Seth Robertson](http://sethrobertson.github.io/GitBestPractices/) - (2013) Commit Often, Perfect Later, Publish Once: Git Best Practices
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/git.md) - My cheatsheet for Git
-* [What the Commit](http://whatthecommit.com/) - A random commit message generator. | some inspiration for your next git commit message | NSFW :-D 
+* [What the Commit](http://whatthecommit.com/) - A random commit message generator. | some inspiration for your next git commit message | NSFW :-D
 * [rponte/get-latest-tag-on-git.sh](https://gist.github.com/rponte/fdc0724dd984088606b0) - Getting latest tag on git repository
 
 ### Dotfiles / Aliases
@@ -5594,7 +5597,7 @@ See also [Shell aliases](#shell-aliases)
 * [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
 * [Kotlin Slack](http://kotlinlang.slack.com/) - official slack managed by jetbrains
 * [Kotlin/kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Pure Kotlin implementation of a generic CLI parser.
-* [Clikt](https://ajalt.github.io/clikt/) - Simple, powerful command line parser for Kotlin | Clikt (pronounced “clicked”) is a Kotlin library that makes writing command line interfaces simple and intuitive. It is the “Command Line Interface for Kotlin”. | better alternative to kotlinx.cli ? 
+* [Clikt](https://ajalt.github.io/clikt/) - Simple, powerful command line parser for Kotlin | Clikt (pronounced “clicked”) is a Kotlin library that makes writing command line interfaces simple and intuitive. It is the “Command Line Interface for Kotlin”. | better alternative to kotlinx.cli ?
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
@@ -6212,7 +6215,7 @@ Raw
 * [Theory Maps](https://www.theorymaps.org/) - Theory mapping is a technique for visually outlining scientific theory. It allows researchers to concretely display interrelations between concepts, which provides for rapid communication and easy evaluation of ideas. Theory mapping was developed to emphasize that good science requires both reliable methods and rigorous theory. The technique is described in the following forthcoming article at Perspectives on Psychological Science.
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 * [DZone](http://www.surveygizmo.com/s3/1883619/Developer-Personality-Test) - Developer Personality Test
-* [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt. 
+* [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt.
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
@@ -6830,7 +6833,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * [Terratest](https://terratest.gruntwork.io/) - is a Go library that provides patterns and helper functions for testing infrastructure, with 1st-class support for Terraform, Packer, Docker, Kubernetes, AWS, GCP, and more.
 * [eerkunt/terraform-compliance](https://github.com/eerkunt/terraform-compliance) - a lightweight, security focused, BDD test framework against terraform
-* [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build time - Terraform static analysis 
+* [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build time - Terraform static analysis
 * [liamg/tfsec](https://github.com/liamg/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
 * [instrumenta/helm-conftest](https://github.com/instrumenta/helm-conftest) - A Helm plugin for testing Helm Charts using Open Policy Agent
 * [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
@@ -6972,7 +6975,7 @@ rpm --rebuilddb
 * [Hampus Sethfors](https://axesslab.com/fonts-dont-matter/) - (2017) Fonts don’t matter
 > The energy put on fonts is hugely overrated. There are other things that are of much greater importance for our members. – Representative from the Swedish Dyslexic Association
 * [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y/blob/master/topics/validators.md) - Development Testing and Validators focused on accessibility
- 
+
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
 * [Jon Moore](https://medium.com/ux-power-tools/guilty-pleasures-for-designers-b34f2a3f604a) - Guilty Pleasures for Designers
