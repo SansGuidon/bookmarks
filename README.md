@@ -303,6 +303,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
 * [Sane software manifesto](https://sane-software.globalcode.info/v_0/) - While very opinionated, it's an interesting list of practices for software developers, about safe code, collaboration, reproducible builds, modularity, architecture, testability, etc.
 * [Petter Måhlén](https://labs.spotify.com/2014/04/11/qualities-of-quality/) - (2014) Qualities of Quality | Spotify Labs
+* [Bystroushaak](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html) - (2020) Programmer's critique of missing structure of operating systems | **Original** (2018) [Programátorova kritika chybějící struktury operačních systémů](http://blog.rfox.eu/cz/Program_torova_kritika_chyb_j_c_struktury_opera_n_.html)
 
 # Art :art:
 > News
@@ -4744,6 +4745,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Sane software manifesto](https://sane-software.globalcode.info/v_0/) - While very opinionated, it's an interesting list of practices for software developers, about safe code, collaboration, reproducible builds, modularity, architecture, testability, etc.
 * [Google search](https://www.google.be/search?q=what%20are%20the%20worst%20programming%20practices) - what are the worst programming practices
+* [Bystroushaak](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html) - (2020) Programmer's critique of missing structure of operating systems | **Original** (2018) [Programátorova kritika chybějící struktury operačních systémů](http://blog.rfox.eu/cz/Program_torova_kritika_chyb_j_c_struktury_opera_n_.html)
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
