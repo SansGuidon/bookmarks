@@ -1774,6 +1774,7 @@ See also [Infrastructure](#infrastructure)
 * [Zulip](https://zulipchat.com/integrations/) - all native integrations for Zulip
 * [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know)
 > Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
+* [Internet Relay Chat](https://netsplit.de/channels/) - Search chat rooms (IRC channels) within the Internet Relay Chat and get informed about their users and topics!
 
 > Misc
 * [XKCD](https://xkcd.com/1810/) - xKCD about chat systems
@@ -2577,6 +2578,7 @@ See also [Infrastructure](#infrastructure)
   * Similar games : [Slain: Back from Hell on Switch](https://whatoplay.com/switch/slain-back-from-hell/)
 * [RAWG](https://rawg.io/) - Discover your next favorite game | The largest video game database and video game discovery service powered by you!. RAWG is building its database as an infotainment and discovery tool where every user can build its own library of video games and find out about new titles. | RAWG is officially the largest video game database in the world
 * [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
+* [Internet Relay Chat](https://netsplit.de/channels/) - Search chat rooms (IRC channels) within the Internet Relay Chat and get informed about their users and topics!
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
