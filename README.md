@@ -1720,6 +1720,7 @@ See also [Infrastructure](#infrastructure)
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
 * [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 * [AWS Favicon Update](https://chrome.google.com/webstore/detail/aws-favicon-update/ohloajnmmkniehhbmjakbejnomonmijc) - This extension for Chrome displays a different favicon for every AWS service tab opened in the browser so your tabs make more sense 
+* [EC2Instances.info](https://ec2instances.info/) - Easy Amazon EC2 Instance Comparison
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
