@@ -2775,6 +2775,7 @@ See also [Infrastructure](#infrastructure)
 * [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
 * [Cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro | Create smart AWS diagrams
 * [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
+* [Romanr.info](http://romanr.info/magnet.html) - Online BitTorrent Magnet Link Generator | Hash to Magnet link generator / converter
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
