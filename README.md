@@ -2776,6 +2776,7 @@ See also [Infrastructure](#infrastructure)
 * [Cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro | Create smart AWS diagrams
 * [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
 * [Romanr.info](http://romanr.info/magnet.html) - Online BitTorrent Magnet Link Generator | Hash to Magnet link generator / converter
+* [hashtomagnet.xyz](https://hashtomagnet.xyz/) -  Hash to Magnet generator + Get Seed/Leech informations
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
