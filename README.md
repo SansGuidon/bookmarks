@@ -2374,6 +2374,7 @@ See also [Infrastructure](#infrastructure)
 * [antonbabenko](https://gist.github.com/antonbabenko/675049186e54b770b4789886d2056639) - (2020) Make your terragrunt output useful 
 * [Michael Crilly](https://www.thecloud.coach/terraform/understanding-state/) - (2020) Understanding (Terraform) State
 * [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-configure-production-grade-aws-account-structure/#what-is-an-aws-account-structure) - How to configure a production-grade AWS account structure using Gruntwork AWS Landing Zone | Guide for configuring a production-grade AWS account structure, including how to manage multiple environments, users, permissions, and audit logging. We’ll also discuss how to implement a Landing Zone solution that lets you quickly spin up new AWS accounts that all implement a security baseline that enforces your company’s policies.
+* [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -5499,6 +5500,7 @@ See also [Shell aliases](#shell-aliases)
 * [Alex Dzyoba](https://alex.dzyoba.com/blog/go-prometheus-service/) - (2018) Instrumenting a Go service for Prometheus
 * [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 * [Loris Cro](https://kristoff.it/blog/why-go-and-not-rust/) - (2019) Why Go and not Rust? | What's the role of Go in a universe where Rust exists?
+* [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -6861,6 +6863,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules/) - (2017) Reusable, composable, battle-tested Terraform modules
 * [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 * [Cloud Custodian Docs](https://cloudcustodian.io/docs/deployment.html#compliance-as-code) - Compliance as Code | Custodian is a tool for managing cloud environments by ensuring compliance to security policies, tag policies, garbage collection of unused resources, and cost management from a single tool.
+* [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
