@@ -5599,6 +5599,9 @@ See also [Shell aliases](#shell-aliases)
 * [Viral Shah](https://blog.usejournal.com/little-known-features-of-javascript-901665291387) - (2018) Little known features of JavaScript | Void operator, With statement, and other things.
 * [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
 
+> Tools
+* [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework | Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and SPAs (single-page applications). **See also** : [Video] (2020) [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
+
 ## Kotlin
 * [Kotlin Docs](https://kotlinlang.org/docs/reference/comparison-to-java.html) - Comparison to Java Programming Language
 * [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
@@ -7127,6 +7130,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) - A Chrome extension, helpful for understanding the problems faced by people with slight to extreme vision problems. **See also** : [Official website](https://accessgarage.wordpress.com)
 * [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y/blob/master/topics/validators.md) - Development Testing and Validators focused on accessibility
 * [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
+* [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework | Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and SPAs (single-page applications). **See also** : [Video] (2020) [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
