@@ -2393,6 +2393,12 @@ See also [Infrastructure](#infrastructure)
 * [instrumenta/conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language. **See also** [Official Website](https://conftest.dev)
 * [mattray/inspec-iggy](https://github.com/mattray/inspec-iggy) - InSpec CLI plugin for generating compliance controls from Terraform and CloudFormation
 * [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform >= 0.12)
+* [chanzuckerberg/fogg](https://github.com/chanzuckerberg/fogg) - Fogg is an opinionated tool for managing infrastructure-as-code repositories using Terraform | fogg was built to automate infrastructure management best practices and scale to a larger pool of engineers who don't have to be terraform experts to use it safely.
+> A few of the things fogg standardizes–
+> * repository layout
+> * remote state (locking coming soon)
+> * resource naming
+> * resource isolation
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
