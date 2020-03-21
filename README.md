@@ -1719,7 +1719,7 @@ See also [Infrastructure](#infrastructure)
 * [Cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro | Create smart AWS diagrams
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
-* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) [Slides] [Video] Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 * [AWS Favicon Update](https://chrome.google.com/webstore/detail/aws-favicon-update/ohloajnmmkniehhbmjakbejnomonmijc) - This extension for Chrome displays a different favicon for every AWS service tab opened in the browser so your tabs make more sense 
 * [EC2Instances.info](https://ec2instances.info/) - Easy Amazon EC2 Instance Comparison
 * [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-use-gruntwork-infrastructure-as-code-library) - How to use the Gruntwork Infrastructure as Code Library
@@ -1948,7 +1948,7 @@ See also [Infrastructure](#infrastructure)
  * [Philipp Hauer](https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/) - (2016) Version Numbers for Continuous Delivery with Maven and Docker
 * [Play with Docker Classroom](https://training.play-with-docker.com/) - The Play with Docker classroom brings you labs and tutorials that help you get hands-on experience using Docker
 * [Gruntwork](https://gruntwork.io/devops-resources/) - A collection of blog posts, talks, books, and checklists for learning about DevOps, AWS, Terraform, Docker, Packer, and more
-* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) [Slides] [Video] Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 
 > Best practices
 * [Docker Docs](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/) - Best practices for writing Dockerfiles
@@ -2034,7 +2034,7 @@ See also [Infrastructure](#infrastructure)
 * [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 * [branderxero](https://github.com/branderxero/dockerdots) - dotfiles for docker
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
-* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) [Slides] [Video] Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 * [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
 ## Gradle
@@ -2318,7 +2318,7 @@ See also [Infrastructure](#infrastructure)
 * [Terratest](https://terratest.gruntwork.io/) - is a Go library that provides patterns and helper functions for testing infrastructure, with 1st-class support for Terraform, Packer, Docker, Kubernetes, AWS, GCP, and more | Automated tests for your infrastructure code.
 * [Gruntwork](https://gruntwork.io/devops-resources/) - A collection of blog posts, talks, books, and checklists for learning about DevOps, AWS, Terraform, Docker, Packer, and more
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
-* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) [Slides] [Video] Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -2370,7 +2370,7 @@ See also [Infrastructure](#infrastructure)
 * [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 * [Charity Majors aka mipsytipsy](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/) - (2016) Terraform, VPC, and why you want a tfstate file per env
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules/) - (2017) Reusable, composable, battle-tested Terraform modules
-* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) [Slides] [Video] Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 * [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - 🌍 📋 A web dashboard to inspect Terraform States
 * :star: [**Bill Wang**](https://medium.com/@ozbillwang/terraform-best-practices-72da22ed0dbf) - (2018) Terraform best practices | Terraform Best Practices for AWS users.
 * [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
@@ -6887,7 +6887,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 * [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
 * [Yevgeniy Brikman](https://www.ybrikman.com/writing/2017/10/13/reusable-composable-battle-tested-terraform-modules/) - (2017) Reusable, composable, battle-tested Terraform modules
-* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
+* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) [Slides] [Video] Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 * [Cloud Custodian Docs](https://cloudcustodian.io/docs/deployment.html#compliance-as-code) - Compliance as Code | Custodian is a tool for managing cloud environments by ensuring compliance to security policies, tag policies, garbage collection of unused resources, and cost management from a single tool.
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
 * [Emre Erkunt](https://medium.com/@emre.erkunt/terraform-mono-repo-and-compliance-as-code-109395659c3a) - (2020) terraform, mono-repo and compliance as code
