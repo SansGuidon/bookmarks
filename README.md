@@ -56,7 +56,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [OpenShift](#openshift)
   * [Packer](#packer)
   * [SecOps](#secops)
-  * [Tekton)(#tekton)
+  * [Tekton](#tekton)
   * [Terraform](#terraform)
   * [Travis CI](#travis-ci)
   * [Vagrant](#vagrant)
