@@ -2174,6 +2174,7 @@ See also [Infrastructure](#infrastructure)
 * [codecentric/helm-charts](https://github.com/codecentric/helm-charts/tree/master/charts/jenkins) - This chart install Jenkins on Kubernetes | It allows Jenkins to be completely configured as code that does not require any further manual configuration in the UI. While not required, it is meant to be used with the configuration-as-code plugin and/or Groovy init scripts.
 * [CloudBeesTV](https://www.youtube.com/watch?v=yTafQ-e84eY) - [Video] (2019) Jenkins Performance: Avoiding Pitfalls, Diagnosing Issues & Scaling for Growth
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/jenkins.md) - My cheatsheet for Jenkins
+* [SAP/jenkins-library/](https://github.com/SAP/jenkins-library/) - Jenkins shared library for Continuous Delivery pipelines. **See also** [Official Website](https://sap.github.io/jenkins-library/)
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
