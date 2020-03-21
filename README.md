@@ -2371,6 +2371,7 @@ See also [Infrastructure](#infrastructure)
 * [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
 * [Yevgeniy Brikman](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1) - (2018) 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
 * [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-use-gruntwork-infrastructure-as-code-library) - How to use the Gruntwork Infrastructure as Code Library
+* [antonbabenko](https://gist.github.com/antonbabenko/675049186e54b770b4789886d2056639) - (2020) Make your terragrunt output useful 
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
