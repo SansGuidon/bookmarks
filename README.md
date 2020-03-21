@@ -2376,6 +2376,7 @@ See also [Infrastructure](#infrastructure)
 * [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-configure-production-grade-aws-account-structure/#what-is-an-aws-account-structure) - How to configure a production-grade AWS account structure using Gruntwork AWS Landing Zone | Guide for configuring a production-grade AWS account structure, including how to manage multiple environments, users, permissions, and audit logging. We’ll also discuss how to implement a Landing Zone solution that lets you quickly spin up new AWS accounts that all implement a security baseline that enforces your company’s policies.
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
 * [Emre Erkunt](https://medium.com/@emre.erkunt/terraform-mono-repo-and-compliance-as-code-109395659c3a) - (2020) terraform, mono-repo and compliance as code
+* [elmundio87/terraform_validate](https://github.com/elmundio87/terraform_validate) - Terraform Validate is a python package that allows users to define Policy as Code for Terraform configurations | Assists in the enforcement of user-defined standards in Terraform
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -6866,6 +6867,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Cloud Custodian Docs](https://cloudcustodian.io/docs/deployment.html#compliance-as-code) - Compliance as Code | Custodian is a tool for managing cloud environments by ensuring compliance to security policies, tag policies, garbage collection of unused resources, and cost management from a single tool.
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
 * [Emre Erkunt](https://medium.com/@emre.erkunt/terraform-mono-repo-and-compliance-as-code-109395659c3a) - (2020) terraform, mono-repo and compliance as code
+* [elmundio87/terraform_validate](https://github.com/elmundio87/terraform_validate) - Terraform Validate is a python package that allows users to define Policy as Code for Terraform configurations | Assists in the enforcement of user-defined standards in Terraform
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
