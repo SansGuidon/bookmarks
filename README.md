@@ -2392,6 +2392,7 @@ See also [Infrastructure](#infrastructure)
 * [Rosemary Wang](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) - (2019) [Slides] Test-Driven Development (TDD) for Infrastructure
 * [instrumenta/conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language. **See also** [Official Website](https://conftest.dev)
 * [mattray/inspec-iggy](https://github.com/mattray/inspec-iggy) - InSpec CLI plugin for generating compliance controls from Terraform and CloudFormation
+* [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform >= 0.12)
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -6888,6 +6889,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Rosemary Wang](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) - (2019) [Slides] Test-Driven Development (TDD) for Infrastructure
 * [instrumenta/conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language. **See also** [Official Website](https://conftest.dev)
 * [mattray/inspec-iggy](https://github.com/mattray/inspec-iggy) - InSpec CLI plugin for generating compliance controls from Terraform and CloudFormation
+* [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform >= 0.12)
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
