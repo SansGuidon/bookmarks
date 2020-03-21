@@ -2384,6 +2384,7 @@ See also [Infrastructure](#infrastructure)
 > * Fast, concurrent executions of Terraform operations
 > * Safe Terraform upgrades and state file migrations
 * [cesar-rodriguez/terrascan](https://github.com/cesar-rodriguez/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
+* [Rosemary Wang](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) - (2019) [Slides] Test-Driven Development (TDD) for Infrastructure
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -3822,6 +3823,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
 * [Yevgeniy Brikman](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1) - (2018) 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
 * [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-configure-production-grade-aws-account-structure/#what-is-an-aws-account-structure) - How to configure a production-grade AWS account structure using Gruntwork AWS Landing Zone | Guide for configuring a production-grade AWS account structure, including how to manage multiple environments, users, permissions, and audit logging. We’ll also discuss how to implement a Landing Zone solution that lets you quickly spin up new AWS accounts that all implement a security baseline that enforces your company’s policies.
+* [Rosemary Wang](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) - (2019) [Slides] Test-Driven Development (TDD) for Infrastructure
 
 ## Jira
 > News
@@ -6876,6 +6878,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Emre Erkunt](https://medium.com/@emre.erkunt/terraform-mono-repo-and-compliance-as-code-109395659c3a) - (2020) terraform, mono-repo and compliance as code
 * [elmundio87/terraform_validate](https://github.com/elmundio87/terraform_validate) - Terraform Validate is a python package that allows users to define Policy as Code for Terraform configurations | Assists in the enforcement of user-defined standards in Terraform
 * [cesar-rodriguez/terrascan](https://github.com/cesar-rodriguez/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
+* [Rosemary Wang](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) - (2019) [Slides] Test-Driven Development (TDD) for Infrastructure
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
