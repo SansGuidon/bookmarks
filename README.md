@@ -1998,7 +1998,9 @@ See also [Infrastructure](#infrastructure)
 * [Stack Overflow](https://stackoverflow.com/a/47965269/2309958) - Docker - Cannot remove dead container | `rm: cannot remove /var/lib/docker/overlay/<hash>/merged: Device or resource busy` Solution : grep <hash> /proc/*/mountinfo then find the pid of <hash> and kill it
 * [Gerred Dillon](https://blog.replicated.com/optimizing-docker-images-with-multi-stage-builds/) - (2017) Even Smaller Docker Image Sizes
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
-
+* [Jérôme Petazzoni](https://enix.io/fr/blog/cherie-j-ai-retreci-docker-part1/) - (2020) :fr: [FR] Chérie, j'ai rétréci Docker - part 1/3
+* [Jérôme Petazzoni](https://enix.io/fr/blog/cherie-j-ai-retreci-docker-part2/) - (2020) :fr: [FR] Chérie, j'ai rétréci Docker - part 2/3.
+ 
 > Tools
 * [Julien Bisconti](https://veggiemonk.github.io/awesome-docker/) - Awesome-docker : A curated list of Docker resources and projects. **See also** [GitHub repository](https://github.com/veggiemonk/awesome-docker)
 * [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
