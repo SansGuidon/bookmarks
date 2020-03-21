@@ -152,7 +152,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Web](#web)
 * [Society](#society)
 * [Sports](#sports)
-* [Testing :ok_hand:](#testing-ok_hand)
+* [Testing and Compliance :ok_hand:](#testing-and-compliance-ok_hand)
 * [Transportation :train2: :oncoming_automobile:](#transportation-train2-oncoming_automobile)
 * [Travel :airplane:](#travel-airplane)
 * [Troubleshooting](#troubleshooting)
@@ -2375,6 +2375,7 @@ See also [Infrastructure](#infrastructure)
 * [Michael Crilly](https://www.thecloud.coach/terraform/understanding-state/) - (2020) Understanding (Terraform) State
 * [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-configure-production-grade-aws-account-structure/#what-is-an-aws-account-structure) - How to configure a production-grade AWS account structure using Gruntwork AWS Landing Zone | Guide for configuring a production-grade AWS account structure, including how to manage multiple environments, users, permissions, and audit logging. We’ll also discuss how to implement a Landing Zone solution that lets you quickly spin up new AWS accounts that all implement a security baseline that enforces your company’s policies.
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
+* [Emre Erkunt](https://medium.com/@emre.erkunt/terraform-mono-repo-and-compliance-as-code-109395659c3a) - (2020) terraform, mono-repo and compliance as code
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -6777,7 +6778,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [OpenCycleMap](https://opencyclemap.org/) - :bicyclist: the OpenStreetMap Cycle Map
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
 
-# Testing :ok_hand:
+# Testing and Compliance :ok_hand:
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
 * [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System. **Bonus** : see also [bats-core/bats-core](https://github.com/bats-core/bats-core), a mirrored fork of bats but still updated
 * [David Greenlees](https://www.stickyminds.com/article/how-usability-matrix-emotions-can-benefit-your-software-testing?page=0%2C1) - How the Usability Matrix of Emotions Can Benefit Your Software Testing
@@ -6864,6 +6865,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 * [Cloud Custodian Docs](https://cloudcustodian.io/docs/deployment.html#compliance-as-code) - Compliance as Code | Custodian is a tool for managing cloud environments by ensuring compliance to security policies, tag policies, garbage collection of unused resources, and cost management from a single tool.
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
+* [Emre Erkunt](https://medium.com/@emre.erkunt/terraform-mono-repo-and-compliance-as-code-109395659c3a) - (2020) terraform, mono-repo and compliance as code
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
