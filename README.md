@@ -1721,6 +1721,7 @@ See also [Infrastructure](#infrastructure)
 * [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 * [AWS Favicon Update](https://chrome.google.com/webstore/detail/aws-favicon-update/ohloajnmmkniehhbmjakbejnomonmijc) - This extension for Chrome displays a different favicon for every AWS service tab opened in the browser so your tabs make more sense 
 * [EC2Instances.info](https://ec2instances.info/) - Easy Amazon EC2 Instance Comparison
+* [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-use-gruntwork-infrastructure-as-code-library) - How to use the Gruntwork Infrastructure as Code Library
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
@@ -2369,6 +2370,7 @@ See also [Infrastructure](#infrastructure)
 * :star: [**Bill Wang**](https://medium.com/@ozbillwang/terraform-best-practices-72da22ed0dbf) - (2018) Terraform best practices | Terraform Best Practices for AWS users.
 * [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
 * [Yevgeniy Brikman](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1) - (2018) 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
+* [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-use-gruntwork-infrastructure-as-code-library) - How to use the Gruntwork Infrastructure as Code Library
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
