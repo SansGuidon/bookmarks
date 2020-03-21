@@ -2377,6 +2377,12 @@ See also [Infrastructure](#infrastructure)
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
 * [Emre Erkunt](https://medium.com/@emre.erkunt/terraform-mono-repo-and-compliance-as-code-109395659c3a) - (2020) terraform, mono-repo and compliance as code
 * [elmundio87/terraform_validate](https://github.com/elmundio87/terraform_validate) - Terraform Validate is a python package that allows users to define Policy as Code for Terraform configurations | Assists in the enforcement of user-defined standards in Terraform
+* [uber/astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
+> Features:
+> * Declarative configuration for modules to execute
+> * Dependencies between modules
+> * Fast, concurrent executions of Terraform operations
+> * Safe Terraform upgrades and state file migrations
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
