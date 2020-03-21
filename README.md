@@ -2366,6 +2366,7 @@ See also [Infrastructure](#infrastructure)
 * [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - 🌍 📋 A web dashboard to inspect Terraform States
 * :star: [**Bill Wang**](https://medium.com/@ozbillwang/terraform-best-practices-72da22ed0dbf) - (2018) Terraform best practices | Terraform Best Practices for AWS users.
 * [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
+* [Yevgeniy Brikman](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1) - (2018) 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -3802,6 +3803,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
+* [Yevgeniy Brikman](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1) - (2018) 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
 
 ## Jira
 > News
