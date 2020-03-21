@@ -2399,6 +2399,7 @@ See also [Infrastructure](#infrastructure)
 > * remote state (locking coming soon)
 > * resource naming
 > * resource isolation
+* [28mm/blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
