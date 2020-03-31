@@ -3069,6 +3069,7 @@ See also [Infrastructure](#infrastructure)
 * [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
 * [Google Search](https://www.google.be/search?q=what%20are%20the%20worst%20foods%20to%20eat) - what are the worst foods to eat ?
+* [Tina Su](http://thinksimplenow.com/happiness/life-on-purpose-15-questions-to-discover-your-personal-mission/comment-page-13/) - (2015) Life on Purpose: 15 Questions to Discover Your Personal Mission
 
 ## Remote jobs
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
@@ -6269,6 +6270,7 @@ Raw
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 * [DZone](http://www.surveygizmo.com/s3/1883619/Developer-Personality-Test) - Developer Personality Test
 * [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt.
+* [Tina Su](http://thinksimplenow.com/happiness/life-on-purpose-15-questions-to-discover-your-personal-mission/comment-page-13/) - (2015) Life on Purpose: 15 Questions to Discover Your Personal Mission
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
