@@ -1,4 +1,4 @@
-[O*Net Interest Profiler](https://www.mynextmove.org/explore/ip) - The Team Roles Test
+[O*Net Interest Profiler](https://www.mynextmove.org/explore/ip) - The Interest Profiler test
 
 # Here are your Interest Profiler results : 
 * Investigative 29
