@@ -134,6 +134,6 @@ Possibilité de rupture d'une relation existante ou délai dans les projets d'un
 
 Profits matériels ou pertes... Manque de liquidités. Lutte pour récupérer de l'argent dû.
 
-** Divers **
+**Divers**
 
 Ennuis possibles
