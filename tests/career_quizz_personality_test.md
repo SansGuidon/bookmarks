@@ -54,3 +54,67 @@ Low-level menial tasks will not engage an INTJ; they need something complex to s
 
 ### Logic:
 INTJs enjoy a well-structured work environment based on logic and efficiency, where they are able to problem-solve and improve systems.
+
+
+## Ideal careers for INTJ
+According to [Truity](https://www.truity.com/personality-type/INTJ/careers)
+
+### Business, Finance, and Math
+Accountant
+Auditor
+Financial Analyst
+Logistician
+Management Consultant
+Market Research Analyst
+Financial Advisor
+Top Executive
+Actuary
+Mathematician
+Statistician
+
+### Architecture and Engineering
+Aerospace Engineer
+Architect
+Biomedical Engineer
+Civil Engineer
+Computer Hardware Engineer
+Electrical Engineer
+Environmental Engineer
+Mechanical Engineer
+
+### Legal
+Judge
+Hearing Officer
+Lawyer
+Paralegal
+
+### Science and Health Care
+Atmospheric Scientist
+Biochemist
+Biophysicist
+Chemist
+Materials Scientist
+Economist
+Environmental Scientist
+Medical Scientist
+Microbiologist
+Political Scientist
+Pharmacist
+Physician
+Surgeon
+
+### Computers and Information Technology
+Computer Programmer
+Computer Systems Analyst
+Network Administrator
+Software Developer
+Computer and IS Manager
+Computer Scientist
+
+### Arts, Design, and Communications
+Industrial Designer
+Editor
+Translator
+Photographer
+Technical Writer
+Writer
