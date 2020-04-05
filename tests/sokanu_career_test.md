@@ -1,5 +1,5 @@
 
-[CareerExplorer alias Sokanu](https://www.careerexplorer.com/assessments/welcome/) - Career Test
+[CareerExplorer alias Sokanu](https://www.careerexplorer.com/career-test/) - Career Test
 
 # Result (2020)
 
