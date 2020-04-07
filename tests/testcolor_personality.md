@@ -11,6 +11,8 @@ You are a manager and a structured person, you know how to take into account the
 
 ### The qualities that characterize your personality :
 
+![testcolor](testcolor.png)
+
 #### 119	: Your insights.
 You are thoughtful and deep, you think before getting into action and you know how to communicate your knowledge.
 
