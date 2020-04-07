@@ -13,4 +13,5 @@ Programming can be an intimidating hobby, but if you want to challenge yourself 
 ## Result (2020)
 
 **Gamer** 
+
 You’re a gamer at heart, and happiest when you’re battling alien overlords or revving it on the racetrack! Get yourself a gaming console or browse the latest collection of video games for your PC.
