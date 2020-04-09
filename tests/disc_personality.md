@@ -36,7 +36,7 @@ The 'Profiles' are often given names. The objective of these names is to give a 
 
 You are the **Stabilizer**
 
-Traits : 
+### Traits
 * Perceptive
 * Calm
 * Consistent
@@ -44,3 +44,25 @@ Traits :
 You tend to be logical and analytical about decisions, but warm in interactions with others.
 You tend to prioritize stability and consistency in your environment. They are likely to be even-tempered, attentive to details, and structured in their approach. Even if a task may appear tedious, they can likely work through it patiently and correctly.
 
+### Insights
+
+#### What comes naturally to you
+
+* Finishing one task before starting another
+* Giving others time to adapt to change
+* Appreciating formality in business meetings
+* Listening closely to all the details
+
+#### What energizes you
+
+* Security
+* Predictability
+* Cleanliness & organization
+* Support from others
+
+#### What drains Morgan
+
+* Chaotic environments
+* Uncertainty
+* Vague directions
+* Inconsistency from others
