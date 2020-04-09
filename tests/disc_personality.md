@@ -35,4 +35,12 @@ The 'Profiles' are often given names. The objective of these names is to give a 
 ## Result (2020)
 
 You are the **Stabilizer**
+
+Traits : 
+* Perceptive
+* Calm
+* Consistent
+
 You tend to be logical and analytical about decisions, but warm in interactions with others.
+You tend to prioritize stability and consistency in your environment. They are likely to be even-tempered, attentive to details, and structured in their approach. Even if a task may appear tedious, they can likely work through it patiently and correctly.
+
