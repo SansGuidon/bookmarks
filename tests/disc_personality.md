@@ -60,7 +60,7 @@ You tend to prioritize stability and consistency in your environment. They are l
 * Cleanliness & organization
 * Support from others
 
-#### What drains Morgan
+#### What drains you
 
 * Chaotic environments
 * Uncertainty
