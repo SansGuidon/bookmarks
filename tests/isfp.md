@@ -2,75 +2,75 @@
 
 ### Top careers for the ISFP include:
 
-Fashion Designer
-Interior Designer
-Cosmetologist
-Artist
-Landscape Architect
-Jeweler
-Carpenter
-Chef
-Tailor
-Graphic Designer
-Mechanic
-Forester
-Surveyor
-Gardener
-Florist
-Nurse
-Massage Therapist
-Occupational Therapist
-Veterinary Assistant
-Dental Hygienist
-Physical Therapist
-Fitness Trainer
-Optician
-ER Physician
-Physician Assistant
-Dietitian
-Pharmacist
-Office Manager
-Paralegal
-Insurance Appraiser
-Botanist
-Geologist
-Preschool Teacher
-Social Worker
-Translator
-Special Education Teacher
-Teacher's Aide
-Air Traffic Controller
-Police Officer
-Firefighter
-Residential Counselor
-Animal Trainer
-Retail Manager
-Recreation Worker
-Bookkeeper
+* Fashion Designer
+* Interior Designer
+* Cosmetologist
+* Artist
+* Landscape Architect
+* Jeweler
+* Carpenter
+* Chef
+* Tailor
+* Graphic Designer
+* Mechanic
+* Forester
+* Surveyor
+* Gardener
+* Florist
+* Nurse
+* Massage Therapist
+* Occupational Therapist
+* Veterinary Assistant
+* Dental Hygienist
+* Physical Therapist
+* Fitness Trainer
+* Optician
+* ER Physician
+* Physician Assistant
+* Dietitian
+* Pharmacist
+* Office Manager
+* Paralegal
+* Insurance Appraiser
+* Botanist
+* Geologist
+* Preschool Teacher
+* Social Worker
+* Translator
+* Special Education Teacher
+* Teacher's Aide
+* Air Traffic Controller
+* Police Officer
+* Firefighter
+* Residential Counselor
+* Animal Trainer
+* Retail Manager
+* Recreation Worker
+* Bookkeeper
 
 ### ISFP Careers to Avoid
 It is important to note that any personality type can be successful in any occupation. However, some occupations are well suited to the natural talents and preferred work style of the ISFP, while other occupations demand modes of thinking and behavior that do not come as naturally to the ISFP. Occupations that require the ISFP to operate outside their natural preferences may prove stressful or draining, and often sound unappealing to ISFPs who are choosing a career.
 
 The following occupations have been found to be unpopular among ISFPs, based on data gathered from surveys of the general population.
 
-Executive
-Sales Manager
-Marketing Manager
-Retail Salesperson
-Auditor
-School Administrator
-Surgeon
-Dentist
-Psychiatrist
-Health Care Administrator
-Biomedical Engineer
-Biologist
-Aeronautical Engineer
-Chemical Engineer
-Attorney
-Judge
-Actor
-Architect
+* Executive
+* Sales Manager
+* Marketing Manager
+* Retail Salesperson
+* Auditor
+* School Administrator
+* Surgeon
+* Dentist
+* Psychiatrist
+* Health Care Administrator
+* Biomedical Engineer
+* Biologist
+* Aeronautical Engineer
+* Chemical Engineer
+* Attorney
+* Judge
+* Actor
+* Architect
 
 ### The ISFP on a Team
 ISFPs are sensitive, helpful team members who look for opportunities to contribute in an immediate, practical way. They want to assist other people and provide support, and often take on the role of listener. Oriented to cooperation, the ISFP will look for ways to compromise and accommodate others. They tend to step in when others need help and are often prepared with specific, relevant data that can help the team understand the facts of the situation.
