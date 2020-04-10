@@ -53,3 +53,5 @@ Try finishing the important things before starting new projects.
 * Music
 * Transport
 * Craft work
+
+See also [ISFP](https://icould.com/buzz-results/?results=ISFP)
