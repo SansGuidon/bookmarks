@@ -47,4 +47,9 @@ Try finishing the important things before starting new projects.
 * Broadcast Media and Performing Arts
 * Construction
 * Education and Training
-
+* Social Care, Advice
+* Hospitality
+* Leisure
+* Music
+* Transport
+* Craft work
