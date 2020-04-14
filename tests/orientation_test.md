@@ -48,9 +48,53 @@ Les personnes de ce type exercent surtout des tâches concrètes. Elles sont hab
 20. Inspecteur / Inspectrice du trésor public (Bac +3) : 70%
 
 ## Votre bilan détaillé par secteur d'activité
-* Arts - Culture - Spectacles 50 %
+### Arts - Culture - Spectacles 50 %
 * Préparateur / Préparatrice correcteur (presse / édition) (Bac) : 100%
 * Dessinateur modéliste (habillement) (Bac +2) : 97%
 * Traducteur / Traductrice d'édition (Bac +4) : 97%
 * Critique (Bac +3) : 70%
 * Designer industriel (Bac +4) : 70%
+
+### Gestion - Administration - Finances 45 %
+* Conservateur d'archives (Bac +7) : 70%
+* Conservateur de bibliothèque (Bac +5) : 70%
+* Inspecteur / Inspectrice des impôts (Bac +3) : 70%
+* Inspecteur / Inspectrice du trésor public (Bac +3) : 70%
+
+### Vente - Communication - Publicité 41 %
+* Secrétaire de rédaction (Bac +3) : 100%
+* Journaliste (Bac +3) : 70%
+
+### Justice - Police - Armée 36 %
+* Contrôleur de la concurrence et de la consommation (Bac) : 70%
+* Inspecteur / Inspectrice de la répression des fraudes (Bac +5) : 70%
+* Inspecteur / Inspectrice des douanes (Bac +4) : 70%
+
+### Industrie - Transport 34 %
+* Navigateur timonier (Marine Nationale) (BEP/CAP) : 70%
+
+### Métiers manuels ou techniques 32 %
+* Aucun métier ne vous correspond dans ce secteur
+
+### Médecine - Santé 32 %
+* Aucun métier ne vous correspond dans ce secteur
+
+### Métiers de plein air 30 %
+* Paysagiste conseil (Bac +5) : 70%
+
+### Action sociale - Emploi 30 %
+* Aucun métier ne vous correspond dans ce secteur
+
+### Services à la personne et aux entreprises 28 %
+* Traducteur / Traductrice technique (Bac +4) : 100%
+* Chargé(e) de recrutement (Bac +4) : 70%
+
+### Enseignement - Formation 27 %
+* Aucun métier ne vous correspond dans ce secteur
+
+### Commerce 24 %
+* Aucun métier ne vous correspond dans ce secteur
+
+### Sports - Loisirs 18 %
+* Journaliste sportif (Bac) : 70%
+
