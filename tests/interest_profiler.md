@@ -82,3 +82,55 @@ They like:
 
 * Working with clear rules
 * Following a strong leader
+
+
+# O*NET Interest Profiler: Career List
+* :star: = New job opportunities likely in the future
+* **Best fit**
+* Great fit
+
+## Job Zone Five - Extensive Preparation Needed
+* :star: **Allergists & Immunologists**
+* :star: **Anthropologists**
+* :star: **Archeologists**
+* **Astronomers**
+* **Biochemists & Biophysicists**
+* **Geneticists**
+* **Geographers**
+* :star: **Medical Scientists**
+* **Molecular & Cellular Biologists**
+* :star: **Neuropsychologists & Clinical Neuropsychologists**
+* :star: **Soil & Plant Scientists**
+* :star: Animal Scientists
+* Chemistry Teachers, Postsecondary
+* :star: Computer & Information Research Scientists
+* :star: Dermatologists
+* :star: Hydrologists
+* :star: Naturopathic Physicians
+* :star: Nurse Anesthetists
+* :star: Physical Medicine & Rehabilitation Physicians
+* :star: Physicists
+* Political Scientists
+* :star: Prosthodontists
+* :star: Psychiatrists
+* :star: Sociologists
+* :star: Sports Medicine Physicians
+* :star: Urologists
+* :star: Veterinarians
+* Zoologists & Wildlife Biologists
+
+## Job Zone Three: Medium Preparation Needed
+* Mechanical Engineering Technicians
+
+## Job Zone Four: High Preparation Needed
+* **Aerospace Engineers**
+* **Electronics Engineers**
+* :star: **Marine Architects**
+* :star: Architects
+* Biomedical Engineers
+* Energy Engineers
+* :star: Environmental Scientists & Specialists, Including Health
+* Geoscientists
+* Landscape Architects
+* Mechatronics Engineers
+* Photonics Engineers
