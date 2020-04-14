@@ -2631,7 +2631,7 @@ See also [Infrastructure](#infrastructure)
 * [StumbleUpon](https://www.stumbleupon.com/) - discover the best of the web, one click at a time. This service learns what you like and brings you more like it
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website
-* [Discuvver](https://www.discuvver.com) - Take you to one random useful website
+* :star: [**Discuvver**](https://www.discuvver.com) - Take you to one random useful website
 * [AlternativeTo](https://alternativeto.net/platform/self-hosted/?license=opensource) - Open Source Self-Hosted apps on AlternativeTo
 * [Stack Exchange](https://softwarerecs.stackexchange.com/) - Software Recommendations Stack Exchange
 * [Slant](https://www.slant.co/) - this community of enthusiasts provide recommendations on lot of things / useful to find best tools for the job
