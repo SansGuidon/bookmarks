@@ -1,4 +1,5 @@
 [Five Thirty Eight](https://projects.fivethirtyeight.com/personality-quiz) - Big Five Personality Quiz (backed by science)
+[My score](https://projects.fivethirtyeight.com/personality-quiz/?group=-M5M7Z4CH4z4Zn8BMUyF)
 
 ## Result (2020)
 
