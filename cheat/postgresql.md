@@ -26,6 +26,11 @@
 
 `\dn`
 
+### Gets the size of a schema
+```
+SELECT pg_size_pretty(SUM(pg_total_relation_size(quote_ident(schemaname) || '.' || quote_ident(tablename)))::BIGINT) FROM pg_tables WHERE schemaname = 'schema_name'
+```
+
 ### Return back to shell 
 
 `\q`
