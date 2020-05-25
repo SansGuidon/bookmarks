@@ -3117,6 +3117,7 @@ See also [Infrastructure](#infrastructure)
 
 > Balades et nature
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
+* [Balnam](https://www.balnam.be/) - :fr: [FR] Les chemins et sentiers publics de la Province de Namur.
 
 # Humor :trollface:
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
