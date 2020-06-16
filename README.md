@@ -348,6 +348,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March.
 * [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish.
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
+* [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -2815,6 +2816,7 @@ See also [Infrastructure](#infrastructure)
 * [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
 * [Romanr.info](http://romanr.info/magnet.html) - Online BitTorrent Magnet Link Generator | Hash to Magnet link generator / converter
 * [hashtomagnet.xyz](https://hashtomagnet.xyz/) -  Hash to Magnet generator + Get Seed/Leech informations
+* [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -3180,6 +3182,7 @@ See also [Infrastructure](#infrastructure)
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 * [SpaceX](https://www.flickr.com/photos/spacex) - Official SpaceX Photos on Flickr
 * [Will Gallego](https://codeascraft.com/2017/05/30/reducing-image-file-size-at-etsy/) - (2017) Reducing Image File Size at Etsy
+* [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 
 # Linux / Unix :penguin:
 > News
@@ -3979,6 +3982,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
 * [The Golden Hour Calculator](http://www.golden-hour.com/) - Sunrise and Sunset information for photographers | a.k.a. what's the best time to take a good picture depending on your location. That's a tip I've learned while preparing my visit to the Neon Museum in Las Vegas
 * [La boite verte](https://www.laboiteverte.fr/) - :fr: [FR] Site de découverte sur la photographie, la science, les arts et tout ce qui est insolite.
+* [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
