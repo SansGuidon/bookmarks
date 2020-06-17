@@ -2688,7 +2688,7 @@ See also [Infrastructure](#infrastructure)
 * [Rex Swain](http://www.rexswain.com/httpview.html) - HTTP Viewer : See exactly what an HTTP request returns to your browser
 * [IntoDNS](https://intodns.com/) - checks the health and configuration and provides DNS report and mail servers report.
 * [Down for everyone or just me](http://downforeveryoneorjustme.com/) - Check if your website is down or up
-* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
+* [**Qualys SSL Labs**](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : deep analysis of any SSL web server configuration
 * [Panopticlick](https://panopticlick.eff.org) - Test : Is your browser safe against tracking?
 * [Am I unique](https://amiunique.org/fp) - Test : are you unique ? (what your fingerprint reveals about you)
 * [Ookla](http://beta.speedtest.net/) - Speedtest : Test your internet connection speed
@@ -6707,7 +6707,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Stack Overflow](https://stackoverflow.com/a/31552829/2309958) - File encryption with OpenSSL and Why you should use GPG instead
 * [Chandan Kumar](https://geekflare.com/openssl-commands-certificates/) - 21 OpenSSL command examples
 * [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
-* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
+* [**Qualys SSL Labs**](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : deep analysis of any SSL web server configuration
 * [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
 * [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
 * [SSL Shopper](https://www.sslshopper.com/article-most-common-openssl-commands.html) - The Most Common OpenSSL Commands
@@ -7147,7 +7147,7 @@ rpm --rebuilddb
 * [W3C](https://w3c.github.io/developers/tools/) - Various website validation tools
 * [Remy van Elst](https://ssldecoder.org/) - SSL Decoder : check the SSL/TLS configuration of a server
 * [Why No Padlock](https://www.whynopadlock.com/) - find out why your web page is treated as insecure
-* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : analysis of any web server configuration
+* [**Qualys SSL Labs**](https://www.ssllabs.com/ssltest/index.html) - SSL Server test : deep analysis of any SSL web server configuration
 * [Chandan Kumar](https://geekflare.com/ssl-certificate-tools) - 9 free useful online SSL/TLS Certificate Tools
 * [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
 * [Chandan Kumar](https://geekflare.com/find-sql-injection/) - Test your website for SQL injection attack
