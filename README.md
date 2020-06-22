@@ -4445,6 +4445,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+* :star: [**VimAwesome**](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
 
 # Programming
 > News
