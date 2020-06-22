@@ -3437,6 +3437,7 @@ rpm --rebuilddb
 * [Joe Nelson aka begriffs](https://begriffs.com/posts/2019-07-19-history-use-vim.html) - (2019) History and effective use of Vim
 * [Alexander Vasilyevich Dzyoba](https://alex.dzyoba.com/blog/vim-revamp/) - (2019) How I revamped my Vim setup
 * [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Gorgeous ways to exit Vim :-D (it goes beyond what you expect)
+* [George Ornbo](https://shapeshed.com/vim-netrw/) - (2019) Vim: you don't need NERDtree or (maybe) netrw
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
