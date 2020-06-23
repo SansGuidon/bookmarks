@@ -692,6 +692,11 @@ type `curl ident.me` to know your public ip
 * [Kotlin/kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Pure Kotlin implementation of a generic CLI parser.
 * [Clikt](https://ajalt.github.io/clikt/) - Simple, powerful command line parser for Kotlin | Clikt (pronounced “clicked”) is a Kotlin library that makes writing command line interfaces simple and intuitive. It is the “Command Line Interface for Kotlin”. | better alternative to kotlinx.cli ?
 * [b4b4r07/gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
+* [Sandro Cirulli](https://sandrocirulli.net/how-to-validate-a-jenkinsfile/) - (2019) How to Validate a Jenkinsfile
+> **TLDR** 
+```
+curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenkins-url/pipeline-model-converter/validate
+```
 
 # Collaboration & Problem solving
 > News
@@ -2176,6 +2181,11 @@ See also [Infrastructure](#infrastructure)
 * [CloudBeesTV](https://www.youtube.com/watch?v=yTafQ-e84eY) - [Video] (2019) Jenkins Performance: Avoiding Pitfalls, Diagnosing Issues & Scaling for Growth
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/jenkins.md) - My cheatsheet for Jenkins
 * [SAP/jenkins-library](https://github.com/SAP/jenkins-library) - Jenkins shared library for Continuous Delivery pipelines. **See also** [Official Website](https://sap.github.io/jenkins-library/)
+* [Sandro Cirulli](https://sandrocirulli.net/how-to-validate-a-jenkinsfile/) - (2019) How to Validate a Jenkinsfile
+> **TLDR** 
+```
+curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenkins-url/pipeline-model-converter/validate
+```
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
