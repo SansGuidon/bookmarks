@@ -2420,6 +2420,7 @@ See also [Infrastructure](#infrastructure)
 * [28mm/blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 * [Andrey Devyatkin](https://www.slideshare.net/AndreyDevyatkin/hashiconf-digital-2020-hashicorp-vault-configuration-as-code-via-hashicorp-terraform-stories-from-trenches) - (2020) [Sildes] HashiCorp Vault configuration as code via HashiCorp Terraform: Stories from Trenches (HashiConf Digital 2020)
 * [Fernanda Martins](https://www.slideshare.net/FernandaMartins154/the-hitchhikers-guide-to-terraform-your-infrastructure) - (2020) [Slides] The hitchhiker's guide to terraform your infrastructure
+* [Anton Babenko](https://www.youtube.com/watch?v=mOsiLZGdXS4) - (2019) [Video] Terraform best practices with examples and arguments
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
@@ -5147,6 +5148,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [antonbabenko/terragrunt-reference-architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) - Terragrunt Reference Architecture - This repository contains rather complete infrastructure configurations where Terragrunt is used to manage infrastructure for Acme Corporation.
 * [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-some-of-bestpractices-march-2019) - [Slides] (2019) Terraform modules and some of best-practices | Slides of his talk at DevOps Singapore meetup in March 2019
 * [Fernanda Martins](https://www.slideshare.net/FernandaMartins154/the-hitchhikers-guide-to-terraform-your-infrastructure) - (2020) [Slides] The hitchhiker's guide to terraform your infrastructure
+* [Anton Babenko](https://www.youtube.com/watch?v=mOsiLZGdXS4) - (2019) [Video] Terraform best practices with examples and arguments
 
 ## Conferences
 > In Belgium
