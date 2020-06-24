@@ -6706,6 +6706,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 * [liamg/tfsec](https://github.com/liamg/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
 * [Andrey Devyatkin](https://www.slideshare.net/AndreyDevyatkin/hashiconf-digital-2020-hashicorp-vault-configuration-as-code-via-hashicorp-terraform-stories-from-trenches) - (2020) [Sildes] HashiCorp Vault configuration as code via HashiCorp Terraform: Stories from Trenches (HashiConf Digital 2020)
+* [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc. 
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -6722,6 +6723,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Saraev Nikita](https://www.reddit.com/r/GnuPG/comments/47f23m/gnupg_with_32kb_rsa_keys/) - GnuPG with 32kb RSA keys
 * [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
 * [Anita Buehrle](https://www.weave.works/blog/continuous-security-for-gitops) - (2019) Continuous Security for GitOps
+* [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc. 
 
 ## OpenSSL
 * [ZyTrax](http://www.zytrax.com/tech/survival/ssl.html) - Survival guides - TLS/SSL and SSL (X.509) Certificates
