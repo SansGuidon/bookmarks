@@ -107,6 +107,7 @@
 * Enlightment is the space betweeen your thoughts. - Naval Ravikant. Tools of Titans by Tim Ferriss.
 * Love is given, not received. - Naval Ravikant. Tools of Titans by Tim Ferriss.
 * [Jan Stette](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b) - (2020) Things I believe
+* [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
 
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
