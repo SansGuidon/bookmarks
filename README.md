@@ -5971,6 +5971,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 > * Highly productive developers (10x or otherwise) are problem-solving at a much higher level.
 * [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
+* [Carl Tashian](https://smallstep.com/blog/ssh-tricks-and-tips/) - (2020) SSH Tips & Tricks for using SSH more effectively.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -6723,6 +6724,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [liamg/tfsec](https://github.com/liamg/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
 * [Andrey Devyatkin](https://www.slideshare.net/AndreyDevyatkin/hashiconf-digital-2020-hashicorp-vault-configuration-as-code-via-hashicorp-terraform-stories-from-trenches) - (2020) [Sildes] HashiCorp Vault configuration as code via HashiCorp Terraform: Stories from Trenches (HashiConf Digital 2020)
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc. 
+* [Carl Tashian](https://smallstep.com/blog/ssh-tricks-and-tips/) - (2020) SSH Tips & Tricks for using SSH more effectively.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
