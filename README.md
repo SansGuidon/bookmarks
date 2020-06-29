@@ -699,6 +699,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 ```
 * [MorganGeek](https://gist.github.com/MorganGeek/2958ba47630a176733e0136b42557284) - (2020) Validating Jenkinsfile in Vim and/or using CLI / terminal
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc. 
+* [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 
 # Collaboration & Problem solving
 > News
@@ -4468,6 +4469,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * :star: [**VimAwesome**](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc. 
+* [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 
 # Programming
 > News
@@ -5150,6 +5152,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-some-of-bestpractices-march-2019) - [Slides] (2019) Terraform modules and some of best-practices | Slides of his talk at DevOps Singapore meetup in March 2019
 * [Fernanda Martins](https://www.slideshare.net/FernandaMartins154/the-hitchhikers-guide-to-terraform-your-infrastructure) - (2020) [Slides] The hitchhiker's guide to terraform your infrastructure
 * [Anton Babenko](https://www.youtube.com/watch?v=mOsiLZGdXS4) - (2019) [Video] Terraform best practices with examples and arguments
+* [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 
 ## Conferences
 > In Belgium
@@ -5962,6 +5965,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Andrew Payne](https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/) - (2020) The Myth of the Myth of the 10x Programmer
 > * I think 10x developers, like world-class athletes, musicians, and authors, absolutely do exist. You’re just not going to find them with a coding test.
 > * Highly productive developers (10x or otherwise) are problem-solving at a much higher level.
+* [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -6123,6 +6127,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Murtaza Gulamali](https://thoughtbot.com/blog/how-to-manage-your-python-projects-with-pipenv) - (2017) How to manage your Python projects with Pipenv
 * [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of | Pampy is pretty small (150 lines), reasonably fast, and often makes your code more readable and hence easier to reason about. There is also a JavaScript version, called Pampy.js.
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/python.md) - My cheatsheet for Python
+* [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
