@@ -5488,6 +5488,7 @@ psql -f db.out postgres
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/git.md) - My cheatsheet for Git
 * [What the Commit](http://whatthecommit.com/) - A random commit message generator. | some inspiration for your next git commit message | NSFW :-D
 * [rponte/get-latest-tag-on-git.sh](https://gist.github.com/rponte/fdc0724dd984088606b0) - Getting latest tag on git repository
+* [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
 
 ### Dotfiles / Aliases
 See also [Shell aliases](#shell-aliases)
@@ -5516,6 +5517,7 @@ See also [Shell aliases](#shell-aliases)
 * [kentcdodds](https://github.com/kentcdodds/dotfiles/blob/master/.macos) - Shared dotfiles for MacOS
 * [branderxero](https://github.com/branderxero/dockerdots) - dotfiles for docker
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc. 
+* [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -6940,6 +6942,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [instrumenta/conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language. **See also** [Official Website](https://conftest.dev)
 * [mattray/inspec-iggy](https://github.com/mattray/inspec-iggy) - InSpec CLI plugin for generating compliance controls from Terraform and CloudFormation
 * [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform >= 0.12)
+* [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
