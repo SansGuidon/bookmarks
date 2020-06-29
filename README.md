@@ -3388,6 +3388,7 @@ rpm --rebuilddb
 * [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/htop/) - (2017) htop explained | Explanation of everything you can see in htop/top on Linux
 * [b4b4r07/gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
+* [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -4382,6 +4383,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
 * [Anne-Laure Le Cunff](https://nesslabs.com/time-management) - (2019) Time management: do the things you actually want to do
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
+* [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me/) - (2019) Writing Is Hard For Me 
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -5521,6 +5523,7 @@ See also [Shell aliases](#shell-aliases)
 * [branderxero](https://github.com/branderxero/dockerdots) - dotfiles for docker
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc. 
 * [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
+* [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -5966,6 +5969,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 > * I think 10x developers, like world-class athletes, musicians, and authors, absolutely do exist. You’re just not going to find them with a coding test.
 > * Highly productive developers (10x or otherwise) are problem-solving at a much higher level.
 * [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
+* [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -6493,6 +6497,7 @@ type `curl ident.me` to know your public ip
 * [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
+* [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](#dotfiles--aliases)
@@ -7298,3 +7303,4 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Ada Nduka Oyom](https://dev.to/kolokodess/on-becoming-a-technical-writer-318e) - (2018) On Becoming a Technical Writer
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
 * [Steph Smith](https://blog.stephsmith.io/learning-to-write-with-confidence/) - (2019) Writing is Thinking: Learning to Write with Confidence
+* [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me/) - (2019) Writing Is Hard For Me 
