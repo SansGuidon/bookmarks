@@ -700,6 +700,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [MorganGeek](https://gist.github.com/MorganGeek/2958ba47630a176733e0136b42557284) - (2020) Validating Jenkinsfile in Vim and/or using CLI / terminal
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc. 
 * [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
+* [ec2.shop](https://ec2.shop/) - Hacker way to compare ec2 instances price
 
 # Collaboration & Problem solving
 > News
@@ -1732,6 +1733,7 @@ See also [Infrastructure](#infrastructure)
 * [AWS Favicon Update](https://chrome.google.com/webstore/detail/aws-favicon-update/ohloajnmmkniehhbmjakbejnomonmijc) - This extension for Chrome displays a different favicon for every AWS service tab opened in the browser so your tabs make more sense 
 * [EC2Instances.info](https://ec2instances.info/) - Easy Amazon EC2 Instance Comparison
 * [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-use-gruntwork-infrastructure-as-code-library) - How to use the Gruntwork Infrastructure as Code Library
+* [ec2.shop](https://ec2.shop/) - Hacker way to compare ec2 instances price
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
