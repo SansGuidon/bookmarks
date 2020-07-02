@@ -1564,6 +1564,14 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [topics/awesome-ci](https://github.com/topics/awesome-ci) - GitHub repositories matching awesome-ci topic
 * [Gruntwork](https://gruntwork.io/devops-resources/) - A collection of blog posts, talks, books, and checklists for learning about DevOps, AWS, Terraform, Docker, Packer, and more
 * [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+* [Thomas Nyambati](https://medium.com/rackbrains/https-medium-com-thomas-nyambati-how-to-avoid-handover-nightmares-aea38d9a3793) - (2017) How to Avoid Handover Nightmares | I totally adhere to those principles in my daily work... they are well known but still deserve a reminder :-) ...  
+> * Keep things simple.
+> * Document everything.
+> * Adopt workflow and best practices.
+> * Employ separation of concerns.
+> * Avoid using personal accounts or credentials.
+> * Automate as much as you can.
+> * Write good code.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -5161,6 +5169,14 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Anton Babenko](https://www.youtube.com/watch?v=mOsiLZGdXS4) - (2019) [Video] Terraform best practices with examples and arguments
 * [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 * [CloudSkiff](https://medium.com/faun/terraform-code-quality-66e6468f50f3) - (2019) Terraform Code Quality | Key Steps to a good quality for your Infrastructure Code.
+* [Thomas Nyambati](https://medium.com/rackbrains/https-medium-com-thomas-nyambati-how-to-avoid-handover-nightmares-aea38d9a3793) - (2017) How to Avoid Handover Nightmares | I totally adhere to those principles in my daily work... they are well known but still deserve a reminder :-) ...  
+> * Keep things simple.
+> * Document everything.
+> * Adopt workflow and best practices.
+> * Employ separation of concerns.
+> * Avoid using personal accounts or credentials.
+> * Automate as much as you can.
+> * Write good code.
 
 ## Conferences
 > In Belgium
