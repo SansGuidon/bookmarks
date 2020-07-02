@@ -4845,6 +4845,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - programming challenges on reddit
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * [Code Golf](https://code-golf.io/) - a game designed to let you show off your code-fu by solving problems in the least number of characters. It is written in Go and is open source, patches welcome!
+* [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own ... (insert technology here)
 
 > Stickers
 * [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
