@@ -108,6 +108,14 @@
 * Love is given, not received. - Naval Ravikant. Tools of Titans by Tim Ferriss.
 * [Jan Stette](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b) - (2020) Things I believe
 * [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
+* [Thomas Nyambati](https://medium.com/rackbrains/https-medium-com-thomas-nyambati-how-to-avoid-handover-nightmares-aea38d9a3793) - (2017) How to Avoid Handover Nightmares | I totally adhere to those principles in my daily work... they are well known but still deserve a reminder :-) ...  
+> * Keep things simple.
+> * Document everything.
+> * Adopt workflow and best practices.
+> * Employ separation of concerns.
+> * Avoid using personal accounts or credentials.
+> * Automate as much as you can.
+> * Write good code.
 
 ## personal thoughts
 * [MorganGeek](https://twitter.com/MorganGeek/statuses/420907517934178304) - Problem solving / Productivity : Good programmers write code after they found the solution. Un bon programmeur ne commence à coder qu'après avoir trouvé une solution.
