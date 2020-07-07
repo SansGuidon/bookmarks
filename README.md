@@ -2688,6 +2688,7 @@ See also [Infrastructure](#infrastructure)
 # Free online tools :free:
 * [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
+* [Netcraft](https://sitereport.netcraft.com/) - What's that site running? Find out the infrastructure and technologies used by any site, based on results from internet data mining
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze a website performance
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dillinger](http://dillinger.io/) - Online Markdown Editor
@@ -7258,6 +7259,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y/blob/master/topics/validators.md) - Development Testing and Validators focused on accessibility
 * [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework | Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and SPAs (single-page applications). **See also** : [Video] (2020) [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
+* [Netcraft](https://sitereport.netcraft.com/) - What's that site running? Find out the infrastructure and technologies used by any site, based on results from internet data mining
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
