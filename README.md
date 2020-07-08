@@ -702,6 +702,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 * [ec2.shop](https://ec2.shop/) - Hacker way to compare ec2 instances price
 * [Lib.rs](https://lib.rs/command-line-utilities) - Command line utilities | List of Rust applications/libraries/crates
+* [Guido Socher](http://tuxgraphics.org/~guido/scripts/awk-one-liner.html) - (2015) AWK one-liner collection
 
 # Collaboration & Problem solving
 > News
@@ -6524,6 +6525,7 @@ type `curl ident.me` to know your public ip
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
+* [Guido Socher](http://tuxgraphics.org/~guido/scripts/awk-one-liner.html) - (2015) AWK one-liner collection
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](#dotfiles--aliases)
