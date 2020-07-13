@@ -703,6 +703,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [ec2.shop](https://ec2.shop/) - Hacker way to compare ec2 instances price
 * [Lib.rs](https://lib.rs/command-line-utilities) - Command line utilities | List of Rust applications/libraries/crates
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, tutorials & themes
+* [Guido Socher](http://tuxgraphics.org/~guido/scripts/awk-one-liner.html) - (2015) AWK one-liner collection
 
 # Collaboration & Problem solving
 > News
@@ -3433,7 +3434,6 @@ rpm --rebuilddb
 * [Philippe Teuwen](http://wiki.yobi.be/wiki/Modem_BBox-2) - wiki with useful detailed information about Belgacom BBox2
 
 ## Vim
-* [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
 * [Vim Tips Wiki](http://vim.wikia.com/wiki/Search_and_replace) - Search and replace in VIM
 * [zzapper](http://rayninfo.co.uk/vimtips.html) - Best of Vim Tips / compiled from 16 Years of Vi + 10+ years of Vim
@@ -3471,6 +3471,7 @@ rpm --rebuilddb
 * [George Ornbo](https://shapeshed.com/vim-netrw/) - (2019) Vim: you don't need NERDtree or (maybe) netrw
 * [Dimitri Merejkowsky](https://dmerej.info/blog/post/lets-have-a-pint-of-vim-ale/) - (2017) Let's have a pint of (vim) ale! | Write a custom language linter for ale
 * [MorganGeek](https://gist.github.com/MorganGeek/2958ba47630a176733e0136b42557284) - (2020) Validating Jenkinsfile in Vim and/or using CLI / terminal
+* [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -6527,6 +6528,8 @@ type `curl ident.me` to know your public ip
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, tutorials & themes
+* [Guido Socher](http://tuxgraphics.org/~guido/scripts/awk-one-liner.html) - (2015) AWK one-liner collection
+* [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](#dotfiles--aliases)
