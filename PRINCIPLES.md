@@ -19,7 +19,7 @@
   * make small changes and iterate
 * [Ozan Onay](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) - You Are Not Google
   * Don’t even start considering solutions until you **Understand** the problem. Your goal should be to “solve” the problem mostly within the problem domain, not the solution domain.
-  * **eNumerate** multiple candidate solutions. Don’t just start prodding at your favorite!
+  * **enumerate** multiple candidate solutions. Don’t just start prodding at your favorite!
   * Consider a candidate solution, then read the **Paper** if there is one.
   * Determine the **Historical context** in which the candidate solution was designed or developed.
   * Weigh **Advantages** against disadvantages. Determine what was de-prioritized to achieve what was prioritized.
@@ -35,7 +35,7 @@
 * [Stuart Sierra](https://twitter.com/stuartsierra/statuses/512009723282206722) - There's always a reason, no matter how strange the bug
 * [Johannes Seitz](https://twitter.com/Ookami86/statuses/515483645663252480) - Software Engineering best practice: Actually understand what you’re doing. Unfortunately it’s rarely used in practice.
 * [Stuart Sierra](https://twitter.com/stuartsierra/statuses/516967544167489536) - "Bugs are dependency-transitive"
-* [Stuart Halloway](https://twitter.com/stuarthalloway/statuses/502906568569286657) - the #1 source of software defects is easy presumtion. Presume nothing.
+* [Stuart Halloway](https://twitter.com/stuarthalloway/statuses/502906568569286657) - the #1 source of software defects is easy presumption. Presume nothing.
 * "The Principle of Least Astonishment: Make a user interface as consistent and as predictable as possible"
 * "Worried that TDD will slow down your programmers? Don't. They probably need slowing down." [J. B. Rainsberger](https://twitter.com/jbrains/statuses/167297606698008576)
 * encourage others when they need it. [relevant reference](https://imgur.com/gallery/ihRohVQ)
@@ -49,7 +49,7 @@
 * [Amelia Earhart](https://twitter.com/GlenGilmore/statuses/536974002557042689) - The most effective way to do it, is to do it. ~ Amelia Earhart RT
 * [Vala Afshar](https://twitter.com/ValaAfshar/statuses/536662076924915712) - The best way to achieve mediocrity is by often choosing the path of least resistance.
 * [Roy Osing](https://talentculture.com/11-ways-to-lose-yourself-in-the-crowd/) - Anti principles (Don't do this !) / 11 Ways To Lose Yourself In The Crowd
-* [Martin Fowler](https://twitter.com/abt_programming/statuses/531036428948738048) - When you feel the need to write a comment, first try to refactor the code so that any comment becomes superflouus
+* [Martin Fowler](https://twitter.com/abt_programming/statuses/531036428948738048) - When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous
 * [Craig Zerouni](https://twitter.com/abt_programming/statuses/548978665221267458) - "If you have too many special cases, you are doing it wrong"
 * You learn nothing from life if you think you're right all the time
 * Mark Twain : If you tell the truth, you don't have to remember anything.
@@ -90,7 +90,7 @@
   * Don’t break stuff : Backward compatibility for the win
   * Don’t merge PRs at late night : Merging PRs at Friday night is a terrible thing to do  
 * [Charity Majors](https://twitter.com/rynchantress/status/778702826578911233) - Don't make production decisions just because you want to learn Go. That's what your Saturdays are for.
-* [Charity Majors](https://twitter.com/mipsytipsy/status/778970572835270656) - experiment on devtools, or in your 20% time, or off hour, NOT IN THE CRITICAL PATH
+* [Charity Majors](https://twitter.com/mipsytipsy/status/778970572835270656) - experiment on dev tools, or in your 20% time, or off hour, NOT IN THE CRITICAL PATH
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence) - Chesterton's fence : the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 * [Wikipedia](https://en.wikipedia.org/wiki/The_No_Asshole_Rule) - The No Asshole Rule
 > 1. After encountering the person, do people feel oppressed, humiliated or otherwise worse about themselves?
@@ -104,7 +104,7 @@
 * Total honesty at all times. It's almost always possible to be honest & positive.  - Naval Ravikant. Tools of Titans by Tim Ferriss.
 * Praise specifically, criticize generally (Warren Buffett). - Naval Ravikant. Tools of Titans by Tim Ferriss.
 * All greatness comes from suffering. - Naval Ravikant. Tools of Titans by Tim Ferriss.
-* Enlightment is the space betweeen your thoughts. - Naval Ravikant. Tools of Titans by Tim Ferriss.
+* Enlightenment is the space between your thoughts. - Naval Ravikant. Tools of Titans by Tim Ferriss.
 * Love is given, not received. - Naval Ravikant. Tools of Titans by Tim Ferriss.
 * [Jan Stette](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b) - (2020) Things I believe
 * [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
@@ -204,7 +204,7 @@
 * Find the right person to ask
 * Use correct grammar
 * Keep the question simple
-* Differenciate between open (Why ?) vs closed (when ? who ?) question types
+* Differentiate between open (Why ?) vs closed (when ? who ?) question types
 * Explain why you are asking
 
 ## Art of Communication
@@ -227,7 +227,7 @@
 * Set the main idea first
 * Focus on your audience
 * Avoid passive constructions
-* Be open minded, don't think you know eveything about your audience
+* Be open minded, don't think you know everything about your audience
 * Use the body language (physical and visual contact, ...)
 * Stay calm : Wrap up then stop talking. Pause. Repeat. Ask clarification of a statement. Be clear.
 * Look for humor.
