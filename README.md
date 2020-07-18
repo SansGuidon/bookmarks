@@ -5182,6 +5182,11 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > * Avoid using personal accounts or credentials.
 > * Automate as much as you can.
 > * Write good code.
+* [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - static analysis tools for all programming languages, build tools, config files and more. **See also**: [the official website](https://analysis-tools.dev/) which is based on this repository and adds rankings and user comments for each tool.
+* [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.
+* [amperser/proselint](https://github.com/amperser/proselint/) - a linter for English prose.
+* [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+> Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 
 ## Conferences
 > In Belgium
@@ -7338,3 +7343,8 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
 * [Steph Smith](https://blog.stephsmith.io/learning-to-write-with-confidence/) - (2019) Writing is Thinking: Learning to Write with Confidence
 * [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me/) - (2019) Writing Is Hard For Me
+* [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - static analysis tools for all programming languages, build tools, config files and more. **See also**: [the official website](https://analysis-tools.dev/) which is based on this repository and adds rankings and user comments for each tool.
+* [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.
+* [amperser/proselint](https://github.com/amperser/proselint/) - a linter for English prose.
+* [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+> Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
