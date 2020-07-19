@@ -8,7 +8,7 @@ You can add links through pull requests, ensure your pull request adheres to the
 - Make an individual pull request for each suggestion.
 - Use the following format:
  - for GitHub repos : `[author/reponame](link) - Description`.
- - for websites : `[Website](link) [language] - Description` `[language]` is optional if english.
- - for articles : `[Author](link) [language] - (publication year) Description` `[language]` is optional if english. `(publication year)` is optional but can generally be found.
+ - for websites : `[Website](link) [language] - Description` `[language]` is optional if English.
+ - for articles : `[Author](link) [language] - (publication year) Description` `[language]` is optional if English. `(publication year)` is optional but can generally be found.
 - Keep link descriptions short and simple, but descriptive.
 - Check your spelling and grammar.
