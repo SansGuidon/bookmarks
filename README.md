@@ -704,6 +704,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Lib.rs](https://lib.rs/command-line-utilities) - Command line utilities | List of Rust applications/libraries/crates
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, tutorials & themes
 * [Guido Socher](http://tuxgraphics.org/~guido/scripts/awk-one-liner.html) - (2015) AWK one-liner collection
+* [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
 
 # Collaboration & Problem solving
 > News
@@ -4880,6 +4881,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Langserver.org](https://langserver.org/) - is a community-driven site, maintained by Sourcegraph, to track development progress of LSP-compatible language servers and clients. | The Language Server protocol is used between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 * [b4b4r07/gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
+* [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
@@ -6003,6 +6005,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
 * [Carl Tashian](https://smallstep.com/blog/ssh-tricks-and-tips/) - (2020) SSH Tips & Tricks for using SSH more effectively.
+* [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
