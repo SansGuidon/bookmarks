@@ -7106,6 +7106,7 @@ rpm --rebuilddb
 * [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
+* [JAMstack Themes](https://jamstackthemes.dev/ssg/) - Themes for Static Site Generators | for Hugo, Hexo, Gatsby, Eleventy (11ty), Vuepress, Pelican, Jekyll, Mkdocs, etc
 
 ## Accessibility (a11y)
 * [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page. **See also** [GitHub repository](https://github.com/Khan/tota11y)
@@ -7198,6 +7199,7 @@ rpm --rebuilddb
 * [Noé Baylac Jacqué aka Deluvi](https://deluvi.com/blog/webmention/) - (2018) Implementing Webmention on a static website | An explanation of Webmentions and an implementation on Hugo
 > Webmention is a web standard that allows having interactions in a decentralized way.
 > The big advantage of Webmention is that the protocol is very simple: it only relies on an HTTP POST request.
+* [JAMstack Themes](https://jamstackthemes.dev/ssg/) - Themes for Static Site Generators | for Hugo, Hexo, Gatsby, Eleventy (11ty), Vuepress, Pelican, Jekyll, Mkdocs, etc
 
 ## Web development checklists / best practices
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
