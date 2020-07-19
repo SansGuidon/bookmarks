@@ -7273,6 +7273,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework | Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and SPAs (single-page applications). **See also** : [Video] (2020) [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 * [Netcraft](https://sitereport.netcraft.com/) - What's that site running? Find out the infrastructure and technologies used by any site, based on results from internet data mining
+* [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - list of static web site generators.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
