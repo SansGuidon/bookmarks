@@ -93,5 +93,8 @@ use current buffer as input of a shell command
 * `:bw` close file
 * `:help buffer` to find more information
 
+### YouCompleteMe
+* `Ctrl+<SPACE>` trigger auto completion
+
 ### Sources
 * [Basic Vim commands - For getting started](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
