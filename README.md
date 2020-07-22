@@ -2819,8 +2819,7 @@ See also [Infrastructure](#infrastructure)
 * [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
 * [CICR Tool](https://www.ipaddressguide.com/cidr) - IP Range To CIDR / CIDR to IP Range
 * [Meta Tags](https://metatags.io/) - is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
-* [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
-* [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
+* :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
 * :star: [**Xerius**](https://brutonetto.xerius.be) - :fr: [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net
 * [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
@@ -5528,6 +5527,8 @@ psql -f db.out postgres
 * [What the Commit](http://whatthecommit.com/) - A random commit message generator. | some inspiration for your next git commit message | NSFW :-D
 * [rponte/get-latest-tag-on-git.sh](https://gist.github.com/rponte/fdc0724dd984088606b0) - Getting latest tag on git repository
 * [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
+* :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
+* [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ### Dotfiles / Aliases
 See also [Shell aliases](#shell-aliases)
@@ -5543,7 +5544,7 @@ See also [Shell aliases](#shell-aliases)
 * [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 * [Robby Russell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/456341fd69c3e514e401f1c3c1726b77d733c86b/plugins/git/git.plugin.zsh) - git aliases from oh-my-zsh
 * [Oli Young](https://gist.github.com/oliyoung/91a829ea21550a7a7d9469220a7c2f73) - shared .gitconfig with some useful Git aliases
-* [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
+* :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
 * [George Gritsouk](https://gggritso.com/human-git-aliases) - (2016) Human Git Aliases | Stubbornly Refusing to Speak The Computer's Language | **Bonus** : [author's dotfiles](https://github.com/gggritso/dotfiles/blob/master/gitconfig.symlink)
 * [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
 * [raidzero/dotfiles](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
@@ -5558,6 +5559,7 @@ See also [Shell aliases](#shell-aliases)
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc.
 * [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
+* [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -5979,7 +5981,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Kent C. Dodds](https://kentcdodds.com/blog/write-tests) - (2017) Write tests. Not too many. Mostly integration.
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * :star: [**DistroTest**](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
-* [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
+* :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 * [Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) - (2019) Do-nothing scripting: the key to gradual automation | pattern for scripts that do nothing but still help on the road to automation
 * :star: [**Eric Pement**](https://web.archive.org/web/20190804114017/http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
@@ -6006,6 +6008,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
 * [Carl Tashian](https://smallstep.com/blog/ssh-tricks-and-tips/) - (2020) SSH Tips & Tricks for using SSH more effectively.
 * [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
+* [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
