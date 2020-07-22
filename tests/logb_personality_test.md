@@ -39,4 +39,5 @@ ability to express warmth in a relationship.
 * **Decision Making:** Avoids making decisions; needs lots of information before they will make a decision
 * **In Pressure or Tense Situations:** The beaver tries to avoid pressure or tense situations. They can ignore deadlines.
 * **Greatest Needs:** The beaver needs security, gradual change and time to adjust to it.
-* **What the Beaver Desires:** Clearly defined t
+* **What the Beaver Desires:** Clearly defined tasks, stability, security, low risk, and tasks that require precision
+ and planning
