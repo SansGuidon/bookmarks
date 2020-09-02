@@ -72,7 +72,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Board games](#board-games)
   * [Role-playing :dragon:](#role-playing-dragon)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
-  * [Remote jobs](#remote-jobs)
+  * [Remote work](#remote-work)
 * [Hobbies](#hobbies)
 * [Humor :trollface:](#humor-trollface)
 * [Images / Wallpapers](#images--wallpapers)
@@ -3106,22 +3106,28 @@ See also [Infrastructure](#infrastructure)
 * [Google Search](https://www.google.be/search?q=what%20are%20the%20worst%20foods%20to%20eat) - what are the worst foods to eat ?
 * [Tina Su](http://thinksimplenow.com/happiness/life-on-purpose-15-questions-to-discover-your-personal-mission/comment-page-13/) - (2015) Life on Purpose: 15 Questions to Discover Your Personal Mission
 
-## Remote jobs
+## Remote work
+> Finding a remote job
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
 * [The Remote Working Company](http://www.remoteworking.co/) - Remote Jobs for people that don't like to go to work, mostly technology oriented
 * [Working Nomads](https://www.workingnomads.co/jobs) - Remote jobs, with most offers in development
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs: Design, Programming, DevOps and more
 * [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
-* [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers
 * [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - list of awesome remote jobs and resources
+
+> Tools
+* [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers
 * [Sick Call Excuse Generator](http://www.getodd.com/raz/sickday/sickday.html) - helpful to you in deciding the excuse for your forthcoming day off.
 * [WFH-excuses](https://us-central1-wfh-excuses-gh.cloudfunctions.net/wfh) - Working from Home excuses generator. **Bonus** : [GitHub repo](https://github.com/lnfnunes/WFH-excuses)
+
+> Misc
 * [Antonio Bello](https://www.raywenderlich.com/114368/staying-motivated-work-home-developer) - (2015) Staying Motivated as a Work From Home Developer
 * [Nathalie Marquez Courtney](https://increment.com/development/home-is-where-the-work-is/) - (2017) Home is where the work is | Flexible. Freeing. Lonely. Three remote engineers share what it’s really like to work from afar.
 * [Julia Evans](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/) - (2018) Working remotely, 4 years in
 * [Northern Ireland Business](https://www.nibusinessinfo.co.uk/content/common-causes-stress-work) - How to deal with stress : Common causes of stress at work
 * [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 * [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
+* [Thomas A. Limoncelli](https://queue.acm.org/detail.cfm?id=3417752) - (2020) Five Nonobvious Remote Work Technique)
 
 # Hobbies
 > Beers :beers:
