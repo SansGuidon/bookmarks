@@ -405,6 +405,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [pdf-magazines.me](https://pdf-magazines.me/) - PDF Magazines and ebook, variety of categories, fast search.
 * [WorldMags.net](https://www.worldmags.net/) - Magazines from all over the world
 * [freemagazinepdf.com](https://freemagazinepdf.com/?s=linux) - Magazines PDF download free
+* [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
 
 > Summaries, notes and reviews
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
@@ -3478,6 +3479,7 @@ rpm --rebuilddb
 * [Dimitri Merejkowsky](https://dmerej.info/blog/post/lets-have-a-pint-of-vim-ale/) - (2017) Let's have a pint of (vim) ale! | Write a custom language linter for ale
 * [MorganGeek](https://gist.github.com/MorganGeek/2958ba47630a176733e0136b42557284) - (2020) Validating Jenkinsfile in Vim and/or using CLI / terminal
 * [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
+* [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
