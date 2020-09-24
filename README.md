@@ -406,6 +406,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [WorldMags.net](https://www.worldmags.net/) - Magazines from all over the world
 * [freemagazinepdf.com](https://freemagazinepdf.com/?s=linux) - Magazines PDF download free
 * [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
+* [Read Comics Online](https://readcomicsonline.ru/) - Website to read DC and Marvel Comics Online for FREE.
 
 > Summaries, notes and reviews
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
@@ -2654,6 +2655,7 @@ See also [Infrastructure](#infrastructure)
 * [RAWG](https://rawg.io/) - Discover your next favorite game | The largest video game database and video game discovery service powered by you!. RAWG is building its database as an infotainment and discovery tool where every user can build its own library of video games and find out about new titles. | RAWG is officially the largest video game database in the world
 * [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
 * [Internet Relay Chat](https://netsplit.de/channels/) - Search chat rooms (IRC channels) within the Internet Relay Chat and get informed about their users and topics!
+* [Read Comics Online](https://readcomicsonline.ru/) - Website to read DC and Marvel Comics Online for FREE.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
