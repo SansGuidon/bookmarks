@@ -3407,7 +3407,8 @@ rpm --rebuilddb
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
 * [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - (2013) My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
 * [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - (2011) Basic Linux Privilege Escalation
-* [Senthil Kumar aka SK](https://www.ostechnix.com/random-one-liner-linux-commands-part-1/) - (2018) Some Random One-liner Linux Commands [Part 1]. **Bonus** : [Part 2](https://www.ostechnix.com/random-one-liner-linux-commands-part-2/), [Part 3](https://www.ostechnix.com/random-one-liner-linux-commands-part-3/), [Part 4](https://www.ostechnix.com/some-random-one-liner-linux-commands-part-4/)
+* [Senthil Kumar aka SK](https://www.ostechnix.com/
+-one-liner-linux-commands-part-1/) - (2018) Some Random One-liner Linux Commands [Part 1]. **Bonus** : [Part 2](https://www.ostechnix.com/random-one-liner-linux-commands-part-2/), [Part 3](https://www.ostechnix.com/random-one-liner-linux-commands-part-3/), [Part 4](https://www.ostechnix.com/some-random-one-liner-linux-commands-part-4/)
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
 * [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/htop/) - (2017) htop explained | Explanation of everything you can see in htop/top on Linux
@@ -3566,7 +3567,7 @@ rpm --rebuilddb
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot)
 * [Short of the Week](https://www.shortoftheweek.com/) - Watch the best short films online
-* [MorganGeek](https://www.morgangeek.be//minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
+* [MorganGeek](https://www.morgangeek.be/minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
 * [Vimeo](https://vimeo.com/) - The high-quality home for video hosting and watching in HD with no ads, used by a vast number of indie filmmakers. The place to find refreshing, art-house movies to stream on demand.
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
@@ -4126,6 +4127,9 @@ See also [Operations / IT OPS](#operations--it-ops)
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
+* [MorganGeek](https://www.morgangeek.be/minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
+* [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website
+* [The Whimsical Web](https://whimsical.club/1/) - Websites that spark joy - A curated list of sites with an extra bit of fun. [Source code](https://github.com/maxboeck/whimsical)
 
 # Productivity :fast_forward:
 > News
