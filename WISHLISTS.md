@@ -28,6 +28,8 @@
 * [RateYourMusic](https://fr.rateyourmusic.com/collection/MorganGeek/stag/to+listen/) - music to listen to
 * [RateYourMusic](https://fr.rateyourmusic.com/collection/MorganGeek/wishlist) - Wishlist (music to buy)
 * [Deku Deals](https://www.dekudeals.com/wishlist/rkfdxtskhw) - Wishlist (nintendo switch games)
+* [Tric Trac](https://www.trictrac.net/mur/silvermo/wishlist) - Wishlist (board games)
+* [BoardGameGeek](https://boardgamegeek.com/wishlist/Silvermo) - Wishlist (board games)
 
 ### Material misc ###
 
@@ -37,3 +39,5 @@
 * [ ] ultra wide curved computer monitor
 * [x] kindle / ebook reader
 * [ ] hnefatafl
+* [ ] audible subscription
+* [ ] lakube subscription
