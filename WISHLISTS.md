@@ -31,7 +31,7 @@
 
 ### Material misc ###
 
-* wireless high fidelity headphone
+* [ ] wireless high fidelity headphone
 * [x] agenda / bullet journal (or even both combined) for 2018
 * [ ] powerful laptop for personal projects
 * [ ] ultra wide curved computer monitor
