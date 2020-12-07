@@ -375,7 +375,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Google](https://landing.google.com/sre/book.html) - [Book] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
 * [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
 * :star: [**Library Genesis**](https://libgen.is/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.me/), [Mirrors list](http://sguru.org/libgen-proxy/)
-* [b-ok.org](http://b-ok.org/) - ebooks
+* :star: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
 * [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - [TOR] a list of websites that have free ebooks.
 * [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
 * [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
@@ -2531,7 +2531,7 @@ See also [Infrastructure](#infrastructure)
 * :star: [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
 * :star: [**Library Genesis**](https://libgen.is/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.me/), [Mirrors list](http://sguru.org/libgen-proxy/)
 * :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
-* [b-ok.org](http://b-ok.org/) - ebooks
+* :star: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music .
 * [RuTracker](https://rutracker.org/forum/index.php) - torrent for music
 * [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
@@ -2645,7 +2645,7 @@ See also [Infrastructure](#infrastructure)
 * [Open Culture](http://www.openculture.com/freemoviesonline) - 1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, Documentaries, etc.
 * [ZippyShare](https://zippysharesearch.info) - Search and Download Free MP3, Music, Books, Epubs, APK and Video
 * [Yggtorrent](https://www2.yggtorrent.gg) - 1st French torrent tracker
-* [ZLibrary](https://b-ok.cc/) - The world's largest ebook library.
+* :star: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
 * [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts : The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
 * [TorrentSeeker](https://search.torrents.io) - is a powerful torrent search combining results from dozens of torrent sites
