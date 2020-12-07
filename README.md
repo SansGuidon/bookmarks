@@ -410,6 +410,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Bouquineux](http://www.bouquineux.com/) - :fr: [FR] Livres numériques gratuits et libres de droits
 * [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits | Livres électroniques gratuits | Free ebooks
 * [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
+* [Mobilism](https://forum.mobilism.me/viewforum.php?f=120) - Your Source for Apps & Books | Login available via [**BugMeNot**](http://bugmenot.com/)
 
 > Summaries, notes and reviews
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
@@ -2665,6 +2666,7 @@ See also [Infrastructure](#infrastructure)
 * [Bouquineux](http://www.bouquineux.com/) - :fr: [FR] Livres numériques gratuits et libres de droits
 * [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits | Livres électroniques gratuits | Free ebooks
 * [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
+* [Mobilism](https://forum.mobilism.me/viewforum.php?f=120) - Your Source for Apps & Books | Login available via [**BugMeNot**](http://bugmenot.com/)
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
