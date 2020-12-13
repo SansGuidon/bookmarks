@@ -5216,6 +5216,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 > Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 * [Jamie Wong](http://jamie-wong.com/2013/07/12/grep-test/) - (2013) Too DRY - The Grep Test
+* [Ilya Sher](https://ilya-sher.org/2019/05/18/on-information-loss-in-software/) - (2019) On Information Loss in Software
 
 ## Conferences
 > In Belgium
