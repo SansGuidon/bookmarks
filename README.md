@@ -1222,6 +1222,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Bouquineux](http://www.bouquineux.com/) - :fr: [FR] Livres numériques gratuits et libres de droits
 * [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits | Livres électroniques gratuits | Free ebooks
 * [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
+* [Instructables](http://www.instructables.com/) - How to make anything
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
