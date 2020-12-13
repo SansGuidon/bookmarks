@@ -4990,6 +4990,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
+* [Calm Tech](https://calmtech.com/) - Principles of Calm Technology
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
@@ -5214,6 +5215,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [amperser/proselint](https://github.com/amperser/proselint/) - a linter for English prose.
 * [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 > Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+* [Jamie Wong](http://jamie-wong.com/2013/07/12/grep-test/) - (2013) Too DRY - The Grep Test
 
 ## Conferences
 > In Belgium
