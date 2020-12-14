@@ -350,6 +350,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 * [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
+* [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -581,6 +582,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Keepa](https://keepa.com) - This Amazon price tracker will enhance your Amazon shopping experience as they provide price history charts, price drop alerts, price watches, daily drops and browser addons.
 * [PSprices](https://psprices.com/region-be/search/?q=&platform=Switch&dlc=show&sort=opencritic) - Game price notifications. Automatically monitor 8 platforms in 48 countries.
 * :star: [**Xerius**](https://www.xerius.be/bnc/app/fr) - :fr: [FR] [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net / Freelance rate simulator
+* [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 
 ## Cryptocurrency
 > News
@@ -1162,6 +1164,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > Don’t be scared, ashamed, or discouraged to make it paid
 > Don’t let anyone tell you how much you should charge for your work
 > value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
+* [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -7314,6 +7317,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework | Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and SPAs (single-page applications). **See also** : [Video] (2020) [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 * [Netcraft](https://sitereport.netcraft.com/) - What's that site running? Find out the infrastructure and technologies used by any site, based on results from internet data mining
 * [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - list of static web site generators.
+* [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
