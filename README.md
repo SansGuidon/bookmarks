@@ -2882,6 +2882,7 @@ See also [Infrastructure](#infrastructure)
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 
+# Gaming :video_game:
 > News
 * [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
 * [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
@@ -2944,6 +2945,7 @@ See also [Infrastructure](#infrastructure)
 * [PSprices](https://psprices.com/region-be/search/?q=&platform=Switch&dlc=show&sort=opencritic) - Game price notifications. Automatically monitor 8 platforms in 48 countries.
 * [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt.
  :video_game:
+* [Viking Board Game](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -3163,6 +3165,7 @@ See also [Infrastructure](#infrastructure)
 > Chess
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 * [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move
+* [Viking Board Gamee](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
 
 > Coffee :coffee:
 * [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
