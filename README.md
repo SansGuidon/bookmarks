@@ -583,6 +583,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [PSprices](https://psprices.com/region-be/search/?q=&platform=Switch&dlc=show&sort=opencritic) - Game price notifications. Automatically monitor 8 platforms in 48 countries.
 * :star: [**Xerius**](https://www.xerius.be/bnc/app/fr) - :fr: [FR] [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net / Freelance rate simulator
 * [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
+* [Companyweb](https://www.companyweb.be/en) - [BE] Know who you’re dealing with | Companyweb specialises in company information in Belgium. Its services allow you to understand the risks, the survival rates, the payment capacity, the profitability, the stability and other key factors of every Belgian company.
 
 ## Cryptocurrency
 > News
@@ -2994,7 +2995,7 @@ See also [Infrastructure](#infrastructure)
 * [/r/BasicIncome](https://www.reddit.com/r/BasicIncome/) - community space for discussion and advocacy of Basic Income schemes
 * [/r/antiwork](https://www.reddit.com/r/antiwork/) - discussion and advocacy of a world without work
 * [PartTimer](https://parttimer.io/) - a job board for skilled work under 40 HRS/week
-* [Glassdoor](https://www.glassdoor.com/Reviews/index.htm) - company reviews and salaries posted anonymously by employees.
+* :star: [**Glassdoor**](https://www.glassdoor.com/Reviews/index.htm) - A site that lets employees post anonymous salaries and reviews of their company.
 * [BetaList Jobs](https://betalist.com/jobs) - shape the future by joining one of the fastest growing technology startups
 * [WorkWithUs](https://workwithus.io/) - hand-curated selection of best jobs
 * [Who is Hiring?](https://whoishiring.io/) - jobs search engine per location and some other criteria
@@ -3057,7 +3058,6 @@ See also [Infrastructure](#infrastructure)
 * [Cornell University Ergonomics Web](http://ergo.human.cornell.edu/AHTutorials/typingposture.html) - Ideal typing posture: Negative slope keyboard support
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/18/rsi-solution/) - (2016) How I stopped the RSI pain that almost destroyed my programming career
 * [tamar Turner-Trauring](https://codewithoutrules.com/2016/08/18/productive-programmer/) - (2016) Less stress, more productivity: why working fewer hours is better for you and your employer
-* [Glassdoor](https://www.glassdoor.com/) - a site that lets employees post anonymous salaries and reviews of their company.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/14/job-you-dont-hate/) - (2016) How to find a programming job you won’t hate
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/08/living-below-your-means/) - (2016) Why living below your means can help you find a better job
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/03/20/open-floor-plan/) - (2017) Dear recruiter, “open floor space” is not a job benefit
