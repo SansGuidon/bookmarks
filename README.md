@@ -584,6 +584,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [**Xerius**](https://www.xerius.be/bnc/app/fr) - :fr: [FR] [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net / Freelance rate simulator
 * [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 * [Companyweb](https://www.companyweb.be/en) - [BE] Know who you’re dealing with | Companyweb specialises in company information in Belgium. Its services allow you to understand the risks, the survival rates, the payment capacity, the profitability, the stability and other key factors of every Belgian company.
+* [Finactum](https://www.finactum.be/) - [BE] A website with free financial information about Belgian companies filing obligation, which also offer low-cost high-quality, readable financial reports to.
 
 ## Cryptocurrency
 > News
