@@ -36,7 +36,7 @@
 * [SensCritique](https://www.senscritique.com/liste/Envies_d_horreur/492442) - Horror video games
 * [SensCritique](https://www.senscritique.com/liste/Envies_apocalyptiques/492439) - Apocalyptic video games
 * SensCritique : [Video games x2](https://www.senscritique.com/liste/Envies_x2/2568712), [Video games x1](https://www.senscritique.com/MorganGeek/collection/wish/jeuxvideo/all/all/all/all/all/all/gallery/page-1)
-* [Deku Deals](https://www.dekudeals.com/wishlist/rkfdxtskhw) - Wishlist (nintendo switch games)
+* [Deku Deals](https://www.dekudeals.com/wishlist/rkfdxtskhw?sort=added_to_wishlist) - Wishlist (nintendo switch games)
 
 #### Board games
 * [Tric Trac](https://www.trictrac.net/mur/silvermo/wishlist) - Wishlist (board games)
