@@ -3132,6 +3132,8 @@ See also [Infrastructure](#infrastructure)
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
 * [Google Search](https://www.google.be/search?q=what%20are%20the%20worst%20foods%20to%20eat) - what are the worst foods to eat ?
 * [Tina Su](http://thinksimplenow.com/happiness/life-on-purpose-15-questions-to-discover-your-personal-mission/comment-page-13/) - (2015) Life on Purpose: 15 Questions to Discover Your Personal Mission
+* [Jory MacKay](https://blog.rescuetime.com/burnout-syndrome-recovery) - (2020) How to deal with burnout: Signs, symptoms, and strategies for getting you back on track after burning out
+* [Jory MacKay](https://blog.rescuetime.com/wfh-burnout-coronavirus) - (2020) How to avoid WFH burnout: 5 ways to leave work at work (even if you never leave the house)
 
 ## Remote work
 > Finding a remote job
