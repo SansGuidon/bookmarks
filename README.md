@@ -1259,6 +1259,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Information is Beautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - World's Biggest Data Breaches & Hacks
 * [InterPlanetary File System](https://ipfs.io/) - The InterPlanetary File System (IPFS) is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices. **See also :** [Wikipedia](https://en.wikipedia.org/wiki/InterPlanetary_File_System) and [GitHub](https://github.com/ipfs/ipfs)
 * [Replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) - The replication crisis (or replicability crisis or reproducibility crisis) is, as of 2019, an ongoing methodological crisis in which it has been found that many scientific studies are difficult or impossible to replicate or reproduce. The replication crisis affects the social and life sciences most severely.
+* [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Awesome Public Datasets | A topic-centric list of HQ open datasets.
 
 # DevOps / CICD
 > News
