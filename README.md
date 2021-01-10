@@ -5239,6 +5239,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Jamie Wong](http://jamie-wong.com/2013/07/12/grep-test/) - (2013) Too DRY - The Grep Test
 * [Ilya Sher](https://ilya-sher.org/2019/05/18/on-information-loss-in-software/) - (2019) On Information Loss in Software
 * [Michael Foord](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - (2017) 30 best practices for software development and testing
+* [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of best practices information from around the web
 
 ## Conferences
 > In Belgium
@@ -7050,6 +7051,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform >= 0.12)
 * [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
 * [Michael Foord](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - (2017) 30 best practices for software development and testing
+* [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of best practices information from around the web
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
