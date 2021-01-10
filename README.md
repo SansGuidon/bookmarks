@@ -465,7 +465,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Goodreads](https://www.goodreads.com/shelf/show/reddit-top-200) - Popular Reddit Top 200 Books
 * [Amazon](https://www.amazon.com/Best-Sellers-Kindle-Store-eBooks/zgbs/digital-text/154606011/ref=zg_bs?_encoding=UTF8&tf=1) - Top 100 Free Amazon Best Sellers
 * [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/) - (2015) Recommended Reading for Developers
-* [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind
+* [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind. **Bonus** : [Beta website](https://books.vishnuks.com/)
 * [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
 * [Favobooks](http://favobooks.com/) - famous people's favourite books : explore book recommendations of great thinkers, entrepreneurs, pioneers and visionaries.
 * [The Book Seer](https://bookseer.com/) - What should I read next ?
@@ -2682,6 +2682,7 @@ See also [Infrastructure](#infrastructure)
 * [Mobilism](https://forum.mobilism.me/viewforum.php?f=120) - Your Source for Apps & Books | Login available via [**BugMeNot**](http://bugmenot.com/)
 * [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
 * [:books: Freely available programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind. **Bonus** : [Beta website](https://books.vishnuks.com/)
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
