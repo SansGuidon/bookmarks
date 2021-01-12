@@ -1028,6 +1028,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 * [Mike Crittenden](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/) - (2021) If it will matter after today, stop talking about it in a chat room
+* [Mike Crittenden](https://critter.blog/2020/12/29/death-to-private-chats/) - (2020) Death to private chats
 
 ## Documentation
 > Learn
@@ -1850,6 +1851,7 @@ See also [Infrastructure](#infrastructure)
 * [Emojipedia](https://emojipedia.org/) - 📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍 . **Example** : [Pistol Emoji](https://emojipedia.org/pistol/)
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
 * [Mike Crittenden](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/) - (2021) If it will matter after today, stop talking about it in a chat room
+* [Mike Crittenden](https://critter.blog/2020/12/29/death-to-private-chats/) - (2020) Death to private chats
 
 > Tips
 * [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - (2015) Chatops Pitfalls and Tips
