@@ -1029,6 +1029,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 * [Mike Crittenden](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/) - (2021) If it will matter after today, stop talking about it in a chat room
 * [Mike Crittenden](https://critter.blog/2020/12/29/death-to-private-chats/) - (2020) Death to private chats
+* [Mike Crittenden](https://critter.blog/2021/01/13/audience-friendly-goals/) - (2021) Audience friendly goals
 
 ## Documentation
 > Learn
@@ -4453,6 +4454,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Anne-Laure Le Cunff](https://nesslabs.com/time-management) - (2019) Time management: do the things you actually want to do
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
 * [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me/) - (2019) Writing Is Hard For Me
+* [Mike Crittenden](https://critter.blog/2021/01/13/audience-friendly-goals/) - (2021) Audience friendly goals
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
