@@ -3148,6 +3148,7 @@ See also [Infrastructure](#infrastructure)
 * [Tina Su](http://thinksimplenow.com/happiness/life-on-purpose-15-questions-to-discover-your-personal-mission/comment-page-13/) - (2015) Life on Purpose: 15 Questions to Discover Your Personal Mission
 * [Jory MacKay](https://blog.rescuetime.com/burnout-syndrome-recovery) - (2020) How to deal with burnout: Signs, symptoms, and strategies for getting you back on track after burning out
 * [Jory MacKay](https://blog.rescuetime.com/wfh-burnout-coronavirus) - (2020) How to avoid WFH burnout: 5 ways to leave work at work (even if you never leave the house)
+* [Mike Crittenden](https://critter.blog/2020/12/08/the-key-to-happiness-is-to-stop-getting-upset-all-the-dang-time/) - (2020) The key to happiness is to stop getting upset all the dang time
 
 ## Remote work
 > Finding a remote job
@@ -3173,6 +3174,8 @@ See also [Infrastructure](#infrastructure)
 * [Thomas A. Limoncelli](https://queue.acm.org/detail.cfm?id=3417752) - (2020) Five Nonobvious Remote Work Technique)
 
 # Hobbies
+* [Mike Crittenden](https://critter.blog/2020/12/08/the-key-to-happiness-is-to-stop-getting-upset-all-the-dang-time/) - (2020) The key to happiness is to stop getting upset all the dang time
+
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
