@@ -1032,7 +1032,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mike Crittenden](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/) - (2021) If it will matter after today, stop talking about it in a chat room
 * [Mike Crittenden](https://critter.blog/2020/12/29/death-to-private-chats/) - (2020) Death to private chats
 * [Mike Crittenden](https://critter.blog/2021/01/13/audience-friendly-goals/) - (2021) Audience friendly goals
-
+* [Mike Crittenden](https://critter.blog/2020/08/25/hide-a-problem-from-your-client-and-now-youve-got-2-problems/) - (2020) Hide a problem from your client and now you’ve got 2 problems
+ 
 ## Documentation
 > Learn
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
