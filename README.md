@@ -4460,6 +4460,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
 * [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me/) - (2019) Writing Is Hard For Me
 * [Mike Crittenden](https://critter.blog/2021/01/13/audience-friendly-goals/) - (2021) Audience friendly goals
+* [Mike Crittenden](https://critter.blog/2020/12/31/the-12-week-year/) - (2020) The 12 Week Year: 2021 round 1
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
