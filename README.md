@@ -1034,6 +1034,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mike Crittenden](https://critter.blog/2021/01/13/audience-friendly-goals/) - (2021) Audience friendly goals
 * [Mike Crittenden](https://critter.blog/2020/08/25/hide-a-problem-from-your-client-and-now-youve-got-2-problems/) - (2020) Hide a problem from your client and now you’ve got 2 problems
 * [Mike Crittenden](https://critter.blog/2020/10/01/slide-deck-presentations-are-the-worst-way-to-share-knowledge-remotely/) - (2020) Slide deck presentations are the worst way to share knowledge remotely
+* [Mike Crittenden](https://critter.blog/2020/12/01/never-underestimate-peoples-ability-to-not-hear-you/) - (2020) Never underestimate people’s ability to not hear you
 
 ## Documentation
 > Learn
