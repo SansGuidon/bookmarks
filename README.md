@@ -6075,6 +6075,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Carl Tashian](https://smallstep.com/blog/ssh-tricks-and-tips/) - (2020) SSH Tips & Tricks for using SSH more effectively.
 * [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+* [Mike Crittenden](https://critter.blog/2020/08/14/learning-a-technology-you-dont-need-right-now-is-a-waste-of-time/) - (2020) Learning a technology you don’t need right now is a waste of time
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
