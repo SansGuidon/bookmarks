@@ -5051,6 +5051,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > - Collaboration, it turns out, gets harder in proportion to two things: the level of coherence you demand from the output, and the complexity of the processes that create it.
 > - Collaboration that creates incoherence is easy. You all just do whatever you want. Equally, collaboration on things that are not complex is easy. You can all see whether the log has been chopped or not, there is limited room for debate.
 > - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
+* [Jessica Joy Kerr aka jessitron](https://jessitron.com/2017/06/24/the-most-productive-circumstances-for/) - (2017) Hyperproductive development
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
@@ -6101,6 +6102,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 * [Mike Crittenden](https://critter.blog/2020/08/14/learning-a-technology-you-dont-need-right-now-is-a-waste-of-time/) - (2020) Learning a technology you don’t need right now is a waste of time
+* [Jessica Joy Kerr aka jessitron](https://jessitron.com/2017/06/24/the-most-productive-circumstances-for/) - (2017) Hyperproductive development
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
