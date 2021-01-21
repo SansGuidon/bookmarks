@@ -2906,6 +2906,7 @@ See also [Infrastructure](#infrastructure)
 * [Romanr.info](http://romanr.info/magnet.html) - Online BitTorrent Magnet Link Generator | Hash to Magnet link generator / converter
 * [hashtomagnet.xyz](https://hashtomagnet.xyz/) -  Hash to Magnet generator + Get Seed/Leech informations
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
+* [Sedja](https://www.sejda.com/) - Easy, pleasant and productive PDF editor
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
