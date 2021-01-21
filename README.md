@@ -1004,6 +1004,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > - Collaboration, it turns out, gets harder in proportion to two things: the level of coherence you demand from the output, and the complexity of the processes that create it.
 > - Collaboration that creates incoherence is easy. You all just do whatever you want. Equally, collaboration on things that are not complex is easy. You can all see whether the log has been chopped or not, there is limited room for debate.
 > - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
+* [Async Manifesto](http://asyncmanifesto.org/) - (2014) Manifesto for Async Software Development | Principles of Async Software Development
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -4930,6 +4931,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 * [The Cloud Posse Developer Hub](https://docs.cloudposse.com/) - You'll find comprehensive guides and documentation to help you start working with the Cloud Posse technology stack as quickly as possible, as well as support if you get stuck. This is also useful as a source of inspiration for your own guides and documentation repositories.
 * [:books: Freely available programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [Async Manifesto](http://asyncmanifesto.org/) - (2014) Manifesto for Async Software Development | Principles of Async Software Development
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
@@ -6103,6 +6105,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 * [Mike Crittenden](https://critter.blog/2020/08/14/learning-a-technology-you-dont-need-right-now-is-a-waste-of-time/) - (2020) Learning a technology you don’t need right now is a waste of time
 * [Jessica Joy Kerr aka jessitron](https://jessitron.com/2017/06/24/the-most-productive-circumstances-for/) - (2017) Hyperproductive development
+* [Async Manifesto](http://asyncmanifesto.org/) - (2014) Manifesto for Async Software Development | Principles of Async Software Development
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
