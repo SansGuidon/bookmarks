@@ -306,6 +306,10 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Petter Måhlén](https://labs.spotify.com/2014/04/11/qualities-of-quality/) - (2014) Qualities of Quality | Spotify Labs
 * [Bystroushaak](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html) - (2020) Programmer's critique of missing structure of operating systems | **Original** (2018) [Programátorova kritika chybějící struktury operačních systémů](http://blog.rfox.eu/cz/Program_torova_kritika_chyb_j_c_struktury_opera_n_.html)
 * [Mike Crittenden](https://critter.blog/2020/12/03/the-you-get-one-diagram-approach-to-architecture-documents/) - (2020) The “You Get One Diagram” approach to architecture documents
+* [Cantlin Ashrowan](https://cantl.in/blog/2020/12/11/coherent-and-complex.html) - (2020) Coherent and complex
+> - Collaboration, it turns out, gets harder in proportion to two things: the level of coherence you demand from the output, and the complexity of the processes that create it.
+> - Collaboration that creates incoherence is easy. You all just do whatever you want. Equally, collaboration on things that are not complex is easy. You can all see whether the log has been chopped or not, there is limited room for debate.
+> - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
 
 # Art :art:
 > News
@@ -996,6 +1000,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
 * [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
 * [Mike Crittenden](https://critter.blog/2021/01/05/dont-bring-problems-bring-solutions-is-bull-crap/) - (2021) “Don’t bring problems, bring solutions” is bull crap
+* [Cantlin Ashrowan](https://cantl.in/blog/2020/12/11/coherent-and-complex.html) - (2020) Coherent and complex
+> - Collaboration, it turns out, gets harder in proportion to two things: the level of coherence you demand from the output, and the complexity of the processes that create it.
+> - Collaboration that creates incoherence is easy. You all just do whatever you want. Equally, collaboration on things that are not complex is easy. You can all see whether the log has been chopped or not, there is limited room for debate.
+> - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -5039,6 +5047,10 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
 * [Calm Tech](https://calmtech.com/) - Principles of Calm Technology
+* [Cantlin Ashrowan](https://cantl.in/blog/2020/12/11/coherent-and-complex.html) - (2020) Coherent and complex
+> - Collaboration, it turns out, gets harder in proportion to two things: the level of coherence you demand from the output, and the complexity of the processes that create it.
+> - Collaboration that creates incoherence is easy. You all just do whatever you want. Equally, collaboration on things that are not complex is easy. You can all see whether the log has been chopped or not, there is limited room for debate.
+> - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
