@@ -1607,6 +1607,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Automate as much as you can.
 > * Write good code.
 * [The Cloud Posse Developer Hub](https://docs.cloudposse.com/) - You'll find comprehensive guides and documentation to help you start working with the Cloud Posse technology stack as quickly as possible, as well as support if you get stuck. This is also useful as a source of inspiration for your own guides and documentation repositories.
+* [Jessica Joy Kerr aka jessitron](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/) - (2021) When costs are nonlinear, keep it small.
+> - The math of frequent rollouts.
+> - Some things, like laundry, are cheaper when you do them all at once.
+> - But if those things interact, like software changes, then the cost of each may rise non-linearly.
+> - Be careful what you batch!
+> - It’s like DevOps and CI/CD: more frequent deploys are safer. 
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -2731,7 +2737,7 @@ See also [Infrastructure](#infrastructure)
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
 
 # Free online tools :free:
-* [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
+* :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
 * [Netcraft](https://sitereport.netcraft.com/) - What's that site running? Find out the infrastructure and technologies used by any site, based on results from internet data mining
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze a website performance
@@ -7305,7 +7311,7 @@ rpm --rebuilddb
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for [JAMstack](https://jamstack.org/) Sites
 * [Hugo](https://gohugo.io/about/what-is-hugo/) - Hugo is a fast & modern static site generator. **See also** [GitHub repository](https://github.com/gohugoio/hugo)
 * [Zola](https://www.getzola.org/) - A fast static site generator in a single binary with everything built-in. **See also** [GitHub repository](https://github.com/getzola/zola)
-* [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
+* :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze a website performance
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
