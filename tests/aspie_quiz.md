@@ -8,4 +8,4 @@ Vous êtes très probablement Aspie
 
 ![aspie result diagram](aspie_quiz_poly10a.png)
 
-[Detailed results](quiz aspie.pdf)
+[Detailed results](quiz%20aspie.pdf)
