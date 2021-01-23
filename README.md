@@ -3166,6 +3166,7 @@ See also [Infrastructure](#infrastructure)
 * [Jory MacKay](https://blog.rescuetime.com/burnout-syndrome-recovery) - (2020) How to deal with burnout: Signs, symptoms, and strategies for getting you back on track after burning out
 * [Jory MacKay](https://blog.rescuetime.com/wfh-burnout-coronavirus) - (2020) How to avoid WFH burnout: 5 ways to leave work at work (even if you never leave the house)
 * [Mike Crittenden](https://critter.blog/2020/12/08/the-key-to-happiness-is-to-stop-getting-upset-all-the-dang-time/) - (2020) The key to happiness is to stop getting upset all the dang time
+* [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
 
 ## Remote work
 > Finding a remote job
@@ -3222,8 +3223,10 @@ See also [Infrastructure](#infrastructure)
 
 > Balades et nature
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
-* [Balnam](https://www.balnam.be/) - :fr: [FR] Les chemins et sentiers publics de la Province de Namur.
+* [
+](https://www.balnam.be/) - :fr: [FR] Les chemins et sentiers publics de la Province de Namur.
 * [RouteYou](https://www.routeyou.com/fr-be/location/walk/47407895/bruxelles-a-pied-resume-de-toutes-les-itineraires-a-pied) - :fr: [FR] itinéraires à pied ou en vélo à Bruxelles
+* [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
 
 # Humor :trollface:
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
@@ -7000,6 +7003,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
 * [OpenCycleMap](https://opencyclemap.org/) - :bicyclist: the OpenStreetMap Cycle Map
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
+* [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
 
 # Testing and Compliance :ok_hand:
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
