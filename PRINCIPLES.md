@@ -188,6 +188,7 @@
 * Il n'y a pas de forteresses imprenables, il n'y a que des mauvaises stratégies
 * Think twice
 * when times get tough, if people run away from the process instead of towards it, it's broken. And when people are freaking out, they run away from complexity and towards simplicity. [Source](https://critter.blog/2021/01/07/a-simple-process-beats-a-perfect-process/)
+* Perfection is not attainable, but if we chase perfection, we can catch excellence.
 
 ## Art of Questions
 * Just ask
