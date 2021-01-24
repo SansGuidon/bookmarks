@@ -255,3 +255,4 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * Study your tools, see how you work, understand how you can improve it. Don't rush. Before you run, you have to learn to walk. 
 * Wait before jumping on every opportunity/request/problem. Don’t touch it / don’t act too soon
 * Use right tools for the job (email != todo list, PR and commits != code documentation, Jenkins != long term storage for releases/versions/build info/state of quality of your code)
+* Using boring technology. Don't get distracted too often with shiny tools that reinvent the wheel.
