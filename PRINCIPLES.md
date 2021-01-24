@@ -241,6 +241,7 @@
 * Use non violent communication
 
 # Slow programming principles
+See also [Calm programming / Slow programming](README.md#calm-programming--slow-programming)
 * No broken window. A repo should always be in a clean and working state, i.e the last commit should always build successfully.
 * If you broke it, take ownership for the repair. If you break something, you are responsible of the situation, fix it (it's ok to ask for help).
 * Avoid branching/batching your changes | Be careful what you batch. Changes and version bumps should be integrated continuously, not all at once.
