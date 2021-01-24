@@ -257,3 +257,4 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * Use right tools for the job (email != todo list, PR and commits != code documentation, Jenkins != long term storage for releases/versions/build info/state of quality of your code)
 * Using boring technology. Don't get distracted too often with shiny tools that reinvent the wheel.
 * Write lesss code, read more. Read more code, tips, manuals, blogs, articles, watch presentations and listen to podcasts about your programming craft. Learn from others prior to writing bugs.
+* Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
