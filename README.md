@@ -5397,7 +5397,7 @@ psql -f db.out postgres
 
 > Learn
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang
-* [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
+* :star: [**Functional Geekery**](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [PropEr Testing](http://propertesting.com/) - Fred Hébert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) - [Book] Online book. Reading this tutorial should be one of your first steps in learning Erlang
 * [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - list of amazingly awesome Elixir and Erlang libraries, resources and more
@@ -6327,7 +6327,7 @@ Raw
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
 * [Software Engineering Radio](http://www.se-radio.net/2018/02/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity/) - (2018) SE-Radio Episode 317: Travis Kimmel on Measuring Software Engineering Productivity
 * [Functional Geekery](https://www.functionalgeekery.com/) - A podcast on Functional Programming, covering topics across multiple languages
-* [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
+* :star: [**Functional Geekery**](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of open source.
 * [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
 * [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
