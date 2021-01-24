@@ -258,6 +258,8 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * Using boring technology. Don't get distracted too often with shiny tools that reinvent the wheel.
 * Write lesss code, read more. Read more code, tips, manuals, blogs, articles, watch presentations and listen to podcasts about your programming craft. Learn from others prior to writing bugs.
 * Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
-* Learn how to write clean code, and repeat. So when you will have to rush, you will not forget to do your work right, and you will naturally provide more quality work.
+* Learn how to write clean code, and repeat. So when you will have to rush, you will not forget to do your work right, and you will naturally provide more quality work. Also you will tend to detect issues earlier before they hit production, i.e during reviews, and writing better code will lead the whole team in getting a better codebase you can all be proud of, which mean work will become more agreeable. 
 * Do your research, don't always rush in coding or in reinventing the wheel. You will learn a lot through research.
 * Reuse existing code. GitHub is your friend.
+* Discipline / Consistency beat motivation and quality. 
+* You don't want heroes, but you might benefit from experts / excellents colleagues.
