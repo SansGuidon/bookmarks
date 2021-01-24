@@ -239,3 +239,14 @@
 * Observe rather than interpret. Communicate facts not interpretations
 * Understand people's needs/feelings
 * Use non violent communication
+
+# Slow programming principles
+* No broken window. A repo should always be in a clean and working state, i.e the last commit should always build successfully.
+* If you broke it, take ownership for the repair. If you break something, you are responsible of the situation, fix it (it's ok to ask for help).
+* Avoid branching/batching your changes | Be careful what you batch. Changes and version bumps should be integrated continuously, not all at once.
+* Don't hide your work, branch instead, and get it reviewed before creating a PR / merging it.
+* If possible, don't branch, work on trunk/main. Branching/Feature flags can help.
+* Use Peer code review, if possible pre-commit reviews. Peer code review is a key element in building a robust and egoless engineering culture of collaborative problem-solving ([source](https://semaphoreci.com/blog/cicd-pipeline))
+* If you change the principles/systems/processess, do it incrementally. Developer productivity matters a lot. Minimize friction. e.g don't do a migration of all CI/CD Ecosystem in a way that breaks everything for a while. Do it step by step, phase the changes. Make it possible to rollback easily to previous working state.
+* Quality first. If you’re doing CI and for some reason the integration fails, that means the broken build becomes the highest priority to fix before continuing to add more features. System quality—not just velocity—is important. CI works in three simple stages: push, test, and fix. But despite this simplicity, CI might become challenging if only a few members of the team practice it. Consequently, CI also requires a change in culture and support from management. [source](https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/)
+
