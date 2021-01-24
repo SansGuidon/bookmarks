@@ -5017,7 +5017,7 @@ Maturity Model
 * [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
 
 ## Calm programming / Slow programming
-See also [Clean code](#clean-code-and-best-practices)
+See also [Clean code](#clean-code-and-best-practices) and [Slow programming principles](PRINCIPLES.md#slow-programming-principles)
 
 I dedicate this section to the work I'm busy at, about how going faster in short term can cost you quality, money and confidence in long term. Studying relationships between quality, productivity, thinking fast & slow, slowing down, and the craft of programming.
 * [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
