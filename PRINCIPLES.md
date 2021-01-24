@@ -264,3 +264,4 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * Discipline / Consistency beat motivation and quality. 
 * You don't want heroes, but you might benefit from experts / excellents colleagues.
 * Simplify. Become a minimalist. 
+* Do one thing at a time. Only one item under your name in the WIP. The rest will wait. 
