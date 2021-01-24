@@ -255,9 +255,9 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * Study your tools, see how you work, understand how you can improve it. Don't rush. Before you run, you have to learn to walk. 
 * Wait before jumping on every opportunity/request/problem. Don’t touch it / don’t act too soon
 * Use right tools for the job (email != todo list, PR and commits != code documentation, Jenkins != long term storage for releases/versions/build info/state of quality of your code)
-* Using boring technology. Don't get distracted too often with shiny tools that reinvent the wheel.
+* Love what you have. Using boring technology. Don't get distracted too often with shiny tools that reinvent the wheel.
 * Write lesss code, read more. Read more code, tips, manuals, blogs, articles, watch presentations and listen to podcasts about your programming craft. Learn from others prior to writing bugs.
-* Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
+* Disconnect & Focus. Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
 * Learn how to write clean code, and repeat. So when you will have to rush, you will not forget to do your work right, and you will naturally provide more quality work. Also you will tend to detect issues earlier before they hit production, i.e during reviews, and writing better code will lead the whole team in getting a better codebase you can all be proud of, which mean work will become more agreeable. 
 * Do your research, don't always rush in coding or in reinventing the wheel. You will learn a lot through research.
 * Reuse existing code. GitHub is your friend.
@@ -265,3 +265,5 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * You don't want heroes, but you might benefit from experts / excellents colleagues.
 * Simplify. Become a minimalist. 
 * Do one thing at a time. Only one item under your name in the WIP. The rest will wait. 
+* Stay positive. Focus on what is doing ok, what you have accomplished. Focus your brain attention more often on something that is stress free.
+* Limit your coffee intake. Drinking caffeine triggers the release of adrenaline. Adrenaline is the source of the “fight-or-flight” response, a survival mechanism that forces you to stand up and fight or run for the hills when faced with a threat. The fight-or-flight mechanism sidesteps rational thinking in favor of a faster response. This is great when a bear is chasing you, but not so great when you’re responding to a curt email. [source](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/)
