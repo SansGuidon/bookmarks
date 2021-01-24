@@ -263,3 +263,4 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * Reuse existing code. GitHub is your friend.
 * Discipline / Consistency beat motivation and quality. 
 * You don't want heroes, but you might benefit from experts / excellents colleagues.
+* Simplify. Become a minimalist. 
