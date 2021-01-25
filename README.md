@@ -1622,6 +1622,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > - But if those things interact, like software changes, then the cost of each may rise non-linearly.
 > - Be careful what you batch!
 > - It’s like DevOps and CI/CD: more frequent deploys are safer. 
+* [Christian Melendez](https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/) - (2019)  What Is CICD? What’s Important and How to Get It Right | a good reminder (one again) of the most important principles
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
