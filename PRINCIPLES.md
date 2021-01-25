@@ -265,7 +265,7 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * You don't want heroes, but you might benefit from experts / excellents colleagues / colleagues & managers that provide support and insights and who do not let you take everyting on your plate.
 * Simplify. Become a minimalist. 
 
-## Healthy Slow programming principles
+## Slow programming Healthy tips / helpers
 * Disconnect & Focus. Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
 * Stay positive. Focus on what is doing ok, what you have accomplished. Focus your brain attention more often on something that is stress free.
 * Limit your coffee intake. Drinking caffeine triggers the release of adrenaline. Adrenaline is the source of the “fight-or-flight” response, a survival mechanism that forces you to stand up and fight or run for the hills when faced with a threat. The fight-or-flight mechanism sidesteps rational thinking in favor of a faster response. This is great when a bear is chasing you, but not so great when you’re responding to a curt email. [source](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/)
