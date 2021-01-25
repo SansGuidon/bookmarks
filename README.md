@@ -2274,9 +2274,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 ### Jenkinsfile runner
 * [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
 * [Jenkinsfile Runner](https://reposhub.com/java/build/jenkinsci-jenkinsfile-runner.html) - Jenkinsfile Runner is an experiment to package Jenkins pipeline execution as a command line tool. The intend use cases include:
-** Use Jenkins in Function-as-a-Service context
-** Assist editing Jenkinsfile locally
-** Integration test shared libraries
+  * Use Jenkins in Function-as-a-Service context
+  * Assist editing Jenkinsfile locally
+  * Integration test shared libraries
 * [Florian Wilhelm](https://www.jenkins.io/blog/2019/02/28/serverless-jenkins/) - (2019) Run your Jenkins pipeline without operating a Jenkins instance 
 
 ## Kubernetes
