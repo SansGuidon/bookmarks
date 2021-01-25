@@ -310,6 +310,14 @@ A small group of programmers wants to change how we code—before catastrophe st
 > - Collaboration, it turns out, gets harder in proportion to two things: the level of coherence you demand from the output, and the complexity of the processes that create it.
 > - Collaboration that creates incoherence is easy. You all just do whatever you want. Equally, collaboration on things that are not complex is easy. You can all see whether the log has been chopped or not, there is limited room for debate.
 > - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
+* [Fred Hébert](https://ferd.ca/complexity-has-to-live-somewhere.html) - (2020) Complexity Has to Live Somewhere
+> When dealing with build tools, a few things become apparent:
+> * if you make the build tool simple, it won't handle all the weird edge cases that exist out there
+> * if you want to handle the weird edge cases, you need to deviate from whatever norm you wanted to establish
+> * if you want ease of use for common defaults, the rules for common defaults must be shared between the tool and the users, who shape their systems to fit the tool's expectations
+> * if you allow configuration or scripting, you give the users a way to specify the rules that must be shared, so the tool fits their systems
+> * if you want to keep the tool simple, you have to force your users to only play within the parameters that fit this simplicity
+> * if your users' use cases don't map well to your simplicity, they will build shims around your tool to attain their objectives
 
 # Art :art:
 > News
@@ -1623,6 +1631,14 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > - Be careful what you batch!
 > - It’s like DevOps and CI/CD: more frequent deploys are safer. 
 * [Christian Melendez](https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/) - (2019)  What Is CICD? What’s Important and How to Get It Right | a good reminder (one again) of the most important principles
+* [Fred Hébert](https://ferd.ca/complexity-has-to-live-somewhere.html) - (2020) Complexity Has to Live Somewhere
+> When dealing with build tools, a few things become apparent:
+> * if you make the build tool simple, it won't handle all the weird edge cases that exist out there
+> * if you want to handle the weird edge cases, you need to deviate from whatever norm you wanted to establish
+> * if you want ease of use for common defaults, the rules for common defaults must be shared between the tool and the users, who shape their systems to fit the tool's expectations
+> * if you allow configuration or scripting, you give the users a way to specify the rules that must be shared, so the tool fits their systems
+> * if you want to keep the tool simple, you have to force your users to only play within the parameters that fit this simplicity
+> * if your users' use cases don't map well to your simplicity, they will build shims around your tool to attain their objectives
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
