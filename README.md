@@ -4301,7 +4301,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Jeff Haden](https://www.linkedin.com/pulse/10-steps-make-each-day-incredibly-productive-jeff-haden) - 10 Steps to Make Each Day Exceptionally Productive
 * [alphagov/govdesign](https://github.com/alphagov/govdesign) - Lot of useful posters to print
 * [Edouard-Malo HENRY](https://www.linkedin.com/pulse/moving-from-how-why-company-edouard-malo-henry) - Moving from a "how" to a "why" company
-* [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
+* :star: [**Dr. Travis Bradberry**](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
 * [Wall-Skills](http://wall-skills.com/) - Great 1-pagers to share in your company
 * [Corinna Baldauf](http://wall-skills.com/2016/how-to-master-any-skill-badass/) - (2016) How to master any skill – Badass
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
@@ -5021,7 +5021,7 @@ Maturity Model
 See also [Clean code](#clean-code-and-best-practices) and [Slow programming principles](PRINCIPLES.md#slow-programming-principles)
 
 I dedicate this section to the work I'm busy at, about how going faster in short term can cost you quality, money and confidence in long term. Studying relationships between quality, productivity, thinking fast & slow, slowing down, and the craft of programming.
-* [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
+* :star: [**Dr. Travis Bradberry**](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
 * [Gregg Caines](http://caines.ca/blog/2009/12/13/code-slower/) - (2009) Code Slower
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Shan](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/) - (2013) Being a Slow Programmer
