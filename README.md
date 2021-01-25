@@ -49,6 +49,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Containers](#containers)
   * [Gradle](#gradle)
   * [Jenkins](#jenkins)
+    * [Jenkinsfile runner](#jenkinsfile-runner)
   * [Kubernetes](#kubernetes)
   * [Microservices](#microservices)
   * [Maven](#maven)
@@ -2269,6 +2270,14 @@ See also [Infrastructure](#infrastructure)
 curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenkins-url/pipeline-model-converter/validate
 ```
 * [MorganGeek](https://gist.github.com/MorganGeek/2958ba47630a176733e0136b42557284) - (2020) Validating Jenkinsfile in Vim and/or using CLI / terminal
+
+### Jenkinsfile runner
+* [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
+* [Jenkinsfile Runner](https://reposhub.com/java/build/jenkinsci-jenkinsfile-runner.html) - Jenkinsfile Runner is an experiment to package Jenkins pipeline execution as a command line tool. The intend use cases include:
+** Use Jenkins in Function-as-a-Service context
+** Assist editing Jenkinsfile locally
+** Integration test shared libraries
+* [Florian Wilhelm](https://www.jenkins.io/blog/2019/02/28/serverless-jenkins/) - (2019) Run your Jenkins pipeline without operating a Jenkins instance 
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
