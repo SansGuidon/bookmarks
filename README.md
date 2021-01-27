@@ -126,6 +126,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Gamedev](#gamedev)
   * [Git :octocat:](#git-octocat)
     * [Dotfiles / Aliases](#dotfiles--aliases)
+    * [GitHub](#github)
   * [Golang / Go](#golang--go)
   * [Groovy](#groovy)
   * [Haskell](#haskell)
@@ -5655,9 +5656,6 @@ psql -f db.out postgres
 * :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
-### GitHub
-* [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-
 ### Dotfiles / Aliases
 See also [Shell aliases](#shell-aliases)
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
@@ -5688,6 +5686,9 @@ See also [Shell aliases](#shell-aliases)
 * [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+### GitHub
+* [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
