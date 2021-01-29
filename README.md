@@ -2934,6 +2934,7 @@ See also [Infrastructure](#infrastructure)
 * [hashtomagnet.xyz](https://hashtomagnet.xyz/) -  Hash to Magnet generator + Get Seed/Leech informations
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 * [Sedja](https://www.sejda.com/) - Easy, pleasant and productive PDF editor
+* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -7151,6 +7152,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - allows you to compare your home country with different countries around the world.
 * [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
 * [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
+* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
