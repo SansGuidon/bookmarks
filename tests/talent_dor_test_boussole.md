@@ -1,4 +1,4 @@
-[WAKE UP](https://www.wake-up.io/boussole/) - [FR] Test Boussole | Test de personnalité pour trouver son talent d'or
+[WAKE UP](https://www.wake-up.io/boussole/) - :fr: [FR] Test Boussole | Test de personnalité pour trouver son talent d'or
 
 ### Présentation
 Boussole est un test de personnalité basé sur les recherches en neurosciences ainsi que sur la mécanique de l'esprit décrite dans les travaux du célèbre psychologue Carl Gustav Jung. A travers ses questions, il analyse ainsi les dimensions conscientes et inconscientes de notre psychologie.
