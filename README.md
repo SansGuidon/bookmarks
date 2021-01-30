@@ -7506,3 +7506,4 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 > Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 * [Mike Crittenden](https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/) - (2020) Write 5x more but write 5x less
+* [Giles Turnbull](https://gilest.org/2021/how-to-write-like-you-speak/) - (2021) How to write like you speak
