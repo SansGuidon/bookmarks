@@ -31,42 +31,6 @@
   * [Reverse engineering](#reverse-engineering)
   * [Ruby](#ruby)
   * [Rust](#rust)
-* [Ciro S. Costa](https://ops.tips/blog/publishing-a-blog-with-aws/) - (2018) How to publish a blog using AWS
-* [ACM Queue](https://queue.acm.org/) - studies on Software, DevOps, Computing Machinery ...
-* [Jerome Kehrli](https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles) - (2017) Periodic Table of Agile Principles and Practices
-* [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
-* [Culture Codes](https://tettra.co/culture-codes/handbooks/) - Employee Handbox Examples | A collection of company handbooks, employee manuals, and more from real companies.
-* [GSMArena.com](https://www.gsmarena.com/) - mobile phone reviews, news, specifications and more...
-* :star: [**sferik/t**](https://github.com/sferik/t) - A command-line power tool for Twitter
-* [Samuel Hulick](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea) - (2016) Slack, I’m Breaking Up with You
-* [Daichi](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089) - (2017) Boost your productivity using Markdown.
-* [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
-* [Carla King](http://mediashift.org/2014/04/indie-publishing-tools-for-small-press-and-author-co-ops/) - (2014) 6 Great Self-Publishing Tools for Small Press and Author Co-Ops
-* [Alex Efros](https://powerman.name/doc/asciidoc) - AsciiDoc cheatsheet
-* [ThoughtWorks](https://www.thoughtworks.com/radar/how-to-byor) - How to build your ThoughtWorks Radar
-* [WikiDiff](https://wikidiff.com/) - display difference between two terms, using wikipedia definition. Useful when answering online tests
-* [bacook17/acronym](https://github.com/bacook17/acronym) - ACRONYM (Acronym CReatiON for You and Me) | A python-based tool for creating English-ish Acronyms from your fancy project
-* [r/personalfinance/tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Personal Finance Tools : Redditor-created Spreadsheets
-* [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
-    B
-* [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
-* [Guesstimate](https://www.getguesstimate.com/models) - free models and tools for modeling things that aren't certain. You can forecast your earnings from a new venture, predict the amount of time completing a big project will take, or experiment with scientific theories. People have used it to optimize video games, understand lottery payoffs, and estimate the costs of childcare.
-* [Dan Pollock](https://someonewhocares.org/hosts/) - how to make the internet not suck (as much) | a hosts file to prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
-* [TLDR This!](https://tldr.hackeryogi.com/) - Automatically summarize any article, text, document, webpage or essay in a click. | also available as browser extension for Chrome and FireFox
-* [myNoise](https://mynoise.net/noiseMachines.php) - Background Noises & Interactive Soundscapes
-* [A Soft Murmur](https://asoftmurmur.com/) - Ambient sounds to wash away distraction.
-* [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity | Mix different sounds and create your perfect environment.
-* [Skitch](https://evernote.com/products/skitch) - Skitch is a screen capture app including the ability to annotate a screenshot with arrows, text, shapes, and stamps.
-* [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-* [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
-* [musicForProgramming](https://musicforprogramming.net/) - Music possessing these qualities can often provide just the right amount of interest to occupy the parts of your brain that would otherwise be left free to wander and lead to distraction during your work.
-* [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
-* [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
-* [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
-* [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-* :star: [**VimAwesome**](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
-* [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc.
-* [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 
 # Programming
 > News
