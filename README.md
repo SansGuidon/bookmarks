@@ -4966,6 +4966,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Async Manifesto](http://asyncmanifesto.org/) - (2014) Manifesto for Async Software Development | Principles of Async Software Development
 * [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf) - (2008) [PDF] Programming Paradigms for Dummies: What Every Programmer Should Know. **Bonus** :fr: [FR] [Slides in french](https://www.info.ucl.ac.be/~pvr/jussieuParadigms2008.pdf) and [Poster in English](https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf)
 * [Chris Kiehl](https://chriskiehl.com/article/thoughts-after-6-years) - (2021) Software development topics I've changed my mind on after 6 years in the industry
+* [Jeff Atwood](https://blog.codinghorror.com/learn-to-read-the-source-luke/) - (2012) Learn to Read the Source, Luke
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
