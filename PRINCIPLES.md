@@ -254,6 +254,7 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * Study your tools, see how you work, understand how you can improve it. Don't rush. Before you run, you have to learn to walk. 
 * Wait before jumping on every opportunity/request/problem. Don’t touch it / don’t act too soon
 * Do one thing at a time. Only one item under your name in the WIP. The rest will wait. 
+* Test the crap out of everything you do before telling anyone you are "finished". See also [Ref 1 : Being a slow programmer](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/)
 * Use right tools for the job (email != todo list, PR and commits != code documentation, Jenkins != long term storage for releases/versions/build info/state of quality of your code)
 * Love what you have. Using boring technology. Don't get distracted too often with shiny tools that reinvent the wheel.
 * Write less code, read more. Read more code, tips, manuals, blogs, articles, watch presentations and listen to podcasts about your programming craft. Learn from others prior to writing bugs.
@@ -264,6 +265,7 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * You don't want heroes, but you might benefit from experts / excellents colleagues / colleagues & managers that provide support and insights and who do not let you take everyting on your plate.
 * Simplify. Become a minimalist. 
 * Don't be overconfident | the fallacy of skipping the planning stage. Some tasks look simple at first glance, but it can hide some challenges. Take the time needed to run your analysis and estimate the effort after you have checked all possible impacts you could check. Overestimating is one thing, but underestimating the effort and challenge can really lead to getting cascade issues and mistakes that would add a lot of pressure on every team and lead then to rushing even more and causing even bigger mistakes. See also [Ref : Skipping the planning stage](https://www.caines.ca/blog/2009/12/13/code-slower/)
+* Writing classes and functions that do a lot. 
 
 ## Slow programming Healthy tips / helpers
 * Disconnect & Focus. Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
