@@ -254,10 +254,10 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * Study your tools, see how you work, understand how you can improve it. Don't rush. Before you run, you have to learn to walk. 
 * Wait before jumping on every opportunity/request/problem. Don’t touch it / don’t act too soon
 * Do one thing at a time. Only one item under your name in the WIP. The rest will wait. 
-* Test the crap out of everything you do before telling anyone you are "finished". See also [Ref 1 : Being a slow programmer](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/)
+* Test the crap out of everything you do before telling anyone you are "finished". See also [Ref : Being a slow programmer](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/)
 * Use right tools for the job (email != todo list, PR and commits != code documentation, Jenkins != long term storage for releases/versions/build info/state of quality of your code)
 * Love what you have. Using boring technology. Don't get distracted too often with shiny tools that reinvent the wheel.
-* Write less code, read more. Read more code, tips, manuals, blogs, articles, watch presentations and listen to podcasts about your programming craft. Learn from others prior to writing bugs.
+* Write less code, read more than you write. Read more tips, manuals, blogs, articles, watch presentations and listen to podcasts about your programming craft. Learn from others prior to writing bugs. As with culture and and knowledge, you are the books you read, the films you watch, the music you listen to, the people you spend time with, the conversations you engage in. Choose wisely what you feed your mind with, and it's true with code as well. See also [Ref : Being a slow programmer](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/)
 * Learn how to write clean code, and repeat. So when you will have to rush, you will not forget to do your work right, and you will naturally provide more quality work. Also you will tend to detect issues earlier before they hit production, i.e during reviews, and writing better code will lead the whole team in getting a better codebase you can all be proud of, which mean work will become more agreeable. 
 * Do your research, don't always rush in coding or in reinventing the wheel. You will learn a lot through research.
 * Reuse existing code. GitHub is your friend.
