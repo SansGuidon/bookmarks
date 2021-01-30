@@ -6695,7 +6695,7 @@ type `curl ident.me` to know your public ip
 * [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
 
 ## Shell Aliases
-See also [Dotfiles / Aliases](#dotfiles--aliases)
+See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh) - common aliases from oh-my-zsh
 * [Vivek Gite](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) - 30 Handy Bash Shell Aliases For Linux / Unix / Mac OS X
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3121790/linux/making-troubleshooting-with-lsof-easier.html) - Unix tips: Making troubleshooting with lsof easier. See also [Unix commands: Troubleshooting with lsof](http://www.computerworld.com/article/3119775/linux/troubleshooting-with-lsof.html)

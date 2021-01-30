@@ -1093,7 +1093,7 @@ psql -f db.out postgres
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ### Dotfiles / Aliases
-See also [Shell aliases](#shell-aliases)
+See also [Shell aliases](README.md#shell-aliases)
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
 * [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
 * [Harry Roberts/dotfiles](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
@@ -1322,7 +1322,7 @@ See also [Shell aliases](#shell-aliases)
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 
 ## Productivity :computer:
-See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-aliases)
+See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](README.md#shell-aliases)
 
 > News
 * [Itamar Turner-Trauring](https://codewithoutrules.com/productivity/) - Become more productive ; articles about being more productive as programmer without necessarily working longer hours
