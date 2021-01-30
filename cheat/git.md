@@ -14,3 +14,12 @@ git log --author="Morgan" \
         --date="format:%H" |\
         awk '{n=$1+0;if(H[n]++>max)max=H[n]}END{for(i=0;i<24;i++){printf"%02d -%5d ",i,H[i];for(n=0;n<H[i]/max*50;n++){printf "*"}print""}}'
 ```
+
+### Using Git Diff Without a Repo ([src](https://www.jvt.me/posts/2020/10/29/git-diff-no-repo/))
+
+The --no-index flag allows you to diff between files that aren't related to a Git repo:
+
+#### does not work, returns status code 0
+`git diff README.md ../other-repo/README.md`
+#### works, returns status code 1 and the diff
+`git diff --no-index README.md ../other-repo/README.md`

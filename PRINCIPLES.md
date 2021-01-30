@@ -80,7 +80,6 @@
   * Functions do one thing
   * Functions have max 2-3 parameters
 * [Shirky Principle](https://twitter.com/OlafLewitz/statuses/560711454434025472) : Institutions will try to preserve the problem to which they are the solution.
-* [Shower Thoughts](https://twitter.com/TheWeirdWorld/status/930155807651528706) - Don’t forget to drink water, get sunlight, and that we are basically a house plant with complicated feelings.
 * [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - Confirmation Bias : Your opinions are the result of years of paying attention to information which confirmed what you believed while ignoring information which challenged your preconceived notions.
 * [David McRaney](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) - Survivorship Bias : When failure becomes invisible, the difference between failure and success may also become invisible.
 * [David McRaney](https://youarenotsosmart.com/2010/10/27/procrastination/) - Procrastination is fueled by weakness in the face of impulse and a failure to think about thinking.
@@ -187,6 +186,8 @@
 * Teamwork starts with trust
 * Il n'y a pas de forteresses imprenables, il n'y a que des mauvaises stratégies
 * Think twice
+* when times get tough, if people run away from the process instead of towards it, it's broken. And when people are freaking out, they run away from complexity and towards simplicity. [Source](https://critter.blog/2021/01/07/a-simple-process-beats-a-perfect-process/)
+* Perfection is not attainable, but if we chase perfection, we can catch excellence.
 
 ## Art of Questions
 * Just ask
@@ -237,3 +238,41 @@
 * Observe rather than interpret. Communicate facts not interpretations
 * Understand people's needs/feelings
 * Use non violent communication
+
+# Slow programming principles
+See also [Calm programming / Slow programming](README.md#calm-programming--slow-programming)
+* No broken window. A repo should always be in a clean and working state, i.e the last commit should always build successfully.
+* If you broke it, take ownership for the repair. If you break something, you are responsible of the situation, fix it (it's ok to ask for help).
+* Avoid branching/batching your changes | Be careful what you batch. Changes and version bumps should be integrated continuously, not all at once.
+* Don't hide your work, branch instead, and get it reviewed before creating a PR / merging it.
+* If possible, don't branch, work on trunk/main. Branching/Feature flags can help.
+* Use Peer code review, if possible pre-commit reviews. Peer code review is a key element in building a robust and egoless engineering culture of collaborative problem-solving ([source](https://semaphoreci.com/blog/cicd-pipeline))
+* If you change the principles/systems/processess, do it incrementally. Developer productivity matters a lot. Minimize friction. e.g don't do a migration of all CI/CD Ecosystem in a way that breaks everything for a while. Do it step by step, phase the changes. Make it possible to rollback easily to previous working state.
+* Quality first | Quality is always right. If you’re doing CI and for some reason the integration fails, that means the broken build becomes the highest priority to fix before continuing to add more features. System quality—not just velocity—is important. CI works in three simple stages: push, test, and fix. But despite this simplicity, CI might become challenging if only a few members of the team practice it. Consequently, CI also requires a change in culture and support from management. [source](https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/)
+* Refactoring can only truly begin once you've actually learned what a piece of code or some data structure did, the unique properties for which they were written or chosen. Anything else is setting yourself up for failure. [source](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html)
+* It also means that when building systems, you should not assume that operators will do things correctly. Expect failure from people. Try to think about tools you can give them to undo their mistakes, because they will happen sooner or later. Have some dread. Be understanding. Know things won't be perfect. [source](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html)
+* Study your tools, see how you work, understand how you can improve it. Don't rush. Before you run, you have to learn to walk. 
+* Wait before jumping on every opportunity/request/problem. Don’t touch it / don’t act too soon
+* Do one thing at a time. Only one item under your name in the WIP. The rest will wait. 
+* Test the crap out of everything you do before telling anyone you are "finished". See also [Ref : Being a slow programmer](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/)
+* Use right tools for the job (email != todo list, PR and commits != code documentation, Jenkins != long term storage for releases/versions/build info/state of quality of your code)
+* Love what you have. Using boring technology. Don't get distracted too often with shiny tools that reinvent the wheel.
+* Write less code, read more than you write. Read more tips, manuals, blogs, articles, watch presentations and listen to podcasts about your programming craft. Learn from others prior to writing bugs. As with culture and and knowledge, you are the books you read, the films you watch, the music you listen to, the people you spend time with, the conversations you engage in. Choose wisely what you feed your mind with, and it's true with code as well. See also [Ref : Being a slow programmer](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/) and [Ref : Learn to Read the Source, Luke](https://blog.codinghorror.com/learn-to-read-the-source-luke/)
+* Learn how to write clean code, and repeat. So when you will have to rush, you will not forget to do your work right, and you will naturally provide more quality work. Also you will tend to detect issues earlier before they hit production, i.e during reviews, and writing better code will lead the whole team in getting a better codebase you can all be proud of, which mean work will become more agreeable. 
+* Do your research, don't always rush in coding or in reinventing the wheel. You will learn a lot through research.
+* Reuse existing code. GitHub is your friend.
+* Discipline / Consistency beat motivation and quality. 
+* You don't want heroes, but you might benefit from experts / excellents colleagues / colleagues & managers that provide support and insights and who do not let you take everyting on your plate.
+* Simplify. Become a minimalist. 
+* Don't be overconfident | the fallacy of skipping the planning stage. Some tasks look simple at first glance, but it can hide some challenges. Take the time needed to run your analysis and estimate the effort after you have checked all possible impacts you could check. Overestimating is one thing, but underestimating the effort and challenge can really lead to getting cascade issues and mistakes that would add a lot of pressure on every team and lead then to rushing even more and causing even bigger mistakes. See also [Ref : Skipping the planning stage](https://www.caines.ca/blog/2009/12/13/code-slower/)
+* Writing classes and functions that do a lot. 
+
+## Slow programming Healthy tips / helpers
+* Disconnect & Focus. Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
+* Stay positive. Focus on what is doing ok, what you have accomplished. Focus your brain attention more often on something that is stress free.
+* Limit your coffee intake. Drinking caffeine triggers the release of adrenaline. Adrenaline is the source of the “fight-or-flight” response, a survival mechanism that forces you to stand up and fight or run for the hills when faced with a threat. The fight-or-flight mechanism sidesteps rational thinking in favor of a faster response. This is great when a bear is chasing you, but not so great when you’re responding to a curt email. [source](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/)
+* Sleep. When you sleep, your brain literally recharges, shuffling through the day’s memories and storing or discarding them (which causes dreams), so that you wake up alert and clear-headed. Your self-control, attention, and memory are all reduced when you don’t get enough—or the right kind—of sleep. Sleep deprivation raises stress hormone levels on its own, even without a stressor present. Stressful projects often make you feel as if you have no time to sleep, but taking the time to get a decent night’s sleep is often the one thing keeping you from getting things under control. [source](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/)
+* Look for help | Use your support system. It’s tempting, yet entirely ineffective, to attempt tackling everything by yourself. To be calm and productive, you need to recognize your weaknesses and ask for help when you need it. This means tapping into your support system when a situation is challenging enough for you to feel overwhelmed. Everyone has someone at work and/or outside work who is on their team, rooting for them, and ready to help them get the best from a difficult situation. Identify these individuals in your life and make an effort to seek their insight and assistance when you need it. Something as simple as talking about your worries will provide an outlet for your anxiety and stress and supply you with a new perspective on the situation. Most of the time, other people can see a solution that you can’t because they are not as emotionally invested in the situation. Asking for help will mitigate your stress and strengthen your relationships with those you rely upon. [source](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/)
+* Breathe. The practice of being in the moment with your breathing will begin to train your brain to focus solely on the task at hand and get the stress monkey off your back. When you’re feeling stressed, take a couple of minutes to focus on your breathing. Close the door, put away all other distractions, and just sit in a chair and breathe. The goal is to spend the entire time focused only on your breathing, which will prevent your mind from wandering. Think about how it feels to breathe in and out. This sounds simple, but it’s hard to do for more than a minute or two. It’s all right if you get sidetracked by another thought; this is sure to happen at the beginning, and you just need to bring your focus back to your breathing. If staying focused on your breathing proves to be a real struggle, try counting each breath in and out until you get to 20, and then start again from 1. Don’t worry if you lose count; you can always just start over. [source](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm/)
+* [Shower Thoughts](https://twitter.com/TheWeirdWorld/status/930155807651528706) - Don’t forget to drink water, get sunlight, and that we are basically a house plant with complicated feelings.
+

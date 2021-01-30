@@ -49,6 +49,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Containers](#containers)
   * [Gradle](#gradle)
   * [Jenkins](#jenkins)
+    * [Jenkinsfile runner](#jenkinsfile-runner)
   * [Kubernetes](#kubernetes)
   * [Microservices](#microservices)
   * [Maven](#maven)
@@ -72,7 +73,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Board games](#board-games)
   * [Role-playing :dragon:](#role-playing-dragon)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
-  * [Remote jobs](#remote-jobs)
+  * [Remote work](#remote-work)
 * [Hobbies](#hobbies)
 * [Humor :trollface:](#humor-trollface)
 * [Images / Wallpapers](#images--wallpapers)
@@ -115,7 +116,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Assembly](#assembly)
   * [C/C++](#cc)
   * [Calm programming / Slow programming](#calm-programming--slow-programming)
-  * [Clean code](#clean-code-and-best-practices)
+  * [Clean code and best practices](#clean-code-and-best-practices)
   * [Conferences](#conferences)
   * [Correctness](#correctness)
   * [Database](#database)
@@ -125,6 +126,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Gamedev](#gamedev)
   * [Git :octocat:](#git-octocat)
     * [Dotfiles / Aliases](#dotfiles--aliases)
+    * [GitHub](#github)
   * [Golang / Go](#golang--go)
   * [Groovy](#groovy)
   * [Haskell](#haskell)
@@ -189,8 +191,8 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Christian Neumanns](https://www.codeproject.com/Articles/787668/Why-We-Should-Love-null) - (2014) Why We Should Love 'null' / + the Null Object Pattern
 * [Chris Wheeler](http://chriswheeler.blogspot.be/2005/05/my-favourite-smells.html) - (2005) My Favourite Smells / about primitive obsession
 * :star: [**The Twelve-Factor App**](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
-* [Fred Hébert](https://ferd.ca/queues-don-t-fix-overload.html) - Queues Don't Fix Overload
-* [Fred Hébert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
+* [Fred Hébert](https://ferd.ca/queues-don-t-fix-overload.html) - (2015) Queues Don't Fix Overload
+* [Fred Hébert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - (2015) Lessons Learned while Working on Large-Scale Server Software
 * [StackExchange](https://stackexchange.com/performance) - Amazing presentation of Stack Exchange infrastructure. All about performance
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [R0ml](https://codewords.recurse.com/issues/one/why-are-objects-so-hard-to-debug) - Why are objects so hard to debug?
@@ -305,6 +307,19 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Sane software manifesto](https://sane-software.globalcode.info/v_0/) - While very opinionated, it's an interesting list of practices for software developers, about safe code, collaboration, reproducible builds, modularity, architecture, testability, etc.
 * [Petter Måhlén](https://labs.spotify.com/2014/04/11/qualities-of-quality/) - (2014) Qualities of Quality | Spotify Labs
 * [Bystroushaak](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html) - (2020) Programmer's critique of missing structure of operating systems | **Original** (2018) [Programátorova kritika chybějící struktury operačních systémů](http://blog.rfox.eu/cz/Program_torova_kritika_chyb_j_c_struktury_opera_n_.html)
+* [Mike Crittenden](https://critter.blog/2020/12/03/the-you-get-one-diagram-approach-to-architecture-documents/) - (2020) The “You Get One Diagram” approach to architecture documents
+* [Cantlin Ashrowan](https://cantl.in/blog/2020/12/11/coherent-and-complex.html) - (2020) Coherent and complex
+> - Collaboration, it turns out, gets harder in proportion to two things: the level of coherence you demand from the output, and the complexity of the processes that create it.
+> - Collaboration that creates incoherence is easy. You all just do whatever you want. Equally, collaboration on things that are not complex is easy. You can all see whether the log has been chopped or not, there is limited room for debate.
+> - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
+* [Fred Hébert](https://ferd.ca/complexity-has-to-live-somewhere.html) - (2020) Complexity Has to Live Somewhere
+> When dealing with build tools, a few things become apparent:
+> * if you make the build tool simple, it won't handle all the weird edge cases that exist out there
+> * if you want to handle the weird edge cases, you need to deviate from whatever norm you wanted to establish
+> * if you want ease of use for common defaults, the rules for common defaults must be shared between the tool and the users, who shape their systems to fit the tool's expectations
+> * if you allow configuration or scripting, you give the users a way to specify the rules that must be shared, so the tool fits their systems
+> * if you want to keep the tool simple, you have to force your users to only play within the parameters that fit this simplicity
+> * if your users' use cases don't map well to your simplicity, they will build shims around your tool to attain their objectives
 
 # Art :art:
 > News
@@ -349,6 +364,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish.
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
+* [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
+* [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 
 # Books :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -375,7 +392,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Google](https://landing.google.com/sre/book.html) - [Book] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
 * [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
 * :star: [**Library Genesis**](https://libgen.is/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.me/), [Mirrors list](http://sguru.org/libgen-proxy/)
-* [b-ok.org](http://b-ok.org/) - ebooks
+* :star: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
 * [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - [TOR] a list of websites that have free ebooks.
 * [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
 * [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
@@ -405,6 +422,13 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [pdf-magazines.me](https://pdf-magazines.me/) - PDF Magazines and ebook, variety of categories, fast search.
 * [WorldMags.net](https://www.worldmags.net/) - Magazines from all over the world
 * [freemagazinepdf.com](https://freemagazinepdf.com/?s=linux) - Magazines PDF download free
+* [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
+* [Read Comics Online](https://readcomicsonline.ru/) - Website to read DC and Marvel Comics Online for FREE.
+* [Bouquineux](http://www.bouquineux.com/) - :fr: [FR] Livres numériques gratuits et libres de droits
+* [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits | Livres électroniques gratuits | Free ebooks
+* [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
+* [Mobilism](https://forum.mobilism.me/viewforum.php?f=120) - Your Source for Apps & Books | Login available via [**BugMeNot**](http://bugmenot.com/)
+* [:books: Freely available programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 > Summaries, notes and reviews
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
@@ -456,7 +480,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Goodreads](https://www.goodreads.com/shelf/show/reddit-top-200) - Popular Reddit Top 200 Books
 * [Amazon](https://www.amazon.com/Best-Sellers-Kindle-Store-eBooks/zgbs/digital-text/154606011/ref=zg_bs?_encoding=UTF8&tf=1) - Top 100 Free Amazon Best Sellers
 * [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/) - (2015) Recommended Reading for Developers
-* [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind
+* [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind. **Bonus** : [Beta website](https://books.vishnuks.com/)
 * [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
 * [Favobooks](http://favobooks.com/) - famous people's favourite books : explore book recommendations of great thinkers, entrepreneurs, pioneers and visionaries.
 * [The Book Seer](https://bookseer.com/) - What should I read next ?
@@ -554,7 +578,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * [Freelance.tv](http://freelance.tv) - Videos about freelancing
-* :star: [**Xerius**](https://brutonetto.xerius.be) - :fr: [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net
 * [r/personalfinance/tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Personal Finance Tools : Redditor-created Spreadsheets
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 * [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed) - (2019) GitHub stars won’t pay your rent
@@ -574,6 +597,10 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Deku Deals](https://www.dekudeals.com/) - tracks the prices of Nintendo Switch games on the eShop and at major retailers in order to find the best deals. Add items to your wishlist, and Deku Deals sends you an email as soon as they go on sale.
 * [Keepa](https://keepa.com) - This Amazon price tracker will enhance your Amazon shopping experience as they provide price history charts, price drop alerts, price watches, daily drops and browser addons.
 * [PSprices](https://psprices.com/region-be/search/?q=&platform=Switch&dlc=show&sort=opencritic) - Game price notifications. Automatically monitor 8 platforms in 48 countries.
+* :star: [**Xerius**](https://www.xerius.be/bnc/app/fr) - :fr: [FR] [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net / Freelance rate simulator
+* [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
+* [Companyweb](https://www.companyweb.be/en) - [BE] Know who you’re dealing with | Companyweb specialises in company information in Belgium. Its services allow you to understand the risks, the survival rates, the payment capacity, the profitability, the stability and other key factors of every Belgian company.
+* [Finactum](https://www.finactum.be/) - [BE] A website with free financial information about Belgian companies filing obligation, which also offer low-cost high-quality, readable financial reports to.
 
 ## Cryptocurrency
 > News
@@ -982,6 +1009,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
 * [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
+* [Mike Crittenden](https://critter.blog/2021/01/05/dont-bring-problems-bring-solutions-is-bull-crap/) - (2021) “Don’t bring problems, bring solutions” is bull crap
+* [Cantlin Ashrowan](https://cantl.in/blog/2020/12/11/coherent-and-complex.html) - (2020) Coherent and complex
+> - Collaboration, it turns out, gets harder in proportion to two things: the level of coherence you demand from the output, and the complexity of the processes that create it.
+> - Collaboration that creates incoherence is easy. You all just do whatever you want. Equally, collaboration on things that are not complex is easy. You can all see whether the log has been chopped or not, there is limited room for debate.
+> - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
+* [Async Manifesto](http://asyncmanifesto.org/) - (2014) Manifesto for Async Software Development | Principles of Async Software Development
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -1015,6 +1048,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
+* [Mike Crittenden](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/) - (2021) If it will matter after today, stop talking about it in a chat room
+* [Mike Crittenden](https://critter.blog/2020/12/29/death-to-private-chats/) - (2020) Death to private chats
+* [Mike Crittenden](https://critter.blog/2021/01/13/audience-friendly-goals/) - (2021) Audience friendly goals
+* [Mike Crittenden](https://critter.blog/2020/08/25/hide-a-problem-from-your-client-and-now-youve-got-2-problems/) - (2020) Hide a problem from your client and now you’ve got 2 problems
+* [Mike Crittenden](https://critter.blog/2020/10/01/slide-deck-presentations-are-the-worst-way-to-share-knowledge-remotely/) - (2020) Slide deck presentations are the worst way to share knowledge remotely
+* [Mike Crittenden](https://critter.blog/2020/12/01/never-underestimate-peoples-ability-to-not-hear-you/) - (2020) Never underestimate people’s ability to not hear you
 
 ## Documentation
 > Learn
@@ -1038,12 +1077,14 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Hubert Sablonnière](https://www.youtube.com/watch?v=T6YJlaY0Dpw) - (2017) [Video] :fr: [FR] Documentation as Code (expliqué à mon père) | DevFest Nantes 2017 | about AsciiDoc, KISS, DRY, Quality, Collaboration
 * [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
 * [Anni Bond](https://opensource.com/article/17/9/adopting-minimalism-your-docs) - Adopting minimalism in your docs
+* [The Cloud Posse Developer Hub](https://docs.cloudposse.com/) - You'll find comprehensive guides and documentation to help you start working with the Cloud Posse technology stack as quickly as possible, as well as support if you get stuck. This is also useful as a source of inspiration for your own guides and documentation repositories.
 
 > Tips
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
 * [Bazyli Brzóska](https://invent.life/blog/on-organizing-projects-and-files/) - (2013) On organizing projects and files | TLDR : we shoudl use tags and we need more tools supporting them
 * [Christopher Laine](https://medium.com/it-dead-inside/ubiquitous-language-in-your-software-domain-1ff6df49ac8c) - (2019) Ubiquitous Language in your software domain | Defining your software domain’s language makes everything easier
 * [Julia Evans](https://jvns.ca/blog/brag-documents/) - (2019) Get your work recognized: write a brag document
+* [Mike Crittenden](https://critter.blog/2020/12/03/the-you-get-one-diagram-approach-to-architecture-documents/) - (2020) The “You Get One Diagram” approach to architecture documents
 
 > Tools
 * [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
@@ -1155,6 +1196,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > Don’t be scared, ashamed, or discouraged to make it paid
 > Don’t let anyone tell you how much you should charge for your work
 > value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
+* [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1213,6 +1255,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
 * [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 * [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
+* [Bouquineux](http://www.bouquineux.com/) - :fr: [FR] Livres numériques gratuits et libres de droits
+* [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits | Livres électroniques gratuits | Free ebooks
+* [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
+* [Instructables](http://www.instructables.com/) - How to make anything
+* [The Free Software Foundation](https://www.fsf.org/givingguide/v11/) - (2020) Ethical Tech Giving Guide - Does the gift you're giving your loved ones put someone else in control?
+* [Mozilla](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1240,6 +1288,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Information is Beautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - World's Biggest Data Breaches & Hacks
 * [InterPlanetary File System](https://ipfs.io/) - The InterPlanetary File System (IPFS) is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices. **See also :** [Wikipedia](https://en.wikipedia.org/wiki/InterPlanetary_File_System) and [GitHub](https://github.com/ipfs/ipfs)
 * [Replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) - The replication crisis (or replicability crisis or reproducibility crisis) is, as of 2019, an ongoing methodological crisis in which it has been found that many scientific studies are difficult or impossible to replicate or reproduce. The replication crisis affects the social and life sciences most severely.
+* [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Awesome Public Datasets | A topic-centric list of HQ open datasets.
 
 # DevOps / CICD
 > News
@@ -1490,7 +1539,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Josh Johnson](https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/) - (2015) DevOps Is Bullshit: Why One Programmer Doesn’t Do It Anymore
 * [Yevgeniy Brikman](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c) - (2016) Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation
 * [James Shore](http://www.jamesshore.com/Blog/Continuous-Integration-is-an-Attitude.html) - (2005) Continuous Integration is an Attitude, Not a Tool
-* [Yegor Bugayenko](https://devops.com/continuous-integration-doesnt-work/) - (2014) Why Continuous Integration Doesn’t Work
+* [Yegor Bugayenko](https://devops.com/continuous-integration-doesnt-work/) - (2014) Why Continuous Integration Doesn’t Work | Don't forget it's Yegor writing this... :-) 
 * [James Shore](http://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html) - (2006) Continuous Integration on a Dollar a Day
 * [Michal Charemza](https://charemza.name/blog/posts/devops/aws/non-atomic-deployments/) - (2017) Non atomic deployments | Cron-free deferred delete of obsolete static resources | The best infrastructure is the one that doesn't exist
 * [Hacker News](https://news.ycombinator.com/item?id=16166645) - (2018) Ask HN: How do you keep track of releases/deployments of dozens micro-services?
@@ -1576,6 +1625,22 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Avoid using personal accounts or credentials.
 > * Automate as much as you can.
 > * Write good code.
+* [The Cloud Posse Developer Hub](https://docs.cloudposse.com/) - You'll find comprehensive guides and documentation to help you start working with the Cloud Posse technology stack as quickly as possible, as well as support if you get stuck. This is also useful as a source of inspiration for your own guides and documentation repositories.
+* [Jessica Joy Kerr aka jessitron](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/) - (2021) When costs are nonlinear, keep it small.
+> - The math of frequent rollouts.
+> - Some things, like laundry, are cheaper when you do them all at once.
+> - But if those things interact, like software changes, then the cost of each may rise non-linearly.
+> - Be careful what you batch!
+> - It’s like DevOps and CI/CD: more frequent deploys are safer. 
+* [Christian Melendez](https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/) - (2019)  What Is CICD? What’s Important and How to Get It Right | a good reminder (one again) of the most important principles
+* [Fred Hébert](https://ferd.ca/complexity-has-to-live-somewhere.html) - (2020) Complexity Has to Live Somewhere
+> When dealing with build tools, a few things become apparent:
+> * if you make the build tool simple, it won't handle all the weird edge cases that exist out there
+> * if you want to handle the weird edge cases, you need to deviate from whatever norm you wanted to establish
+> * if you want ease of use for common defaults, the rules for common defaults must be shared between the tool and the users, who shape their systems to fit the tool's expectations
+> * if you allow configuration or scripting, you give the users a way to specify the rules that must be shared, so the tool fits their systems
+> * if you want to keep the tool simple, you have to force your users to only play within the parameters that fit this simplicity
+> * if your users' use cases don't map well to your simplicity, they will build shims around your tool to attain their objectives
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -1826,6 +1891,8 @@ See also [Infrastructure](#infrastructure)
 * [Random Emojis for Slack](https://slackmojis.com/categories/19-random-emojis) - big collection of emojis for Slack
 * [Emojipedia](https://emojipedia.org/) - 📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍 . **Example** : [Pistol Emoji](https://emojipedia.org/pistol/)
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
+* [Mike Crittenden](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/) - (2021) If it will matter after today, stop talking about it in a chat room
+* [Mike Crittenden](https://critter.blog/2020/12/29/death-to-private-chats/) - (2020) Death to private chats
 
 > Tips
 * [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - (2015) Chatops Pitfalls and Tips
@@ -2205,6 +2272,14 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 ```
 * [MorganGeek](https://gist.github.com/MorganGeek/2958ba47630a176733e0136b42557284) - (2020) Validating Jenkinsfile in Vim and/or using CLI / terminal
 
+### Jenkinsfile runner
+* [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
+* [Jenkinsfile Runner](https://reposhub.com/java/build/jenkinsci-jenkinsfile-runner.html) - Jenkinsfile Runner is an experiment to package Jenkins pipeline execution as a command line tool. The intend use cases include:
+  * Use Jenkins in Function-as-a-Service context
+  * Assist editing Jenkinsfile locally
+  * Integration test shared libraries
+* [Florian Wilhelm](https://www.jenkins.io/blog/2019/02/28/serverless-jenkins/) - (2019) Run your Jenkins pipeline without operating a Jenkins instance 
+
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
@@ -2522,7 +2597,7 @@ See also [Infrastructure](#infrastructure)
 * :star: [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
 * :star: [**Library Genesis**](https://libgen.is/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.me/), [Mirrors list](http://sguru.org/libgen-proxy/)
 * :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
-* [b-ok.org](http://b-ok.org/) - ebooks
+* :star: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music .
 * [RuTracker](https://rutracker.org/forum/index.php) - torrent for music
 * [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
@@ -2636,7 +2711,7 @@ See also [Infrastructure](#infrastructure)
 * [Open Culture](http://www.openculture.com/freemoviesonline) - 1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, Documentaries, etc.
 * [ZippyShare](https://zippysharesearch.info) - Search and Download Free MP3, Music, Books, Epubs, APK and Video
 * [Yggtorrent](https://www2.yggtorrent.gg) - 1st French torrent tracker
-* [ZLibrary](https://b-ok.cc/) - The world's largest ebook library.
+* :star: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
 * [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts : The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
 * [TorrentSeeker](https://search.torrents.io) - is a powerful torrent search combining results from dozens of torrent sites
@@ -2653,6 +2728,14 @@ See also [Infrastructure](#infrastructure)
 * [RAWG](https://rawg.io/) - Discover your next favorite game | The largest video game database and video game discovery service powered by you!. RAWG is building its database as an infotainment and discovery tool where every user can build its own library of video games and find out about new titles. | RAWG is officially the largest video game database in the world
 * [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
 * [Internet Relay Chat](https://netsplit.de/channels/) - Search chat rooms (IRC channels) within the Internet Relay Chat and get informed about their users and topics!
+* [Read Comics Online](https://readcomicsonline.ru/) - Website to read DC and Marvel Comics Online for FREE.
+* [Bouquineux](http://www.bouquineux.com/) - :fr: [FR] Livres numériques gratuits et libres de droits
+* [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits | Livres électroniques gratuits | Free ebooks
+* [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
+* [Mobilism](https://forum.mobilism.me/viewforum.php?f=120) - Your Source for Apps & Books | Login available via [**BugMeNot**](http://bugmenot.com/)
+* [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
+* [:books: Freely available programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind. **Bonus** : [Beta website](https://books.vishnuks.com/)
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
@@ -2690,7 +2773,7 @@ See also [Infrastructure](#infrastructure)
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
 
 # Free online tools :free:
-* [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
+* :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technology on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
 * [Netcraft](https://sitereport.netcraft.com/) - What's that site running? Find out the infrastructure and technologies used by any site, based on results from internet data mining
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze a website performance
@@ -2819,9 +2902,8 @@ See also [Infrastructure](#infrastructure)
 * [Url Checker](http://urlchecker.org/) - Multi URL checker, can work from an input list.
 * [CICR Tool](https://www.ipaddressguide.com/cidr) - IP Range To CIDR / CIDR to IP Range
 * [Meta Tags](https://metatags.io/) - is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
-* [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
-* [AbuseIPDB](https://www.abuseipdb.com/check/170.233.47.242) - help make Web safer by providing a central repository for webmasters, system administrators, and other interested parties to report and identify IP addresses that have been associated with malicious activity online
-* :star: [**Xerius**](https://brutonetto.xerius.be) - :fr: [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net
+* :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
+* :star: [**Xerius**](https://www.xerius.be/bnc/app/fr) - :fr: [FR] [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net / Freelance rate simulator
 * [Downdetector](https://downdetector.com) - offers a realtime overview of status information and outages for all kinds of services. | online monitoring of your favorite services
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
@@ -2851,6 +2933,8 @@ See also [Infrastructure](#infrastructure)
 * [Romanr.info](http://romanr.info/magnet.html) - Online BitTorrent Magnet Link Generator | Hash to Magnet link generator / converter
 * [hashtomagnet.xyz](https://hashtomagnet.xyz/) -  Hash to Magnet generator + Get Seed/Leech informations
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
+* [Sedja](https://www.sejda.com/) - Easy, pleasant and productive PDF editor
+* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -2861,6 +2945,7 @@ See also [Infrastructure](#infrastructure)
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 
+# Gaming :video_game:
 > News
 * [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
 * [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
@@ -2923,6 +3008,7 @@ See also [Infrastructure](#infrastructure)
 * [PSprices](https://psprices.com/region-be/search/?q=&platform=Switch&dlc=show&sort=opencritic) - Game price notifications. Automatically monitor 8 platforms in 48 countries.
 * [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt.
  :video_game:
+* [Viking Board Game](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
@@ -2971,7 +3057,7 @@ See also [Infrastructure](#infrastructure)
 * [/r/BasicIncome](https://www.reddit.com/r/BasicIncome/) - community space for discussion and advocacy of Basic Income schemes
 * [/r/antiwork](https://www.reddit.com/r/antiwork/) - discussion and advocacy of a world without work
 * [PartTimer](https://parttimer.io/) - a job board for skilled work under 40 HRS/week
-* [Glassdoor](https://www.glassdoor.com/Reviews/index.htm) - company reviews and salaries posted anonymously by employees.
+* :star: [**Glassdoor**](https://www.glassdoor.com/Reviews/index.htm) - A site that lets employees post anonymous salaries and reviews of their company.
 * [BetaList Jobs](https://betalist.com/jobs) - shape the future by joining one of the fastest growing technology startups
 * [WorkWithUs](https://workwithus.io/) - hand-curated selection of best jobs
 * [Who is Hiring?](https://whoishiring.io/) - jobs search engine per location and some other criteria
@@ -3034,7 +3120,6 @@ See also [Infrastructure](#infrastructure)
 * [Cornell University Ergonomics Web](http://ergo.human.cornell.edu/AHTutorials/typingposture.html) - Ideal typing posture: Negative slope keyboard support
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/11/18/rsi-solution/) - (2016) How I stopped the RSI pain that almost destroyed my programming career
 * [tamar Turner-Trauring](https://codewithoutrules.com/2016/08/18/productive-programmer/) - (2016) Less stress, more productivity: why working fewer hours is better for you and your employer
-* [Glassdoor](https://www.glassdoor.com/) - a site that lets employees post anonymous salaries and reviews of their company.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/10/14/job-you-dont-hate/) - (2016) How to find a programming job you won’t hate
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2016/08/08/living-below-your-means/) - (2016) Why living below your means can help you find a better job
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/03/20/open-floor-plan/) - (2017) Dear recruiter, “open floor space” is not a job benefit
@@ -3106,25 +3191,37 @@ See also [Infrastructure](#infrastructure)
 * [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
 * [Google Search](https://www.google.be/search?q=what%20are%20the%20worst%20foods%20to%20eat) - what are the worst foods to eat ?
 * [Tina Su](http://thinksimplenow.com/happiness/life-on-purpose-15-questions-to-discover-your-personal-mission/comment-page-13/) - (2015) Life on Purpose: 15 Questions to Discover Your Personal Mission
+* [Jory MacKay](https://blog.rescuetime.com/burnout-syndrome-recovery) - (2020) How to deal with burnout: Signs, symptoms, and strategies for getting you back on track after burning out
+* [Jory MacKay](https://blog.rescuetime.com/wfh-burnout-coronavirus) - (2020) How to avoid WFH burnout: 5 ways to leave work at work (even if you never leave the house)
+* [Mike Crittenden](https://critter.blog/2020/12/08/the-key-to-happiness-is-to-stop-getting-upset-all-the-dang-time/) - (2020) The key to happiness is to stop getting upset all the dang time
+* [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
 
-## Remote jobs
+## Remote work
+> Finding a remote job
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
 * [The Remote Working Company](http://www.remoteworking.co/) - Remote Jobs for people that don't like to go to work, mostly technology oriented
 * [Working Nomads](https://www.workingnomads.co/jobs) - Remote jobs, with most offers in development
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs: Design, Programming, DevOps and more
 * [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
-* [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers
 * [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - list of awesome remote jobs and resources
+
+> Tools
+* [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers
 * [Sick Call Excuse Generator](http://www.getodd.com/raz/sickday/sickday.html) - helpful to you in deciding the excuse for your forthcoming day off.
 * [WFH-excuses](https://us-central1-wfh-excuses-gh.cloudfunctions.net/wfh) - Working from Home excuses generator. **Bonus** : [GitHub repo](https://github.com/lnfnunes/WFH-excuses)
+
+> Misc
 * [Antonio Bello](https://www.raywenderlich.com/114368/staying-motivated-work-home-developer) - (2015) Staying Motivated as a Work From Home Developer
 * [Nathalie Marquez Courtney](https://increment.com/development/home-is-where-the-work-is/) - (2017) Home is where the work is | Flexible. Freeing. Lonely. Three remote engineers share what it’s really like to work from afar.
 * [Julia Evans](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/) - (2018) Working remotely, 4 years in
 * [Northern Ireland Business](https://www.nibusinessinfo.co.uk/content/common-causes-stress-work) - How to deal with stress : Common causes of stress at work
 * [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 * [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
+* [Thomas A. Limoncelli](https://queue.acm.org/detail.cfm?id=3417752) - (2020) Five Nonobvious Remote Work Technique)
 
 # Hobbies
+* [Mike Crittenden](https://critter.blog/2020/12/08/the-key-to-happiness-is-to-stop-getting-upset-all-the-dang-time/) - (2020) The key to happiness is to stop getting upset all the dang time
+
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
@@ -3136,6 +3233,7 @@ See also [Infrastructure](#infrastructure)
 > Chess
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 * [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move
+* [Viking Board Gamee](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
 
 > Coffee :coffee:
 * [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
@@ -3153,8 +3251,10 @@ See also [Infrastructure](#infrastructure)
 
 > Balades et nature
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
-* [Balnam](https://www.balnam.be/) - :fr: [FR] Les chemins et sentiers publics de la Province de Namur.
+* [
+](https://www.balnam.be/) - :fr: [FR] Les chemins et sentiers publics de la Province de Namur.
 * [RouteYou](https://www.routeyou.com/fr-be/location/walk/47407895/bruxelles-a-pied-resume-de-toutes-les-itineraires-a-pied) - :fr: [FR] itinéraires à pied ou en vélo à Bruxelles
+* [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
 
 # Humor :trollface:
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
@@ -3399,7 +3499,8 @@ rpm --rebuilddb
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
 * [Bryan Kennedy](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - (2013) My First 5 Minutes On A Server; Or, Essential Security for Linux Servers
 * [Ben Wilson](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - (2011) Basic Linux Privilege Escalation
-* [Senthil Kumar aka SK](https://www.ostechnix.com/random-one-liner-linux-commands-part-1/) - (2018) Some Random One-liner Linux Commands [Part 1]. **Bonus** : [Part 2](https://www.ostechnix.com/random-one-liner-linux-commands-part-2/), [Part 3](https://www.ostechnix.com/random-one-liner-linux-commands-part-3/), [Part 4](https://www.ostechnix.com/some-random-one-liner-linux-commands-part-4/)
+* [Senthil Kumar aka SK](https://www.ostechnix.com/
+-one-liner-linux-commands-part-1/) - (2018) Some Random One-liner Linux Commands [Part 1]. **Bonus** : [Part 2](https://www.ostechnix.com/random-one-liner-linux-commands-part-2/), [Part 3](https://www.ostechnix.com/random-one-liner-linux-commands-part-3/), [Part 4](https://www.ostechnix.com/some-random-one-liner-linux-commands-part-4/)
 * [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. **Bonus** : [GitHub repository](https://github.com/onceupon/Bash-Oneliner)
 * [crontab guru](https://crontab.guru/) - The quick and simple online editor for testing cron schedule expressions
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/htop/) - (2017) htop explained | Explanation of everything you can see in htop/top on Linux
@@ -3473,6 +3574,7 @@ rpm --rebuilddb
 * [Dimitri Merejkowsky](https://dmerej.info/blog/post/lets-have-a-pint-of-vim-ale/) - (2017) Let's have a pint of (vim) ale! | Write a custom language linter for ale
 * [MorganGeek](https://gist.github.com/MorganGeek/2958ba47630a176733e0136b42557284) - (2020) Validating Jenkinsfile in Vim and/or using CLI / terminal
 * [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
+* [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
@@ -3557,7 +3659,7 @@ rpm --rebuilddb
 * [Moviemania](https://www.moviemania.io/desktop) - super big textless high-resolution movie wallpapers database
 * [Parkhi Rastogi](http://www.recommendmoviebyplot.com/) - Recommend Movie by Plot (reveal movie title after reading the plot)
 * [Short of the Week](https://www.shortoftheweek.com/) - Watch the best short films online
-* [MorganGeek](https://www.morgangeek.be//minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
+* [MorganGeek](https://www.morgangeek.be/minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
 * [Vimeo](https://vimeo.com/) - The high-quality home for video hosting and watching in HD with no ads, used by a vast number of indie filmmakers. The place to find refreshing, art-house movies to stream on demand.
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Zach Alexander](https://dev.to/zpalexander/10-tech-movies-to-get-you-coding-again) - (2016) 10 Tech Movies to Get You Coding Again
@@ -3745,7 +3847,7 @@ See also [Monitoring](#monitoring)
 * [Paul English](https://opensource.com/article/17/7/truth-about-sysadmins) - (2017) The truth about sysadmins
 * [plop_plop_sys](http://linuxfr.org/users/plop_plop_sys/journaux/so-you-wanna-be-a-sysadmin-trolldi-inside) - (2014) [FR] :fr: - Journal So, you wanna be a sysadmin ? (Trolldi inside)
 * [mr-mig/going-to-production](https://github.com/mr-mig/going-to-production) - A checklist for topics which should be covered before going to production.
-* [Fred Hébert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - Lessons Learned while Working on Large-Scale Server Software
+* [Fred Hébert](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html) - (2015) Lessons Learned while Working on Large-Scale Server Software
 * [arvind](https://www.codementor.io/arvindsoni/in-devops-dev-is-killing-ops-d8gr1zdkh) - (2017) In DevOps, Dev is Killing Ops // read the full article + conclusion to have a better understanding
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Doug Tedder](https://www.dougtedder.com/2017/09/03/ops-just-get-out-of-the-way/) - (2017) Ops, just get out of the way
@@ -4068,6 +4170,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html) - (2019) VPN - a Very Precarious Narrative
 * [Finn Brunton & Helen Nissenbaum](https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/) - (2019) The Fantasy of Opting Out
 > There is no simple solution to the problem of privacy, because privacy itself is a solution to societal challenges that are in constant flux. If the apparatus of total surveillance that we have described here were deliberate, centralized, and explicit, a Big Brother machine toggling between cameras, it would demand revolt, and we could conceive of a life outside the totalitarian microscope.
+* [The Free Software Foundation](https://www.fsf.org/givingguide/v11/) - (2020) Ethical Tech Giving Guide - Does the gift you're giving your loved ones put someone else in control?
+* [Mozilla](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 
 ## Privacy tools
 * :star: [**Privacy tools**](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
@@ -4114,9 +4218,13 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... **See also :** [Website](https://archivebox.io)
 * [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 * [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting networks and technology aiming at re-decentralizing the Internet.
+* [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. ArchiveBox is a powerful self-hosted internet archiving solution written in Python 3. You feed it URLs of pages you want to archive, and it saves them to disk in a variety of formats depending on the configuration and the content it detects.
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
+* [MorganGeek](https://www.morgangeek.be/minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
+* [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website
+* [The Whimsical Web](https://whimsical.club/1/) - Websites that spark joy - A curated list of sites with an extra bit of fun. [Source code](https://github.com/maxboeck/whimsical)
 
 # Productivity :fast_forward:
 > News
@@ -4221,7 +4329,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Jeff Haden](https://www.linkedin.com/pulse/10-steps-make-each-day-incredibly-productive-jeff-haden) - 10 Steps to Make Each Day Exceptionally Productive
 * [alphagov/govdesign](https://github.com/alphagov/govdesign) - Lot of useful posters to print
 * [Edouard-Malo HENRY](https://www.linkedin.com/pulse/moving-from-how-why-company-edouard-malo-henry) - Moving from a "how" to a "why" company
-* [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
+* :star: [**Dr. Travis Bradberry**](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
 * [Wall-Skills](http://wall-skills.com/) - Great 1-pagers to share in your company
 * [Corinna Baldauf](http://wall-skills.com/2016/how-to-master-any-skill-badass/) - (2016) How to master any skill – Badass
 * [Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html) - Humanizing Peer Reviews
@@ -4402,6 +4510,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Anne-Laure Le Cunff](https://nesslabs.com/time-management) - (2019) Time management: do the things you actually want to do
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
 * [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me/) - (2019) Writing Is Hard For Me
+* [Mike Crittenden](https://critter.blog/2021/01/13/audience-friendly-goals/) - (2021) Audience friendly goals
+* [Mike Crittenden](https://critter.blog/2020/12/31/the-12-week-year/) - (2020) The 12 Week Year: 2021 round 1
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -4850,6 +4960,13 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Google search](https://www.google.be/search?q=what%20are%20the%20worst%20programming%20practices) - what are the worst programming practices
 * [Bystroushaak](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html) - (2020) Programmer's critique of missing structure of operating systems | **Original** (2018) [Programátorova kritika chybějící struktury operačních systémů](http://blog.rfox.eu/cz/Program_torova_kritika_chyb_j_c_struktury_opera_n_.html)
 * [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
+* [Learn X in Y minutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
+* [The Cloud Posse Developer Hub](https://docs.cloudposse.com/) - You'll find comprehensive guides and documentation to help you start working with the Cloud Posse technology stack as quickly as possible, as well as support if you get stuck. This is also useful as a source of inspiration for your own guides and documentation repositories.
+* [:books: Freely available programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [Async Manifesto](http://asyncmanifesto.org/) - (2014) Manifesto for Async Software Development | Principles of Async Software Development
+* [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf) - (2008) [PDF] Programming Paradigms for Dummies: What Every Programmer Should Know. **Bonus** :fr: [FR] [Slides in french](https://www.info.ucl.ac.be/~pvr/jussieuParadigms2008.pdf) and [Poster in English](https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf)
+* [Chris Kiehl](https://chriskiehl.com/article/thoughts-after-6-years) - (2021) Software development topics I've changed my mind on after 6 years in the industry
+* [Jeff Atwood](https://blog.codinghorror.com/learn-to-read-the-source-luke/) - (2012) Learn to Read the Source, Luke
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
@@ -4860,6 +4977,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * [Code Golf](https://code-golf.io/) - a game designed to let you show off your code-fu by solving problems in the least number of characters. It is written in Go and is open source, patches welcome!
 * [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own ... (insert technology here)
+* [Advent of Code](https://adventofcode.com/) - is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
 
 > Stickers
 * [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
@@ -4930,10 +5048,10 @@ Maturity Model
 * [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
 
 ## Calm programming / Slow programming
-See also [Clean code](#clean-code-and-best-practices)
+See also [Clean code](#clean-code-and-best-practices) and [Slow programming principles](PRINCIPLES.md#slow-programming-principles)
 
 I dedicate this section to the work I'm busy at, about how going faster in short term can cost you quality, money and confidence in long term. Studying relationships between quality, productivity, thinking fast & slow, slowing down, and the craft of programming.
-* [Dr. Travis Bradberry](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
+* :star: [**Dr. Travis Bradberry**](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
 * [Gregg Caines](http://caines.ca/blog/2009/12/13/code-slower/) - (2009) Code Slower
 * [Alicia Liu](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c) - (2018) Go Slow to Go Fast — [Part 1: You](https://medium.com/counter-intuition/go-slow-to-go-fast-part-1-you-a4974ceb8a7c), [Part 2: Team](https://medium.com/counter-intuition/go-slow-to-go-fast-part-2-team-e793bb0d658a), [Part 3: World](https://medium.com/counter-intuition/go-slow-to-go-fast-part-3-world-efb76c4de220)
 * [Shan](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/) - (2013) Being a Slow Programmer
@@ -4965,6 +5083,12 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > the "talk first, code later" approach is an un-intuitive tool that speeds development up and leads to better communication between engineers and teams.
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Umer Mansoor](https://codeahoy.com/2016/06/03/write-less-code/) - (2016) Write Less Code
+* [Calm Tech](https://calmtech.com/) - Principles of Calm Technology
+* [Cantlin Ashrowan](https://cantl.in/blog/2020/12/11/coherent-and-complex.html) - (2020) Coherent and complex
+> - Collaboration, it turns out, gets harder in proportion to two things: the level of coherence you demand from the output, and the complexity of the processes that create it.
+> - Collaboration that creates incoherence is easy. You all just do whatever you want. Equally, collaboration on things that are not complex is easy. You can all see whether the log has been chopped or not, there is limited room for debate.
+> - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
+* [Jessica Joy Kerr aka jessitron](https://jessitron.com/2017/06/24/the-most-productive-circumstances-for/) - (2017) Hyperproductive development
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
@@ -5189,6 +5313,10 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [amperser/proselint](https://github.com/amperser/proselint/) - a linter for English prose.
 * [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 > Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+* [Jamie Wong](http://jamie-wong.com/2013/07/12/grep-test/) - (2013) Too DRY - The Grep Test
+* [Ilya Sher](https://ilya-sher.org/2019/05/18/on-information-loss-in-software/) - (2019) On Information Loss in Software
+* [Michael Foord](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - (2017) 30 best practices for software development and testing
+* [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of best practices information from around the web
 
 ## Conferences
 > In Belgium
@@ -5300,7 +5428,7 @@ psql -f db.out postgres
 
 > Learn
 * [Alex Ott](http://alexott.net/en/fp/books/#sec8) - books review on Erlang
-* [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
+* :star: [**Functional Geekery**](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [PropEr Testing](http://propertesting.com/) - Fred Hébert talking about ins and outs of Property-Based Testing, with focus set on Erlang’s PropEr framework, a freely available testing tool based on Quviq’s Quickcheck framework.
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) - [Book] Online book. Reading this tutorial should be one of your first steps in learning Erlang
 * [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - list of amazingly awesome Elixir and Erlang libraries, resources and more
@@ -5528,6 +5656,8 @@ psql -f db.out postgres
 * [What the Commit](http://whatthecommit.com/) - A random commit message generator. | some inspiration for your next git commit message | NSFW :-D
 * [rponte/get-latest-tag-on-git.sh](https://gist.github.com/rponte/fdc0724dd984088606b0) - Getting latest tag on git repository
 * [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
+* :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
+* [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ### Dotfiles / Aliases
 See also [Shell aliases](#shell-aliases)
@@ -5543,7 +5673,7 @@ See also [Shell aliases](#shell-aliases)
 * [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 * [Robby Russell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/456341fd69c3e514e401f1c3c1726b77d733c86b/plugins/git/git.plugin.zsh) - git aliases from oh-my-zsh
 * [Oli Young](https://gist.github.com/oliyoung/91a829ea21550a7a7d9469220a7c2f73) - shared .gitconfig with some useful Git aliases
-* [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
+* :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
 * [George Gritsouk](https://gggritso.com/human-git-aliases) - (2016) Human Git Aliases | Stubbornly Refusing to Speak The Computer's Language | **Bonus** : [author's dotfiles](https://github.com/gggritso/dotfiles/blob/master/gitconfig.symlink)
 * [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
 * [raidzero/dotfiles](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
@@ -5558,6 +5688,10 @@ See also [Shell aliases](#shell-aliases)
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc.
 * [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
+* [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+### GitHub
+* [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
@@ -5979,7 +6113,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Kent C. Dodds](https://kentcdodds.com/blog/write-tests) - (2017) Write tests. Not too many. Mostly integration.
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * :star: [**DistroTest**](https://distrotest.net/?module=systems&action=list) - The first online operating system tester | Take a look at the existing linux distributions, test them live online and thus without any installation
-* [gitignore.io](https://www.gitignore.io/) - Generate .gitignore files for your project
+* :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
 * [1x Engineer](https://1x.engineer/) - a non-exhaustive list of what qualities make up a 1x engineer.
 * [Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) - (2019) Do-nothing scripting: the key to gradual automation | pattern for scripts that do nothing but still help on the road to automation
 * :star: [**Eric Pement**](https://web.archive.org/web/20190804114017/http://www.pement.org/awk/awk1line.txt) - (2008) Handy one-line scripts for awk
@@ -6006,6 +6140,10 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
 * [Carl Tashian](https://smallstep.com/blog/ssh-tricks-and-tips/) - (2020) SSH Tips & Tricks for using SSH more effectively.
 * [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
+* [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+* [Mike Crittenden](https://critter.blog/2020/08/14/learning-a-technology-you-dont-need-right-now-is-a-waste-of-time/) - (2020) Learning a technology you don’t need right now is a waste of time
+* [Jessica Joy Kerr aka jessitron](https://jessitron.com/2017/06/24/the-most-productive-circumstances-for/) - (2017) Hyperproductive development
+* [Async Manifesto](http://asyncmanifesto.org/) - (2014) Manifesto for Async Software Development | Principles of Async Software Development
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
@@ -6138,6 +6276,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](#shell-ali
 * [Learn Prolog Now!](https://devrant.com/feed/) - a free online introductory course to programming in Prolog
 * [Logtalk](https://logtalk.org/) - is a declarative object-oriented logic programming language that extends and leverages the Prolog language with modern code encapsulation and code reuse mechanisms while also providing improved predicate semantics.
 * [MorganGeek](https://gist.github.com/MorganGeek/660e55cfbb8f8e82e77d06618802ea79) - (gist) Install SWI-Prolog and Logtalk on CentOS. **Bonus** : Dockerfile provided.
+* [Mr. Bad, Crackmonkey](http://www.pigdog.org/auto/mr_bads_list/shortcolumn/1914.html) - (2001) Things to Say When You're Losing a Technical Argument
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
@@ -6222,7 +6361,7 @@ Raw
 * [Software Engineering Radio](http://www.se-radio.net/) - The Podcast for Professional Software Developers
 * [Software Engineering Radio](http://www.se-radio.net/2018/02/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity/) - (2018) SE-Radio Episode 317: Travis Kimmel on Measuring Software Engineering Productivity
 * [Functional Geekery](https://www.functionalgeekery.com/) - A podcast on Functional Programming, covering topics across multiple languages
-* [Functional Geekery](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
+* :star: [**Functional Geekery**](https://www.functionalgeekery.com/episode-114-fred-herbert/) - Functional Geekery Episode 114 – Fred Hébert with introduction to Erlang, productionization as a phase of software, property testing, “Everything is Terrible”, and much more.
 * [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of open source.
 * [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
 * [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
@@ -6403,7 +6542,7 @@ See also [CLI Tools](#cli-tools)
 * [Hacker Rank](https://www.hackerrank.com/domains/shell) - Linux Shell challenges, funny but nothing fancy
 * [Commandline Challenge](https://cmdchallenge.com/) - Linux Shell challenges
 * [Bash Hackers Wiki](https://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
-* [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make
+* [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make
 * :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
 * [Nicola Paolucci](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/) - (2015) Ten tips for wonderful bash productivity
 * [blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) - Mastering Bash and Terminal
@@ -6898,6 +7037,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
 * [OpenCycleMap](https://opencyclemap.org/) - :bicyclist: the OpenStreetMap Cycle Map
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
+* [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
 
 # Testing and Compliance :ok_hand:
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
@@ -6994,6 +7134,8 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [mattray/inspec-iggy](https://github.com/mattray/inspec-iggy) - InSpec CLI plugin for generating compliance controls from Terraform and CloudFormation
 * [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform >= 0.12)
 * [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
+* [Michael Foord](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - (2017) 30 best practices for software development and testing
+* [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of best practices information from around the web
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
@@ -7012,6 +7154,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases)
 * [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - allows you to compare your home country with different countries around the world.
 * [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
 * [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
+* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
@@ -7151,6 +7294,7 @@ rpm --rebuilddb
 * [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... **See also :** [Website](https://archivebox.io)
 * [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 * [GH Archive](https://www.gharchive.org/) - is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis. **See also:** [GitHub repository](https://github.com/igrigorik/gharchive.org)
+* [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. ArchiveBox is a powerful self-hosted internet archiving solution written in Python 3. You feed it URLs of pages you want to archive, and it saves them to disk in a variety of formats depending on the configuration and the content it detects.
 
 > Some old links from my first times on the web
 * [Donjon de Naheulbeuk](http://www.penofchaos.com/warham/donjon.htm) - [FR] :fr: Podcast / Les premiers MP3 d'aventure
@@ -7224,7 +7368,7 @@ rpm --rebuilddb
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for [JAMstack](https://jamstack.org/) Sites
 * [Hugo](https://gohugo.io/about/what-is-hugo/) - Hugo is a fast & modern static site generator. **See also** [GitHub repository](https://github.com/gohugoio/hugo)
 * [Zola](https://www.getzola.org/) - A fast static site generator in a single binary with everything built-in. **See also** [GitHub repository](https://github.com/getzola/zola)
-* [BuiltWith](https://builtwith.com/) - Find out what technology a website is built with
+* :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze a website performance
 * [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API
 * [Dead Link Checker](http://www.deadlinkchecker.com/website-dead-link-checker.asp) - Online Dead Link Checking Tool
@@ -7279,6 +7423,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework | Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and SPAs (single-page applications). **See also** : [Video] (2020) [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 * [Netcraft](https://sitereport.netcraft.com/) - What's that site running? Find out the infrastructure and technologies used by any site, based on results from internet data mining
 * [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - list of static web site generators.
+* [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
@@ -7354,3 +7499,4 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [amperser/proselint](https://github.com/amperser/proselint/) - a linter for English prose.
 * [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 > Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+* [Mike Crittenden](https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/) - (2020) Write 5x more but write 5x less
