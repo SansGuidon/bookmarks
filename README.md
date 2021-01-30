@@ -112,39 +112,39 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Productivity :fast_forward:](#productivity-fast_forward)
   * [Productivity tips](#productivity-tips)
   * [Productivity tools](#productivity-tools)
-* [Programming](#programming)
-  * [API](#api)
-  * [Assembly](#assembly)
-  * [C/C++](#cc)
-  * [Calm programming / Slow programming](#calm-programming--slow-programming)
-  * [Clean code and best practices](#clean-code-and-best-practices)
-  * [Conferences](#conferences)
-  * [Correctness](#correctness)
-  * [Database](#database)
-  * [Debugging](#debugging)
-  * [Elixir](#elixir)
-  * [Erlang](#erlang)
-  * [Gamedev](#gamedev)
-  * [Git :octocat:](#git-octocat)
-    * [Dotfiles / Aliases](#dotfiles--aliases)
-    * [GitHub](#github)
-  * [Golang / Go](#golang--go)
-  * [Groovy](#groovy)
-  * [Haskell](#haskell)
-  * [Java](#java)
-    * [Java EE](#java-ee)
-  * [JavaScript](#javascript)
-  * [Kotlin](#kotlin)
-  * [Lisp](#lisp)
-  * [Machine learning](#machine-learning)
-  * [Mobile development :iphone:](#mobile-development-iphone)
-  * [Productivity :computer:](#productivity-computer)
-  * [Programmer humor](#programmer-humor)
-  * [Prolog](#prolog)
-  * [Python](#python)
-  * [Reverse engineering](#reverse-engineering)
-  * [Ruby](#ruby)
-  * [Rust](#rust)
+* [Programming](sections/programming.md#programming)
+  * [API](sections/programming.md#api)
+  * [Assembly](sections/programming.md#assembly)
+  * [C/C++](sections/programming.md#cc)
+  * [Calm programming / Slow programming](sections/programming.md#calm-programming--slow-programming)
+  * [Clean code and best practices](sections/programming.md#clean-code-and-best-practices)
+  * [Conferences](sections/programming.md#conferences)
+  * [Correctness](sections/programming.md#correctness)
+  * [Database](sections/programming.md#database)
+  * [Debugging](sections/programming.md#debugging)
+  * [Elixir](sections/programming.md#elixir)
+  * [Erlang](sections/programming.md#erlang)
+  * [Gamedev](sections/programming.md#gamedev)
+  * [Git :octocat:](sections/programming.md#git-octocat)
+    * [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
+    * [GitHub](sections/programming.md#github)
+  * [Golang / Go](sections/programming.md#golang--go)
+  * [Groovy](sections/programming.md#groovy)
+  * [Haskell](sections/programming.md#haskell)
+  * [Java](sections/programming.md#java)
+    * [Java EE](sections/programming.md#java-ee)
+  * [JavaScript](sections/programming.md#javascript)
+  * [Kotlin](sections/programming.md#kotlin)
+  * [Lisp](sections/programming.md#lisp)
+  * [Machine learning](sections/programming.md#machine-learning)
+  * [Mobile development :iphone:](sections/programming.md#mobile-development-iphone)
+  * [Productivity :computer:](sections/programming.md#productivity-computer)
+  * [Programmer humor](sections/programming.md#programmer-humor)
+  * [Prolog](sections/programming.md#prolog)
+  * [Python](sections/programming.md#python)
+  * [Reverse engineering](sections/programming.md#reverse-engineering)
+  * [Ruby](sections/programming.md#ruby)
+  * [Rust](sections/programming.md#rust)
 * [Psychology :thought_balloon:](#psychology-thought_balloon)
 * [Quotes](QUOTES.md)
 * [Robots](#robots)
@@ -1544,7 +1544,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Josh Johnson](https://lionfacelemonface.wordpress.com/2015/03/08/devops-is-bullshit-why-one-programmer-doesnt-do-it-anymore/) - (2015) DevOps Is Bullshit: Why One Programmer Doesn’t Do It Anymore
 * [Yevgeniy Brikman](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c) - (2016) Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation
 * [James Shore](http://www.jamesshore.com/Blog/Continuous-Integration-is-an-Attitude.html) - (2005) Continuous Integration is an Attitude, Not a Tool
-* [Yegor Bugayenko](https://devops.com/continuous-integration-doesnt-work/) - (2014) Why Continuous Integration Doesn’t Work | Don't forget it's Yegor writing this... :-) 
+* [Yegor Bugayenko](https://devops.com/continuous-integration-doesnt-work/) - (2014) Why Continuous Integration Doesn’t Work | Don't forget it's Yegor writing this... :-)
 * [James Shore](http://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html) - (2006) Continuous Integration on a Dollar a Day
 * [Michal Charemza](https://charemza.name/blog/posts/devops/aws/non-atomic-deployments/) - (2017) Non atomic deployments | Cron-free deferred delete of obsolete static resources | The best infrastructure is the one that doesn't exist
 * [Hacker News](https://news.ycombinator.com/item?id=16166645) - (2018) Ask HN: How do you keep track of releases/deployments of dozens micro-services?
@@ -1636,7 +1636,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > - Some things, like laundry, are cheaper when you do them all at once.
 > - But if those things interact, like software changes, then the cost of each may rise non-linearly.
 > - Be careful what you batch!
-> - It’s like DevOps and CI/CD: more frequent deploys are safer. 
+> - It’s like DevOps and CI/CD: more frequent deploys are safer.
 * [Christian Melendez](https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/) - (2019)  What Is CICD? What’s Important and How to Get It Right | a good reminder (one again) of the most important principles
 * [Fred Hébert](https://ferd.ca/complexity-has-to-live-somewhere.html) - (2020) Complexity Has to Live Somewhere
 > When dealing with build tools, a few things become apparent:
@@ -2283,7 +2283,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
   * Use Jenkins in Function-as-a-Service context
   * Assist editing Jenkinsfile locally
   * Integration test shared libraries
-* [Florian Wilhelm](https://www.jenkins.io/blog/2019/02/28/serverless-jenkins/) - (2019) Run your Jenkins pipeline without operating a Jenkins instance 
+* [Florian Wilhelm](https://www.jenkins.io/blog/2019/02/28/serverless-jenkins/) - (2019) Run your Jenkins pipeline without operating a Jenkins instance
 
 ## Kubernetes
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -4614,7 +4614,6 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc.
 * [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 
-# Programming
 > News
 * :fire: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * :star: [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
