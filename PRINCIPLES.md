@@ -263,7 +263,7 @@ See also [Calm programming / Slow programming](README.md#calm-programming--slow-
 * Discipline / Consistency beat motivation and quality. 
 * You don't want heroes, but you might benefit from experts / excellents colleagues / colleagues & managers that provide support and insights and who do not let you take everyting on your plate.
 * Simplify. Become a minimalist. 
-* Don't be overconfident. Some tasks look simple at first glance, but it can hide some challenges. Take the time needed to run your analysis and estimate the effort after you have checked all possible impacts you could check. Overestimating is one thing, but underestimating the effort and challenge can really lead to getting cascade issues and mistakes that would add a lot of pressure on every team and lead then to rushing even more and causing even bigger mistakes.
+* Don't be overconfident | the fallacy of skipping the planning stage. Some tasks look simple at first glance, but it can hide some challenges. Take the time needed to run your analysis and estimate the effort after you have checked all possible impacts you could check. Overestimating is one thing, but underestimating the effort and challenge can really lead to getting cascade issues and mistakes that would add a lot of pressure on every team and lead then to rushing even more and causing even bigger mistakes. See also [Ref : Skipping the planning stage](https://www.caines.ca/blog/2009/12/13/code-slower/)
 
 ## Slow programming Healthy tips / helpers
 * Disconnect & Focus. Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
