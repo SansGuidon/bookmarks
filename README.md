@@ -768,7 +768,6 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Select International](http://www.selectinternational.com/safety-blog/bid/189940/There-is-No-Shortcut-to-Safety) - There is No Shortcut to Safety
 * [Rajesh Setty](http://rajeshsetty.com/2010/05/03/why-many-smart-people-take-shortcuts-and-how-you-can-avoid-that-trap/) - (2010) Why MANY smart people take shortcuts and how you can avoid that trap
 * [Marc Chernoff](http://www.marcandangel.com/2013/10/13/7-shortcuts-you-will-regret-taking-in-life/) - (2013) 7 Shortcuts You Will Regret Taking in Life
-* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
 * [Jessica Kerr](https://blog.codeship.com/growing-tech-stack-say-no/) - Growing Your Tech Stack: When to Say No
 * [Chris Parnin](http://blog.ninlabs.com/2013/01/programmer-interrupted/) - (2013) Programmer Interrupted
 * [Daniel Miessler](https://danielmiessler.com/blog/how-to-build-a-strong-argument/) - How to Build a Strong Argument
@@ -1055,6 +1054,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mike Crittenden](https://critter.blog/2020/08/25/hide-a-problem-from-your-client-and-now-youve-got-2-problems/) - (2020) Hide a problem from your client and now you’ve got 2 problems
 * [Mike Crittenden](https://critter.blog/2020/10/01/slide-deck-presentations-are-the-worst-way-to-share-knowledge-remotely/) - (2020) Slide deck presentations are the worst way to share knowledge remotely
 * [Mike Crittenden](https://critter.blog/2020/12/01/never-underestimate-peoples-ability-to-not-hear-you/) - (2020) Never underestimate people’s ability to not hear you
+* [Logical Fallacies](https://www.logicalfallacies.org/) - 'Fallacy' : A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
+* [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
+* [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
 
 ## Documentation
 > Learn
@@ -4366,7 +4369,6 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
 * [Justyna Ilczuk](http://tinystruggles.com/2014/11/30/maker-productivity-101.html) - (2014) Maker Productivity 101
 * [Nathan Kontny](https://m.signalvnoise.com/speed-reading-2ff843053cc6) - Speed Reading tips
-* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
 * [James Clear](http://jamesclear.com/ivy-lee) - The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity
 * [Stack Exchange](https://productivity.stackexchange.com/) - Personal Productivity Stack Exchange
 * [Daniel Miessler](https://danielmiessler.com/study/google/) - google search tips
@@ -4518,6 +4520,10 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me/) - (2019) Writing Is Hard For Me
 * [Mike Crittenden](https://critter.blog/2021/01/13/audience-friendly-goals/) - (2021) Audience friendly goals
 * [Mike Crittenden](https://critter.blog/2020/12/31/the-12-week-year/) - (2020) The 12 Week Year: 2021 round 1
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
+* [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
+* [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
+* [Logical Fallacies](https://www.logicalfallacies.org/) - 'Fallacy' : A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -4833,8 +4839,6 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Marco Kuiper](http://old.marcofolio.net/tips/27_inspiring_top_notch_programming_quotes.html) - 27 inspiring top notch programming quotes
 * [James Flight](https://hackernoon.com/critical-thinking-in-software-development-the-word-should-and-why-you-shouldn-t-listen-to-563090144331) - (2018) Critical thinking in software development, the word ‘should’, and why you shouldn’t listen to Martin Fowler
 * [Nicolò Pignatelli](https://hackernoon.com/this-is-not-the-dry-you-are-looking-for-a316ed3f445f) - (2018) This is not the DRY you are looking for
-* [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
-* [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
 * [Kode Vicious](https://queue.acm.org/detail.cfm?id=1740550) - (2010) Broken Builds | Frequent broken builds could be symptomatic of deeper problems within a development project.
 * [Kenneth N. Lodding, Nasa](https://queue.acm.org/detail.cfm?id=1016985) - (2004) Hitchhiker's Guide to Biomorphic Software | The natural world may be the inspiration we need for solving our computer problems.
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer
@@ -4973,6 +4977,10 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf) - (2008) [PDF] Programming Paradigms for Dummies: What Every Programmer Should Know. **Bonus** :fr: [FR] [Slides in french](https://www.info.ucl.ac.be/~pvr/jussieuParadigms2008.pdf) and [Poster in English](https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf)
 * [Chris Kiehl](https://chriskiehl.com/article/thoughts-after-6-years) - (2021) Software development topics I've changed my mind on after 6 years in the industry
 * [Jeff Atwood](https://blog.codinghorror.com/learn-to-read-the-source-luke/) - (2012) Learn to Read the Source, Luke
+* [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
+* [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
+* [Logical Fallacies](https://www.logicalfallacies.org/) - 'Fallacy' : A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
@@ -6431,8 +6439,6 @@ Raw
 * [Changing minds](http://changingminds.org/techniques/questioning/socratic_questions.htm) - Socratic Questioning
 * [Sami Honkonen](https://blog.samihonkonen.com/the-responsibility-process-950478deef69) - (2011) The Responsibility Process
 * [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge) - a cognitive bias that occurs when someone assumes that the others have the same background to understand.
-* [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
-* [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
 * [Charles Chu](https://medium.com/the-polymath-project/our-clothes-can-change-who-we-are-dc89dbc1467c) - (2017) Our clothes can change who we are
 * [Yan-David Erlich](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - [Slides] (2017) Six page cheat-sheet for the book [Never Split the Difference, by Chris Voss](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
 * [Farnam Street](https://www.fs.blog/mental-models/) - Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained) | How do you think the most rational people in the world operate their minds? How do they make better decisions?
@@ -6497,6 +6503,10 @@ Raw
 * [DZone](http://www.surveygizmo.com/s3/1883619/Developer-Personality-Test) - Developer Personality Test
 * [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt.
 * [Tina Su](http://thinksimplenow.com/happiness/life-on-purpose-15-questions-to-discover-your-personal-mission/comment-page-13/) - (2015) Life on Purpose: 15 Questions to Discover Your Personal Mission
+* [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
+* [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
+* [Logical Fallacies](https://www.logicalfallacies.org/) - 'Fallacy' : A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
