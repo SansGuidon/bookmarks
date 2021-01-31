@@ -1058,7 +1058,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Logical Fallacies](https://www.logicalfallacies.org/) - 'Fallacy' : A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
 * [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
 * [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
-* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
+* [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux¨
+* [Giles Turnbull](https://gilest.org/2021/how-to-be-clear/) - (2021) How to be clear
 
 ## Documentation
 > Learn
@@ -6231,3 +6232,4 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 > Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 * [Mike Crittenden](https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/) - (2020) Write 5x more but write 5x less
 * [Giles Turnbull](https://gilest.org/2021/how-to-write-like-you-speak/) - (2021) How to write like you speak
+* [Giles Turnbull](https://gilest.org/2021/how-to-be-clear/) - (2021) How to be clear
