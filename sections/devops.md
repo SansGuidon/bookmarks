@@ -1,4 +1,7 @@
 # DevOps / CICD
+
+## Table of contents
+
 * [Ansible](#ansible)
   * [Ansible Vault](#ansible-vault)
 * [AWS](#aws)
