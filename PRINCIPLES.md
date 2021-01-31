@@ -266,6 +266,7 @@ See also [Calm programming / Slow programming](sections/programming.md#calm-prog
 * Simplify. Become a minimalist. 
 * Don't be overconfident | the fallacy of skipping the planning stage. Some tasks look simple at first glance, but it can hide some challenges. Take the time needed to run your analysis and estimate the effort after you have checked all possible impacts you could check. Overestimating is one thing, but underestimating the effort and challenge can really lead to getting cascade issues and mistakes that would add a lot of pressure on every team and lead then to rushing even more and causing even bigger mistakes. See also [Ref : Skipping the planning stage](https://www.caines.ca/blog/2009/12/13/code-slower/)
 * Writing classes and functions that do a lot. 
+* Be helpful not harmful, fix things and care more about your impact.  You have a big responsibility on your hands, and you should take it seriously. The world needs as much care and conscience as we can muster. Defend your users against anti-patterns and shady business practices. Raise your hand and object to harmful design ideas. Call out bad stuff when you see it. Thoughtfully reflect on what you’re sending out into the world every day. **See also** [Ref : Move Slowly and Fix Things](https://m.signalvnoise.com/move-slowly-and-fix-things/)
 
 ## Slow programming Healthy tips / helpers
 * Disconnect & Focus. Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
