@@ -1,5 +1,7 @@
 # Programming
+
 ## Table of contents
+
 * [API](#api)
 * [Assembly](#assembly)
 * [C/C++](#cc)
@@ -34,7 +36,7 @@
 * [Rust](#rust)
 
 > News
-* :fire: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
+* :fire: :unicorn: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * :star: [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
 * [SlideShare](https://www.slideshare.net/featured/category/software) - featured software related presentations on SlideShare
