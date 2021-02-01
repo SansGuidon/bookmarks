@@ -1084,6 +1084,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
 * [Anni Bond](https://opensource.com/article/17/9/adopting-minimalism-your-docs) - Adopting minimalism in your docs
 * [The Cloud Posse Developer Hub](https://docs.cloudposse.com/) - You'll find comprehensive guides and documentation to help you start working with the Cloud Posse technology stack as quickly as possible, as well as support if you get stuck. This is also useful as a source of inspiration for your own guides and documentation repositories.
+* [Brad Appleton](http://wiki.c2.com/?LocalityOfReferenceDocumentation) - Locality Of Reference Documentation (LoRD)
+> * Code and documentation should be kept as close as feasible, but no closer!
+> * Minimizing the amount of documentation that must be created and maintained in the first place is probably one of the most important aspects of applying LoRD (perhaps even a precursor)
 
 > Tips
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
