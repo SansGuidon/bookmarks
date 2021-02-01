@@ -753,6 +753,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Ilya Sher](https://ilya-sher.org/2019/05/18/on-information-loss-in-software/) - (2019) On Information Loss in Software
 * [Michael Foord](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - (2017) 30 best practices for software development and testing
 * [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of best practices information from around the web
+* [Dominik Krejcik](https://domk.website/blog/2021-01-31-cult-of-best-practise.html) - (2021) The Cult of Best Practice
 
 ## Conferences
 > In Belgium
