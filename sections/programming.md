@@ -524,6 +524,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > - Collaboration that creates incoherence is easy. You all just do whatever you want. Equally, collaboration on things that are not complex is easy. You can all see whether the log has been chopped or not, there is limited room for debate.
 > - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
 * [Jessica Joy Kerr aka jessitron](https://jessitron.com/2017/06/24/the-most-productive-circumstances-for/) - (2017) Hyperproductive development
+* [David John Adams aka DJ Adams](https://qmacro.org/2021/02/01/do-less-and-do-it-better/) - (2021) Do less and do it better
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
