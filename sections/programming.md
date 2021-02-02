@@ -104,7 +104,7 @@
 * [Adam Williamson](https://www.happyassassin.net/2016/11/04/i-dont-like-computers/) - (2016) I don't like computers : touching testimonial... because sometimes, we also feel that the web loses us
 * [OWASP Wiki](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) - OWASP Secure coding practices
 * [Lars Kappert](https://webpro.github.io/programming-principles/) - Categorized overview of Programming Principles. [Sources](https://github.com/webpro/programming-principles)
-* [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
+* [MorganGeek](../PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 * [DigitalOcean](https://www.digitalocean.com/community/tutorials) - development and sysadmin tutorials.
 * [Gojko Adzic](https://gojko.net/posts.html) - all articles by Gojko Adzic
 * [Ozan Onay](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) - You Are Not Google
@@ -483,7 +483,7 @@ Maturity Model
 * [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
 
 ## Calm programming / Slow programming
-See also [Clean code](#clean-code-and-best-practices) and [Slow programming principles](PRINCIPLES.md#slow-programming-principles)
+See also [Clean code](#clean-code-and-best-practices) and [Slow programming principles](../PRINCIPLES.md#slow-programming-principles)
 
 I dedicate this section to the work I'm busy at, about how going faster in short term can cost you quality, money and confidence in long term. Studying relationships between quality, productivity, thinking fast & slow, slowing down, and the craft of programming.
 * :star: [**Dr. Travis Bradberry**](https://www.linkedin.com/pulse/20140805002649-50578967-how-successful-people-stay-calm) - How Successful People Stay Calm
@@ -535,7 +535,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Clean Coder Blog](http://blog.cleancoder.com/) - articles by Robert C. Martin (Uncle Bob)
 
 > Learn
-* [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
+* [MorganGeek](../PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 * [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
 * [Corinna Baldauf](http://wall-skills.com/2014/simplicity-rules-from-extreme-programming/) - (2014) Simplicity Rules (from eXtreme Programming)
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
@@ -1097,7 +1097,7 @@ psql -f db.out postgres
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ### Dotfiles / Aliases
-See also [Shell aliases](README.md#shell-aliases)
+See also [Shell aliases](../README.md#shell-aliases)
 * [Rob Miller](https://gist.github.com/robmiller/6018582) - shared .gitconfig with some useful Git aliases
 * [Richard Bateman](https://gist.github.com/taxilian/1338308) - shared .gitconfig with some useful Git aliases
 * [Harry Roberts/dotfiles](https://github.com/csswizardry/dotfiles/blob/master/.gitconfig) - shared .gitconfig with some useful Git aliases
@@ -1326,7 +1326,7 @@ See also [Shell aliases](README.md#shell-aliases)
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
 
 ## Productivity :computer:
-See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](README.md#shell-aliases)
+See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.md#shell-aliases)
 
 > News
 * [Itamar Turner-Trauring](https://codewithoutrules.com/productivity/) - Become more productive ; articles about being more productive as programmer without necessarily working longer hours
@@ -1359,7 +1359,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](README.md#
 * [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
 * [URL Encoded Characters](http://www.degraeve.com/reference/urlencoding.php) - mapping table of encoded characters in URLS (%20, %22, %7D, ...)
 * [mehcode/Awesome Atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources
-* [MorganGeek](PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
+* [MorganGeek](../PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
 * [Bash One-Liners](http://www.bashoneliners.com/) - Bash one-liners, and best practices in Bash shell scripting
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 * [jq Docs](https://stedolan.github.io/jq/manual/) - online manual for jq (a lightweight and flexible command-line JSON processor)
