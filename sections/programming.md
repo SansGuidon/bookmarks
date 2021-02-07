@@ -402,6 +402,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
 * [Logical Fallacies](https://www.logicalfallacies.org/) - 'Fallacy' : A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
 * [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
+* [Ginger Bill](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/) - (2021) The Essence of Programming
+> Many novices fall into the same trap of not understanding the problem that is trying to be solved, and are too concerned about the implementation. Teaching novices how to think about solving problems is extremely important in improving and honing in the craft.
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
