@@ -767,6 +767,8 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > * Don’t break out functions : DRY starts to go too far when two functions that happen to share a handful of lines become a target for deduplication. The test for whether some pieces of code should be deduplicated is simple: would anything bad happen if one was changed without also changing the other? If the answer is yes, then make a single source of truth for it. If not, consider leaving it alone. | :duck: self-comment : exactly... what I just wrote above :-) 
 > * Avoid configurable functions : Prefer many functions to a few, configurable functions, i.e It’s much better to have multiple functions, each of which does just one thing.
 > * Don’t prematurely optimize
+* :star: [**Phil Eaton**](https://notes.eatonphil.com/the-case-for-comments-in-code.html) - (2020) The case for comments in code
+> More so than all other tools (issue tracker, code management system, etc.) comments in code have the greatest chance of still being around and easily searchable if they haven't been deleted.
 
 ## Conferences
 > In Belgium
