@@ -1926,6 +1926,13 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Jory MacKay](https://blog.rescuetime.com/wfh-burnout-coronavirus) - (2020) How to avoid WFH burnout: 5 ways to leave work at work (even if you never leave the house)
 * [Mike Crittenden](https://critter.blog/2020/12/08/the-key-to-happiness-is-to-stop-getting-upset-all-the-dang-time/) - (2020) The key to happiness is to stop getting upset all the dang time
 * [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
+* [Tanmay Vora](http://qaspire.com/2012/09/21/a-gentle-friday-reminder-go-slow/) - (2012) A Gentle Friday Reminder: Go Slow
+> * You are moving too fast. Overwhelmed with everything, good or bad, happening around.
+> * Life is too short (really) to zoom past it.
+> * People who survive (and grow) are the ones who stay in the moment, concentrate and strive to deliver their best.
+> * Quality never comes from rushing through things.
+> * Just because you can do so many things doesn’t mean you should attempt all of them.
+> * Rushing too fast through these is a risk, it is a killer. You never savor the moment, be in the present and enjoy the process. You end up ‘doing’ so much that there is no time to ‘ruminate’
 
 ## Remote work
 > Finding a remote job
@@ -3292,6 +3299,13 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies) - Collection of common fallacies
 * [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
 * [Logical Fallacies](https://www.logicalfallacies.org/) - 'Fallacy' : A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
+* [Tanmay Vora](http://qaspire.com/2012/09/21/a-gentle-friday-reminder-go-slow/) - (2012) A Gentle Friday Reminder: Go Slow
+> * You are moving too fast. Overwhelmed with everything, good or bad, happening around.
+> * Life is too short (really) to zoom past it.
+> * People who survive (and grow) are the ones who stay in the moment, concentrate and strive to deliver their best.
+> * Quality never comes from rushing through things.
+> * Just because you can do so many things doesn’t mean you should attempt all of them.
+> * Rushing too fast through these is a risk, it is a killer. You never savor the moment, be in the present and enjoy the process. You end up ‘doing’ so much that there is no time to ‘ruminate’
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
