@@ -527,6 +527,13 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
 * [Jessica Joy Kerr aka jessitron](https://jessitron.com/2017/06/24/the-most-productive-circumstances-for/) - (2017) Hyperproductive development
 * [David John Adams aka DJ Adams](https://qmacro.org/2021/02/01/do-less-and-do-it-better/) - (2021) Do less and do it better
+* [Tanmay Vora](http://qaspire.com/2012/09/21/a-gentle-friday-reminder-go-slow/) - (2012) A Gentle Friday Reminder: Go Slow
+> * You are moving too fast. Overwhelmed with everything, good or bad, happening around.
+> * Life is too short (really) to zoom past it.
+> * People who survive (and grow) are the ones who stay in the moment, concentrate and strive to deliver their best.
+> * Quality never comes from rushing through things.
+> * Just because you can do so many things doesn’t mean you should attempt all of them.
+> * Rushing too fast through these is a risk, it is a killer. You never savor the moment, be in the present and enjoy the process. You end up ‘doing’ so much that there is no time to ‘ruminate’
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
