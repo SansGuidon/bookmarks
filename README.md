@@ -1067,6 +1067,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [your logical fallacy is](https://yourlogicalfallacyis.com/) - Thou shalt not commit logical fallacies. **Bonus** : [Printable Poster](https://yourlogicalfallacyis.com/poster)
 * [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux¨
 * [Giles Turnbull](https://gilest.org/2021/how-to-be-clear/) - (2021) How to be clear
+* [Phil Eaton](https://notes.eatonphil.com/transparency-and-communication-on-small-teams.html) - (2020) Transparency and communication on small teams
 
 ## Documentation
 > Learn
