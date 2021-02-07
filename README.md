@@ -321,6 +321,13 @@ A small group of programmers wants to change how we code—before catastrophe st
 > * if you allow configuration or scripting, you give the users a way to specify the rules that must be shared, so the tool fits their systems
 > * if you want to keep the tool simple, you have to force your users to only play within the parameters that fit this simplicity
 > * if your users' use cases don't map well to your simplicity, they will build shims around your tool to attain their objectives
+* [Steve Yegge](https://steve-yegge.blogspot.com/2007/01/pinocchio-problem.html) - (2007) The Pinocchio Problem | Great systems :
+> * should never reboot (Rebooting is Dying). 
+> * must be able to grow without rebooting.
+> * Have a command shell.
+> * Always have an extension language and a plug-in system (mods).
+> * Are introspective.
+> * Have to be a killer app, or they need one.
 
 # Art :art:
 > News
