@@ -754,6 +754,17 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Michael Foord](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - (2017) 30 best practices for software development and testing
 * [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of best practices information from around the web
 * [Dominik Krejcik](https://domk.website/blog/2021-01-31-cult-of-best-practise.html) - (2021) The Cult of Best Practice
+* [Jeremy Mikkola](https://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html) - (2021) How to write readable code
+> * Prioritize Clarity : The first step to writing clear code is to make it a priority.
+> * Develop a sense for clarity : requires knowing what clear code looks like.
+> * Edit : Reading back over what you just wrote will help give ideas for how to improve it.
+> * Start by explaining : start by explaining what needs to be done as though you are telling it to another person (or rubber duck). Write it down. Take that explanation and transform it into code.
+> * Comments : Code can’t self-document if it isn’t there. If you decide to not write some code and don’t leave a comment explaining why, there will be nothing left to explain what you were thinking!
+> * Don’t mix levels : Mixing levels of abstraction makes the reader jump between thinking about what is being done and how it is implemented.
+> * Break out functions | :duck: self-comment here : It's true to some extent, but breaking a code in too many functions can also force jumping a lot between code locations. So I would say it depends on the semantic and scope distance between those functions. 
+> * Don’t break out functions : DRY starts to go too far when two functions that happen to share a handful of lines become a target for deduplication. The test for whether some pieces of code should be deduplicated is simple: would anything bad happen if one was changed without also changing the other? If the answer is yes, then make a single source of truth for it. If not, consider leaving it alone. | :duck: self-comment : exactly... what I just wrote above :-) 
+> * Avoid configurable functions : Prefer many functions to a few, configurable functions, i.e It’s much better to have multiple functions, each of which does just one thing.
+> * Don’t prematurely optimize
 
 ## Conferences
 > In Belgium
