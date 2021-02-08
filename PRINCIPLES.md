@@ -261,6 +261,7 @@ See also [Calm programming / Slow programming](sections/programming.md#calm-prog
 * Don't react yet. Take a little time before taking action / reacting to a task/request/message. It allows you to think more about your answer / action. Also, ask yourself if you really need to take action now for this task, or if it can wait later in the day/week. Check if you're not giving the task more focus/consideration than it deserves.
   * Wait before jumping immediately on every opportunity/request/problem. Don’t touch it / don’t (re)act too soon
   * :star: Respond rather than react
+  * Before you write any code, think first about what problem this is solving and for whom. **See also** [Ref : Think first about what problem this is solving and for whom](https://letterstoanewdeveloper.com/2021/01/18/think-first-about-what-problem-this-is-solving-and-for-whom/)
 * Reuse existing code. GitHub is your friend.
 * Discipline / Consistency beat motivation and quality. 
 * You don't want heroes, but you might benefit from experts / excellents colleagues / colleagues & managers that provide support and insights and who do not let you take everyting on your plate.
