@@ -380,6 +380,7 @@
 > * if your users' use cases don't map well to your simplicity, they will build shims around your tool to attain their objectives
 * [Dave Farley](http://www.davefarley.net/?p=247) - (2018) Continuous Integration and Feature Branching
 > * TLDR; Any form of branching is antithetical to Continuous Integration.
+* [Paul Hammant](https://trunkbaseddevelopment.com/) - (2017) Trunk Based Development : This site attempts to collect all the related facts, rationale and techniques for Trunk-Based Development together in one place, complete with twenty-five diagrams to help explain things. All without using TBD as an acronym even once twice.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
