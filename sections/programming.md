@@ -776,6 +776,11 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > * Don’t prematurely optimize
 * :star: [**Phil Eaton**](https://notes.eatonphil.com/the-case-for-comments-in-code.html) - (2020) The case for comments in code
 > More so than all other tools (issue tracker, code management system, etc.) comments in code have the greatest chance of still being around and easily searchable if they haven't been deleted.
+* [Dan Moore](https://letterstoanewdeveloper.com/2021/01/18/think-first-about-what-problem-this-is-solving-and-for-whom/) - (2021) Think first about what problem this is solving and for whom
+> every time you pick up a new Jira ticket or sit down to complete a new requirement, I suggest that you ask yourself the following questions: 
+> * Who does this solve a problem for? 
+> * What is the problem they’re trying to solve? 
+> * How does this ticket solve it? 
 
 ## Conferences
 > In Belgium
