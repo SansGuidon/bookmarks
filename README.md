@@ -2316,6 +2316,7 @@ rpm --rebuilddb
 * [MorganGeek](https://gist.github.com/MorganGeek/2958ba47630a176733e0136b42557284) - (2020) Validating Jenkinsfile in Vim and/or using CLI / terminal
 * [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
 * [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
+* [VimTricks Archives](https://vimtricks.substack.com/archive) - Vim tricks, tips, plugins, recipes, and more. Learn valuable tips to hone your Vim skills - either novice or advanced!
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
