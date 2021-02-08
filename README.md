@@ -2528,7 +2528,7 @@ type `curl ident.me` to know your public ip
 * [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
 * [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
 * [reddit](https://www.reddit.com/controversial/) - most controversial links
-* :star: [**sebsauvage**](http://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
+* :star: [**sebsauvage**](https://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
 * [Korben](https://korben.info/) - :fr: [FR] Upgrade your mind
 * [Matthieu Lesne aka coreight](https://coreight.com/) - :fr: [FR] Le blog d'infos et astuces web; high tech
 * [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
@@ -2933,9 +2933,10 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [/r/encryption](https://www.reddit.com/r/encryption/) - everything about encryption on reddit
 * [/r/privacy](https://www.reddit.com/r/privacy/) - everything about privacy on reddit
 * [/r/pwned](https://www.reddit.com/r/pwned/) - data breaches, site defacements, rm's, hack logs
-* :star: [**sebsauvage**](http://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
+* :star: [**sebsauvage**](https://sebsauvage.net/links/?searchtags=privacy) - :fr: [FR] Liens en vrac de sebsauvage
 * [DuckDuckGo](https://spreadprivacy.com/privacy-tips/home) - Fix Tracking : how to stop getting tracked on desktop and mobile
 * [PrivacyAngel](https://privacyangel.com/) - Better protect your privacy online | Know which data you share for each popular online services.
+* [DesGeeksetdeslettres](https://desgeeksetdeslettres.com/) - :fr: [FR] fournit des outils et des connaissances pour protéger votre vie privée contre la surveillance massive mondiale. Ce blog anime depuis 2009 une communauté florissante d'individus soucieux de la protection de la vie privée et s'informe au jour le jour des nouvelles avancées en matière de protection de vos données en ligne.
 
 > Learn
 * [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
