@@ -61,7 +61,7 @@
 * As a developer you should strive to at least understand one level of abstraction deeper than you work on - [Scott Davis](https://twitter.com/danielbryantuk/status/919866216222724096)
 * [DhilipSiva Bijju](http://dhilipsiva.blogspot.be/2013/06/best-practices.html) - (2013) some Best Practices. **Bonus** : [Related GitHub repo](https://github.com/dhilipsiva/best-practices)
 * Keep your code absolutely simple. Keep looking at your functions and figure out how you simplify further - [John Romero](https://twitter.com/CodeWisdom/status/926568192729894912)
-* Fix it immediately, but plan for the future fix. Document the fix. Automate the solution. [Adam Bertram](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips)
+* Fix it immediately, but plan for the long-term resolution. Document the short-term fix. Automate the solution. [Adam Bertram](https://www.pluralsight.com/blog/it-ops/troubleshooting-tips)
 * Finding errors in your past decisions and ideas means you’re progressing. - [Greg Kogan](https://www.gkogan.co/blog/progression/)
 * You can’t go fast when everyone is spending their time fighting with the poor decisions of yesterday - [Adam Chester](https://twitter.com/adamchester/status/925479016798109696)
 * Better to Say "Oops" Than "What If…" (= avoid analysis-paralysis, or paralysis by analysis, aka the state of over-analyzing / over-thinking)
@@ -152,7 +152,7 @@
 * Say thanks
 * Smile
 * Give, share
-* Take time for you, for important things and people
+* :star: Take time for you, for important things and people
 * Keep in touch, maintain friendship
 * Market yourself. You're putting on the effort, make sure you show it
 * Go right to the point
@@ -220,8 +220,7 @@
 * When you communicate a hard decision, don't hide behind emails, talk directly to your audience
 * Use the [SBI tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) (Situation - Behavior - Impact)
 * Assertiveness is ability to say yes to the person, no to the task
-* Respond rather than react
-* Prepare, verify carefully what you will communicate
+* :star: Prepare, verify carefully what you will communicate
 * Check if your message has been heard and understood
 * Expect / Give feedback
 * Know the 7 C's : Clear Concise Concrete Correct Coherent Complete Courteous
@@ -252,15 +251,16 @@ See also [Calm programming / Slow programming](sections/programming.md#calm-prog
 * Refactoring can only truly begin once you've actually learned what a piece of code or some data structure did, the unique properties for which they were written or chosen. Anything else is setting yourself up for failure. [source](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html)
 * It also means that when building systems, you should not assume that operators will do things correctly. Expect failure from people. Try to think about tools you can give them to undo their mistakes, because they will happen sooner or later. Have some dread. Be understanding. Know things won't be perfect. [source](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html)
 * Study your tools, see how you work, understand how you can improve it. Don't rush. Before you run, you have to learn to walk. 
-* Wait before jumping on every opportunity/request/problem. Don’t touch it / don’t act too soon
-* Do one thing at a time. Only one item under your name in the WIP. The rest will wait. 
+* Do one thing at a time. Only one item under your name in the WIP. The rest will wait. You cannot fix all things.
 * Test the crap out of everything you do before telling anyone you are "finished". See also [Ref : Being a slow programmer](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/)
 * Use right tools for the job (email != todo list, PR and commits != code documentation, Jenkins != long term storage for releases/versions/build info/state of quality of your code)
 * Love what you have. Using boring technology. Don't get distracted too often with shiny tools that reinvent the wheel.
 * Write less code, read more than you write. Read more tips, manuals, blogs, articles, watch presentations and listen to podcasts about your programming craft. Learn from others prior to writing bugs. As with culture and and knowledge, you are the books you read, the films you watch, the music you listen to, the people you spend time with, the conversations you engage in. Choose wisely what you feed your mind with, and it's true with code as well. See also [Ref : Being a slow programmer](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/) and [Ref : Learn to Read the Source, Luke](https://blog.codinghorror.com/learn-to-read-the-source-luke/)
 * Learn how to write clean code, and repeat. So when you will have to rush, you will not forget to do your work right, and you will naturally provide more quality work. Also you will tend to detect issues earlier before they hit production, i.e during reviews, and writing better code will lead the whole team in getting a better codebase you can all be proud of, which mean work will become more agreeable. 
 * Do your research, don't always rush in coding or in reinventing the wheel. You will learn a lot through research.
-* Take a little time before taking action / reacting to a task/request/message. It allows you to think more about your answer / action. Also, ask yourself if you really need to take action now for this task, or if it can wait later in the day/week. Check if you're not giving the task more focus/consideration than it deserves.
+* Don't react yet. Take a little time before taking action / reacting to a task/request/message. It allows you to think more about your answer / action. Also, ask yourself if you really need to take action now for this task, or if it can wait later in the day/week. Check if you're not giving the task more focus/consideration than it deserves.
+  * Wait before jumping immediately on every opportunity/request/problem. Don’t touch it / don’t (re)act too soon
+  * :star: Respond rather than react
 * Reuse existing code. GitHub is your friend.
 * Discipline / Consistency beat motivation and quality. 
 * You don't want heroes, but you might benefit from experts / excellents colleagues / colleagues & managers that provide support and insights and who do not let you take everyting on your plate.
