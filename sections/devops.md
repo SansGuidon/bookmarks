@@ -383,7 +383,7 @@
 * [Dave Farley](http://www.davefarley.net/?p=247) - (2018) Continuous Integration and Feature Branching
 > * TLDR; Any form of branching is antithetical to Continuous Integration.
 * [Paul Hammant](https://trunkbaseddevelopment.com/) - (2017) Trunk Based Development : This site attempts to collect all the related facts, rationale and techniques for Trunk-Based Development together in one place, complete with twenty-five diagrams to help explain things. All without using TBD as an acronym even once twice.
-* [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, Charity Major | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
+* [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, with Charity Majors aka mipsytipsy | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
