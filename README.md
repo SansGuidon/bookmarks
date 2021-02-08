@@ -2674,6 +2674,7 @@ See also [Monitoring](#monitoring)
 * [ops.tips](https://ops.tips/) - articles, tutorials and guides about cloud-native technologies: AWS, Golang, Containers, Linux, Infrastructure as a Service and DevOps. **Shortcuts :** [All gists](https://ops.tips/gists/) and [All articles](https://ops.tips/blog/)
 * [O11ycast](https://www.heavybit.com/library/podcasts/o11ycast/) - Exploring the observability side of software development.
 * [Jan Schaumann](https://www.netmeister.org/blog/ops-lessons.html) - (2020) (A few) Ops Lessons We All Learn The Hard Way
+* [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, Charity Major | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -2914,6 +2915,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Podflix](https://podflix.app/) - It's Kinda Like Netflix for Podcasts!
 * [Blog Histoire](https://blog-histoire.fr/) - :fr: [FR] L'Histoire en podcast
 * [O11ycast](https://www.heavybit.com/library/podcasts/o11ycast/) - Exploring the observability side of software development.
+* [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, Charity Major | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
