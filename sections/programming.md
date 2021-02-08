@@ -248,7 +248,7 @@
 * [Jim Bird](http://swreflections.blogspot.be/2014/08/feature-toggles-are-one-of-worst-kinds.html) - (2014) Feature Toggles are one of the worst kinds of Technical Debt
 * [Jez Humble](https://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/) - (2011) Make Large Scale Changes Incrementally with Branch By Abstraction
 * [Paul Hammant](https://paulhammant.com/blog/branch_by_abstraction.html) - (2007) Introducing Branch By Abstraction
-* [Trunk Based Development](https://trunkbaseddevelopment.com/) - all the related facts, rationale and techniques for Trunk-Based Development
+* [Paul Hammant](https://trunkbaseddevelopment.com/) - (2017) Trunk Based Development : This site attempts to collect all the related facts, rationale and techniques for Trunk-Based Development together in one place, complete with twenty-five diagrams to help explain things. All without using TBD as an acronym even once twice.
 * [Martin Fowler](https://www.martinfowler.com/bliki/FeatureBranch.html) - (2009) FeatureBranch | and dangers of feature branching
 * [Martin Fowler](https://www.martinfowler.com/bliki/FeatureToggle.html) - (2010) FeatureToggle | feature toggles as an alternative to evil feature branching
 * [Fernando Rubbo  ](https://fernandorubbo.blogspot.be/2013/03/feature-toggles-good-or-bad.html) - (2013) Feature toggles: good or bad
