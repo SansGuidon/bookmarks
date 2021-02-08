@@ -1740,6 +1740,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt.
  :video_game:
 * [Viking Board Game](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
+* [Soldat/soldat](https://github.com/Soldat/soldat) - Soldat is a unique 2D (side-view) multiplayer action game | :duck: and I have played it for years :-) (nostalgia)
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
