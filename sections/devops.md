@@ -75,6 +75,8 @@
 * [Devops Engineers](https://devopsengineers.com/) - A group of engineers talking about devops related topics in a Slack channel
 * [DevOpsChat](https://devopschat.co/) - Get involved with the Largest DevOps Slack Community
 * [SweetOps](https://slack.cloudposse.com/) - is a collaborative DevOps community for engineers of all skill levels, sponsored by Cloud Posse.
+* [A Cloud Guru Blog](https://acloudguru.com/blog) - Cloud Technology Updates and More | Stay up to date on what's happening in technology, industry insights, technical skills development and all things cloud learning, and cloud certifications.
+* [Honeycomb Blog](https://www.honeycomb.io/blog/) - Honeycomb helps engineering teams deeply understand their own production systems through observability. Their mission : Give all software engineering teams the observability they need to eliminate toil and delight their users.
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
@@ -381,6 +383,7 @@
 * [Dave Farley](http://www.davefarley.net/?p=247) - (2018) Continuous Integration and Feature Branching
 > * TLDR; Any form of branching is antithetical to Continuous Integration.
 * [Paul Hammant](https://trunkbaseddevelopment.com/) - (2017) Trunk Based Development : This site attempts to collect all the related facts, rationale and techniques for Trunk-Based Development together in one place, complete with twenty-five diagrams to help explain things. All without using TBD as an acronym even once twice.
+* [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, Charity Major | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
