@@ -378,6 +378,8 @@
 > * if you allow configuration or scripting, you give the users a way to specify the rules that must be shared, so the tool fits their systems
 > * if you want to keep the tool simple, you have to force your users to only play within the parameters that fit this simplicity
 > * if your users' use cases don't map well to your simplicity, they will build shims around your tool to attain their objectives
+* [Dave Farley](http://www.davefarley.net/?p=247) - (2018) Continuous Integration and Feature Branching
+> * TLDR; Any form of branching is antithetical to Continuous Integration.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
