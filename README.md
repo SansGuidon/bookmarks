@@ -1068,6 +1068,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux¨
 * [Giles Turnbull](https://gilest.org/2021/how-to-be-clear/) - (2021) How to be clear
 * [Phil Eaton](https://notes.eatonphil.com/transparency-and-communication-on-small-teams.html) - (2020) Transparency and communication on small teams
+* [Brené Brown](https://brenebrown.com/blog/2018/10/15/clear-is-kind-unclear-is-unkind/) - (2018) Clear is Kind. Unclear is Unkind.
+* [Mike Crittenden](https://critter.blog/2020/08/13/clear-is-kind-unclear-is-unkind/) - (2020) Clear is kind, unclear is unkind
 
 ## Documentation
 > Learn
