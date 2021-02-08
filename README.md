@@ -2675,6 +2675,7 @@ See also [Monitoring](#monitoring)
 * [O11ycast](https://www.heavybit.com/library/podcasts/o11ycast/) - Exploring the observability side of software development.
 * [Jan Schaumann](https://www.netmeister.org/blog/ops-lessons.html) - (2020) (A few) Ops Lessons We All Learn The Hard Way
 * [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, with Charity Majors aka mipsytipsy | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
+* [Charity Majors](https://www.honeycomb.io/blog/the-future-of-ops-careers/) - (2020) The Future of Ops Careers. **See also** : [Christine Yen](https://www.honeycomb.io/blog/the-future-of-developer-careers/) on the same blog.
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
