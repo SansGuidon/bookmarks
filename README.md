@@ -27,7 +27,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Anime](#anime-jp)
 * [Architecture / Design / Patterns](#architecture--design--patterns)
 * [Art :art:](#art-art)
-* [Books](#books--reading-books)
+* [Books / Reading](#books--reading-books)
 * [Business & Economics](#business--economics)
   * [Cryptocurrency](#cryptocurrency)
 * [CLI Tools](#cli-tools)
