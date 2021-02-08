@@ -1359,7 +1359,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [iDope](https://idope.se/) - torrent indexer / tribute to kickass
 * [Extreme Download](https://www.extreme-down.one/home.html) - [FR] :fr: a good place to find direct download links for various content
 * [Zone Telechargement](https://www.zone-telechargement.ws/) - [FR] :fr: an alternative place to find direct download links
-* [Torrent9](http://www.torrent9.cc/) - [FR] :fr: Torrent9 because T411 ~~starts to suck~~ is out of business
+* [Torrent9](https://www.torrent9.sh/) - [FR] :fr: Torrent9 because T411 ~~starts to suck~~ is out of business. **See also** their official [Twitter account](https://twitter.com/torrent9_) to keep up in case the URL would change again (which is likely to happen).
 * [torrents.me](https://torrents.me/) - good torrent indexer (lot of content), but results quality may depend on your criteria
 * [TorrentProject](https://torrentproject.se/) - torrent indexer with lot of content
 * [TwoDDL](https://2ddl.unblocked.srl/) - a place for direct download links, but not the best
