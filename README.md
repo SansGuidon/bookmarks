@@ -2929,14 +2929,19 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Mike Johnson](https://www.mikesgearreviews.com/navy-seals-survival-hacks/) - Survival Mindset of the Navy SEALs: 7 Mind Hacks To Survive Anything
 
 # Privacy
-* [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
-* [Walker Harrison](https://dev.to/walker/the-search-for-self-how-to-obtain-and-analyze-your-history-of-google-searches) - The Search for Self: How to obtain and analyze your history of Google searches
+> News
 * [/r/encryption](https://www.reddit.com/r/encryption/) - everything about encryption on reddit
 * [/r/privacy](https://www.reddit.com/r/privacy/) - everything about privacy on reddit
-* [Fried](https://fried.com/privacy/) - introduction guide to online privacy. a bit outdated on some advices
-* [/r/pwned](https://www.reddit.com/r/pwned/) -  data breaches, site defacements, rm's, hack logs
-* [Golden Frog](https://www.goldenfrog.com/blog/myths-about-vpn-logging-and-anonymity) - I Am Anonymous When I Use a VPN – 10 Myths Debunked
+* [/r/pwned](https://www.reddit.com/r/pwned/) - data breaches, site defacements, rm's, hack logs
+* :star: [**sebsauvage**](http://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
 * [DuckDuckGo](https://spreadprivacy.com/privacy-tips/home) - Fix Tracking : how to stop getting tracked on desktop and mobile
+* [PrivacyAngel](https://privacyangel.com/) - Better protect your privacy online | Know which data you share for each popular online services.
+
+> Learn
+* [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
+* [Walker Harrison](https://dev.to/walker/the-search-for-self-how-to-obtain-and-analyze-your-history-of-google-searches) - The Search for Self: How to obtain and analyze your history of Google searches
+* [Fried](https://fried.com/privacy/) - introduction guide to online privacy. a bit outdated on some advices
+* [Golden Frog](https://www.goldenfrog.com/blog/myths-about-vpn-logging-and-anonymity) - I Am Anonymous When I Use a VPN – 10 Myths Debunked
 * [Google](https://www.google.com/safetycenter/everyone/start/) - Google' guide : How to keep your stuff secure and private
 * [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions
 * [Steven J. Vaughan-Nichols](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/) - How to secure Windows 10: The paranoid's guide
@@ -2952,7 +2957,6 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [JC Brand](https://opkode.com/blog/slacks-bait-and-switch/) - (2018) Slack's bait and switch | We all know the real reason Slack has closed off their gateways. Their business model dictates that they should. They're a typical walled garden, information silo or Siren Server
 * [Bozhidar Bozhanov](https://techblog.bozho.net/gdpr-practical-guide-developers/) - (2017) GDPR – A Practical Guide For Developers
 * [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
-* [PrivacyAngel](https://privacyangel.com/) - Better protect your privacy online | Know which data you share for each popular online services.
 * [Sven Slootweg](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) - (2015) Don't use VPN services.
 > Because a VPN in this sense is just a glorified proxy. The VPN provider can see all your traffic, and do with it what they want - including logging.
 * [Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html) - (2019) VPN - a Very Precarious Narrative
