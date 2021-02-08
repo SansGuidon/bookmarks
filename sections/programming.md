@@ -404,6 +404,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
 * [Ginger Bill](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/) - (2021) The Essence of Programming
 > Many novices fall into the same trap of not understanding the problem that is trying to be solved, and are too concerned about the implementation. Teaching novices how to think about solving problems is extremely important in improving and honing in the craft.
+* [Christine Yen](https://www.honeycomb.io/blog/the-future-of-developer-careers/) - (2020) The Future of Developer Careers. **See also** : (2020) [The Future of Ops Careerss by Charity Majors](https://www.honeycomb.io/blog/the-future-of-ops-careers/) on the same blog.
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
