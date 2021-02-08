@@ -34,6 +34,7 @@
 * [CloudBees](https://www.youtube.com/channel/UCKlF3GIFy9KVUefVbycx_vw) - CloudBees TV Youtube Channel
 * [DZone](https://dzone.com/devops-tutorials-tools-news/list) - DZone Devops latest articles
 * [/r/devops](https://www.reddit.com/r/devops/) - Everything Devops on reddit
+* [/r/cicd](https://www.reddit.com/r/cicd/) - Everything CI/CD on reddit
 * [Netflix](https://medium.com/@NetflixTechBlog) - NetFlix Technology Blog
 * [Netflix](https://medium.com/netflix-techblog) - Netflix TechBlog
 * [DEV](https://dev.to/t/devops) - DevOps related articles on dev.to()
