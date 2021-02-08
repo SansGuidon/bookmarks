@@ -27,7 +27,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Anime](#anime-jp)
 * [Architecture / Design / Patterns](#architecture--design--patterns)
 * [Art :art:](#art-art)
-* [Books](#books-books)
+* [Books](#books--reading-books)
 * [Business & Economics](#business--economics)
   * [Cryptocurrency](#cryptocurrency)
 * [CLI Tools](#cli-tools)
@@ -375,7 +375,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
 * [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 
-# Books :books:
+# Books / Reading :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
 
 > Learn
