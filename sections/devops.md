@@ -881,6 +881,7 @@ See also [Infrastructure](README.md#infrastructure)
 * [CloudBees](https://support.cloudbees.com/hc/en-us/articles/226122247-How-to-Customize-Checkout-for-Pipeline-Multibranch) - How to Customize Checkout for Pipeline Multibranch
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/jenkins-blueocean) - Q&A about Blue Ocean
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/jenkins-pipeline) - Q&A about Jenkins pipeline
+* [/r/jenkinsci](https://www.reddit.com/r/jenkinsci/) - Jenkins Automation Server on Reddit.
 * [Jenkins Governance Meeting Agenda](https://wiki.jenkins.io/display/JENKINS/Governance+Meeting+Agenda#GovernanceMeetingAgenda-MeetingDates/Archives) - all internal meetings and decision notes, since 2011. Very interesting
 * [Joel Wilsson](https://wjoel.com/posts/ansible-jenkins-pipeline-part-1.html) - Creating Jenkins pipelines with Ansible, Part 1. See also [Part 2](https://wjoel.com/posts/ansible-jenkins-pipeline-part-2.html)
 * [Robert Sandell / James Nord](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-no_you_shouldnt_do_that_lessons_from_using_pipeline.pdf) - No, You Shouldn't Do That! Lessons from Using Pipeline
