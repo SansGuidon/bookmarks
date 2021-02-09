@@ -93,3 +93,4 @@
 * Give me six hours to chop down a tree and I will spend the first four sharpening the axe. Abraham Lincoln
 * Leadership is the ability to hide your panic from others. Lao Tzu
 * No code is faster than no code. - Merb Motto
+* Make sure your worst enemy doesn't live between your two ears. Laird Hamilton
