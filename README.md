@@ -5347,6 +5347,7 @@ Raw
 * [Daniel Miessler](https://danielmiessler.com/blog/job-losses-automation-active-passive/) - (2019) Job Losses from Automation Are Being Actively Engineered and Funded
 * [Neo-Luddism](https://en.wikipedia.org/wiki/Neo-Luddism) - Neo-Luddism or new Luddism is a philosophy opposing many forms of modern technology.
 * [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
+* [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 
 # Shell scripting
 See also [CLI Tools](#cli-tools)
