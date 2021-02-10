@@ -1023,6 +1023,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > - On the other hand, lets say that instead we first come up with a clear overarching plan for what we’re doing. This makes it much more likely the outcome will be coherent. But the price we pay is having to handle the complexity of the entire challenge all at once.
 * [Async Manifesto](http://asyncmanifesto.org/) - (2014) Manifesto for Async Software Development | Principles of Async Software Development
 * [Brandolini's law](https://en.wikipedia.org/wiki/Brandolini%27s_law) - also known as the bullshit asymmetry principle, is an internet adage which emphasizes the difficulty of debunking bullshit: "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it."
+* [Allen Holub](https://holub.com/improvement-boards/) - (2018) The improvement board
+> Improvement is something we should do all the time, not once every two weeks in a retrospective. When a problem emerges, don't wait. Fix it. Do everything you can to instill a culture of continuous improvement throughout the organization. An improvements board is one way to do that in the small.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -3611,6 +3613,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
 
 # Robots
+See also [Machine learning](sections/programming.md#machine-learning)
 * [Mubashar Iqbal](https://willrobotstakemyjob.com/) - Will robots take my job ? Make the test ;-)
 * [/r/Automate](https://www.reddit.com/r/Automate/) - automation & robots discussion on reddit
 * [/r/totallynotrobots](https://www.reddit.com/r/totallynotrobots/) - a place where ~~robots~~ humans share their thoughts (humor)
