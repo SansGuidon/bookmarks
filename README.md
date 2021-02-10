@@ -1936,6 +1936,22 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Quality never comes from rushing through things.
 > * Just because you can do so many things doesn’t mean you should attempt all of them.
 > * Rushing too fast through these is a risk, it is a killer. You never savor the moment, be in the present and enjoy the process. You end up ‘doing’ so much that there is no time to ‘ruminate’
+* [Tielle Webb](https://smallbusiness.chron.com/less-negative-workplace-30675.html) - (2013) How to Be Less Negative in the Workplace
+> * Take responsibility for your own happiness at work.
+> * Find something to be thankful for every time you complain or feel annoyed : Make a list of five things that you appreciate about your job every day.
+> * Change things that upset you about your workplace if it is in your power to do so.
+> * Try something new. People often feel discontent at work when they are bored or unchallenged.
+> * Avoid others with negative attitudes.
+* [Shelley Frost](https://smallbusiness.chron.com/maximize-job-satisfaction-21414.html) - (2012) How to Maximize Job Satisfaction
+> 1. Write a list of the benefits and positive aspects of your job
+> 2. List the parts of your job that take away from your satisfaction.
+> 3. Identify the factors on your list of job negatives that you can change.
+> 4. Create an action plan for changing the negative aspects of your job.
+> 5. Educate yourself through training sessions or additional degrees to open up more opportunities at work.
+> 6. Set your own goals at the office to give yourself something to work toward.
+> 7. Participate actively in workplace decisions and communication when possible.
+> 8. Set boundaries for work by only performing work duties at the office.
+> 9. Remind yourself that you're fortunate to have a job in a tough economy. Refer to your list of positives about the job if you begin feeling negatively toward your work.
 
 ## Remote work
 > Finding a remote job
