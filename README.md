@@ -1025,6 +1025,11 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Brandolini's law](https://en.wikipedia.org/wiki/Brandolini%27s_law) - also known as the bullshit asymmetry principle, is an internet adage which emphasizes the difficulty of debunking bullshit: "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it."
 * [Allen Holub](https://holub.com/improvement-boards/) - (2018) The improvement board
 > Improvement is something we should do all the time, not once every two weeks in a retrospective. When a problem emerges, don't wait. Fix it. Do everything you can to instill a culture of continuous improvement throughout the organization. An improvements board is one way to do that in the small.
+* [Jason Fried](https://signalvnoise.com/posts/3124-give-it-five-minutes) - (2012) Give it five minutes
+> * The faster you react, the less you think. Not always, but often.
+> * It’s fine to disagree, it’s fine to push back, it’s great to have strong opinions and beliefs, but give my ideas some time to set in before you’re sure you want to argue against them.
+> * There’s also a difference between asking questions and pushing back. Pushing back means you already think you know. Asking questions means you want to know. Ask more questions.
+> * So next time you hear something, or someone, talk about an idea, pitch an idea, or suggest an idea, give it five minutes. Think about it a little bit before pushing back, before saying it’s too hard or it’s too much work. Those things may be true, but there may be another truth in there too: It may be worth it.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
