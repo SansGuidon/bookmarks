@@ -3030,6 +3030,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Hacker News](https://hn.algolia.com/?query=tips&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Tips
 * [Hacker News](https://hn.algolia.com/?query=productivity&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month Productivity news
 * [The Knowledge Project](https://www.fs.blog/the-knowledge-project/) - [Podcast] Podcast by Shane Parrish to uncover frameworks YOU can use to learn more in less time, make better decisions, and live a happier and more meaningful life.
+* [Farnam Street](https://fs.blog/category/productivity/) - Articles about productivity
 
 > Learn
 * [Urban Dictionary](http://www.urbandictionary.com/) - online dictionary of slang words and phrases
