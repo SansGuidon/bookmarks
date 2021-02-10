@@ -782,6 +782,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > * Who does this solve a problem for? 
 > * What is the problem they’re trying to solve? 
 > * How does this ticket solve it? 
+* [Semgrep](https://semgrep.dev/) - Static analysis at ludicrous speed. Find bugs and enforce code standards
 
 ## Conferences
 > In Belgium
