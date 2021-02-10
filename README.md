@@ -1952,6 +1952,11 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > 7. Participate actively in workplace decisions and communication when possible.
 > 8. Set boundaries for work by only performing work duties at the office.
 > 9. Remind yourself that you're fortunate to have a job in a tough economy. Refer to your list of positives about the job if you begin feeling negatively toward your work.
+* [Nancy Lovering](https://smallbusiness.chron.com/productive-work-perfectionist-22559.html) - (2013) How to Be More Productive at Work if You're a Perfectionist
+> 1. Measure progress instead of perfection. While quality is of utmost importance and should not be disregarded in favor of expedited task completion, finding a balance between getting it right and getting it done will allow you to be more productive.
+> 2. Recognize how perfectionism can actually reduce the quality of your work when it leads to procrastination. A common pitfall of perfectionists, procrastination leaves you with inadequate project completion time to get the results you are truly capable of.
+> 3. Stop comparing yourself to other employees. The urge to be competitive can enhance perfectionist tendencies.
+> 4. Consider what the company requires from you, rather than what you want to see from yourself. Task completion is critical to business workflow, and what your inner perfectionist sees as substandard work may actually be within the acceptable range to meet business needs.
 
 ## Remote work
 > Finding a remote job
@@ -3337,6 +3342,11 @@ See also [Operations / IT OPS](#operations--it-ops)
 > * Quality never comes from rushing through things.
 > * Just because you can do so many things doesn’t mean you should attempt all of them.
 > * Rushing too fast through these is a risk, it is a killer. You never savor the moment, be in the present and enjoy the process. You end up ‘doing’ so much that there is no time to ‘ruminate’
+* [Nancy Lovering](https://smallbusiness.chron.com/productive-work-perfectionist-22559.html) - (2013) How to Be More Productive at Work if You're a Perfectionist
+> 1. Measure progress instead of perfection. While quality is of utmost importance and should not be disregarded in favor of expedited task completion, finding a balance between getting it right and getting it done will allow you to be more productive.
+> 2. Recognize how perfectionism can actually reduce the quality of your work when it leads to procrastination. A common pitfall of perfectionists, procrastination leaves you with inadequate project completion time to get the results you are truly capable of.
+> 3. Stop comparing yourself to other employees. The urge to be competitive can enhance perfectionist tendencies.
+> 4. Consider what the company requires from you, rather than what you want to see from yourself. Task completion is critical to business workflow, and what your inner perfectionist sees as substandard work may actually be within the acceptable range to meet business needs.
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
