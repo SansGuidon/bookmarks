@@ -95,3 +95,4 @@
 * No code is faster than no code. - Merb Motto
 * Make sure your worst enemy doesn't live between your two ears. Laird Hamilton
 * People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things. - Steve Jobs
+* Constantly running after productivity just leads to waste. Run towards value instead. If you focus on getting value out the door as effectively as possible, productivity will take care of itself. [Allen Holub](https://twitter.com/allenholub/status/1359219232282562563)
