@@ -535,6 +535,11 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > * Quality never comes from rushing through things.
 > * Just because you can do so many things doesn’t mean you should attempt all of them.
 > * Rushing too fast through these is a risk, it is a killer. You never savor the moment, be in the present and enjoy the process. You end up ‘doing’ so much that there is no time to ‘ruminate’
+* [Jason Fried](https://signalvnoise.com/posts/3124-give-it-five-minutes) - (2012) Give it five minutes
+> * The faster you react, the less you think. Not always, but often.
+> * It’s fine to disagree, it’s fine to push back, it’s great to have strong opinions and beliefs, but give my ideas some time to set in before you’re sure you want to argue against them.
+> * There’s also a difference between asking questions and pushing back. Pushing back means you already think you know. Asking questions means you want to know. Ask more questions.
+> * So next time you hear something, or someone, talk about an idea, pitch an idea, or suggest an idea, give it five minutes. Think about it a little bit before pushing back, before saying it’s too hard or it’s too much work. Those things may be true, but there may be another truth in there too: It may be worth it.
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
