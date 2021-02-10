@@ -1957,6 +1957,15 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > 2. Recognize how perfectionism can actually reduce the quality of your work when it leads to procrastination. A common pitfall of perfectionists, procrastination leaves you with inadequate project completion time to get the results you are truly capable of.
 > 3. Stop comparing yourself to other employees. The urge to be competitive can enhance perfectionist tendencies.
 > 4. Consider what the company requires from you, rather than what you want to see from yourself. Task completion is critical to business workflow, and what your inner perfectionist sees as substandard work may actually be within the acceptable range to meet business needs.
+* [Shelley Frost](https://smallbusiness.chron.com/motivate-myself-work-11860.html) - (2012) How Do I Motivate Myself at Work?
+> 1. Write down factors that drain your motivation. Create a plan to deal with each of the motivation roadblocks.
+> 2. Identify your long-term career goals. Determine how your current job responsibilities will help you achieve those goals. Keep your future goals in mind to help you get through tasks you may not want to complete in your current position.
+> 3. Start your day with a positive thought. Set one positive goal for the day to motivate you toward success.
+> 4. Stop yourself when you begin with negative thoughts about your job. Reword the thoughts to turn them positive such as looking for alternative solutions rather than calling the current idea a failure.
+> 5. Dress professionally as a motivational force. Buy new work clothes as an extra incentive to work hard in the office.
+> 6. Reduce your stress levels to better deal with work tasks. Learn to breathe deeply and visualize success to keep stress levels in check.
+> 7. Take care of your physical needs through regular exercise, a healthy diet and sufficient sleep. When you feel better physically, you are better able to tackle work duties and stay motivated.
+> 8. Focus on your workplace successes. Look back at the professional moments that make you proud to motivate yourself to aim for further successful moments.
 
 ## Remote work
 > Finding a remote job
