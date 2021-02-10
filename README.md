@@ -1966,6 +1966,13 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > 6. Reduce your stress levels to better deal with work tasks. Learn to breathe deeply and visualize success to keep stress levels in check.
 > 7. Take care of your physical needs through regular exercise, a healthy diet and sufficient sleep. When you feel better physically, you are better able to tackle work duties and stay motivated.
 > 8. Focus on your workplace successes. Look back at the professional moments that make you proud to motivate yourself to aim for further successful moments.
+* [Allen Holub](https://holub.com/noaccountability/) - (2021) #NoAccountability. 
+> * The notion of accountability—and its lesser cousin, responsibility—often pop up in the context of business, as if both of those ideas are good things. A culture of accountability, we’re told, is essential to running a business. I don’t buy any of it. A culture of accountability is actively destructive, and responsibility isn’t exactly positive, either.
+> * Also, the notion elevates the individual over the team. To me, effective teams are collaborative, and that applies recursively. The notion of  “individual accountability” spits in the face of collaborative teamwork.
+> * Accountability is all about external force. You are accountable to your boss, who will punish you if you don’t succeed. You are accountable to your team, which will somehow punish you if you “screw up.” Responsibility is not much better. It’s implies self shaming: You are responsible for X. You took on that responsibility voluntarily! You should be ashamed that you didn’t do it!
+> * Both terms imply a culture of violence, to borrow a notion from Bob Marshall. Violence is not conducive to agility.
+> * A healthy relationship is about collaboration and sharing, not power. The words “accountable” and “responsible” simply won’t come up in the context of dishes (or anything else) in a healthy relationship. The drivers are love and respect, not obligation.
+> * At work, would you rather do a good job because you were responsible for something and held accountable when you fail, or because the work was gratifying and made you feel good?
 
 ## Remote work
 > Finding a remote job
