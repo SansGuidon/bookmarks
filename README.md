@@ -1138,6 +1138,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 ## Onboarding
 * [Ingrid Towey](https://opensource.com/open-organization/17/9/culture-building-onboarding-buddies) - Growing your team's open culture, one buddy at a time
 * [GitLab Docs](https://about.gitlab.com/handbook/people-group/general-onboarding/) - Onboarding at GitLab
+* [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 
 # Creativity :bulb:
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
