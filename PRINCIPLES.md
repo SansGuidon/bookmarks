@@ -262,6 +262,7 @@ See also [Calm programming / Slow programming](sections/programming.md#calm-prog
   * Wait before jumping immediately on every opportunity/request/problem. Don’t touch it / don’t (re)act too soon
   * :star: Respond rather than react
   * Before you write any code, think first about what problem this is solving and for whom. **See also** [Ref : Think first about what problem this is solving and for whom](https://letterstoanewdeveloper.com/2021/01/18/think-first-about-what-problem-this-is-solving-and-for-whom/)
+  * The faster you react, the less you think. Not always, but often. [Ref : Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes) 
 * Reuse existing code. GitHub is your friend.
 * Discipline / Consistency beat motivation and quality. 
 * You don't want heroes, but you might benefit from experts / excellents colleagues / colleagues & managers that provide support and insights and who do not let you take everyting on your plate.
