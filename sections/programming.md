@@ -1225,10 +1225,9 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Groovy+Hook+Script) - Groovy Hook Scripts
 * [PLEAC-Groovy](http://pleac.sourceforge.net/pleac_groovy/) - implementation of the Solutions of the Perl Cookbook in the Groovy language
 * [Groovy web console](https://groovyconsole.appspot.com/) - a website for sharing and executing Groovy programming snippets of code!
-* [MorganGeek](cheat/groovy.md) - groovy cheatsheet / tips
+* [MorganGeek](../cheat/groovy.md) - groovy cheatsheet / tips | My cheatsheet for Groovy
 * [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile / Groovy syntax
 * [Denny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-jenkins-groovy-a4) - (2018) CheatSheet: Jenkins & Groovy
-* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/groovy.md) - My cheatsheet for Groovy
 
 ## Haskell
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
