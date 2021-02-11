@@ -2494,6 +2494,7 @@ rpm --rebuilddb
 * [A Soft Murmur](https://asoftmurmur.com/) - Ambient sounds to wash away distraction.
 * [Noisli](https://www.noisli.com/) - Improve focus and boost your productivity | Mix different sounds and create your perfect environment.
 * [musicForProgramming](https://musicforprogramming.net/) - Music possessing these qualities can often provide just the right amount of interest to occupy the parts of your brain that would otherwise be left free to wander and lead to distraction during your work.
+* [Marc Allard](https://www.lesoleil.com/chroniques/marc-allard/nous-sommes-ce-que-nous-ecoutons-d94815457194e1d6b1c9817df03fa1f6) - (2016) :fr: [FR] Nous sommes ce que nous écoutons
 
 > Tools
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
@@ -3613,6 +3614,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Logical Fallacies](https://www.logicalfallacies.org/) - 'Fallacy' : A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
 * [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
 * [Grand bien vous fasse !](https://www.franceinter.fr/emissions/grand-bien-vous-fasse/grand-bien-vous-fasse-19-janvier-2021) - (2021) :fr: [FR] [Audio] L'hypersensibilité
+* [Marc Allard](https://www.lesoleil.com/chroniques/marc-allard/nous-sommes-ce-que-nous-ecoutons-d94815457194e1d6b1c9817df03fa1f6) - (2016) :fr: [FR] Nous sommes ce que nous écoutons
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
