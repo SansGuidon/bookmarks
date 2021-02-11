@@ -1228,6 +1228,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [MorganGeek](../cheat/groovy.md) - groovy cheatsheet / tips | My cheatsheet for Groovy
 * [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile / Groovy syntax
 * [Denny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-jenkins-groovy-a4) - (2018) CheatSheet: Jenkins & Groovy
+* [Groovy Docs](https://groovy-lang.org/syntax.html#_string_summary_table) - Syntax : String summary table
 
 ## Haskell
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
