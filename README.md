@@ -2888,6 +2888,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : * [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
 * [Daniel Miessler](https://danielmiessler.com/blog/is-it-wrong-to-have-children/) - Is It Wrong to Have Children?
 * [David Walsh](https://davidwalsh.name/being-a-dev-dad) - (2016) Being a Dev Dad
+* [Amala Espace Naissance](https://www.naissance-amala.be/ressources/audio/pleine-conscience-mindfulness/) - :fr: [FR] [Audio] Pleine conscience/Mindfulness
 
 # Philosophy :thought_balloon:
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
@@ -2963,6 +2964,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [O11ycast](https://www.heavybit.com/library/podcasts/o11ycast/) - Exploring the observability side of software development.
 * [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, with Charity Majors aka mipsytipsy | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
 * [Grand bien vous fasse !](https://www.franceinter.fr/emissions/grand-bien-vous-fasse/grand-bien-vous-fasse-19-janvier-2021) - (2021) :fr: [FR] [Audio] L'hypersensibilité
+* [Amala Espace Naissance](https://www.naissance-amala.be/ressources/audio/pleine-conscience-mindfulness/) - :fr: [FR] [Audio] Pleine conscience/Mindfulness
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
