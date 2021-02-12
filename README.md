@@ -1985,6 +1985,18 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Both terms imply a culture of violence, to borrow a notion from Bob Marshall. Violence is not conducive to agility.
 > * A healthy relationship is about collaboration and sharing, not power. The words “accountable” and “responsible” simply won’t come up in the context of dishes (or anything else) in a healthy relationship. The drivers are love and respect, not obligation.
 > * At work, would you rather do a good job because you were responsible for something and held accountable when you fail, or because the work was gratifying and made you feel good?
+* [Steve Scott](https://www.happierhuman.com/stop-being-cynical/) - (2020) How to Stop Being Cynical: 11 Proven Strategies
+> 1. Admit to yourself that you are cynical.
+> 2. Embrace positivity.
+> 3. Practice gratitude.
+> 4. Breathe : Cynical people often hold their breaths without evening noticing this automatic defensive response. Practice breathing techniques, such as yoga, to oxygenate you and relax your thoughts.
+> 5. Be mindful.
+> 6. Be playful, even for just five minutes every day : Allow yourself to play, be curious, have fun, and lose track of time for those five minutes. This may involve enjoying art or listening to some of your favorite songs. Or, it could mean participating in sports or spending time with some of your favorite people.
+> 7. Limit your news consumption.
+> 8. Reveal your true self.
+> 9. Evaluate the company you keep : The people you spend time with influence your outlook. Examine the groups you follow on social media and the co-workers and other people you hang out with. Do they tend to be negative or positive?
+> 10. Spend more time with positive people : According to Jim Rohn, we are the average of the five people with whom we spend the most time. Choose to be surrounded by people who exude optimism and positivity while maintaining a realistic outlook.
+> 11. Look at people’s best qualities.
 
 ## Remote work
 > Finding a remote job
