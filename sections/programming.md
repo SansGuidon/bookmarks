@@ -957,8 +957,6 @@ psql -f db.out postgres
 ## Git :octocat:
 > News
 * [DEV](https://dev.to/t/git) - Git related articles on dev.to()
-* [GitNews](https://git.news/) - Trending repositories from GitHub, HackerNews & Reddit
-* [GitHub](https://github.com/topics) - Topics on GitHub
 
 > Learn
 * [Think Like (a) Git](http://think-like-a-git.net/) - Git shouldn't be so hard to learn : a guide for the perplexed
@@ -1027,13 +1025,9 @@ psql -f db.out postgres
 * [Git SCM Docs](https://git-scm.com/docs/git-archive) - git-archive
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/) - (2016) On the Matter of Beautiful git Diffs
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
-* [Gitdude.com](https://gitdude.com/) - code improvement tips posted as a comment on your Github commits
 * :star: [**Seth Robertson**](https://sethrobertson.github.io/GitBestPractices/) - (2012) Git Best practices : commit often, perfect later, publish once, etc.
 * [Bitbucket Docs](https://confluence.atlassian.com/bitbucket/code-search-in-bitbucket-873876782.html#CodesearchinBitbucket-Searchoperators) - Tips & tricks for code search in Bitbucket
-* [Gary Ewan Park](https://www.youtube.com/watch?v=SlM02V1tkSc) - Control your GitHub releases with GitVersion and GitReleaseManager
 * [Nicola Paolucci](https://www.slideshare.net/GoAtlassian/becoming-a-git-master-nicola-paolucci) - Becoming a Git Master / some interesting tips provided in this presentation
-* [lorey/top-regional-repositories](https://github.com/lorey/top-regional-repositories) - The most-relevant GitHub repositories for all countries and many cities worldwide.
-* [Amit Agarwal](https://www.labnol.org/internet/github-gist-tutorial/28499/) - What You Can Do With Gists on Github?
 * [agis/Git Style Guide](https://github.com/agis/git-style-guide) - inspired by [How to Get Your Change Into the Linux Kernel](https://kernel.org/doc/html/latest/process/submitting-patches.html), the [git man pages](http://git-scm.com/doc) and various practices popular among the community.
 * [Sönke Sothmann](https://blog.oio.de/2013/05/08/how-to-rollback-changes-with-git/) - (2013) How to rollback changes with Git
 * [Atlassian Docs](https://www.atlassian.com/git/tutorials/undoing-changes) - Tutorials : Undoing Changes with git checkout / revert / reset / clean
@@ -1050,10 +1044,8 @@ psql -f db.out postgres
 * [Roger Dudler](https://rogerdudler.github.io/git-guide/) - git - the simple guide | just a simple guide for getting started with git. no deep shit ;)
 * [Daniel Doubrovkine](http://code.dblock.org/2015/08/31/getting-out-of-your-first-git-mess.html) - (2015)  Getting Out of Your First Git Mess
 * [Jon Cairns](http://blog.joncairns.com/2015/09/use-git-to-comment-your-code/) - (2015) Use git to comment your code (and stop writing rubbish commit messages, please)
-* [Jason Chen](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 45 Github Issues Dos and Don’ts
 * [Fredrik V. Mørken](https://blogg.bekk.no/why-you-should-stop-using-git-rebase-5552bee4fed1) - (2017) Why you should stop using Git rebase
 * [Super User StackExchange](https://superuser.com/questions/988185/how-to-avoid-being-asked-enter-passphrase-for-key-when-im-doing-ssh-operatio) - git : avoid being asked “Enter passphrase for key ” when I'm doing ssh operation on a remote host
-* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
 * [Logan Johnson](https://medium.com/square-corner-blog/how-square-writes-commit-messages-8e92fcbf77c9) - (2017) How Square writes commit messages | Explain the change.
 * [Manish Goregaokar](https://manishearth.github.io/blog/2017/03/05/understanding-git-filter-branch/) - (2017) Understanding Git Filter-branch and the Git Storage Model
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2015-02-23-git-history.html) - (2015) On Git History – or, “The Case for Merge Commits”
@@ -1080,7 +1072,6 @@ psql -f db.out postgres
 * [Lemi Orhan Ergin](https://www.slideshare.net/lemiorhan/git-antipatterns-how-to-mess-up-with-git-and-love-it-again) - (2018) [Slides] Git Anti-Patterns: How To Mess Up With Git and Love it Again. **Bonus** : [Video](https://www.youtube.com/watch?v=J_JYrAjX05Y)
 * [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) - (2010) A successful Git branching model
 * [Zach Holman](https://zachholman.com/posts/git-commit-history/) - (2015) Utter Disregard for Git Commit History
-* [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - (2011) How GitHub Uses GitHub to Build GitHub
 * [IcaliaLabs/guides](https://github.com/IcaliaLabs/guides/wiki/Monolithic-vs-Micro-Repos) - Monolithic vs Micro Repos
 * [Matt Butcher](https://gist.github.com/technosophos/9c706b1ef10f42014a06) - (2015) Why We Should Not Return to Monolithic Repositories
 * [Avi Cavale](http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository) - (2016) Our journey to microservices: mono repo vs multiple repositories
@@ -1126,7 +1117,6 @@ psql -f db.out postgres
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/git.md) - My cheatsheet for Git
 * [What the Commit](http://whatthecommit.com/) - A random commit message generator. | some inspiration for your next git commit message | NSFW :-D
 * [rponte/get-latest-tag-on-git.sh](https://gist.github.com/rponte/fdc0724dd984088606b0) - Getting latest tag on git repository
-* [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
 * :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 * [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet | This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
@@ -1149,7 +1139,6 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [George Gritsouk](https://gggritso.com/human-git-aliases) - (2016) Human Git Aliases | Stubbornly Refusing to Speak The Computer's Language | **Bonus** : [author's dotfiles](https://github.com/gggritso/dotfiles/blob/master/gitconfig.symlink)
 * [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
 * [raidzero/dotfiles](https://github.com/raidzero/dotfiles) - some shared linux dotfiles
-* [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
 * [powerlevel9k/wiki/Show-Off-Your-Config](https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config) - If you have a special configuration show it here!
 * [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience. | Alternative to Powerlevel9k (and compatible with)
 * [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
@@ -1163,7 +1152,54 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ### GitHub
+> News
+* [GitNews](https://git.news/) - Trending repositories from GitHub, HackerNews & Reddit
+* [GitHub](https://github.com/topics) - Topics on GitHub
+* [GitHub Trending](https://github.com/trending) - Explore trending projects in GitHub community
+* [GitHub Showcases](https://github.com/showcases) - Open source showcases, explore popular repositories
+* [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - Keep track of new cool github projects
+
+> Learn
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
+* [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet | This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
+* [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed) - (2019) GitHub stars won’t pay your rent
+> Solve your own problem, everything else will follow
+> However, most developers make zero money off open source. Zero.
+> Show your solution to other people as soon as possible
+> Package it and distribute it as soon as possible (note to self)
+> Don’t be scared, ashamed, or discouraged to make it paid
+> Don’t let anyone tell you how much you should charge for your work
+> value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
+* [Donne Martin/gitsome](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
+* [GitHub](https://github.com/showcases/great-for-new-contributors) - Great for new contributors | What open source projects can I contribute to?
+* [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - (2014) 15 rules for communicating at GitHub
+* [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
+* [GitHub](https://github.com/topics) - Topics on GitHub
+* [GitLogs](http://www.gitlogs.com/resource-guides) - definitive list of top resources of GitHub
+* [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks
+* [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
+* [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
+* [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
+* [GitHub Explore](https://github.com/explore) - Project showcases, discover interesting repositories
+* [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+* [Christophe Porteneuve](https://medium.com/@porteneuve/video-collaboration-best-practices-with-git-and-github-2b5de9424af2) - [Video] Collaboration best practices with Git and GitHub - [Slides](http://drive.delicious-insights.com/legacy-files/git-github-collab-bp.pdf)
+* [Gitdude.com](https://gitdude.com/) - code improvement tips posted as a comment on your Github commits
+* [lorey/top-regional-repositories](https://github.com/lorey/top-regional-repositories) - The most-relevant GitHub repositories for all countries and many cities worldwide.
+* [Gary Ewan Park](https://www.youtube.com/watch?v=SlM02V1tkSc) - Control your GitHub releases with GitVersion and GitReleaseManager
+* [Amit Agarwal](https://www.labnol.org/internet/github-gist-tutorial/28499/) - What You Can Do With Gists on Github?
+* [Jason Chen](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 45 Github Issues Dos and Don’ts
+* [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - (2011) How GitHub Uses GitHub to Build GitHub
+* [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
+* [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
+* [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+* [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
+* [Jesse Newland](https://githubengineering.com/kubernetes-at-github/) - Kubernetes at GitHub
+
+
+> Tips
+* [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
+* [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
