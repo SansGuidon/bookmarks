@@ -540,6 +540,12 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > * It’s fine to disagree, it’s fine to push back, it’s great to have strong opinions and beliefs, but give my ideas some time to set in before you’re sure you want to argue against them.
 > * There’s also a difference between asking questions and pushing back. Pushing back means you already think you know. Asking questions means you want to know. Ask more questions.
 > * So next time you hear something, or someone, talk about an idea, pitch an idea, or suggest an idea, give it five minutes. Think about it a little bit before pushing back, before saying it’s too hard or it’s too much work. Those things may be true, but there may be another truth in there too: It may be worth it.
+* [Seth Godin](https://seths.blog/2018/11/quality-and-effort/) - (2018) Quality and effort
+> * We need to put care into our systems. We need to build checklists and peer review and resilience into the way we express our carefulness.
+> * It seems ridiculous that a surgeon needs to write her name (with a Sharpie) on the limb that she’s about to operate on, but this simple system adjustment means that errors involving working on the wrong limb will go to zero.
+> * Instead of reacting to an error with, “I need to be more careful,” we can respond with, “I can build a better system.”
+> * If it matters enough to be careful, it matters enough to build a system around it.
+> * **See also** [Martin Fowler's tweet](https://twitter.com/martinfowler/status/1057971818768818177) - "Don't teach people to be careful, instead get them to build systems that resist faults"
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
