@@ -1129,6 +1129,7 @@ psql -f db.out postgres
 * [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
 * :star: [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate useful .gitignore files for your project. **See also** [Source Code](https://github.com/toptal/gitignore.io)
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+* [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet | This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
 ### Dotfiles / Aliases
 See also [Shell aliases](../README.md#shell-aliases)
