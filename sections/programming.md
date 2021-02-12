@@ -1160,9 +1160,6 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - Keep track of new cool github projects
 
 > Learn
-* [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
-* [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet | This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 * [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed) - (2019) GitHub stars won’t pay your rent
 > Solve your own problem, everything else will follow
 > However, most developers make zero money off open source. Zero.
@@ -1171,18 +1168,13 @@ See also [Shell aliases](../README.md#shell-aliases)
 > Don’t be scared, ashamed, or discouraged to make it paid
 > Don’t let anyone tell you how much you should charge for your work
 > value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
-* [Donne Martin/gitsome](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
-* [GitHub](https://github.com/showcases/great-for-new-contributors) - Great for new contributors | What open source projects can I contribute to?
 * [Ben Balter](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - (2014) 15 rules for communicating at GitHub
-* [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
 * [GitHub](https://github.com/topics) - Topics on GitHub
 * [GitLogs](http://www.gitlogs.com/resource-guides) - definitive list of top resources of GitHub
-* [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks
 * [Ah shhgit!](https://shhgit.darkport.co.uk/) - Find GitHub secrets in real time | Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API. **Bonus** : [Source code](https://github.com/eth0izzle/shhgit/)
 * [GitHut](https://githut.info/) - A small place to discover more about the usage of programming languages in GitHub.
 * [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
 * [GitHub Explore](https://github.com/explore) - Project showcases, discover interesting repositories
-* [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [Christophe Porteneuve](https://medium.com/@porteneuve/video-collaboration-best-practices-with-git-and-github-2b5de9424af2) - [Video] Collaboration best practices with Git and GitHub - [Slides](http://drive.delicious-insights.com/legacy-files/git-github-collab-bp.pdf)
 * [Gitdude.com](https://gitdude.com/) - code improvement tips posted as a comment on your Github commits
 * [lorey/top-regional-repositories](https://github.com/lorey/top-regional-repositories) - The most-relevant GitHub repositories for all countries and many cities worldwide.
@@ -1190,16 +1182,25 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [Amit Agarwal](https://www.labnol.org/internet/github-gist-tutorial/28499/) - What You Can Do With Gists on Github?
 * [Jason Chen](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 45 Github Issues Dos and Don’ts
 * [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - (2011) How GitHub Uses GitHub to Build GitHub
-* [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
 * [Tom Forbes](https://tomforb.es/testing-my-dotfiles-with-github-actions/) - (2019) Testing my dotfiles with Github actions
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
 * [Jesse Newland](https://githubengineering.com/kubernetes-at-github/) - Kubernetes at GitHub
 
-
 > Tips
 * [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
 * [Phil Haack](https://haacked.com/archive/2014/07/28/github-flow-aliases/) - (2014) GitHub Flow Like a Pro with these 13 Git Aliases
+* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
+* [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet | This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
+* [GitHub](https://github.com/showcases/great-for-new-contributors) - Great for new contributors | What open source projects can I contribute to?
+* [GitHub Help](https://help.github.com/articles/searching-code/) - searching code / tips & tricks
+* [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
+
+> Tools
+* [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+* [Donne Martin/gitsome](https://github.com/donnemartin/gitsome) - gitsome : A supercharged Git/GitHub command line interface (CLI)
+* [Repo you may like](http://www.repoyoumaylike.com/) - Select some GitHub repository and see what recommendations comes up
+* [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 
 ## Golang / Go
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
