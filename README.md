@@ -1997,6 +1997,19 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > 9. Evaluate the company you keep : The people you spend time with influence your outlook. Examine the groups you follow on social media and the co-workers and other people you hang out with. Do they tend to be negative or positive?
 > 10. Spend more time with positive people : According to Jim Rohn, we are the average of the five people with whom we spend the most time. Choose to be surrounded by people who exude optimism and positivity while maintaining a realistic outlook.
 > 11. Look at people’s best qualities.
+* [Thorin Klosowski](https://lifehacker.com/how-to-stop-being-a-cynical-asshole-1537302138) - (2014) How to Stop Being a Cynical Asshole
+> * Cynicism is part of a defensive posture we take to protect ourselves. It's typically triggered when we feel hurt by or angry at something, and instead of dealing with those emotions directly, we allow them to fester and skew our outlook.
+> * Another cause of cynicism is pretty simple: our brains are hard-wired to pay more attention to negative experiences. The more negativity we see in the world, the more likely we are to share that disposition with others. Over time, that tends to make us more cynical.
+> * Once you acknowledge your problem, you can start faking a more positive attitude until it sticks. For example, Redditor LionLeo's shares his "fake it till you make it" success.
+> * It just kind of came from more of a "go with the flow" attitude that I adopted overall and it's really made me a happier person. I used to deal with depression and anxiety and that's mostly gone away just because I adopted a positive attitude about things. Just try to be a little more enthusiastic about others (genuine or fake, just try it) and be interested in what they have to say.
+> * Something I always keep in mind to keep me in check is a quote from Bill Nye, "Everyone you will ever meet knows something you don't." When I think about it that way, people become more interesting to me.
+> * For me, it's less about the flowery idea of concentrating on the positive and more about not focusing on the negative. If I have something constructive to say, I'll say it. If it's pessimistic vitriol, I try to keep it to myself.
+> * Cynical assholes tend to surround themselves with other cynical assholes. It makes those long nights at the bar complaining about pop culture a lot more enjoyable. At some point, it's worth considering what impact these social relationships have on you.
+> * Breed Your Curiosity : I've noticed that the less time I focus on my snarky, cynical responses, the more likely I'll have an actually useful idea. I also tend to pay more attention to the world around me and stop to appreciate the creativity of others.
+> * Cynicism Isn't All Bad : The more we look at things critically with an emotional detachment, the more likely we'll be cynical about it. That's not always a bad thing, though. As Psychology Today points out, it's positive in small doses.
+> * Though cynicism may not be healthy in the long run, it can serve as an emotional coat of armor that blunts life's everyday indignities.
+> * Casting a cynical eye on situations you can't control reduces your emotional attachment to a particular outcome, says Yapko, and actually lowers your vulnerability to depression.
+> * Cynics' propensity to spot setups and snow jobs before the rest of us also makes them socially valuable. Infamous cynic Maureen Dowd, for instance, did a Pulitzer-winning job of highlighting tragic flaws in the Clinton administration. "Cynics deserve more respect than they get," Bayan says. "You need naysayers who will shout down ideas that are extreme or just plain foolish."
 
 ## Remote work
 > Finding a remote job
