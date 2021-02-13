@@ -3403,6 +3403,10 @@ See also [Operations / IT OPS](#operations--it-ops)
 > 2. Recognize how perfectionism can actually reduce the quality of your work when it leads to procrastination. A common pitfall of perfectionists, procrastination leaves you with inadequate project completion time to get the results you are truly capable of.
 > 3. Stop comparing yourself to other employees. The urge to be competitive can enhance perfectionist tendencies.
 > 4. Consider what the company requires from you, rather than what you want to see from yourself. Task completion is critical to business workflow, and what your inner perfectionist sees as substandard work may actually be within the acceptable range to meet business needs.
+* [Logan Mayville](https://www.hellosign.com/blog/busy-kills-productivity) - (2018) How Being Busy Kills Productivity | How doing less can help you be more productive
+> * Focus on a single strategy
+> * Focus on results; not time
+> * Improve systems
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
