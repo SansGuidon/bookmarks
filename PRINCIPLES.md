@@ -251,6 +251,10 @@ See also [Calm programming / Slow programming](sections/programming.md#calm-prog
 * Refactoring can only truly begin once you've actually learned what a piece of code or some data structure did, the unique properties for which they were written or chosen. Anything else is setting yourself up for failure. [source](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html)
 * It also means that when building systems, you should not assume that operators will do things correctly. Expect failure from people. Try to think about tools you can give them to undo their mistakes, because they will happen sooner or later. Have some dread. Be understanding. Know things won't be perfect. [source](https://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html)
 * Study your tools, see how you work, understand how you can improve it. Don't rush. Before you run, you have to learn to walk. 
+  * Whether you’re getting a lot of satisfaction from being busy or just feeling exasperated, don’t forget to occasionally stop and ask yourself: Is this the best use of time?
+  * Improve systems : Improving systems helps remove busywork from an employee’s day, but it also makes things easier for the customer. 
+  * **See also ** [Ref : How Being Busy Kills Productivity](https://www.hellosign.com/blog/busy-kills-productivity) on how doing less can help you be more productive
+  * Focus on results; not time : Time tracking is unavoidable in some instances, but rather than the rule by which companies operate, it should be used as a secondary metric to the results they achieve. Rather than give an employee a 2-hour window to do a job, have her do it right the first time (bonus points for documenting the process), then review and adjust your future plans based on time tracking data.
 * Do one thing at a time. Only one item under your name in the WIP. The rest will wait. You cannot fix all things.
 * Test the crap out of everything you do before telling anyone you are "finished". See also [Ref : Being a slow programmer](https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/)
 * Use right tools for the job (email != todo list, PR and commits != code documentation, Jenkins != long term storage for releases/versions/build info/state of quality of your code)
@@ -263,6 +267,7 @@ See also [Calm programming / Slow programming](sections/programming.md#calm-prog
   * :star: Respond rather than react
   * Before you write any code, think first about what problem this is solving and for whom. **See also** [Ref : Think first about what problem this is solving and for whom](https://letterstoanewdeveloper.com/2021/01/18/think-first-about-what-problem-this-is-solving-and-for-whom/)
   * The faster you react, the less you think. Not always, but often. [Ref : Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes) 
+  * **See also** [Ref : How Being Busy Kills Productivity](https://www.hellosign.com/blog/busy-kills-productivity) on how doing less can help you be more productive
 * Reuse existing code. GitHub is your friend.
 * Discipline / Consistency beat motivation and quality. 
 * You don't want heroes, but you might benefit from experts / excellents colleagues / colleagues & managers that provide support and insights and who do not let you take everyting on your plate.
