@@ -3416,6 +3416,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 > * Focus on a single strategy
 > * Focus on results; not time
 > * Improve systems
+* [Seth Godin](https://seths.blog/2016/06/your-job-vs-your-project/) - (2016) Your job vs. your project
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
