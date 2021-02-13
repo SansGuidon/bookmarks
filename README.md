@@ -2010,6 +2010,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Though cynicism may not be healthy in the long run, it can serve as an emotional coat of armor that blunts life's everyday indignities.
 > * Casting a cynical eye on situations you can't control reduces your emotional attachment to a particular outcome, says Yapko, and actually lowers your vulnerability to depression.
 > * Cynics' propensity to spot setups and snow jobs before the rest of us also makes them socially valuable. Infamous cynic Maureen Dowd, for instance, did a Pulitzer-winning job of highlighting tragic flaws in the Clinton administration. "Cynics deserve more respect than they get," Bayan says. "You need naysayers who will shout down ideas that are extreme or just plain foolish."
+* [Sarah Todd](https://qz.com/work/1790859/how-to-deal-with-cynical-coworkers/) - (2020) The secret to dealing with cynics at work
+> * one way to break the cycle of cynicism and disrespect may be to help people feel more empowered.
+> * the boss should also ask more about his professional goals. Perhaps he could suggest a conference the company could pay for him to attend, or a new project that he could head up
+> * If you recognize some cynical tendencies within yourself, you might also keep an eye out for ways to empower yourself within your job. After all, the lesson is clear: Cynicism just doesn’t pay.
 
 ## Remote work
 > Finding a remote job
