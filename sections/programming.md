@@ -540,6 +540,10 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > * Instead of reacting to an error with, “I need to be more careful,” we can respond with, “I can build a better system.”
 > * If it matters enough to be careful, it matters enough to build a system around it.
 > * **See also** [Martin Fowler's tweet](https://twitter.com/martinfowler/status/1057971818768818177) - "Don't teach people to be careful, instead get them to build systems that resist faults"
+* [Logan Mayville](https://www.hellosign.com/blog/busy-kills-productivity) - (2018) How Being Busy Kills Productivity | How doing less can help you be more productive
+> * Focus on results; not time : Time tracking is unavoidable in some instances, but rather than the rule by which companies operate, it should be used as a secondary metric to the results they achieve. Rather than give an employee a 2-hour window to do a job, have her do it right the first time (bonus points for documenting the process), then review and adjust your future plans based on time tracking data.
+> * Improve systems : Improving systems helps remove busywork from an employee’s day, but it also makes things easier for the customer. 
+> * Whether you’re getting a lot of satisfaction from being busy or just feeling exasperated, don’t forget to occasionally stop and ask yourself: Is this the best use of time?
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
@@ -1644,6 +1648,10 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Mike Crittenden](https://critter.blog/2020/08/14/learning-a-technology-you-dont-need-right-now-is-a-waste-of-time/) - (2020) Learning a technology you don’t need right now is a waste of time
 * [Jessica Joy Kerr aka jessitron](https://jessitron.com/2017/06/24/the-most-productive-circumstances-for/) - (2017) Hyperproductive development
 * [Async Manifesto](http://asyncmanifesto.org/) - (2014) Manifesto for Async Software Development | Principles of Async Software Development
+* [Logan Mayville](https://www.hellosign.com/blog/busy-kills-productivity) - (2018) How Being Busy Kills Productivity | How doing less can help you be more productive
+> * Focus on results; not time : Time tracking is unavoidable in some instances, but rather than the rule by which companies operate, it should be used as a secondary metric to the results they achieve. Rather than give an employee a 2-hour window to do a job, have her do it right the first time (bonus points for documenting the process), then review and adjust your future plans based on time tracking data.
+> * Improve systems : Improving systems helps remove busywork from an employee’s day, but it also makes things easier for the customer. 
+> * Whether you’re getting a lot of satisfaction from being busy or just feeling exasperated, don’t forget to occasionally stop and ask yourself: Is this the best use of time?
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
