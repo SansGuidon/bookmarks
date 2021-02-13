@@ -384,6 +384,7 @@
 > * TLDR; Any form of branching is antithetical to Continuous Integration.
 * [Paul Hammant](https://trunkbaseddevelopment.com/) - (2017) Trunk Based Development : This site attempts to collect all the related facts, rationale and techniques for Trunk-Based Development together in one place, complete with twenty-five diagrams to help explain things. All without using TBD as an acronym even once twice.
 * [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, with Charity Majors aka mipsytipsy | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
+* [Ian Miell](https://zwischenzugs.com/2020/11/30/gitops-decisions/) - (2020) GitOps Decisions
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -1043,7 +1044,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Théo Chamley](https://cloud.google.com/solutions/best-practices-for-operating-containers) - (2018) 7 best practices for operating containers
 * [ZooBab](http://www.zoobab.com/kubernetes-workshop) - Kubernetes Workshop / introduction guide
 * [Daniel Lebrero](https://danlebrero.com/2018/07/09/kubernetes-explained-in-pictures-the-theme-park-analogy) - (2018) Kubernetes explained in pictures: the theme park analogy | This is an attempt to explain Kubernetes core concepts (pods, nodes, services, resources, ...) with an theme park analogy.
-* [Ilya Dmitrichenko](https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops) - (2018) Kubernetes anti-patterns: Let's do GitOps, not CIOps!
+* [Ilya Dmitrichenko](https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-
+-not-ciops) - (2018) Kubernetes anti-patterns: Let's do GitOps, not CIOps!
 * [Mark Ramm](https://www.weave.works/blog/managing-secrets-in-kubernetes) - (2019) Managing Secrets in Kubernetes
 * [Anita Buehrle](https://www.weave.works/blog/delivering-quality-at-speed-with-gitops) - (2019) Delivering Quality at Speed With GitOps
 * [Andreas Grabner](https://www.dynatrace.com/news/blog/optimizing-jenkins-to-ensure-fast-build-times-with-dynatrace/) - (2018) Optimizing Jenkins to ensure fast build times with Dynatrace | Tips for using Jenkins on Kubernetes
