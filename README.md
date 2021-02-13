@@ -3196,6 +3196,10 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Jason Fried](https://m.signalvnoise.com/status-meetings-are-the-scourge/) - (2016) Status meetings are the scourge.
 * [Fadeke Adegbuyi](https://doist.com/blog/complete-guide-to-deep-work/) - (2019) Deep Work: The Complete Guide (including a step-by-step checklist)
 * [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
+* [Seth Godin](https://seths.blog/2019/03/busy-is-not-the-point/) - (2019) Busy is not the point
+> We’re supposed to give you a pass because you were full on, all day. Frantically moving from one thing to the other, never pausing to catch your breath, and now you’re exhausted.
+> Points for successful prioritization. Points for efficiency and productivity. Points for doing work that matters.
+> No points for busy.
 
 ## Productivity tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
