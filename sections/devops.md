@@ -1044,8 +1044,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Théo Chamley](https://cloud.google.com/solutions/best-practices-for-operating-containers) - (2018) 7 best practices for operating containers
 * [ZooBab](http://www.zoobab.com/kubernetes-workshop) - Kubernetes Workshop / introduction guide
 * [Daniel Lebrero](https://danlebrero.com/2018/07/09/kubernetes-explained-in-pictures-the-theme-park-analogy) - (2018) Kubernetes explained in pictures: the theme park analogy | This is an attempt to explain Kubernetes core concepts (pods, nodes, services, resources, ...) with an theme park analogy.
-* [Ilya Dmitrichenko](https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-
--not-ciops) - (2018) Kubernetes anti-patterns: Let's do GitOps, not CIOps!
+[Ilya Dmitrichenko](https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops) - (2018) Kubernetes anti-patterns: Let's do GitOps, not CIOps!
 * [Mark Ramm](https://www.weave.works/blog/managing-secrets-in-kubernetes) - (2019) Managing Secrets in Kubernetes
 * [Anita Buehrle](https://www.weave.works/blog/delivering-quality-at-speed-with-gitops) - (2019) Delivering Quality at Speed With GitOps
 * [Andreas Grabner](https://www.dynatrace.com/news/blog/optimizing-jenkins-to-ensure-fast-build-times-with-dynatrace/) - (2018) Optimizing Jenkins to ensure fast build times with Dynatrace | Tips for using Jenkins on Kubernetes
