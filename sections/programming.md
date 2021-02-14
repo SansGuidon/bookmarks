@@ -403,6 +403,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ginger Bill](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/) - (2021) The Essence of Programming
 > Many novices fall into the same trap of not understanding the problem that is trying to be solved, and are too concerned about the implementation. Teaching novices how to think about solving problems is extremely important in improving and honing in the craft.
 * [Christine Yen](https://www.honeycomb.io/blog/the-future-of-developer-careers/) - (2020) The Future of Developer Careers. **See also** : (2020) [The Future of Ops Careerss by Charity Majors](https://www.honeycomb.io/blog/the-future-of-ops-careers/) on the same blog.
+* [Sonny Van Assche](https://www.ntiative.com/the-10-programmer-personality-types-part-1-of-2/) - (2018) The 10 Programmer Personality Types (Part 1 of 2) | **Part 2** [here](https://www.ntiative.com/the-10-programmer-personality-types-part-2-of-2/)
+> I feel very much like the “Ghost-Writer” at times, mixed with "The DIY specialist". But anyway, I feel we are all those types at once, it depends on the day, on the task, on the team we work with.
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
