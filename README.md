@@ -600,6 +600,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Daniel Miessler](https://danielmiessler.com/blog/job-losses-automation-active-passive/) - (2019) Job Losses from Automation Are Being Actively Engineered and Funded
 * [Seth Godin](https://seths.blog/2009/05/ignore-sunk-costs/) - (2009) Ignore sunk costs
 > * When making a choice between two options, only consider what’s going to happen in the future, not which investments you’ve made in the past. The past investments are over, lost, gone forever. They are irrelevant to the future.
+* [Seth Godin](https://seths.blog/2007/01/how_to_be_remar/) - (2007) How to be remarkable. Via [The Guardian](https://www.theguardian.com/money/2007/jan/06/careers.work5#article_continue)
 
 > Tools
 * [Nintendo eShop price comparator](https://eshop-prices.com/prices?currency=EUR) - Find the cheapest price for your favourite game, all prices are in Euro.
