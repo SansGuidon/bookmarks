@@ -3419,6 +3419,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 > * Focus on results; not time
 > * Improve systems
 * [Seth Godin](https://seths.blog/2016/06/your-job-vs-your-project/) - (2016) Your job vs. your project
+* [Seth Godin](https://seths.blog/2005/03/dont_shave_that/) - (2005) Don’t Shave That Yak!
+> * The minute you start walking down a path toward a yak shaving party, it’s worth making a compromise. Doing it well now is much better than doing it perfectly later.
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
