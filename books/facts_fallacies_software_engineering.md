@@ -58,7 +58,49 @@ Software Reuse](https://www.cc.gatech.edu/~beki/c16.pdf)
   * Updating the documentation : 5 percent
 * In a survey of Air Force sites in 1983, researchers found that the "**biggest problem of software maintenance" was "high [staff] turnover,**" at 8.7 (on a scale of 10). Close behind that, in second and third places, were "understanding and the lack of documentation," at 7.5, and "determining the place to make a change,"
 * Notice the small percentages in the maintenance life cycle devoted to documentation activities. The maintainer spends 5 percent of his or her time "reviewing documentation" and another 5 percent "updating documentation." If you thought about those numbers at all, you may have been surprised at how small they were.
-
-
+* "Unworthiness" or its complexity is for you to decide. But one of the things that lack of respect leads to is an almost total lack of what we might call maintenance documentation.
+* Ongoing maintenance drives the specs and the product even further apart. The fact of the matter is, design documentation is almost completely untrustworthy when it comes to maintaining a software product. The result is, almost all of that undesign work involves the reading of code (which is invariably up to date) and ignoring the documentation (which commonly is not).
+* Here again, the underlying problem is our old enemy schedule pressure. There is too much demand for the modified product to be ready.
+* Perhaps it's a stretch, but I like to tell people that, because of all of the above, maintenance is a more difficult task than software development. Few people want to hear that, so I tend to say it in something of a whisper.
+* **See also** Glass, Robert L. 1981. "Documenting for Software Maintenance: We're Doing It Wrong." In Software Soliloquies, Computing Trends.
+* Better software engineering development leads to more maintenance, not less.
+* **See also** Dekleva, Sasa M. 1992. "The Influence of the Information System Development Approach on Maintenance." Management Information Systems Quarterly, Sept. This study looked at the effect of using "modern development methods" on software projects from the point of view of their subsequent maintenance.
+* These systems took longer to maintain than the others because more modifications were being made to them. And more modifications were being made because it was easier to enhance these better-built systems.
+* We neither agree on a workable definition nor agree on whose responsibility quality in the software product is. 
+* Modifiability, one of those attributes, is a matter of knowing how to build software in such a way that it can be easily modified.
+* Reliability is about building software in ways that minimize the chance of it containing errors and then following that up with an error removal process that uses as many of the multifaceted error removal options as makes sense.
+* Quality is one of the most deeply technical issues in the software field.
+* Management's job, far from taking responsibility for achieving quality, is to facilitate and enable technical people and then get out of their way.
+* It is nearly impossible to put a number on understandability or modifiability or testability or most of the other quality -ilities.
+* **See also** Glass, Robert L. 1992. Building Quality Software. Englewood Cliffs, NJ: Prentice-Hall. In Section 3.9.1, State of the Theory, this book is an analysis of the DoD report discussed earlier.
+* Quality in the software field is about a collection of seven attributes that a quality software product should have: portability, reliability, efficiency, usability (human engineering), testability, understandability, and modifiability.
+  1. Portability is about creating a software product that is easily moved to another platform. 
+  2. Reliability is about a software product that does what it's supposed to do, dependably. 
+  3. Efficiency is about a software product that economizes on both running time and space consumption. 
+  4. Human engineering (also known as usability) is about a software product that is easy and comfortable to use. 
+  5. Testability is about a software product that is easy to test. 
+  6. Understandability is about a software product that is easy for a maintainer to comprehend. 
+  7. Modifiability is about a software product that is easy for a maintainer to change.
+* Quality is not user satisfaction, meeting requirements, meeting cost and schedule targets, or reliability.
+* User satisfaction = Meets requirements + delivered when needed + appropriate cost + quality product.
+* **See also** Gramms, Timm. 1987. Paper presented on "biased errors" and "thinking traps." Notices of the German Computing Society Technical Interest Group on Fault-Tolerant Computing Systems, Bremerhaven, West Germany,
+* Errors tend to cluster.
+* "Half the errors are found in 15% of the modules" (Davis 1995, quoting Endres 1975). 80% of all errors are found in just 2% (sic) of the modules" (Davis 1995, quoting Weinberg 1992). Given the quote that follows, it makes you wonder if 2 percent was a misprint.)
+* There is no single best approach to software error removal.
+* The advocates of silver bullets will continue to make exaggerated claims for whatever technique they are selling,
+* **See also** Glass, Robert L. 1992. Building Quality Software. Englewood Cliffs, NJ: Prentice-Hall.
+* Residual errors will always persist. The goal should be to minimize or eliminate severe errors.
+* It would be nice to remove all those other errors too (for example, documentation errors, redundant code errors, unreachable path errors, errors in numerically insignificant portions of an algorithm, and so on.), but it's not always necessary.
+* "Almost 90% of the downtime comes from, at most, 10% of the defects"
+* Efficiency stems more from good design than from good coding.
+* Interface and internal inefficiencies pale to insignificance compared to I/O inefficiencies. Still, it is possible, through poorly designed looping strategies, for a coder to make a program's logic wheels spin an inordinately long time.
+* *To some eager programmers, coding is the most important task of software construction, and the sooner we get to it, the better. Design, to people in that camp, is simply something that puts off the ultimate problem solution activity.* As long as these people continue to address relatively simple problems, (a) they will probably never be convinced otherwise, and (b) there may be nothing terribly wrong with what they are doing. But it doesn't take much problem complexity before that minimal-design, quick-to-code approach begins to fall apart. (Recall Fact 21, about how quickly problem complexity drives up solution complexity?)
+* Somehow it seems like anything that makes a program more time-efficient will also make it more size-efficient. But that is not true.
+* Many software researchers advocate rather than investigate. As a result, (a) some advocated concepts are worth far less than their advocates believe, and (b) there is a shortage of evaluative research to help determine what the value of such concepts really is.
+* It wasn't until the notion of the GQM approach (originally proposed by Vic Basili)—establish Goals to be satisfied by the metrics, determine what Questions should be asked to meet those goals, and only then collect the Metrics needed to answer just those questions—that there began to be some rationality in metrics approaches.
+* No matter how many people believed that management was responsible for product quality, there was too much technology to the subject of software quality to leave it up to management.
+* So what's the fallacy here? That quality is a management job. Management, of course, does have a vitally important role in achieving quality. They can establish a culture in which the task of achieving quality is given high priority. They can remove barriers that prevent technologists from instituting quality. They can hire quality people, by far the best way of achieving product quality. And they can get out of the way of those quality people, once the barriers are down and the culture is established, and let them do what they have wanted to do all along—build something they can be proud of.
+* What's the alternative to an ego-invested programmer? A team-player programmer.
+* Programmers really do need to be open to critique; the fact that we cannot write error-free programs, hammered home so many times in this book, means that programmers will always have to face up to their technical foibles and frailties.
 
 
