@@ -792,6 +792,9 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > * What is the problem they’re trying to solve? 
 > * How does this ticket solve it? 
 * [Semgrep](https://semgrep.dev/) - Static analysis at ludicrous speed. Find bugs and enforce code standards
+* [The HFT Guy](https://thehftguy.com/2020/08/26/technical-debt-doesnt-exist/) - (2020) Technical Debt Doesn’t Exist
+> * Make yourself a favor and call that **maintenance**.
+> * Software do not have a technical debt problem, software simply requires maintenance.
 
 ## Conferences
 > In Belgium
