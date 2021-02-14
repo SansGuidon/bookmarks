@@ -601,6 +601,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Seth Godin](https://seths.blog/2009/05/ignore-sunk-costs/) - (2009) Ignore sunk costs
 > * When making a choice between two options, only consider what’s going to happen in the future, not which investments you’ve made in the past. The past investments are over, lost, gone forever. They are irrelevant to the future.
 * [Seth Godin](https://seths.blog/2007/01/how_to_be_remar/) - (2007) How to be remarkable. Via [The Guardian](https://www.theguardian.com/money/2007/jan/06/careers.work5#article_continue)
+* [Seth Godin](https://seths.blog/2021/02/the-easy-way-down/) - (2021) The easy way down
 
 > Tools
 * [Nintendo eShop price comparator](https://eshop-prices.com/prices?currency=EUR) - Find the cheapest price for your favourite game, all prices are in Euro.
@@ -1032,6 +1033,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * It’s fine to disagree, it’s fine to push back, it’s great to have strong opinions and beliefs, but give my ideas some time to set in before you’re sure you want to argue against them.
 > * There’s also a difference between asking questions and pushing back. Pushing back means you already think you know. Asking questions means you want to know. Ask more questions.
 > * So next time you hear something, or someone, talk about an idea, pitch an idea, or suggest an idea, give it five minutes. Think about it a little bit before pushing back, before saying it’s too hard or it’s too much work. Those things may be true, but there may be another truth in there too: It may be worth it.
+* [Seth Godin](https://seths.blog/2021/02/the-easy-way-down/) - (2021) The easy way down
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
