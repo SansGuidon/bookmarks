@@ -796,7 +796,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > * Make yourself a favor and call that **maintenance**.
 > * Software do not have a technical debt problem, software simply requires maintenance.
 * [Kailash Awati](https://eight2late.wordpress.com/2009/07/16/maintenance-matters/) - (2009) Maintenance matters
-> * Maintenance is a solution, not a problem. **See also** [Robert Glass](http://www.robertlglass.com/)‘ wonderful book, [Facts and Fallacies of Software Engineering](https://www.goodreads.com/book/show/83792.Facts_and_Fallacies_of_Software_Engineering)
+> * Maintenance is a solution, not a problem. **See also** [Robert Glass](http://www.robertlglass.com/)‘ wonderful book, [Facts and Fallacies of Software Engineering](https://www.goodreads.com/book/show/83792.Facts_and_Fallacies_of_Software_Engineering) and [my highlights from this book](../books/facts_fallacies_software_engineering.md)
 
 ## Conferences
 > In Belgium
