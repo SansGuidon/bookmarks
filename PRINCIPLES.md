@@ -279,6 +279,7 @@ See also [Calm programming / Slow programming](sections/programming.md#calm-prog
   * More so than all other tools (issue tracker, code management system, etc.) comments in code have the greatest chance of still being around and easily searchable if they haven't been deleted. **See also** [Ref : The case for comments in code](https://notes.eatonphil.com/the-case-for-comments-in-code.html)
   * Code can’t self-document if it isn’t there. If you decide to not write some code and don’t leave a comment explaining why, there will be nothing left to explain what you were thinking! Add comments that explain why the code is doing what it is doing, or is structured the way that it is structured. **See also** [Ref : How to write readable code](https://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html)
 * When you're done with your commit and push, just double check what you have just done. Sometimes issues or possible improvements appear obvious only when the work is already pushed. Next time, slow down and double check before pushing ;-) 
+* Make your app fail fast in case of error. Ignoring errors will have side effects and can cause even more harm than if you just had the app crashing on first error.
 
 ## Slow programming Healthy tips / helpers
 * Disconnect & Focus. Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
