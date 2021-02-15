@@ -1363,6 +1363,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 
 > Tools
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework | Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and SPAs (single-page applications). **See also** : [Video] (2020) [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
+* [BundlePhobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 
 ## Kotlin
 * [Kotlin Docs](https://kotlinlang.org/docs/reference/comparison-to-java.html) - Comparison to Java Programming Language
