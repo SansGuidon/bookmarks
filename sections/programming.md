@@ -800,6 +800,9 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Kailash Awati](https://eight2late.wordpress.com/2009/07/16/maintenance-matters/) - (2009) Maintenance matters
 > * Maintenance is a solution, not a problem. **See also** [Robert Glass](http://www.robertlglass.com/)‘ wonderful book, [Facts and Fallacies of Software Engineering](https://www.goodreads.com/book/show/83792.Facts_and_Fallacies_of_Software_Engineering) and [my highlights from this book](../books/facts_fallacies_software_engineering.md)
 
+> Tools
+* [Semver check](https://jubianchi.github.io/semver-check/#/) - More and more projects try to follow Semantic Versioning to reduce package versioning nightmare and every dependency manager implements its own semantic versioner. Composer and NPM for example don't handle version constraints the same way. It's hard sometimes to be sure how some library version will behave against some constraint. This tiny webapp checks if a given version satisfies another given constraint.
+
 ## Conferences
 > In Belgium
 * [FOSDEM](https://fosdem.org/) - free event for developers of free and open source software to meet, share and collaborate. **Bonus** : [Videos on YouTube](https://www.youtube.com/user/fosdemtalks/videos)
@@ -1661,6 +1664,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 > * Improve systems : Improving systems helps remove busywork from an employee’s day, but it also makes things easier for the customer. 
 > * Whether you’re getting a lot of satisfaction from being busy or just feeling exasperated, don’t forget to occasionally stop and ask yourself: Is this the best use of time?
 * [Devhints](https://devhints.io/) - Rico's cheatsheets | TL;DR for developer documentation
+* [Semver check](https://jubianchi.github.io/semver-check/#/) - More and more projects try to follow Semantic Versioning to reduce package versioning nightmare and every dependency manager implements its own semantic versioner. Composer and NPM for example don't handle version constraints the same way. It's hard sometimes to be sure how some library version will behave against some constraint. This tiny webapp checks if a given version satisfies another given constraint.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
