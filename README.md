@@ -3139,6 +3139,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [MorganGeek](https://www.morgangeek.be/minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website
 * [The Whimsical Web](https://whimsical.club/1/) - Websites that spark joy - A curated list of sites with an extra bit of fun. [Source code](https://github.com/maxboeck/whimsical)
+* [Koreus](https://www.koreus.com/videos/koreusity/nouveau/) - :fr: [FR] [Video] Vidéos récentes : Koreusity, le zapping du web | Zapping hebdomadaire des vidéos à la con du web
 
 # Productivity :fast_forward:
 > News
