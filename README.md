@@ -1338,11 +1338,11 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [écoconso](https://www.ecoconso.be/fr/content/magasins-de-vrac-et-zero-dechet-de-wallonie-et-bruxelles) - [FR] [BE] Magasins de vrac et zéro déchet de Wallonie et Bruxelles
 * [GreenIT.fr](https://www.greenit.fr/) - :fr: [FR] est un lieu de réflexion sur ces deux enjeux du numérique durable / responsable (définition); éco-conception des équipements et des services numériques, économie d’énergie, réemploi et recyclage, etc. – mais aussi les usages et le rôle du numérique pour glisser vers une économie plus légère, circulaire (cradle to cradle), puis vers une économie positive.
 * [Michaël Petit](https://www.slideshare.net/MorganWattiez/les-impacts-du-secteur-tic-11102019) -  :fr: [Slides] [FR] (2019) Les impacts des TIC (Technologies de l'information et de la communication) sur l'environnement | Analyse des impacts, et propositions d'actions et aides concrètes. via Almin conference (UNamur, Belgique)
-* [Djan GicquelL](https://www.djan-gicquel.fr/reduire-son-empreinte-carbone-numerique) - :fr: [FR] (2019) Réduire son empreinte carbone numérique
+* [Djan Gicquel](https://www.djan-gicquel.fr/reduire-son-empreinte-carbone-numerique) - :fr: [FR] (2019) Réduire son empreinte carbone numérique
 > * Bloquer la publicité et les pisteurs de façon efficace sur le web
 > * Limiter l’usage des moteurs de recherches
 > * Limiter et optimiser son usage du cloud
-> *  Utiliser des logiciels P2P pour envoyer des fichiers et communiquer
+> * Utiliser des logiciels P2P pour envoyer des fichiers et communiquer
 > * Diminuer son usage des réseaux sociaux
 > * Optimiser la batterie de son smartphone
 > * Limiter son usage du streaming
@@ -1356,6 +1356,16 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Essayer de vous passer du wifi et passez au câble ethernet. 
 > * Ne pas laisser ses appareils en veille. Prenez l’habitude d’éteindre vraiment votre pc fixe ou portable, d’éteindre les écrans et les multiprises de vos appareils.
 > * Utiliser les modes sombres des applications.
+* [Dominique Meeùs](https://d-meeus.be/linux/ink-usage.html) - :fr: [FR] (2012) Économie d’encre
+> J’ai alors mesuré avec l’aide de pkpgcounter sur des versions PDF de mes documents la proportion de noir dans la surface totale si on les imprimait en 600 dpi [..] Cela donne les résultats suivants en pourcentage de noir sur la surface de la page 
+> * Free Serif (11,3 pt, 3 151 caractères) 6,182 890 %
+> * Linux Libertine O (12 pt, 3 155 caractères ) 6,396 547 %
+> * URW Bookman L (10,5 pt, 3 153 caractères) 6,796 432 %
+> * Times New Roman (12 pt, 3 153 caractères) 6,970 791 %
+> * URW Gothic L (10,6 pt, 3 153 caractères) 7,219 216 %
+> * Verdana (10,3 pt, 3 149 caractères) 8,071 796 %
+> * Georgia (11,3 pt, 3 149 caractères) 8,074 857 %
+> * Arial (11,3 pt, 3 148 caractères) 8,835 107 %
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
