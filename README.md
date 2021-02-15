@@ -1338,6 +1338,24 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [écoconso](https://www.ecoconso.be/fr/content/magasins-de-vrac-et-zero-dechet-de-wallonie-et-bruxelles) - [FR] [BE] Magasins de vrac et zéro déchet de Wallonie et Bruxelles
 * [GreenIT.fr](https://www.greenit.fr/) - :fr: [FR] est un lieu de réflexion sur ces deux enjeux du numérique durable / responsable (définition); éco-conception des équipements et des services numériques, économie d’énergie, réemploi et recyclage, etc. – mais aussi les usages et le rôle du numérique pour glisser vers une économie plus légère, circulaire (cradle to cradle), puis vers une économie positive.
 * [Michaël Petit](https://www.slideshare.net/MorganWattiez/les-impacts-du-secteur-tic-11102019) -  :fr: [Slides] [FR] (2019) Les impacts des TIC (Technologies de l'information et de la communication) sur l'environnement | Analyse des impacts, et propositions d'actions et aides concrètes. via Almin conference (UNamur, Belgique)
+* [Djan GicquelL](https://www.djan-gicquel.fr/reduire-son-empreinte-carbone-numerique) - :fr: [FR] (2019) Réduire son empreinte carbone numérique
+> * Bloquer la publicité et les pisteurs de façon efficace sur le web
+> * Limiter l’usage des moteurs de recherches
+> * Limiter et optimiser son usage du cloud
+> *  Utiliser des logiciels P2P pour envoyer des fichiers et communiquer
+> * Diminuer son usage des réseaux sociaux
+> * Optimiser la batterie de son smartphone
+> * Limiter son usage du streaming
+> * Optimiser son usage du courriel
+> * Faire durer ses équipements
+> * Utiliser des systèmes d’exploitations libres
+> *  Créer des sites web léger et sans briques GAFAM
+> * L’utilisation de l’encre et le toner ont également un impact écologique. il est possible de faire des économies en changeant de polices.
+> * Vous n’êtes pas forcé de prendre vos photos en 16 M de pixels. Vous pouvez réduire la résolution de vos photos.
+> * Éteindre sa box quand on ne s’en sert pas. 
+> * Essayer de vous passer du wifi et passez au câble ethernet. 
+> * Ne pas laisser ses appareils en veille. Prenez l’habitude d’éteindre vraiment votre pc fixe ou portable, d’éteindre les écrans et les multiprises de vos appareils.
+> * Utiliser les modes sombres des applications.
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
