@@ -1663,8 +1663,11 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 > * Focus on results; not time : Time tracking is unavoidable in some instances, but rather than the rule by which companies operate, it should be used as a secondary metric to the results they achieve. Rather than give an employee a 2-hour window to do a job, have her do it right the first time (bonus points for documenting the process), then review and adjust your future plans based on time tracking data.
 > * Improve systems : Improving systems helps remove busywork from an employee’s day, but it also makes things easier for the customer. 
 > * Whether you’re getting a lot of satisfaction from being busy or just feeling exasperated, don’t forget to occasionally stop and ask yourself: Is this the best use of time?
+
+> Tools
 * [Devhints](https://devhints.io/) - Rico's cheatsheets | TL;DR for developer documentation
 * [Semver check](https://jubianchi.github.io/semver-check/#/) - More and more projects try to follow Semantic Versioning to reduce package versioning nightmare and every dependency manager implements its own semantic versioner. Composer and NPM for example don't handle version constraints the same way. It's hard sometimes to be sure how some library version will behave against some constraint. This tiny webapp checks if a given version satisfies another given constraint.
+* [CodeElf](https://unbug.github.io/codelf) - Search over Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names | A search tool helps dev to solve the naming things problem. **Source code** : [unbug/codelf](https://github.com/unbug/codelf)
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
