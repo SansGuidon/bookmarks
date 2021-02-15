@@ -1716,6 +1716,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 * [Sedja](https://www.sejda.com/) - Easy, pleasant and productive PDF editor
 * [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
+* [htaccess tester](https://htaccess.madewithlove.be/) - Test your htaccess rewrite rules
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -2812,6 +2813,7 @@ See also [Monitoring](#monitoring)
 * [phanan/htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
 * [Apache Docs](https://httpd.apache.org/docs/2.4/en/misc/security_tips.html) - Security Tips for Apache HTTP server
 * [AskApache](https://www.askapache.com/htaccess/) - THE Ultimate .htaccess tutorial with 100's of Examples | This is a guide for using htaccess to the fullest. **Bonus** : [Htaccess Files from Github](https://www.askapache.com/htaccess-file/)
+* [htaccess tester](https://htaccess.madewithlove.be/) - Test your htaccess rewrite rules
 
 ## Atlassian
 > News
