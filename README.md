@@ -1366,6 +1366,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Verdana (10,3 pt, 3 149 caractères) 8,071 796 %
 > * Georgia (11,3 pt, 3 149 caractères) 8,074 857 %
 > * Arial (11,3 pt, 3 148 caractères) 8,835 107 %
+* [Alex so yes](https://alexsoyes.com/eco-conception-web/) - :fr: [FR] (2021) Comment coder un site écologique ? Devenir un développeur green avec l’éco-conception web
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
