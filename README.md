@@ -2053,6 +2053,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * the boss should also ask more about his professional goals. Perhaps he could suggest a conference the company could pay for him to attend, or a new project that he could head up
 > * If you recognize some cynical tendencies within yourself, you might also keep an eye out for ways to empower yourself within your job. After all, the lesson is clear: Cynicism just doesn’t pay.
 * [Nicholas Bate](https://blog.strategicedge.co.uk/2020/07/stress-reduction-22.html) - (2020) Stress Reduction - 22 tips
+* [Nicholas Bate](https://blog.strategicedge.co.uk/2013/03/tidy-up-as-you-go-along-be-it-cooking-diy-or-selling-your-software-solution-remember-the-small-stuff-as-it-is-big-stuf.html) - (2013) Life Tips 101
 
 ## Remote work
 > Finding a remote job
@@ -3468,6 +3469,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 > * Slow down enough that you can recognise the tantalisingly seductive but perspective destroying, energy depleting and soul withering nature of the blisteringly urgent, but actually not at all important.
 > * Say 'no'. Say it constructively. Say it nicely. Say it helpfully. But say 'no'.
 > * Do a few things totally brilliantly every day. And feel very productive.
+* [Nicholas Bate](https://blog.strategicedge.co.uk/2013/03/tidy-up-as-you-go-along-be-it-cooking-diy-or-selling-your-software-solution-remember-the-small-stuff-as-it-is-big-stuf.html) - (2013) Life Tips 101
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
