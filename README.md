@@ -2052,6 +2052,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * one way to break the cycle of cynicism and disrespect may be to help people feel more empowered.
 > * the boss should also ask more about his professional goals. Perhaps he could suggest a conference the company could pay for him to attend, or a new project that he could head up
 > * If you recognize some cynical tendencies within yourself, you might also keep an eye out for ways to empower yourself within your job. After all, the lesson is clear: Cynicism just doesn’t pay.
+* [Nicholas Bate](https://blog.strategicedge.co.uk/2020/07/stress-reduction-22.html) - (2020) Stress Reduction - 22 tips
 
 ## Remote work
 > Finding a remote job
