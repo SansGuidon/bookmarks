@@ -2964,7 +2964,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Daniel Miessler](https://danielmiessler.com/blog/is-it-wrong-to-have-children/) - Is It Wrong to Have Children?
 * [David Walsh](https://davidwalsh.name/being-a-dev-dad) - (2016) Being a Dev Dad
 * [Amala Espace Naissance](https://www.naissance-amala.be/ressources/audio/pleine-conscience-mindfulness/) - :fr: [FR] [Audio] Pleine conscience/Mindfulness
-* [Les couilles sur la table](https://www.binge.audio/podcast/les-couilles-sur-la-table/papa-mode-demploi) - :fr: [FR] [Audio] (2020) #66 - Papa mode d’emploi
+* [Les couilles sur la table](https://www.binge.audio/podcast/les-couilles-sur-la-table/papa-mode-demploi) - :fr: [FR] [Audio] (2020) #66 Papa mode d’emploi
 * [Les couilles sur la table](https://www.binge.audio/podcast/les-couilles-sur-la-table/les-peres-au-travail) - :fr: [FR] [Audio] (2020) #67 Les pères au travail
 
 # Philosophy :thought_balloon:
