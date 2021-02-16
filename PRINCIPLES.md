@@ -291,3 +291,12 @@ See also [Calm programming / Slow programming](sections/programming.md#calm-prog
 * [Shower Thoughts](https://twitter.com/TheWeirdWorld/status/930155807651528706) - Don’t forget to drink water, get sunlight, and that we are basically a house plant with complicated feelings.
 * Let things blow up from time to time, you're not your work, don't feel you are not responsible for everything within your employer's company, and your employer is more resilient than you think.
 * Eat slowly
+### Healthy tips in the covid world
+* [Nicholas Bate](https://blog.strategicedge.co.uk/2021/02/seven-productivity-boosters-in-a-covid-19-world.html) - (2021) Seven Productivity Boosters in a Covid-19 World
+> * Every 45 minutes, take 5 minutes. Stand, stretch, sip water, look out of a window at the horizon and ask what's really important at this moment?
+> * Control what you can: your mood, where you place your attention (see 1) and the accessibility of distractions.
+> * Sort out and invest in the home office. It’s permanent. 
+> * Have a flight-deck: one place, one view, one perspective of what you need to focus on. This is not your in-box. Unsure? Read You, Only Better. 
+> * Slow down enough that you can recognise the tantalisingly seductive but perspective destroying, energy depleting and soul withering nature of the blisteringly urgent, but actually not at all important.
+> * Say 'no'. Say it constructively. Say it nicely. Say it helpfully. But say 'no'.
+> * Do a few things totally brilliantly every day. And feel very productive.
