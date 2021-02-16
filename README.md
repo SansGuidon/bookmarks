@@ -2102,6 +2102,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Brandur Leach](https://brandur.org/fragments/caffeine) - Caffeine | An experiment of Brandur in seriously throttling back its caffeine intake for the first time in years.
 * [The Coffee Compass](https://baristahustle.com/blog/the-coffee-compass/) - Brew a coffee. Taste it. Adapt and repeat until you find the coffee you prefer.
 
+> History
+* [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
+
 > Toys collections
 * [Yo Joe!](http://www.yojoe.com/action/) - the internet's premiere archive site about G.I. Joe: A Real American Hero | probably the oldest website I remember to visit in my young age
 
@@ -2110,8 +2113,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 
 > Balades et nature
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
-* [
-](https://www.balnam.be/) - :fr: [FR] Les chemins et sentiers publics de la Province de Namur.
+* [balnam.be](https://www.balnam.be/) - :fr: [FR] Les chemins et sentiers publics de la Province de Namur.
 * [RouteYou](https://www.routeyou.com/fr-be/location/walk/47407895/bruxelles-a-pied-resume-de-toutes-les-itineraires-a-pied) - :fr: [FR] itinéraires à pied ou en vélo à Bruxelles
 * [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
 
@@ -2966,6 +2968,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Amala Espace Naissance](https://www.naissance-amala.be/ressources/audio/pleine-conscience-mindfulness/) - :fr: [FR] [Audio] Pleine conscience/Mindfulness
 * [Les couilles sur la table](https://www.binge.audio/podcast/les-couilles-sur-la-table/papa-mode-demploi) - :fr: [FR] [Audio] (2020) #66 Papa mode d’emploi
 * [Les couilles sur la table](https://www.binge.audio/podcast/les-couilles-sur-la-table/les-peres-au-travail) - :fr: [FR] [Audio] (2020) #67 Les pères au travail
+* [Histoires de Darons](https://www.darons.fr/) - :fr: [FR] La parole est aux darons ! Tous les premiers et troisièmes lundis de chaque mois, Fabrice FLORENT invite un daron, connu ou anonyme, à raconter son Histoire autour de la paternité.
 
 # Philosophy :thought_balloon:
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
@@ -3042,6 +3045,9 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, with Charity Majors aka mipsytipsy | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
 * [Grand bien vous fasse !](https://www.franceinter.fr/emissions/grand-bien-vous-fasse/grand-bien-vous-fasse-19-janvier-2021) - (2021) :fr: [FR] [Audio] L'hypersensibilité
 * [Amala Espace Naissance](https://www.naissance-amala.be/ressources/audio/pleine-conscience-mindfulness/) - :fr: [FR] [Audio] Pleine conscience/Mindfulness
+* [Les couilles sur la table](https://www.binge.audio/podcast/les-couilles-sur-la-table/papa-mode-demploi) - :fr: [FR] [Audio] (2020) #66 Papa mode d’emploi
+* [Les couilles sur la table](https://www.binge.audio/podcast/les-couilles-sur-la-table/les-peres-au-travail) - :fr: [FR] [Audio] (2020) #67 Les pères au travail
+* [Histoires de Darons](https://www.darons.fr/) - :fr: [FR] La parole est aux darons ! Tous les premiers et troisièmes lundis de chaque mois, Fabrice FLORENT invite un daron, connu ou anonyme, à raconter son Histoire autour de la paternité.
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
