@@ -400,8 +400,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] :fr: [Book] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
 * [Google](https://landing.google.com/sre/book.html) - [Book] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
 * [DZone](https://dzone.com/guides/devops-culture-and-process) - (2018) [Book] [PDF] DZone's free 50 pages Guide to DevOps: Culture and Process
-* :star: [**Library Genesis**](https://libgen.is/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.me/), [Mirrors list](http://sguru.org/libgen-proxy/)
-* :star: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
+* :fire: [**Library Genesis**](https://libgen.is/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.me/), [Mirrors list](http://sguru.org/libgen-proxy/)
+* :fire: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
 * [The Hidden Wiki](https://zqktlwi4fecvo6ri.onion.to/wiki/Libraries) - [TOR] a list of websites that have free ebooks.
 * [Imperial Library](https://xfmro77i3lixucja.onion.to/) - [TOR] online library with +100.000 books
 * [Deep web sites links](https://www.deepwebsiteslinks.com/deep-web-books-sites-links/) - [TOR] Deep Web Books Link | Dark Web Books Sites
@@ -1378,9 +1378,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 # Finding content :mag:
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
 * :star: [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
-* :star: [**Library Genesis**](https://libgen.is/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.me/), [Mirrors list](http://sguru.org/libgen-proxy/)
+* :fire: [**Library Genesis**](https://libgen.is/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.me/), [Mirrors list](http://sguru.org/libgen-proxy/)
 * :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
-* :star: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
+* :fire: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music .
 * [RuTracker](https://rutracker.org/forum/index.php) - torrent for music
 * [OpenSubtitles.org](https://www.opensubtitles.org/) - large open subtitles database for tv shows and movies
@@ -1494,7 +1494,6 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Open Culture](http://www.openculture.com/freemoviesonline) - 1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, Documentaries, etc.
 * [ZippyShare](https://zippysharesearch.info) - Search and Download Free MP3, Music, Books, Epubs, APK and Video
 * [Yggtorrent](https://www2.yggtorrent.gg) - 1st French torrent tracker
-* :star: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
 * [50GamesLike](https://www.50gameslike.com/) - video game recommendation engine with more than 40 000 video games : select a game you love and discover 50 recommendations.
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts : The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
 * [TorrentSeeker](https://search.torrents.io) - is a powerful torrent search combining results from dozens of torrent sites
@@ -2646,7 +2645,7 @@ type `curl ident.me` to know your public ip
 * [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
 * [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
 * [reddit](https://www.reddit.com/controversial/) - most controversial links
-* :star: [**sebsauvage**](https://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
+* :fire: [**sebsauvage**](https://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
 * [Korben](https://korben.info/) - :fr: [FR] Upgrade your mind
 * [Matthieu Lesne aka coreight](https://coreight.com/) - :fr: [FR] Le blog d'infos et astuces web; high tech
 * [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
@@ -3059,7 +3058,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [/r/encryption](https://www.reddit.com/r/encryption/) - everything about encryption on reddit
 * [/r/privacy](https://www.reddit.com/r/privacy/) - everything about privacy on reddit
 * [/r/pwned](https://www.reddit.com/r/pwned/) - data breaches, site defacements, rm's, hack logs
-* :star: [**sebsauvage**](https://sebsauvage.net/links/?searchtags=privacy) - :fr: [FR] Liens en vrac de sebsauvage
+* :fire: [**sebsauvage**](https://sebsauvage.net/links/?searchtags=privacy) - :fr: [FR] Liens en vrac de sebsauvage
 * [DuckDuckGo](https://spreadprivacy.com/privacy-tips/home) - Fix Tracking : how to stop getting tracked on desktop and mobile
 * [PrivacyAngel](https://privacyangel.com/) - Better protect your privacy online | Know which data you share for each popular online services.
 * [DesGeeksetdeslettres](https://desgeeksetdeslettres.com/) - :fr: [FR] fournit des outils et des connaissances pour protéger votre vie privée contre la surveillance massive mondiale. Ce blog anime depuis 2009 une communauté florissante d'individus soucieux de la protection de la vie privée et s'informe au jour le jour des nouvelles avancées en matière de protection de vos données en ligne.
