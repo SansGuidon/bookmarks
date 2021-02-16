@@ -3459,6 +3459,14 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Seth Godin](https://seths.blog/2016/06/your-job-vs-your-project/) - (2016) Your job vs. your project
 * [Seth Godin](https://seths.blog/2005/03/dont_shave_that/) - (2005) Don’t Shave That Yak!
 > * The minute you start walking down a path toward a yak shaving party, it’s worth making a compromise. Doing it well now is much better than doing it perfectly later.
+* [Nicholas Bate](https://blog.strategicedge.co.uk/2021/02/seven-productivity-boosters-in-a-covid-19-world.html) - (2021) Seven Productivity Boosters in a Covid-19 World
+> * Every 45 minutes, take 5 minutes. Stand, stretch, sip water, look out of a window at the horizon and ask what's really important at this moment?
+> * Control what you can: your mood, where you place your attention (see 1) and the accessibility of distractions.
+> * Sort out and invest in the home office. It’s permanent. 
+> * Have a flight-deck: one place, one view, one perspective of what you need to focus on. This is not your in-box. Unsure? Read You, Only Better. 
+> * Slow down enough that you can recognise the tantalisingly seductive but perspective destroying, energy depleting and soul withering nature of the blisteringly urgent, but actually not at all important.
+> * Say 'no'. Say it constructively. Say it nicely. Say it helpfully. But say 'no'.
+> * Do a few things totally brilliantly every day. And feel very productive.
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
