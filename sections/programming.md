@@ -1485,7 +1485,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 * [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. **Bonus** : [Website](https://free-for.dev)
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. **Website** : [Free for developers](https://free-for.dev)
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - collection of simplified and community-driven man pages.
 * [accatyyc/tldr-man](https://github.com/accatyyc/tldr-man) - A Makefile that creates manpages from all the [tldr-pages/tldr](https://github.com/tldr-pages/tldr).
