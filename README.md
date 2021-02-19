@@ -1036,6 +1036,11 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * So next time you hear something, or someone, talk about an idea, pitch an idea, or suggest an idea, give it five minutes. Think about it a little bit before pushing back, before saying it’s too hard or it’s too much work. Those things may be true, but there may be another truth in there too: It may be worth it.
 * [Seth Godin](https://seths.blog/2021/02/the-easy-way-down/) - (2021) The easy way down
 * [Mike Crittenden](https://critter.blog/2021/02/15/beware-of-exception-debt/) - (2021) Beware of exception debt
+* [Mike Crittenden](https://critter.blog/2021/02/19/be-a-better-coworker/) - (2021) Be a better coworker
+* > Organization. Don't lose crap, ever. Passwords, dates, files, emails, notes, links, whatever.
+* > Responsiveness. Be easy to reach and quick to respond (but protect your focused deep work time).
+* > Reliability. If you said you'll do it, then freaking do it, no matter how tiny it is. People notice.
+* > Warmth. Maybe you can't be funny or charming, but you can be warm.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
