@@ -3484,6 +3484,9 @@ See also [Operations / IT OPS](#operations--it-ops)
 > * Say 'no'. Say it constructively. Say it nicely. Say it helpfully. But say 'no'.
 > * Do a few things totally brilliantly every day. And feel very productive.
 * [Nicholas Bate](https://blog.strategicedge.co.uk/2013/03/tidy-up-as-you-go-along-be-it-cooking-diy-or-selling-your-software-solution-remember-the-small-stuff-as-it-is-big-stuf.html) - (2013) Life Tips 101
+* [Seth Godin](https://seths.blog/2021/02/an-abundance-of-caution/) - (2021) An abundance of caution
+> * It turns out that we don’t need an abundance of caution. We need appropriate caution. They’re different things. Abundant caution is wasted.
+> * Please don’t avoid appropriate caution. It matters to you and to the community. But seeking reassurance and peace of mind by trying to drive risk to zero doesn’t get you either one of them.
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
