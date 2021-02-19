@@ -99,3 +99,4 @@
 * Educating a team slows you down for a week or two. Not educating the team slows you down forever. Time spent in learning is never wasted. [Allen Holub](https://twitter.com/allenholub/status/1134704667328335873)
 * Don't be pushed by your problems. Be led by your dreams. Ralph Waldo Emerson
 * There is never enough time to do it right yet we find time to do it again and again. Jack Bergman?
+* Ignorantia juris non excusat or ignorantia legis neminem excusat (Latin phrase for "ignorance of the law does not excuse")
