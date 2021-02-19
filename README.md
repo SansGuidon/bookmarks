@@ -168,7 +168,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Web development](#web-development)
   * [Web development checklists / best practices](#web-development-checklists--best-practices)
   * [Web development tools](#web-development-tools)
-* [Windows](#windows]
+* [Windows](#windows)
 * [Wordpress](#wordpress)
 * [Writing](#writing-pencil2)
 
