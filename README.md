@@ -6,7 +6,7 @@
 
 Contributions are more than welcome. Read the [contribution guidelines](CONTRIBUTING.md).
 
-by **[@MorganGeek](https://twitter.com/MorganGeek)**
+by [**MorganGeek**](https://blog.morgangeek.be/) - **Twitter** : [@MorganGeek](https://twitter.com/MorganGeek)
 
 How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or [![Share on Twitter][img-twitter]][twitter]
 
