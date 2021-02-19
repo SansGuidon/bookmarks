@@ -1724,6 +1724,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Sedja](https://www.sejda.com/) - Easy, pleasant and productive PDF editor
 * [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 * [htaccess tester](https://htaccess.madewithlove.be/) - Test your htaccess rewrite rules
+* [Grammar Checker](https://www.grammarcheck.net/editor/) - Enter the text that you want to check for grammar, spelling, and punctuation mistakes
+* [Scribens](https://www.scribens.com/) - checks the grammar of your texts and finds spelling mistakes.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -4746,6 +4748,10 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Giles Turnbull](https://gilest.org/2021/how-to-write-like-you-speak/) - (2021) How to write like you speak
 * [Giles Turnbull](https://gilest.org/2021/how-to-be-clear/) - (2021) How to be clear
 
+> Tools
+* [Grammar Checker](https://www.grammarcheck.net/editor/) - Enter the text that you want to check for grammar, spelling, and punctuation mistakes
+* [Scribens](https://www.scribens.com/) - checks the grammar of your texts and finds spelling mistakes.
+* [BonPatron](http://bonpatron.com/) - [FR] :fr: online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
+
 # Wordpress
 * [Wordpress Docs](https://wordpress.org/support/article/giving-wordpress-its-own-directory/) - Giving WordPress Its Own Directory
-
