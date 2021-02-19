@@ -1110,6 +1110,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Brad Appleton](http://wiki.c2.com/?LocalityOfReferenceDocumentation) - Locality Of Reference Documentation (LoRD)
 > * Code and documentation should be kept as close as feasible, but no closer!
 > * Minimizing the amount of documentation that must be created and maintained in the first place is probably one of the most important aspects of applying LoRD (perhaps even a precursor)
+* [Graydon Hoare](https://graydon2.dreamwidth.org/193447.html) - (2014) always bet on text
 
 > Tips
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
