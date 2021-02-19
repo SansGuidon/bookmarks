@@ -170,7 +170,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Web development tools](#web-development-tools)
 * [Windows](#windows)
 * [Wordpress](#wordpress)
-* [Writing](#writing-pencil2)
+* [Writing :pencil2:](#writing-pencil2)
 
 # Anime :jp:
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
