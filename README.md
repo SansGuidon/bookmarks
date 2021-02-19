@@ -168,6 +168,9 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Web development](#web-development)
   * [Web development checklists / best practices](#web-development-checklists--best-practices)
   * [Web development tools](#web-development-tools)
+* [Windows](#windows]
+* [Wordpress](#wordpress)
+* [Writing](#writing-pencil2)
 
 # Anime :jp:
 * [anime-planet](http://www.anime-planet.com/) - one of the most complete manga and anime database for finding recommended content, or cataloging and reviewing your collection
@@ -4719,6 +4722,9 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Cmder](https://cmder.net/) - Lovely console emulator package for Windows
 * [Aidan Preston](https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html) - (2019) Windows Notes / Cheatsheet | Handy commands and notes from a Penetration Tester
 
+# Wordpress
+* [Wordpress Docs](https://wordpress.org/support/article/giving-wordpress-its-own-directory/) - Giving WordPress Its Own Directory
+
 # Writing :pencil2:
 * [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) - A collection of awesome resources for technical book authors
 * [Matt Stauffer](https://mattstauffer.com/blog/why-i-wrote-my-book-with-oreilly/) - (2016) Why I wrote my book with O'Reilly
@@ -4752,6 +4758,3 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Grammar Checker](https://www.grammarcheck.net/editor/) - Enter the text that you want to check for grammar, spelling, and punctuation mistakes
 * [Scribens](https://www.scribens.com/) - checks the grammar of your texts and finds spelling mistakes.
 * [BonPatron](http://bonpatron.com/) - [FR] :fr: online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
-
-# Wordpress
-* [Wordpress Docs](https://wordpress.org/support/article/giving-wordpress-its-own-directory/) - Giving WordPress Its Own Directory
