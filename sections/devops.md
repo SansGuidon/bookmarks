@@ -20,6 +20,7 @@
 * [OpenShift](#openshift)
 * [Packer](#packer)
 * [SecOps](#secops)
+* [Site Reliability Engineering](#site-reliability-engineering)
 * [Tekton](#tekton)
 * [Terraform](#terraform)
 * [Travis CI](#travis-ci)
@@ -1177,6 +1178,26 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
 * [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 * [Jaikumar Vijayan](https://techbeacon.com/how-securely-scale-chatops-enterprise) - How to securely scale ChatOps in the enterprise
+
+## Site Reliability Engineering
+* [Josh @ Overseer](https://engr.overseerlabs.io/the-devops-tool-arsenal-results-from-100-devops-sre-surveys-c453483742f) - The DevOps tool arsenal: Results from ~100 DevOps/SRE surveys
+* [Josh @ Overseer](https://engr.overseerlabs.io/clouds-containers-microservices-infra-and-architecture-from-100-devops-sre-surveys-cb636b1a1589) - Clouds, containers & microservices: infra and architecture from ~100 DevOps/SRE surveys
+* [Josh @ Overseer](https://engr.overseerlabs.io/fears-and-favorites-from-100-devops-sre-surveys-84a1365a9f18) - Fears and favorites from 100+ DevOps/SRE surveys
+* [Asaf Yigal](https://devops.com/sre-vs-devops-false-distinction/) - (2017) SRE vs. DevOps — a False Distinction?
+* [Google](https://landing.google.com/sre/book.html) - [Book] Site Reliability Engineering | free book about how SRE at Google build, deploy, monitor, and maintain some of the largest software systems in the world.
+* [Matt Watson](https://stackify.com/web-operations/) - (2017) What is Web Operations? How Does it Relate to DevOps and SRE?
+* [Pavan Belagatti](http://blog.shippable.com/devops-resources-top-5-devops-books-every-devops-enthusiast-must-read) - (2017) DevOps Resources: 5 Books Every DevOps Enthusiast Must Read! | + [the SRE book](https://landing.google.com/sre/book.html)
+* [Aymen El Amri](https://hackernoon.com/50-best-devops-sre-blog-posts-tutorials-of-2017-451a7d69c4ef) - (2018) 50 Best DevOps & SRE Blog Posts & Tutorials Of 2017
+* [New Relic](https://newrelic.com/resource/site-reliability-engineering) - Site Reliability Engineering | Philosophies, Habits, and Tools for SRE Success
+* [Alex Aitken](https://www.alexaitken.nz/blog/sre-role-in-team/) - (2018) SRE role in team
+* [AJ Ross, Adrian Hilton, Dave Rensin](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html) - (2017) SLOs, SLIs, SLAs, oh my - CRE life lessons | for DevOps professionals / SRE
+* [Krishelle Hardson-Hurley](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c) - (2017) So you want to be an SRE?
+* [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+* [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+* [LinkedIn](https://linkedin.github.io/school-of-sre/) - School of SRE : LinkedIn, uses this curriculum for onboarding their entry-level talents into the SRE role. **Source code** [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
+* [Matt Watson](https://stackify.com/site-reliability-engineering/) - (2017) What Is Site Reliability Engineering and Why You Should Embrace It
+* [Katie Ballinger](https://circleci.com/blog/onboarding-new-site-reliability-engineers/) - (2017) Onboarding New Site Reliability Engineers
+* [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
 
 ## Tekton
 * [instrumenta/conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language. **See also** [Official Website](https://conftest.dev)
