@@ -386,6 +386,7 @@
 * [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, with Charity Majors aka mipsytipsy | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
 * [Ian Miell](https://zwischenzugs.com/2020/11/30/gitops-decisions/) - (2020) GitOps Decisions
 * [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+* [LinkedIn](https://linkedin.github.io/school-of-sre/) - School of SRE : LinkedIn, uses this curriculum for onboarding their entry-level talents into the SRE role. **Source code** [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
