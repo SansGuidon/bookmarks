@@ -58,6 +58,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [OpenShift](sections/devops.md#openshift)
   * [Packer](sections/devops.md#packer)
   * [SecOps](sections/devops.md#secops)
+  * [Site Reliability Engineering](sections/devops.md#site-reliability-engineering)
   * [Tekton](sections/devops.md#tekton)
   * [Terraform](sections/devops.md#terraform)
   * [Travis CI](sections/devops.md#travis-ci)
