@@ -2669,6 +2669,7 @@ type `curl ident.me` to know your public ip
 * [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 * [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [DesGeeksetdeslettres](https://desgeeksetdeslettres.com/) - :fr: [FR] fournit des outils et des connaissances pour protéger votre vie privée contre la surveillance massive mondiale. Ce blog anime depuis 2009 une communauté florissante d'individus soucieux de la protection de la vie privée et s'informe au jour le jour des nouvelles avancées en matière de protection de vos données en ligne.
+* [Timeless Hacker News](https://thn.rakhim.org/) - refresh for 30 random good posts
 
 # Operations / IT OPS
 See also [Monitoring](#monitoring)
@@ -3165,6 +3166,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [The Useless Web](http://www.theuselessweb.com) - Take you to another random useless website
 * [The Whimsical Web](https://whimsical.club/1/) - Websites that spark joy - A curated list of sites with an extra bit of fun. [Source code](https://github.com/maxboeck/whimsical)
 * [Koreus](https://www.koreus.com/videos/koreusity/nouveau/) - :fr: [FR] [Video] Vidéos récentes : Koreusity, le zapping du web | Zapping hebdomadaire des vidéos à la con du web
+* [Timeless Hacker News](https://thn.rakhim.org/) - refresh for 30 random good posts
 
 # Productivity :fast_forward:
 > News
