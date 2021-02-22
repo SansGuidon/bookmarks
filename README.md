@@ -1730,6 +1730,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [htaccess tester](https://htaccess.madewithlove.be/) - Test your htaccess rewrite rules
 * [Grammar Checker](https://www.grammarcheck.net/editor/) - Enter the text that you want to check for grammar, spelling, and punctuation mistakes
 * [Scribens](https://www.scribens.com/) - checks the grammar of your texts and finds spelling mistakes.
+* [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -3785,6 +3786,7 @@ See also [Machine learning](sections/programming.md#machine-learning)
 * [Neo-Luddism](https://en.wikipedia.org/wiki/Neo-Luddism) - Neo-Luddism or new Luddism is a philosophy opposing many forms of modern technology.
 * [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
+* [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
 
 # Shell scripting
 See also [CLI Tools](#cli-tools)
@@ -4761,3 +4763,5 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Grammar Checker](https://www.grammarcheck.net/editor/) - Enter the text that you want to check for grammar, spelling, and punctuation mistakes
 * [Scribens](https://www.scribens.com/) - checks the grammar of your texts and finds spelling mistakes.
 * [BonPatron](http://bonpatron.com/) - [FR] :fr: online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
+* [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
+
