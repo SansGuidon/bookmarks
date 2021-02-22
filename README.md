@@ -1754,7 +1754,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [IsThereAnyDeal.com](https://isthereanydeal.com/) - keep track of the best deals for video games you'd like to play
 * [leereilly/games](https://github.com/leereilly/games) - Games on GitHub - A list of open source games & add-ons, maps, etc.
-* [Soldat](https://www.soldat.pl/en/) - Soldat is still one of my favorite multiplayer games for 10+ years, mainly because it's free, its gameplay is simple, the engine can be modded easily and the game uses 2d rendering
+* [Soldat](https://www.soldat.pl/en/) - Soldat is a unique 2D (side-view) multiplayer action game | :duck: It's still one of my favorite multiplayer games for 10+ years (nostalgia), mainly because it's free, its gameplay is simple, the engine can be modded easily and the game uses 2d rendering. **Bonus** the source code is available publicly : [Soldat/soldat](https://github.com/Soldat/soldat)
 * [Illuminion](http://if.illuminion.de/infocom.html) - Classic text adventures masterpieces, to play with DOS or the Frotz-Z machine
 * [Hacknet](http://www.hacknet-os.com/) - a hacking game simulator (not free), potentially boring (move to hackmud)
 * [h a c k m u d](https://www.hackmud.com/) - hackmud, a hacking game simulator (not free) with programming challenges
@@ -1805,7 +1805,6 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [u/TrimMyHedges](https://www.reddit.com/r/gamecollecting/comments/76jgwx/collecting_vs_playing/) - (2017) Collecting vs playing - the problem of spending more time browsing forums, looking for good deals, good games and collecting them etc than actually playing. aka the thrill of the hunt.
  :video_game:
 * [Viking Board Game](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
-* [Soldat/soldat](https://github.com/Soldat/soldat) - Soldat is a unique 2D (side-view) multiplayer action game | :duck: and I have played it for years :-) (nostalgia)
 
 ## Board games
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
