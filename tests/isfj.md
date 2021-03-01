@@ -4,6 +4,7 @@
 
 Fiable, bienveillant et loyal à ceux qui vous sont proches, vous avez une excellente compréhension des réalités factuelles qui vous entourent, ainsi qu’une attention aux détails, chacune de ces qualités vous poussant à vous rapprocher naturellement des autres et de leurs besoins émotionnels. Bienfaisant et attentif, vous avez tendance à assumer rapidement vos responsabilités et à aider les autres dès que vous déterminez qu’une tâche pourrait leur servir. Même si votre entourage n’en est pas vraiment conscient, vous avez tendance à prendre en charge beaucoup de responsabilités. Malgré cela, ce n’est souvent qu’en votre absence que les autres remarquent l’immense contribution que vous apportez habituellement afin de vous assurer que tout fonctionne parfaitement autour de vous et que tout un chacun est pris en considération et se sent à l'aise. Consciencieux, rigoureux, et peut-être un peu perfectionniste, vous n’êtes pas du genre à courir impulsivement après des perspectives incertaines, sans avoir d’abord terminé les efforts requis. Vous avez tendance à trouver une grande satisfaction dans le travail acharné vers l’atteinte de vos buts et dans le soutien inconditionnel aux autres, démontrant ainsi votre souci des autres par vos actions et préférant guider par votre exemple calme et digne.
 
+![isfj](isfj.png)
 
 ## Description - Basic portrait #1
 
