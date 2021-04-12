@@ -1666,7 +1666,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
 * [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
-* [CIDR/Netmask Lookup Tool](https://www.ultratools.com/tools/netMaskResult?ipAddress=37.98.232.8%2F29) -  get information about a CIDR range including the IP addresses and host addresses contained in it.
+* [CIDR/Netmask Lookup Tool](https://dnschecker.org/netmask-cidr.php) -  get information about a CIDR range including the IP addresses and host addresses contained in it.
 * [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
 * [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
