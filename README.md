@@ -1045,6 +1045,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * > Responsiveness. Be easy to reach and quick to respond (but protect your focused deep work time).
 * > Reliability. If you said you'll do it, then freaking do it, no matter how tiny it is. People notice.
 * > Warmth. Maybe you can't be funny or charming, but you can be warm.
+* [Mike Crittenden](https://critter.blog/2021/04/30/the-art-of-booking-a-meeting-just-to-force-you-to-do-a-thing/) - (2021) The art of booking a meeting just to force you to do a thing 
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -3495,6 +3496,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Seth Godin](https://seths.blog/2021/02/an-abundance-of-caution/) - (2021) An abundance of caution
 > * It turns out that we don’t need an abundance of caution. We need appropriate caution. They’re different things. Abundant caution is wasted.
 > * Please don’t avoid appropriate caution. It matters to you and to the community. But seeking reassurance and peace of mind by trying to drive risk to zero doesn’t get you either one of them.
+* [Mike Crittenden](https://critter.blog/2021/04/30/the-art-of-booking-a-meeting-just-to-force-you-to-do-a-thing/) - (2021) The art of booking a meeting just to force you to do a thing 
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
