@@ -1561,6 +1561,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for [JAMstack](https://jamstack.org/) Sites
 * :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar/tools) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
+* [Good Reports](https://goodreports.com/) - There are alternatives to the toxic Big Tech monopolies, and it's important to make the right choices: both to have a better experience online, and to support the teams making superior tools. Good Reports was started in October 2020 to raise awareness about better online tools.
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
