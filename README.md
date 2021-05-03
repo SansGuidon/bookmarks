@@ -1562,6 +1562,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * :star: [**ThoughtWorks**](https://www.thoughtworks.com/radar/tools) - Technology radar : trends, insights into tools, frameworks, languages, techniques & platforms shaping the future
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
 * [Good Reports](https://goodreports.com/) - There are alternatives to the toxic Big Tech monopolies, and it's important to make the right choices: both to have a better experience online, and to support the teams making superior tools. Good Reports was started in October 2020 to raise awareness about better online tools.
+* [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -3163,6 +3164,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting networks and technology aiming at re-decentralizing the Internet.
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. ArchiveBox is a powerful self-hosted internet archiving solution written in Python 3. You feed it URLs of pages you want to archive, and it saves them to disk in a variety of formats depending on the configuration and the content it detects.
 * [Good Reports](https://goodreports.com/) - There are alternatives to the toxic Big Tech monopolies, and it's important to make the right choices: both to have a better experience online, and to support the teams making superior tools. Good Reports was started in October 2020 to raise awareness about better online tools.
+* [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
