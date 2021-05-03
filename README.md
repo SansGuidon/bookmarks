@@ -1093,6 +1093,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Phil Eaton](https://notes.eatonphil.com/transparency-and-communication-on-small-teams.html) - (2020) Transparency and communication on small teams
 * [Brené Brown](https://brenebrown.com/blog/2018/10/15/clear-is-kind-unclear-is-unkind/) - (2018) Clear is Kind. Unclear is Unkind.
 * [Mike Crittenden](https://critter.blog/2020/08/13/clear-is-kind-unclear-is-unkind/) - (2020) Clear is kind, unclear is unkind
+* [Mike Crittenden](https://critter.blog/2021/05/03/death-to-the-word-expert/) - (2021) Death to the word “expert”
 
 ## Documentation
 > Learn
