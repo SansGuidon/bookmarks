@@ -3018,7 +3018,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [The Golden Hour Calculator](http://www.golden-hour.com/) - Sunrise and Sunset information for photographers | a.k.a. what's the best time to take a good picture depending on your location. That's a tip I've learned while preparing my visit to the Neon Museum in Las Vegas
 * [La boite verte](https://www.laboiteverte.fr/) - :fr: [FR] Site de découverte sur la photographie, la science, les arts et tout ce qui est insolite.
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
-
+* [Marc Chaillou](https://www.marccphotographies.com/pourquoi-ne-pas-prendre-de-photos-avec-son-smartphone) - [FR] :fr: (2017) Pourquoi il faut éviter de prendre des photos avec son smartphone et privilégier un reflex lorsque l'on veut faire de la qualité.
+ 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Player FM](https://player.fm/podcasts/Software-Development) - Software Development Podcasts
