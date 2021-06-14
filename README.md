@@ -1131,6 +1131,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mike Crittenden](https://critter.blog/2020/12/03/the-you-get-one-diagram-approach-to-architecture-documents/) - (2020) The “You Get One Diagram” approach to architecture documents
 * [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 * [Seth Godin](https://seths.blog/2016/02/a-manifesto-for-small-teams-doing-important-work/) - (2016) A manifesto for small teams doing important work
+* [Julio Merino](https://jmmv.dev/2021/04/always-be-quitting.html) - (2021) Always be quitting
 
 > Tools
 * [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
