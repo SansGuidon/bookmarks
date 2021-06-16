@@ -1611,6 +1611,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [VirusTotal](https://www.virustotal.com/fr/) - free online scanner for virus, malware and URL, to avoid downloading crap on your machine
 * [Jotti](https://virusscan.jotti.org/) - online virus scanner
 * [Ethical Hacking Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
+* [8 Subdomain Finder Tools Online](https://www.nmmapper.com/sys/tools/subdomainfinder/) - Find subdomains using sublist3r, Amass, Anubis, Lepus and more online.
 * [COMODO CA](https://crt.sh/) - Certificate search online
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records | can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 * [Ethical Hacking Tools](https://pentest-tools.com/home) - online penetration testing tools
