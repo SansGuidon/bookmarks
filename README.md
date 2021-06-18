@@ -1047,6 +1047,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * > Warmth. Maybe you can't be funny or charming, but you can be warm.
 * [Mike Crittenden](https://critter.blog/2021/04/30/the-art-of-booking-a-meeting-just-to-force-you-to-do-a-thing/) - (2021) The art of booking a meeting just to force you to do a thing 
 * [Gandalf Hudlow](https://iism.org/article/developers-can-t-fix-bad-management-57) - (2020) Developers can't fix bad management 
+* [Mike Crittenden](https://critter.blog/2021/06/18/dont-mistake-the-lack-of-your-pet-solution-as-the-problem-itself/) - (2021) Don’t mistake the lack of your pet solution as the problem itself
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
