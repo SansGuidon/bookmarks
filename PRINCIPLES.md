@@ -282,6 +282,7 @@ See also [Calm programming / Slow programming](sections/programming.md#calm-prog
 * When you're done with your commit and push, just double check what you have just done. Sometimes issues or possible improvements appear obvious only when the work is already pushed. Next time, slow down and double check before pushing ;-) 
 * Make your app fail fast in case of error. Ignoring errors will have side effects and can cause even more harm than if you just had the app crashing on first error.
 * Focus on simplicity. The answer is always there. [source](https://blog.strategicedge.co.uk/2013/03/tidy-up-as-you-go-along-be-it-cooking-diy-or-selling-your-software-solution-remember-the-small-stuff-as-it-is-big-stuf.html)
+* Slow is steady. Steady is smooth. Smooth is fast. [Source](https://twitter.com/DanielMiessler/status/1406038903878868992)
 
 ## Slow programming Healthy tips / helpers
 * Disconnect & Focus. Value your time, use it to focus. Put lot of non-meeting blocks in your agenda. 
