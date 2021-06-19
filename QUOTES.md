@@ -100,3 +100,4 @@
 * Don't be pushed by your problems. Be led by your dreams. Ralph Waldo Emerson
 * There is never enough time to do it right yet we find time to do it again and again. Jack Bergman?
 * Ignorantia juris non excusat or ignorantia legis neminem excusat (Latin phrase for "ignorance of the law does not excuse")
+* Slow is steady. Steady is smooth. Smooth is fast. [Source](https://twitter.com/DanielMiessler/status/1406038903878868992)
