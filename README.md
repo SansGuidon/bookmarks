@@ -2141,6 +2141,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
 * [ReflexCity](https://www.reflexcity.net/) - :fr: 🇧🇪 [FR] [BE] Tout Bruxelles dans un site. **Examples :**
   * [Bois des Sept Bonniers (disparu) in Forest, Brussels](http://www.reflexcity.net/bruxelles/communes/forest/bois-des-sept-bonniers-disparu/localisation)
+* [René Rochette](http://forest12.canalblog.com/) 🇫🇷 🇧🇪 [FR] [BE] Promenades Forestoises
  
 # Humor :trollface:
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
