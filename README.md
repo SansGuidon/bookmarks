@@ -1616,6 +1616,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records | can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 * [Ethical Hacking Tools](https://pentest-tools.com/home) - online penetration testing tools
 * [Open Port Check Tool](https://www.yougetsignal.com/tools/open-ports/) - Port forwarding tester - open port finder
+* [Link Unshortener](https://linkunshorten.com/) - Expand short links!
 * [Unshorten.It](https://unshorten.it/) - Unshorten that URL!
 * [BestTariff.be](http://www.bestetarief.be/index.php) - Find the best offer for your mobile / internet / phone usage profile
 * [Cactus2000](http://www.cactus2000.de/fr/unit/masswas.shtml) - [FR] :fr: Convertisseur de dureté de l'eau
