@@ -2128,9 +2128,16 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
+* [Map of Metal](https://mapofmetal.com/) - :metal: An interactive map of Metal history and the influential bands that helped shaped the genres we know today.
+* [The Atlantic](https://www.theatlantic.com/timeline/) - Life Timeline : Explore your life in history. | Tell us your birthday, and we’ll show you how the world has changed during your lifetime.
+* [Yanko Tsvetkov](https://atlasofprejudice.com/tearing-europe-apart-10d01e876eab) - (2014) Tearing Europe Apart | 20 ways to break Europe. Did the laws of neuroscience shape European history?
+* [Joshua Rothman](https://www.newyorker.com/books/page-turner/a-new-history-of-the-second-world-war) - (2017) A New History of the Second World War
+* [John B. Sparks](http://www.visualcapitalist.com/histomap/) - Histomap: Visualizing the 4,000 Year History of Global Power
 * [ReflexCity](https://www.reflexcity.net/) - :fr: 🇧🇪 [FR] [BE] Tout Bruxelles dans un site. **Examples :**
   * [Bois des Sept Bonniers (disparu) in Forest, Brussels](http://www.reflexcity.net/bruxelles/communes/forest/bois-des-sept-bonniers-disparu/localisation)
- 
+* [Blog Histoire](https://blog-histoire.fr/) - :fr: [FR] L'Histoire en podcast
+* [Tim Urban](https://waitbutwhy.com/2014/05/life-weeks.html) - (2014) Your Life in Weeks | A depressing truth
+
 > Toys collections
 * [Yo Joe!](http://www.yojoe.com/action/) - the internet's premiere archive site about G.I. Joe: A Real American Hero | probably the oldest website I remember to visit in my young age
 
