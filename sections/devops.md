@@ -559,6 +559,7 @@ See also [Infrastructure](README.md#infrastructure)
 * [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-use-gruntwork-infrastructure-as-code-library) - How to use the Gruntwork Infrastructure as Code Library
 * [ec2.shop](https://ec2.shop/) - Hacker way to compare ec2 instances price
 * [AWS Pricing Calculator](https://calculator.aws) - lets you explore AWS services, and create an estimate for the cost of your use cases on AWS.
+* [AWS Compute Optimizer](https://console.aws.amazon.com/compute-optimizer/home#/) - Identify optimal AWS Compute resources for your workloads
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
