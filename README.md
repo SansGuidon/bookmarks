@@ -4017,6 +4017,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [DiabloHorn](https://diablohorn.com/2015/09/04/discovering-the-secrets-of-a-pageant-minidump/) - (2015) Discovering the secrets of a pageant minidump
 * [Aaron Toponce, Thomas H. Ptacek, ...](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a) - Cryptographic Best practices
 * [Ethical Hacking Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Find subdomains / free online subdomain enumeration tool
+* [8 Subdomain Finder Tools Online](https://www.nmmapper.com/sys/tools/subdomainfinder/) - Find subdomains using sublist3r, Amass, Anubis, Lepus and more online.
 * [Patrik Hudak](https://blog.sweepatic.com/art-of-subdomain-enumeration/) - the art of subdomain enumeration
 * [COMODO CA](https://crt.sh/) - crt.sh : Certificate search online for any domain
 * [DNSdumpster](https://dnsdumpster.com/) - tool for dns recon & research, find & lookup dns records | can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
