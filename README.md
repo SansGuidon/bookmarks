@@ -2123,19 +2123,23 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
-
+* [ReflexCity](https://www.reflexcity.net/) - :fr: 🇧🇪 [FR] [BE] Tout Bruxelles dans un site. **Examples :**
+  * [Bois des Sept Bonniers (disparu) in Forest, Brussels](http://www.reflexcity.net/bruxelles/communes/forest/bois-des-sept-bonniers-disparu/localisation)
+ 
 > Toys collections
 * [Yo Joe!](http://www.yojoe.com/action/) - the internet's premiere archive site about G.I. Joe: A Real American Hero | probably the oldest website I remember to visit in my young age
 
 > Post Apocalyptic fictions
 * [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
 
-> Balades et nature
+> Walks and nature
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
 * [balnam.be](https://www.balnam.be/) - :fr: [FR] Les chemins et sentiers publics de la Province de Namur.
 * [RouteYou](https://www.routeyou.com/fr-be/location/walk/47407895/bruxelles-a-pied-resume-de-toutes-les-itineraires-a-pied) - :fr: [FR] itinéraires à pied ou en vélo à Bruxelles
 * [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
-
+* [ReflexCity](https://www.reflexcity.net/) - :fr: 🇧🇪 [FR] [BE] Tout Bruxelles dans un site. **Examples :**
+  * [Bois des Sept Bonniers (disparu) in Forest, Brussels](http://www.reflexcity.net/bruxelles/communes/forest/bois-des-sept-bonniers-disparu/localisation)
+ 
 # Humor :trollface:
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 * [/r/DiWHY](https://www.reddit.com/r/DiWHY/) - when DIY goes wrong
