@@ -2100,6 +2100,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Marie Prokopets](https://usefyi.com/remote-work-best-practices/) - (2019) 11 Best Practices for Working Remotely
 * [Remote Mob Programming](https://www.remotemobprogramming.org/) - A summary of the essentials of successful Remote Mob Programming
 * [Thomas A. Limoncelli](https://queue.acm.org/detail.cfm?id=3417752) - (2020) Five Nonobvious Remote Work Technique)
+* [Ed Zitron](https://ez.substack.com/p/the-work-from-home-future-is-destroying) - (2021) The Work-From-Home Future Is Destroying Bosses' Brains | a critique of managers and business owners
 
 # Hobbies
 * [Mike Crittenden](https://critter.blog/2020/12/08/the-key-to-happiness-is-to-stop-getting-upset-all-the-dang-time/) - (2020) The key to happiness is to stop getting upset all the dang time
