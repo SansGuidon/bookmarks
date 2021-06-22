@@ -624,6 +624,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Finactum](https://www.finactum.be/) - 🇧🇪 [BE] A website with free financial information about Belgian companies filing obligation, which also offer low-cost high-quality, readable financial reports to.
 * [Ed Zitron](https://ez.substack.com/p/the-work-from-home-future-is-destroying) - (2021) The Work-From-Home Future Is Destroying Bosses' Brains | a critique of managers and business owners
 * [L'Echo](https://www.lecho.be/monargent/impots/tools/fraisprofessionnels.html) - 🇧🇪 [BE] Frais professionnels
+* [My Tax on Web](https://www.mytaxonweb.be/forfait-legal-ou-frais-reel/) - 🇧🇪 [BE] Forfait légal ou frais réels ?
 
 ## Cryptocurrency
 > News
