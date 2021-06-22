@@ -547,6 +547,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > * Focus on results; not time : Time tracking is unavoidable in some instances, but rather than the rule by which companies operate, it should be used as a secondary metric to the results they achieve. Rather than give an employee a 2-hour window to do a job, have her do it right the first time (bonus points for documenting the process), then review and adjust your future plans based on time tracking data.
 > * Improve systems : Improving systems helps remove busywork from an employee’s day, but it also makes things easier for the customer. 
 > * Whether you’re getting a lot of satisfaction from being busy or just feeling exasperated, don’t forget to occasionally stop and ask yourself: Is this the best use of time?
+* [Michal Kovařík kovarex](https://factorio.com/blog/post/fff-366) - (2021) The only way to go fast, is to go well! | Factorio Team and TDD
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
