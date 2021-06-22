@@ -1050,7 +1050,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Gandalf Hudlow](https://iism.org/article/developers-can-t-fix-bad-management-57) - (2020) Developers can't fix bad management 
 * [Mike Crittenden](https://critter.blog/2021/06/18/dont-mistake-the-lack-of-your-pet-solution-as-the-problem-itself/) - (2021) Don’t mistake the lack of your pet solution as the problem itself
 * [Ed Zitron](https://ez.substack.com/p/the-work-from-home-future-is-destroying) - (2021) The Work-From-Home Future Is Destroying Bosses' Brains | a critique of managers and business owners
- 
+* [Justin Garrison](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - (2021) The Document Culture of Amazon
+
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
 * [Eric Jorgenson](https://medium.com/@ericjorgenson/why-growing-past-20-employees-is-so-damn-hard-and-what-you-can-do-about-it-e37cb302db58) - (2017) Why Growing Past 20 Employees is so Damn Hard (and what you can do about it)
@@ -1126,6 +1127,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Code and documentation should be kept as close as feasible, but no closer!
 > * Minimizing the amount of documentation that must be created and maintained in the first place is probably one of the most important aspects of applying LoRD (perhaps even a precursor)
 * [Graydon Hoare](https://graydon2.dreamwidth.org/193447.html) - (2014) always bet on text
+* [Justin Garrison](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - (2021) The Document Culture of Amazon
 
 > Tips
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
@@ -3294,6 +3296,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 > Points for successful prioritization. Points for efficiency and productivity. Points for doing work that matters.
 > No points for busy.
 * [Mike Crittenden](https://critter.blog/2021/02/15/beware-of-exception-debt/) - (2021) Beware of exception debt
+* [Justin Garrison](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - (2021) The Document Culture of Amazon
 
 ## Productivity tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
