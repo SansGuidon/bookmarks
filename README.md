@@ -607,6 +607,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 > * When making a choice between two options, only consider what’s going to happen in the future, not which investments you’ve made in the past. The past investments are over, lost, gone forever. They are irrelevant to the future.
 * [Seth Godin](https://seths.blog/2007/01/how_to_be_remar/) - (2007) How to be remarkable. Via [The Guardian](https://www.theguardian.com/money/2007/jan/06/careers.work5#article_continue)
 * [Seth Godin](https://seths.blog/2021/02/the-easy-way-down/) - (2021) The easy way down
+* [Petra De Rouck](https://www.lecho.be/dossier/guide-impots-2018/quels-sont-les-frais-professionnels-les-plus-courants/10014280.html) - 🇧🇪 [BE] (2018) Quels sont les frais professionnels les plus courants? | Guide Impôts 2018
+* [BX1](https://bx1.be/categories/news/declaration-dimpots-2021-voici-tout-ce-quil-faut-savoir/) - 🇧🇪 [BE] (2021) Déclaration d’impôt 2021 : voici tout ce qu’il faut savoir
+* [Petra De Rouck](https://www.lecho.be/monargent/analyse/impots/pas-de-restos-ni-de-bureau-en-2020-comment-declarer-vos-frais-professionnels/10307541.html) - 🇧🇪 [BE] (2020) Pas de restos ni de bureau en 2020: comment déclarer vos frais professionnels?
 
 > Tools
 * [Nintendo eShop price comparator](https://eshop-prices.com/prices?currency=EUR) - Find the cheapest price for your favourite game, all prices are in Euro.
@@ -620,6 +623,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Companyweb](https://www.companyweb.be/en) - 🇧🇪 [BE] Know who you’re dealing with | Companyweb specialises in company information in Belgium. Its services allow you to understand the risks, the survival rates, the payment capacity, the profitability, the stability and other key factors of every Belgian company.
 * [Finactum](https://www.finactum.be/) - 🇧🇪 [BE] A website with free financial information about Belgian companies filing obligation, which also offer low-cost high-quality, readable financial reports to.
 * [Ed Zitron](https://ez.substack.com/p/the-work-from-home-future-is-destroying) - (2021) The Work-From-Home Future Is Destroying Bosses' Brains | a critique of managers and business owners
+* [L'Echo](https://www.lecho.be/monargent/impots/tools/fraisprofessionnels.html) - 🇧🇪 [BE] Frais professionnels
 
 ## Cryptocurrency
 > News
