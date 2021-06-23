@@ -333,6 +333,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > * Always have an extension language and a plug-in system (mods).
 > * Are introspective.
 > * Have to be a killer app, or they need one.
+* [Kamil Grzybek](https://www.kamilgrzybek.com/design/feature-folders/) - (2018) Feature Folders | on codebase design
 
 # Art :art:
 > News
