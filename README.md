@@ -2711,6 +2711,7 @@ type `curl ident.me` to know your public ip
 * [DesGeeksetdeslettres](https://desgeeksetdeslettres.com/) - :fr: [FR] fournit des outils et des connaissances pour protéger votre vie privée contre la surveillance massive mondiale. Ce blog anime depuis 2009 une communauté florissante d'individus soucieux de la protection de la vie privée et s'informe au jour le jour des nouvelles avancées en matière de protection de vos données en ligne.
 * [Timeless Hacker News](https://thn.rakhim.org/) - refresh for 30 random good posts
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
+* [DevOps Newsletters](https://devopsnewsletters.com/) - a one stop shop for the best DevOps news content from around the world.
 
 # Operations / IT OPS
 See also [Monitoring](#monitoring)
