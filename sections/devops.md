@@ -1183,6 +1183,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Jaikumar Vijayan](https://techbeacon.com/how-securely-scale-chatops-enterprise) - How to securely scale ChatOps in the enterprise
 
 ## Site Reliability Engineering
+> News
+* [SRE Weekly](https://sreweekly.com/) - is a newsletter devoted to everything related to keeping a site or service available as consistently as possible. | SRE (Site/Service Reliability Engineering) isn’t just about automated failover or fault-tolerant architectures — although of course those are important.  It’s about a holistic view of reliability that takes into account everything from servers to human factors to processes to automation and more.
+
+> Learn
 * [Josh @ Overseer](https://engr.overseerlabs.io/the-devops-tool-arsenal-results-from-100-devops-sre-surveys-c453483742f) - The DevOps tool arsenal: Results from ~100 DevOps/SRE surveys
 * [Josh @ Overseer](https://engr.overseerlabs.io/clouds-containers-microservices-infra-and-architecture-from-100-devops-sre-surveys-cb636b1a1589) - Clouds, containers & microservices: infra and architecture from ~100 DevOps/SRE surveys
 * [Josh @ Overseer](https://engr.overseerlabs.io/fears-and-favorites-from-100-devops-sre-surveys-84a1365a9f18) - Fears and favorites from 100+ DevOps/SRE surveys
