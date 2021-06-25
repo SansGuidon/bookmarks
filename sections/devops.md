@@ -1187,6 +1187,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 ## Site Reliability Engineering
 > News
 * [SRE Weekly](https://sreweekly.com/) - is a newsletter devoted to everything related to keeping a site or service available as consistently as possible. | SRE (Site/Service Reliability Engineering) isn’t just about automated failover or fault-tolerant architectures — although of course those are important.  It’s about a holistic view of reliability that takes into account everything from servers to human factors to processes to automation and more.
+* [Break Things on Purpose](https://www.gremlin.com/podcast/) - A podcast about the practice of Chaos Engineering.
+* [The Downtime Project](https://downtimeproject.com/) - A podcast about why things break on the Internet.
 
 > Learn
 * [Josh @ Overseer](https://engr.overseerlabs.io/the-devops-tool-arsenal-results-from-100-devops-sre-surveys-c453483742f) - The DevOps tool arsenal: Results from ~100 DevOps/SRE surveys
