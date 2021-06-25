@@ -3307,6 +3307,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 > No points for busy.
 * [Mike Crittenden](https://critter.blog/2021/02/15/beware-of-exception-debt/) - (2021) Beware of exception debt
 * [Justin Garrison](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - (2021) The Document Culture of Amazon
+* [Mike Crittenden](https://critter.blog/2021/04/20/future-you-will-be-as-busy-as-current-you/) - (2021) Future-you will be as busy as current-you
 
 ## Productivity tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
