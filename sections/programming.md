@@ -406,6 +406,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Sonny Van Assche](https://www.ntiative.com/the-10-programmer-personality-types-part-1-of-2/) - (2018) The 10 Programmer Personality Types (Part 1 of 2) | **Part 2** [here](https://www.ntiative.com/the-10-programmer-personality-types-part-2-of-2/)
 > I feel very much like the “Ghost-Writer” at times, mixed with "The DIY specialist". But anyway, I feel we are all those types at once, it depends on the day, on the task, on the team we work with.
 * [Gandalf Hudlow](https://iism.org/article/developers-can-t-fix-bad-management-57) - (2020) Developers can't fix bad management 
+* [MIT](https://missing.csail.mit.edu/) - The Missing Semester of Your CS Education (MIT course)
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
