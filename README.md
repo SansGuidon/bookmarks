@@ -2844,6 +2844,7 @@ See also [Monitoring](#monitoring)
 * [Jan Schaumann](https://www.netmeister.org/blog/ops-lessons.html) - (2020) (A few) Ops Lessons We All Learn The Hard Way
 * [A Cloud Guru](https://go.acloudguru.com/vid-operations-past-present-and-future-webinar) - (2020) [Audio] Operations: Past, Present, and Glorious Future Webinar, with Charity Majors aka mipsytipsy | This session covers the many guises of Ops work, picking the right companies, unexpected ways to apply that expertise, and how to make proactive career decisions that get you where you want to be.
 * [Charity Majors](https://www.honeycomb.io/blog/the-future-of-ops-careers/) - (2020) The Future of Ops Careers. **See also** : [Christine Yen](https://www.honeycomb.io/blog/the-future-of-developer-careers/) on the same blog.
+* [The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - (2021) 7 Lessons From 10 Outages
 
 ## Apache
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
@@ -3096,6 +3097,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Les couilles sur la table](https://www.binge.audio/podcast/les-couilles-sur-la-table/papa-mode-demploi) - :fr: [FR] [Audio] (2020) #66 Papa mode d’emploi
 * [Les couilles sur la table](https://www.binge.audio/podcast/les-couilles-sur-la-table/les-peres-au-travail) - :fr: [FR] [Audio] (2020) #67 Les pères au travail
 * [Histoires de Darons](https://www.darons.fr/) - :fr: [FR] La parole est aux darons ! Tous les premiers et troisièmes lundis de chaque mois, Fabrice FLORENT invite un daron, connu ou anonyme, à raconter son Histoire autour de la paternité.
+* [The Downtime Project](https://downtimeproject.com/) - A podcast about why things break on the Internet.
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
