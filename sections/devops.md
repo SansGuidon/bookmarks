@@ -388,6 +388,7 @@
 * [Ian Miell](https://zwischenzugs.com/2020/11/30/gitops-decisions/) - (2020) GitOps Decisions
 * [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 * [LinkedIn](https://linkedin.github.io/school-of-sre/) - School of SRE : LinkedIn, uses this curriculum for onboarding their entry-level talents into the SRE role. **Source code** [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
+* [The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - (2021) 7 Lessons From 10 Outages
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
