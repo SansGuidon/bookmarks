@@ -1268,7 +1268,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
 
-# Culture
+* [MIT](https://missing.csail.mit.edu/) - The Missing Semester of Your CS Education (MIT course)
+
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
@@ -1328,6 +1329,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Instructables](http://www.instructables.com/) - How to make anything
 * [The Free Software Foundation](https://www.fsf.org/givingguide/v11/) - (2020) Ethical Tech Giving Guide - Does the gift you're giving your loved ones put someone else in control?
 * [Mozilla](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
+* [MIT](https://missing.csail.mit.edu/) - The Missing Semester of Your CS Education (MIT course)
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
