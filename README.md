@@ -2087,7 +2087,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * If you recognize some cynical tendencies within yourself, you might also keep an eye out for ways to empower yourself within your job. After all, the lesson is clear: Cynicism just doesn’t pay.
 * [Nicholas Bate](https://blog.strategicedge.co.uk/2020/07/stress-reduction-22.html) - (2020) Stress Reduction - 22 tips
 * [Nicholas Bate](https://blog.strategicedge.co.uk/2013/03/tidy-up-as-you-go-along-be-it-cooking-diy-or-selling-your-software-solution-remember-the-small-stuff-as-it-is-big-stuf.html) - (2013) Life Tips 101
-
+* [Mike Crittenden](https://critter.blog/2021/06/25/treat-it-like-youre-bailing/) - (2021) Treat it like you’re bailing
+ 
 ## Remote work
 > Finding a remote job
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
