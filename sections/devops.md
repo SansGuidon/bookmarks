@@ -311,7 +311,7 @@
 * [Vladimir Fedak](https://hackernoon.com/10-disruptive-devops-trends-of-2018-b0b6d5719376) - (2018) 10 disruptive DevOps trends of 2018
 * [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 * [Aymen El Amri](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448) - (2016) The 15-point DevOps Check List
-* [New Relic](https://newrelic.com/resource/site-reliability-engineering) - Site Reliability Engineering | Philosophies, Habits, and Tools for SRE Success
+* [New Relic](https://newrelic.com/resource/site-reliability-engineering) - [Book] Site Reliability Engineering | Philosophies, Habits, and Tools for SRE Success
 * [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
 * [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
 * [Cameron van Orman](https://enterprisersproject.com/article/2014/7/devops-not-synonym-application-development) - (2014) DevOps is not a synonym for application development
@@ -1195,7 +1195,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Matt Watson](https://stackify.com/web-operations/) - (2017) What is Web Operations? How Does it Relate to DevOps and SRE?
 * [Pavan Belagatti](http://blog.shippable.com/devops-resources-top-5-devops-books-every-devops-enthusiast-must-read) - (2017) DevOps Resources: 5 Books Every DevOps Enthusiast Must Read! | + [the SRE book](https://landing.google.com/sre/book.html)
 * [Aymen El Amri](https://hackernoon.com/50-best-devops-sre-blog-posts-tutorials-of-2017-451a7d69c4ef) - (2018) 50 Best DevOps & SRE Blog Posts & Tutorials Of 2017
-* [New Relic](https://newrelic.com/resource/site-reliability-engineering) - Site Reliability Engineering | Philosophies, Habits, and Tools for SRE Success
+* [New Relic](https://newrelic.com/resource/site-reliability-engineering) - [Book] Site Reliability Engineering | Philosophies, Habits, and Tools for SRE Success
 * [Alex Aitken](https://www.alexaitken.nz/blog/sre-role-in-team/) - (2018) SRE role in team
 * [AJ Ross, Adrian Hilton, Dave Rensin](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html) - (2017) SLOs, SLIs, SLAs, oh my - CRE life lessons | for DevOps professionals / SRE
 * [Krishelle Hardson-Hurley](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c) - (2017) So you want to be an SRE?
@@ -1206,6 +1206,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Katie Ballinger](https://circleci.com/blog/onboarding-new-site-reliability-engineers/) - (2017) Onboarding New Site Reliability Engineers
 * [Michael Cote](http://www.theregister.co.uk/2018/02/06/devops_no_ops_less_ops/) - (2018) The many-faced god of operational excellence, DevOps and now 'site reliability engineering'
 * [OpsStack](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/) - [Slides] (2017) Monitoring the SRE Golden Signals | Actually Getting the Metrics from Common Services
+* [Kubernetes Failure Stories](https://k8s.af/) - A compiled list of links to public failure stories related to Kubernetes | Most recent publications on top
+* [The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - (2021) 7 Lessons From 10 Outages
 
 ## Tekton
 * [instrumenta/conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language. **See also** [Official Website](https://conftest.dev)
