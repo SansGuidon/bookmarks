@@ -1057,6 +1057,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mike Crittenden](https://critter.blog/2021/06/18/dont-mistake-the-lack-of-your-pet-solution-as-the-problem-itself/) - (2021) Don’t mistake the lack of your pet solution as the problem itself
 * [Ed Zitron](https://ez.substack.com/p/the-work-from-home-future-is-destroying) - (2021) The Work-From-Home Future Is Destroying Bosses' Brains | a critique of managers and business owners
 * [Justin Garrison](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - (2021) The Document Culture of Amazon
+* [Mike Crittenden](https://critter.blog/2021/05/10/resistance-increases-exponentially-with-the-size-of-a-change/) - (2021) Resistance increases exponentially with the size of a change.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -3536,6 +3537,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 > * It turns out that we don’t need an abundance of caution. We need appropriate caution. They’re different things. Abundant caution is wasted.
 > * Please don’t avoid appropriate caution. It matters to you and to the community. But seeking reassurance and peace of mind by trying to drive risk to zero doesn’t get you either one of them.
 * [Mike Crittenden](https://critter.blog/2021/04/30/the-art-of-booking-a-meeting-just-to-force-you-to-do-a-thing/) - (2021) The art of booking a meeting just to force you to do a thing 
+* [Mike Crittenden](https://critter.blog/2021/05/10/resistance-increases-exponentially-with-the-size-of-a-change/) - (2021) Resistance increases exponentially with the size of a change.
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
