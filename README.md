@@ -3025,6 +3025,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Les couilles sur la table](https://www.binge.audio/podcast/les-couilles-sur-la-table/les-peres-au-travail) - :fr: [FR] [Audio] (2020) #67 Les pères au travail
 * [Histoires de Darons](https://www.darons.fr/) - :fr: [FR] La parole est aux darons ! Tous les premiers et troisièmes lundis de chaque mois, Fabrice FLORENT invite un daron, connu ou anonyme, à raconter son Histoire autour de la paternité.
 * [Keeku](https://keeku.co/) - 🇫🇷 [FR] Le coin des podcasts pour enfants | Retrouvez de belles histoires de princesses et de dragons, de la méditation ou du yoga, de l’actualité, à écouter sur la route de l’école, à la maison, dans la voiture ou pendant les vacances ! Et tout cela gratuitement !
+* [Moi, Papa](https://www.rtbf.be/auvio/emissions/detail_moi-papa?id=18794) - 🇧🇪 🇫🇷 [BE] [FR] [Videos] [Audio] Un podcast de 5 épisodes dans lequel Adrien De Vyver reçoit des experts et abordent les difficultés, les joies, le stress, les besoins des jeunes ou futurs nouveaux papas.  Les mamans ont cet instinct maternel qui les unis, après 9 mois de grossesse, à leur enfant. Mais comment aider les pères à trouver leurs plac...  Plus
 
 # Philosophy :thought_balloon:
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
@@ -3108,6 +3109,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [The Downtime Project](https://downtimeproject.com/) - A podcast about why things break on the Internet.
 * [Break Things on Purpose](https://www.gremlin.com/podcast/) - A podcast about the practice of Chaos Engineering.
 * [Keeku](https://keeku.co/) - 🇫🇷 [FR] Le coin des podcasts pour enfants | Retrouvez de belles histoires de princesses et de dragons, de la méditation ou du yoga, de l’actualité, à écouter sur la route de l’école, à la maison, dans la voiture ou pendant les vacances ! Et tout cela gratuitement !
+* [Moi, Papa](https://www.rtbf.be/auvio/emissions/detail_moi-papa?id=18794) - 🇧🇪 🇫🇷 [BE] [FR] [Videos] [Audio] Un podcast de 5 épisodes dans lequel Adrien De Vyver reçoit des experts et abordent les difficultés, les joies, le stress, les besoins des jeunes ou futurs nouveaux papas.  Les mamans ont cet instinct maternel qui les unis, après 9 mois de grossesse, à leur enfant. Mais comment aider les pères à trouver leurs plac...  Plus
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
