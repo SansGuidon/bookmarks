@@ -1085,6 +1085,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [instrumenta/helm-conftest](https://github.com/instrumenta/helm-conftest) - A Helm plugin for testing Helm Charts using Open Policy Agent
 * [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 * [instrumenta/conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language. **See also** [Official Website](https://conftest.dev)
+* [Kaspar von Grünberg](https://humanitec.com/blog/your-helm-zoo-will-kill-you) - (2020) Your Helm Zoo Will Kill You | There is a fundamental design flaw with Helm, leading to dramatic long-term consequences and you have to solve this now.
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
