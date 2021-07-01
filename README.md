@@ -471,6 +471,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [rondy](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) - Effective Engineer - Book Notes. **Bonus** see also [The Effective Engineer website](http://www.effectiveengineer.com/) and [Effective Engineer Blog](http://www.effectiveengineer.com/blog)
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 * [Ayooluwa Isaiah](https://freshman.tech/philosophy-of-software-design-summary/) - (2021) Book summary: A Philosophy of Software Design 
+* [Hugo Matilla/Refactoring-Summary](https://github.com/HugoMatilla/Refactoring-Summary) - Summary of "Refactoring: Improving the Design of Existing Code" by Martin Fowler
 
 > Tools
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
