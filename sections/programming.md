@@ -549,6 +549,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > * Improve systems : Improving systems helps remove busywork from an employee’s day, but it also makes things easier for the customer. 
 > * Whether you’re getting a lot of satisfaction from being busy or just feeling exasperated, don’t forget to occasionally stop and ask yourself: Is this the best use of time?
 * [Michal Kovařík kovarex](https://factorio.com/blog/post/fff-366) - (2021) The only way to go fast, is to go well! | Factorio Team and TDD
+* [Mike Crittenden](https://critter.blog/2021/04/23/you-have-to-standardize-before-you-can-standardize/) - (2021) You have to standardize before you can standardize
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
@@ -782,6 +783,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > * Maintenance is a solution, not a problem. **See also** [Robert Glass](http://www.robertlglass.com/)‘ wonderful book, [Facts and Fallacies of Software Engineering](https://www.goodreads.com/book/show/83792.Facts_and_Fallacies_of_Software_Engineering) and [my highlights from this book](../books/facts_fallacies_software_engineering.md)
 * [Kamil Grzybek](https://www.kamilgrzybek.com/design/feature-folders/) - (2018) Feature Folders | on codebase design
 * [Ayooluwa Isaiah](https://freshman.tech/linting-golang/) - (2021) A guide to linting Go programs
+* [Mike Crittenden](https://critter.blog/2021/04/23/you-have-to-standardize-before-you-can-standardize/) - (2021) You have to standardize before you can standardize
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
