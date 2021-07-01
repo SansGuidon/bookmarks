@@ -58,3 +58,5 @@ My favorite bytes from the wonderful book [A Philosophy of Software Design](http
 * Performance isn’t as important for special cases, so you can structure the special-case code for simplicity rather than performance.
 * The key is simplicity again: find the critical paths that are most important for performance and make them as simple as possible.
 
+## Other summaries
+* [Ayooluwa Isaiah](https://freshman.tech/philosophy-of-software-design-summary/) - (2021) Book summary: A Philosophy of Software Design 
