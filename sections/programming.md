@@ -560,7 +560,6 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 
 > Learn
 * [MorganGeek](../PRINCIPLES.md) - some programming and life lessons, collected from various sources including myself
-* [Clean Code Cheat Sheet v2.4](http://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
 * [Corinna Baldauf](http://wall-skills.com/2014/simplicity-rules-from-extreme-programming/) - (2014) Simplicity Rules (from eXtreme Programming)
 * [Bruce Johnson](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292) - What we learned from Google: code reviews aren’t just for catching bugs
 * [Vaidehi Joshi](https://dev.to/vaidehijoshi/crafting-better-code-reviews) - Crafting Better Code Reviews
@@ -572,23 +571,16 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [/r/tinycode](https://www.reddit.com/r/tinycode/) - minimalistic, often but not always simple implementations of just about everything.
 * [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
 * :star: [**Andrew Yurisich/unmaintainable-code**](https://github.com/Droogans/unmaintainable-code) - How To Write Unmaintainable Code. **Bonus** : [Original article by Roedy Green / Canadian Minds](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
-* [Salvatore Gentile/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
-* [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-* [mcandre/linters](https://github.com/mcandre/linters) - list of linters and introduction to static code analysis
-* :star: [**mre/Awesome Static analysis**](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
 * [mre/Idiomatic Rust](https://github.com/mre/idiomatic-rust) - Guidelines for writing elegant Rust programs
 * [Lucas Medeiros Reis](https://dev.to/iamlucasmreis/the-single-most-important-driver-of-software-quality) - The Single Most Important Driver Of Software Quality
-* [clean-code-linters](https://github.com/showcases/clean-code-linters) - Clean code linters on GitHub
 * [enginyoyen/Ansible Best Practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 * :star: [**Kristories/Awesome Guidelines**](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-* [Tom Preston-Werner](http://semver.org/) - Semantic Versioning 2.0.0
-* [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Google](https://google.github.io/styleguide/javascriptguide.xml) - Google JavaScript Style Guide. **Deprecated** : use [jsguide.html](https://google.github.io/styleguide/jsguide.html) in place
 * [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [JS: The Right Way](http://jstherightway.org/) - JavaScript and its best practices
-* [EditorConfig](http://editorconfig.org/) - EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs
+* [clean-code-linters](https://github.com/showcases/clean-code-linters) - Clean code linters on GitHub
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
-* [GNU](http://www.gnu.org/software/autoconf/manual/autoconf.html#Portable-Shell) - Portable Shell Programming
+* [GNU](http://www.gnu.org/software/autoconf/manual/autoconf.html#Portable-Shell) - Portable Shell Programming | When writing your own checks, there are some shell-script programming techniques you should avoid in order to make your code portable.
 * [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - Bash Style Guide : A style guide for writing safe, predictable, and portable bash scripts (not sh!)
 * [golang/go/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) - Go Code Review Comments : collects common comments made during reviews of Go code. This is a laundry list of common mistakes, not a style guide.
 * [Google](https://google.github.io/styleguide/javaguide.html) - Google Java Style Guide
@@ -604,11 +596,9 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [The Twelve-Factor App](https://12factor.net/) - is a methodology for building software-as-a-service apps of great quality
 * [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style. **Bonus** : [Thoughtbot's playbook](https://thoughtbot.com/playbook) - explaining how they build products and run their company
 * :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
-* [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
 * [GreyCat's Wiki](http://mywiki.wooledge.org/BashGuide/Practices) - BASH Guide / practices for people doing Unix shell scripting or system administration
 * [Chris Wellons](http://nullprogram.com/blog/2017/08/20/) - (2017) A Tutorial on Portable Makefiles
 * [Chris Wellons](http://nullprogram.com/blog/2017/03/30/) - (2017) How to Write Portable C Without Complicating Your Build
-* [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/the_language_squint_test.html) - (2008) The Language Squint Test
 * [blue.penguin](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/) - (2016) Bash scripting tutorial: A coding style guideline
 * Some GitHub resources on clean coding practices, mostly based on book 'Clean Code: A Handbook of Agile Software Craftsmanship' by Robert C. Martin : [Wojtek Lukaszuk](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29), [Deniz Ozger/clean-code](https://github.com/denizozger/clean-code), [Jose Angel Barroso/clean-code](https://github.com/jbarroso/clean-code), [harry830622/clean-code-notes](https://github.com/harry830622/clean-code-notes), [thebentern/clean-code-study](https://github.com/thebentern/clean-code-study), [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes), [timkendall/clean-code](https://github.com/timkendall/clean-code)
@@ -633,12 +623,9 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Jiri Tyr](https://www.slideshare.net/jtyr/best-practices-for-ansible-roles-development/1) - (2017) [Slides] Best Practices for Ansible #AnsibleLondon **Bonus** : [Video] [Presentation at London Ansible meetup](https://www.youtube.com/watch?v=sFuKuHmRuzQ)
 * [Jiri Tyr](https://www.slideshare.net/jtyr/automation-and-ansible) - (2016) [Slides] Automation and Ansible
 * [Project Atomic](http://docs.projectatomic.io/container-best-practices/) - Container Best Practices
-* [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
-* [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
 * [Dag Sonstebo](https://www.slideshare.net/DagSonstebo/techug-glasgow-talk-22feb17-configuration-management-best-practices) - (2017) Configuration Management Best Practices
 * [Michael Lynch](https://mtlynch.io/human-code-reviews-1/) - (2017) How to Do Code Reviews Like a Human (Part One). **Bonus** : [Part Two](https://mtlynch.io/human-code-reviews-2/)
 * [Timothy Appnel](https://www.ansible.com/blog/ansible-best-practices-essentials) - Ansible Best Practices: The Essentials. **Bonus** : [Video](https://www.ansible.com/videos-ansible-automates-ansible-best-practices-the-essentials)
-* [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
 * [Yunkai Zhou](https://medium.freecodecamp.org/climbing-the-code-quality-ladder-babd3198e6e2) - (2018) Climbing The Code Quality Ladder
 * [Andy Zaidman](https://azaidman.wordpress.com/2015/01/19/old-habits-die-hard-why-refactoring-for-understandability-does-not-give-immediate-benefits/) - (2015) Old Habits Die Hard: Why Refactoring for Understandability Does Not Give Immediate Benefits
 * [Sarah Drasner](https://css-tricks.com/the-art-of-comments/) - (2017) The Art of Comments
@@ -714,7 +701,6 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Jeff Atwood](https://blog.codinghorror.com/we-make-shitty-software-with-bugs/) - (2004) We Make Shitty Software.. With Bugs! | Software is a process, it's never finished, it's always evolving.
 * [Jakub Skałecki](https://rock-it.pl/how-to-write-excellent-dockerfiles/) - (2017) How to write excellent Dockerfiles
 * [Jakub Skałecki](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks/) - (2017) Automatic code quality checks with git hooks
-* [JSONLint](https://jsonlint.com/) - JSON validator
 * [Matthew Setter](https://blog.codeship.com/best-practices-when-versioning-a-release/) - (2018) Best Practices When Versioning a Release
 * [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
 * [Matt Butcher](http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html) - (2018) Be Nice And Write Stable Code
@@ -745,7 +731,6 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * [Literate programming](http://www.literateprogramming.com/) - is a programming paradigm introduced by Donald Knuth in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated.
 * [Literate programming links](http://www.literateprogramming.com/links.html) - articles about literate programming
-* [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 * [Yevgeniy Brikman](https://blog.gruntwork.io/terragrunt-how-to-keep-your-terraform-code-dry-and-maintainable-f61ae06959d8) - (2019) Terragrunt: how to keep your Terraform code DRY and maintainable | Terragrunt is helpful at solving problems such as :
 > - the lack of locking for Terraform state
 > - the lack of a way to configure your Terraform state as code.
@@ -753,7 +738,6 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Loris Cro](https://kristoff.it/blog/simple-not-just-easy/) - (2019) I Want Simple, Not Just Easy
 > You've surely read plenty about how simple is good, but what's wrong with easy?
 * [Bill Clark](https://technology.riotgames.com/news/taxonomy-tech-debt) - (2018) A Taxonomy of Tech Debt
-* [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
 * [antonbabenko/terragrunt-reference-architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) - Terragrunt Reference Architecture - This repository contains rather complete infrastructure configurations where Terragrunt is used to manage infrastructure for Acme Corporation.
 * [Anton Babenko](https://www.slideshare.net/AntonBabenko/terraform-modules-and-some-of-bestpractices-march-2019) - [Slides] (2019) Terraform modules and some of best-practices | Slides of his talk at DevOps Singapore meetup in March 2019
 * [Fernanda Martins](https://www.slideshare.net/FernandaMartins154/the-hitchhikers-guide-to-terraform-your-infrastructure) - (2020) [Slides] The hitchhiker's guide to terraform your infrastructure
@@ -768,11 +752,6 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > * Avoid using personal accounts or credentials.
 > * Automate as much as you can.
 > * Write good code.
-* [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - static analysis tools for all programming languages, build tools, config files and more. **See also**: [the official website](https://analysis-tools.dev/) which is based on this repository and adds rankings and user comments for each tool.
-* [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.
-* [amperser/proselint](https://github.com/amperser/proselint/) - a linter for English prose.
-* [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
-> Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 * [Jamie Wong](http://jamie-wong.com/2013/07/12/grep-test/) - (2013) Too DRY - The Grep Test
 * [Ilya Sher](https://ilya-sher.org/2019/05/18/on-information-loss-in-software/) - (2019) On Information Loss in Software
 * [Michael Foord](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - (2017) 30 best practices for software development and testing
@@ -796,15 +775,37 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > * Who does this solve a problem for? 
 > * What is the problem they’re trying to solve? 
 > * How does this ticket solve it? 
-* [Semgrep](https://semgrep.dev/) - Static analysis at ludicrous speed. Find bugs and enforce code standards
 * [The HFT Guy](https://thehftguy.com/2020/08/26/technical-debt-doesnt-exist/) - (2020) Technical Debt Doesn’t Exist
 > * Make yourself a favor and call that **maintenance**.
 > * Software do not have a technical debt problem, software simply requires maintenance.
 * [Kailash Awati](https://eight2late.wordpress.com/2009/07/16/maintenance-matters/) - (2009) Maintenance matters
 > * Maintenance is a solution, not a problem. **See also** [Robert Glass](http://www.robertlglass.com/)‘ wonderful book, [Facts and Fallacies of Software Engineering](https://www.goodreads.com/book/show/83792.Facts_and_Fallacies_of_Software_Engineering) and [my highlights from this book](../books/facts_fallacies_software_engineering.md)
 * [Kamil Grzybek](https://www.kamilgrzybek.com/design/feature-folders/) - (2018) Feature Folders | on codebase design
+* [Ayooluwa Isaiah](https://freshman.tech/linting-golang/) - (2021) A guide to linting Go programs
 
 > Tools
+* [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
+* [Salvatore Gentile/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards. Discovered via [DevHub](https://devhub.io/repos/aerfaman-cscs)
+* [dockerlint](https://www.npmjs.com/package/dockerlint) - Linting tool for Dockerfiles based on [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) and [Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+* [mcandre/linters](https://github.com/mcandre/linters) - list of linters and introduction to static code analysis
+* :star: [**mre/Awesome Static analysis**](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools, linters and code quality checkers for various programming languages
+* [JSONLint](https://jsonlint.com/) - JSON validator
+* [YAML Lint](http://www.yamllint.com/) - The YAML Validator
+* [EditorConfig](http://editorconfig.org/) - EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems.
+* [mvdan/sh](https://github.com/mvdan/sh) - sh : A shell parser, formatter and interpreter (POSIX/Bash/mksh)
+* [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+* [Tom Preston-Werner](https://semver.org/) - Semantic Versioning 2.0.0
+* [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages. This convention dovetails with SemVer, asking software developers to describe in commit messages, features, fixes, and breaking changes that they make.
+* [marionebl/commitlint](https://github.com/marionebl/commitlint) - Lint commit messages
+* [Pl/Sql tidy](http://psti.equinoxbase.com/cgi-bin/handler.pl) - Online PL/SQL formatter
+* [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
+* [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
+* [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - static analysis tools for all programming languages, build tools, config files and more. **See also**: [the official website](https://analysis-tools.dev/) which is based on this repository and adds rankings and user comments for each tool.
+* [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.
+* [amperser/proselint](https://github.com/amperser/proselint/) - a linter for English prose.
+* [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+> Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+* [Semgrep](https://semgrep.dev/) - Static analysis at ludicrous speed. Find bugs and enforce code standards
 * [Semver check](https://jubianchi.github.io/semver-check/#/) - More and more projects try to follow Semantic Versioning to reduce package versioning nightmare and every dependency manager implements its own semantic versioner. Composer and NPM for example don't handle version constraints the same way. It's hard sometimes to be sure how some library version will behave against some constraint. This tiny webapp checks if a given version satisfies another given constraint.
 
 ## Conferences
@@ -1261,6 +1262,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 * [Loris Cro](https://kristoff.it/blog/why-go-and-not-rust/) - (2019) Why Go and not Rust? | What's the role of Go in a universe where Rust exists?
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
+* [Ayooluwa Isaiah](https://freshman.tech/linting-golang/) - (2021) A guide to linting Go programs
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
