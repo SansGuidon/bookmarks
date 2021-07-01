@@ -3168,6 +3168,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [The Free Software Foundation](https://www.fsf.org/givingguide/v11/) - (2020) Ethical Tech Giving Guide - Does the gift you're giving your loved ones put someone else in control?
 * [Mozilla](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 * [Lionel Dricot](https://ploum.net/gemini-le-protocole-du-slow-web/) - (2020) 🇫🇷 [FR] Gemini, le protocole du slow web
+* [Eddie Barraco](https://www.synbioz.com/blog/tech/gemini-avenir-du-web) - (2021) 🇫🇷 [FR] Gemini, l'avenir du Web ?
 
 ## Privacy tools
 * :star: [**Privacy tools**](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
@@ -4294,6 +4295,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Faut-il HTTPS sur mon site ?](https://faut-il-https-sur-mon-site.fr/) - [FR] :fr: does your site require HTTPS ?
 * [DigiCert SSL Certificate Checker](https://www.digicert.com/help/) - If you are having a problem with your SSL certificate installation, this diagnostic tool will help you locate the problem and verify your SSL Certificate installation.
 * [Lionel Dricot](https://ploum.net/gemini-le-protocole-du-slow-web/) - (2020) 🇫🇷 [FR] Gemini, le protocole du slow web
+* [Eddie Barraco](https://www.synbioz.com/blog/tech/gemini-avenir-du-web) - (2021) 🇫🇷 [FR] Gemini, l'avenir du Web ?
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
