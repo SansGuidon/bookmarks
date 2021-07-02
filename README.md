@@ -343,7 +343,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Retronator Magazine](https://medium.com/retronator-magazine) - Pixel Art, Gaming & Saturated Colors
 
 > Misc
-* [Pierre Debatty](http://www.pierredebatty.be/) - art of Pierre Debatty, a belgian painter
+* [Pierre Debatty](http://www.pierredebatty.be/) - 🇧🇪 [BE] art of Pierre Debatty, a belgian painter
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
@@ -1373,7 +1373,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 
 # Ecology :seedling:
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
-* [IRCEL - CELINE](http://www.irceline.be/en/front-page?set_language=en) - Current Air Quality Measurements of Belgian Interregional Environment Agency (IRCEL - CELINE)
+* [IRCEL - CELINE](http://www.irceline.be/en/front-page?set_language=en) - 🇧🇪 [BE] Current Air Quality Measurements of Belgian Interregional Environment Agency (IRCEL - CELINE)
 * [écoconso](https://www.ecoconso.be/fr/content/magasins-de-vrac-et-zero-dechet-de-wallonie-et-bruxelles) - 🇫🇷 🇧🇪 [FR] [BE] Magasins de vrac et zéro déchet de Wallonie et Bruxelles
 * [GreenIT.fr](https://www.greenit.fr/) - :fr: [FR] est un lieu de réflexion sur ces deux enjeux du numérique durable / responsable (définition); éco-conception des équipements et des services numériques, économie d’énergie, réemploi et recyclage, etc. – mais aussi les usages et le rôle du numérique pour glisser vers une économie plus légère, circulaire (cradle to cradle), puis vers une économie positive.
 * [Michaël Petit](https://www.slideshare.net/MorganWattiez/les-impacts-du-secteur-tic-11102019) -  :fr: [Slides] [FR] (2019) Les impacts des TIC (Technologies de l'information et de la communication) sur l'environnement | Analyse des impacts, et propositions d'actions et aides concrètes. via Almin conference (UNamur, Belgique)
@@ -1756,7 +1756,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [hashtomagnet.xyz](https://hashtomagnet.xyz/) -  Hash to Magnet generator + Get Seed/Leech informations
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 * [Sedja](https://www.sejda.com/) - Easy, pleasant and productive PDF editor
-* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
+* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - 🇧🇪 [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 * [htaccess tester](https://htaccess.madewithlove.be/) - Test your htaccess rewrite rules
 * [Grammar Checker](https://www.grammarcheck.net/editor/) - Enter the text that you want to check for grammar, spelling, and punctuation mistakes
 * [Scribens](https://www.scribens.com/) - checks the grammar of your texts and finds spelling mistakes.
@@ -1932,7 +1932,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
 * [Le grand Oral](https://www.rtbf.be/auvio/detail_le-grand-oral-de-luc-de-brabandere?id=2284414) - (2017) [FR] :fr: [Video] Le Grand Oral de Luc de Brabandere. A propos du ras le bol des travailleurs, de la place de l'homme dans une société de plus en plus connectée, l'intelligence artificielle vs l'emploi, et le bien être au travail. **Bonus** : [Podcast](https://www.rtbf.be/auvio/detail_le-grand-oral?id=2284456)
 * [Patrick God](https://dev.to/_patrickgod/why-you-should-start-with-your-dream-job-8f) - (2017) Why You Should Start With Your Dream Job
-* [IRCEL - CELINE](http://www.irceline.be/en/front-page?set_language=en) - Current Air Quality Measurements of Belgian Interregional Environment Agency (IRCEL - CELINE)
+* [IRCEL - CELINE](http://www.irceline.be/en/front-page?set_language=en) - 🇧🇪 [BE] Current Air Quality Measurements of Belgian Interregional Environment Agency (IRCEL - CELINE)
 * [Bruxelles Environnement](http://www.qualitedelair.brussels/) - [FR] :fr: Qualité de l'air. **Bonus** : Dutch version [Luchtkwaliteit](http://www.luchtkwaliteit.brussels/)
 * [Amar Singh](https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c) - (2017) You’re working in the wrong place. (if you’re working in an open office)
 * [Dave Mosher](http://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired
@@ -2131,7 +2131,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
 * [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing » :beer:
-* [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
+* [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - 🇧🇪 [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
 
 > [Board games](#board-games)
 
@@ -4467,16 +4467,16 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Allan Richarz](https://www.citylab.com/transportation/2018/05/the-amazing-psychology-of-japanese-train-stations/560822/) - (2018) The Amazing Psychology of Japanese Train Stations
 
 > Tools
-* [Train Map](https://trainmap.belgiantrain.be) - [BE] Show belgian train positions in realtime. Train positions are calculated based on timetables, real time info and prognoses.
-* [Seety Map](https://map.seety.co/?lang=en) - [BE] Map of free parking zones | For now mainly for Belgium, soon for Europe
+* [Train Map](https://trainmap.belgiantrain.be) - 🇧🇪 [BE] Show belgian train positions in realtime. Train positions are calculated based on timetables, real time info and prognoses.
+* [Seety Map](https://map.seety.co/?lang=en) - 🇧🇪 [BE] Map of free parking zones | For now mainly for Belgium, soon for Europe
 * [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
 * [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - allows you to compare your home country with different countries around the world.
-* [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
+* [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - 🇧🇪 [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
 * [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
-* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
+* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - 🇧🇪 [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 * [Virtual Vacation](https://virtualvacation.us/) - The website that lets you experience the world from home!
 
 # Troubleshooting
