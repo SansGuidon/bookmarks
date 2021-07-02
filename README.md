@@ -385,6 +385,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 * [Chart.xkcd](https://timqian.com/chart.xkcd) - is a chart library plots “sketchy”, “cartoony” or “hand-drawn” xkcd styled charts. 
 * [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
+* [Excalidraw](https://excalidraw.com/) - is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn look & feel to them. **Bonus** : [Extensions & libraries](https://libraries.excalidraw.com/)
 
 # Books / Reading :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -1764,6 +1765,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Scribens](https://www.scribens.com/) - checks the grammar of your texts and finds spelling mistakes.
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
+* [Excalidraw](https://excalidraw.com/) - is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn look & feel to them. **Bonus** : [Extensions & libraries](https://libraries.excalidraw.com/)
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
