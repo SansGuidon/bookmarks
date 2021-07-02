@@ -1215,7 +1215,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [**Kim Roach**](http://www.buzzblogger.com/blog-promotion-checklist/) - (2015) 101 Ways to Promote Your Next Blog Post
 * [Kevin Pezzi MD](https://www.linkedin.com/pulse/irony-silicon-valley-kevin-pezzi-md/) - (2015) The irony of Silicon Valley
 * [Philippe Bourgau](http://philippe.bourgau.net/13-tricks-for-successful-side-projects/) - (2017) 13 Tricks for Successful Side Projects
-* [James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html) - (2017) Advice on starting a programming blog
+* [James Routley](https://routley.io/posts/starting-a-programming-blog/) - (2017) Advice on starting a programming blog
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 * [David McRaney](https://youarenotsosmart.com/2010/06/23/confirmation-bias/) - (2010) Confirmation Bias
 * [Buy Me A Coffee](https://www.producthunt.com/posts/buy-me-a-coffee) - A free, fast and beautiful way to accept donations
@@ -4390,7 +4390,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [PaulWaltersDev/FreeLearningResourcesForSoftwareTesters](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - free Online Learning Resources for New and Experienced Software Testers.
 * [Front-End-Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production
 * [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
-* [James Routley](https://routley.io/tech/2017/07/20/golang-test-fixtures.html) - (2017) Simplify Golang test fixtures with this one weird trick
+* [James Routley](https://routley.io/posts/golang-test-fixtures/) - (2017) Simplify Golang test fixtures with this one weird trick
 * [Nemanja Mijailovic](https://mijailovic.net/2017/07/29/go-fuzz/) - (2017) Going down the rabbit hole with go-fuzz | testing techniques
 * [Principles of Chaos Engineering](http://principlesofchaos.org/)
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - list of awesome Chaos Engineering resources
