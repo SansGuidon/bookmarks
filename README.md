@@ -347,22 +347,13 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Kevin Smith](https://imgur.com/gallery/ihRohVQ) - (2014) [IMG] It costs nothing to encourage an artist
 * [Kelton Sears](http://www.seattleweekly.com/arts/enormous-dwarf/) - (2016) How Two Brothers From Silverdale Made The World’s Most Complex Video Game | about Dwarf Fortress
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
-* [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
 * [Programming Puzzles StackExchange](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art) - Tweetable Mathematical Art
 * [Christelle Mozzati](http://blog.christellemozzati.fr/un-graphiste-pourquoi-cest-cher/) - (2013) [FR] :fr: Un graphiste, pourquoi c’est cher ?
 * [Dr. Tom Murphy VII, Ph.D.](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - [PDF] A C89 compiler that produces executables that are also valid ASCII text files
 * [Jaime Jasso](https://www.artstation.com/jaime) - gallery of Jaime Jasso, Digital Matte Artist working for the film Industry, fan of sci-fi, Cyberpunk, visual effects in general, matte painting, concept art and compositing. [old gallery on devianart](https://jjasso.deviantart.com/gallery/)
-* [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
-* [Graphviz Docs](http://www.graphviz.org/pdf/dotguide.pdf) - [PDF] (2015) Drawing graphs with dot / dot User's Manual
-* [PlantText](https://www.planttext.com/) - an online tool that quickly generates images (mostly UML diagrams) without the use of a mouse because it relies on a text-based language called [PlantUML](http://plantuml.com/).
-* [Hive Plots](http://www.hiveplot.com/) - Rational Network Visualization - Farewell to Hairballs | Linear Layout for Network Visualization - Visually Interpreting Network Structure and Content Made Possible
-* [BioFabric](http://www.biofabric.org/) - displays a network where nodes are depicted as horizontal lines, not as points! Take a look at the [Super-Quick Demo](http://www.biofabric.org/gallery/pages/SuperQuickBioFabric.html) to see how it works in under 60 seconds. **Example** : [Simple BioFabric Rendered](http://www.biofabric.org/gallery/pages/JustBioFabric.html)
-* [maxogden/biofabric](https://github.com/maxogden/biofabric) - a client side module for generating biofabric graphs in svg using d3
-* [Mode Analytics](https://community.modeanalytics.com/gallery/hive-plot/) - example of Hive plot
 * [Amanda Sopkin](https://dev.to/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om) - (2018) Fantastic Personal Websites and How to Make Them | tips for good portfolio
 * [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) - Awesome Creative Portfolio Websites
 * [Anne Quito](https://qz.com/quartzy/1381916/drawing-is-the-best-way-to-learn-even-if-youre-no-leonardo-da-vinci/) - (2018) Drawing is the best way to learn, even if you’re no Leonardo da Vinci
-* [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
 * [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
 * [Pixel Joint](http://pixeljoint.com/pixels/new_icons.asp) - Highest Rated Pixel Art | Pixel Joint is all about the pixel art community. The site was started in September 2004
 * [La boite verte](https://www.laboiteverte.fr/les-illustrations-en-pixel-art-octavi-navarro/) - :fr: [FR] Les illustrations en pixel art de Octavi Navarro
@@ -370,15 +361,26 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Matej ‘Retro’ Jan](https://medium.com/retronator-magazine/artistsontwitter-ad68bce76e24) - (2017) #artistsontwitter by Retronator
 * [Blake Reynolds](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/) - (2015) A Pixel Artist Renounces Pixel Art
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable maps
-* [Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/) - Create a character sprite sheet for your game using 100% open art.
-* [Turtletoy](https://turtletoy.net/) - Create your generative art online using a minimalistic Turtle graphics API.
 * [NeoGaf](https://www.neogaf.com/threads/how-where-when-metal-slug-sprites-made.1237986/) - (2016) How where when Metal slug sprites made? | Interesting thread on NeoGAF
 * [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) - An online comic to learn about Kubernetes and how you can use it for continuous integration and delivery.
 * [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour.  The annual event occurs during a week in early March.
 * [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish.
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
-* [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 * [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
+
+> Tools
+* [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
+* [Graphviz Docs](http://www.graphviz.org/pdf/dotguide.pdf) - [PDF] (2015) Drawing graphs with dot / dot User's Manual
+* [Toolpic](https://www.toolpic.com/) - Free Photoshop Online Alternative
+* [PlantText](https://www.planttext.com/) - an online tool that quickly generates images (mostly UML diagrams) without the use of a mouse because it relies on a text-based language called [PlantUML](http://plantuml.com/).
+* [Hive Plots](http://www.hiveplot.com/) - Rational Network Visualization - Farewell to Hairballs | Linear Layout for Network Visualization - Visually Interpreting Network Structure and Content Made Possible
+* [BioFabric](http://www.biofabric.org/) - displays a network where nodes are depicted as horizontal lines, not as points! Take a look at the [Super-Quick Demo](http://www.biofabric.org/gallery/pages/SuperQuickBioFabric.html) to see how it works in under 60 seconds. **Example** : [Simple BioFabric Rendered](http://www.biofabric.org/gallery/pages/JustBioFabric.html)
+* [maxogden/biofabric](https://github.com/maxogden/biofabric) - a client side module for generating biofabric graphs in svg using d3
+* [Mode Analytics](https://community.modeanalytics.com/gallery/hive-plot/) - example of Hive plot
+* [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
+* [Character Generator](https://gaurav0.github.io/projects/universal-lpc-spritesheet-character-generator/) - Create a character sprite sheet for your game using 100% open art.
+* [Turtletoy](https://turtletoy.net/) - Create your generative art online using a minimalistic Turtle graphics API.
+* [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 * [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 * [Chart.xkcd](https://timqian.com/chart.xkcd) - is a chart library plots “sketchy”, “cartoony” or “hand-drawn” xkcd styled charts. 
 * [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
