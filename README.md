@@ -381,6 +381,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
 * [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 * [Chart.xkcd](https://timqian.com/chart.xkcd) - is a chart library plots “sketchy”, “cartoony” or “hand-drawn” xkcd styled charts. 
+* [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 
 # Books / Reading :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
