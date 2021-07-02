@@ -912,6 +912,7 @@ psql -f db.out postgres
 * [Petter Måhlén](https://pettermahlen.com/2011/04/08/if-its-broken-fix-it/) - (2011) If it’s Broken, Fix It
 * [Gregg Caines](http://caines.ca/blog/2018/03/27/zero-defect-policy/) - (2018) Zero Defect Policy
 * [The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - (2021) 7 Lessons From 10 Outages
+* [Kevin Riggle](https://github.com/readme/guides/incident-email) - (2021) How to write an internal production failure incident communication | What do you say when the system is down ? 
 
 ## Elixir
 * [David Schmitz](https://www.slideshare.net/koenighotze/elixir-easy-fun-for-busy-developers-devoxx-2016) - [Slides] (2016) Elixir - Easy fun for busy developers | Elixir combines Ruby's love for programmers with the absolute power that is the Erlang platform.
