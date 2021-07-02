@@ -2100,7 +2100,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Nicholas Bate](https://blog.strategicedge.co.uk/2020/07/stress-reduction-22.html) - (2020) Stress Reduction - 22 tips
 * [Nicholas Bate](https://blog.strategicedge.co.uk/2013/03/tidy-up-as-you-go-along-be-it-cooking-diy-or-selling-your-software-solution-remember-the-small-stuff-as-it-is-big-stuf.html) - (2013) Life Tips 101
 * [Mike Crittenden](https://critter.blog/2021/06/25/treat-it-like-youre-bailing/) - (2021) Treat it like you’re bailing
- 
+* [Mike Crittenden](https://critter.blog/2021/07/02/10-of-us-are-barely-affected-by-caffeine/) - (2021) 10% of us are barely affected by caffeine
+
 ## Remote work
 > Finding a remote job
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
@@ -2149,6 +2150,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
 * [Brandur Leach](https://brandur.org/fragments/caffeine) - Caffeine | An experiment of Brandur in seriously throttling back its caffeine intake for the first time in years.
 * [The Coffee Compass](https://baristahustle.com/blog/the-coffee-compass/) - Brew a coffee. Taste it. Adapt and repeat until you find the coffee you prefer.
+* [Mike Crittenden](https://critter.blog/2021/07/02/10-of-us-are-barely-affected-by-caffeine/) - (2021) 10% of us are barely affected by caffeine
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
