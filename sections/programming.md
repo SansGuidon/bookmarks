@@ -193,7 +193,7 @@
 * [Philippe Bourgau](http://philippe.bourgau.net/dont-stick-to-tdds-red-green-refactor-loop-to-the-letter/) - (2017) Don't Stick to TDD's Red-Green-Refactor Loop to the Letter
 * [List of programming languages by type](https://en.m.wikipedia.org/wiki/List_of_programming_languages_by_type)
 * [Yegor Bugayenko](http://www.yegor256.com/2014/10/29/how-much-do-you-cost.html) - (2014) How Much Do You Cost?
-* [James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html) - (2017) Advice on starting a programming blog
+* [James Routley](https://routley.io/posts/starting-a-programming-blog/) - (2017) Advice on starting a programming blog
 * [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 * [Erlend Hamberg](https://hamberg.no/erlend/posts/2010-03-20-code-reading-as-a-team-activity.html) - (2010) Code Reading as a Team Activity
 * [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** : [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
@@ -1245,7 +1245,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [Jeff Rouse](https://opensource.com/article/17/11/why-go-grows) - (2017) Why Go is skyrocketing in popularity
 * [Julian Friedman](https://www.infoq.com/articles/build-a-container-golang) - (2016) Build Your Own Container Using Less than 100 Lines of Go
 * [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go. **Bonus** : [website](https://neugram.io)
-* [James Routley](https://routley.io/tech/2017/07/20/golang-test-fixtures.html) - (2017) Simplify Golang test fixtures with this one weird trick
+* [James Routley](https://routley.io/posts/golang-test-fixtures/) - (2017) Simplify Golang test fixtures with this one weird trick
 * [353Solutions](https://www.353.solutions/py2go/index.html) - Python to Go CheatSheet
 * [Nemanja Mijailovic](https://mijailovic.net/2017/07/29/go-fuzz/) - (2017) Going down the rabbit hole with go-fuzz | testing techniques
 * [Jérôme Petazzoni](https://jpetazzo.github.io/2016/09/09/go-docker/) - (2016) Go + Docker = ♥ | tips and tricks showing how Docker can be useful when working with Go code
@@ -1493,7 +1493,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Super User StackExchange](https://superuser.com/questions/988185/how-to-avoid-being-asked-enter-passphrase-for-key-when-im-doing-ssh-operatio) - git : avoid being asked “Enter passphrase for key ” when I'm doing ssh operation on a remote host
 * [Philippe Bourgau](http://philippe.bourgau.net/13-tricks-for-successful-side-projects/) - (2017) 13 Tricks for Successful Side Projects
 * [Yegor Bugayenko](http://www.yegor256.com/2014/10/29/how-much-do-you-cost.html) - (2014) How Much Do You Cost?
-* [James Routley](https://routley.io/tech/2017/11/23/logbook.html) - (2017) Using a logbook to improve your programming
+* [James Routley](https://routley.io/posts/logbook/) - (2017) Using a logbook to improve your programming
 * [Raymond Rutjes](https://blog.algolia.com/pragmatic-releasing/) - (2017) Pragmatic Releasing: Less Worry, More Shipping
 * [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
 * [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
