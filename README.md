@@ -2665,7 +2665,7 @@ rpm --rebuilddb
 * [BGPView](https://bgpview.io/) - allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names.
 * [Robtex](https://www.robtex.com/) - is used for various kinds of research of IP numbers, Domain names, etc. Examples : Reverse DNS Lookup, Whois, AS macros.
 * [RIPE Database](https://apps.db.ripe.net/db-web-ui/#/query?bflag&searchtext=) - Webupdates / database query
-* [CIDR/Netmask Lookup Tool](https://www.ultratools.com/tools/netMaskResult?ipAddress=37.98.232.8%2F29) -  get information about a CIDR range including the IP addresses and host addresses contained in it.
+* [CIDR/Netmask Lookup Tool](https://dnschecker.org/netmask-cidr.php) -  get information about a CIDR range including the IP addresses and host addresses contained in it.
 * [Vivek Gite](https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/) - (2018) Linux Show / Display Available Network Interfaces
 * [CICR Tool](https://www.ipaddressguide.com/cidr) - Calculator for IP Range To CIDR / CIDR to IP Range
 * [Sal Ferrarello](https://salferrarello.com/chrome-clear-redirect-cache/) - (2016) Chrome Clear Redirect Cache
