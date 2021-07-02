@@ -367,6 +367,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish.
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
 * [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
+* [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
 
 > Tools
 * [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
@@ -1337,6 +1338,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mozilla](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 * [MIT](https://missing.csail.mit.edu/) - The Missing Semester of Your CS Education (MIT course)
 * [Similaires](https://similaires.com/) - 🇫🇷 [FR] Trouver les meilleurs films similaires | service de sélection de films similaires, qui vous aidera à choisir le prochain film ou la prochaine série.
+* [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -4829,6 +4831,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Mike Crittenden](https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/) - (2020) Write 5x more but write 5x less
 * [Giles Turnbull](https://gilest.org/2021/how-to-write-like-you-speak/) - (2021) How to write like you speak
 * [Giles Turnbull](https://gilest.org/2021/how-to-be-clear/) - (2021) How to be clear
+* [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
 
 > Tools
 * [Grammar Checker](https://www.grammarcheck.net/editor/) - Enter the text that you want to check for grammar, spelling, and punctuation mistakes
