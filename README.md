@@ -4845,4 +4845,4 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Scribens](https://www.scribens.com/) - checks the grammar of your texts and finds spelling mistakes.
 * [BonPatron](http://bonpatron.com/) - [FR] :fr: online spelling and grammar checker for french texts / correcteur d'orthographe et de grammaire en ligne pour les textes français
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
-
+* [Repetition Detector](http://www.repetition-detector.com/?p=online) - Intelligent and user-friendly detection of repetitions
