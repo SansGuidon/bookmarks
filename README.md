@@ -4467,7 +4467,8 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Michael Foord](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing) - (2017) 30 best practices for software development and testing
 * [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of best practices information from around the web
 * [Michal Kovařík kovarex](https://factorio.com/blog/post/fff-366) - (2021) The only way to go fast, is to go well! | Factorio Team and TDD
- 
+* [Eric Elliott](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) - (2019) TDD Changed My Life
+
 # Transportation :train2: :oncoming_automobile:
 > Learn
 * [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX
