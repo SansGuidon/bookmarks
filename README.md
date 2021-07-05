@@ -2106,6 +2106,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Nicholas Bate](https://blog.strategicedge.co.uk/2013/03/tidy-up-as-you-go-along-be-it-cooking-diy-or-selling-your-software-solution-remember-the-small-stuff-as-it-is-big-stuf.html) - (2013) Life Tips 101
 * [Mike Crittenden](https://critter.blog/2021/06/25/treat-it-like-youre-bailing/) - (2021) Treat it like you’re bailing
 * [Mike Crittenden](https://critter.blog/2021/07/02/10-of-us-are-barely-affected-by-caffeine/) - (2021) 10% of us are barely affected by caffeine
+* [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
 
 ## Remote work
 > Finding a remote job
@@ -2131,7 +2132,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Thomas A. Limoncelli](https://queue.acm.org/detail.cfm?id=3417752) - (2020) Five Nonobvious Remote Work Technique)
 * [Ed Zitron](https://ez.substack.com/p/the-work-from-home-future-is-destroying) - (2021) The Work-From-Home Future Is Destroying Bosses' Brains | a critique of managers and business owners
 * [Justin Garrison](https://www.justingarrison.com/blog/2020-08-31-remote-onboarding/) - (2020) How to On-board New Hires Remotely
- 
+* [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
+
 # Hobbies
 * [Mike Crittenden](https://critter.blog/2020/12/08/the-key-to-happiness-is-to-stop-getting-upset-all-the-dang-time/) - (2020) The key to happiness is to stop getting upset all the dang time
 
@@ -3044,6 +3046,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Keeku](https://keeku.co/) - 🇫🇷 [FR] Le coin des podcasts pour enfants | Retrouvez de belles histoires de princesses et de dragons, de la méditation ou du yoga, de l’actualité, à écouter sur la route de l’école, à la maison, dans la voiture ou pendant les vacances ! Et tout cela gratuitement !
 * [Moi, Papa](https://www.rtbf.be/auvio/emissions/detail_moi-papa?id=18794) - 🇧🇪 🇫🇷 [BE] [FR] [Videos] [Audio] Un podcast de 5 épisodes dans lequel Adrien De Vyver reçoit des experts et abordent les difficultés, les joies, le stress, les besoins des jeunes ou futurs nouveaux papas.  Les mamans ont cet instinct maternel qui les unis, après 9 mois de grossesse, à leur enfant. Mais comment aider les pères à trouver leurs plac...  Plus
 * [The Daddy Corner](https://www.nestlebaby.be/fr/daddycorner) - 🇧🇪 🇫🇷 [FR] [BE] les papas ont aussi leur espace d’information
+* [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
 
 # Philosophy :thought_balloon:
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
