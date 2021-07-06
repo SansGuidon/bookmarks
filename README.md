@@ -1562,7 +1562,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind. **Bonus** : [Beta website](https://books.vishnuks.com/)
 
 ## App discovery
-* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
+* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 * :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * :star: [**AlternativeTo**](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
@@ -2702,7 +2702,7 @@ type `curl ident.me` to know your public ip
 * :fire: :unicorn: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
 * :star: [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
-* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. Related : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew)
+* [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 * :star: [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
 * :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
