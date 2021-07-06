@@ -2604,6 +2604,7 @@ rpm --rebuilddb
 * [Spoiler.io](http://spoiler.io/) - Random Movies and TV Shows Spoilers.
 * [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
 * [Similaires](https://similaires.com/) - 🇫🇷 [FR] Trouver les meilleurs films similaires | service de sélection de films similaires, qui vous aidera à choisir le prochain film ou la prochaine série.
+* [Jay Riverlong](https://jayriverlong.github.io/2021/07/05/movies.html) - (2021) No More Movies
 
 # Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
