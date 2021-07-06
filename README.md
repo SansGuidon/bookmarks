@@ -2181,7 +2181,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 
 > Walks and nature
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
-* [balnam.be](https://www.balnam.be/) - :fr: [FR] Les chemins et sentiers publics de la Province de Namur.
+* [chemins.be](https://chemins.be/) - :fr: [FR] Les chemins et sentiers publics de la Province de Namur.
 * [RouteYou](https://www.routeyou.com/fr-be/location/walk/47407895/bruxelles-a-pied-resume-de-toutes-les-itineraires-a-pied) - :fr: [FR] itinéraires à pied ou en vélo à Bruxelles
 * [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
 * [ReflexCity](https://www.reflexcity.net/) - :fr: 🇧🇪 [FR] [BE] Tout Bruxelles dans un site. **Examples :**
