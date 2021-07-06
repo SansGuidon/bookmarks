@@ -1771,6 +1771,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Excalidraw](https://excalidraw.com/) - is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn look & feel to them. **Bonus** : [Extensions & libraries](https://libraries.excalidraw.com/)
 * [**Tunefind**](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
 * [**Tunefind**](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
+* [Convert Case](https://convertcase.net/) - Easily convert text between different letter cases: lower case, UPPER CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -3670,6 +3671,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc.
 * [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
+* [Convert Case](https://convertcase.net/) - Easily convert text between different letter cases: lower case, UPPER CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
