@@ -3050,6 +3050,11 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Moi, Papa](https://www.rtbf.be/auvio/emissions/detail_moi-papa?id=18794) - 🇧🇪 🇫🇷 [BE] [FR] [Videos] [Audio] Un podcast de 5 épisodes dans lequel Adrien De Vyver reçoit des experts et abordent les difficultés, les joies, le stress, les besoins des jeunes ou futurs nouveaux papas.  Les mamans ont cet instinct maternel qui les unis, après 9 mois de grossesse, à leur enfant. Mais comment aider les pères à trouver leurs plac...  Plus
 * [The Daddy Corner](https://www.nestlebaby.be/fr/daddycorner) - 🇧🇪 🇫🇷 [FR] [BE] les papas ont aussi leur espace d’information
 * [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
+* [Dr. Elaine Aron](https://hsperson.com/the-highly-sensitive-parent/) - (2005) The Highly Sensitive Parent
+* [Kelly McQuillan](https://www.todaysparent.com/family/parenting/what-its-like-to-parent-when-youre-a-highly-sensitive-person/) - (2020) What it’s like to parent when you’re a Highly Sensitive Person
+* [Felicia Schneiderhan ](https://www.realsimple.com/work-life/family/highly-sensitive-parent) - (2017) I Just Found Out I’m a Highly Sensitive Parent—And It Changed My Life
+* [Patricia Harteneck](https://www.seleni.org/advice-support/2018/3/16/parenting-when-you-are-highly-sensitive) - (2018) Parenting When You Are Highly Sensitive | How to take care of your kids and yourself
+* [Nitzia Logothetis](https://www.seleni.org/advice-support/2018/3/16/monitoring-our-parenting) - (2018) Monitoring Our Parenting | Does tracking your child's vital signs keep him safe or drive you crazy?
 
 # Philosophy :thought_balloon:
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
@@ -3821,6 +3826,10 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [InformationIsBeautiful.net](http://www.keole.net/wp-content/uploads/2014/09/arguments_rethoriques_fallacieux.png) - (2012) [FR] :fr:[IMG] Arguments réthoriques fallacieux
 * [Grand bien vous fasse !](https://www.franceinter.fr/emissions/grand-bien-vous-fasse/grand-bien-vous-fasse-19-janvier-2021) - (2021) :fr: [FR] [Audio] L'hypersensibilité
 * [Marc Allard](https://www.lesoleil.com/chroniques/marc-allard/nous-sommes-ce-que-nous-ecoutons-d94815457194e1d6b1c9817df03fa1f6) - (2016) :fr: [FR] Nous sommes ce que nous écoutons
+* [Dr. Elaine Aron](https://hsperson.com/the-highly-sensitive-parent/) - (2005) The Highly Sensitive Parent
+* [Kelly McQuillan](https://www.todaysparent.com/family/parenting/what-its-like-to-parent-when-youre-a-highly-sensitive-person/) - (2020) What it’s like to parent when you’re a Highly Sensitive Person
+* [Felicia Schneiderhan ](https://www.realsimple.com/work-life/family/highly-sensitive-parent) - (2017) I Just Found Out I’m a Highly Sensitive Parent—And It Changed My Life
+* [Patricia Harteneck](https://www.seleni.org/advice-support/2018/3/16/parenting-when-you-are-highly-sensitive) - (2018) Parenting When You Are Highly Sensitive | How to take care of your kids and yourself
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
