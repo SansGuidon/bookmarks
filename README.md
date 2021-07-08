@@ -2940,6 +2940,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Fernanda Martins](https://www.slideshare.net/FernandaMartins154/the-hitchhikers-guide-to-terraform-your-infrastructure) - (2020) [Slides] The hitchhiker's guide to terraform your infrastructure
 * [Sam Savage](https://www.linkedin.com/pulse/terraform-etc-infrastructure-code-kills-devops-sam-savage/) - (2020) Terraform is not Infrastructure As Code and it kills DevOps
 > "why anyone would want to throw away 50 years of developments in computer science and language theory"
+* [Tiexin Guo](https://medium.com/4th-coffee/on-devops-9-infrastructure-as-code-clean-code-terraform-introduction-and-best-practices-5d266132c70a) - (2021) On DevOps — 9. Infrastructure as Code — Clean Code, Terraform Introduction, and Best Practices
 
 ## Jira
 > News
