@@ -2509,6 +2509,7 @@ rpm --rebuilddb
 * [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
 * [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
 * [VimTricks Archives](https://vimtricks.substack.com/archive) - Vim tricks, tips, plugins, recipes, and more. Learn valuable tips to hone your Vim skills - either novice or advanced!
+* [Alexander González Fertel](https://alexfertel.hashnode.dev/vim-is-actually-worth-it) - (2021) Vim is actually worth it
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
