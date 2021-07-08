@@ -2938,6 +2938,8 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Gruntwork Docs](https://gruntwork.io/guides/foundations/how-to-configure-production-grade-aws-account-structure/#what-is-an-aws-account-structure) - How to configure a production-grade AWS account structure using Gruntwork AWS Landing Zone | Guide for configuring a production-grade AWS account structure, including how to manage multiple environments, users, permissions, and audit logging. We’ll also discuss how to implement a Landing Zone solution that lets you quickly spin up new AWS accounts that all implement a security baseline that enforces your company’s policies.
 * [Rosemary Wang](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) - (2019) [Slides] Test-Driven Development (TDD) for Infrastructure
 * [Fernanda Martins](https://www.slideshare.net/FernandaMartins154/the-hitchhikers-guide-to-terraform-your-infrastructure) - (2020) [Slides] The hitchhiker's guide to terraform your infrastructure
+* [Sam Savage](https://www.linkedin.com/pulse/terraform-etc-infrastructure-code-kills-devops-sam-savage/) - (2020) Terraform is not Infrastructure As Code and it kills DevOps
+> "why anyone would want to throw away 50 years of developments in computer science and language theory"
 
 ## Jira
 > News
