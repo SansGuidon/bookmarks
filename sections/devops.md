@@ -1299,6 +1299,8 @@ See also [Infrastructure](README.md#infrastructure)
 * [Fernanda Martins](https://www.slideshare.net/FernandaMartins154/the-hitchhikers-guide-to-terraform-your-infrastructure) - (2020) [Slides] The hitchhiker's guide to terraform your infrastructure
 * [Anton Babenko](https://www.youtube.com/watch?v=mOsiLZGdXS4) - (2019) [Video] Terraform best practices with examples and arguments
 * [CloudSkiff](https://medium.com/faun/terraform-code-quality-66e6468f50f3) - (2019) Terraform Code Quality | Key Steps to a good quality for your Infrastructure Code.
+* [Sam Savage](https://www.linkedin.com/pulse/terraform-etc-infrastructure-code-kills-devops-sam-savage/) - (2020) Terraform is not Infrastructure As Code and it kills DevOps
+> "why anyone would want to throw away 50 years of developments in computer science and language theory"
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
