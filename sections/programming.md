@@ -786,6 +786,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Ayooluwa Isaiah](https://freshman.tech/linting-golang/) - (2021) A guide to linting Go programs
 * [Mike Crittenden](https://critter.blog/2021/04/23/you-have-to-standardize-before-you-can-standardize/) - (2021) You have to standardize before you can standardize
 * [Alex Mitelman](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/) - (2021) Python Best Practices for a New Project in 2021
+* [Tiexin Guo](https://medium.com/4th-coffee/on-devops-9-infrastructure-as-code-clean-code-terraform-introduction-and-best-practices-5d266132c70a) - (2021) On DevOps — 9. Infrastructure as Code — Clean Code, Terraform Introduction, and Best Practices
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
