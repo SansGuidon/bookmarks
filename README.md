@@ -3045,6 +3045,10 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Script_Includes#gsc.tab=0) - Script Includes. Related : [Use Script Includes](https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/server-scripting/concept/c_UseScriptIncludes.html)
 
 # Parenting
+> News
+* [Les-Supers-Parents.com](https://www.les-supers-parents.com/) - 🇫🇷 [FR] L’objectif de ce blog est de partager avec vous nos découvertes et notre progression en termes de “Parentalité Bienveillante et Respectueuse”. Vous y trouverez sous forme  une synthèse structurée des toutes les informations que nous dénichons un peu partout… et leur mise en application.
+
+> Misc
 * [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : * [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
 * [Daniel Miessler](https://danielmiessler.com/blog/is-it-wrong-to-have-children/) - Is It Wrong to Have Children?
 * [David Walsh](https://davidwalsh.name/being-a-dev-dad) - (2016) Being a Dev Dad
