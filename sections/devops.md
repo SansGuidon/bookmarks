@@ -565,6 +565,7 @@ See also [Infrastructure](README.md#infrastructure)
 * [AWS Compute Optimizer](https://console.aws.amazon.com/compute-optimizer/home#/) - Identify optimal AWS Compute resources for your workloads
 * [AWS Global Accelerator](https://speedtest.globalaccelerator.aws/#/) - is a service that improves the availability and performance of your applications. This tool compares Global Accelerator to the public internet. Choose a file size to see the time to download a file from application endpoints in different AWS Regions to your browser.
 * [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
+* [Edouard Kachelmann and Anthony Pasquariello](https://aws.amazon.com/blogs/security/enhance-programmatic-access-for-iam-users-using-yubikey-for-multi-factor-authentication/) - (2020) Enhance programmatic access for IAM users using a YubiKey for multi-factor authentication
 
 > Tips
 * [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html) - determine your instance's IPv4 addresses using instance metadata :
