@@ -2516,20 +2516,16 @@ rpm --rebuilddb
 * [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
 * [Markus Wein](http://nuclearsquid.com/macos-terminal-cheat-sheet/) - macOS Terminal cheat sheet
 * [Hanxue Lee](http://flummox-engineering.blogspot.com/2016/01/installing-jenkins-os-x-homebrew.html) - (2016) Installing Jenkins on OS X using Homebrew
-* [StackShare](https://stackshare.io/javascript-ui-libraries) - popular JavaScript UI libraries on StackShare
 * [MacAdmins on Slack](https://macadmins.herokuapp.com/) - Place where many of OS X Admins belong
 * [OS X Daily](http://osxdaily.com/2011/09/26/show-package-contents-unavailable-extract-pkg-files-without-installing-them/) - (2011) Command line : Extract .pkg Files Without Installing Them
 * [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - (2013) Mount * [OS X Daily](http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/) - Mount & Unmount Drives from the Command Line in Mac OS X Unmount Drives from the Command Line in Mac OS X
 * [Apple Support](https://support.apple.com/en-us/HT201236) - Mac keyboard shortcuts
 * [Randall Wood/jenkins-slave-osx](https://github.com/rhwood/jenkins-slave-osx/blob/master/install.sh) - Example of Jenkins slave setup script for Mac OSX
 * [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
-* [Apple](https://developer.apple.com/downloads/index.action) - Downloads for Apple Developers / useful to find old tools / OS versions
 * [Vinod Yalburgi](http://www.ibtimes.co.uk/how-install-os-x-yosemite-new-partition-dual-boot-mavericks-1451812) - How to Install OS X Yosemite on New Partition and Dual-Boot with Mavericks
 * [Christian Zibreg](http://www.idownloadblog.com/2015/09/14/how-to-start-up-mac-from-bootable-media/) - (2015) How to start up your Mac from a bootable CD/DVD, USB thumb drive or external storage device
 * [Daniel Miessler](https://danielmiessler.com/blog/8-powerful-features-of-safari-that-few-people-know-about/) - 8 Powerful Features of Safari That Few People Know About
-* [Daniel Miessler](https://danielmiessler.com/blog/first-10-things-new-mac/) - The First 10 Things I Do on a New Mac
 * [Enrico Maria Crisostomo](http://thegreyblog.blogspot.be/2014/06/os-x-creating-packages-from-command_2.html) - (2014) OS X: Creating Packages from the Command Line - Tutorial and a Makefile - Part I
-* [Lucas Hall](https://opensource.com/article/17/5/8-open-source-tools-managing-macos) - 8 open source tools for managing macOS
 * [Maksym Grebenets](http://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node) - (2015) Jenkins Remote Node on Mac OS X
 * [Praval Singh](http://praval.com/2015/10/your-mac-is-probably-eating-your-internet-bandwidth-look-for-nsurlsessiond/) - (2015) Your Mac is probably eating your Internet bandwidth (and you don’t know about it!). **Bonus** : other links on the subject : [1](https://paulromer.net/iot-nsurlsessiond-and-trust/) [2](https://ayteck.blogspot.be/2015/09/limited-bandwidth-apple-and-hell-caused.html) [3](https://discussions.apple.com/thread/6605949?tstart=0) [4](https://theblogmatic.wordpress.com/2015/11/26/solution-nsurlsessiond-taking-up-bandwidth-and-downloading-data-mac/)
 * [Wesley Moore](http://bitcannon.net/post/finding-an-alternative-to-mac-os-x/) - Finding an Alternative to Mac OS X
@@ -2537,13 +2533,18 @@ rpm --rebuilddb
 * [Rich Trouton](https://derflounder.wordpress.com/2014/02/16/managing-the-authorization-database-in-os-x-mavericks/) - (2014) Managing the Authorization Database in OS X Mavericks | and probably for later versions too
 * [Yubico Support](https://support.yubico.com/support/solutions/articles/15000015045-macos-logon-tool-configuration-guide) - macOS Logon Tool Configuration Guide : Enable Yubico 2FA at macOs login screen and for screensaver
 * [OSXDaily](http://osxdaily.com/2017/11/22/use-touch-id-sudo-mac/) - (2017) How to Use Touch ID to Authenticate sudo on Mac OS
-* [Homebrew Formulae](https://formulae.brew.sh/) - is an online package browser for Homebrew – the macOS package manager.
 * [Miguel Rentes](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/) - (2015) moreutils: the utilities package every UNIX/Linux/Mac OS developer should know | nice utilities
-* [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
 * [sghiassy](https://gist.github.com/sghiassy/a3927405cf4ffe81242f4ecb01c382ac) - How to disable Device Enrollment Notification on Mac / Comment se débarrasser de la notification pour "Inscription du Périphérique" sur Mac
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/macos.md) - My cheatsheet for MacOS
 * [kentcdodds](https://github.com/kentcdodds/dotfiles/blob/master/.macos) - Shared dotfiles for MacOS
+
+> Tools
+* [Homebrew Formulae](https://formulae.brew.sh/) - is an online package browser for Homebrew – the macOS package manager.
+* [Lucas Hall](https://opensource.com/article/17/5/8-open-source-tools-managing-macos) - 8 open source tools for managing macOS
+* [Apple](https://developer.apple.com/downloads/index.action) - Downloads for Apple Developers / useful to find old tools / OS versions
+* [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
 * [Adrian Hesketh](https://adrianhesketh.com/2020/07/03/mac-setup-with-nix-darwin/) - (2020) Using Nix to set up my new Mac
+* [Mathias Polligkeit](https://www.mathiaspolligkeit.de/dev/exploring-nix-on-macos/) - (2020) Dev Environment Setup With Nix on MacOS
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
