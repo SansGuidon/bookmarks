@@ -1381,6 +1381,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [The State of JavaScript 2017](https://stateofjs.com/2017/introduction/) - (2017) Results of a survey to more than 28,000 developers all over the world about JavaScript ecosystem, covering numerous topics (testing, front-end, back-end, build tools, opinions, ...)
 * [Viral Shah](https://blog.usejournal.com/little-known-features-of-javascript-901665291387) - (2018) Little known features of JavaScript | Void operator, With statement, and other things.
 * [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
+* [StackShare](https://stackshare.io/javascript-ui-libraries) - popular JavaScript UI libraries on StackShare
 
 > Tools
 * [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework | Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and SPAs (single-page applications). **See also** : [Video] (2020) [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
