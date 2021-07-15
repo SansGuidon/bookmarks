@@ -2538,6 +2538,7 @@ rpm --rebuilddb
 * [sghiassy](https://gist.github.com/sghiassy/a3927405cf4ffe81242f4ecb01c382ac) - How to disable Device Enrollment Notification on Mac / Comment se débarrasser de la notification pour "Inscription du Périphérique" sur Mac
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/macos.md) - My cheatsheet for MacOS
 * [kentcdodds](https://github.com/kentcdodds/dotfiles/blob/master/.macos) - Shared dotfiles for MacOS
+* [Apple Docs](https://support.apple.com/en-us/HT204895) - Use Multi-Touch gestures on your Mac
 
 > Tools
 * [Homebrew Formulae](https://formulae.brew.sh/) - is an online package browser for Homebrew – the macOS package manager.
