@@ -4502,7 +4502,12 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Michal Kovařík kovarex](https://factorio.com/blog/post/fff-366) - (2021) The only way to go fast, is to go well! | Factorio Team and TDD
 * [Eric Elliott](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) - (2019) TDD Changed My Life
 * [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-
+* [devopsspiral/KubeLibrary](https://github.com/devopsspiral/KubeLibrary) - Kubernetes library for [Robot Framework](https://robotframework.org/) | RobotFramework library for testing Kubernetes cluster
+* [Amit Saha](https://learnk8s.io/validating-kubernetes-yaml) - (2020) Validating Kubernetes YAML for best practice and policies
+* [Harshit Mehndiratta](https://kubevious.io/blog/post/top-kubernetes-yaml-validation-tools) - (2021) Top Kubernetes YAML Validation Tools
+* [kuberhealthy/kuberhealth](https://github.com/kuberhealthy/kuberhealthy) - Kuberhealthy is an [operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) for running synthetic checks as pods. Works great with Prometheus!
+* [CloudSkiff](https://cloudskiff.com/terraform-code-quality/) - (2020) Terraform Code Quality | Key Steps to a good quality for your Infrastructure Code. **Related** : [Original talk from Cloud Native London, 3 June 2020](https://www.youtube.com/watch?v=yX2GoXB70iA) 
+ 
 # Transportation :train2: :oncoming_automobile:
 > Learn
 * [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX
