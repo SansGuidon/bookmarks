@@ -1092,6 +1092,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Kaspar von Grünberg](https://humanitec.com/blog/your-helm-zoo-will-kill-you) - (2020) Your Helm Zoo Will Kill You | There is a fundamental design flaw with Helm, leading to dramatic long-term consequences and you have to solve this now.
 * [Harshit Mehndiratta](https://kubevious.io/blog/post/top-kubernetes-yaml-validation-tools) - (2021) Top Kubernetes YAML Validation Tools
 * [kuberhealthy/kuberhealth](https://github.com/kuberhealthy/kuberhealthy) - Kuberhealthy is an [operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) for running synthetic checks as pods. Works great with Prometheus!
+* [Amit Saha](https://learnk8s.io/validating-kubernetes-yaml) - (2020) Validating Kubernetes YAML for best practice and policies
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
