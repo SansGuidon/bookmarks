@@ -4507,7 +4507,8 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Harshit Mehndiratta](https://kubevious.io/blog/post/top-kubernetes-yaml-validation-tools) - (2021) Top Kubernetes YAML Validation Tools
 * [kuberhealthy/kuberhealth](https://github.com/kuberhealthy/kuberhealthy) - Kuberhealthy is an [operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) for running synthetic checks as pods. Works great with Prometheus!
 * [CloudSkiff](https://cloudskiff.com/terraform-code-quality/) - (2020) Terraform Code Quality | Key Steps to a good quality for your Infrastructure Code. **Related** : [Original talk from Cloud Native London, 3 June 2020](https://www.youtube.com/watch?v=yX2GoXB70iA) 
- 
+* [Raul Sevilla Canavate](https://www.openshift.com/blog/introducing-kube-burner-a-tool-to-burn-down-kubernetes-and-openshift) - (2021) Introducing kube-burner, A tool to Burn Down Kubernetes and OpenShift
+
 # Transportation :train2: :oncoming_automobile:
 > Learn
 * [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX
