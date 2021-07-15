@@ -408,7 +408,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Gandalf Hudlow](https://iism.org/article/developers-can-t-fix-bad-management-57) - (2020) Developers can't fix bad management 
 * [MIT](https://missing.csail.mit.edu/) - The Missing Semester of Your CS Education (MIT course)
 * [Chris The Data Guy](https://betterprogramming.pub/dont-write-code-for-a-startup-1eead038c372) - (2021) Don’t Write Code for a Startup | Confessions of a serial startup software developer
-
+* [prathyvsh/pl-catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of some of the cool programming languages out there, for enthusiasts
+ 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
 * [Nick Parlante](http://codingbat.com) - CodingBat : practice your programming skills (exercices in java and python)
