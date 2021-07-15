@@ -3892,6 +3892,7 @@ See also [Machine learning](sections/programming.md#machine-learning)
 * [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
+* [Karen Hao](https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data) - (2020) A radical new technique lets AI learn with practically no data | “Less than one”-shot learning can teach a model to identify more objects than the number of examples it is trained on.
 
 # Shell scripting
 See also [CLI Tools](#cli-tools)
