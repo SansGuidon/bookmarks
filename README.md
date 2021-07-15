@@ -2440,6 +2440,7 @@ rpm --rebuilddb
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/htop/) - (2017) htop explained | Explanation of everything you can see in htop/top on Linux
 * [b4b4r07/gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
+* [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -2547,6 +2548,7 @@ rpm --rebuilddb
 * [mas-cli/mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface
 * [Adrian Hesketh](https://adrianhesketh.com/2020/07/03/mac-setup-with-nix-darwin/) - (2020) Using Nix to set up my new Mac
 * [Mathias Polligkeit](https://www.mathiaspolligkeit.de/dev/exploring-nix-on-macos/) - (2020) Dev Environment Setup With Nix on MacOS
+* [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
 
 ## Code signing ###
 * [Laszlo Pusztai](http://www.laszlopusztai.net/2012/12/05/hdiutil-requires-sudo-for-readwrite/) - (2012) hdiutil Requires sudo for Read/Write
@@ -4035,6 +4037,8 @@ type `curl ident.me` to know your public ip
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, tutorials & themes
 * [Guido Socher](http://tuxgraphics.org/~guido/scripts/awk-one-liner.html) - (2015) AWK one-liner collection
 * [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
+* [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
+* [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
