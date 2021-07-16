@@ -4284,6 +4284,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Git Docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) - Git Tools - Signing Your Work
 * [Anita Buehrle](https://www.weave.works/blog/continuous-security-for-gitops) - (2019) Continuous Security for GitOps
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely. | I'm using it for a while, it's a powerful and fast tool for managing dotfiles, easy to use, transparent and secure, with support of Bitwarden, Vault, pass, LastPass, 1Password, gopass, Keepass, GnuPG, Keychain etc.
+* [Risan Bagja](https://risanb.com/code/backup-restore-gpg-key/) - (2020) How to Backup and Restore Your GPG Key
 
 ## OpenSSL
 * [ZyTrax](http://www.zytrax.com/tech/survival/ssl.html) - Survival guides - TLS/SSL and SSL (X.509) Certificates
