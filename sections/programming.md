@@ -1142,6 +1142,7 @@ psql -f db.out postgres
 * [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet | This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 * [Thomas Paul Mann](https://raycast.com/blog/no-code-reviews-by-default/) - (2021) No code reviews by default | How one built an engineering culture based on trust that allows us to move incredibly fast without requiring code reviews.
 * [Elisabeth Irgens](https://elisabethirgens.github.io/notes/2021/06/code-reviews/) - (2021) - Why I Won’t Approve Your PR | in-house development has been influenced too much by the GitHub open source PR driven development process. A process driven by zero trust doesn’t fit well in a team with trust.
+* [Choose an open source license](https://choosealicense.com/licenses/) - An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection. GitHub wants to help developers choose an open source license for their source code.
 
 ### Dotfiles / Aliases
 See also [Shell aliases](../README.md#shell-aliases)
