@@ -1773,6 +1773,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [**Tunefind**](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
 * [**Tunefind**](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
 * [Convert Case](https://convertcase.net/) - Easily convert text between different letter cases: lower case, UPPER CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more
+* [Website Page Word Counter](https://wordcounter.net/website-word-count) - website word counter created specifically so you can find out the number of words on any page on the Internet.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
