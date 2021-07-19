@@ -93,6 +93,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Music :notes:](#music-notes)
 * [Networking](#networking)
 * [News :exclamation:](#news-exclamation)
+* [Nix](#nix)
 * [Operations / IT OPS](#operations--it-ops)
   * [Apache](#apache)
   * [Atlassian](#atlassian)
@@ -2744,6 +2745,13 @@ type `curl ident.me` to know your public ip
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
 * [DevOps Newsletters](https://devopsnewsletters.com/) - a one stop shop for the best DevOps news content from around the world.
 
+# Nix
+* [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
+* [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
+* [Nix OS Docs](https://nixos.org/manual/nix/unstable/package-management/garbage-collection.html) - Garbage Collection | handy commands for reclaiming disk space from deleted packages.
+* [Adrian Hesketh](https://adrianhesketh.com/2020/07/03/mac-setup-with-nix-darwin/) - (2020) Using Nix to set up my new Mac
+* [Mathias Polligkeit](https://www.mathiaspolligkeit.de/dev/exploring-nix-on-macos/) - (2020) Dev Environment Setup With Nix on MacOS
+ 
 # Operations / IT OPS
 See also [Monitoring](#monitoring)
 > News
