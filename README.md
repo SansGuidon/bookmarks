@@ -1069,6 +1069,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Justin Garrison](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - (2021) The Document Culture of Amazon
 * [Mike Crittenden](https://critter.blog/2021/05/10/resistance-increases-exponentially-with-the-size-of-a-change/) - (2021) Resistance increases exponentially with the size of a change.
 * [Mike Crittenden](https://critter.blog/2021/04/23/you-have-to-standardize-before-you-can-standardize/) - (2021) You have to standardize before you can standardize
+* [First Round Review](https://review.firstround.com/empathy-driven-development-how-engineers-can-tap-into-this-critical-skill) - (2019) Empathy-Driven Development: How Engineers Can Tap into This Critical Skill. **See also** [Empathy-Driven Development](https://www.empathy-driven-development.com/)
+> “You can’t say the word ‘empathy’ at a software company. No one will take you seriously.”
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -3856,6 +3858,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Kelly McQuillan](https://www.todaysparent.com/family/parenting/what-its-like-to-parent-when-youre-a-highly-sensitive-person/) - (2020) What it’s like to parent when you’re a Highly Sensitive Person
 * [Felicia Schneiderhan ](https://www.realsimple.com/work-life/family/highly-sensitive-parent) - (2017) I Just Found Out I’m a Highly Sensitive Parent—And It Changed My Life
 * [Patricia Harteneck](https://www.seleni.org/advice-support/2018/3/16/parenting-when-you-are-highly-sensitive) - (2018) Parenting When You Are Highly Sensitive | How to take care of your kids and yourself
+* [First Round Review](https://review.firstround.com/empathy-driven-development-how-engineers-can-tap-into-this-critical-skill) - (2019) Empathy-Driven Development: How Engineers Can Tap into This Critical Skill. **See also** [Empathy-Driven Development](https://www.empathy-driven-development.com/)
+> “You can’t say the word ‘empathy’ at a software company. No one will take you seriously.”
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
