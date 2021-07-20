@@ -438,6 +438,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Langserver.org](https://langserver.org/) - is a community-driven site, maintained by Sourcegraph, to track development progress of LSP-compatible language servers and clients. | The Language Server protocol is used between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool
 * [b4b4r07/gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
 * [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
+* [First Round Review](https://review.firstround.com/empathy-driven-development-how-engineers-can-tap-into-this-critical-skill) - (2019) Empathy-Driven Development: How Engineers Can Tap into This Critical Skill. **See also** [Empathy-Driven Development](https://www.empathy-driven-development.com/)
+> “You can’t say the word ‘empathy’ at a software company. No one will take you seriously.”
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
