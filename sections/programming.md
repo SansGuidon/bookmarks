@@ -1692,6 +1692,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 > * Improve systems : Improving systems helps remove busywork from an employee’s day, but it also makes things easier for the customer. 
 > * Whether you’re getting a lot of satisfaction from being busy or just feeling exasperated, don’t forget to occasionally stop and ask yourself: Is this the best use of time?
 * [Eric Elliott](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) - (2019) TDD Changed My Life
+* [James McTiernan aka Jimmy](https://theproductiveengineer.net/how-to-use-zettelkasten-as-a-programmer-or-developer/) - (2021) How To Use Zettelkasten as a Programmer or Developer
 
 > Tools
 * [Devhints](https://devhints.io/) - Rico's cheatsheets | TL;DR for developer documentation
