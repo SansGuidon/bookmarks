@@ -1159,6 +1159,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Manish Goregaokar](https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/) - (2016) Making Your Open Source Project Newcomer-friendly
 * [Seth Godin](https://seths.blog/2016/02/a-manifesto-for-small-teams-doing-important-work/) - (2016) A manifesto for small teams doing important work
 * [Julio Merino](https://jmmv.dev/2021/04/always-be-quitting.html) - (2021) Always be quitting
+* [James McTiernan aka Jimmy](https://theproductiveengineer.net/how-to-use-zettelkasten-as-a-programmer-or-developer/) - (2021) How To Use Zettelkasten as a Programmer or Developer
 
 > Tools
 * [Daniel Lebrero](https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/) - (2017) Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
