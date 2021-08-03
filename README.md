@@ -2546,6 +2546,7 @@ rpm --rebuilddb
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/macos.md) - My cheatsheet for MacOS
 * [kentcdodds](https://github.com/kentcdodds/dotfiles/blob/master/.macos) - Shared dotfiles for MacOS
 * [Apple Docs](https://support.apple.com/en-us/HT204895) - Use Multi-Touch gestures on your Mac
+* [Spencer Heywood aka heywoodlh](https://the-empire.systems/linux-macos-setup) - (2020) My "Linux-like" MacOS Setup | finally some inspiration and concrete solution to the mess of managing GUI apps with Nix on MacOS. 
 
 > Tools
 * [Homebrew Formulae](https://formulae.brew.sh/) - is an online package browser for Homebrew – the macOS package manager.
@@ -2755,7 +2756,8 @@ type `curl ident.me` to know your public ip
 * [Nix OS Docs](https://nixos.org/manual/nix/unstable/package-management/garbage-collection.html) - Garbage Collection | handy commands for reclaiming disk space from deleted packages.
 * [Adrian Hesketh](https://adrianhesketh.com/2020/07/03/mac-setup-with-nix-darwin/) - (2020) Using Nix to set up my new Mac
 * [Mathias Polligkeit](https://www.mathiaspolligkeit.de/dev/exploring-nix-on-macos/) - (2020) Dev Environment Setup With Nix on MacOS
- 
+* [Spencer Heywood aka heywoodlh](https://the-empire.systems/linux-macos-setup) - (2020) My "Linux-like" MacOS Setup | finally some inspiration and concrete solution to the mess of managing GUI apps with Nix on MacOS. 
+
 # Operations / IT OPS
 See also [Monitoring](#monitoring)
 > News
