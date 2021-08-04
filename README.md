@@ -1383,6 +1383,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Permis d'environnement](http://novac-pe.irisnet.be/) - 🇧🇪 [BE] Carte des permis d'environnement en région de Bruxelles-Capitale. 
 * [geodata.environnement.brussels](https://geodata.environnement.brussels/client/view/3a33e35f-6b64-4b28-bb50-5b4c6b7cb29c) - 🇧🇪 🇫🇷 [BE] [FR] Carte des Antennes émettrices en région de Bruxelles-Capitale
 * [geodata.environnement.brussels](https://geodata.environnement.brussels/client/view/18339ee3-22f5-49ad-9055-90f2b7f6af27) - 🇧🇪 🇫🇷 [BE] [FR] Carte des Zones de bruit en région de Bruxelles-Capitale
+* [Fix My Street](https://fixmystreet.brussels/list) - 🇧🇪 [BE] Report incidents within Brussels' public space and help make your city better!
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
