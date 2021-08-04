@@ -1377,6 +1377,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Chart.xkcd](https://timqian.com/chart.xkcd) - is a chart library plots “sketchy”, “cartoony” or “hand-drawn” xkcd styled charts. 
 * [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 * [Excalidraw](https://excalidraw.com/) - is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn look & feel to them. **Bonus** : [Extensions & libraries](https://libraries.excalidraw.com/)
+* [WappyWap](https://www.wappywap.com) - Collaborative database for connecting car owners.
+> There are at least 100 reasons as to why you may need to contact the owner of a vehicle. And don’t forget YOU could be the owner of the vehicle in trouble... Thanks to WappyWap mobile application, downloadable on all platforms, as well as a web version, it will now be possible to contact the owner of any car, van, truck or motorcycle through its license plate.
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
@@ -4542,6 +4544,8 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Train Map](https://trainmap.belgiantrain.be) - 🇧🇪 [BE] Show belgian train positions in realtime. Train positions are calculated based on timetables, real time info and prognoses.
 * [Seety Map](https://map.seety.co/?lang=en) - 🇧🇪 [BE] Map of free parking zones | For now mainly for Belgium, soon for Europe
 * [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
+* [WappyWap](https://www.wappywap.com) - Collaborative database for connecting car owners.
+> There are at least 100 reasons as to why you may need to contact the owner of a vehicle. And don’t forget YOU could be the owner of the vehicle in trouble... Thanks to WappyWap mobile application, downloadable on all platforms, as well as a web version, it will now be possible to contact the owner of any car, van, truck or motorcycle through its license plate.
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
