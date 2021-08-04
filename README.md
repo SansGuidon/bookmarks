@@ -1379,6 +1379,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Excalidraw](https://excalidraw.com/) - is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn look & feel to them. **Bonus** : [Extensions & libraries](https://libraries.excalidraw.com/)
 * [WappyWap](https://www.wappywap.com) - Collaborative database for connecting car owners.
 > There are at least 100 reasons as to why you may need to contact the owner of a vehicle. And don’t forget YOU could be the owner of the vehicle in trouble... Thanks to WappyWap mobile application, downloadable on all platforms, as well as a web version, it will now be possible to contact the owner of any car, van, truck or motorcycle through its license plate.
+* [openpermits.brussels](https://openpermits.brussels/fr/concertation) - 🇧🇪 🇫🇷 [BE] [FR] Demandes de permis (d'urbanisme) en Région de Bruxelles-Capitale
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
