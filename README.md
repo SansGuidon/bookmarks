@@ -406,6 +406,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Farnam Street](https://fs.blog/2017/10/how-to-remember-what-you-read/) - (2017) How to Remember What You Read
 * [Andy Matuschak](https://andymatuschak.org/books/) - (2019) Why books don’t work
 > Picture some serious non-fiction tomes. The Selfish Gene; Thinking, Fast and Slow; Guns, Germs, and Steel; etc. Have you ever had a book like this—one you’d read—come up in conversation, only to discover that you’d absorbed what amounts to a few sentences?
+* [Robert DiYanni](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly) - (2021) How to gain more from your reading | There’s more to words than meets the eye. Deepen your appreciation of literature through the art of slow, attentive reading 
 
 > Complete books
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
@@ -3622,6 +3623,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 > * Please don’t avoid appropriate caution. It matters to you and to the community. But seeking reassurance and peace of mind by trying to drive risk to zero doesn’t get you either one of them.
 * [Mike Crittenden](https://critter.blog/2021/04/30/the-art-of-booking-a-meeting-just-to-force-you-to-do-a-thing/) - (2021) The art of booking a meeting just to force you to do a thing 
 * [Mike Crittenden](https://critter.blog/2021/05/10/resistance-increases-exponentially-with-the-size-of-a-change/) - (2021) Resistance increases exponentially with the size of a change.
+* [Robert DiYanni](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly) - (2021) How to gain more from your reading | There’s more to words than meets the eye. Deepen your appreciation of literature through the art of slow, attentive reading 
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
