@@ -827,6 +827,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 ### Naming conventions
 * [Javin Paul](http://javarevisited.blogspot.be/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html) - (2014) 10 Programming Best Practices to Name Variables, Methods, Classes and Packages
 * [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
+* [Jonathan Boccara](http://www.fluentcpp.com/2017/01/30/how-to-choose-good-names/) - (2017) How to choose good names in your code
 
 > Tools
 * [Method Namer](http://methodnamer.com/) - Can't think of a good method name? Try this
