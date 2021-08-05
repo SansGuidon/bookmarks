@@ -3389,6 +3389,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Mike Crittenden](https://critter.blog/2021/02/15/beware-of-exception-debt/) - (2021) Beware of exception debt
 * [Justin Garrison](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - (2021) The Document Culture of Amazon
 * [Mike Crittenden](https://critter.blog/2021/04/20/future-you-will-be-as-busy-as-current-you/) - (2021) Future-you will be as busy as current-you
+* [Jane Elliott PhD](https://medium.com/counterarts/you-are-not-lazy-or-undisciplined-you-are-experiencing-internal-resistance-755a02673aa9) - (2021) You are Not Lazy or Undisciplined. You Have Internal Resistance. | Why you can’t just do it, and what to do instead
 
 ## Productivity tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
