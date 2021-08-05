@@ -1074,8 +1074,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mike Crittenden](https://critter.blog/2021/04/23/you-have-to-standardize-before-you-can-standardize/) - (2021) You have to standardize before you can standardize
 * [First Round Review](https://review.firstround.com/empathy-driven-development-how-engineers-can-tap-into-this-critical-skill) - (2019) Empathy-Driven Development: How Engineers Can Tap into This Critical Skill. **See also** [Empathy-Driven Development](https://www.empathy-driven-development.com/)
 > “You can’t say the word ‘empathy’ at a software company. No one will take you seriously.”
-* [Yossi Kreinin aka wetware](http://yosefk.com/blog/evil-tip-avoid-easy-things.html) - (2016) Evil tip: avoid "easy" things
-> To a very large extent, [your productivity is a result of what you choose to work on](http://yosefk.com/blog/10x-more-selective.html). Keep things perceived as easy out of that list. When you can't, postponing an "easy" thing can make it both "harder" and smaller.
+* [Yossi Kreinin aka wetware](https://yosefk.com/blog/evil-tip-avoid-easy-things.html) - (2016) Evil tip: avoid "easy" things
+> To a very large extent, [your productivity is a result of what you choose to work on](https://yosefk.com/blog/10x-more-selective.html). Keep things perceived as easy out of that list. When you can't, postponing an "easy" thing can make it both "harder" and smaller.
+* [Yossi Kreinin aka wetware](https://yosefk.com/blog/10x-more-selective.html) - (2013) 10x more selective
+> So I believe, having authored a lot of code that went down the toilet, that you don't get productive by working as much as by not working – not on stuff that is likely to get thrown away.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -3626,8 +3628,10 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Mike Crittenden](https://critter.blog/2021/04/30/the-art-of-booking-a-meeting-just-to-force-you-to-do-a-thing/) - (2021) The art of booking a meeting just to force you to do a thing 
 * [Mike Crittenden](https://critter.blog/2021/05/10/resistance-increases-exponentially-with-the-size-of-a-change/) - (2021) Resistance increases exponentially with the size of a change.
 * [Robert DiYanni](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly) - (2021) How to gain more from your reading | There’s more to words than meets the eye. Deepen your appreciation of literature through the art of slow, attentive reading 
-* [Yossi Kreinin aka wetware](http://yosefk.com/blog/evil-tip-avoid-easy-things.html) - (2016) Evil tip: avoid "easy" things
-> To a very large extent, [your productivity is a result of what you choose to work on](http://yosefk.com/blog/10x-more-selective.html). Keep things perceived as easy out of that list. When you can't, postponing an "easy" thing can make it both "harder" and smaller.
+* [Yossi Kreinin aka wetware](https://yosefk.com/blog/evil-tip-avoid-easy-things.html) - (2016) Evil tip: avoid "easy" things
+> To a very large extent, [your productivity is a result of what you choose to work on](https://yosefk.com/blog/10x-more-selective.html). Keep things perceived as easy out of that list. When you can't, postponing an "easy" thing can make it both "harder" and smaller.
+* [Yossi Kreinin aka wetware](https://yosefk.com/blog/10x-more-selective.html) - (2013) 10x more selective
+> So I believe, having authored a lot of code that went down the toilet, that you don't get productive by working as much as by not working – not on stuff that is likely to get thrown away.
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
