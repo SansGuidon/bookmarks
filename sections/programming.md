@@ -7,6 +7,7 @@
 * [C/C++](#cc)
 * [Calm programming / Slow programming](#calm-programming--slow-programming)
 * [Clean code and best practices](#clean-code-and-best-practices)
+  * [Naming conventions](#naming-conventions)
 * [Conferences](#conferences)
 * [Correctness](#correctness)
 * [Database](#database)
@@ -794,6 +795,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [CloudSkiff](https://cloudskiff.com/terraform-code-quality/) - (2020) Terraform Code Quality | Key Steps to a good quality for your Infrastructure Code. **Related** : [Original talk from Cloud Native London, 3 June 2020](https://www.youtube.com/watch?v=yX2GoXB70iA) 
 * [Vincent Foley aka vfoley, gnuvince](https://vfoley.xyz/reasonable-use/) - (2021) Making Reasonable Use of Computer Resources
 > The fastest option eventually wins. Would your project survive if a competitor came along and was ten times faster?
+* [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
@@ -821,6 +823,14 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Semver check](https://jubianchi.github.io/semver-check/#/) - More and more projects try to follow Semantic Versioning to reduce package versioning nightmare and every dependency manager implements its own semantic versioner. Composer and NPM for example don't handle version constraints the same way. It's hard sometimes to be sure how some library version will behave against some constraint. This tiny webapp checks if a given version satisfies another given constraint.
 * [Harshit Mehndiratta](https://kubevious.io/blog/post/top-kubernetes-yaml-validation-tools) - (2021) Top Kubernetes YAML Validation Tools
 * [Amit Saha](https://learnk8s.io/validating-kubernetes-yaml) - (2020) Validating Kubernetes YAML for best practice and policies
+
+### Naming conventions
+* [Javin Paul](http://javarevisited.blogspot.be/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html) - (2014) 10 Programming Best Practices to Name Variables, Methods, Classes and Packages
+* [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
+
+> Tools
+* [Method Namer](http://methodnamer.com/) - Can't think of a good method name? Try this
+* [CodeElf](https://unbug.github.io/codelf) - Search over Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names | A search tool helps dev to solve the naming things problem. **Source code** : [unbug/codelf](https://github.com/unbug/codelf)
 
 ## Conferences
 > In Belgium
@@ -1695,6 +1705,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 > * Whether you’re getting a lot of satisfaction from being busy or just feeling exasperated, don’t forget to occasionally stop and ask yourself: Is this the best use of time?
 * [Eric Elliott](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) - (2019) TDD Changed My Life
 * [James McTiernan aka Jimmy](https://theproductiveengineer.net/how-to-use-zettelkasten-as-a-programmer-or-developer/) - (2021) How To Use Zettelkasten as a Programmer or Developer
+* [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 
 > Tools
 * [Devhints](https://devhints.io/) - Rico's cheatsheets | TL;DR for developer documentation
