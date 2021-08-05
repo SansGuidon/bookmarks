@@ -121,6 +121,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [C/C++](sections/programming.md#cc)
   * [Calm programming / Slow programming](sections/programming.md#calm-programming--slow-programming)
   * [Clean code and best practices](sections/programming.md#clean-code-and-best-practices)
+    * [Naming conventions](sections/programming.md#naming-conventions)
   * [Conferences](sections/programming.md#conferences)
   * [Correctness](sections/programming.md#correctness)
   * [Database](sections/programming.md#database)
