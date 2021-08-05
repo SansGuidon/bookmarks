@@ -1078,6 +1078,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > To a very large extent, [your productivity is a result of what you choose to work on](https://yosefk.com/blog/10x-more-selective.html). Keep things perceived as easy out of that list. When you can't, postponing an "easy" thing can make it both "harder" and smaller.
 * [Yossi Kreinin aka wetware](https://yosefk.com/blog/10x-more-selective.html) - (2013) 10x more selective
 > So I believe, having authored a lot of code that went down the toilet, that you don't get productive by working as much as by not working – not on stuff that is likely to get thrown away.
+* [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -1126,6 +1127,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Brené Brown](https://brenebrown.com/blog/2018/10/15/clear-is-kind-unclear-is-unkind/) - (2018) Clear is Kind. Unclear is Unkind.
 * [Mike Crittenden](https://critter.blog/2020/08/13/clear-is-kind-unclear-is-unkind/) - (2020) Clear is kind, unclear is unkind
 * [Mike Crittenden](https://critter.blog/2021/05/03/death-to-the-word-expert/) - (2021) Death to the word “expert”
+* [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
 
 ## Documentation
 > Learn
@@ -3722,6 +3724,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
 * [Convert Case](https://convertcase.net/) - Easily convert text between different letter cases: lower case, UPPER CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more
+* [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
@@ -3884,6 +3887,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Patricia Harteneck](https://www.seleni.org/advice-support/2018/3/16/parenting-when-you-are-highly-sensitive) - (2018) Parenting When You Are Highly Sensitive | How to take care of your kids and yourself
 * [First Round Review](https://review.firstround.com/empathy-driven-development-how-engineers-can-tap-into-this-critical-skill) - (2019) Empathy-Driven Development: How Engineers Can Tap into This Critical Skill. **See also** [Empathy-Driven Development](https://www.empathy-driven-development.com/)
 > “You can’t say the word ‘empathy’ at a software company. No one will take you seriously.”
+* [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
