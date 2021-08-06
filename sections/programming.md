@@ -796,6 +796,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Vincent Foley aka vfoley, gnuvince](https://vfoley.xyz/reasonable-use/) - (2021) Making Reasonable Use of Computer Resources
 > The fastest option eventually wins. Would your project survive if a competitor came along and was ten times faster?
 * [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
+* [Jérôme Beau](https://javarome.medium.com/developers-bad-habits-2e99a174b514) - (2021) Developers Bad habits | You don’t want to do that
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
