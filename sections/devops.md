@@ -1073,7 +1073,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Sasha Jeltuhin](https://thenewstack.io/the-challenges-of-monitoring-kubernetes-and-openshift/) - (2018) The Challenges of Monitoring Kubernetes and OpenShift
 * [@memenetes](https://twitter.com/memenetes) - Twitter account publishing kubernetes dank memes / humor if that's something
 * [Tammy Bryant Butow](https://tammybutow.medium.com/site-reliability-engineering-for-kubernetes-b52877c70fb7) - (2020) Site Reliability Engineering for Kubernetes
-
+* [Eyar Zilberman](https://www.datree.io/resources/kubernetes-schema-validation) - (2021) A Deep Dive Into Kubernetes Schema Validation
+ 
 > Tools
 * [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
 * [Stackpoint.io on Slack](http://slack.stackpoint.io/) - Slack community about NetApp Kubernetes Service, a Web-based interface for deployment of Kubernetes cluster. **See also** [Official website](https://cloud.netapp.com/kubernetes-service)
