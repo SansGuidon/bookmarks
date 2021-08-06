@@ -1839,6 +1839,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [What the Commit](http://whatthecommit.com/) - A random commit message generator. | some inspiration for your next git commit message
 * [Michael Küsters](https://docs.google.com/document/u/1/d/1-2aZP3BlctQrWP8bNpSxkVBKphypALPINUGGTn26els/mobilebasic) - (2019) The Scream Guide - A comprehensive Guide to Scream: When Scrum would require too much change! (Parodic guide to Scrum)
 * [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Gorgeous ways to exit Vim :-D (it goes beyond what you expect)
+* [RePokémon](https://cheeaun.github.io/repokemon/) - Showcase of GitHub repos with Pokémon names
 
 ## Prolog
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
