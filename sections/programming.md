@@ -457,7 +457,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Trevor Reed](https://medium.com/@trevorhreed/you-re-api-isn-t-restful-and-that-s-good-b2662079cf0e) - (2016) Your API isn’t RESTful — And That’s Good | stop using the terms REST and RESTful to describe APIs that aren’t RESTful. It’s hurting our APIs and confusing the purpose and definition of REST.
 * [Steven A. Lowe](https://techbeacon.com/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit) - (2018) Big benefits from tiny types: How to make your code's domain concepts explicit
 * [Christian Maioli Mackeprang](https://techbeacon.com/3-creative-techniques-writing-modular-code) - (2018) 3 creative techniques for writing modular code
-* [Christian Maioli Mackeprang](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
+* [Christian Maioli Mackeprang](https://techbeacon.com/app-dev-testing/35-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
 * [Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) - (2013) Best Practices for Designing a Pragmatic RESTful API
 * [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 * [Zdenek Nemec (Z, zdne)](https://blog.goodapi.co/api-maturity-fb25560151a3) - (2018) API Maturity
@@ -684,7 +684,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Steven A. Lowe](https://techbeacon.com/program-faster-all-time-best-tips-pros) - Code faster: 53 tips from the pros
 > The only way to go fast is to go well. Every time you yield to the temptation to trade quality for speed, you slow down. Every time. [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
 * [Christian Maioli Mackeprang](https://techbeacon.com/3-creative-techniques-writing-modular-code) - (2018) 3 creative techniques for writing modular code
-* [Christian Maioli Mackeprang](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
+* [Christian Maioli Mackeprang](https://techbeacon.com/app-dev-testing/35-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
 * [Christian Maioli Mackeprang](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 * [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer) - (2012) Signs that you're a bad programmer
 * [Software Engineering Tips](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) - (2012) Signs that you're a good programmer
@@ -1613,7 +1613,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Michael Lynch](https://mtlynch.io/why-i-quit-google/) - (2018) Why I Quit Google to Work for Myself
 * [Steven A. Lowe](https://techbeacon.com/program-faster-all-time-best-tips-pros) - Code faster: 53 tips from the pros
 > The only way to go fast is to go well. Every time you yield to the temptation to trade quality for speed, you slow down. Every time. [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
-* [Christian Maioli Mackeprang](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
+* [Christian Maioli Mackeprang](https://techbeacon.com/app-dev-testing/35-programming-habits-make-your-code-smell) - (2018) 35 programming habits that make your code smell
 * [Christian Maioli Mackeprang](https://techbeacon.com/how-terrible-code-gets-written-perfectly-sane-people) - (2018) How terrible code gets written by perfectly sane people
 * [Software Engineering Tips](http://www.yacoset.com/Home/communication-tips) - (2010) Communication Tips
 * [Nir Cohen](https://sysadvent.blogspot.be/2016/12/day-16-trained-engineers-overnight.html) - (2016) Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)
