@@ -824,6 +824,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Semver check](https://jubianchi.github.io/semver-check/#/) - More and more projects try to follow Semantic Versioning to reduce package versioning nightmare and every dependency manager implements its own semantic versioner. Composer and NPM for example don't handle version constraints the same way. It's hard sometimes to be sure how some library version will behave against some constraint. This tiny webapp checks if a given version satisfies another given constraint.
 * [Harshit Mehndiratta](https://kubevious.io/blog/post/top-kubernetes-yaml-validation-tools) - (2021) Top Kubernetes YAML Validation Tools
 * [Amit Saha](https://learnk8s.io/validating-kubernetes-yaml) - (2020) Validating Kubernetes YAML for best practice and policies
+* [Artur Śmiarowski](https://alemil.com/guidelines-for-writing-readable-code) - (2018) 23 guidelines for writing readable code
 
 ### Naming conventions
 * [Javin Paul](http://javarevisited.blogspot.be/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html) - (2014) 10 Programming Best Practices to Name Variables, Methods, Classes and Packages
