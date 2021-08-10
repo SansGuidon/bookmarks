@@ -836,7 +836,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Umer Mansoor](https://codeahoy.com/2017/07/26/fix-employee-weaknesses-or-focus-on-their-strengths/) - (2017) Fix Employee Weaknesses or Focus on Their Strengths?
 * [Umer Mansoor](https://codeahoy.com/2016/04/03/effective-code-reviews/) - (2016) Effective Code Reviews
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
-* [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
+* [Tom Preston-Werner](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
 * [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) - How to break creative blocks by encouraging lateral thinking.
 * [Jeff Wainwright](https://css-tricks.com/code-review-etiquette/) - (2017) Code Review Etiquette
 * [Doug Tedder](https://www.dougtedder.com/2017/11/03/the-seven-silent-killers-of-the-it-organization/) - (2017) The Seven Silent Killers of the IT Organization
@@ -1140,7 +1140,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Carmen Bourlon](https://www.javascriptjanuary.com/blog/document-like-a-journalist) - Document like a Journalist
 * [Felix](https://thinkingsideways.net/working/culture/2019/01/03/knowledge-transfers.html) - (2019) The Trouble with Knowledge Transfers
 * [Steve Losh](http://stevelosh.com/blog/2013/09/teach-dont-tell/) - (2013) Teach, Don't Tell | about documentation
-* [Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
+* [Tom Preston-Werner](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - (2010) Readme Driven Development
 * [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - How to Open Source at Zalando. **Bonus** : [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 * [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 * [Akash Nimare](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) - (2016) A Beginners Guide to writing a Kickass README ✍
