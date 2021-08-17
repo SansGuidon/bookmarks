@@ -798,6 +798,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 * [Jérôme Beau](https://javarome.medium.com/developers-bad-habits-2e99a174b514) - (2021) Developers Bad habits | You don’t want to do that
 * [Matjaz Trcek](https://codeandunicorns.com/antipatterns-software-development/) - (2016) Antipatterns in software development
+* [learnk8s](https://learnk8s.io/production-best-practices) - Kubernetes production best practices | A curated checklist of best practices designed to help you release to production
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
