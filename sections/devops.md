@@ -4,6 +4,7 @@
 
 * [Ansible](#ansible)
   * [Ansible Vault](#ansible-vault)
+* [Argo CD](#argo-cd)
 * [AWS](#aws)
 * [Bitbucket](#bitbucket)
 * [ChatOps](#chatops)
@@ -511,6 +512,10 @@
 * [Michel Blanc](https://leucos.github.io/articles/transparent-vault-revisited/) - Transparent encryption with ansible vault revisited
 * [Tristan Fisher](https://gist.github.com/tristanfisher/e5a306144a637dc739e7) - Working with ansible-vault : A short tutorial on how to use Vault in your Ansible workflow
 * [Chris Short](https://opensource.com/article/16/12/devops-security-ansible-vault) - Improve your DevOps security game with Ansible Vault
+
+## Argo CD
+* [ArgoCD Docs](https://argo-cd.readthedocs.io/en/stable/getting_started/) - Getting Started
+* [Hakan Kurtulus](https://cheppers.com/how-install-argocd-kubernetes-cluster) - (2021) How to install ArgoCD on Kubernetes Cluster?
 
 ## AWS
 See also [Infrastructure](README.md#infrastructure)
