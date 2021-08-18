@@ -1075,6 +1075,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Tammy Bryant Butow](https://tammybutow.medium.com/site-reliability-engineering-for-kubernetes-b52877c70fb7) - (2020) Site Reliability Engineering for Kubernetes
 * [Eyar Zilberman](https://www.datree.io/resources/kubernetes-schema-validation) - (2021) A Deep Dive Into Kubernetes Schema Validation
 * [learnk8s](https://learnk8s.io/production-best-practices) - Kubernetes production best practices | A curated checklist of best practices designed to help you release to production
+* [Eric Khun](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/) - (2020) Kubernetes: Make your services faster by removing CPU limits. **See also** [Kubernetes Failure Stories](https://k8s.af/)
+* [Fayiz Musthafa](https://medium.com/omio-engineering/cpu-limits-and-aggressive-throttling-in-kubernetes-c5b20bd8a718) - (2020) CPU limits and aggressive throttling in Kubernetes. **See also** [Kubernetes Failure Stories](https://k8s.af/)
 
 > Tools
 * [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
