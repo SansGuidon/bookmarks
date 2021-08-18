@@ -42,6 +42,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [DevOps / CICD](sections/devops.md#devops--cicd)
   * [Ansible](sections/devops.md#ansible)
     * [Ansible Vault](sections/devops.md#ansible-vault)
+  * [Argo CD](sections/devops.md#argo-cd)
   * [AWS](sections/devops.md#aws)
   * [Bitbucket](sections/devops.md#bitbucket)
   * [ChatOps](sections/devops.md#chatops)
