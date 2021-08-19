@@ -4630,6 +4630,7 @@ rpm --rebuilddb
 * [Seth Robertson](https://sethrobertson.github.io/GitFixUm/fixup.html) - (2013) On undoing, fixing, or removing commits or mistakes in git | A git choose-your-own-adventure!
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/network.md) - My Network cheatsheet
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
+* [Daniele Polencic](https://learnk8s.io/troubleshooting-deployments) - (2021) A visual guide on troubleshooting Kubernetes deployments
 
 # UX / UI
 > News
