@@ -1083,6 +1083,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Eric Khun](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/) - (2020) Kubernetes: Make your services faster by removing CPU limits. **See also** [Kubernetes Failure Stories](https://k8s.af/)
 * [Fayiz Musthafa](https://medium.com/omio-engineering/cpu-limits-and-aggressive-throttling-in-kubernetes-c5b20bd8a718) - (2020) CPU limits and aggressive throttling in Kubernetes. **See also** [Kubernetes Failure Stories](https://k8s.af/)
 * [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners 🔥
+* [Daniele Polencic](https://learnk8s.io/troubleshooting-deployments) - (2021) A visual guide on troubleshooting Kubernetes deployments
 
 > Tools
 * [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
