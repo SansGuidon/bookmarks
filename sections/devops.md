@@ -1043,6 +1043,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Florian Wilhelm](https://www.jenkins.io/blog/2019/02/28/serverless-jenkins/) - (2019) Run your Jenkins pipeline without operating a Jenkins instance
 
 ## Kubernetes
+> News
+* [Hacker Noon](https://hackernoon.com/tagged/kubernetes) - #kubernetes articles/stories
+
+> Learn
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
 * [Jesse Newland](https://githubengineering.com/kubernetes-at-github/) - Kubernetes at GitHub
