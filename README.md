@@ -1796,6 +1796,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [**Tunefind**](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
 * [Convert Case](https://convertcase.net/) - Easily convert text between different letter cases: lower case, UPPER CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more
 * [Website Page Word Counter](https://wordcounter.net/website-word-count) - website word counter created specifically so you can find out the number of words on any page on the Internet.
+* [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -3726,6 +3727,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
 * [Convert Case](https://convertcase.net/) - Easily convert text between different letter cases: lower case, UPPER CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more
 * [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
+* [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
@@ -4569,6 +4571,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
 * [WappyWap](https://www.wappywap.com) - Collaborative database for connecting car owners.
 > There are at least 100 reasons as to why you may need to contact the owner of a vehicle. And don’t forget YOU could be the owner of the vehicle in trouble... Thanks to WappyWap mobile application, downloadable on all platforms, as well as a web version, it will now be possible to contact the owner of any car, van, truck or motorcycle through its license plate.
+* [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
@@ -4577,6 +4580,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
 * [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - 🇧🇪 [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 * [Virtual Vacation](https://virtualvacation.us/) - The website that lets you experience the world from home!
+* [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
