@@ -827,6 +827,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Harshit Mehndiratta](https://kubevious.io/blog/post/top-kubernetes-yaml-validation-tools) - (2021) Top Kubernetes YAML Validation Tools
 * [Amit Saha](https://learnk8s.io/validating-kubernetes-yaml) - (2020) Validating Kubernetes YAML for best practice and policies
 * [Artur Śmiarowski](https://alemil.com/guidelines-for-writing-readable-code) - (2018) 23 guidelines for writing readable code
+* [The Chief I/O](https://thechief.io/c/editorial/kubernetes-yaml-enforcing-best-practices-and-security-policies-cicd-and-gitops-pipelines/) - (2020) Kubernetes YAML: Enforcing best practices and security policies in CI/CD and GitOps pipelines
 
 ### Naming conventions
 * [Javin Paul](http://javarevisited.blogspot.be/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html) - (2014) 10 Programming Best Practices to Name Variables, Methods, Classes and Packages
