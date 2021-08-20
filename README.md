@@ -2186,6 +2186,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Brandur Leach](https://brandur.org/fragments/caffeine) - Caffeine | An experiment of Brandur in seriously throttling back its caffeine intake for the first time in years.
 * [The Coffee Compass](https://baristahustle.com/blog/the-coffee-compass/) - Brew a coffee. Taste it. Adapt and repeat until you find the coffee you prefer.
 * [Mike Crittenden](https://critter.blog/2021/07/02/10-of-us-are-barely-affected-by-caffeine/) - (2021) 10% of us are barely affected by caffeine
+* [Ronan Petillon](https://www.homelisty.com/cafe-barista/) - [FR] :fr: (2020) Comment Faire un Bon Café à la Maison, Comme un Barista
+* [Ronan Petillon](https://www.homelisty.com/aeropress/) - [FR] :fr: (2020) L'AeroPress est une Machine à Café à Moins de 40€ qui a Remplacé ma Nespresso
+* [Alliance For Coffee Excellence](https://allianceforcoffeeexcellence.org/competition-auction-results/) - COE (Cup of Excellence) Auction Results | They reward exceptional quality coffee farmers. **See also** [National Winner program results](https://allianceforcoffeeexcellence.org/nw-competition-auction-results/) which sells the semi-finalist to the Cup of Excellence program. Tip : pick only coffee scoring at least 80.
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
