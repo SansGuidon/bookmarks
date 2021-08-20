@@ -1113,6 +1113,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Raul Sevilla Canavate](https://www.openshift.com/blog/introducing-kube-burner-a-tool-to-burn-down-kubernetes-and-openshift) - (2021) Introducing kube-burner, A tool to Burn Down Kubernetes and OpenShift
 * [Dinuka Arseculeratne](https://dinuka-roshan.medium.com/integrating-kubernetes-yaml-validation-to-our-ci-cd-pipeline-at-track-health-78f147757276) - (2020) Integrating Kubernetes YAML validation to our CI/CD pipeline at Track.Health
 * [HighwayofLife/kubernetes-validation-tools](https://github.com/HighwayofLife/kubernetes-validation-tools) - All-in-one collection of tools to run linting, validation, static code analysis, security scanning, tests, auditing, kustomize build, and dry run configuration for Kubernetes Manifests.
+* [The Chief I/O](https://thechief.io/c/editorial/kubernetes-yaml-enforcing-best-practices-and-security-policies-cicd-and-gitops-pipelines/) - (2020) Kubernetes YAML: Enforcing best practices and security policies in CI/CD and GitOps pipelines
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
