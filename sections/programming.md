@@ -1728,6 +1728,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [CodeElf](https://unbug.github.io/codelf) - Search over Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names | A search tool helps dev to solve the naming things problem. **Source code** : [unbug/codelf](https://github.com/unbug/codelf)
 * [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+* [Mattia Gheda](https://ghedam.at/15502/speedy-development-environments-with-nix-and-docker) - (2020) Speedy Development environments with Nix and Docker
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
