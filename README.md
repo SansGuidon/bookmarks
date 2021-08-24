@@ -2780,7 +2780,8 @@ type `curl ident.me` to know your public ip
 * [Adrian Hesketh](https://adrianhesketh.com/2020/07/03/mac-setup-with-nix-darwin/) - (2020) Using Nix to set up my new Mac
 * [Mathias Polligkeit](https://www.mathiaspolligkeit.de/dev/exploring-nix-on-macos/) - (2020) Dev Environment Setup With Nix on MacOS
 * [Spencer Heywood aka heywoodlh](https://the-empire.systems/linux-macos-setup) - (2020) My "Linux-like" MacOS Setup | finally some inspiration and concrete solution to the mess of managing GUI apps with Nix on MacOS. 
-
+* [Mattia Gheda](https://ghedam.at/15502/speedy-development-environments-with-nix-and-docker) - (2020) Speedy Development environments with Nix and Docker
+ 
 # Operations / IT OPS
 See also [Monitoring](#monitoring)
 > News
