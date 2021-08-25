@@ -2189,6 +2189,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Ronan Petillon](https://www.homelisty.com/cafe-barista/) - [FR] :fr: (2020) Comment Faire un Bon Café à la Maison, Comme un Barista
 * [Ronan Petillon](https://www.homelisty.com/aeropress/) - [FR] :fr: (2020) L'AeroPress est une Machine à Café à Moins de 40€ qui a Remplacé ma Nespresso
 * [Alliance For Coffee Excellence](https://allianceforcoffeeexcellence.org/competition-auction-results/) - COE (Cup of Excellence) Auction Results | They reward exceptional quality coffee farmers. **See also** [National Winner program results](https://allianceforcoffeeexcellence.org/nw-competition-auction-results/) which sells the semi-finalist to the Cup of Excellence program. Tip : pick only coffee scoring at least 80.
+* [Sébastien Kardinal](https://www.youtube.com/watch?v=Lt-NEGYR1TY&list=PLAeQowwvU0yIcvKalmAfOeCjXpZ3hsiTL) - [Video] [FR] :fr: Coffee Time | Une playlist de vidéos sur le thème du café de spécialité
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
