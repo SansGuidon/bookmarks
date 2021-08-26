@@ -449,10 +449,11 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - A book for learning the Vim editor the smart way.
 * [Read Comics Online](https://readcomicsonline.ru/) - Website to read DC and Marvel Comics Online for FREE.
 * [Bouquineux](http://www.bouquineux.com/) - :fr: [FR] Livres numériques gratuits et libres de droits
-* [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits | Livres électroniques gratuits | Free ebooks
+* [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits, la plupart très vieux puisque tombés dans le domaine public | Free ebooks in french. Most of them are old since they are in the public domain.
 * [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
 * [Mobilism](https://forum.mobilism.me/viewforum.php?f=120) - Your Source for Apps & Books | Login available via [**BugMeNot**](http://bugmenot.com/)
 * [:books: Freely available programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [Wikisource](https://wikisource.org/wiki/Main_Page) - is an online digital library of free-content textual sources on a wiki, operated by the Wikimedia Foundation. Wikisource is the name of the project as a whole and the name for each instance of that project (each instance usually representing a different language).
 
 > Summaries, notes and reviews
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/tree/master/books) - My own highlights of favorite - *mostly software engineering related* - books.
@@ -1347,7 +1348,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 * [Movix.ai](https://movix.ai/) - Discover your movie in a few clicks | Movix.ai is a movie recommendation service based on artificial intelligence and Deep Learning. Click movies and tags you like and the system will do the rest — in a few clicks, Movix adapts to your preferences and gives you movies worth watching.
 * [Bouquineux](http://www.bouquineux.com/) - :fr: [FR] Livres numériques gratuits et libres de droits
-* [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits | Livres électroniques gratuits | Free ebooks
+* [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits, la plupart très vieux puisque tombés dans le domaine public | Free ebooks in french. Most of them are old since they are in the public domain.
 * [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
 * [Instructables](http://www.instructables.com/) - How to make anything
 * [The Free Software Foundation](https://www.fsf.org/givingguide/v11/) - (2020) Ethical Tech Giving Guide - Does the gift you're giving your loved ones put someone else in control?
@@ -1577,7 +1578,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Internet Relay Chat](https://netsplit.de/channels/) - Search chat rooms (IRC channels) within the Internet Relay Chat and get informed about their users and topics!
 * [Read Comics Online](https://readcomicsonline.ru/) - Website to read DC and Marvel Comics Online for FREE.
 * [Bouquineux](http://www.bouquineux.com/) - :fr: [FR] Livres numériques gratuits et libres de droits
-* [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits | Livres électroniques gratuits | Free ebooks
+* [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits, la plupart très vieux puisque tombés dans le domaine public | Free ebooks in french. Most of them are old since they are in the public domain.
 * [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
 * [Mobilism](https://forum.mobilism.me/viewforum.php?f=120) - Your Source for Apps & Books | Login available via [**BugMeNot**](http://bugmenot.com/)
 * [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
