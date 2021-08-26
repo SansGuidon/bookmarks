@@ -2688,6 +2688,7 @@ rpm --rebuilddb
 * [lofi.cafe - lofi music](https://www.lofi.cafe) - Lofi music streams for studying, working, and relaxing.
 * [sebsauvage.net](https://sebsauvage.net/wiki/doku.php?id=musique) - 🇫🇷 [FR] Musique en ligne, sélections par sebsauvage
 * [Classic 21](https://www.rtbf.be/classic21/) - 🇧🇪 🇫🇷 [BE] [FR] est une station de radio belge de service public orientée vers la musique pop/rock de 1950 à nos jours. Faisant partie de la RTBF, sa création remonte au 1ᵉʳ avril 2004, date à laquelle Radio 21 a cédé la place à deux nouvelles stations : Pure FM et Classic 21.
+* [Classic 21](https://www.rtbf.be/classic21/emissions/detail_les-podcasts-de-classic-21?programId=18188) - 🇧🇪 🇫🇷 [BE] [FR] Les podcasts de Classic 21
 
 > Tools
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
@@ -3203,6 +3204,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Break Things on Purpose](https://www.gremlin.com/podcast/) - A podcast about the practice of Chaos Engineering.
 * [Keeku](https://keeku.co/) - 🇫🇷 [FR] Le coin des podcasts pour enfants | Retrouvez de belles histoires de princesses et de dragons, de la méditation ou du yoga, de l’actualité, à écouter sur la route de l’école, à la maison, dans la voiture ou pendant les vacances ! Et tout cela gratuitement !
 * [Moi, Papa](https://www.rtbf.be/auvio/emissions/detail_moi-papa?id=18794) - 🇧🇪 🇫🇷 [BE] [FR] [Videos] [Audio] Un podcast de 5 épisodes dans lequel Adrien De Vyver reçoit des experts et abordent les difficultés, les joies, le stress, les besoins des jeunes ou futurs nouveaux papas.  Les mamans ont cet instinct maternel qui les unis, après 9 mois de grossesse, à leur enfant. Mais comment aider les pères à trouver leurs plac...  Plus
+* [Classic 21](https://www.rtbf.be/classic21/emissions/detail_les-podcasts-de-classic-21?programId=18188) - 🇧🇪 🇫🇷 [BE] [FR] Les podcasts de Classic 21
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
