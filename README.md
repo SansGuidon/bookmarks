@@ -1396,6 +1396,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [geodata.environnement.brussels](https://geodata.environnement.brussels/client/view/18339ee3-22f5-49ad-9055-90f2b7f6af27) - 🇧🇪 🇫🇷 [BE] [FR] Carte des Zones de bruit en région de Bruxelles-Capitale
 * [Fix My Street](https://fixmystreet.brussels/list) - 🇧🇪 [BE] Report incidents within Brussels' public space and help make your city better!
 * [Inventaire du Patrimoine architectural](https://monument.heritage.brussels/fr/inventaire/) - 🇧🇪 🇫🇷 [BE] [FR] L'Inventaire du Patrimoine architectural bruxellois en ligne. Une banque de données riche de plusieurs milliers de fiches historiques et descriptives, accompagnée d'un glossaire illustré.
+* [openthebox](https://openthebox.be/search) - 🇧🇪 [BE] Discover your business network | Look inside the web of connections between companies, individuals and politicians in Belgium. **See also** : slide show - [A view of corporate networks in belgium](https://speakerdeck.com/niekbartho/openthebox-dot-be)
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
