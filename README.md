@@ -2686,6 +2686,7 @@ rpm --rebuilddb
 * [musicForProgramming](https://musicforprogramming.net/) - Music possessing these qualities can often provide just the right amount of interest to occupy the parts of your brain that would otherwise be left free to wander and lead to distraction during your work.
 * [Marc Allard](https://www.lesoleil.com/chroniques/marc-allard/nous-sommes-ce-que-nous-ecoutons-d94815457194e1d6b1c9817df03fa1f6) - (2016) :fr: [FR] Nous sommes ce que nous écoutons
 * [lofi.cafe - lofi music](https://www.lofi.cafe) - Lofi music streams for studying, working, and relaxing.
+* [sebsauvage.net](https://sebsauvage.net/wiki/doku.php?id=musique) - 🇫🇷 [FR] Musique en ligne, sélections par sebsauvage
 
 > Tools
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
