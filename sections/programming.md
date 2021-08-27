@@ -442,6 +442,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
 * [First Round Review](https://review.firstround.com/empathy-driven-development-how-engineers-can-tap-into-this-critical-skill) - (2019) Empathy-Driven Development: How Engineers Can Tap into This Critical Skill. **See also** [Empathy-Driven Development](https://www.empathy-driven-development.com/)
 > “You can’t say the word ‘empathy’ at a software company. No one will take you seriously.”
+* [Leadership garden](https://leadership.garden/articles/kill-your-heroes/) - (2019) Kill your heroes
+* [Leadership garden](https://leadership.garden/articles/engineering-managers-stop-coding/) - (2017) Engineering managers, stop coding!
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
