@@ -1116,6 +1116,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [HighwayofLife/kubernetes-validation-tools](https://github.com/HighwayofLife/kubernetes-validation-tools) - All-in-one collection of tools to run linting, validation, static code analysis, security scanning, tests, auditing, kustomize build, and dry run configuration for Kubernetes Manifests.
 * [The Chief I/O](https://thechief.io/c/editorial/kubernetes-yaml-enforcing-best-practices-and-security-policies-cicd-and-gitops-pipelines/) - (2020) Kubernetes YAML: Enforcing best practices and security policies in CI/CD and GitOps pipelines
 * [doc.crds.dev](https://doc.crds.dev/) - Automatic documentation for CustomResourceDefinitions
+* [Jonathan Cross and Carlos Robles](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) - (2021) Conductor: Why We Migrated from Kubernetes to Nomad
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
