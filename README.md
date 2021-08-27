@@ -4471,6 +4471,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Finn Brunton & Helen Nissenbaum](https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/) - (2019) The Fantasy of Opting Out
 > There is no simple solution to the problem of privacy, because privacy itself is a solution to societal challenges that are in constant flux. If the apparatus of total surveillance that we have described here were deliberate, centralized, and explicit, a Big Brother machine toggling between cameras, it would demand revolt, and we could conceive of a life outside the totalitarian microscope.
 * [Neo-Luddism](https://en.wikipedia.org/wiki/Neo-Luddism) - Neo-Luddism or new Luddism is a philosophy opposing many forms of modern technology.
+* [Framalang](https://framablog.org/2015/03/12/le-confort-ou-la-liberte/) - :fr: [FR] (2015) Le confort ou la liberté ? **See also** the original article -> [Dan Gillmor](https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd) - (2015) Why I’m Saying Goodbye to Apple, Google and Microsoft | I’m putting more trust in communities than corporations
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
