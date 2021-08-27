@@ -1082,6 +1082,15 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Yossi Kreinin aka wetware](https://yosefk.com/blog/10x-more-selective.html) - (2013) 10x more selective
 > So I believe, having authored a lot of code that went down the toilet, that you don't get productive by working as much as by not working – not on stuff that is likely to get thrown away.
 * [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
+* [Dr. Travis Bradberry](https://www.linkedin.com/pulse/how-successful-people-overcome-bad-bosses-dr-travis-bradberry/) - (2015) How Successful People Overcome Toxic Bosses
+* [Chantal Gautier](https://www.linkedin.com/pulse/why-do-teams-fail-chantal-gautier/) - (2015) Why do teams fail?
+* [Matthieu Lesne aka coreight](https://coreight.com/content/trouver-des-solutions-creatives-a-ses-problemes) - 🇫🇷 [FR] (2015) 5 étapes pour trouver des solutions créatives à ses problèmes
+* [CA Technologies](https://www.slideshare.net/CAinc/the-five-hidden-dangers-of-it-complexity) - [Slides] (2015) The Five Hidden Dangers of IT Complexity
+* > Poor visibility
+* > Difficult technology
+* > Narrow focus
+* > Inconsistent process
+* > Poor morale
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -1290,6 +1299,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > value your work and believe that despite the fact that haters are loud, you’re still gonna get a lot of customers who would gladly pay for what you made.
 * [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 * [CodeElf](https://unbug.github.io/codelf) - Search over Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names | A search tool helps dev to solve the naming things problem. **Source code** : [unbug/codelf](https://github.com/unbug/codelf)
+* [Matthieu Lesne aka coreight](https://coreight.com/content/trouver-des-solutions-creatives-a-ses-problemes) - 🇫🇷 [FR] (2015) 5 étapes pour trouver des solutions créatives à ses problèmes
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
