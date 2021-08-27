@@ -1171,6 +1171,7 @@ psql -f db.out postgres
 * [Thomas Paul Mann](https://raycast.com/blog/no-code-reviews-by-default/) - (2021) No code reviews by default | How one built an engineering culture based on trust that allows us to move incredibly fast without requiring code reviews.
 * [Elisabeth Irgens](https://elisabethirgens.github.io/notes/2021/06/code-reviews/) - (2021) - Why I Won’t Approve Your PR | in-house development has been influenced too much by the GitHub open source PR driven development process. A process driven by zero trust doesn’t fit well in a team with trust.
 * [Choose an open source license](https://choosealicense.com/licenses/) - An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection. GitHub wants to help developers choose an open source license for their source code.
+* [Csaba Okrona](https://archive.ochronus.com/git-tips-from-the-trenches/) - (2014) Git tips from the trenches
 
 ### Dotfiles / Aliases
 See also [Shell aliases](../README.md#shell-aliases)
