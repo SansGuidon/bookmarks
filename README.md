@@ -31,6 +31,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Business & Economics](#business--economics)
   * [Cryptocurrency](#cryptocurrency)
 * [CLI Tools](#cli-tools)
+* [Coffee](#coffee-coffee)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
   * [Communication](#communication)
   * [Documentation](#documentation)
@@ -773,6 +774,20 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
 * [Edouard Kachelmann and Anthony Pasquariello](https://aws.amazon.com/blogs/security/enhance-programmatic-access-for-iam-users-using-yubikey-for-multi-factor-authentication/) - (2020) Enhance programmatic access for IAM users using a YubiKey for multi-factor authentication
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+
+# Coffee :coffee:
+* [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
+* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
+* [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
+* [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
+* [Brandur Leach](https://brandur.org/fragments/caffeine) - Caffeine | An experiment of Brandur in seriously throttling back its caffeine intake for the first time in years.
+* [The Coffee Compass](https://baristahustle.com/blog/the-coffee-compass/) - Brew a coffee. Taste it. Adapt and repeat until you find the coffee you prefer.
+* [Mike Crittenden](https://critter.blog/2021/07/02/10-of-us-are-barely-affected-by-caffeine/) - (2021) 10% of us are barely affected by caffeine
+* [Ronan Petillon](https://www.homelisty.com/cafe-barista/) - [FR] :fr: (2020) Comment Faire un Bon Café à la Maison, Comme un Barista
+* [Ronan Petillon](https://www.homelisty.com/aeropress/) - [FR] :fr: (2020) L'AeroPress est une Machine à Café à Moins de 40€ qui a Remplacé ma Nespresso
+* [Alliance For Coffee Excellence](https://allianceforcoffeeexcellence.org/competition-auction-results/) - COE (Cup of Excellence) Auction Results | They reward exceptional quality coffee farmers. **See also** [National Winner program results](https://allianceforcoffeeexcellence.org/nw-competition-auction-results/) which sells the semi-finalist to the Cup of Excellence program. Tip : pick only coffee scoring at least 80.
+* [Sébastien Kardinal](https://www.youtube.com/watch?v=Lt-NEGYR1TY&list=PLAeQowwvU0yIcvKalmAfOeCjXpZ3hsiTL) - [Video] [FR] :fr: Coffee Time | Une playlist de vidéos sur le thème du café de spécialité
+* [Sasha Pavlovich](https://coffeehow.co/coffee-drink-types/) - (2021) 39 Types of Coffee Drinks
 
 # Collaboration & Problem solving
 > News
@@ -2193,18 +2208,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move
 * [Viking Board Gamee](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
 
-> Coffee :coffee:
-* [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
-* [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
-* [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
-* [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
-* [Brandur Leach](https://brandur.org/fragments/caffeine) - Caffeine | An experiment of Brandur in seriously throttling back its caffeine intake for the first time in years.
-* [The Coffee Compass](https://baristahustle.com/blog/the-coffee-compass/) - Brew a coffee. Taste it. Adapt and repeat until you find the coffee you prefer.
-* [Mike Crittenden](https://critter.blog/2021/07/02/10-of-us-are-barely-affected-by-caffeine/) - (2021) 10% of us are barely affected by caffeine
-* [Ronan Petillon](https://www.homelisty.com/cafe-barista/) - [FR] :fr: (2020) Comment Faire un Bon Café à la Maison, Comme un Barista
-* [Ronan Petillon](https://www.homelisty.com/aeropress/) - [FR] :fr: (2020) L'AeroPress est une Machine à Café à Moins de 40€ qui a Remplacé ma Nespresso
-* [Alliance For Coffee Excellence](https://allianceforcoffeeexcellence.org/competition-auction-results/) - COE (Cup of Excellence) Auction Results | They reward exceptional quality coffee farmers. **See also** [National Winner program results](https://allianceforcoffeeexcellence.org/nw-competition-auction-results/) which sells the semi-finalist to the Cup of Excellence program. Tip : pick only coffee scoring at least 80.
-* [Sébastien Kardinal](https://www.youtube.com/watch?v=Lt-NEGYR1TY&list=PLAeQowwvU0yIcvKalmAfOeCjXpZ3hsiTL) - [Video] [FR] :fr: Coffee Time | Une playlist de vidéos sur le thème du café de spécialité
+> [Coffee](#coffee-coffee)
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
