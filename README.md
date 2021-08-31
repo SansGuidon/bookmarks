@@ -74,7 +74,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Event discovery](#event-discovery)
 * [Free online tools :free:](#free-online-tools-free)
 * [Gaming :video_game:](#gaming-video_game)
-  * [Board games](#board-games)
+  * [Board games](#board-games-game_die)
   * [Role-playing :dragon:](#role-playing-dragon)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
   * [Remote work](#remote-work)
@@ -1901,7 +1901,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
  :video_game:
 * [Viking Board Game](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
 
-## Board games
+## Board games 🎲
 * [BoardGameGeek](https://boardgamegeek.com/) - most complete board game database that holds tons of reviews, images and videos
 * [Tric Trac](https://www.trictrac.net/) - :fr: [FR] le site de référence sur les jeux de société. Actualités, sorties de jeux, avis et notes, forums de discussions, évènements ludiques, etc.
 * [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : * [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
@@ -2201,7 +2201,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing » :beer:
 * [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - 🇧🇪 [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
 
-> [Board games](#board-games)
+> [Board games 🎲](#board-games-game_die)
 
 > Chess
 * [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
