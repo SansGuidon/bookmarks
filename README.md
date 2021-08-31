@@ -31,7 +31,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
 * [Business & Economics](#business--economics)
   * [Cryptocurrency](#cryptocurrency)
 * [CLI Tools](#cli-tools)
-* [Coffee](#coffee-coffee)
+* [Coffee ☕](#coffee-coffee)
 * [Collaboration & Problem solving](#collaboration--problem-solving)
   * [Communication](#communication)
   * [Documentation](#documentation)
