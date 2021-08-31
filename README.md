@@ -2208,7 +2208,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move
 * [Viking Board Gamee](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
 
-> [Coffee](#coffee-coffee)
+> [Coffee :coffee:](#coffee-coffee)
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
