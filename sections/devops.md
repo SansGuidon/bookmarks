@@ -1117,6 +1117,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [The Chief I/O](https://thechief.io/c/editorial/kubernetes-yaml-enforcing-best-practices-and-security-policies-cicd-and-gitops-pipelines/) - (2020) Kubernetes YAML: Enforcing best practices and security policies in CI/CD and GitOps pipelines
 * [doc.crds.dev](https://doc.crds.dev/) - Automatic documentation for CustomResourceDefinitions
 * [Jonathan Cross and Carlos Robles](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) - (2021) Conductor: Why We Migrated from Kubernetes to Nomad
+* [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator) - Explore the best instance types for your Kubernetes cluster interactively. 
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
