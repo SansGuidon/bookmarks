@@ -785,6 +785,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [CoffeeGeek](https://www.coffeegeek.com/) - The world's most read coffee and espresso resource
 * [CoffeeGeek Daily Blog](https://www.coffeegeek.com/blog/) - The world's most read coffee and espresso resource
 * [Delishably](https://delishably.com/beverages/coffee/) - Coffee articles and recipes from around the world written by home chefs and foodistas
+* [Reddit](https://www.reddit.com/r/Coffee/) - Coffee on Reddit
+* [Reddit](https://www.reddit.com/r/espresso/) - Espresso on Reddit
+* [Reddit](https://www.reddit.com/r/barista/) - Barista on Reddit
+* [Reddit](https://www.reddit.com/r/JamesHoffmann/) - James Hoffman related posts on Reddit
 
 > Learn
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
@@ -803,6 +807,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mark Prince](https://www.coffeegeek.com/opinions/real-espresso-myths-that-need-busting/) - (2015) Real Espresso Myths that Need Busting | Inspired (sort of) by some questionable myth busting in an espresso education series online, we tackle some real, genuine espresso myths, including caffeine levels, bold coffee and more.
 * [Brian Lam](https://www.nytimes.com/wirecutter/blog/making-espresso-at-home/) - (2020) Making Espresso at Home Is Kind of a Nightmare—But If You Insist, Here’s How to Do It Well
 * [OKCoffee](https://okcoffee.tips/interviews/) - Interviews
+* [Reddit](https://www.reddit.com/r/Coffee_Recipes/) - Coffee recipes
 
 > Tips
 * [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
@@ -819,6 +824,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [CoffeeGeek](https://www.coffeegeek.com/guide/howtos/) - How Tos | "The bread and butter of CoffeeGeek’s website and core mission is education, and our How To section is at the core of that. This is our entire collection of How Tos, written, maintained and updated over the last two decades. More are added often!"
 * [Matthew De Angelis](http://www.brewingisforeveryone.com/blog/french-press) - (2016) French Press
 * [Kawai](https://delishably.com/beverages/Simple-things-you-can-do-to-get-barista-style-coffee) - (2020) 5 Simple Things You Can Do to Get Barista-Style Coffee
+* [Reddit](https://www.reddit.com/r/AeroPress/) - AeroPress tips & tricks
 
 > Tools
 * [Café Mag](https://www.cafemag.fr/la-carte-du-cafe-de-specialite/) - :fr: [FR] La carte du café de spécialité | Une carte interactive et collaborative référençant les adresses qui torréfient et/ou proposent du café de spécialité en France et pays francophones.
