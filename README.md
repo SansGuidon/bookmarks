@@ -373,6 +373,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
 * [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
 * [Goomics](https://goomics.net/) - Comics about life at Google
+* [INeedCoffee](https://ineedcoffee.com/section/coffee-comics/) - Life is Coffee Comics
 
 > Tools
 * [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
@@ -776,18 +777,31 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 
 # Coffee :coffee:
-* [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
+> Learn
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
-* [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
 * [Brandur Leach](https://brandur.org/fragments/caffeine) - Caffeine | An experiment of Brandur in seriously throttling back its caffeine intake for the first time in years.
 * [The Coffee Compass](https://baristahustle.com/blog/the-coffee-compass/) - Brew a coffee. Taste it. Adapt and repeat until you find the coffee you prefer.
 * [Mike Crittenden](https://critter.blog/2021/07/02/10-of-us-are-barely-affected-by-caffeine/) - (2021) 10% of us are barely affected by caffeine
-* [Ronan Petillon](https://www.homelisty.com/cafe-barista/) - [FR] :fr: (2020) Comment Faire un Bon Café à la Maison, Comme un Barista
 * [Ronan Petillon](https://www.homelisty.com/aeropress/) - [FR] :fr: (2020) L'AeroPress est une Machine à Café à Moins de 40€ qui a Remplacé ma Nespresso
 * [Alliance For Coffee Excellence](https://allianceforcoffeeexcellence.org/competition-auction-results/) - COE (Cup of Excellence) Auction Results | They reward exceptional quality coffee farmers. **See also** [National Winner program results](https://allianceforcoffeeexcellence.org/nw-competition-auction-results/) which sells the semi-finalist to the Cup of Excellence program. Tip : pick only coffee scoring at least 80.
 * [Sébastien Kardinal](https://www.youtube.com/watch?v=Lt-NEGYR1TY&list=PLAeQowwvU0yIcvKalmAfOeCjXpZ3hsiTL) - [Video] [FR] :fr: Coffee Time | Une playlist de vidéos sur le thème du café de spécialité
 * [Sasha Pavlovich](https://coffeehow.co/coffee-drink-types/) - (2021) 39 Types of Coffee Drinks
+
+> News
+* [INeedCoffee](https://ineedcoffee.com/section/coffee-comics/) - Life is Coffee Comics
+
+> Tips
+* [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
+* [Ronan Petillon](https://www.homelisty.com/cafe-barista/) - [FR] :fr: (2020) Comment Faire un Bon Café à la Maison, Comme un Barista
+* [Daniel Miessler](https://danielmiessler.com/study/coffee/) - A Coffee Primer :coffee:
+* [Caffin8 Coffee](https://caffin8.co.uk/blogs/coffee/easily-set-up-the-barista-express-to-make-the-best-coffee-sage-breville) - (2021) Easily set up the Barista Express to make the BEST coffee (Sage/Breville)
+* [Full Coffee Roast](https://fullcoffeeroast.com/coffee-brewing-mistakes/) - Avoid These 32 Common Coffee Brewing Mistakes
+* [INeedCoffee](https://ineedcoffee.com/coffee-brewing-guide/) - Coffee Brewing Guide : several tutorials on how to brew coffee.
+
+> Tools
+* [Café Mag](https://www.cafemag.fr/la-carte-du-cafe-de-specialite/) - :fr: [FR] La carte du café de spécialité | Une carte interactive et collaborative référençant les adresses qui torréfient et/ou proposent du café de spécialité en France et pays francophones.
+* [Barista Hustle](https://www.baristahustle.com/blog/coffee-compass/) - (2021) The Coffee Compass | The Coffee Compass is a simple tool that makes it easy to improve your filter coffee brewing. If your coffee tastes anything less than perfect, the Coffee Compass shows you exactly what direction you need to go in to achieve smooth, rich, and balanced brews.
 
 # Collaboration & Problem solving
 > News
