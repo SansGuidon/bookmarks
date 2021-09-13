@@ -338,6 +338,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > * Are introspective.
 > * Have to be a killer app, or they need one.
 * [Kamil Grzybek](https://www.kamilgrzybek.com/design/feature-folders/) - (2018) Feature Folders | on codebase design
+* [Ning T.](https://blog.proto.io/10-uniquely-beautiful-coffee-makers/) - (2015) 10 Uniquely Beautiful Coffee Makers
 
 # Art :art:
 > News
@@ -515,6 +516,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ask HN](https://news.ycombinator.com/item?id=16357368) - (2018) Which books describe modern devops?
 * [Favobooks](http://favobooks.com/) - famous people's favourite books : explore book recommendations of great thinkers, entrepreneurs, pioneers and visionaries.
 * [The Book Seer](https://bookseer.com/) - What should I read next ?
+* [Reddit Favorites](https://redditfavorites.com/books) - What are reddit's favorite Books? | From 3.5 billion comments (number from Sept. 13, 2021)
 
 # Business & Economics
 > News
@@ -777,6 +779,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 
 # Coffee :coffee:
+> News
+* [INeedCoffee](https://ineedcoffee.com/section/coffee-comics/) - Life is Coffee Comics
+* [Methodical Coffee](https://methodicalcoffee.com/blogs/coffee-culture) - Coffee Culture Blog
+* [CoffeeGeek](https://www.coffeegeek.com/) - The world's most read coffee and espresso resource
+* [CoffeeGeek Daily Blog](https://www.coffeegeek.com/blog/) - The world's most read coffee and espresso resource
+
 > Learn
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
 * [David McRaney](https://youarenotsosmart.com/2010/02/22/coffee/) - (2010) Coffee stimulation or addiction ? :coffee:
@@ -787,9 +795,13 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Alliance For Coffee Excellence](https://allianceforcoffeeexcellence.org/competition-auction-results/) - COE (Cup of Excellence) Auction Results | They reward exceptional quality coffee farmers. **See also** [National Winner program results](https://allianceforcoffeeexcellence.org/nw-competition-auction-results/) which sells the semi-finalist to the Cup of Excellence program. Tip : pick only coffee scoring at least 80.
 * [Sébastien Kardinal](https://www.youtube.com/watch?v=Lt-NEGYR1TY&list=PLAeQowwvU0yIcvKalmAfOeCjXpZ3hsiTL) - [Video] [FR] :fr: Coffee Time | Une playlist de vidéos sur le thème du café de spécialité
 * [Sasha Pavlovich](https://coffeehow.co/coffee-drink-types/) - (2021) 39 Types of Coffee Drinks
-
-> News
-* [INeedCoffee](https://ineedcoffee.com/section/coffee-comics/) - Life is Coffee Comics
+* [Ning T.](https://blog.proto.io/10-uniquely-beautiful-coffee-makers/) - (2015) 10 Uniquely Beautiful Coffee Makers
+* [Reddit Favorites](https://redditfavorites.com/product_categories/espresso-machines) - What are reddit's favorite Espresso Machines? | From 3.5 billion comments (number from Sept. 13, 2021)
+* [Home-Barista.com](https://www.home-barista.com/quotable-quotes.html) - Quotable Quotes | Memorable quotes and quips about espresso from the forums
+* [CoffeeGeek](https://www.coffeegeek.com/opinions/an-espresso-glossary/) - (2021) An Espresso Glossary - Originally published on CoffeeGeek back in 2003, and updated several times, this glossary has become a reference point for several books on coffee and espresso, and has been widely copied across the internet. We’re updating this for the launch of the new version of CoffeeGeek in 2021.
+* [Mark Prince](https://www.coffeegeek.com/opinions/real-espresso-myths-that-need-busting/) - (2015) Real Espresso Myths that Need Busting | Inspired (sort of) by some questionable myth busting in an espresso education series online, we tackle some real, genuine espresso myths, including caffeine levels, bold coffee and more.
+* [Brian Lam](https://www.nytimes.com/wirecutter/blog/making-espresso-at-home/) - (2020) Making Espresso at Home Is Kind of a Nightmare—But If You Insist, Here’s How to Do It Well
+* [OKCoffee](https://okcoffee.tips/interviews/) - Interviews
 
 > Tips
 * [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
@@ -798,10 +810,19 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Caffin8 Coffee](https://caffin8.co.uk/blogs/coffee/easily-set-up-the-barista-express-to-make-the-best-coffee-sage-breville) - (2021) Easily set up the Barista Express to make the BEST coffee (Sage/Breville)
 * [Full Coffee Roast](https://fullcoffeeroast.com/coffee-brewing-mistakes/) - Avoid These 32 Common Coffee Brewing Mistakes
 * [INeedCoffee](https://ineedcoffee.com/coffee-brewing-guide/) - Coffee Brewing Guide : several tutorials on how to brew coffee.
+* [Kevin & Amanda](https://www.kevinandamanda.com/breville-barista-express/) - (2019) How To Use the Breville Barista Express — Tips & Tricks
+* [Home-Barista.com](https://www.home-barista.com/espresso-machines/breville-barista-express-870-870xl-grinder-mod-t31866.html) - (2014) Breville Barista Express 870/870XL grinder mod
+* [Home-Barista.com](https://www.home-barista.com/howtos.html) - How-Tos
+* [Coffee Research](http://www.coffeeresearch.org/espresso/potential.htm) - Maximizing espresso potential | Found via [Home-Barista.com](https://www.home-barista.com/resources.html)
+* [Home-Barista.com](https://www.home-barista.com/resources.html) - Resources
+* [CoffeeGeek](https://www.coffeegeek.com/guide/howtos/) - How Tos | "The bread and butter of CoffeeGeek’s website and core mission is education, and our How To section is at the core of that. This is our entire collection of How Tos, written, maintained and updated over the last two decades. More are added often!"
+* [Matthew De Angelis](http://www.brewingisforeveryone.com/blog/french-press) - (2016) French Press
 
 > Tools
 * [Café Mag](https://www.cafemag.fr/la-carte-du-cafe-de-specialite/) - :fr: [FR] La carte du café de spécialité | Une carte interactive et collaborative référençant les adresses qui torréfient et/ou proposent du café de spécialité en France et pays francophones.
 * [Barista Hustle](https://www.baristahustle.com/blog/coffee-compass/) - (2021) The Coffee Compass | The Coffee Compass is a simple tool that makes it easy to improve your filter coffee brewing. If your coffee tastes anything less than perfect, the Coffee Compass shows you exactly what direction you need to go in to achieve smooth, rich, and balanced brews.
+* [Blue Coffee Box](https://www.bluecoffeebox.com/subscribe/) - is a father-and-son business, frequently rated as one of the UK's best coffee subscription services
+* [OKCoffee](https://okcoffee.tips/map/) - Map of Coffee Bars
 
 # Collaboration & Problem solving
 > News
@@ -1626,6 +1647,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
 * [:books: Freely available programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind. **Bonus** : [Beta website](https://books.vishnuks.com/)
+* [Reddit Favorites](https://redditfavorites.com) - What are reddit's favorite Products, VPNs, Android apps, Books, Youtube videos? | From 3.5 billion comments (number from Sept. 13, 2021)
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
@@ -1660,6 +1682,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Sven Taylor](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) - (2019) The complete list of alternatives to all Google products | Parallel universe for the super security conscious
 * [Good Reports](https://goodreports.com/) - There are alternatives to the toxic Big Tech monopolies, and it's important to make the right choices: both to have a better experience online, and to support the teams making superior tools. Good Reports was started in October 2020 to raise awareness about better online tools.
 * [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software
+* [Reddit Favorites](https://redditfavorites.com/android_apps) - What are reddit's favorite Android apps? | From 3.5 billion comments (number from Sept. 13, 2021)
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -3345,6 +3368,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [The Whimsical Web](https://whimsical.club/1/) - Websites that spark joy - A curated list of sites with an extra bit of fun. [Source code](https://github.com/maxboeck/whimsical)
 * [Koreus](https://www.koreus.com/videos/koreusity/nouveau/) - :fr: [FR] [Video] Vidéos récentes : Koreusity, le zapping du web | Zapping hebdomadaire des vidéos à la con du web
 * [Timeless Hacker News](https://thn.rakhim.org/) - refresh for 30 random good posts
+* [Reddit Favorites](https://redditfavorites.com/youtube_videos) - What are reddit's favorite Youtube videos? | From 3.5 billion comments (number from Sept. 13, 2021)
 
 # Productivity :fast_forward:
 > News
