@@ -784,6 +784,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Methodical Coffee](https://methodicalcoffee.com/blogs/coffee-culture) - Coffee Culture Blog
 * [CoffeeGeek](https://www.coffeegeek.com/) - The world's most read coffee and espresso resource
 * [CoffeeGeek Daily Blog](https://www.coffeegeek.com/blog/) - The world's most read coffee and espresso resource
+* [Delishably](https://delishably.com/beverages/coffee/) - Coffee articles and recipes from around the world written by home chefs and foodistas
 
 > Learn
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
@@ -817,6 +818,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Home-Barista.com](https://www.home-barista.com/resources.html) - Resources
 * [CoffeeGeek](https://www.coffeegeek.com/guide/howtos/) - How Tos | "The bread and butter of CoffeeGeek’s website and core mission is education, and our How To section is at the core of that. This is our entire collection of How Tos, written, maintained and updated over the last two decades. More are added often!"
 * [Matthew De Angelis](http://www.brewingisforeveryone.com/blog/french-press) - (2016) French Press
+* [Kawai](https://delishably.com/beverages/Simple-things-you-can-do-to-get-barista-style-coffee) - (2020) 5 Simple Things You Can Do to Get Barista-Style Coffee
 
 > Tools
 * [Café Mag](https://www.cafemag.fr/la-carte-du-cafe-de-specialite/) - :fr: [FR] La carte du café de spécialité | Une carte interactive et collaborative référençant les adresses qui torréfient et/ou proposent du café de spécialité en France et pays francophones.
