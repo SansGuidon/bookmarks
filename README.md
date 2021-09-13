@@ -789,6 +789,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Reddit](https://www.reddit.com/r/espresso/) - Espresso on Reddit
 * [Reddit](https://www.reddit.com/r/barista/) - Barista on Reddit
 * [Reddit](https://www.reddit.com/r/JamesHoffmann/) - James Hoffman related posts on Reddit
+* [Clive Coffee](https://clivecoffee.com/blogs/learn) - Blog posts about Coffee
 
 > Learn
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
