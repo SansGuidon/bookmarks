@@ -3182,7 +3182,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Felicia Schneiderhan ](https://www.realsimple.com/work-life/family/highly-sensitive-parent) - (2017) I Just Found Out I’m a Highly Sensitive Parent—And It Changed My Life
 * [Patricia Harteneck](https://www.seleni.org/advice-support/2018/3/16/parenting-when-you-are-highly-sensitive) - (2018) Parenting When You Are Highly Sensitive | How to take care of your kids and yourself
 * [Nitzia Logothetis](https://www.seleni.org/advice-support/2018/3/16/monitoring-our-parenting) - (2018) Monitoring Our Parenting | Does tracking your child's vital signs keep him safe or drive you crazy?
-
+* [Nadine Descheneaux](https://www.noovomoi.ca/vivre/famille/article.la-depression-post-partum-chez-le-pere.1.9381889.html) - [FR] 🇫🇷 (2019) La dépression post-partum chez le père
+ 
 # Philosophy :thought_balloon:
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
 * [Real News](http://www.realnews24.com/socrates-was-one-of-the-smartest-people-who-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read/) - some Socrates quotes worth the reading
