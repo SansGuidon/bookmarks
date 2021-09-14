@@ -3972,6 +3972,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [First Round Review](https://review.firstround.com/empathy-driven-development-how-engineers-can-tap-into-this-critical-skill) - (2019) Empathy-Driven Development: How Engineers Can Tap into This Critical Skill. **See also** [Empathy-Driven Development](https://www.empathy-driven-development.com/)
 > “You can’t say the word ‘empathy’ at a software company. No one will take you seriously.”
 * [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
+* [Nadine Descheneaux](https://www.noovomoi.ca/vivre/famille/article.la-depression-post-partum-chez-le-pere.1.9381889.html) - [FR] 🇫🇷 (2019) La dépression post-partum chez le père
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
