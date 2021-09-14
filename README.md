@@ -1429,6 +1429,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [MIT](https://missing.csail.mit.edu/) - The Missing Semester of Your CS Education (MIT course)
 * [Similaires](https://similaires.com/) - 🇫🇷 [FR] Trouver les meilleurs films similaires | service de sélection de films similaires, qui vous aidera à choisir le prochain film ou la prochaine série.
 * [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
+* [Open Culture](https://www.openculture.com/) - The best free cultural & educational media on the web
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
