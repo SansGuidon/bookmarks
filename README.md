@@ -1664,6 +1664,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind. **Bonus** : [Beta website](https://books.vishnuks.com/)
 * [Reddit Favorites](https://redditfavorites.com) - What are reddit's favorite Products, VPNs, Android apps, Books, Youtube videos? | From 3.5 billion comments (number from Sept. 13, 2021)
 * [subredditstats.com](https://subredditstats.com/subreddit-user-overlaps/) - Find Related Subreddits By User/Redditor Overlap
+* [Reddit Bests](https://redditbests.com) - Discover top products recommended by redditors
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
