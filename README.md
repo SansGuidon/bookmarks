@@ -793,6 +793,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Serious Eats](https://www.seriouseats.com/coffee-tea-5118050) - Posts about Coffee & Tea
 * [JavaPresse](https://www.javapresse.com/blogs/espresso) - Blog posts about coffee
 * [NoGarlicNoOnions](https://www.nogarlicnoonions.com/tag/coffee/) - Posts tagged with coffee
+* [Latte Art Guide](https://www.latteartguide.com/blog/) - Coffee Blog
 
 > Learn
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
