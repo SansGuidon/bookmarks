@@ -811,6 +811,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [OKCoffee](https://okcoffee.tips/interviews/) - Interviews
 * [Reddit](https://www.reddit.com/r/Coffee_Recipes/) - Coffee recipes
 * [Open Culture](https://www.openculture.com/index.php?s=coffee&q=coffee) - articles about coffee
+* [Garrett Oden](https://www.javapresse.com/blogs/espresso/is-nespresso-real-espresso) - (2019) Is Nespresso Real Espresso? **spoiler** Not exactly.
+* [James Hoffman](https://www.youtube.com/watch?v=pO06RC4pvr0) - (2021) [Video] The Bizarre And Surprising Coffee Of The Nespresso Vertuo
+> Not so special now, Nespresso [Jump to the quote from the video](https://youtu.be/pO06RC4pvr0?t=1052)
 
 > Tips
 * [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
