@@ -794,6 +794,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [JavaPresse](https://www.javapresse.com/blogs/espresso) - Blog posts about coffee
 * [NoGarlicNoOnions](https://www.nogarlicnoonions.com/tag/coffee/) - Posts tagged with coffee
 * [Latte Art Guide](https://www.latteartguide.com/blog/) - Coffee Blog
+* [Le Café de Clara](https://lecafedeclara.fr/blog/) - 🇫🇷 [FR] Clara partage sa passion du café
 
 > Learn
 * [Le Pharmachien](http://lepharmachien.com/cafeine/) - [FR] :fr: Caféine : toxique et délicieuse / Coffee : good and bad parts :coffee:
