@@ -581,6 +581,7 @@ See also [Infrastructure](README.md#infrastructure)
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/aws.md) - My AWS cheatsheet
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/) - (2017) Persisting state between AWS EC2 spot instances | Persisting state between AWS EC2 spot instances using Docker on an external volume
 * :star: [**Bill Wang**](https://medium.com/@ozbillwang/terraform-best-practices-72da22ed0dbf) - (2018) Terraform best practices | Terraform Best Practices for AWS users.
+* [Henna Abbas](https://support.circleci.com/hc/en-us/articles/360034981414-How-to-Add-Temporary-AWS-Session-Tokens-in-Terraform) - (2021) How to Add Temporary AWS Session Tokens in Terraform
 
 ## Bitbucket
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
@@ -1335,6 +1336,9 @@ See also [Infrastructure](README.md#infrastructure)
 * [Tiexin Guo](https://medium.com/4th-coffee/on-devops-9-infrastructure-as-code-clean-code-terraform-introduction-and-best-practices-5d266132c70a) - (2021) On DevOps — 9. Infrastructure as Code — Clean Code, Terraform Introduction, and Best Practices
 * [CloudSkiff](https://cloudskiff.com/terraform-code-quality/) - (2020) Terraform Code Quality | Key Steps to a good quality for your Infrastructure Code. **Related** : [Original talk from Cloud Native London, 3 June 2020](https://www.youtube.com/watch?v=yX2GoXB70iA) 
 
+> Tips
+* [Henna Abbas](https://support.circleci.com/hc/en-us/articles/360034981414-How-to-Add-Temporary-AWS-Session-Tokens-in-Terraform) - (2021) How to Add Temporary AWS Session Tokens in Terraform
+ 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - (2016) How I test Ansible configuration on 7 different OSes with Docker
