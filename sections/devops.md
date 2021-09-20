@@ -582,6 +582,7 @@ See also [Infrastructure](README.md#infrastructure)
 * [Pēteris Ņikiforovs](https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/) - (2017) Persisting state between AWS EC2 spot instances | Persisting state between AWS EC2 spot instances using Docker on an external volume
 * :star: [**Bill Wang**](https://medium.com/@ozbillwang/terraform-best-practices-72da22ed0dbf) - (2018) Terraform best practices | Terraform Best Practices for AWS users.
 * [Henna Abbas](https://support.circleci.com/hc/en-us/articles/360034981414-How-to-Add-Temporary-AWS-Session-Tokens-in-Terraform) - (2021) How to Add Temporary AWS Session Tokens in Terraform
+* [AWS Docs](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html) - Using temporary credentials with AWS resources
 
 ## Bitbucket
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
