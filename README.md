@@ -820,6 +820,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > Not so special now, Nespresso [Jump to the quote from the video](https://youtu.be/pO06RC4pvr0?t=1052)
 * [NoGarlicNoOnions](https://www.nogarlicnoonions.com/5-lies-we-need-to-stop-telling-about-coffee/) - (2018) 5 Lies: We Need to Stop Telling About Coffee
 * [Aaron Rice](https://coffeeaffection.com/best-coffee-movies/) - (2021) 8 Best Coffee Movies Ever Made
+* [European Coffee Trip](https://www.youtube.com/watch?v=13pZASbQODg) - [Video] (2020) Top 8 Coffee Documentaries To Watch Online (for free)
 
 > Tips
 * [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
@@ -2726,6 +2727,7 @@ rpm --rebuilddb
 * [Similaires](https://similaires.com/) - 🇫🇷 [FR] Trouver les meilleurs films similaires | service de sélection de films similaires, qui vous aidera à choisir le prochain film ou la prochaine série.
 * [Jay Riverlong](https://jayriverlong.github.io/2021/07/05/movies.html) - (2021) No More Movies
 * [Aaron Rice](https://coffeeaffection.com/best-coffee-movies/) - (2021) 8 Best Coffee Movies Ever Made
+* [European Coffee Trip](https://www.youtube.com/watch?v=13pZASbQODg) - [Video] (2020) Top 8 Coffee Documentaries To Watch Online (for free)
 
 # Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
