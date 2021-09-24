@@ -2274,6 +2274,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > Gastronomy
 * [Sylvain Lucas aka gay_coings](https://www.un-peu-gay-dans-les-coings.eu/2019/06/tartines-de-radis-la-bruxelloise.html) - 🇧🇪 🇫🇷 [BE] [FR] (2019) Tartines de radis à la bruxelloise
 * [Olivia Regout](https://www.brusselslife.be/fr/article/ettekeis-et-pottekeis-a-la-decouverte-du-fromage-de-bruxelles) - 🇧🇪 🇫🇷 [BE] [FR] (2020) EIKES BEIKES ? BA NEÏE ! Ettekeis et pottekeis, à la découverte du fromage de Bruxelles
+* [Cercle d'Histoire de Bruxelles.](https://www.cehibrux.be/chroniques/document-du-mois/482-des-fromages-bien-speciaux) - 🇧🇪 🇫🇷 [BE] [FR] (2019) Des fromages bien spéciaux
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
