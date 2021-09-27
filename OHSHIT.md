@@ -13,7 +13,8 @@ As an imperfect creature, I commit mistakes, and I also try to avoid them. Here 
 * First say thank you when people are trying to help you, ask you something, or suggest you something. People take from their limited time for you, don't neglect that.
 
 # Helping
-* Don't propose solutions/help too early especially if not asked. Many people prefer also to learn and solve problems by themselves. 
+* Don't propose solutions/help too early especially if not asked. Many people prefer also to learn and solve problems by themselves.
+* Let it burn. Sometimes that's the best you can do. Don't try to extinct every fire. Focus your energy on the problems that really impact you. There are enough solutions and people for the other problems and you don't have time for them all.
 
 # Reading
 * Read it twice if you don't get it. Google it if you still don't get it. Try to understand what you're reading before moving to the next thing.
