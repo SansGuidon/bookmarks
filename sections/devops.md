@@ -1093,6 +1093,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Daniele Polencic](https://learnk8s.io/troubleshooting-deployments) - (2021) A visual guide on troubleshooting Kubernetes deployments
 * [Kubernetes By Example](https://www.kubernetesbyexample.com/) - otherwise known as KBE. Apart from providing what they believe to be the broadest and most informative Kubernetes tutorials, news, and community interaction available, the site is designed so that you can learn by, well, example. Each lesson emphasizes an ‘absorb by doing approach,’ enriching your Kubernetes operator or developer understanding by allowing you to practice skills as they are explored and explained. | KBE has been a popular Red Hat sponsored site since 2017
 
+> Tips
+* [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes.
+ 
 > Tools
 * [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
 * [Stackpoint.io on Slack](http://slack.stackpoint.io/) - Slack community about NetApp Kubernetes Service, a Web-based interface for deployment of Kubernetes cluster. **See also** [Official website](https://cloud.netapp.com/kubernetes-service)
