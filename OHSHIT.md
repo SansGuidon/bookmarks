@@ -11,6 +11,7 @@ As an imperfect creature, I commit mistakes, and I also try to avoid them. Here 
 * Double check your sources.
 * Keep it simple.
 * First say thank you when people are trying to help you, ask you something, or suggest you something. People take from their limited time for you, don't neglect that.
+* Say when you're new to something or lack knowledge. Show your weaknesses and stay humble. Sometimes it can really makes a world of difference and even bring you opportunities / gifts. E.g : some shops will give you some extra for your first visit, especially if your toddler is cute and with you :-) 
 
 # Helping
 * Don't propose solutions/help too early especially if not asked. Many people prefer also to learn and solve problems by themselves.
