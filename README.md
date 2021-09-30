@@ -644,6 +644,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ed Zitron](https://ez.substack.com/p/the-work-from-home-future-is-destroying) - (2021) The Work-From-Home Future Is Destroying Bosses' Brains | a critique of managers and business owners
 * [L'Echo](https://www.lecho.be/monargent/impots/tools/fraisprofessionnels.html) - 🇧🇪 [BE] Frais professionnels
 * [My Tax on Web](https://www.mytaxonweb.be/forfait-legal-ou-frais-reel/) - 🇧🇪 [BE] Forfait légal ou frais réels ?
+* [openthebox](https://openthebox.be/search) - 🇧🇪 [BE] Discover your business network | Look inside the web of connections between companies, individuals and politicians in Belgium. **See also** : slide show - [A view of corporate networks in belgium](https://speakerdeck.com/niekbartho/openthebox-dot-be)
+* [fincheck](https://fincheck.be/en) - 🇧🇪 [BE] Financial information at a glance : Check the financial situation of any Belgian company in seconds | it is at least as useful as [openthebox](https://openthebox.be/search) 
+* [Staatsblad monitor](https://www.staatsbladmonitor.be/index.html) - 🇧🇪 [BE] Base de données ouverte des données des entreprises, des comptes annuels et des publications au journal officiel des entreprises belges (gratuit) ! **Exemple** [plusieurs sociétés à la même adresse](https://www.staatsbladmonitor.be/onderneming-zoeken.html?zelfdeadresals=0444050558)
 
 ## Cryptocurrency
 > News
@@ -1481,6 +1484,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Inventaire du Patrimoine architectural](https://monument.heritage.brussels/fr/inventaire/) - 🇧🇪 🇫🇷 [BE] [FR] L'Inventaire du Patrimoine architectural bruxellois en ligne. Une banque de données riche de plusieurs milliers de fiches historiques et descriptives, accompagnée d'un glossaire illustré.
 * [openthebox](https://openthebox.be/search) - 🇧🇪 [BE] Discover your business network | Look inside the web of connections between companies, individuals and politicians in Belgium. **See also** : slide show - [A view of corporate networks in belgium](https://speakerdeck.com/niekbartho/openthebox-dot-be)
 * [fincheck](https://fincheck.be/en) - 🇧🇪 [BE] Financial information at a glance : Check the financial situation of any Belgian company in seconds | it is at least as useful as [openthebox](https://openthebox.be/search) 
+* [Staatsblad monitor](https://www.staatsbladmonitor.be/index.html) - 🇧🇪 [BE] Base de données ouverte des données des entreprises, des comptes annuels et des publications au journal officiel des entreprises belges (gratuit) ! **Exemple** [plusieurs sociétés à la même adresse](https://www.staatsbladmonitor.be/onderneming-zoeken.html?zelfdeadresals=0444050558)
+* [Companyweb](https://www.companyweb.be/en) - 🇧🇪 [BE] Know who you’re dealing with | Companyweb specialises in company information in Belgium. Its services allow you to understand the risks, the survival rates, the payment capacity, the profitability, the stability and other key factors of every Belgian company.
+* [Finactum](https://www.finactum.be/) - 🇧🇪 [BE] A website with free financial information about Belgian companies filing obligation, which also offer low-cost high-quality, readable financial reports to.
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
