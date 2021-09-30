@@ -1480,6 +1480,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Fix My Street](https://fixmystreet.brussels/list) - 🇧🇪 [BE] Report incidents within Brussels' public space and help make your city better!
 * [Inventaire du Patrimoine architectural](https://monument.heritage.brussels/fr/inventaire/) - 🇧🇪 🇫🇷 [BE] [FR] L'Inventaire du Patrimoine architectural bruxellois en ligne. Une banque de données riche de plusieurs milliers de fiches historiques et descriptives, accompagnée d'un glossaire illustré.
 * [openthebox](https://openthebox.be/search) - 🇧🇪 [BE] Discover your business network | Look inside the web of connections between companies, individuals and politicians in Belgium. **See also** : slide show - [A view of corporate networks in belgium](https://speakerdeck.com/niekbartho/openthebox-dot-be)
+* [fincheck](https://fincheck.be/en) - 🇧🇪 [BE] Financial information at a glance : Check the financial situation of any Belgian company in seconds | it is at least as useful as [openthebox](https://openthebox.be/search) 
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
