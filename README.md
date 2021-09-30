@@ -2778,6 +2778,7 @@ rpm --rebuilddb
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
 * [Obscurify Music](https://obscurifymusic.com) - If you're on spotify, Obscurify let you learn more about your music taste and compare it to others' with Obscurify.
 * [cmd.fm](https://cmd.to/fm) - Use play command to begin listening. For example: play electronic pop, play madonna etc..
+* [radio paradise](https://radioparadise.com/player) - an eclectic dj-mixed blend of rock, indie, electronica, world music, and more. listener supported & always 100% commercial free
 
 # Networking
 * [Homenet Howto](https://www.homenethowto.com/) - Interesting guide to how computer networks work
