@@ -647,6 +647,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [openthebox](https://openthebox.be/search) - 🇧🇪 [BE] Discover your business network | Look inside the web of connections between companies, individuals and politicians in Belgium. **See also** : slide show - [A view of corporate networks in belgium](https://speakerdeck.com/niekbartho/openthebox-dot-be)
 * [fincheck](https://fincheck.be/en) - 🇧🇪 [BE] Financial information at a glance : Check the financial situation of any Belgian company in seconds | it is at least as useful as [openthebox](https://openthebox.be/search) 
 * [Staatsblad monitor](https://www.staatsbladmonitor.be/index.html) - 🇧🇪 [BE] Base de données ouverte des données des entreprises, des comptes annuels et des publications au journal officiel des entreprises belges (gratuit) ! **Exemple** [plusieurs sociétés à la même adresse](https://www.staatsbladmonitor.be/onderneming-zoeken.html?zelfdeadresals=0444050558)
+* [B2Bhint](https://b2bhint.com/en) - Get any company financial, juridical and historical data with international connections from the official sources
 
 ## Cryptocurrency
 > News
@@ -1487,6 +1488,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Staatsblad monitor](https://www.staatsbladmonitor.be/index.html) - 🇧🇪 [BE] Base de données ouverte des données des entreprises, des comptes annuels et des publications au journal officiel des entreprises belges (gratuit) ! **Exemple** [plusieurs sociétés à la même adresse](https://www.staatsbladmonitor.be/onderneming-zoeken.html?zelfdeadresals=0444050558)
 * [Companyweb](https://www.companyweb.be/en) - 🇧🇪 [BE] Know who you’re dealing with | Companyweb specialises in company information in Belgium. Its services allow you to understand the risks, the survival rates, the payment capacity, the profitability, the stability and other key factors of every Belgian company.
 * [Finactum](https://www.finactum.be/) - 🇧🇪 [BE] A website with free financial information about Belgian companies filing obligation, which also offer low-cost high-quality, readable financial reports to.
+* [B2Bhint](https://b2bhint.com/en) - Get any company financial, juridical and historical data with international connections from the official sources
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
