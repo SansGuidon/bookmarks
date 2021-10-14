@@ -8,10 +8,16 @@ As an imperfect creature, I commit mistakes, and I also try to avoid them. Here 
 * Always double check your texts via grammer checking tool before sending important communication. 
 * Always double check the message you are answering to, before making conclusions or reacting in a hurry.
 * Always double check the spelling of the name of whoever you discuss with before mentioning them so you don't offend them. 
-* Double check your sources.
+* Always re-read everything you're about to send
+* Don't misinterpret other's emotions and feelings based on your own mood 
+* Stay factual don't jump to conclusions
+* Double check your sources. Mention your references when quoting a number or text or reusing some idea / work / conclusion.
 * Keep it simple.
 * First say thank you when people are trying to help you, ask you something, or suggest you something. People take from their limited time for you, don't neglect that.
 * Say when you're new to something or lack knowledge. Show your weaknesses and stay humble. Sometimes it can really makes a world of difference and even bring you opportunities / gifts. E.g : some shops will give you some extra for your first visit, especially if your toddler is cute and with you :-) 
+* Pause and pace your speech
+* Maintain good posture
+* Be clear about what you ask, and give context.
 
 # Helping
 * Don't propose solutions/help too early especially if not asked. Many people prefer also to learn and solve problems by themselves.
