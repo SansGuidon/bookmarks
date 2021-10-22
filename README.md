@@ -629,6 +629,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Petra De Rouck](https://www.lecho.be/dossier/guide-impots-2018/quels-sont-les-frais-professionnels-les-plus-courants/10014280.html) - 🇧🇪 [BE] (2018) Quels sont les frais professionnels les plus courants? | Guide Impôts 2018
 * [BX1](https://bx1.be/categories/news/declaration-dimpots-2021-voici-tout-ce-quil-faut-savoir/) - 🇧🇪 [BE] (2021) Déclaration d’impôt 2021 : voici tout ce qu’il faut savoir
 * [Petra De Rouck](https://www.lecho.be/monargent/analyse/impots/pas-de-restos-ni-de-bureau-en-2020-comment-declarer-vos-frais-professionnels/10307541.html) - 🇧🇪 [BE] (2020) Pas de restos ni de bureau en 2020: comment déclarer vos frais professionnels?
+* [DevOps Salaries](https://salaries.devops-jobs.net/) - Let's make global salaries in DevOps a bit more open and transparent
 
 > Tools
 * [Nintendo eShop price comparator](https://eshop-prices.com/prices?currency=EUR) - Find the cheapest price for your favourite game, all prices are in Euro.
