@@ -844,6 +844,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Matthew De Angelis](http://www.brewingisforeveryone.com/blog/french-press) - (2016) French Press
 * [Kawai](https://delishably.com/beverages/Simple-things-you-can-do-to-get-barista-style-coffee) - (2020) 5 Simple Things You Can Do to Get Barista-Style Coffee
 * [Reddit](https://www.reddit.com/r/AeroPress/) - AeroPress tips & tricks
+* [Homegrounds](https://www.homegrounds.co/coffee-grind-chart/) - (2017) The Last Coffee Grind Size Chart You’ll Ever Need
 
 > Tools
 * [Café Mag](https://www.cafemag.fr/la-carte-du-cafe-de-specialite/) - :fr: [FR] La carte du café de spécialité | Une carte interactive et collaborative référençant les adresses qui torréfient et/ou proposent du café de spécialité en France et pays francophones.
