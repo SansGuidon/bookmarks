@@ -392,6 +392,7 @@
 * [LinkedIn](https://linkedin.github.io/school-of-sre/) - School of SRE : LinkedIn, uses this curriculum for onboarding their entry-level talents into the SRE role. **Source code** [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
 * [The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - (2021) 7 Lessons From 10 Outages
 * [Kevin Riggle](https://github.com/readme/guides/incident-email) - (2021) How to write an internal production failure incident communication | What do you say when the system is down ? 
+* [DevOps Salaries](https://salaries.devops-jobs.net/) - Let's make global salaries in DevOps a bit more open and transparent
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
