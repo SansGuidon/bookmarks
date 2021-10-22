@@ -826,6 +826,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [NoGarlicNoOnions](https://www.nogarlicnoonions.com/5-lies-we-need-to-stop-telling-about-coffee/) - (2018) 5 Lies: We Need to Stop Telling About Coffee
 * [Aaron Rice](https://coffeeaffection.com/best-coffee-movies/) - (2021) 8 Best Coffee Movies Ever Made
 * [European Coffee Trip](https://www.youtube.com/watch?v=13pZASbQODg) - [Video] (2020) Top 8 Coffee Documentaries To Watch Online (for free)
+* [Son of Coffee](http://sonofcoffee.com/check-retro-style-coffee-makers/) - (2019) Retro style coffee makers
 
 > Tips
 * [Dave Mosher](https://www.sciencealert.com/you-can-stay-alert-without-caffeine-try-these-science-based-tricks-next-time-you-feel-tired) - (2018) How to Stay Alert Without Caffeine - Try These Science-Based Tricks Next Time You're Tired :coffee:
