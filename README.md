@@ -1493,6 +1493,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Companyweb](https://www.companyweb.be/en) - 🇧🇪 [BE] Know who you’re dealing with | Companyweb specialises in company information in Belgium. Its services allow you to understand the risks, the survival rates, the payment capacity, the profitability, the stability and other key factors of every Belgian company.
 * [Finactum](https://www.finactum.be/) - 🇧🇪 [BE] A website with free financial information about Belgian companies filing obligation, which also offer low-cost high-quality, readable financial reports to.
 * [B2Bhint](https://b2bhint.com/en) - Get any company financial, juridical and historical data with international connections from the official sources
+* [L’asbl Réseau de Consommateurs Responsables (RCR)](http://www.asblrcr.be/carte-initiatives-bruxelles-wallonie) - 🇧🇪 🇫🇷 [BE] [FR] Carte des alternatives de consommation responsable, proposées par des groupes citoyens à Bruxelles et en Wallonie.
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
