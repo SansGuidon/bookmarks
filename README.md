@@ -3248,7 +3248,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [La boite verte](https://www.laboiteverte.fr/) - :fr: [FR] Site de découverte sur la photographie, la science, les arts et tout ce qui est insolite.
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 * [Marc Chaillou](https://www.marccphotographies.com/pourquoi-ne-pas-prendre-de-photos-avec-son-smartphone) - [FR] :fr: (2017) Pourquoi il faut éviter de prendre des photos avec son smartphone et privilégier un reflex lorsque l'on veut faire de la qualité.
- 
+* [eBru](https://www.ebru.be/bruxellesdantan.html) - 🇫🇷 🇧🇪 [FR] [BE] Bruxelles d'antan - Bruxelles en vieilles photos, publicités et cartes postales
+
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Player FM](https://player.fm/podcasts/Software-Development) - Software Development Podcasts
