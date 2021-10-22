@@ -1379,6 +1379,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 * [CodeElf](https://unbug.github.io/codelf) - Search over Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names | A search tool helps dev to solve the naming things problem. **Source code** : [unbug/codelf](https://github.com/unbug/codelf)
 * [Matthieu Lesne aka coreight](https://coreight.com/content/trouver-des-solutions-creatives-a-ses-problemes) - 🇫🇷 [FR] (2015) 5 étapes pour trouver des solutions créatives à ses problèmes
+* [Mark Manson](https://getpocket.com/explore/item/find-what-you-love-and-let-it-kill-you) - (2014) Find What You Love and Let It Kill You : The best things in life can sometimes be ugly. If you find what you love, then you’ll also find all the pain and struggle that comes with it. | Mark Manson is the author of Everything Is F*cked: A Book About Hope.Buy the book
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
