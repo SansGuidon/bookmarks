@@ -1494,6 +1494,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Finactum](https://www.finactum.be/) - 🇧🇪 [BE] A website with free financial information about Belgian companies filing obligation, which also offer low-cost high-quality, readable financial reports to.
 * [B2Bhint](https://b2bhint.com/en) - Get any company financial, juridical and historical data with international connections from the official sources
 * [L’asbl Réseau de Consommateurs Responsables (RCR)](http://www.asblrcr.be/carte-initiatives-bruxelles-wallonie) - 🇧🇪 🇫🇷 [BE] [FR] Carte des alternatives de consommation responsable, proposées par des groupes citoyens à Bruxelles et en Wallonie.
+* [Réseau des GASAP](https://gasap.be/) - 🇧🇪 🇫🇷 [BE] [FR] Les GASAP (groupe d’achats solidaires de l’agriculture paysanne) proposent de la vente directe, sans intermédiaire, qui permet un lien direct et solidaire avec des fermes locales qui travaillent pour une agriculture « agroécologique », pourvoyeuse d’emplois dans nos régions. C’est bien plus qu’un panier de légumes bio, c’est une véritable alternative alimentaire. **Bonus** [Carte des GASAP](https://gasap.be/carte/)
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
@@ -2289,7 +2290,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > Gastronomy
 * [Sylvain Lucas aka gay_coings](https://www.un-peu-gay-dans-les-coings.eu/2019/06/tartines-de-radis-la-bruxelloise.html) - 🇧🇪 🇫🇷 [BE] [FR] (2019) Tartines de radis à la bruxelloise
 * [Olivia Regout](https://www.brusselslife.be/fr/article/ettekeis-et-pottekeis-a-la-decouverte-du-fromage-de-bruxelles) - 🇧🇪 🇫🇷 [BE] [FR] (2020) EIKES BEIKES ? BA NEÏE ! Ettekeis et pottekeis, à la découverte du fromage de Bruxelles
-* [Cercle d'Histoire de Bruxelles.](https://www.cehibrux.be/chroniques/document-du-mois/482-des-fromages-bien-speciaux) - 🇧🇪 🇫🇷 [BE] [FR] (2019) Des fromages bien spéciaux
+* [Cercle d'Histoire de Bruxelles](https://www.cehibrux.be/chroniques/document-du-mois/482-des-fromages-bien-speciaux) - 🇧🇪 🇫🇷 [BE] [FR] (2019) Des fromages bien spéciaux
 * [Vivre en Belgique](https://www.vivreenbelgique.be/12-a-la-decouverte-de-la-belgique/specialites-culinaires) - 🇧🇪 🇫🇷 [BE] [FR] (2014) Spécialités culinaires | Boissons, quelques plats typiques, charcuterie, fromages, douceurs
 
 > History
