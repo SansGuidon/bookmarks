@@ -2272,6 +2272,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 # Hobbies
 * [Mike Crittenden](https://critter.blog/2020/12/08/the-key-to-happiness-is-to-stop-getting-upset-all-the-dang-time/) - (2020) The key to happiness is to stop getting upset all the dang time
 
+> Anderlecht / Bruxelles news
+* [Commune d'Anderlecht](https://www.anderlecht.be) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
+* [Bruxelles City News](https://bruxelles-city-news.be/cat/actualite/bruxelles/) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
+* [RTBF.be](https://www.rtbf.be/info/mot-cle_anderlecht?keyword=293643) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht : toutes les infos du mot-clé jour par jour
+* [BX1](https://bx1.be/category/communes/anderlecht/) - 🇫🇷 🇧🇪 [FR] [BE] Toutes les informations sur la commune d'Anderlecht
+
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
@@ -2882,6 +2888,12 @@ type `curl ident.me` to know your public ip
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
 * [DevOps Newsletters](https://devopsnewsletters.com/) - a one stop shop for the best DevOps news content from around the world.
 
+> Anderlecht / Bruxelles news
+* [Commune d'Anderlecht](https://www.anderlecht.be) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
+* [Bruxelles City News](https://bruxelles-city-news.be/cat/actualite/bruxelles/) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
+* [RTBF.be](https://www.rtbf.be/info/mot-cle_anderlecht?keyword=293643) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht : toutes les infos du mot-clé jour par jour
+* [BX1](https://bx1.be/category/communes/anderlecht/) - 🇫🇷 🇧🇪 [FR] [BE] Toutes les informations sur la commune d'Anderlecht
+ 
 # Nix
 * [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
 * [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
