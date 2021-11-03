@@ -2277,7 +2277,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Bruxelles City News](https://bruxelles-city-news.be/cat/actualite/bruxelles/) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
 * [RTBF.be](https://www.rtbf.be/info/mot-cle_anderlecht?keyword=293643) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht : toutes les infos du mot-clé jour par jour
 * [BX1](https://bx1.be/category/communes/anderlecht/) - 🇫🇷 🇧🇪 [FR] [BE] Toutes les informations sur la commune d'Anderlecht
-
+* [VivreIci](http://www.vivreici.be/commune/1070) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht
+ 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
