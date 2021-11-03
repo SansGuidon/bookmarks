@@ -2283,6 +2283,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/mini-recyparks) - 🇫🇷 🇧🇪 [FR] [BE] La commune d’Anderlecht vous donne la possibilité de vous défaire de vos encombrants ménagers grâce aux mini-recyparks
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/webzines) - 🇫🇷 🇧🇪 [FR] [BE] Webzines
 * [Megafon](https://anderlecht.monopinion.belgium.be/assemblies/megafon) - 🇫🇷 🇧🇪 [FR] [BE] plateforme de participation de la commune d'Anderlecht | Megafon, ma voix pour mon quartier
+* [environment.brussels](https://environnement.brussels/thematiques/espaces-verts-et-biodiversite/la-promenade-verte/parcours-meditatif) - 🇫🇷 🇧🇪 [FR] [BE] La Promenade Verte > Parcours méditatif
+* [visit.brussels](https://visit.brussels/fr/article/promenade-quartiers-anderlecht-centre) - 🇫🇷 🇧🇪 [FR] [BE] Promenade quartier : Anderlecht Centre
 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -2331,7 +2333,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [ReflexCity](https://www.reflexcity.net/) - :fr: 🇧🇪 [FR] [BE] Tout Bruxelles dans un site. **Examples :**
   * [Bois des Sept Bonniers (disparu) in Forest, Brussels](http://www.reflexcity.net/bruxelles/communes/forest/bois-des-sept-bonniers-disparu/localisation)
 * [René Rochette](http://forest12.canalblog.com/) 🇫🇷 🇧🇪 [FR] [BE] Promenades Forestoises
- 
+* [visit.brussels](https://visit.brussels/fr/article/promenade-quartiers-anderlecht-centre) - 🇫🇷 🇧🇪 [FR] [BE] Promenade quartier : Anderlecht Centre
+* [environment.brussels](https://environnement.brussels/thematiques/espaces-verts-et-biodiversite/la-promenade-verte/parcours-meditatif) - 🇫🇷 🇧🇪 [FR] [BE] La Promenade Verte > Parcours méditatif
+
 # Humor :trollface:
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 * [/r/DiWHY](https://www.reddit.com/r/DiWHY/) - when DIY goes wrong
