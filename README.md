@@ -105,7 +105,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Monitoring](#monitoring)
   * [Nginx](#nginx)
   * [ServiceNow](#servicenow)
-* [Parenting](#parenting)
+* [Parenting 👶](#parenting-baby)
 * [Philosophy :thought_balloon:](#philosophy-thought_balloon)
 * [Photography](#photography)
 * [Podcasts :radio:](#podcasts-radio)
@@ -2278,7 +2278,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [RTBF.be](https://www.rtbf.be/info/mot-cle_anderlecht?keyword=293643) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht : toutes les infos du mot-clé jour par jour
 * [BX1](https://bx1.be/category/communes/anderlecht/) - 🇫🇷 🇧🇪 [FR] [BE] Toutes les informations sur la commune d'Anderlecht
 * [VivreIci](http://www.vivreici.be/commune/1070) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht
- 
+* [Commune d'Anderlecht](https://www.anderlecht.be/fr/family-2021) - 🇫🇷 🇧🇪 [FR] [BE] (2021) FAMILY'IN 2021 : Programmation d'activités pour les familles et les enfants. **Bonus** [Flyer](https://www.anderlecht.be/sites/default/files/medias/Files/SolInter/Flyers%20Family'in%20-%20Derni%C3%A8re%20version%202021.pdf)
+* [Osiris](https://via.osiris.brussels/#/) - 🇫🇷 🇧🇪 [FR] [BE] Perturbations des voiries bruxelloises liées aux chantiers
+* [Commune d'Anderlecht](https://www.anderlecht.be/fr/mini-recyparks) - 🇫🇷 🇧🇪 [FR] [BE] La commune d’Anderlecht vous donne la possibilité de vous défaire de vos encombrants ménagers grâce aux mini-recyparks
+* [Commune d'Anderlecht](https://www.anderlecht.be/fr/webzines) - 🇫🇷 🇧🇪 [FR] [BE] Webzines
+* [Megafon](https://anderlecht.monopinion.belgium.be/assemblies/megafon) - 🇫🇷 🇧🇪 [FR] [BE] plateforme de participation de la commune d'Anderlecht | Megafon, ma voix pour mon quartier
+
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
@@ -2894,7 +2899,11 @@ type `curl ident.me` to know your public ip
 * [Bruxelles City News](https://bruxelles-city-news.be/cat/actualite/bruxelles/) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
 * [RTBF.be](https://www.rtbf.be/info/mot-cle_anderlecht?keyword=293643) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht : toutes les infos du mot-clé jour par jour
 * [BX1](https://bx1.be/category/communes/anderlecht/) - 🇫🇷 🇧🇪 [FR] [BE] Toutes les informations sur la commune d'Anderlecht
- 
+* [VivreIci](http://www.vivreici.be/commune/1070) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht
+* [Commune d'Anderlecht](https://www.anderlecht.be/fr/family-2021) - 🇫🇷 🇧🇪 [FR] [BE] (2021) FAMILY'IN 2021 : Programmation d'activités pour les familles et les enfants. **Bonus** [Flyer](https://www.anderlecht.be/sites/default/files/medias/Files/SolInter/Flyers%20Family'in%20-%20Derni%C3%A8re%20version%202021.pdf)
+* [Osiris](https://via.osiris.brussels/#/) - 🇫🇷 🇧🇪 [FR] [BE] Perturbations des voiries bruxelloises liées aux chantiers
+* [Commune d'Anderlecht](https://www.anderlecht.be/fr/webzines) - 🇫🇷 🇧🇪 [FR] [BE] Webzines
+
 # Nix
 * [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
 * [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
@@ -3213,7 +3222,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Fix_Scripts#Testing_Fix_Scripts&gsc.tab=0) - Fix Scripts & Testing Fix Scripts
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Script_Includes#gsc.tab=0) - Script Includes. Related : [Use Script Includes](https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/server-scripting/concept/c_UseScriptIncludes.html)
 
-# Parenting
+# Parenting 👶
 > News
 * [Les-Supers-Parents.com](https://www.les-supers-parents.com/) - 🇫🇷 [FR] L’objectif de ce blog est de partager avec vous nos découvertes et notre progression en termes de “Parentalité Bienveillante et Respectueuse”. Vous y trouverez sous forme  une synthèse structurée des toutes les informations que nous dénichons un peu partout… et leur mise en application.
 
@@ -3235,7 +3244,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Patricia Harteneck](https://www.seleni.org/advice-support/2018/3/16/parenting-when-you-are-highly-sensitive) - (2018) Parenting When You Are Highly Sensitive | How to take care of your kids and yourself
 * [Nitzia Logothetis](https://www.seleni.org/advice-support/2018/3/16/monitoring-our-parenting) - (2018) Monitoring Our Parenting | Does tracking your child's vital signs keep him safe or drive you crazy?
 * [Nadine Descheneaux](https://www.noovomoi.ca/vivre/famille/article.la-depression-post-partum-chez-le-pere.1.9381889.html) - [FR] 🇫🇷 (2019) La dépression post-partum chez le père
- 
+* [Commune d'Anderlecht](https://www.anderlecht.be/fr/family-2021) - 🇫🇷 🇧🇪 [FR] [BE] (2021) FAMILY'IN 2021 : Programmation d'activités pour les familles et les enfants
+
 # Philosophy :thought_balloon:
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
 * [Real News](http://www.realnews24.com/socrates-was-one-of-the-smartest-people-who-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read/) - some Socrates quotes worth the reading
