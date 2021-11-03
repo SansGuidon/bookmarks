@@ -105,7 +105,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Monitoring](#monitoring)
   * [Nginx](#nginx)
   * [ServiceNow](#servicenow)
-* [Parenting 👶](#parenting-baby)
+* [Parenting :baby:](#parenting-baby)
 * [Philosophy :thought_balloon:](#philosophy-thought_balloon)
 * [Photography](#photography)
 * [Podcasts :radio:](#podcasts-radio)
@@ -3222,7 +3222,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Fix_Scripts#Testing_Fix_Scripts&gsc.tab=0) - Fix Scripts & Testing Fix Scripts
 * [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Script_Includes#gsc.tab=0) - Script Includes. Related : [Use Script Includes](https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/server-scripting/concept/c_UseScriptIncludes.html)
 
-# Parenting 👶
+# Parenting :baby:
 > News
 * [Les-Supers-Parents.com](https://www.les-supers-parents.com/) - 🇫🇷 [FR] L’objectif de ce blog est de partager avec vous nos découvertes et notre progression en termes de “Parentalité Bienveillante et Respectueuse”. Vous y trouverez sous forme  une synthèse structurée des toutes les informations que nous dénichons un peu partout… et leur mise en application.
 
