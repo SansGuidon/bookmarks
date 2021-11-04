@@ -1124,6 +1124,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [doc.crds.dev](https://doc.crds.dev/) - Automatic documentation for CustomResourceDefinitions
 * [Jonathan Cross and Carlos Robles](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) - (2021) Conductor: Why We Migrated from Kubernetes to Nomad
 * [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator) - Explore the best instance types for your Kubernetes cluster interactively. 
+* [Vasily Marmer](https://blog.flant.com/chaos-engineering-in-kubernetes-open-source-tools/) - (2021) Open Source solutions for chaos engineering in Kubernetes
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -1253,6 +1254,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Kubernetes Failure Stories](https://k8s.af/) - A compiled list of links to public failure stories related to Kubernetes | Most recent publications on top
 * [The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - (2021) 7 Lessons From 10 Outages
 * [Tammy Bryant Butow](https://tammybutow.medium.com/site-reliability-engineering-for-kubernetes-b52877c70fb7) - (2020) Site Reliability Engineering for Kubernetes
+* [Vasily Marmer](https://blog.flant.com/chaos-engineering-in-kubernetes-open-source-tools/) - (2021) Open Source solutions for chaos engineering in Kubernetes
 
 ## Tekton
 * [instrumenta/conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language. **See also** [Official Website](https://conftest.dev)
