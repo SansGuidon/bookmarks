@@ -2340,6 +2340,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [visit.brussels](https://visit.brussels/fr/article/promenade-quartiers-anderlecht-centre) - 🇫🇷 🇧🇪 [FR] [BE] Promenade quartier : Anderlecht Centre
 * [environment.brussels](https://environnement.brussels/thematiques/espaces-verts-et-biodiversite/la-promenade-verte/parcours-meditatif) - 🇫🇷 🇧🇪 [FR] [BE] La Promenade Verte > Parcours méditatif
 
+> Wordplay
+* [Gérard Villemin](http://villemin.gerard.free.fr/Humour/aaaCalem/CalembA.htm#top) - 🇫🇷 [FR] Une tonne de jeux de mots & calembours par ordre alphabétique. **Voir aussi** [Humour & Pensées - Table des matières](http://villemin.gerard.free.fr/Humour/HumouTdM.htm)
+ 
 # Humor :trollface:
 * [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 * [/r/DiWHY](https://www.reddit.com/r/DiWHY/) - when DIY goes wrong
@@ -2386,6 +2389,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Manifesto for Half-Arsed Agile Software Development](https://www.halfarsedagilemanifesto.org/) - "We have heard about new ways of developing software by paying consultants and reading Gartner reports...."
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party or die
 * [Michael Küsters](https://docs.google.com/document/u/1/d/1-2aZP3BlctQrWP8bNpSxkVBKphypALPINUGGTn26els/mobilebasic) - (2019) The Scream Guide - A comprehensive Guide to Scream: When Scrum would require too much change! (Parodic guide to Scrum)
+* [Gérard Villemin](http://villemin.gerard.free.fr/Humour/aaaCalem/CalembA.htm#top) - 🇫🇷 [FR] Une tonne de jeux de mots & calembours par ordre alphabétique. **Voir aussi** [Humour & Pensées - Table des matières](http://villemin.gerard.free.fr/Humour/HumouTdM.htm)
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
