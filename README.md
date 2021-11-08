@@ -2306,6 +2306,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Olivia Regout](https://www.brusselslife.be/fr/article/ettekeis-et-pottekeis-a-la-decouverte-du-fromage-de-bruxelles) - 🇧🇪 🇫🇷 [BE] [FR] (2020) EIKES BEIKES ? BA NEÏE ! Ettekeis et pottekeis, à la découverte du fromage de Bruxelles
 * [Cercle d'Histoire de Bruxelles](https://www.cehibrux.be/chroniques/document-du-mois/482-des-fromages-bien-speciaux) - 🇧🇪 🇫🇷 [BE] [FR] (2019) Des fromages bien spéciaux
 * [Vivre en Belgique](https://www.vivreenbelgique.be/12-a-la-decouverte-de-la-belgique/specialites-culinaires) - 🇧🇪 🇫🇷 [BE] [FR] (2014) Spécialités culinaires | Boissons, quelques plats typiques, charcuterie, fromages, douceurs
+* [jecuisinelocal](https://www.jecuisinelocal.be/producteurs-artisans/) - 🇧🇪 🇫🇷 [BE] [FR] Producteurs & Artisans | durable & de saison
+* [Delhaize](https://www.delhaize.be/fr/better/eating/local) - 🇧🇪 🇫🇷 [BE] [FR] Manger local
+* [Eat's Local](https://www.bwbx.eatslocal.be/index.php#headerAndBoxes) - 🇧🇪 🇫🇷 [BE] [FR] Des produits de chez nous | Découvrez nos délicieux produits bio, locaux et artisanaux
+* [Apaq-W](https://www.apaqw.be/fr/recettes) - 🇧🇪 🇫🇷 [BE] [FR] Des idées de recettes avec des produits locaux !
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
