@@ -1725,6 +1725,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
+* [Out.be](https://www.out.be/fr/agenda/bruxelles/list/) - 🇧🇪 🇫🇷 [BE] [FR] Que faire à Bruxelles ? | Sorties et Loisirs à Bruxelles
 
 # Free online tools :free:
 * :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
@@ -2285,6 +2286,15 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Megafon](https://anderlecht.monopinion.belgium.be/assemblies/megafon) - 🇫🇷 🇧🇪 [FR] [BE] plateforme de participation de la commune d'Anderlecht | Megafon, ma voix pour mon quartier
 * [environment.brussels](https://environnement.brussels/thematiques/espaces-verts-et-biodiversite/la-promenade-verte/parcours-meditatif) - 🇫🇷 🇧🇪 [FR] [BE] La Promenade Verte > Parcours méditatif
 * [visit.brussels](https://visit.brussels/fr/article/promenade-quartiers-anderlecht-centre) - 🇫🇷 🇧🇪 [FR] [BE] Promenade quartier : Anderlecht Centre
+* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - 🇧🇪 [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
+* [openpermits.brussels](https://openpermits.brussels/fr/concertation) - 🇧🇪 🇫🇷 [BE] [FR] Demandes de permis (d'urbanisme) en Région de Bruxelles-Capitale
+* [Permis d'environnement](http://novac-pe.irisnet.be/) - 🇧🇪 [BE] Carte des permis d'environnement en région de Bruxelles-Capitale. 
+* [geodata.environnement.brussels](https://geodata.environnement.brussels/client/view/3a33e35f-6b64-4b28-bb50-5b4c6b7cb29c) - 🇧🇪 🇫🇷 [BE] [FR] Carte des Antennes émettrices en région de Bruxelles-Capitale
+* [geodata.environnement.brussels](https://geodata.environnement.brussels/client/view/18339ee3-22f5-49ad-9055-90f2b7f6af27) - 🇧🇪 🇫🇷 [BE] [FR] Carte des Zones de bruit en région de Bruxelles-Capitale
+* [Fix My Street](https://fixmystreet.brussels/list) - 🇧🇪 [BE] Report incidents within Brussels' public space and help make your city better!
+* [Inventaire du Patrimoine architectural](https://monument.heritage.brussels/fr/inventaire/) - 🇧🇪 🇫🇷 [BE] [FR] L'Inventaire du Patrimoine architectural bruxellois en ligne. Une banque de données riche de plusieurs milliers de fiches historiques et descriptives, accompagnée d'un glossaire illustré.
+* [Bruxelles Environnement](http://www.qualitedelair.brussels/) - [FR] :fr: Qualité de l'air. **Bonus** : Dutch version [Luchtkwaliteit](http://www.luchtkwaliteit.brussels/)
+* [Out.be](https://www.out.be/fr/agenda/bruxelles/list/) - 🇧🇪 🇫🇷 [BE] [FR] Que faire à Bruxelles ? | Sorties et Loisirs à Bruxelles
 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
