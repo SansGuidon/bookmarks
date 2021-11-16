@@ -1495,6 +1495,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [B2Bhint](https://b2bhint.com/en) - Get any company financial, juridical and historical data with international connections from the official sources
 * [L’asbl Réseau de Consommateurs Responsables (RCR)](http://www.asblrcr.be/carte-initiatives-bruxelles-wallonie) - 🇧🇪 🇫🇷 [BE] [FR] Carte des alternatives de consommation responsable, proposées par des groupes citoyens à Bruxelles et en Wallonie.
 * [Réseau des GASAP](https://gasap.be/) - 🇧🇪 🇫🇷 [BE] [FR] Les GASAP (groupe d’achats solidaires de l’agriculture paysanne) proposent de la vente directe, sans intermédiaire, qui permet un lien direct et solidaire avec des fermes locales qui travaillent pour une agriculture « agroécologique », pourvoyeuse d’emplois dans nos régions. C’est bien plus qu’un panier de légumes bio, c’est une véritable alternative alimentaire. **Bonus** [Carte des GASAP](https://gasap.be/carte/)
+* [VivreIci](http://www.vivreici.be/article/detail_ou-trouver-les-producteurs-locaux-et-les-paniers-bio-a-bruxelles-carte-interactive?id=92770) - 🇧🇪 🇫🇷 [BE] [FR] La carte interactive des producteurs locaux et paniers bio à Bruxelles
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
@@ -2284,6 +2285,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/mini-recyparks) - 🇫🇷 🇧🇪 [FR] [BE] La commune d’Anderlecht vous donne la possibilité de vous défaire de vos encombrants ménagers grâce aux mini-recyparks
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/webzines) - 🇫🇷 🇧🇪 [FR] [BE] Webzines
 * [Megafon](https://anderlecht.monopinion.belgium.be/assemblies/megafon) - 🇫🇷 🇧🇪 [FR] [BE] plateforme de participation de la commune d'Anderlecht | Megafon, ma voix pour mon quartier
+* [environnement.brussels](https://environnement.brussels/news) - News
 * [environment.brussels](https://environnement.brussels/thematiques/espaces-verts-et-biodiversite/la-promenade-verte/parcours-meditatif) - 🇫🇷 🇧🇪 [FR] [BE] La Promenade Verte > Parcours méditatif
 * [visit.brussels](https://visit.brussels/fr/article/promenade-quartiers-anderlecht-centre) - 🇫🇷 🇧🇪 [FR] [BE] Promenade quartier : Anderlecht Centre
 * [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - 🇧🇪 [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
@@ -2295,7 +2297,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Inventaire du Patrimoine architectural](https://monument.heritage.brussels/fr/inventaire/) - 🇧🇪 🇫🇷 [BE] [FR] L'Inventaire du Patrimoine architectural bruxellois en ligne. Une banque de données riche de plusieurs milliers de fiches historiques et descriptives, accompagnée d'un glossaire illustré.
 * [Bruxelles Environnement](http://www.qualitedelair.brussels/) - [FR] :fr: Qualité de l'air. **Bonus** : Dutch version [Luchtkwaliteit](http://www.luchtkwaliteit.brussels/)
 * [Out.be](https://www.out.be/fr/agenda/bruxelles/list/) - 🇧🇪 🇫🇷 [BE] [FR] Que faire à Bruxelles ? | Sorties et Loisirs à Bruxelles
-
+* [Bruxelles-Properté](https://www.arp-gan.be/fr/localisation.html) - 🇧🇪 🇫🇷 [BE] [FR] Localisation des bulles à verre à Bruxelles
+* [Bruxelles Secrète](https://bruxellessecrete.com/) - 🇧🇪 🇫🇷 [BE] [FR] 💗 Confidences, inspirations, bons plans... Bruxelles Secrète fera de vous des bruxellois encore plus authentiques que vous ne l’êtes déjà ! Découvrez les secrets cachés, inspirez-vous des dernières tendances et dénichez les meilleurs plans.
+* [VivreIci](http://www.vivreici.be/article/detail_ou-trouver-les-producteurs-locaux-et-les-paniers-bio-a-bruxelles-carte-interactive?id=92770) - 🇧🇪 🇫🇷 [BE] [FR] La carte interactive des producteurs locaux et paniers bio à Bruxelles
+ 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
