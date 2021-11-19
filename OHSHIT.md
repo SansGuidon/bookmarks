@@ -22,6 +22,14 @@ As an imperfect creature, I commit mistakes, and I also try to avoid them. Here 
 # Helping
 * Don't propose solutions/help too early especially if not asked. Many people prefer also to learn and solve problems by themselves.
 * Let it burn. Sometimes that's the best you can do. Don't try to extinct every fire. Focus your energy on the problems that really impact you. There are enough solutions and people for the other problems and you don't have time for them all.
+* Do the chores, act to help so others don't have to do everything
+* Family first, work last 
 
 # Reading
 * Read it twice if you don't get it. Google it if you still don't get it. Try to understand what you're reading before moving to the next thing.
+
+# Caring & focus
+* Don't multitask, don't multitask, don't multitask.... 
+* But allow yourself to optimize the use of your time
+* Family first, work last 
+* Protect your time
