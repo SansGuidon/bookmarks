@@ -1905,6 +1905,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Website Page Word Counter](https://wordcounter.net/website-word-count) - website word counter created specifically so you can find out the number of words on any page on the Internet.
 * [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
 * [read2burn.com](https://www.read2burn.com/) - transport passwords more secure by email | Sending secrets by email has some problems. First, the email is sent in clear text, everybody who can read the transmission can read the secret, second the email is stored in the email account of the sender and the recipient! read2burn.com enables a secure transmission by storing the secret encrypted and creating an access url that is valid only once. Therefore a manipulation by others will be recognized. **Source code** : [wemove/read2burn](https://github.com/wemove/read2burn)
+* [Grammica](https://grammica.com/) - You can check your English grammar with grammica, and the website provides also a lot of other tools to rework and improve your text and make it even more unique.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -5117,3 +5118,4 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
 * [Repetition Detector](http://www.repetition-detector.com/?p=online) - Intelligent and user-friendly detection of repetitions
 * [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
+* [Grammica](https://grammica.com/) - You can check your English grammar with grammica, and the website provides also a lot of other tools to rework and improve your text and make it even more unique.
