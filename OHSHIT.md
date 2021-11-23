@@ -33,3 +33,4 @@ As an imperfect creature, I commit mistakes, and I also try to avoid them. Here 
 * But allow yourself to optimize the use of your time
 * Family first, work last 
 * Protect your time
+* You won't have more time later, so avoid collections of "to do" or "to watch/listen" lists.
