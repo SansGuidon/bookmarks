@@ -3413,6 +3413,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Mozilla](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 * [Lionel Dricot](https://ploum.net/gemini-le-protocole-du-slow-web/) - (2020) 🇫🇷 [FR] Gemini, le protocole du slow web
 * [Eddie Barraco](https://www.synbioz.com/blog/tech/gemini-avenir-du-web) - (2021) 🇫🇷 [FR] Gemini, l'avenir du Web ?
+* [Aliza Vigderman & Gabe Turner](https://www.security.org/vpn/anonymity/) - (2021) How To Remain Anonymous on the Internet | Learn over 20 ways to stay as private as possible on the web.
 
 ## Privacy tools
 * :star: [**Privacy tools**](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
@@ -4486,6 +4487,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Edouard Kachelmann and Anthony Pasquariello](https://aws.amazon.com/blogs/security/enhance-programmatic-access-for-iam-users-using-yubikey-for-multi-factor-authentication/) - (2020) Enhance programmatic access for IAM users using a YubiKey for multi-factor authentication
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 * [read2burn.com](https://www.read2burn.com/) - transport passwords more secure by email | Sending secrets by email has some problems. First, the email is sent in clear text, everybody who can read the transmission can read the secret, second the email is stored in the email account of the sender and the recipient! read2burn.com enables a secure transmission by storing the secret encrypted and creating an access url that is valid only once. Therefore a manipulation by others will be recognized. **Source code** : [wemove/read2burn](https://github.com/wemove/read2burn)
+* [Aliza Vigderman & Gabe Turner](https://www.security.org/vpn/anonymity/) - (2021) How To Remain Anonymous on the Internet | Learn over 20 ways to stay as private as possible on the web.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
