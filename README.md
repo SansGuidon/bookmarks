@@ -649,6 +649,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [fincheck](https://fincheck.be/en) - 🇧🇪 [BE] Financial information at a glance : Check the financial situation of any Belgian company in seconds | it is at least as useful as [openthebox](https://openthebox.be/search) 
 * [Staatsblad monitor](https://www.staatsbladmonitor.be/index.html) - 🇧🇪 [BE] Base de données ouverte des données des entreprises, des comptes annuels et des publications au journal officiel des entreprises belges (gratuit) ! **Exemple** [plusieurs sociétés à la même adresse](https://www.staatsbladmonitor.be/onderneming-zoeken.html?zelfdeadresals=0444050558)
 * [B2Bhint](https://b2bhint.com/en) - Get any company financial, juridical and historical data with international connections from the official sources
+* [ThatCoupon](https://www.thatcoupon.com/) - Tired of clipping coupons and scouring the internet for deals and promotional codes? So are we. This website makes it easy for shoppers to find and share the best deals and coupons. No hunting, no hassle, and no scissors required.
 
 ## Cryptocurrency
 > News
@@ -3901,6 +3902,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Convert Case](https://convertcase.net/) - Easily convert text between different letter cases: lower case, UPPER CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more
 * [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
 * [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
+* [ThatCoupon](https://www.thatcoupon.com/) - Tired of clipping coupons and scouring the internet for deals and promotional codes? So are we. This website makes it easy for shoppers to find and share the best deals and coupons. No hunting, no hassle, and no scissors required.
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
