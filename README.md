@@ -4490,6 +4490,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 * [read2burn.com](https://www.read2burn.com/) - transport passwords more secure by email | Sending secrets by email has some problems. First, the email is sent in clear text, everybody who can read the transmission can read the secret, second the email is stored in the email account of the sender and the recipient! read2burn.com enables a secure transmission by storing the secret encrypted and creating an access url that is valid only once. Therefore a manipulation by others will be recognized. **Source code** : [wemove/read2burn](https://github.com/wemove/read2burn)
 * [Aliza Vigderman & Gabe Turner](https://www.security.org/vpn/anonymity/) - (2021) How To Remain Anonymous on the Internet | Learn over 20 ways to stay as private as possible on the web.
+* [Chiffrer.info](https://chiffrer.info/) - 🇫🇷 [FR] Parce que les mots sont importants | On dit chiffrer, et pas crypter :-) 
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
@@ -4550,6 +4551,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [George Bolo](https://linuxctl.com/2016/12/openssl---reference/) - (2016) OpenSSL - Reference
 * [George Bolo](https://linuxctl.com/2017/02/x509-certificate-manual-signature-verification/) - (2017) x509 Certificate Manual Signature Verification
 * [DigiCert SSL Certificate Checker](https://www.digicert.com/help/) - If you are having a problem with your SSL certificate installation, this diagnostic tool will help you locate the problem and verify your SSL Certificate installation.
+* [Chiffrer.info](https://chiffrer.info/) - 🇫🇷 [FR] Parce que les mots sont importants | On dit chiffrer, et pas crypter :-) 
 
 ## Web
 * [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. Replace Ghostery and Adblock by uBlock
