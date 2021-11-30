@@ -47,10 +47,10 @@
 * [x] agenda / bullet journal (or even both combined) for 2018
 * [x] kindle / ebook reader
 * [x] aeropress
-* [ ] breville/sage barista express
+* [x] breville/sage barista express
 * [ ] hnefatafl game
-* [ ] audible subscription
+* [ ] audible subscription but it's owned by amazon
 * [ ] lakube subscription
 * [ ] digitize my hi8 tapes before they die
 * [ ] drive a vw combi (van)
-* [ ] manual coffee grinder for espresso, french press and aeropress
+* [x] manual coffee grinder for espresso, french press and aeropress but I got a breville / sage barista express so not needed
