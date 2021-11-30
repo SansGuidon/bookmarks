@@ -1,7 +1,7 @@
 ## My wishlists on internet ##
 
 ### All ###
-* [SensCritique](https://www.senscritique.com/MorganGeek/collection/wish/all/all/all/all/all/all/all/list/page-1) - MorganGeek wishlist
+* [SensCritique](/exports/senscritique/envies.md) - MorganGeek wishlist
 * [Amazon](https://www.amazon.fr/gp/registry/wishlist/14HF95ODPK8AI/) - Morgan wishlist
 
 #### Books / Comics / Mangas
