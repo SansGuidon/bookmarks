@@ -44,7 +44,7 @@
 
 ## Different material desires ###
 
-### Wishes fulfilled
+### Wishes 
 * [ ] hnefatafl game (see on amazon)
 * [ ] audible subscription but it's owned by amazon and [I want to move away from them 🤔](https://github.com/MorganGeek/bookmarks/projects/2)
 * [ ] lakube subscription
@@ -56,7 +56,7 @@
 * [ ] a very good and unique bottle of gueuze
 * [ ] nerd socks 🤓
 
-### Got them 
+### Wishes fulfilled
 * [x] manual coffee grinder for espresso, french press and aeropress but I got a breville / sage barista express so not needed
 * [x] agenda / bullet journal (or even both combined) for 2018
 * [x] kindle / ebook reader
