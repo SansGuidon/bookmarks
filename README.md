@@ -3443,7 +3443,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
 * [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the Internet.
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
-* [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
+* :star: [**Terms of Service; Didn't Read**](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [Christian Stewart](https://blog.searchencrypt.com/privacy/privacy-browser-extensions/) - (2017) Favorite Browser Extensions for Privacy
@@ -3856,7 +3856,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Free Summarizer](http://freesummarizer.com/) - Summarize any text Copy and paste your loooong text (even a copy of a book)
 * [ty-/spec-style-guide](https://github.com/ty-/spec-style-guide) - some best practices for writing markdown based specifications to be printable by gitprint.com and pandoc
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
-* [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
+* :star: [**Terms of Service; Didn't Read**](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * [Send to Kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea) - extension for Google Chrome, for sending web content (articles, blog posts) to your Kindle device in one click
 * [Julia Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) - Research / Investigation tools
 * [Gabriel Weinberg](https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google) - (2018) Why should I use DuckDuckGo instead of Google?
@@ -4388,7 +4388,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Aris Adamantiadis](https://blog.0xbadc0de.be/archives/300) - (2016) SSH: Best practices
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - list of cryptography resources and links.
 * [Steven J. Vaughan-Nichols ](http://www.zdnet.com/article/linus-linux-torvalds-gives-security-developers-guidance/) - Linus 'Linux' Torvalds gives security developers guidance
-* [Terms of Service; Didn't Read](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
+* :star: [**Terms of Service; Didn't Read**](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
 * [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 * [CoreOS Blog](https://coreos.com/blog/vulnerability-analysis-for-containers.html) - Clair: Open Source Vulnerability Analysis for your Containers
