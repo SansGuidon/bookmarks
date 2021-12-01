@@ -42,15 +42,23 @@
 * [Tric Trac](https://www.trictrac.net/mur/silvermo/wishlist) - Wishlist (board games)
 * [BoardGameGeek](https://boardgamegeek.com/wishlist/Silvermo) - Wishlist (board games)
 
-### Material misc ###
+## Different material desires ###
 
+### Wishes fulfilled
+* [ ] hnefatafl game (see on amazon)
+* [ ] audible subscription but it's owned by amazon and [I want to move away from them 🤔](https://github.com/MorganGeek/bookmarks/projects/2)
+* [ ] lakube subscription
+* [ ] digitize my hi8 tapes before they die
+* [ ] drive a vw combi (van)
+* [ ] a good coffee scale / tamper for breville barista express (https://homeexplained.com/the-7-most-helpful-breville-barista-accesories/)
+* [ ] subscription to specialty coffee boxes (e.g : https://orcoffee.be/)
+* [ ] a good book on coffee recipes / barista techniques (e.g : https://www.cafemag.fr/bibliotheque-cafe/)
+* [ ] a very good and unique bottle of gueuze
+* [ ] nerd socks 🤓
+
+### Got them 
+* [x] manual coffee grinder for espresso, french press and aeropress but I got a breville / sage barista express so not needed
 * [x] agenda / bullet journal (or even both combined) for 2018
 * [x] kindle / ebook reader
 * [x] aeropress
 * [x] breville/sage barista express
-* [ ] hnefatafl game
-* [ ] audible subscription but it's owned by amazon
-* [ ] lakube subscription
-* [ ] digitize my hi8 tapes before they die
-* [ ] drive a vw combi (van)
-* [x] manual coffee grinder for espresso, french press and aeropress but I got a breville / sage barista express so not needed
