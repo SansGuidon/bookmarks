@@ -1724,6 +1724,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Good Reports](https://goodreports.com/) - There are alternatives to the toxic Big Tech monopolies, and it's important to make the right choices: both to have a better experience online, and to support the teams making superior tools. Good Reports was started in October 2020 to raise awareness about better online tools.
 * [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software
 * [Reddit Favorites](https://redditfavorites.com/android_apps) - What are reddit's favorite Android apps? | From 3.5 billion comments (number from Sept. 13, 2021)
+* [Privacy Guides](https://www.privacyguides.org/providers/vpn/) - VPN Services - Find a no-logging VPN operator who isn't out to sell or read your web traffic.
+* [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -3415,6 +3417,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Lionel Dricot](https://ploum.net/gemini-le-protocole-du-slow-web/) - (2020) 🇫🇷 [FR] Gemini, le protocole du slow web
 * [Eddie Barraco](https://www.synbioz.com/blog/tech/gemini-avenir-du-web) - (2021) 🇫🇷 [FR] Gemini, l'avenir du Web ?
 * [Aliza Vigderman & Gabe Turner](https://www.security.org/vpn/anonymity/) - (2021) How To Remain Anonymous on the Internet | Learn over 20 ways to stay as private as possible on the web.
+* [Viktor Vecsei](https://www.ivpn.net/blog/why-you-dont-need-a-vpn/) - (2020) Why you don't need a VPN
 
 ## Privacy tools
 * :star: [**Privacy tools**](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
@@ -3465,6 +3468,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Good Reports](https://goodreports.com/) - There are alternatives to the toxic Big Tech monopolies, and it's important to make the right choices: both to have a better experience online, and to support the teams making superior tools. Good Reports was started in October 2020 to raise awareness about better online tools.
 * [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software
 * [Do I need a VPN?](https://www.doineedavpn.com/) - Tell us what problems you want to solve, and we help you decide
+* [Privacy Guides](https://www.privacyguides.org/providers/vpn/) - VPN Services - Find a no-logging VPN operator who isn't out to sell or read your web traffic.
+* [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
@@ -4493,6 +4498,9 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Aliza Vigderman & Gabe Turner](https://www.security.org/vpn/anonymity/) - (2021) How To Remain Anonymous on the Internet | Learn over 20 ways to stay as private as possible on the web.
 * [Chiffrer.info](https://chiffrer.info/) - 🇫🇷 [FR] Parce que les mots sont importants | On dit chiffrer, et pas crypter :-) 
 * [Do I need a VPN?](https://www.doineedavpn.com/) - Tell us what problems you want to solve, and we help you decide
+* [Privacy Guides](https://www.privacyguides.org/providers/vpn/) - VPN Services - Find a no-logging VPN operator who isn't out to sell or read your web traffic.
+* [Viktor Vecsei](https://www.ivpn.net/blog/why-you-dont-need-a-vpn/) - (2020) Why you don't need a VPN
+* [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
