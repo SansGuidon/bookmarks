@@ -650,6 +650,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Staatsblad monitor](https://www.staatsbladmonitor.be/index.html) - 🇧🇪 [BE] Base de données ouverte des données des entreprises, des comptes annuels et des publications au journal officiel des entreprises belges (gratuit) ! **Exemple** [plusieurs sociétés à la même adresse](https://www.staatsbladmonitor.be/onderneming-zoeken.html?zelfdeadresals=0444050558)
 * [B2Bhint](https://b2bhint.com/en) - Get any company financial, juridical and historical data with international connections from the official sources
 * [ThatCoupon](https://www.thatcoupon.com/) - Tired of clipping coupons and scouring the internet for deals and promotional codes? So are we. This website makes it easy for shoppers to find and share the best deals and coupons. No hunting, no hassle, and no scissors required.
+* [vpnMentor](https://www.vpnmentor.com/coupons/) - 79 VPN Coupons, Promo Codes & Discounts - Updated Daily
 
 ## Cryptocurrency
 > News
@@ -1726,6 +1727,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Reddit Favorites](https://redditfavorites.com/android_apps) - What are reddit's favorite Android apps? | From 3.5 billion comments (number from Sept. 13, 2021)
 * [Privacy Guides](https://www.privacyguides.org/providers/vpn/) - VPN Services - Find a no-logging VPN operator who isn't out to sell or read your web traffic.
 * [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
+* [vpnMentor](https://www.vpnmentor.com/coupons/) - 79 VPN Coupons, Promo Codes & Discounts - Updated Daily
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -3470,6 +3472,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Do I need a VPN?](https://www.doineedavpn.com/) - Tell us what problems you want to solve, and we help you decide
 * [Privacy Guides](https://www.privacyguides.org/providers/vpn/) - VPN Services - Find a no-logging VPN operator who isn't out to sell or read your web traffic.
 * [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
+* [vpnMentor](https://www.vpnmentor.com/coupons/) - 79 VPN Coupons, Promo Codes & Discounts - Updated Daily
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
