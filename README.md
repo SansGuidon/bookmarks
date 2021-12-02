@@ -3464,6 +3464,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. ArchiveBox is a powerful self-hosted internet archiving solution written in Python 3. You feed it URLs of pages you want to archive, and it saves them to disk in a variety of formats depending on the configuration and the content it detects.
 * [Good Reports](https://goodreports.com/) - There are alternatives to the toxic Big Tech monopolies, and it's important to make the right choices: both to have a better experience online, and to support the teams making superior tools. Good Reports was started in October 2020 to raise awareness about better online tools.
 * [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software
+* [Do I need a VPN?](https://www.doineedavpn.com/) - Tell us what problems you want to solve, and we help you decide
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
@@ -4491,6 +4492,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [read2burn.com](https://www.read2burn.com/) - transport passwords more secure by email | Sending secrets by email has some problems. First, the email is sent in clear text, everybody who can read the transmission can read the secret, second the email is stored in the email account of the sender and the recipient! read2burn.com enables a secure transmission by storing the secret encrypted and creating an access url that is valid only once. Therefore a manipulation by others will be recognized. **Source code** : [wemove/read2burn](https://github.com/wemove/read2burn)
 * [Aliza Vigderman & Gabe Turner](https://www.security.org/vpn/anonymity/) - (2021) How To Remain Anonymous on the Internet | Learn over 20 ways to stay as private as possible on the web.
 * [Chiffrer.info](https://chiffrer.info/) - 🇫🇷 [FR] Parce que les mots sont importants | On dit chiffrer, et pas crypter :-) 
+* [Do I need a VPN?](https://www.doineedavpn.com/) - Tell us what problems you want to solve, and we help you decide
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
