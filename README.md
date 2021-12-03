@@ -651,6 +651,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [B2Bhint](https://b2bhint.com/en) - Get any company financial, juridical and historical data with international connections from the official sources
 * [ThatCoupon](https://www.thatcoupon.com/) - Tired of clipping coupons and scouring the internet for deals and promotional codes? So are we. This website makes it easy for shoppers to find and share the best deals and coupons. No hunting, no hassle, and no scissors required.
 * [vpnMentor](https://www.vpnmentor.com/coupons/) - 79 VPN Coupons, Promo Codes & Discounts - Updated Daily
+* :star: [**Mozilla**](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 
 ## Cryptocurrency
 > News
@@ -1445,7 +1446,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
 * [Instructables](http://www.instructables.com/) - How to make anything
 * [The Free Software Foundation](https://www.fsf.org/givingguide/v11/) - (2020) Ethical Tech Giving Guide - Does the gift you're giving your loved ones put someone else in control?
-* [Mozilla](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
+* :star: [**Mozilla**](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 * [MIT](https://missing.csail.mit.edu/) - The Missing Semester of Your CS Education (MIT course)
 * [Similaires](https://similaires.com/) - 🇫🇷 [FR] Trouver les meilleurs films similaires | service de sélection de films similaires, qui vous aidera à choisir le prochain film ou la prochaine série.
 * [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
@@ -3415,7 +3416,6 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Finn Brunton & Helen Nissenbaum](https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/) - (2019) The Fantasy of Opting Out
 > There is no simple solution to the problem of privacy, because privacy itself is a solution to societal challenges that are in constant flux. If the apparatus of total surveillance that we have described here were deliberate, centralized, and explicit, a Big Brother machine toggling between cameras, it would demand revolt, and we could conceive of a life outside the totalitarian microscope.
 * [The Free Software Foundation](https://www.fsf.org/givingguide/v11/) - (2020) Ethical Tech Giving Guide - Does the gift you're giving your loved ones put someone else in control?
-* [Mozilla](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 * [Lionel Dricot](https://ploum.net/gemini-le-protocole-du-slow-web/) - (2020) 🇫🇷 [FR] Gemini, le protocole du slow web
 * [Eddie Barraco](https://www.synbioz.com/blog/tech/gemini-avenir-du-web) - (2021) 🇫🇷 [FR] Gemini, l'avenir du Web ?
 * [Aliza Vigderman & Gabe Turner](https://www.security.org/vpn/anonymity/) - (2021) How To Remain Anonymous on the Internet | Learn over 20 ways to stay as private as possible on the web.
@@ -3473,6 +3473,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Privacy Guides](https://www.privacyguides.org/providers/vpn/) - VPN Services - Find a no-logging VPN operator who isn't out to sell or read your web traffic.
 * [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
 * [vpnMentor](https://www.vpnmentor.com/coupons/) - 79 VPN Coupons, Promo Codes & Discounts - Updated Daily
+* :star: [**Mozilla**](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
@@ -4504,6 +4505,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Privacy Guides](https://www.privacyguides.org/providers/vpn/) - VPN Services - Find a no-logging VPN operator who isn't out to sell or read your web traffic.
 * [Viktor Vecsei](https://www.ivpn.net/blog/why-you-dont-need-a-vpn/) - (2020) Why you don't need a VPN
 * [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
+* :star: [**Mozilla**](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
