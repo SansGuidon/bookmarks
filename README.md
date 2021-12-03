@@ -859,6 +859,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > News
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
 * [Collaborative Fund](http://www.collaborativefund.com/blog/archive/) - About information, collaboration and investments
+* [wikiHow](https://www.wikihow.com/Main-Page) - How to instructions you can trust, aka How to do anything. However, if you take a look at sections such as [Family Life](http://www.wikihow.com/Category:Family-Life) it can be creepy.... (I mean, do we need a site to learn what is family about  ?) **See also** :fr: [FR] the [french version](https://fr.wikihow.com/Accueil) 
 
 > Learn
 * [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - (2016) Is group chat making you sweat?
@@ -3586,6 +3587,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 
 ## Productivity tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
+* [wikiHow](https://www.wikihow.com/Main-Page) - How to instructions you can trust, aka How to do anything. However, if you take a look at sections such as [Family Life](http://www.wikihow.com/Category:Family-Life) it can be creepy.... (I mean, do we need a site to learn what is family about  ?) **See also** :fr: [FR] the [french version](https://fr.wikihow.com/Accueil) 
 * [Medium](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) - The 30 second habit with a lifelong impact
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/the-two-minute-rule) - The Two-Minute Rule / When You’re Buried in Email
 * [J. B. Rainsberger](http://blog.jbrains.ca/permalink/flow-requires-focus-not-time) - Flow Requires Focus, Not Time
@@ -3606,7 +3608,6 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [MindTools](https://www.mindtools.com/pages/article/newHTE_96.htm) - tips for Overcoming Procrastination
 * [Google](http://www.powersearchingwithgoogle.com/) - Power searching with google
 * [How To Do Things](http://www.howtodothings.com/) - How to do things / Various how-to guides and tips for noobs
-* [wikiHow](http://www.wikihow.com/Main-Page) - How to do anything. However, if you take a look at sections such as [Family Life](http://www.wikihow.com/Category:Family-Life) it can be creepy.... (I mean, do we need a site to learn what is family about  ?)
 * [HowStuffWorks](http://www.howstuffworks.com/) - easy-to-understand answers and explanations of how the world actually works
 * [Instructables](http://www.instructables.com/) - How to make anything
 * [Vikas Kumar Yadav/awesome-list-of-productive-websites](https://github.com/vikaskyadav/awesome-list-of-productive-websites) - various list of productive websites
