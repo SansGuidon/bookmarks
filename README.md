@@ -3917,6 +3917,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
 * [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
 * [ThatCoupon](https://www.thatcoupon.com/) - Tired of clipping coupons and scouring the internet for deals and promotional codes? So are we. This website makes it easy for shoppers to find and share the best deals and coupons. No hunting, no hassle, and no scissors required.
+* [DuckDuckGo Bang!](https://duckduckgo.com/bang) - Bangs are shortcuts that quickly take you to search results on other sites.
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
