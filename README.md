@@ -1731,6 +1731,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Privacy Guides](https://www.privacyguides.org/providers/vpn/) - VPN Services - Find a no-logging VPN operator who isn't out to sell or read your web traffic.
 * [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
 * [vpnMentor](https://www.vpnmentor.com/coupons/) - 79 VPN Coupons, Promo Codes & Discounts - Updated Daily
+* [No More Google](https://nomoregoogle.com/) - Privacy-friendly alternatives to Google that don't track you
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
