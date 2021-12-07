@@ -3476,6 +3476,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
 * [vpnMentor](https://www.vpnmentor.com/coupons/) - 79 VPN Coupons, Promo Codes & Discounts - Updated Daily
 * :star: [**Mozilla**](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
+* [No More Google](https://nomoregoogle.com/) - Privacy-friendly alternatives to Google that don't track you
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
