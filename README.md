@@ -1734,6 +1734,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [No More Google](https://nomoregoogle.com/) - Privacy-friendly alternatives to Google that don't track you
 * [Framalibre](https://framalibre.org/alternatives) - :fr: [FR] Entrez le nom d'un logiciel privateur et découvrez les alternatives libres
 * [Framalibre](https://framalibre.org/annuaires/logiciel) - :fr: [FR] Découvrez des logiciels libres
+* [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -1917,6 +1918,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
 * [read2burn.com](https://www.read2burn.com/) - transport passwords more secure by email | Sending secrets by email has some problems. First, the email is sent in clear text, everybody who can read the transmission can read the secret, second the email is stored in the email account of the sender and the recipient! read2burn.com enables a secure transmission by storing the secret encrypted and creating an access url that is valid only once. Therefore a manipulation by others will be recognized. **Source code** : [wemove/read2burn](https://github.com/wemove/read2burn)
 * [Grammica](https://grammica.com/) - You can check your English grammar with grammica, and the website provides also a lot of other tools to rework and improve your text and make it even more unique.
+* [Framalibre](https://framalibre.org/alternatives) - :fr: [FR] Entrez le nom d'un logiciel privateur et découvrez les alternatives libres
+* [Framalibre](https://framalibre.org/annuaires/logiciel) - :fr: [FR] Découvrez des logiciels libres
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
