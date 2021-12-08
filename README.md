@@ -2287,7 +2287,6 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
 
 # Hobbies
-* [Mike Crittenden](https://critter.blog/2020/12/08/the-key-to-happiness-is-to-stop-getting-upset-all-the-dang-time/) - (2020) The key to happiness is to stop getting upset all the dang time
 
 > Anderlecht / Bruxelles news
 * [Commune d'Anderlecht](https://www.anderlecht.be) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
