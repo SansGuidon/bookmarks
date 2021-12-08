@@ -2935,6 +2935,8 @@ type `curl ident.me` to know your public ip
 * [Timeless Hacker News](https://thn.rakhim.org/) - refresh for 30 random good posts
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
 * [DevOps Newsletters](https://devopsnewsletters.com/) - a one stop shop for the best DevOps news content from around the world.
+* [Seth's Blog](https://seths.blog) - Seth Godin's Blog on marketing, tribes and respect.
+* [Mike Crittenden](https://critter.blog) - Blog on engineering / self improvement topics. 
 
 > Anderlecht / Bruxelles news
 * [Commune d'Anderlecht](https://www.anderlecht.be) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
