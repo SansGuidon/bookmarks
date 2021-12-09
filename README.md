@@ -3491,6 +3491,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [No More Google](https://nomoregoogle.com/) - Privacy-friendly alternatives to Google that don't track you
 * [Framalibre](https://framalibre.org/alternatives) - :fr: [FR] Entrez le nom d'un logiciel privateur et découvrez les alternatives libres
 * [Framalibre](https://framalibre.org/annuaires/logiciel) - :fr: [FR] Découvrez des logiciels libres
+* [YourThings Scorecard](https://yourthings.info/scorecards/) - Evaluating and scoring smart-home devices to improve security! Learn how (in)secure your IoT devices are
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
@@ -4143,6 +4144,7 @@ See also [Machine learning](sections/programming.md#machine-learning)
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
 * [Karen Hao](https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data) - (2020) A radical new technique lets AI learn with practically no data | “Less than one”-shot learning can teach a model to identify more objects than the number of examples it is trained on.
+* [YourThings Scorecard](https://yourthings.info/scorecards/) - Evaluating and scoring smart-home devices to improve security! Learn how (in)secure your IoT devices are
 
 # Shell scripting
 See also [CLI Tools](#cli-tools)
@@ -4524,6 +4526,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Viktor Vecsei](https://www.ivpn.net/blog/why-you-dont-need-a-vpn/) - (2020) Why you don't need a VPN
 * [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
 * :star: [**Mozilla**](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
+* [YourThings Scorecard](https://yourthings.info/scorecards/) - Evaluating and scoring smart-home devices to improve security! Learn how (in)secure your IoT devices are
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
