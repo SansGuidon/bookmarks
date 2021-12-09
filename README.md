@@ -1452,7 +1452,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Similaires](https://similaires.com/) - 🇫🇷 [FR] Trouver les meilleurs films similaires | service de sélection de films similaires, qui vous aidera à choisir le prochain film ou la prochaine série.
 * [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
 * [Open Culture](https://www.openculture.com/) - The best free cultural & educational media on the web
-
+* [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** [Explore catalogue updates by country](https://unogs.com/countrydetail)
+ 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
 * [/r/Infographics](https://www.reddit.com/r/Infographics/) - all the latest infographics
@@ -1693,6 +1694,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Reddit Favorites](https://redditfavorites.com) - What are reddit's favorite Products, VPNs, Android apps, Books, Youtube videos? | From 3.5 billion comments (number from Sept. 13, 2021)
 * [subredditstats.com](https://subredditstats.com/subreddit-user-overlaps/) - Find Related Subreddits By User/Redditor Overlap
 * [Reddit Bests](https://redditbests.com) - Discover top products recommended by redditors
+* [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** [Explore catalogue updates by country](https://unogs.com/countrydetail)
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
@@ -1920,6 +1922,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Grammica](https://grammica.com/) - You can check your English grammar with grammica, and the website provides also a lot of other tools to rework and improve your text and make it even more unique.
 * [Framalibre](https://framalibre.org/alternatives) - :fr: [FR] Entrez le nom d'un logiciel privateur et découvrez les alternatives libres
 * [Framalibre](https://framalibre.org/annuaires/logiciel) - :fr: [FR] Découvrez des logiciels libres
+* [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -2799,6 +2802,8 @@ rpm --rebuilddb
 * [Jay Riverlong](https://jayriverlong.github.io/2021/07/05/movies.html) - (2021) No More Movies
 * [Aaron Rice](https://coffeeaffection.com/best-coffee-movies/) - (2021) 8 Best Coffee Movies Ever Made
 * [European Coffee Trip](https://www.youtube.com/watch?v=13pZASbQODg) - [Video] (2020) Top 8 Coffee Documentaries To Watch Online (for free)
+* [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** [Explore catalogue updates by country](https://unogs.com/countrydetail)
+* [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 
 # Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
