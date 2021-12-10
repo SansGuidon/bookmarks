@@ -24,6 +24,7 @@
 * [Java](#java)
   * [Java EE](#java-ee)
 * [JavaScript](#javascript)
+* [Kafka](#kafka)
 * [Kotlin](#kotlin)
 * [Lisp](#lisp)
 * [Machine learning](#machine-learning)
@@ -1426,6 +1427,9 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [BundlePhobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 * [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+
+## Kafka
+* [Ruurtjan Pul](https://scribe.rip/understanding-kafka-with-factorio-74e8fc9bf181) - (2018) Understanding Kafka with Factorio
 
 ## Kotlin
 * [Kotlin Docs](https://kotlinlang.org/docs/reference/comparison-to-java.html) - Comparison to Java Programming Language
