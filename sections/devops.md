@@ -1050,6 +1050,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 ## Kubernetes
 > News
 * [Hacker Noon](https://hackernoon.com/tagged/kubernetes) - #kubernetes articles/stories
+* [Loft Kubernetes Blog](https://loft.sh/blog/tags/kubernetes-insights/) - articles tagged with "Kubernetes Insights"
 
 > Learn
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
@@ -1095,7 +1096,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Kubernetes By Example](https://www.kubernetesbyexample.com/) - otherwise known as KBE. Apart from providing what they believe to be the broadest and most informative Kubernetes tutorials, news, and community interaction available, the site is designed so that you can learn by, well, example. Each lesson emphasizes an ‘absorb by doing approach,’ enriching your Kubernetes operator or developer understanding by allowing you to practice skills as they are explored and explained. | KBE has been a popular Red Hat sponsored site since 2017
 * [Komodor](https://komodor.com/learn/kubernetes-troubleshooting-the-complete-guide/) - Kubernetes Troubleshooting: The Complete Guide
 * [Komodor](https://komodor.com/learning-center/?category=kubernetes) - Learning resources for Kubernetes
- 
+
 > Tips
 * [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes.
 * [Kubernetes Docs](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - kubectl Cheat Sheet
