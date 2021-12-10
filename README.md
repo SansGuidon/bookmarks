@@ -3507,7 +3507,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 > * Warn people about scams or phishing
 > * Link to a conversation about the article they’re currently reading
 > * Ask other page visitors for advice
-
+* [Fediverse Observer](https://fediverse.observer/) - Fediverse Servers Status. Find a Fediverse server to sign up for, find one close to you! **See also** [Stats](https://fediverse.observer/stats) and [Map view of All](https://fediverse.observer/map) | The Fediverse (a portmanteau of "federation" and "universe") is an ensemble of federated (i.e. interconnected) servers that are used for web publishing (i.e. social networking, microblogging, blogging, or websites) and file hosting, but which, while independently hosted, can communicate with each other. 
+ 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
 * [MorganGeek](https://www.morgangeek.be/minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
