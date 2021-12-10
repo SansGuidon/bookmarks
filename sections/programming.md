@@ -1175,6 +1175,7 @@ psql -f db.out postgres
 * [Elisabeth Irgens](https://elisabethirgens.github.io/notes/2021/06/code-reviews/) - (2021) - Why I Won’t Approve Your PR | in-house development has been influenced too much by the GitHub open source PR driven development process. A process driven by zero trust doesn’t fit well in a team with trust.
 * [Choose an open source license](https://choosealicense.com/licenses/) - An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection. GitHub wants to help developers choose an open source license for their source code.
 * [Csaba Okrona](https://archive.ochronus.com/git-tips-from-the-trenches/) - (2014) Git tips from the trenches
+* [Mislav Marohnić](https://mislav.net/2014/02/hidden-documentation/) - (2014) Every line of code is always documented.
 
 ### Dotfiles / Aliases
 See also [Shell aliases](../README.md#shell-aliases)
