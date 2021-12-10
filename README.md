@@ -3501,6 +3501,12 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Framalibre](https://framalibre.org/annuaires/logiciel) - :fr: [FR] Découvrez des logiciels libres
 * [YourThings Scorecard](https://yourthings.info/scorecards/) - Evaluating and scoring smart-home devices to improve security! Learn how (in)secure your IoT devices are
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+* [DisMoi](https://www.dismoi.io/en/guides/) - Experience a web that is safer, more transparent and alternative-friendly | Get advice and alerts from your trusted sources, directly on the pages you visit (thanks to a browser extension/plugin). Examples of features : 
+> * Recommend a locally made alternative to a big-brand product
+> * Flag fake news
+> * Warn people about scams or phishing
+> * Link to a conversation about the article they’re currently reading
+> * Ask other page visitors for advice
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
