@@ -1176,6 +1176,7 @@ psql -f db.out postgres
 * [Choose an open source license](https://choosealicense.com/licenses/) - An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection. GitHub wants to help developers choose an open source license for their source code.
 * [Csaba Okrona](https://archive.ochronus.com/git-tips-from-the-trenches/) - (2014) Git tips from the trenches
 * [Mislav Marohnić](https://mislav.net/2014/02/hidden-documentation/) - (2014) Every line of code is always documented.
+* [Mislav Marohnić](https://changelog.com/posts/git-is-simply-too-hard) - (2020) Git is simply too hard | whatever comes next should be closer to how humans think
 
 ### Dotfiles / Aliases
 See also [Shell aliases](../README.md#shell-aliases)
