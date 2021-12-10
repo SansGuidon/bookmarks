@@ -66,6 +66,7 @@
 * [Industrial Logic Blog](https://www.industriallogic.com/blog/) - leveraging safety wisdom in workspace from manufacturing, psychology, culture change and Agile and Lean developmen
 * [GOTO Blog](https://blog.gotocon.com/blog/) - Created for developers, by developers, GOTO is focused on bringing together the best minds in the software community and the most interesting topics to light.
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - Keep track of new cool github projects
+* [The Changelog](https://changelog.com/news/top) - Top posts 
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange
