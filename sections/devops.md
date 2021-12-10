@@ -1080,7 +1080,6 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 * [Kubernetes Academy](https://kubernetes.academy/) - courses are composed of a series of bite-size video lessons developed by expert instructors. These courses will help you understand new Kubernetes concepts for free—no strings attached.
 * [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) - An online comic to learn about Kubernetes and how you can use it for continuous integration and delivery.
-* [Kubernetes Docs](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - kubectl Cheat Sheet
 * [Ross Kukulinski](https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/) - (2017) 10 Most Common Reasons Kubernetes Deployments Fail (Part 1) - [(Part 2)](https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-2/)
 * [Peter Benjamin](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209) - (2018) How do you keep up with Kubernetes?
 * [Tomasz Cholewa](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/) - (2019) 10 most important differences between OpenShift and Kubernetes
@@ -1094,10 +1093,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners 🔥
 * [Daniele Polencic](https://learnk8s.io/troubleshooting-deployments) - (2021) A visual guide on troubleshooting Kubernetes deployments
 * [Kubernetes By Example](https://www.kubernetesbyexample.com/) - otherwise known as KBE. Apart from providing what they believe to be the broadest and most informative Kubernetes tutorials, news, and community interaction available, the site is designed so that you can learn by, well, example. Each lesson emphasizes an ‘absorb by doing approach,’ enriching your Kubernetes operator or developer understanding by allowing you to practice skills as they are explored and explained. | KBE has been a popular Red Hat sponsored site since 2017
-
+ 
 > Tips
 * [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes.
- 
+* [Kubernetes Docs](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - kubectl Cheat Sheet
+* [Komodor](https://komodor.com/learn/the-ultimate-kubectl-cheat-sheet/) - The Ultimate Kubectl Cheat Sheet
+
 > Tools
 * [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
 * [Stackpoint.io on Slack](http://slack.stackpoint.io/) - Slack community about NetApp Kubernetes Service, a Web-based interface for deployment of Kubernetes cluster. **See also** [Official website](https://cloud.netapp.com/kubernetes-service)
