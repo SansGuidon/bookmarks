@@ -3494,6 +3494,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Framalibre](https://framalibre.org/alternatives) - :fr: [FR] Entrez le nom d'un logiciel privateur et découvrez les alternatives libres
 * [Framalibre](https://framalibre.org/annuaires/logiciel) - :fr: [FR] Découvrez des logiciels libres
 * [YourThings Scorecard](https://yourthings.info/scorecards/) - Evaluating and scoring smart-home devices to improve security! Learn how (in)secure your IoT devices are
+* [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
