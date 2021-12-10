@@ -1738,6 +1738,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Framalibre](https://framalibre.org/alternatives) - :fr: [FR] Entrez le nom d'un logiciel privateur et découvrez les alternatives libres
 * [Framalibre](https://framalibre.org/annuaires/logiciel) - :fr: [FR] Découvrez des logiciels libres
 * [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
+* [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
