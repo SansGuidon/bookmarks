@@ -1179,6 +1179,8 @@ psql -f db.out postgres
 * [Csaba Okrona](https://archive.ochronus.com/git-tips-from-the-trenches/) - (2014) Git tips from the trenches
 * [Mislav Marohnić](https://mislav.net/2014/02/hidden-documentation/) - (2014) Every line of code is always documented.
 * [Mislav Marohnić](https://changelog.com/posts/git-is-simply-too-hard) - (2020) Git is simply too hard | whatever comes next should be closer to how humans think
+* [Fossil](https://fossil-scm.org/home/doc/trunk/www/quickstart.wiki) - Fossil Quick Start : This is a guide to help you get started using the Fossil Distributed Version Control System quickly and painlessly.
+* [Fossil](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki) - Fossil Versus Git | an overiew, by Fossil, of all of that similarity and interoperability aside and focus on the important differences between the two, especially those that impact the user experience.
 
 ### Dotfiles / Aliases
 See also [Shell aliases](../README.md#shell-aliases)
