@@ -2326,6 +2326,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
 * [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing » :beer:
 * [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - 🇧🇪 [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
+* [VivreIci.be](https://www.google.com/maps/d/u/0/viewer?mid=15OKrqD-iaTR0DorNrvRim6nClIs&ll=50.21449266425098%2C4.653385849999978&z=9) - 🇧🇪 🇫🇷 [BE] [FR] La carte des Bières et Brasserie de chez nous
 
 > [Board games 🎲](#board-games-game_die)
 
