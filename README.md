@@ -1740,6 +1740,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
 * [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 * [tryLiberty.org](https://tryliberty.org/about) - is a way to join the Fediverse, to be part of a community, and to reclaim your freedom of speech in social media. Find here free, open source and privacy respecting services and alternatives to privative services.
+* [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - "Government is not the solution to our problem; government is the problem" **See also** [App ratings](https://www.securemessagingapps.com/ratings/)
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -3510,6 +3511,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 > * Ask other page visitors for advice
 * [Fediverse Observer](https://fediverse.observer/) - Fediverse Servers Status. Find a Fediverse server to sign up for, find one close to you! **See also** [Stats](https://fediverse.observer/stats) and [Map view of All](https://fediverse.observer/map) | The Fediverse (a portmanteau of "federation" and "universe") is an ensemble of federated (i.e. interconnected) servers that are used for web publishing (i.e. social networking, microblogging, blogging, or websites) and file hosting, but which, while independently hosted, can communicate with each other. 
 * [tryLiberty.org](https://tryliberty.org/about) - is a way to join the Fediverse, to be part of a community, and to reclaim your freedom of speech in social media. Find here free,open source and privacy respecting services and alternatives to privative services.
+* [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - "Government is not the solution to our problem; government is the problem" **See also** [App ratings](https://www.securemessagingapps.com/ratings/)
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
@@ -4545,6 +4547,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Techlore](https://techlore.tech/vpnchart.html) - VPN Chart - Transparent, community-driven VPN reviews.
 * :star: [**Mozilla**](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 * [YourThings Scorecard](https://yourthings.info/scorecards/) - Evaluating and scoring smart-home devices to improve security! Learn how (in)secure your IoT devices are
+* [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - "Government is not the solution to our problem; government is the problem" **See also** [App ratings](https://www.securemessagingapps.com/ratings/)
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
