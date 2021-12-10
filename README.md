@@ -2346,6 +2346,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Delhaize](https://www.delhaize.be/fr/better/eating/local) - 🇧🇪 🇫🇷 [BE] [FR] Manger local
 * [Eat's Local](https://www.bwbx.eatslocal.be/index.php#headerAndBoxes) - 🇧🇪 🇫🇷 [BE] [FR] Des produits de chez nous | Découvrez nos délicieux produits bio, locaux et artisanaux
 * [Apaq-W](https://www.apaqw.be/fr/recettes) - 🇧🇪 🇫🇷 [BE] [FR] Des idées de recettes avec des produits locaux !
+* [Fritmap](https://www.fritmap.com/fr/) - 🇧🇪 🇫🇷 [BE] [FR] le portail de la frite et des friteries (Fritkots, baraques à frite)
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
