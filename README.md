@@ -1252,7 +1252,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Minimizing the amount of documentation that must be created and maintained in the first place is probably one of the most important aspects of applying LoRD (perhaps even a precursor)
 * [Graydon Hoare](https://graydon2.dreamwidth.org/193447.html) - (2014) always bet on text
 * [Justin Garrison](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - (2021) The Document Culture of Amazon
-* [Mislav Marohnić @mislav](https://mislav.net/2014/02/hidden-documentation/) - (2014) Every line of code is always documented
+* [Mislav Marohnić](https://mislav.net/2014/02/hidden-documentation/) - (2014) Every line of code is always documented.
 
 > Tips
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
