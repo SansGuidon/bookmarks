@@ -2263,6 +2263,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mike Crittenden](https://critter.blog/2021/07/02/10-of-us-are-barely-affected-by-caffeine/) - (2021) 10% of us are barely affected by caffeine
 * [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
 * [Goomics](https://goomics.net/) - Comics about life at Google
+* [Cate Huston](https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job/) - (2021) 5 Signs It’s Time to Quit Your Job
 
 ## Remote work
 > Finding a remote job
