@@ -2945,7 +2945,8 @@ type `curl ident.me` to know your public ip
 * [DevOps Newsletters](https://devopsnewsletters.com/) - a one stop shop for the best DevOps news content from around the world.
 * [Seth's Blog](https://seths.blog) - Seth Godin's Blog on marketing, tribes and respect.
 * [Mike Crittenden](https://critter.blog) - Blog on engineering / self improvement topics. 
-
+* [Nicolas Delsaux aka Riduidel](https://nicolas-delsaux.hd.free.fr/Shaarli/) - :fr: [FR] Shaarli de Riduidel | discovered via [**sebsauvage**](https://sebsauvage.net/links/)
+ 
 > Anderlecht / Bruxelles news
 * [Commune d'Anderlecht](https://www.anderlecht.be) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
 * [Bruxelles City News](https://bruxelles-city-news.be/cat/actualite/bruxelles/) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
