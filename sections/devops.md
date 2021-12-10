@@ -1093,7 +1093,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners 🔥
 * [Daniele Polencic](https://learnk8s.io/troubleshooting-deployments) - (2021) A visual guide on troubleshooting Kubernetes deployments
 * [Kubernetes By Example](https://www.kubernetesbyexample.com/) - otherwise known as KBE. Apart from providing what they believe to be the broadest and most informative Kubernetes tutorials, news, and community interaction available, the site is designed so that you can learn by, well, example. Each lesson emphasizes an ‘absorb by doing approach,’ enriching your Kubernetes operator or developer understanding by allowing you to practice skills as they are explored and explained. | KBE has been a popular Red Hat sponsored site since 2017
- 
+* [Komodor](https://komodor.com/learn/kubernetes-troubleshooting-the-complete-guide/) - Kubernetes Troubleshooting: The Complete Guide
+
 > Tips
 * [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes.
 * [Kubernetes Docs](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - kubectl Cheat Sheet
