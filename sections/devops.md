@@ -1049,10 +1049,21 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 
 ## Kubernetes
 > News
+* [Kubernetes Blog](https://kubernetes.io/blog/) - Latest News
 * [Hacker Noon](https://hackernoon.com/tagged/kubernetes) - #kubernetes articles/stories
 * [Loft Kubernetes Blog](https://loft.sh/blog/tags/kubernetes-insights/) - articles tagged with "Kubernetes Insights"
+* [The New Stack](https://thenewstack.io/category/kubernetes/) - Kubernetes articles
+* [Flant Blog](https://blog.flant.com/) - Articles on Kubernetes
+* [ITNEXT](https://itnext.io/tagged/kubernetes) - Articles tagged Kubernetes. 
+* [kubebyexample.com](https://kubebyexample.com/community/news) - Community News
+* [Learnk8s Blog](https://learnk8s.io/blog) - Read the lastest articles from the Learnk8s blog
+* [Loft Blog](https://loft.sh/blog/tags/platform-engineering/) - Articles with tag - Platform Engineering
+* [Komodor Blog](https://komodor.com/blog/?category=kubernetes) - Articles tagged Kubernetes
+* [The Shipt It! Podcast](https://changelog.com/shipit - A podcast about getting your best ideas into the world and seeing what happens.
+* [Changelog](https://changelog.com/topic/kubernetes) - Kubernetes news & podcasts for developers
 
 > Learn
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/kubernetes) - Newest "kubernetes" Questions
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
 * [Jesse Newland](https://githubengineering.com/kubernetes-at-github/) - Kubernetes at GitHub
@@ -1101,6 +1112,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes.
 * [Kubernetes Docs](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - kubectl Cheat Sheet
 * [Komodor](https://komodor.com/learn/the-ultimate-kubectl-cheat-sheet/) - The Ultimate Kubectl Cheat Sheet
+* [Kubernetes cheatsheet](https://ibd.sh/cheatsheet-k8s) - [PDF] Memo of some useful commands using kubectl, kubectx, kubens, kubetail, … and also some manifest samples for Ingress and PersistentVolumeClaim.. **Bonus** [French version](https://ibd.sh/memo-k8s). Via
+* [Helm Quickstart Guide](https://ibd.sh/helm) - This guide covers how you can quickly get started using Helm.
 
 > Tools
 * [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
