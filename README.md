@@ -1697,6 +1697,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [subredditstats.com](https://subredditstats.com/subreddit-user-overlaps/) - Find Related Subreddits By User/Redditor Overlap
 * [Reddit Bests](https://redditbests.com) - Discover top products recommended by redditors
 * [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** [Explore catalogue updates by country](https://unogs.com/countrydetail)
+* [You.com](https://you.com/) - The private search engine that summarizes the best parts of the internet for you, without privacy-invading ads and with great privacy | Note that anyway they share some data with third party as mentioned in their [Privacy](https://you.com/legal/privacy) guide but they try to limit the amount of data collected, in order to offer the best of privacy and customised experienced. 
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
@@ -3514,6 +3515,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Fediverse Observer](https://fediverse.observer/) - Fediverse Servers Status. Find a Fediverse server to sign up for, find one close to you! **See also** [Stats](https://fediverse.observer/stats) and [Map view of All](https://fediverse.observer/map) | The Fediverse (a portmanteau of "federation" and "universe") is an ensemble of federated (i.e. interconnected) servers that are used for web publishing (i.e. social networking, microblogging, blogging, or websites) and file hosting, but which, while independently hosted, can communicate with each other. 
 * [tryLiberty.org](https://tryliberty.org/about) - is a way to join the Fediverse, to be part of a community, and to reclaim your freedom of speech in social media. Find here free,open source and privacy respecting services and alternatives to privative services.
 * [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - "Government is not the solution to our problem; government is the problem" **See also** [App ratings](https://www.securemessagingapps.com/ratings/)
+* [You.com](https://you.com/) - The private search engine that summarizes the best parts of the internet for you, without privacy-invading ads and with great privacy | Note that anyway they share some data with third party as mentioned in their [Privacy](https://you.com/legal/privacy) guide but they try to limit the amount of data collected, in order to offer the best of privacy and customised experienced. 
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
