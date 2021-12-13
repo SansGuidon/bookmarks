@@ -25,7 +25,7 @@
 * [SlideShare](https://www.slideshare.net//tag/ansible) - ansible related slideshares
 * [Google Search](https://www.google.be/search?q=why+devops+is+bad) - Why devops is bad
 * [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
-* [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=morgangeek&src=typd&lang=fr) - latest MorganGeek mentions & tweets
+* [Twitter](https://twitter.com/search?q=%40morgangeek&f=live) - latest MorganGeek mentions & tweets
 * [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content
 * [Google Search](https://www.google.be/search?q=what%20are%20the%20worst%20programming%20practices) - what are the worst programming practices
 * [Google Search](https://www.google.be/search?q=what%20are%20the%20worst%20foods%20to%20eat) - what are the worst foods to eat ?
