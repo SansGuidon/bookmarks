@@ -492,6 +492,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
 * [EPUB to MOBI Converter](https://convertio.co/epub-mobi/) - Convert your epub files to mobi online & free
 * [Google Books](https://books.google.com/) - Search the world's most comprehensive index of full-text books
+* [CloudConvert](https://cloudconvert.com/epub-to-pdf) - EPUB to PDF Converter | with support for EPUB, PDF, AZW and CBZ amongst many others.
 
 > Book Suggestions
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -1927,6 +1928,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Framalibre](https://framalibre.org/alternatives) - :fr: [FR] Entrez le nom d'un logiciel privateur et découvrez les alternatives libres
 * [Framalibre](https://framalibre.org/annuaires/logiciel) - :fr: [FR] Découvrez des logiciels libres
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
+* [CloudConvert](https://cloudconvert.com/epub-to-pdf) - EPUB to PDF Converter | with support for EPUB, PDF, AZW and CBZ amongst many others.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
