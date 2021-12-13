@@ -9,8 +9,8 @@ Contributions are more than welcome. Read the [contribution guidelines](CONTRIBU
 by [**MorganGeek**](https://blog.morgangeek.be/) - **Mastodon** : [@MorganGeek@mamot.fr](https://mamot.fr/@MorganGeek)
 
 ### Legend
-* :star: Resources I love and visit often
-* :fire: Resources I keep revisiting often
+* :star: Resources I like so much.
+* :fire: Resources I keep revisit again and again.
 
 How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or [![Share on Twitter][img-twitter]][twitter]
 
