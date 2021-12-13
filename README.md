@@ -853,6 +853,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Kawai](https://delishably.com/beverages/Simple-things-you-can-do-to-get-barista-style-coffee) - (2020) 5 Simple Things You Can Do to Get Barista-Style Coffee
 * [Reddit](https://www.reddit.com/r/AeroPress/) - AeroPress tips & tricks
 * [Homegrounds](https://www.homegrounds.co/coffee-grind-chart/) - (2017) The Last Coffee Grind Size Chart You’ll Ever Need
+* [Arlette Kabore](https://misterbarish.fr/conservation-du-cafe/) - 🇫🇷 [FR] (2021) Conservez mieux le café avec ces 12 conseils
+* [Mister Barish](https://misterbarish.fr/base-de-connaissances-cafe/mousse-de-lait/) - 🇫🇷 [FR] Mousse de lait
+* [Mister Barish](https://misterbarish.fr/reglage-sage-barista-express-machine-a-expresso/) - 🇫🇷 [FR] Réglage de la Sage Barista Express
+* [Just Coffee And Me](https://www.coffeebeans101.com/equipment/coffee-machine/breville-barista-express-review/) - 7 Tips To Brew Better Coffee With The Breville Barista Express
 
 > Tools
 * [Café Mag](https://www.cafemag.fr/la-carte-du-cafe-de-specialite/) - :fr: [FR] La carte du café de spécialité | Une carte interactive et collaborative référençant les adresses qui torréfient et/ou proposent du café de spécialité en France et pays francophones.
