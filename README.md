@@ -1425,7 +1425,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Data Gueule (DTG)](https://www.youtube.com/user/datagueule/) - [Videos] [FR] :fr: #Datagueule, l'émission qui décode les mécanismes de notre société... avec des chiffres ! Datagueule is a french youtube program that decrypts how society functions and provide actual figures
 * [FOSDEM](https://video.fosdem.org/) - video recordings from FOSDEM events (linux, containers, free software, open source, programming, ...)
 * [Courseroot](https://courseroot.com/) - Review the best online courses on the internet in one place
-* :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* :fire: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [Ramène Ta Science (alias RTS)](https://www.geekzone.fr/rts/) - :fr: [FR] podcast de vulgarisation scientifique de Geekzone
 * [Morgan Housel](http://www.collaborativefund.com/blog/how-to-read-financial-news/) - (2017) How To Read Financial News
 * [Chengeer Lee](https://medium.com/@chengeerlee/f-motivation-12f62008f3b) - (2017) Fuck Motivation!
@@ -1554,7 +1554,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
 * :star: [**/r/piracy**](https://www.reddit.com/r/Piracy/) - piracy on reddit
 * :fire: [**Library Genesis**](https://libgen.is/) - ebooks and scientific articles. **Bonus** : [Mirror #1](http://gen.lib.rus.ec/), [Mirror #2 with nice UI](https://libgen.me/), [Mirrors list](http://sguru.org/libgen-proxy/)
-* :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* :fire: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * :fire: [**ZLibrary**](https://b-ok.cc/) - The world's largest ebook library.
 * [Soulseek](http://www.slsknet.org/news/) - for hard to find music .
 * [RuTracker](https://rutracker.org/forum/index.php) - torrent for music
@@ -1764,7 +1764,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [XKPasswd](https://xkpasswd.net/s/) - secure memorable password generator inspired by [XKCD](http://xkcd.com/936/)
 * [WhatsMyIP](http://www.whatsmyip.org/random-password-generator/) - password generator & other text related tools (hash lookup, regex tester)
 * :star: [**YouTube to MP3 converter**](https://ytmp3.cc/)
-* :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* :fire: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [Cached View](http://www.cachedview.com/) - Google + Wayback machine Cached Pages of any website
 * [ChangeDetection](https://www.changedetection.com/) - Know automatically when any web page changes
 * [WhatsMyIP](http://www.whatsmyip.org/port-scanner/) - Port scanners & other networking tools
@@ -4959,7 +4959,7 @@ rpm --rebuilddb
 * [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX
 
 # Web archive / nostalgia
-* :star: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* :fire: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [Julia Geist](https://hackernoon.com/guide-to-handling-internet-archives-cdx-server-api-response-c469df5b81f4) - (2017) Guide to Handling Internet Archive’s CDX Server API Response. **Examples** :
  * `http://web.archive.org/cdx/search/cdx?limit=1&showResumeKey=true&url=<URL>`
  * `https://archive.org/wayback/available?timestamp=19010101010101&url=<URL>`
