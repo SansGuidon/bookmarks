@@ -1754,6 +1754,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 * [tryLiberty.org](https://tryliberty.org/about) - is a way to join the Fediverse, to be part of a community, and to reclaim your freedom of speech in social media. Find here free, open source and privacy respecting services and alternatives to privative services.
 * [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - "Government is not the solution to our problem; government is the problem" **See also** [App ratings](https://www.securemessagingapps.com/ratings/)
+* [Privacy Guides](https://www.privacyguides.org/) - Look at the [Providers](https://www.privacyguides.org/providers/) and [Software](https://www.privacyguides.org/software/) sections to find their privacy first recommendations to a variety of services.
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -3530,6 +3531,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [tryLiberty.org](https://tryliberty.org/about) - is a way to join the Fediverse, to be part of a community, and to reclaim your freedom of speech in social media. Find here free,open source and privacy respecting services and alternatives to privative services.
 * [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - "Government is not the solution to our problem; government is the problem" **See also** [App ratings](https://www.securemessagingapps.com/ratings/)
 * [You.com](https://you.com/) - The private search engine that summarizes the best parts of the internet for you, without privacy-invading ads and with great privacy | Note that anyway they share some data with third party as mentioned in their [Privacy](https://you.com/legal/privacy) guide but they try to limit the amount of data collected, in order to offer the best of privacy and customised experienced. 
+* [Privacy Guides](https://www.privacyguides.org/) - Look at the [Providers](https://www.privacyguides.org/providers/) and [Software](https://www.privacyguides.org/software/) sections to find their privacy first recommendations to a variety of services.
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
