@@ -6,7 +6,7 @@
 
 Contributions are more than welcome. Read the [contribution guidelines](CONTRIBUTING.md).
 
-by [**MorganGeek**](https://blog.morgangeek.be/) - **Mastodon** : [@MorganGeek@mamot.fr](https://mamot.fr/@MorganGeek)
+by [**MorganGeek**](https://blog.morgangeek.be/) - **Mastodon** : [@MorganGeek@mamot.fr](https://mamot.fr/@MorganGeek) - **Diaspora** : morgangeek@diaspora-fr.org
 
 ### Legend
 * :star: Resources I like so much.
