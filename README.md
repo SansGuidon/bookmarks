@@ -3497,7 +3497,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 * [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
 * [GhostProject](https://ghostproject.fr/) - Find leaked passwords. Search by full email address or username
-* [Account Killer](https://www.accountkiller.com/en/) - Super simple instructions to delete just about any online account or profile, on popular websites / app. **Bonus** : [SiteCheck bookmarklet](https://www.accountkiller.com/en/site-check) - it quickly checks if you can easily delete your account, in one click.
+* [Account Killer](https://www.accountkiller.com/en/) - Super simple instructions to delete just about any online account or profile, on popular websites / app.
 * [Webbkoll](https://webbkoll.dataskydd.net/en/) - How privacy-friendly is your site? An online tool that checks how a website is doing with regards to privacy.
 * [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
 * [switching.social](https://switching.social/) - ethical, easy-to-use and privacy-conscious alternatives to popular sites and apps
