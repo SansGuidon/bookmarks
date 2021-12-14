@@ -1596,7 +1596,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [torrents.me](https://torrents.me/) - good torrent indexer (lot of content), but results quality may depend on your criteria
 * [TorrentProject](https://torrentproject.se/) - torrent indexer with lot of content
 * [TwoDDL](https://2ddl.unblocked.srl/) - a place for direct download links, but not the best
-* [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
+* [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://www.privacytools.io/#search)
 * [WikiLeaks](https://wikileaks.org/) - publishes full online archives of information that has been censored or suppressed, or is likely to be lost. **Related** : [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
 * [dvdcompare.net](http://dvdcompare.net/) - dvd & blu-ray informations & comparisons
 * [VileR](http://int10h.org/oldschool-pc-fonts/) - world's biggest collection of classic text mode fonts, system fonts and BIOS fonts from DOS-era IBM PCs and compatibles
@@ -1712,6 +1712,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 * :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * :star: [**AlternativeTo**](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
+* :star: [**Privacy tools**](https://www.privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
+* [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
 * [Superbly Space](http://superbly.space/directory-categories/) - inventory of valuable quality softwares, services, websites, usually matching the ones I look for
 * [Product Hunt](http://500makers.com/) - a list of top 500 makers on [Product Hunt](https://www.producthunt.com/)
@@ -3461,7 +3463,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Viktor Vecsei](https://www.ivpn.net/blog/why-you-dont-need-a-vpn/) - (2020) Why you don't need a VPN
 
 ## Privacy tools
-* :star: [**Privacy tools**](https://privacytoolsio.github.io/privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
+* :star: [**Privacy tools**](https://www.privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
 * [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 * [have i been pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [have i been pwned](https://haveibeenpwned.com/Passwords) - Check if your password may have been compromised in a data breach
@@ -3478,7 +3480,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Am I unique](https://amiunique.org/fp) - Test : are you unique ? (what your fingerprint reveals about you)
 * :star: [**Air Mail**](http://en.getairmail.com/) - temporary email service
 * [nBox](https://nbox.notif.me/) - fake email service, create as many fake emails you wish for protecting your privacy
-* [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://privacytoolsio.github.io/privacytools.io/#search)
+* [DuckDuckGo](https://duckduckgo.com/) - a search engine that emphasizes protecting searchers' privacy. **Related** : [Suggested search engines by PrivacyTools](https://www.privacytools.io/#search)
 * [That One Privacy Guy](https://thatoneprivacysite.net/) - That One Privacy Site : a resource for those who value their privacy, with amazing comparisons of existing [VPN](https://thatoneprivacysite.net/simple-vpn-comparison-chart/) / [Emails](https://thatoneprivacysite.net/simple-email-comparison-chart/) services
 * [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics with step by step instructions
 * [Reset The Net](https://pack.resetthenet.org/) - Privacy Pack : applications for your phone and computer
