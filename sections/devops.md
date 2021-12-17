@@ -1280,6 +1280,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 ## Terraform
 See also [Infrastructure](README.md#infrastructure)
 
+> News
+* [Terraform Blog](https://www.hashicorp.com/blog/products/terraform)
+* [Gruntwork Blog](https://blog.gruntwork.io/) - Get up and running on AWS with DevOps best practices and world-class infrastructure in about 2 weeks. 
+
 > Learn
 * [HashiCorp](https://www.hashicorp.com/resources) - Resource Library | Learn how to provision, secure , connect , and run any infrastructure for any application
 * [Kevin London](https://www.kevinlondon.com/2016/09/20/devops-from-scratch-pt-2.html) - (2016) DevOps from Scratch, Part 2: Amazon & Terraform
