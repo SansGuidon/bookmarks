@@ -1864,6 +1864,10 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [RePokémon](https://cheeaun.github.io/repokemon/) - Showcase of GitHub repos with Pokémon names
 
 ## Prolog
+> News
+* [PrologHub - Blog](https://prologhub.com/) - is dedicated to bringing together the Prolog community to share ideas and knowledge.
+
+> Learn
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/) - Prolog programming guidelines
 * [Sylvain Soliman's Den](https://lifeware.inria.fr/~soliman/post/prolog_executables/) - Creating Prolog executables
 * [SWISH](https://swish.swi-prolog.org/) - free online SWI-Prolog web IDE. **Bonus** : git repo [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish)
@@ -1876,6 +1880,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Logtalk](https://logtalk.org/) - is a declarative object-oriented logic programming language that extends and leverages the Prolog language with modern code encapsulation and code reuse mechanisms while also providing improved predicate semantics.
 * [MorganGeek](https://gist.github.com/MorganGeek/660e55cfbb8f8e82e77d06618802ea79) - (gist) Install SWI-Prolog and Logtalk on CentOS. **Bonus** : Dockerfile provided.
 * [Mr. Bad, Crackmonkey](http://www.pigdog.org/auto/mr_bads_list/shortcolumn/1914.html) - (2001) Things to Say When You're Losing a Technical Argument
+* [/r/prolog/](https://www.reddit.com/r/prolog/) - Prolog on Reddit
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
