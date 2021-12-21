@@ -1431,6 +1431,11 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 
 ## Kafka
+> News
+* [Confluent Blog](https://www.confluent.io/blog/) - Tutorials, Tips, and News Updates
+* [The Apache Software Foundation Blogs](https://blogs.apache.org/kafka/) - Kafka news
+
+> Learn
 * [Ruurtjan Pul](https://scribe.rip/understanding-kafka-with-factorio-74e8fc9bf181) - (2018) Understanding Kafka with Factorio
 
 ## Kotlin
