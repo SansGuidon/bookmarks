@@ -1755,6 +1755,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [tryLiberty.org](https://tryliberty.org/about) - is a way to join the Fediverse, to be part of a community, and to reclaim your freedom of speech in social media. Find here free, open source and privacy respecting services and alternatives to privative services.
 * [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - "Government is not the solution to our problem; government is the problem" **See also** [App ratings](https://www.securemessagingapps.com/ratings/)
 * [Privacy Guides](https://www.privacyguides.org/) - Look at the [Providers](https://www.privacyguides.org/providers/) and [Software](https://www.privacyguides.org/software/) sections to find their privacy first recommendations to a variety of services.
+* [European alternatives](https://european-alternatives.eu/) - European alternatives for digital products | find european alternatives for digital service and products, like cloud services and SAAS products.
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
