@@ -3432,6 +3432,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [DuckDuckGo](https://spreadprivacy.com/privacy-tips/home) - Fix Tracking : how to stop getting tracked on desktop and mobile
 * [PrivacyAngel](https://privacyangel.com/) - Better protect your privacy online | Know which data you share for each popular online services.
 * [DesGeeksetdeslettres](https://desgeeksetdeslettres.com/) - :fr: [FR] fournit des outils et des connaissances pour protéger votre vie privée contre la surveillance massive mondiale. Ce blog anime depuis 2009 une communauté florissante d'individus soucieux de la protection de la vie privée et s'informe au jour le jour des nouvelles avancées en matière de protection de vos données en ligne.
+* [RestorePrivacy](https://restoreprivacy.com/) - Your online privacy resource center
 
 > Learn
 * [Mo Bitar](https://dev.to/bitario/privacy-is-power) - Privacy is Power
@@ -3535,7 +3536,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Privacy Guides](https://www.privacyguides.org/) - Look at the [Providers](https://www.privacyguides.org/providers/) and [Software](https://www.privacyguides.org/software/) sections to find their privacy first recommendations to a variety of services.
 * [European alternatives](https://european-alternatives.eu/) - European alternatives for digital products | find european alternatives for digital service and products, like cloud services and SAAS products.
 * [AlternativeTo](https://alternativeto.net/platform/self-hosted/?license=opensource) - Open Source Self-Hosted apps on AlternativeTo
-* [Restore Privacy](https://restoreprivacy.com/firefox-privacy/) - (2021) Firefox Privacy – The Complete How-To Guide for 2021
+* [Sven Taylor](https://restoreprivacy.com/firefox-privacy/) - (2021) Firefox Privacy – The Complete How-To Guide for 2021
+* [Sven Taylor](https://restoreprivacy.com/privacy-tools/) - (2021) Privacy Tools - How to restore your online privacy in 2021
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
