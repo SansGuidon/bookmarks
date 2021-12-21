@@ -3535,6 +3535,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Privacy Guides](https://www.privacyguides.org/) - Look at the [Providers](https://www.privacyguides.org/providers/) and [Software](https://www.privacyguides.org/software/) sections to find their privacy first recommendations to a variety of services.
 * [European alternatives](https://european-alternatives.eu/) - European alternatives for digital products | find european alternatives for digital service and products, like cloud services and SAAS products.
 * [AlternativeTo](https://alternativeto.net/platform/self-hosted/?license=opensource) - Open Source Self-Hosted apps on AlternativeTo
+* [Restore Privacy](https://restoreprivacy.com/firefox-privacy/) - (2021) Firefox Privacy – The Complete How-To Guide for 2021
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
