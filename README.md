@@ -1756,6 +1756,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - "Government is not the solution to our problem; government is the problem" **See also** [App ratings](https://www.securemessagingapps.com/ratings/)
 * [Privacy Guides](https://www.privacyguides.org/) - Look at the [Providers](https://www.privacyguides.org/providers/) and [Software](https://www.privacyguides.org/software/) sections to find their privacy first recommendations to a variety of services.
 * [European alternatives](https://european-alternatives.eu/) - European alternatives for digital products | find european alternatives for digital service and products, like cloud services and SAAS products.
+* [Random-ize](https://www.random-ize.com/random-website/) - Weird, Odd, Funny and Interesting Websites | Bored with the web? Think you've seen it all? Surf the web a new way with this random website generator. Bounce around thousands of crazy, pointless, funny, intereractive, informative and interesting webistes made by the most odd people online. And that says something.
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -2447,6 +2448,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party or die
 * [Michael Küsters](https://docs.google.com/document/u/1/d/1-2aZP3BlctQrWP8bNpSxkVBKphypALPINUGGTn26els/mobilebasic) - (2019) The Scream Guide - A comprehensive Guide to Scream: When Scrum would require too much change! (Parodic guide to Scrum)
 * [Gérard Villemin](http://villemin.gerard.free.fr/Humour/aaaCalem/CalembA.htm#top) - 🇫🇷 [FR] Une tonne de jeux de mots & calembours par ordre alphabétique. **Voir aussi** [Humour & Pensées - Table des matières](http://villemin.gerard.free.fr/Humour/HumouTdM.htm)
+* [Random-ize](https://www.random-ize.com/random-website/) - Weird, Odd, Funny and Interesting Websites | Bored with the web? Think you've seen it all? Surf the web a new way with this random website generator. Bounce around thousands of crazy, pointless, funny, intereractive, informative and interesting webistes made by the most odd people online. And that says something.
 
 # Images / Wallpapers
 * [NASA](https://apod.nasa.gov/apod/archivepix.html) - Astronomy Picture of the Day Archive
@@ -3547,6 +3549,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Koreus](https://www.koreus.com/videos/koreusity/nouveau/) - :fr: [FR] [Video] Vidéos récentes : Koreusity, le zapping du web | Zapping hebdomadaire des vidéos à la con du web
 * [Timeless Hacker News](https://thn.rakhim.org/) - refresh for 30 random good posts
 * [Reddit Favorites](https://redditfavorites.com/youtube_videos) - What are reddit's favorite Youtube videos? | From 3.5 billion comments (number from Sept. 13, 2021)
+* [Random-ize](https://www.random-ize.com/random-website/) - Weird, Odd, Funny and Interesting Websites | Bored with the web? Think you've seen it all? Surf the web a new way with this random website generator. Bounce around thousands of crazy, pointless, funny, intereractive, informative and interesting webistes made by the most odd people online. And that says something.
 
 # Productivity :fast_forward:
 > News
