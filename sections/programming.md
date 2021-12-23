@@ -1437,6 +1437,10 @@ See also [Shell aliases](../README.md#shell-aliases)
 
 > Learn
 * [Ruurtjan Pul](https://scribe.rip/understanding-kafka-with-factorio-74e8fc9bf181) - (2018) Understanding Kafka with Factorio
+* [Antoine Veuiller](https://hackernoon.com/the-apprentices-guide-to-apache-kafka-n31w35ef) - (2021) The Apprentice's Guide to Apache Kafka
+* [sudan](https://ssudan16.medium.com/kafka-internals-47e594e3f006) - (2019) Apache Kafka Internals
+* [Tim Berglund](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH) - [Videos] Apache Kafka® Tutorials | Kafka 101
+* [Confluent](https://kafka-tutorials.confluent.io/) - Kafka Tutorials: Learn Kafka with End-to-End Code Examples
 
 ## Kotlin
 * [Kotlin Docs](https://kotlinlang.org/docs/reference/comparison-to-java.html) - Comparison to Java Programming Language
