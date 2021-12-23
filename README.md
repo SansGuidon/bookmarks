@@ -491,12 +491,16 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [A random quote](http://arandomquote.com/books/) - Short summaries of books / Great books summarized in 5 quotes or less
 * [Ayooluwa Isaiah](https://freshman.tech/philosophy-of-software-design-summary/) - (2021) Book summary: A Philosophy of Software Design 
 * [Hugo Matilla/Refactoring-Summary](https://github.com/HugoMatilla/Refactoring-Summary) - Summary of "Refactoring: Improving the Design of Existing Code" by Martin Fowler
+* [Bookstash](https://bookstash.io/) - Top books recommended by famous folk, in 3m or less.
+> “‘I read it on Bookstash’, or how to pretend you’re smart while actually being smart.” - Alberto Heinstein
 
 > Tools
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
 * [EPUB to MOBI Converter](https://convertio.co/epub-mobi/) - Convert your epub files to mobi online & free
 * [Google Books](https://books.google.com/) - Search the world's most comprehensive index of full-text books
 * [CloudConvert](https://cloudconvert.com/epub-to-pdf) - EPUB to PDF Converter | with support for EPUB, PDF, AZW and CBZ amongst many others.
+* [Bookstash](https://bookstash.io/) - Top books recommended by famous folk, in 3m or less.
+> “‘I read it on Bookstash’, or how to pretend you’re smart while actually being smart.” - Alberto Heinstein
 
 > Book Suggestions
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -3981,6 +3985,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
 * [ThatCoupon](https://www.thatcoupon.com/) - Tired of clipping coupons and scouring the internet for deals and promotional codes? So are we. This website makes it easy for shoppers to find and share the best deals and coupons. No hunting, no hassle, and no scissors required.
 * [DuckDuckGo Bang!](https://duckduckgo.com/bang) - Bangs are shortcuts that quickly take you to search results on other sites.
+* [Bookstash](https://bookstash.io/) - Top books recommended by famous folk, in 3m or less.
+> “‘I read it on Bookstash’, or how to pretend you’re smart while actually being smart.” - Alberto Heinstein
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
