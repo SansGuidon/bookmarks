@@ -2291,6 +2291,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Goomics](https://goomics.net/) - Comics about life at Google
 * [Cate Huston](https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job/) - (2021) 5 Signs It’s Time to Quit Your Job
 
+> Tools
+* [you feel like shit 💩](https://youfeellikeshit.com/) - a self care game | This game guides you through a series of questions that help you practice self care / help yourself through your shitty times.
+ 
 ## Remote work
 > Finding a remote job
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
