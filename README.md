@@ -4203,6 +4203,7 @@ See also [Machine learning](sections/programming.md#machine-learning)
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
 * [Karen Hao](https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data) - (2020) A radical new technique lets AI learn with practically no data | “Less than one”-shot learning can teach a model to identify more objects than the number of examples it is trained on.
 * [YourThings Scorecard](https://yourthings.info/scorecards/) - Evaluating and scoring smart-home devices to improve security! Learn how (in)secure your IoT devices are
+* [ideabot.io](https://ideabot.io/product-prediction) - Product prediction : What will they create next? GPT-3 predicts what the top makers will build based on their previous launches and these are the results
 
 # Shell scripting
 See also [CLI Tools](#cli-tools)
