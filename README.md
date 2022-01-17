@@ -2739,6 +2739,7 @@ rpm --rebuilddb
 * [romainl/vim-gists.md](https://gist.github.com/romainl/4b9f139d2a8694612b924322de1025ce) - Vim-related gists
 * [Matthieu Cneude](https://thevaluable.dev/vim-advanced/) - A Vim Guide for Advanced Users
 * [Matthieu Cneude](https://thevaluable.dev/vim-expert/) - A Vim Guide For Experts
+* [Vimways](https://vimways.org/) - is a Vim-themed advent calendar. Largely inspired by the early [24ways](https://24ways.org/), their primary goal is to publish one high quality article about Vim per day during the twenty-four days before Christmas.
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
