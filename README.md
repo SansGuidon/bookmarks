@@ -4861,6 +4861,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - 🇧🇪 [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 * [Virtual Vacation](https://virtualvacation.us/) - The website that lets you experience the world from home!
 * [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
+* [Rome2rio](https://www.rome2rio.com/) - Discover how to get anywhere by plane, train, bus, ferry & car
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
