@@ -3550,6 +3550,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Sven Taylor](https://restoreprivacy.com/firefox-privacy/) - (2021) Firefox Privacy – The Complete How-To Guide for 2021
 * [Sven Taylor](https://restoreprivacy.com/privacy-tools/) - (2021) Privacy Tools - How to restore your online privacy in 2021
 * [PrivacyTests.org](https://privacytests.org/) - is an open-source initiative that subjects popular web browsers to a suite of automated tests. These tests are designed to audit web browsers' privacy properties in an unbiased manner.
+* [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Alternative privacy-respecting frontends for popular services 🔐🌐
 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
