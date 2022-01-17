@@ -1181,6 +1181,7 @@ psql -f db.out postgres
 * [Mislav Marohnić](https://changelog.com/posts/git-is-simply-too-hard) - (2020) Git is simply too hard | whatever comes next should be closer to how humans think
 * [Fossil](https://fossil-scm.org/home/doc/trunk/www/quickstart.wiki) - Fossil Quick Start : This is a guide to help you get started using the Fossil Distributed Version Control System quickly and painlessly.
 * [Fossil](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki) - Fossil Versus Git | an overiew, by Fossil, of all of that similarity and interoperability aside and focus on the important differences between the two, especially those that impact the user experience.
+* [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once - Best Practices vary from environment to environment, and there is no One True Answer, but still, this represents a consensus from #git and in some cases helps you frame the discussion for the generation of your very own best practices. **Bonus** [Source code](https://github.com/SethRobertson/GitBestPractices/blob/gh-pages/index.md)
 
 ### Dotfiles / Aliases
 See also [Shell aliases](../README.md#shell-aliases)
