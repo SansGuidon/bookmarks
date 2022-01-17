@@ -1424,6 +1424,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [Viral Shah](https://blog.usejournal.com/little-known-features-of-javascript-901665291387) - (2018) Little known features of JavaScript | Void operator, With statement, and other things.
 * [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
 * [StackShare](https://stackshare.io/javascript-ui-libraries) - popular JavaScript UI libraries on StackShare
+* [JavaScript Rising Stars](https://risingstars.js.org) - If you took a break to escape the JavaScript fatigue, you are in the right place! 
 
 > Tools
 * [JSONLint](https://jsonlint.com/) - JSON validator
@@ -1431,6 +1432,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [BundlePhobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 * [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+* [JavaScript Rising Stars](https://risingstars.js.org) - If you took a break to escape the JavaScript fatigue, you are in the right place! 
 
 ## Kafka
 > News
