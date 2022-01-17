@@ -2735,6 +2735,8 @@ rpm --rebuilddb
 * [VimTricks Archives](https://vimtricks.substack.com/archive) - Vim tricks, tips, plugins, recipes, and more. Learn valuable tips to hone your Vim skills - either novice or advanced!
 * [Alexander González Fertel](https://alexfertel.hashnode.dev/vim-is-actually-worth-it) - (2021) Vim is actually worth it
 * [romainl/vim-gists.md](https://gist.github.com/romainl/4b9f139d2a8694612b924322de1025ce) - Vim-related gists
+* [Matthieu Cneude](https://thevaluable.dev/vim-advanced/) - A Vim Guide for Advanced Users
+* [Matthieu Cneude](https://thevaluable.dev/vim-expert/) - A Vim Guide For Experts
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
