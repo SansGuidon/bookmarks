@@ -2740,7 +2740,8 @@ rpm --rebuilddb
 * [Matthieu Cneude](https://thevaluable.dev/vim-advanced/) - A Vim Guide for Advanced Users
 * [Matthieu Cneude](https://thevaluable.dev/vim-expert/) - A Vim Guide For Experts
 * [Vimways](https://vimways.org/) - is a Vim-themed advent calendar. Largely inspired by the early [24ways](https://24ways.org/), their primary goal is to publish one high quality article about Vim per day during the twenty-four days before Christmas.
-
+* [Danilo Spinella](https://danyspin97.org/blog/fancy-vim-plugins/) - (2018) Fancy Vim Plugins
+ 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
 * [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
