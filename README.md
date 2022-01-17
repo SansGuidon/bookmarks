@@ -343,6 +343,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > * Have to be a killer app, or they need one.
 * [Kamil Grzybek](https://www.kamilgrzybek.com/design/feature-folders/) - (2018) Feature Folders | on codebase design
 * [Ning T.](https://blog.proto.io/10-uniquely-beautiful-coffee-makers/) - (2015) 10 Uniquely Beautiful Coffee Makers
+* [Principles.dev](https://principles.dev/) - Open-source Software Engineering and Leadership principles | Make better decisions using principles - For Software Engineers and technical leaders who want better results.
 
 # Art :art:
 > News
