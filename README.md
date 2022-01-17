@@ -2662,6 +2662,7 @@ rpm --rebuilddb
 * [Jeffrey Paul](https://sneak.berlin/20191011/stupid-unix-tricks/) - (2019) Stupid Unix Tricks
 * [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+* [unixnut/scripts](https://github.com/unixnut/scripts) - Small, useful platform-agnostic scripts (mostly just for Linux) that don't justify having their own repo | Lot of cool scripts to take inspiration from.
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -4349,6 +4350,7 @@ type `curl ident.me` to know your public ip
 * [devhints](https://devhints.io/vimscript) - Vim scripting cheatsheet
 * [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
 * [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
+* [unixnut/scripts](https://github.com/unixnut/scripts) - Small, useful platform-agnostic scripts (mostly just for Linux) that don't justify having their own repo | Lot of cool scripts to take inspiration from.
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
