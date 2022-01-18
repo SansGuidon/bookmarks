@@ -5075,7 +5075,12 @@ rpm --rebuilddb
 * [JAMstack Themes](https://jamstackthemes.dev/ssg/) - Themes for Static Site Generators | for Hugo, Hexo, Gatsby, Eleventy (11ty), Vuepress, Pelican, Jekyll, Mkdocs, etc
 * [Alex so yes](https://alexsoyes.com/eco-conception-web/) - :fr: [FR] (2021) Comment coder un site écologique ? Devenir un développeur green avec l’éco-conception web
 * [Unix Sheikh](https://www.unixsheikh.com/articles/javascript-malware-infested-nightmare.html) - (2021) JavaScript malware infested nightmare | some rant
-
+* [Ben Hoyt](https://benhoyt.com/writings/the-small-web-is-beautiful/) - (2021) The small web is beautiful
+> * Fewer moving parts. It’s easier to create more robust systems and to fix things when they do go wrong.
+> * Small software is faster. Fewer bits to download and clog your computer’s memory.
+> * Reduced power consumption. This is important on a “save the planet” scale, but also on the very local scale of increasing the battery life of your phone and laptop.
+> * The light, frugal aesthetic. That’s personal, I know, but as you’ll see, I’m not alone.
+ 
 ## Web development checklists / best practices
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
 * [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
