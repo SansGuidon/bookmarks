@@ -1431,6 +1431,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
 * [StackShare](https://stackshare.io/javascript-ui-libraries) - popular JavaScript UI libraries on StackShare
 * [JavaScript Rising Stars](https://risingstars.js.org) - If you took a break to escape the JavaScript fatigue, you are in the right place! 
+* [Unix Sheikh](https://www.unixsheikh.com/articles/javascript-malware-infested-nightmare.html) - (2021) JavaScript malware infested nightmare | some rant
 
 > Tools
 * [JSONLint](https://jsonlint.com/) - JSON validator
