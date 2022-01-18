@@ -1335,7 +1335,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - Love what you build. Build what you love.
 * [Lin Taylor](http://linbug.github.io/self-improvement/personal%20tracking/imposter%20syndrome/2017/09/30/How-I-hacked-my-imposter-syndrome-using-personal-tracking/) - (2017) How I hacked my imposter syndrome using personal tracking
 * [spammimic](http://www.spammimic.com/) - encode your secret message into something innocent looking.
-* [Lionel Dricot](http://ploum.net/votre-idee-ne-vaut-rien/) - [FR] :fr: Votre idée ne vaut rien
+* [Lionel Dricot aka PLOUM](http://ploum.net/votre-idee-ne-vaut-rien/) - [FR] :fr: Votre idée ne vaut rien
 * [Brian Kelly](https://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/) - (2013) UX, Then Architecture, Then Tools
 * [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) - How to break creative blocks by encouraging lateral thinking.
 * [Greg Kogan](https://www.gkogan.co/blog/reject-first-ideas/) - (2017) Reject the First Ideas
@@ -3480,7 +3480,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Finn Brunton & Helen Nissenbaum](https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/) - (2019) The Fantasy of Opting Out
 > There is no simple solution to the problem of privacy, because privacy itself is a solution to societal challenges that are in constant flux. If the apparatus of total surveillance that we have described here were deliberate, centralized, and explicit, a Big Brother machine toggling between cameras, it would demand revolt, and we could conceive of a life outside the totalitarian microscope.
 * [The Free Software Foundation](https://www.fsf.org/givingguide/v11/) - (2020) Ethical Tech Giving Guide - Does the gift you're giving your loved ones put someone else in control?
-* [Lionel Dricot](https://ploum.net/gemini-le-protocole-du-slow-web/) - (2020) 🇫🇷 [FR] Gemini, le protocole du slow web
+* [Lionel Dricot aka PLOUM](https://ploum.net/gemini-le-protocole-du-slow-web/) - (2020) 🇫🇷 [FR] Gemini, le protocole du slow web
 * [Eddie Barraco](https://www.synbioz.com/blog/tech/gemini-avenir-du-web) - (2021) 🇫🇷 [FR] Gemini, l'avenir du Web ?
 * [Aliza Vigderman & Gabe Turner](https://www.security.org/vpn/anonymity/) - (2021) How To Remain Anonymous on the Internet | Learn over 20 ways to stay as private as possible on the web.
 * [Viktor Vecsei](https://www.ivpn.net/blog/why-you-dont-need-a-vpn/) - (2020) Why you don't need a VPN
@@ -3670,6 +3670,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Justin Garrison](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - (2021) The Document Culture of Amazon
 * [Mike Crittenden](https://critter.blog/2021/04/20/future-you-will-be-as-busy-as-current-you/) - (2021) Future-you will be as busy as current-you
 * [Jane Elliott PhD](https://medium.com/counterarts/you-are-not-lazy-or-undisciplined-you-are-experiencing-internal-resistance-755a02673aa9) - (2021) You are Not Lazy or Undisciplined. You Have Internal Resistance. | Why you can’t just do it, and what to do instead
+* [Lionel Dricot aka PLOUM](https://ploum.net/1er-janvier-2022-quelques-minutes-apres-minuit/) - :fr: [FR] (2022) 1er janvier 2022, quelques minutes après minuit | PLOUM se déconnecte
 
 ## Productivity tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
@@ -4681,7 +4682,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
 * [Faut-il HTTPS sur mon site ?](https://faut-il-https-sur-mon-site.fr/) - [FR] :fr: does your site require HTTPS ?
 * [DigiCert SSL Certificate Checker](https://www.digicert.com/help/) - If you are having a problem with your SSL certificate installation, this diagnostic tool will help you locate the problem and verify your SSL Certificate installation.
-* [Lionel Dricot](https://ploum.net/gemini-le-protocole-du-slow-web/) - (2020) 🇫🇷 [FR] Gemini, le protocole du slow web
+* [Lionel Dricot aka PLOUM](https://ploum.net/gemini-le-protocole-du-slow-web/) - (2020) 🇫🇷 [FR] Gemini, le protocole du slow web
 * [Eddie Barraco](https://www.synbioz.com/blog/tech/gemini-avenir-du-web) - (2021) 🇫🇷 [FR] Gemini, l'avenir du Web ?
 * [PrivacyTests.org](https://privacytests.org/) - is an open-source initiative that subjects popular web browsers to a suite of automated tests. These tests are designed to audit web browsers' privacy properties in an unbiased manner.
 
