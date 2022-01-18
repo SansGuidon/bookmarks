@@ -148,6 +148,7 @@ How can you support me : [![Buy me a coffee][img-buymeacoffee]][buymeacoffee] or
   * [Lisp](sections/programming.md#lisp)
   * [Machine learning](sections/programming.md#machine-learning)
   * [Mobile development :iphone:](sections/programming.md#mobile-development-iphone)
+  * [PHP](sections/programming.md#php)
   * [Productivity :computer:](sections/programming.md#productivity-computer)
   * [Programmer humor](sections/programming.md#programmer-humor)
   * [Prolog](sections/programming.md#prolog)
