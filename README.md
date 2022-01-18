@@ -3562,7 +3562,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Sven Taylor](https://restoreprivacy.com/privacy-tools/) - (2021) Privacy Tools - How to restore your online privacy in 2021
 * [PrivacyTests.org](https://privacytests.org/) - is an open-source initiative that subjects popular web browsers to a suite of automated tests. These tests are designed to audit web browsers' privacy properties in an unbiased manner.
 * [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Alternative privacy-respecting frontends for popular services 🔐🌐
-
+* [YunoHost](https://yunohost.org/) - is an operating system aiming for the simplest administration of a server, and therefore democratize self-hosting, while making sure it stays reliable, secure, ethical and lightweight. It is a copylefted libre software project maintained exclusively by volunteers. Technically, it can be seen as a distribution based on Debian GNU/Linux and can be installed on many kinds of hardware.
+ 
 # Procrastinating :pig2: :dog2:
 * [Random Hunt](https://randomhunt.com/) - Like StumbleUpon, but for Product Hunt. Meaning : best of products, one random product at a time
 * [MorganGeek](https://www.morgangeek.be/minibifff.html) - Random Horror Show : some random short horror movies in loop. Inspired by the BIFFF and [Short of the Week / Short Horror Movies](https://www.shortoftheweek.com/channels/horror/)
@@ -4009,6 +4010,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Bookstash](https://bookstash.io/) - Top books recommended by famous folk, in 3m or less.
 > “‘I read it on Bookstash’, or how to pretend you’re smart while actually being smart.” - Alberto Heinstein
 * [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
+* [YunoHost](https://yunohost.org/) - is an operating system aiming for the simplest administration of a server, and therefore democratize self-hosting, while making sure it stays reliable, secure, ethical and lightweight. It is a copylefted libre software project maintained exclusively by volunteers. Technically, it can be seen as a distribution based on Debian GNU/Linux and can be installed on many kinds of hardware.
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
