@@ -3433,6 +3433,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Classic 21](https://www.rtbf.be/classic21/emissions/detail_les-podcasts-de-classic-21?programId=18188) - 🇧🇪 🇫🇷 [BE] [FR] Les podcasts de Classic 21
 * [The Shipt It! Podcast](https://changelog.com/shipit - A podcast about getting your best ideas into the world and seeing what happens.
 * [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 [FR] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
+* [La voix dans ta tête](https://lavoixdanstatete.com/) - :fr: [FR] ou lvdt.audio : catalogue de podcasts à écouter
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
