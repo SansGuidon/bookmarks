@@ -29,6 +29,7 @@
 * [Lisp](#lisp)
 * [Machine learning](#machine-learning)
 * [Mobile development :iphone:](#mobile-development-iphone)
+* [PHP](#php)
 * [Productivity :computer:](#productivity-computer)
 * [Programmer humor](#programmer-humor)
 * [Prolog](#prolog)
@@ -807,6 +808,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Matjaz Trcek](https://codeandunicorns.com/antipatterns-software-development/) - (2016) Antipatterns in software development
 * [learnk8s](https://learnk8s.io/production-best-practices) - Kubernetes production best practices | A curated checklist of best practices designed to help you release to production
 * [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes.
+* [PHP The Wrong Way](https://phpthewrongway.com/) - In the world of PHP programming, a set of trends are massively being propagated by some people (in their books and on websites) as “Modern PHP” while all other approaches are frowned upon as backward, stupid, or just plain wrong. This website has been created in an attempt to present a pragmatic view on PHP programming. A view dictated by experience and practical consequence rather than popular trends, theory, or academic dogma.
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
@@ -1483,6 +1485,9 @@ See also [Robots](../README.md#robots)
 * [Pratul Kalia](https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af) - Using git to generate versionName and versionCode for Android apps
 * [The Android Arsenal](https://android-arsenal.com/) - inventory / categorized directory of libraries and tools for Android
 * [Will Verduzco](https://www.xda-developers.com/decompile-edit-and-recompile-in-one-tool-with-apk-studio/) - Decompile, Edit, and Recompile in One Tool with APK Studio
+
+## PHP
+* [PHP The Wrong Way](https://phpthewrongway.com/) - In the world of PHP programming, a set of trends are massively being propagated by some people (in their books and on websites) as “Modern PHP” while all other approaches are frowned upon as backward, stupid, or just plain wrong. This website has been created in an attempt to present a pragmatic view on PHP programming. A view dictated by experience and practical consequence rather than popular trends, theory, or academic dogma.
 
 ## Productivity :computer:
 See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.md#shell-aliases)
