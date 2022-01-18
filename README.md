@@ -3671,7 +3671,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Mike Crittenden](https://critter.blog/2021/04/20/future-you-will-be-as-busy-as-current-you/) - (2021) Future-you will be as busy as current-you
 * [Jane Elliott PhD](https://medium.com/counterarts/you-are-not-lazy-or-undisciplined-you-are-experiencing-internal-resistance-755a02673aa9) - (2021) You are Not Lazy or Undisciplined. You Have Internal Resistance. | Why you can’t just do it, and what to do instead
 * [Lionel Dricot aka PLOUM](https://ploum.net/1er-janvier-2022-quelques-minutes-apres-minuit/) - :fr: [FR] (2022) 1er janvier 2022, quelques minutes après minuit | PLOUM se déconnecte
-
+* [Johann Hari](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - (2022) Your attention didn’t collapse. It was stolen | Social media and many other facets of modern life are destroying our ability to concentrate. We need to reclaim our minds while we still can
+ 
 ## Productivity tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
 * [wikiHow](https://www.wikihow.com/Main-Page) - How to instructions you can trust, aka How to do anything. However, if you take a look at sections such as [Family Life](http://www.wikihow.com/Category:Family-Life) it can be creepy.... (I mean, do we need a site to learn what is family about  ?) **See also** :fr: [FR] the [french version](https://fr.wikihow.com/Accueil) 
@@ -4168,6 +4169,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 > “You can’t say the word ‘empathy’ at a software company. No one will take you seriously.”
 * [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
 * [Nadine Descheneaux](https://www.noovomoi.ca/vivre/famille/article.la-depression-post-partum-chez-le-pere.1.9381889.html) - [FR] 🇫🇷 (2019) La dépression post-partum chez le père
+* [Johann Hari](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - (2022) Your attention didn’t collapse. It was stolen | Social media and many other facets of modern life are destroying our ability to concentrate. We need to reclaim our minds while we still can
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
