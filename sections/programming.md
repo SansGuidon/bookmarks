@@ -1,7 +1,6 @@
 # Programming
 
 ## Table of contents
-
 * [API](#api)
 * [Assembly](#assembly)
 * [C/C++](#cc)
@@ -70,6 +69,7 @@
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - Keep track of new cool github projects
 * [The Changelog](https://changelog.com/news/top) - Top posts 
 * [Unix Sheikh](https://www.unixsheikh.com/articles.html) - Articles and thoughts about open source, BSD and GNU/Linux system administration, and programming - the pragmatic way.
+* [daily.dev](https://daily.dev/) - The Homepage Every Developer Deserves | daily.dev is the fastest growing online community for developers to stay updated on the best developer news. 
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange
@@ -457,6 +457,7 @@
 * [Leadership garden](https://leadership.garden/articles/engineering-managers-stop-coding/) - (2017) Engineering managers, stop coding!
 * [Principles.dev](https://principles.dev/) - Open-source Software Engineering and Leadership principles | Make better decisions using principles - For Software Engineers and technical leaders who want better results.
 * [/uses](https://uses.tech/) - A list of `/uses` pages detailing developer setups, gear, software and configs.
+* [daily.dev](https://daily.dev/) - The Homepage Every Developer Deserves | daily.dev is the fastest growing online community for developers to stay updated on the best developer news. 
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
