@@ -1954,6 +1954,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 * [CloudConvert](https://cloudconvert.com/epub-to-pdf) - EPUB to PDF Converter | with support for EPUB, PDF, AZW and CBZ amongst many others.
 * [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 [FR] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
+* [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -4007,6 +4008,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [DuckDuckGo Bang!](https://duckduckgo.com/bang) - Bangs are shortcuts that quickly take you to search results on other sites.
 * [Bookstash](https://bookstash.io/) - Top books recommended by famous folk, in 3m or less.
 > “‘I read it on Bookstash’, or how to pretend you’re smart while actually being smart.” - Alberto Heinstein
+* [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
