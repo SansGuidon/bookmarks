@@ -420,6 +420,7 @@
 * [Daniel Irvine](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html) - (2016) The egoless programmer
 * [Bertrand Le Foulgoc](https://blog.octo.com/egoless-programming/) - :fr: [FR] Egoless Programming
 * [Wikipedia](https://en.wikipedia.org/wiki/Egoless_programming) - Egoless programming
+* [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
