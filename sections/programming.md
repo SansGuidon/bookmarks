@@ -421,6 +421,7 @@
 * [Bertrand Le Foulgoc](https://blog.octo.com/egoless-programming/) - :fr: [FR] Egoless Programming
 * [Wikipedia](https://en.wikipedia.org/wiki/Egoless_programming) - Egoless programming
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
+* [Mathieu Corbin](https://www.mcorbin.fr/posts/2022-01-10-test-technique-interview/) - :fr: [FR] (2022) Test technique lors du recrutement
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
