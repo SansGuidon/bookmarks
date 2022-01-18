@@ -344,6 +344,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Kamil Grzybek](https://www.kamilgrzybek.com/design/feature-folders/) - (2018) Feature Folders | on codebase design
 * [Ning T.](https://blog.proto.io/10-uniquely-beautiful-coffee-makers/) - (2015) 10 Uniquely Beautiful Coffee Makers
 * [Principles.dev](https://principles.dev/) - Open-source Software Engineering and Leadership principles | Make better decisions using principles - For Software Engineers and technical leaders who want better results.
+* [Unix Sheikh](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html) - (2022) Is the madness ever going to end?
 
 # Art :art:
 > News
@@ -1558,6 +1559,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Georgia (11,3 pt, 3 149 caractères) 8,074 857 %
 > * Arial (11,3 pt, 3 148 caractères) 8,835 107 %
 * [Alex so yes](https://alexsoyes.com/eco-conception-web/) - :fr: [FR] (2021) Comment coder un site écologique ? Devenir un développeur green avec l’éco-conception web
+* [Unix Sheikh](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html) - (2022) Is the madness ever going to end?
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
