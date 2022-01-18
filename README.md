@@ -15,11 +15,9 @@ by [**MorganGeek**](https://blog.morgangeek.be/) - **Mastodon** : [@MorganGeek@m
 [![License: GPL v3][img-gpl3]][gpl3]
 
 <!-- Links -->
-[buymeacoffee]: https://www.buymeacoffee.com/morgangeek
 [gpl3]: https://www.gnu.org/licenses/gpl-3.0
 
 <!-- Images -->
-[img-buymeacoffee]: https://img.shields.io/badge/buy-me%20a%20coffee-blue.svg?style=flat&colorA=555555&colorB=FF813F
 [img-gpl3]: https://img.shields.io/badge/License-GPL%20v3-blue.svg
 
 ## Contents
