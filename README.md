@@ -345,7 +345,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 > * Small software is faster. Fewer bits to download and clog your computer’s memory.
 > * Reduced power consumption. This is important on a “save the planet” scale, but also on the very local scale of increasing the battery life of your phone and laptop.
 > * The light, frugal aesthetic. That’s personal, I know, but as you’ll see, I’m not alone.
- 
+* [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
+
 # Art :art:
 > News
 * [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics
@@ -5081,7 +5082,8 @@ rpm --rebuilddb
 > * Small software is faster. Fewer bits to download and clog your computer’s memory.
 > * Reduced power consumption. This is important on a “save the planet” scale, but also on the very local scale of increasing the battery life of your phone and laptop.
 > * The light, frugal aesthetic. That’s personal, I know, but as you’ll see, I’m not alone.
- 
+* [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
+
 ## Web development checklists / best practices
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
 * [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API Security Checklist
