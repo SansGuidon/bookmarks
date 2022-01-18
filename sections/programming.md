@@ -565,6 +565,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > * Whether you’re getting a lot of satisfaction from being busy or just feeling exasperated, don’t forget to occasionally stop and ask yourself: Is this the best use of time?
 * [Michal Kovařík kovarex](https://factorio.com/blog/post/fff-366) - (2021) The only way to go fast, is to go well! | Factorio Team and TDD
 * [Mike Crittenden](https://critter.blog/2021/04/23/you-have-to-standardize-before-you-can-standardize/) - (2021) You have to standardize before you can standardize
+* [Unix Sheikh](https://www.unixsheikh.com/articles/using-a-framework-can-make-you-stupid.html) - (2021) Using a framework can make you stupid!
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
