@@ -5074,6 +5074,7 @@ rpm --rebuilddb
 > The big advantage of Webmention is that the protocol is very simple: it only relies on an HTTP POST request.
 * [JAMstack Themes](https://jamstackthemes.dev/ssg/) - Themes for Static Site Generators | for Hugo, Hexo, Gatsby, Eleventy (11ty), Vuepress, Pelican, Jekyll, Mkdocs, etc
 * [Alex so yes](https://alexsoyes.com/eco-conception-web/) - :fr: [FR] (2021) Comment coder un site écologique ? Devenir un développeur green avec l’éco-conception web
+* [Unix Sheikh](https://www.unixsheikh.com/articles/javascript-malware-infested-nightmare.html) - (2021) JavaScript malware infested nightmare | some rant
 
 ## Web development checklists / best practices
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
