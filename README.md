@@ -346,7 +346,12 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ning T.](https://blog.proto.io/10-uniquely-beautiful-coffee-makers/) - (2015) 10 Uniquely Beautiful Coffee Makers
 * [Principles.dev](https://principles.dev/) - Open-source Software Engineering and Leadership principles | Make better decisions using principles - For Software Engineers and technical leaders who want better results.
 * [Unix Sheikh](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html) - (2022) Is the madness ever going to end?
-
+* [Ben Hoyt](https://benhoyt.com/writings/the-small-web-is-beautiful/) - (2021) The small web is beautiful
+> * Fewer moving parts. It’s easier to create more robust systems and to fix things when they do go wrong.
+> * Small software is faster. Fewer bits to download and clog your computer’s memory.
+> * Reduced power consumption. This is important on a “save the planet” scale, but also on the very local scale of increasing the battery life of your phone and laptop.
+> * The light, frugal aesthetic. That’s personal, I know, but as you’ll see, I’m not alone.
+ 
 # Art :art:
 > News
 * [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics
