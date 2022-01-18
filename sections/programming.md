@@ -413,6 +413,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Chris The Data Guy](https://betterprogramming.pub/dont-write-code-for-a-startup-1eead038c372) - (2021) Don’t Write Code for a Startup | Confessions of a serial startup software developer
 * [prathyvsh/pl-catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of some of the cool programming languages out there, for enthusiasts
 * [Erik Dietrich](https://daedtech.com/how-to-keep-your-best-programmers/) - (2012) How To Keep Your Best Programmers
+* [Unix Sheikh](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html) - (2022) Is the madness ever going to end?
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
