@@ -302,6 +302,15 @@ See also [Calm programming / Slow programming](sections/programming.md#calm-prog
   * Eat slowly
 * Let things blow up from time to time, you're not your work, don't feel you are not responsible for everything within your employer's company, and your employer is more resilient than you think.
 * Check your posture. It will reflect how you are treating your body. [source](https://blog.strategicedge.co.uk/2013/03/tidy-up-as-you-go-along-be-it-cooking-diy-or-selling-your-software-solution-remember-the-small-stuff-as-it-is-big-stuf.html)
+* [Unix Sheikh](https://www.unixsheikh.com/about.html) - software engineering principles
+> * Simplicity: The system should always be as simple and small as possible. When software projects grow, so do errors and bugs. Techniques such as line-by-line inspection of software, relevant unit testing, and physical examination of hardware that implements protection mechanisms are great. For such techniques to be successful a small and simple design is essential. This is sometimes described as the KISS principle and YAGNI.
+> * Least privilege: Each user and program should operate using the fewest privileges possible.
+> * Open design: In order for a system to be secure it must never depend on attacker ignorance. Instead the design should be based upon technology that depend upon public scrutiny - whenever possible.
+> * Complete mediation: Every access attempt must be checked and validated.
+> * Easy to use: The human interface must be as easy and intuitive to use as possible. Easy and simple is always better than smart and fancy. Simple user testing is a great way to get valuable feedback.
+> * Usability: Well known usability standards should be met if required.
+> * Discrimination: User discrimination is never good. User discrimination is when an application only works for a very limited amount of systems, like when a website only works with JavaScript enabled even though it doesn't provide any functionality that really requires JavaScript.
+> * Documentation: Lacking or inadequate documentation is a bug. Everything needs to be adequately documented from the very beginning, it is an integrate part of software development. I strongly abhor poor or lacking documentation.
 
 ### Healthy tips in the covid world
 * [Nicholas Bate](https://blog.strategicedge.co.uk/2021/02/seven-productivity-boosters-in-a-covid-19-world.html) - (2021) Seven Productivity Boosters in a Covid-19 World
