@@ -344,8 +344,7 @@
 * [Ben Halpern](https://dev.to/ben/write-clean-code-and-avoid-the-distractions-of-emerging-technology-3emj) - (2018) Write clean code and avoid the distractions of emerging technology | stay excited by the trends, but be impassioned by the small improvements you can make in the quality of your work.
 * [victorlaerte/awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes) - a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
 * [Jeff Knupp](https://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/) - (2014) How 'DevOps' is Killing the Developer
-* [James Somers](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) - (2017) The Coming Software Apocalypse
-A small group of programmers wants to change how we code—before catastrophe strikes.
+* :star: [**James Somers**](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) - (2017) The Coming Software Apocalypse | A small group of programmers wants to change how we code—before catastrophe strikes.
 > “Computing is fundamentally invisible,” Gerard Berry said in his talk. “When your tires are flat, you look at your tires, they are flat. When your software is broken, you look at your software, you see nothing.” “So that’s a big problem.”
 * [The Three Virtues of a GREAT Programmer](http://threevirtues.com/) - (2010) Laziness, Impatience and Hubris
 > Laziness: The quality that makes you go to great effort to reduce overall energy expenditure.
