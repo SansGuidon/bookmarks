@@ -337,7 +337,7 @@
 * [Katacoda](https://www.katacoda.com/) - Learn new technologies right in your browser | Interactive Learning and Training Platform for Software Engineers
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible
 * [Stephen Mann](https://stephenmann.io/post/dont-do-this-in-production/) - (2018) Don't Do This in Production
-* [Jeff Atwood](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) - (2006) The Ten Commandments of Egoless Programming
+* :star: [**Jeff Atwood**](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) - (2006) The Ten Commandments of Egoless Programming
 * [Mark Heath](https://markheath.net/post/stable-tactics-for-writing-solid-code) - (2017) STABLE tactics for writing SOLID code
 * [The Codeless Code](http://thecodelesscode.com/case/random) - An illustrated collection of (sometimes violent) fables, concerning the Art and Philosophy of software development
 * [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html) - (2017) Just Following Orders | Reminder: Doing your job does not mean that you just follow orders. The courts are going to hold you to a high ethical standard, even if your employer does not.
@@ -416,6 +416,11 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [prathyvsh/pl-catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of some of the cool programming languages out there, for enthusiasts
 * [Erik Dietrich](https://daedtech.com/how-to-keep-your-best-programmers/) - (2012) How To Keep Your Best Programmers
 * [Unix Sheikh](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html) - (2022) Is the madness ever going to end?
+* [Rajasegar Chandran](https://web.archive.org/web/20200203103540/https://hangaroundtheweb.com/2018/03/egoless-programming/) - (2018) Egoless Programming
+> Egoless programming is a concept introduced by Gerald Weinberg in The Psychology Of Computer Programming. The idea is that programmers must fight the natural tendency to treat their programs as part of themselves, and therefore to reject all criticism. Rather, they should do their best to treat their designs & implementations as objects independent of themselves, and to view criticism dispassionately on its merits.
+* [Daniel Irvine](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html) - (2016) The egoless programmer
+* [Bertrand Le Foulgoc](https://blog.octo.com/egoless-programming/) - :fr: [FR] Egoless Programming
+* [Wikipedia](https://en.wikipedia.org/wiki/Egoless_programming) - Egoless programming
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
