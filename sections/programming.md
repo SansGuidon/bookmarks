@@ -420,6 +420,7 @@
 * [Daniel Irvine](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html) - (2016) The egoless programmer
 * [Bertrand Le Foulgoc](https://blog.octo.com/egoless-programming/) - :fr: [FR] Egoless Programming
 * [Wikipedia](https://en.wikipedia.org/wiki/Egoless_programming) - Egoless programming
+* [WikiWikiWeb](https://wiki.c2.com/?EgolessProgramming) - Egoless Programming
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
 * [Mathieu Corbin](https://www.mcorbin.fr/posts/2022-01-10-test-technique-interview/) - :fr: [FR] (2022) Test technique lors du recrutement
 
@@ -579,6 +580,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [Daniel Irvine](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html) - (2016) The egoless programmer
 * [Bertrand Le Foulgoc](https://blog.octo.com/egoless-programming/) - :fr: [FR] Egoless Programming
 * [Wikipedia](https://en.wikipedia.org/wiki/Egoless_programming) - Egoless programming
+* [WikiWikiWeb](https://wiki.c2.com/?EgolessProgramming) - Egoless Programming
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
