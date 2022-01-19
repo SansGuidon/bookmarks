@@ -1454,6 +1454,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 * [JavaScript Rising Stars](https://risingstars.js.org) - If you took a break to escape the JavaScript fatigue, you are in the right place! 
+* [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 
 ## Kafka
 > News
