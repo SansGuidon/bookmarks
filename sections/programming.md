@@ -1772,6 +1772,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 > So I believe, having authored a lot of code that went down the toilet, that you don't get productive by working as much as by not working – not on stuff that is likely to get thrown away.
 * [Unix Sheikh](https://www.unixsheikh.com/articles/how-to-write-software-than-will-keep-working-for-decades.html) - (2021) How to write software than will keep working for decades without problems
 * :fire: [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
+* [Learn X in Y minutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 
 > Tools
 * [Devhints](https://devhints.io/) - Rico's cheatsheets | TL;DR for developer documentation
