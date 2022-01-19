@@ -1783,6 +1783,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 * [Mattia Gheda](https://ghedam.at/15502/speedy-development-environments-with-nix-and-docker) - (2020) Speedy Development environments with Nix and Docker
+* [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 
 ## Programmer humor
 * [CommitStrip](http://www.commitstrip.com/en) - daily life of developers
