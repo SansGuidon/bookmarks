@@ -665,6 +665,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [ThatCoupon](https://www.thatcoupon.com/) - Tired of clipping coupons and scouring the internet for deals and promotional codes? So are we. This website makes it easy for shoppers to find and share the best deals and coupons. No hunting, no hassle, and no scissors required.
 * [vpnMentor](https://www.vpnmentor.com/coupons/) - 79 VPN Coupons, Promo Codes & Discounts - Updated Daily
 * :star: [**Mozilla**](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
+* [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 
 ## Cryptocurrency
 > News
@@ -1403,6 +1404,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [CodeElf](https://unbug.github.io/codelf) - Search over Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names | A search tool helps dev to solve the naming things problem. **Source code** : [unbug/codelf](https://github.com/unbug/codelf)
 * [Matthieu Lesne aka coreight](https://coreight.com/content/trouver-des-solutions-creatives-a-ses-problemes) - 🇫🇷 [FR] (2015) 5 étapes pour trouver des solutions créatives à ses problèmes
 * [Mark Manson](https://getpocket.com/explore/item/find-what-you-love-and-let-it-kill-you) - (2014) Find What You Love and Let It Kill You : The best things in life can sometimes be ugly. If you find what you love, then you’ll also find all the pain and struggle that comes with it. | Mark Manson is the author of Everything Is F*cked: A Book About Hope.Buy the book
+* [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1960,6 +1962,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
 * [follow.it](https://follow.it/) - Follow any blog or website
 * [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
+* [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -4022,6 +4025,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [follow.it](https://follow.it/) - Follow any blog or website
 * [Slazzer](https://www.slazzer.com/) - is an AI powered tool that uses advanced computer vision algorithms to remove bg from any image online and replace background automatically with the best detailing in just a few seconds.
 * [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
+* [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
@@ -5179,6 +5183,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 * [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
 * [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
+* [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
