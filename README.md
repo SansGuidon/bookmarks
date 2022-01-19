@@ -400,6 +400,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Chart.xkcd](https://timqian.com/chart.xkcd) - is a chart library plots “sketchy”, “cartoony” or “hand-drawn” xkcd styled charts. 
 * [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 * [Excalidraw](https://excalidraw.com/) - is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn look & feel to them. **Bonus** : [Extensions & libraries](https://libraries.excalidraw.com/)
+* [Slazzer](https://www.slazzer.com/) - is an AI powered tool that uses advanced computer vision algorithms to remove bg from any image online and replace background automatically with the best detailing in just a few seconds.
 
 # Books / Reading :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
@@ -4016,7 +4017,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
 * [YunoHost](https://yunohost.org/) - is an operating system aiming for the simplest administration of a server, and therefore democratize self-hosting, while making sure it stays reliable, secure, ethical and lightweight. It is a copylefted libre software project maintained exclusively by volunteers. Technically, it can be seen as a distribution based on Debian GNU/Linux and can be installed on many kinds of hardware.
 * [follow.it](https://follow.it/) - Follow any blog or website
-
+* [Slazzer](https://www.slazzer.com/) - is an AI powered tool that uses advanced computer vision algorithms to remove bg from any image online and replace background automatically with the best detailing in just a few seconds.
+ 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Player FM](https://player.fm/podcasts/Software-Development) - Software Development Podcasts
