@@ -1955,6 +1955,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [CloudConvert](https://cloudconvert.com/epub-to-pdf) - EPUB to PDF Converter | with support for EPUB, PDF, AZW and CBZ amongst many others.
 * [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 [FR] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
 * [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
+* [follow.it](https://follow.it/) - Follow any blog or website
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -1964,6 +1965,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
+* [follow.it](https://follow.it/surfing) - Follow websites while browsing the net!
 
 # Gaming :video_game:
 > News
@@ -2984,11 +2986,13 @@ type `curl ident.me` to know your public ip
 * [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [DesGeeksetdeslettres](https://desgeeksetdeslettres.com/) - :fr: [FR] fournit des outils et des connaissances pour protéger votre vie privée contre la surveillance massive mondiale. Ce blog anime depuis 2009 une communauté florissante d'individus soucieux de la protection de la vie privée et s'informe au jour le jour des nouvelles avancées en matière de protection de vos données en ligne.
 * [Timeless Hacker News](https://thn.rakhim.org/) - refresh for 30 random good posts
-* [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
 * [DevOps Newsletters](https://devopsnewsletters.com/) - a one stop shop for the best DevOps news content from around the world.
 * [Seth's Blog](https://seths.blog) - Seth Godin's Blog on marketing, tribes and respect.
 * [Mike Crittenden](https://critter.blog) - Blog on engineering / self improvement topics. 
 * [Nicolas Delsaux aka Riduidel](https://nicolas-delsaux.hd.free.fr/Shaarli/) - :fr: [FR] Shaarli de Riduidel | discovered via [**sebsauvage**](https://sebsauvage.net/links/)
+* [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
+* [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
+* [follow.it](https://follow.it/) - Follow any blog or website
  
 > Anderlecht / Bruxelles news
 * [Commune d'Anderlecht](https://www.anderlecht.be) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
@@ -4011,6 +4015,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 > “‘I read it on Bookstash’, or how to pretend you’re smart while actually being smart.” - Alberto Heinstein
 * [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
 * [YunoHost](https://yunohost.org/) - is an operating system aiming for the simplest administration of a server, and therefore democratize self-hosting, while making sure it stays reliable, secure, ethical and lightweight. It is a copylefted libre software project maintained exclusively by volunteers. Technically, it can be seen as a distribution based on Debian GNU/Linux and can be installed on many kinds of hardware.
+* [follow.it](https://follow.it/) - Follow any blog or website
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
