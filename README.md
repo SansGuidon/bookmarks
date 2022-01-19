@@ -1566,6 +1566,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
 * [EcoIndex](http://www.ecoindex.fr/) - :fr: [FR] L’objectif d’EcoIndex est d’aider le plus grand nombre à prendre conscience de l’impact environnemental de l’internet et de proposer des solutions concrètes pour réduire cet impact. EcoIndex vous propose donc une analyse automatique de premier niveau pour vous aider à identifier rapidement et gratuitement des sites web / services en ligne à ausculter en priorité.
+* [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 
 # Finding content :mag:
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
@@ -5108,6 +5109,7 @@ rpm --rebuilddb
 * [Michael O'Brien](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) - (2017) Web Developer Security Checklist
 * [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 * [The A11Y Project Checklist](https://a11yproject.com/checklist/) - Determine how accessible your site is
+* [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
 
 ## Web development tools
 * [Clay](http://fvisser.nl/clay/) - is a CSS preprocessor like LESS and Sass, but implemented as an embedded domain specific language (EDSL) in Haskell.
@@ -5173,6 +5175,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - list of static web site generators.
 * [Logo Lab](https://logolab.app/home) - Test your logo | Put your logo to the test and find out where it succeeds and where improvements could be made.
 * [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
+* [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
