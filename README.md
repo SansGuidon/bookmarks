@@ -346,6 +346,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > * Reduced power consumption. This is important on a “save the planet” scale, but also on the very local scale of increasing the battery life of your phone and laptop.
 > * The light, frugal aesthetic. That’s personal, I know, but as you’ll see, I’m not alone.
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
+* [Google Cloud Architecture Center](https://cloud.google.com/architecture/scalable-and-resilient-apps) - Patterns for scalable and resilient apps 
 
 # Art :art:
 > News
