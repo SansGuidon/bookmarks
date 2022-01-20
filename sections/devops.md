@@ -892,6 +892,9 @@ See also [Infrastructure](README.md#infrastructure)
 * [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 * [Mattia Gheda](https://ghedam.at/15502/speedy-development-environments-with-nix-and-docker) - (2020) Speedy Development environments with Nix and Docker
 
+## GCP
+* [Google Cloud Architecture Center](https://cloud.google.com/architecture/scalable-and-resilient-apps) - Patterns for scalable and resilient apps 
+ 
 ## Gradle
 * [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
 * [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
