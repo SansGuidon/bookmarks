@@ -1973,6 +1973,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarklet | Check that your HTML code conforms to your coding standard
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 * [follow.it](https://follow.it/surfing) - Follow websites while browsing the net!
+* [n-st/view-on-archive-org.js](https://gist.github.com/n-st/0dd03b2323e7f9acd98e) - Bookmarklet to view current page on the [Internet Archive Wayback Machine](https://archive.org/)
 
 # Gaming :video_game:
 > News
@@ -4026,6 +4027,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Slazzer](https://www.slazzer.com/) - is an AI powered tool that uses advanced computer vision algorithms to remove bg from any image online and replace background automatically with the best detailing in just a few seconds.
 * [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
 * [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
+* [n-st/view-on-archive-org.js](https://gist.github.com/n-st/0dd03b2323e7f9acd98e) - Bookmarklet to view current page on the [Internet Archive Wayback Machine](https://archive.org/)
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
@@ -5043,6 +5045,7 @@ rpm --rebuilddb
 * [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 * [GH Archive](https://www.gharchive.org/) - is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis. **See also:** [GitHub repository](https://github.com/igrigorik/gharchive.org)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. ArchiveBox is a powerful self-hosted internet archiving solution written in Python 3. You feed it URLs of pages you want to archive, and it saves them to disk in a variety of formats depending on the configuration and the content it detects.
+* [n-st/view-on-archive-org.js](https://gist.github.com/n-st/0dd03b2323e7f9acd98e) - Bookmarklet to view current page on the [Internet Archive Wayback Machine](https://archive.org/)
 
 > Some old links from my first times on the web
 * [Donjon de Naheulbeuk](http://www.penofchaos.com/warham/donjon.htm) - [FR] :fr: Podcast / Les premiers MP3 d'aventure
