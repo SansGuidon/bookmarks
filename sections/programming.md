@@ -423,6 +423,7 @@
 * [WikiWikiWeb](https://wiki.c2.com/?EgolessProgramming) - Egoless Programming
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
 * [Mathieu Corbin](https://www.mcorbin.fr/posts/2022-01-10-test-technique-interview/) - :fr: [FR] (2022) Test technique lors du recrutement
+* [Swizec Teller](https://swizec.com/blog/why-null-checks-are-bad/) - (2021) Why null checks are bad
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
@@ -827,6 +828,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes.
 * [PHP The Wrong Way](https://phpthewrongway.com/) - In the world of PHP programming, a set of trends are massively being propagated by some people (in their books and on websites) as “Modern PHP” while all other approaches are frowned upon as backward, stupid, or just plain wrong. This website has been created in an attempt to present a pragmatic view on PHP programming. A view dictated by experience and practical consequence rather than popular trends, theory, or academic dogma.
 * [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
+* [Swizec Teller](https://swizec.com/blog/why-null-checks-are-bad/) - (2021) Why null checks are bad
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
