@@ -3498,6 +3498,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Eddie Barraco](https://www.synbioz.com/blog/tech/gemini-avenir-du-web) - (2021) 🇫🇷 [FR] Gemini, l'avenir du Web ?
 * [Aliza Vigderman & Gabe Turner](https://www.security.org/vpn/anonymity/) - (2021) How To Remain Anonymous on the Internet | Learn over 20 ways to stay as private as possible on the web.
 * [Viktor Vecsei](https://www.ivpn.net/blog/why-you-dont-need-a-vpn/) - (2020) Why you don't need a VPN
+* [web0 manifesto](https://web0.small-web.org/) - web0 is the decentralised web | In other words, web0 is web3 without all the corporate right-libertarian Silicon Valley bullshit. **See also** [Source code](https://github.com/small-tech/web0) and [Small Technology Foundation Home](https://small-tech.org/)
 
 ## Privacy tools
 * :star: [**Privacy tools**](https://www.privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
@@ -4710,6 +4711,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Lionel Dricot aka PLOUM](https://ploum.net/gemini-le-protocole-du-slow-web/) - (2020) 🇫🇷 [FR] Gemini, le protocole du slow web
 * [Eddie Barraco](https://www.synbioz.com/blog/tech/gemini-avenir-du-web) - (2021) 🇫🇷 [FR] Gemini, l'avenir du Web ?
 * [PrivacyTests.org](https://privacytests.org/) - is an open-source initiative that subjects popular web browsers to a suite of automated tests. These tests are designed to audit web browsers' privacy properties in an unbiased manner.
+* [web0 manifesto](https://web0.small-web.org/) - web0 is the decentralised web | In other words, web0 is web3 without all the corporate right-libertarian Silicon Valley bullshit. **See also** [Source code](https://github.com/small-tech/web0) and [Small Technology Foundation Home](https://small-tech.org/)
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
