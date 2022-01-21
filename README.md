@@ -1858,7 +1858,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [What Car?](https://www.whatcar.com/) - New and Used Car Reviews, Car Deals
 * [Duolingo](https://www.duolingo.com/) - free tool for learning another language, Duolingo makes it fun, and helps keep you engaged for the long haul.
 * [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
-* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
+* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
 * [Find your Facebook ID](https://findmyfbid.com/) - find the Facebook personal numeric ID for fb:admins, social plugins, and more. Provide the profile URL of a page or your profile and get the Facebook (context) id. This id can then be used to [find similar pages](https://www.facebook.com/pages/?ref=page_suggestions_on_liking_refresh&frompageid=)
 * [Ecoscore](http://ecoscore.be/) - find and compare the ecoscores of new and old vehicles
 * [ODA](https://onlinedisassembler.com/odaweb/) - The online disassembler
@@ -1975,6 +1975,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 * [follow.it](https://follow.it/surfing) - Follow websites while browsing the net!
 * [n-st/view-on-archive-org.js](https://gist.github.com/n-st/0dd03b2323e7f9acd98e) - Bookmarklet to view current page on the [Internet Archive Wayback Machine](https://archive.org/)
+* [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d) - Find shared logins
 
 # Gaming :video_game:
 > News
@@ -3530,7 +3531,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 * :star: [**Terms of Service; Didn't Read**](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
-* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
+* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
 * [Christian Stewart](https://blog.searchencrypt.com/privacy/privacy-browser-extensions/) - (2017) Favorite Browser Extensions for Privacy
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 * [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
@@ -3930,7 +3931,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
-* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
+* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
 * :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [Alexander Bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -4520,7 +4521,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - list of cryptography resources and links.
 * [Steven J. Vaughan-Nichols ](http://www.zdnet.com/article/linus-linux-torvalds-gives-security-developers-guidance/) - Linus 'Linux' Torvalds gives security developers guidance
 * :star: [**Terms of Service; Didn't Read**](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
-* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins
+* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
 * [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 * [CoreOS Blog](https://coreos.com/blog/vulnerability-analysis-for-containers.html) - Clair: Open Source Vulnerability Analysis for your Containers
 * [jessfraz/bane](https://github.com/jessfraz/bane) - AppArmor profile generator for Docker containers.
