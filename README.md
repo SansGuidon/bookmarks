@@ -1976,6 +1976,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [follow.it](https://follow.it/surfing) - Follow websites while browsing the net!
 * [n-st/view-on-archive-org.js](https://gist.github.com/n-st/0dd03b2323e7f9acd98e) - Bookmarklet to view current page on the [Internet Archive Wayback Machine](https://archive.org/)
 * [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d) - Find shared logins
+* [Awesome Bookmarklets](https://priyank-vaghela.github.io/Awesome-Bookmarklets/) - A curated collection of awesome bookmarkslets! 🚀 **See also** : [Source code](https://github.com/Priyank-Vaghela/Awesome-Bookmarklets)
 
 # Gaming :video_game:
 > News
