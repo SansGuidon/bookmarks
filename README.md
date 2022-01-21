@@ -452,7 +452,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html) - DevOps with OpenShift
 * [MorganGeek](https://researchportal.unamur.be/fr/studentTheses/design-of-a-support-system-for-modelling-gene-regulatory-networks) - (2015) Design of a support system for modelling gene regulatory networks. **Bonus** : [Download in PDF](https://researchportal.unamur.be/files/36918347/2015_WattiezM_memoire.pdf)
 * [Internet Archive](https://archive.org/details.php?identifier=texts) - eBooks and Texts : The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
-* :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
+* :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** : [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
 * [MagazineLib](https://magazinelib.com/?s=Linux) - Free Pdf & interactive e-magazines
 * [ebpok3000](http://ebook3000.com/plus/search.php?keyword=Linux+magazine&x=0&y=0) - Download PDF Magazines, eBooks, PDF for Free
 * [PDF Giant](http://pdf-giant.com/tags/linux%20magazine) - a place where you can download magazines in digital PDF format. Save trees.
@@ -1474,7 +1474,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Similaires](https://similaires.com/) - 🇫🇷 [FR] Trouver les meilleurs films similaires | service de sélection de films similaires, qui vous aidera à choisir le prochain film ou la prochaine série.
 * [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
 * [Open Culture](https://www.openculture.com/) - The best free cultural & educational media on the web
-* [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** [Explore catalogue updates by country](https://unogs.com/countrydetail)
+* [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** : [Explore catalogue updates by country](https://unogs.com/countrydetail)
  
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1521,7 +1521,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Finactum](https://www.finactum.be/) - 🇧🇪 [BE] A website with free financial information about Belgian companies filing obligation, which also offer low-cost high-quality, readable financial reports to.
 * [B2Bhint](https://b2bhint.com/en) - Get any company financial, juridical and historical data with international connections from the official sources
 * [L’asbl Réseau de Consommateurs Responsables (RCR)](http://www.asblrcr.be/carte-initiatives-bruxelles-wallonie) - 🇧🇪 🇫🇷 [BE] [FR] Carte des alternatives de consommation responsable, proposées par des groupes citoyens à Bruxelles et en Wallonie.
-* [Réseau des GASAP](https://gasap.be/) - 🇧🇪 🇫🇷 [BE] [FR] Les GASAP (groupe d’achats solidaires de l’agriculture paysanne) proposent de la vente directe, sans intermédiaire, qui permet un lien direct et solidaire avec des fermes locales qui travaillent pour une agriculture « agroécologique », pourvoyeuse d’emplois dans nos régions. C’est bien plus qu’un panier de légumes bio, c’est une véritable alternative alimentaire. **Bonus** [Carte des GASAP](https://gasap.be/carte/)
+* [Réseau des GASAP](https://gasap.be/) - 🇧🇪 🇫🇷 [BE] [FR] Les GASAP (groupe d’achats solidaires de l’agriculture paysanne) proposent de la vente directe, sans intermédiaire, qui permet un lien direct et solidaire avec des fermes locales qui travaillent pour une agriculture « agroécologique », pourvoyeuse d’emplois dans nos régions. C’est bien plus qu’un panier de légumes bio, c’est une véritable alternative alimentaire. **Bonus** : [Carte des GASAP](https://gasap.be/carte/)
 * [VivreIci](http://www.vivreici.be/article/detail_ou-trouver-les-producteurs-locaux-et-les-paniers-bio-a-bruxelles-carte-interactive?id=92770) - 🇧🇪 🇫🇷 [BE] [FR] La carte interactive des producteurs locaux et paniers bio à Bruxelles
 * [JUPORTAL](https://juportal.be/moteur/formulaire) - 🇧🇪 🇫🇷 [BE] [FR] Base de données publique de la jurisprudence belge, depuis 2017.
 
@@ -1718,7 +1718,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Reddit Favorites](https://redditfavorites.com) - What are reddit's favorite Products, VPNs, Android apps, Books, Youtube videos? | From 3.5 billion comments (number from Sept. 13, 2021)
 * [subredditstats.com](https://subredditstats.com/subreddit-user-overlaps/) - Find Related Subreddits By User/Redditor Overlap
 * [Reddit Bests](https://redditbests.com) - Discover top products recommended by redditors
-* [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** [Explore catalogue updates by country](https://unogs.com/countrydetail)
+* [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** : [Explore catalogue updates by country](https://unogs.com/countrydetail)
 * [You.com](https://you.com/) - The private search engine that summarizes the best parts of the internet for you, without privacy-invading ads and with great privacy | Note that anyway they share some data with third party as mentioned in their [Privacy](https://you.com/legal/privacy) guide but they try to limit the amount of data collected, in order to offer the best of privacy and customised experienced. 
 * [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 [FR] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
 
@@ -1858,7 +1858,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [What Car?](https://www.whatcar.com/) - New and Used Car Reviews, Car Deals
 * [Duolingo](https://www.duolingo.com/) - free tool for learning another language, Duolingo makes it fun, and helps keep you engaged for the long haul.
 * [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
-* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
+* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** : [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
 * [Find your Facebook ID](https://findmyfbid.com/) - find the Facebook personal numeric ID for fb:admins, social plugins, and more. Provide the profile URL of a page or your profile and get the Facebook (context) id. This id can then be used to [find similar pages](https://www.facebook.com/pages/?ref=page_suggestions_on_liking_refresh&frompageid=)
 * [Ecoscore](http://ecoscore.be/) - find and compare the ecoscores of new and old vehicles
 * [ODA](https://onlinedisassembler.com/odaweb/) - The online disassembler
@@ -1930,7 +1930,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Loklak Search](https://loklak.org/) - Distributed Open Source Search for Twitter and Social Media with Peer to Peer Technology
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
 * [EcoIndex](http://www.ecoindex.fr/) - :fr: [FR] L’objectif d’EcoIndex est d’aider le plus grand nombre à prendre conscience de l’impact environnemental de l’internet et de proposer des solutions concrètes pour réduire cet impact. EcoIndex vous propose donc une analyse automatique de premier niveau pour vous aider à identifier rapidement et gratuitement des sites web / services en ligne à ausculter en priorité.
-* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. **Bonus** [WAVE Browser Extensions](https://wave.webaim.org/extension/)
+* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. **Bonus** : [WAVE Browser Extensions](https://wave.webaim.org/extension/)
 * [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
 * [Nibbler](https://nibbler.silktide.com/) - is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology.
 * [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
@@ -2346,7 +2346,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [RTBF.be](https://www.rtbf.be/info/mot-cle_anderlecht?keyword=293643) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht : toutes les infos du mot-clé jour par jour
 * [BX1](https://bx1.be/category/communes/anderlecht/) - 🇫🇷 🇧🇪 [FR] [BE] Toutes les informations sur la commune d'Anderlecht
 * [VivreIci](http://www.vivreici.be/commune/1070) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht
-* [Commune d'Anderlecht](https://www.anderlecht.be/fr/family-2021) - 🇫🇷 🇧🇪 [FR] [BE] (2021) FAMILY'IN 2021 : Programmation d'activités pour les familles et les enfants. **Bonus** [Flyer](https://www.anderlecht.be/sites/default/files/medias/Files/SolInter/Flyers%20Family'in%20-%20Derni%C3%A8re%20version%202021.pdf)
+* [Commune d'Anderlecht](https://www.anderlecht.be/fr/family-2021) - 🇫🇷 🇧🇪 [FR] [BE] (2021) FAMILY'IN 2021 : Programmation d'activités pour les familles et les enfants. **Bonus** : [Flyer](https://www.anderlecht.be/sites/default/files/medias/Files/SolInter/Flyers%20Family'in%20-%20Derni%C3%A8re%20version%202021.pdf)
 * [Osiris](https://via.osiris.brussels/#/) - 🇫🇷 🇧🇪 [FR] [BE] Perturbations des voiries bruxelloises liées aux chantiers
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/mini-recyparks) - 🇫🇷 🇧🇪 [FR] [BE] La commune d’Anderlecht vous donne la possibilité de vous défaire de vos encombrants ménagers grâce aux mini-recyparks
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/webzines) - 🇫🇷 🇧🇪 [FR] [BE] Webzines
@@ -2861,7 +2861,7 @@ rpm --rebuilddb
 * [Jay Riverlong](https://jayriverlong.github.io/2021/07/05/movies.html) - (2021) No More Movies
 * [Aaron Rice](https://coffeeaffection.com/best-coffee-movies/) - (2021) 8 Best Coffee Movies Ever Made
 * [European Coffee Trip](https://www.youtube.com/watch?v=13pZASbQODg) - [Video] (2020) Top 8 Coffee Documentaries To Watch Online (for free)
-* [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** [Explore catalogue updates by country](https://unogs.com/countrydetail)
+* [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** : [Explore catalogue updates by country](https://unogs.com/countrydetail)
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 
 # Music :notes:
@@ -3010,7 +3010,7 @@ type `curl ident.me` to know your public ip
 * [RTBF.be](https://www.rtbf.be/info/mot-cle_anderlecht?keyword=293643) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht : toutes les infos du mot-clé jour par jour
 * [BX1](https://bx1.be/category/communes/anderlecht/) - 🇫🇷 🇧🇪 [FR] [BE] Toutes les informations sur la commune d'Anderlecht
 * [VivreIci](http://www.vivreici.be/commune/1070) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht
-* [Commune d'Anderlecht](https://www.anderlecht.be/fr/family-2021) - 🇫🇷 🇧🇪 [FR] [BE] (2021) FAMILY'IN 2021 : Programmation d'activités pour les familles et les enfants. **Bonus** [Flyer](https://www.anderlecht.be/sites/default/files/medias/Files/SolInter/Flyers%20Family'in%20-%20Derni%C3%A8re%20version%202021.pdf)
+* [Commune d'Anderlecht](https://www.anderlecht.be/fr/family-2021) - 🇫🇷 🇧🇪 [FR] [BE] (2021) FAMILY'IN 2021 : Programmation d'activités pour les familles et les enfants. **Bonus** : [Flyer](https://www.anderlecht.be/sites/default/files/medias/Files/SolInter/Flyers%20Family'in%20-%20Derni%C3%A8re%20version%202021.pdf)
 * [Osiris](https://via.osiris.brussels/#/) - 🇫🇷 🇧🇪 [FR] [BE] Perturbations des voiries bruxelloises liées aux chantiers
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/webzines) - 🇫🇷 🇧🇪 [FR] [BE] Webzines
 
@@ -3219,7 +3219,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
 * [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-* :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
+* :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** : [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
 * [Yevgeniy Brikman](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1) - (2018) 5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code
@@ -3531,7 +3531,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web Apps that work without login
 * :star: [**Terms of Service; Didn't Read**](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
 * [Mailinator](https://www.mailinator.com/) - lets you create unique, disposable inboxes which delete themselves after a few days.
-* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
+* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** : [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
 * [Christian Stewart](https://blog.searchencrypt.com/privacy/privacy-browser-extensions/) - (2017) Favorite Browser Extensions for Privacy
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
 * [Shodan](https://www.shodan.io/explore) - Explore the Internet | Discover the Internet using search queries shared by other users. Cams, Webcams, Default passwords...
@@ -3931,7 +3931,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
-* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
+* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** : [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
 * [Calvin Cheng](https://awesomelists.top/) - AwesomeSearch : find awesome lists more quickly.
 * :star: [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [Alexander Bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -4521,7 +4521,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - list of cryptography resources and links.
 * [Steven J. Vaughan-Nichols ](http://www.zdnet.com/article/linus-linux-torvalds-gives-security-developers-guidance/) - Linus 'Linux' Torvalds gives security developers guidance
 * :star: [**Terms of Service; Didn't Read**](https://tosdr.org/) - I have read and agree to the Terms” is the biggest lie on the web. They fix it
-* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
+* :star: [**BugMeNot**](http://bugmenot.com/) - no time to create an account ? try a domain or url and get shared logins. **Bonus** : [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d)
 * [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 * [CoreOS Blog](https://coreos.com/blog/vulnerability-analysis-for-containers.html) - Clair: Open Source Vulnerability Analysis for your Containers
 * [jessfraz/bane](https://github.com/jessfraz/bane) - AppArmor profile generator for Docker containers.
@@ -5015,7 +5015,7 @@ rpm --rebuilddb
 * [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curated list about accessibility / A11Y
 * [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
-* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. **Bonus** [WAVE Browser Extensions](https://wave.webaim.org/extension/)
+* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. **Bonus** : [WAVE Browser Extensions](https://wave.webaim.org/extension/)
 * [Contrast Ratio](https://contrast-ratio.com) - Easily calculate color contrast ratios. Passing WCAG was never this easy!
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
 * [Nibbler](https://nibbler.silktide.com/) - is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology.
@@ -5164,7 +5164,7 @@ rpm --rebuilddb
 * [Maxime Blondel](https://www.maddyness.com/2018/04/04/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent/) - (2018) :fr: [FR] (2018) 100 outils pour lancer sa startup sans développeur ni graphiste (et presque sans argent)
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
 * [EcoIndex](http://www.ecoindex.fr/) - :fr: [FR] L’objectif d’EcoIndex est d’aider le plus grand nombre à prendre conscience de l’impact environnemental de l’internet et de proposer des solutions concrètes pour réduire cet impact. EcoIndex vous propose donc une analyse automatique de premier niveau pour vous aider à identifier rapidement et gratuitement des sites web / services en ligne à ausculter en priorité.
-* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. **Bonus** [WAVE Browser Extensions](https://wave.webaim.org/extension/)
+* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) - WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. **Bonus** : [WAVE Browser Extensions](https://wave.webaim.org/extension/)
 * [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
 * [Stoyan Stefanov](https://www.phpied.com/hello-stylelint/) - (2017) Hello Stylelint | a great new modern unopinionated CSS linter
 * [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps. **See also** : [Website](https://developers.google.com/web/tools/lighthouse)
