@@ -3589,6 +3589,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Timeless Hacker News](https://thn.rakhim.org/) - refresh for 30 random good posts
 * [Reddit Favorites](https://redditfavorites.com/youtube_videos) - What are reddit's favorite Youtube videos? | From 3.5 billion comments (number from Sept. 13, 2021)
 * [Random-ize](https://www.random-ize.com/random-website/) - Weird, Odd, Funny and Interesting Websites | Bored with the web? Think you've seen it all? Surf the web a new way with this random website generator. Bounce around thousands of crazy, pointless, funny, intereractive, informative and interesting webistes made by the most odd people online. And that says something.
+* [There, I Fixed It](https://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 
 # Productivity :fast_forward:
 > News
