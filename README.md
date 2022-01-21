@@ -2428,7 +2428,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Gérard Villemin](http://villemin.gerard.free.fr/Humour/aaaCalem/CalembA.htm#top) - 🇫🇷 [FR] Une tonne de jeux de mots & calembours par ordre alphabétique. **Voir aussi** [Humour & Pensées - Table des matières](http://villemin.gerard.free.fr/Humour/HumouTdM.htm)
  
 # Humor :trollface:
-* [There, I Fixed It](http://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
+* [There, I Fixed It](https://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 * [/r/DiWHY](https://www.reddit.com/r/DiWHY/) - when DIY goes wrong
 * [/r/redneckengineering](https://www.reddit.com/r/redneckengineering/) - white trash repairs, and other workarounds that make you laugh
 * [/r/techsupportmacgyver](https://www.reddit.com/r/techsupportmacgyver/) - Macgyvered solutions to problems
@@ -4963,6 +4963,7 @@ rpm --rebuilddb
 * [Sean Kane](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker) - (2018) 6 creative ways to solve problems with Linux containers and Docker
 * [Daniele Polencic](https://learnk8s.io/troubleshooting-deployments) - (2021) A visual guide on troubleshooting Kubernetes deployments
 * [Komodor](https://komodor.com/learn/kubernetes-troubleshooting-the-complete-guide/) - Kubernetes Troubleshooting: The Complete Guide
+* [There, I Fixed It](https://failblog.cheezburger.com/thereifixedit) - white trash repairs. Aka how not to repair things
 
 # UX / UI
 > News
