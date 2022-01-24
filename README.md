@@ -1476,7 +1476,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
 * [Open Culture](https://www.openculture.com/) - The best free cultural & educational media on the web
 * [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** : [Explore catalogue updates by country](https://unogs.com/countrydetail)
- 
+* [Eli McGarvie](https://cult.honeypot.io/reads/13-best-tech-documentaries-for-developers/) - (2022) 13 Best Tech Documentaries For Developers | You can't go wrong with these developer documentaries...
+
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
 * [/r/Infographics](https://www.reddit.com/r/Infographics/) - all the latest infographics
@@ -2866,6 +2867,7 @@ rpm --rebuilddb
 * [European Coffee Trip](https://www.youtube.com/watch?v=13pZASbQODg) - [Video] (2020) Top 8 Coffee Documentaries To Watch Online (for free)
 * [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** : [Explore catalogue updates by country](https://unogs.com/countrydetail)
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
+* [Eli McGarvie](https://cult.honeypot.io/reads/13-best-tech-documentaries-for-developers/) - (2022) 13 Best Tech Documentaries For Developers | You can't go wrong with these developer documentaries...
 
 # Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
