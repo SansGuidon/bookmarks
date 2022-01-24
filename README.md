@@ -347,6 +347,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > * The light, frugal aesthetic. That’s personal, I know, but as you’ll see, I’m not alone.
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
 * [Google Cloud Architecture Center](https://cloud.google.com/architecture/scalable-and-resilient-apps) - Patterns for scalable and resilient apps 
+* [tldraw](https://www.tldraw.com/) - A tiny little drawing app.
 
 # Art :art:
 > News
@@ -1964,6 +1965,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [follow.it](https://follow.it/) - Follow any blog or website
 * [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
 * [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
+* [tldraw](https://www.tldraw.com/) - A tiny little drawing app.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -4034,6 +4036,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 * [n-st/view-on-archive-org.js](https://gist.github.com/n-st/0dd03b2323e7f9acd98e) - Bookmarklet to view current page on the [Internet Archive Wayback Machine](https://archive.org/)
 * [Yubnub](https://yubnub.org/) - a (social) command line for the web
+* [tldraw](https://www.tldraw.com/) - A tiny little drawing app.
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
