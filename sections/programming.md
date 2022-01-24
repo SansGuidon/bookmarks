@@ -1958,6 +1958,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/python.md) - My cheatsheet for Python
 * [Horia Coman](https://dev.to/horia141/jupiter-dev-log-3-lint-all-the-things-51lh) - (2020) Jupiter Dev Log 3 - Lint All The Things
 * [Alex Mitelman](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/) - (2021) Python Best Practices for a New Project in 2021
+* [pipx](https://pypa.github.io/pipx/) - Install and Run Python Applications in Isolated Environments
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
