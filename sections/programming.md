@@ -269,7 +269,7 @@
 * [Lewis Menelaws](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl) - (2018) How to Fix Burnout as a Developer
 * [Tom MacWright](https://macwright.org/2018/02/08/advice-to-the-newish-programmer.html) - (2018) Advice to the newish programmer
 * [Keon Kim](https://keon.io/computer-scientists-trivia/) - Computer Scientist's Trivia | for programmers to understand how long a certain operation takes in and out of a computer.
-* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
+* :star: [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 * [Increment Staff](https://increment.com/development/what-its-like-to-be-a-developer-at/) - (2017) What it’s like to be a developer at …
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/01/19/specialist-vs-generalist/) - (2017) Why you should have the skills of a generalist, but market yourself as a specialist
 * [Itamar Turner-Trauring](https://codewithoutrules.com/2017/02/19/ai-replace-programmers/) - (2017) When AI replaces programmers
@@ -436,6 +436,7 @@
 * [Code Golf](https://code-golf.io/) - a game designed to let you show off your code-fu by solving problems in the least number of characters. It is written in Go and is open source, patches welcome!
 * :star: [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own ... (insert technology here)
 * [Advent of Code](https://adventofcode.com/) - is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
+* :star: [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 
 > Stickers
 * [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
