@@ -243,7 +243,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/) - **Mastodon** : [@MorganGeek@m
 * [Adam Pittenger](https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f) - (2013) Love what you build. Build what you love.
 * [Kenneth N. Lodding, Nasa](https://queue.acm.org/detail.cfm?id=1016985) - (2004) Hitchhiker's Guide to Biomorphic Software | The natural world may be the inspiration we need for solving our computer problems.
 * [Manisha Sahasrabudhe](http://blog.shippable.com/7-things-to-consider-while-moving-to-microservices) - (2017) 7 things to consider while moving to a microservices architecture
-* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
+* :star: [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 * [Greg Williams](https://spin.atomicobject.com/2017/02/22/diagrams-as-documentation/) - (2017) Diagrams as Software Documentation – When a Picture Says it Best
 * [High Scalability](http://highscalability.com/) - Building bigger, faster, more reliable websites
 * [High Scalability](http://highscalability.com/all-time-favorites/) - Here are some of the favorite posts on HighScalability...
