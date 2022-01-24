@@ -466,7 +466,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Ebooks Libres et Gratuits](https://www.ebooksgratuits.com/) - :fr: [FR] Ebooks gratuits, la plupart très vieux puisque tombés dans le domaine public | Free ebooks in french. Most of them are old since they are in the public domain.
 * [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
 * [Mobilism](https://forum.mobilism.me/viewforum.php?f=120) - Your Source for Apps & Books | Login available via [**BugMeNot**](http://bugmenot.com/)
-* [:books: Freely available programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* :star: [:books: **Freely available programming books**](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [Wikisource](https://wikisource.org/wiki/Main_Page) - is an online digital library of free-content textual sources on a wiki, operated by the Wikimedia Foundation. Wikisource is the name of the project as a whole and the name for each instance of that project (each instance usually representing a different language).
 
 > Summaries, notes and reviews
@@ -1715,7 +1715,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Nos livres](http://www.noslivres.net/) - :fr: [FR] Catalogue de livres électroniques du domaine public francophone
 * [Mobilism](https://forum.mobilism.me/viewforum.php?f=120) - Your Source for Apps & Books | Login available via [**BugMeNot**](http://bugmenot.com/)
 * [Redbubble](https://www.redbubble.com/) - Awesome design products designed by independent artists | clothing, stickers, art, masks, accessories, home & living, kids & babies, gifts, ...
-* [:books: Freely available programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* :star: [:books: **Freely available programming books**](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - 📚 Books that will blow your mind. **Bonus** : [Beta website](https://books.vishnuks.com/)
 * [Reddit Favorites](https://redditfavorites.com) - What are reddit's favorite Products, VPNs, Android apps, Books, Youtube videos? | From 3.5 billion comments (number from Sept. 13, 2021)
 * [subredditstats.com](https://subredditstats.com/subreddit-user-overlaps/) - Find Related Subreddits By User/Redditor Overlap
