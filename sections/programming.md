@@ -424,6 +424,7 @@
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
 * [Mathieu Corbin](https://www.mcorbin.fr/posts/2022-01-10-test-technique-interview/) - :fr: [FR] (2022) Test technique lors du recrutement
 * [Swizec Teller](https://swizec.com/blog/why-null-checks-are-bad/) - (2021) Why null checks are bad
+* [Eli McGarvie](https://cult.honeypot.io/reads/13-best-tech-documentaries-for-developers/) - (2022) 13 Best Tech Documentaries For Developers | You can't go wrong with these developer documentaries...
 
 > Programming challenges
 * [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
