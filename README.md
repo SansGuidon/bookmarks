@@ -138,6 +138,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/) - **Mastodon** : [@MorganGeek@m
   * [Java](sections/programming.md#java)
     * [Java EE](sections/programming.md#java-ee)
   * [JavaScript](sections/programming.md#javascript)
+  * [Kafka](sections/programming.md#kafka)
   * [Kotlin](sections/programming.md#kotlin)
   * [Lisp](sections/programming.md#lisp)
   * [Machine learning](sections/programming.md#machine-learning)
