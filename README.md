@@ -2315,7 +2315,14 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 
 > Tools
 * [you feel like shit 💩](https://youfeellikeshit.com/) - a self care game | This game guides you through a series of questions that help you practice self care / help yourself through your shitty times.
- 
+* [Mike Crittenden](https://critter.blog/2022/01/20/the-vowel-check/) - (2022) The vowel check | Run through it daily :
+> * A – Have I practiced abstinence today? This could be anything from booze to reddit to perfectionism; whatever addiction is bringing you down.
+> * E – Have I exercised today?
+> * I – What have I done for myself today?
+> * O – What have I done for others today?
+> * U – Do I have any unexpressed emotions?
+> * Y – The “yeah” factor; what brought me joy today?
+
 ## Remote work
 > Finding a remote job
 * [Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/) - (2015) Best sites for finding your dream remote job
@@ -4207,6 +4214,13 @@ See also [Operations / IT OPS](#operations--it-ops)
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
+* [Mike Crittenden](https://critter.blog/2022/01/20/the-vowel-check/) - (2022) The vowel check | Run through it daily :
+> * A – Have I practiced abstinence today? This could be anything from booze to reddit to perfectionism; whatever addiction is bringing you down.
+> * E – Have I exercised today?
+> * I – What have I done for myself today?
+> * O – What have I done for others today?
+> * U – Do I have any unexpressed emotions?
+> * Y – The “yeah” factor; what brought me joy today?
 
 # Robots
 See also [Machine learning](sections/programming.md#machine-learning)
