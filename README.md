@@ -4426,6 +4426,7 @@ type `curl ident.me` to know your public ip
 * [import.sh](https://import.sh/) - import is a simple and fast module system for Bash and other Unix shells. Inspired by Go's import command, you specify the URL of the shell script, and the import function downloads the file and caches it locally, forever.
 * [Scott Robinson](https://stackabuse.com/substrings-in-bash/) - (2016) Substrings in Bash
 * [Nicolas Karolak](https://blog.karolak.fr/2019/11/25/les-raccourcis-clavier-de-bash/) - :fr: [FR] (2019) Les raccourcis clavier de Bash
+* [Maciej Radzikowski](https://betterdev.blog/minimal-safe-bash-script-template/) - (2020) Minimal safe Bash script template
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
