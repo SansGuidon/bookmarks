@@ -4276,7 +4276,9 @@ See also [CLI Tools](#cli-tools)
 * [Hacker Rank](https://www.hackerrank.com/domains/shell) - Linux Shell challenges, funny but nothing fancy
 * [Commandline Challenge](https://cmdchallenge.com/) - Linux Shell challenges
 * [Bash Hackers Wiki](https://wiki.bash-hackers.org/scripting/obsolete) - obsolete and deprecated syntax
-* [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make
+* [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls) - common errors that Bash programmers make. Each example is flawed in some way.
+* [Bash Guide](https://mywiki.wooledge.org/BashGuide) - This guide aims to aid people interested in learning to work with BASH. It aspires to teach good practice techniques for using BASH, and writing simple scripts.
+* [Bash FAQ](https://mywiki.wooledge.org/BashFAQ) - These are answers to frequently asked questions on channel #bash on the [irc.libera.chat](https://libera.chat/) IRC network
 * :star: [**ShellCheck**](https://www.shellcheck.net/) - finds bugs in your shell scripts. [Source code](https://github.com/koalaman/shellcheck). Can be used online, in Vim, Atom, Sublime Text, ...
 * [Nicola Paolucci](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/) - (2015) Ten tips for wonderful bash productivity
 * [blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) - Mastering Bash and Terminal
@@ -4414,6 +4416,11 @@ type `curl ident.me` to know your public ip
 * [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
 * [Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix) - (2020) So, tell me about Nix
 * [unixnut/scripts](https://github.com/unixnut/scripts) - Small, useful platform-agnostic scripts (mostly just for Linux) that don't justify having their own repo | Lot of cool scripts to take inspiration from.
+* [Mulle kybernetiK](https://www.mulle-kybernetik.com/modern-bash-scripting/) - (2022) Modern Bash (Zsh) Scripting
+* [Bash on Exercism](https://exercism.org/tracks/bash) - Want to learn and master Bash? Join Exercism’s Bash Track for access to 89 exercises with automatic analysis of your code and personal mentoring, all 100% free.
+* [Tim Visee](https://timvisee.com/blog/elegant-bash-conditionals/) - (2021) Elegant bash conditionals
+* [Valentin Bajrami](https://www.redhat.com/sysadmin/stupid-bash-tricks) - (2020) Stupid Bash tricks: History, reusing arguments, files and directories, functions, and more | Here are five great tips and tricks for the Bash shell that you can use at your Linux terminal today.
+* [import.sh](https://import.sh/) - import is a simple and fast module system for Bash and other Unix shells. Inspired by Go's import command, you specify the URL of the shell script, and the import function downloads the file and caches it locally, forever.
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
