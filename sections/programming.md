@@ -1473,6 +1473,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 * [JavaScript Rising Stars](https://risingstars.js.org) - If you took a break to escape the JavaScript fatigue, you are in the right place! 
 * [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
+* [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ## Kafka
 > News
