@@ -426,28 +426,7 @@
 * [Mathieu Corbin](https://www.mcorbin.fr/posts/2022-01-10-test-technique-interview/) - :fr: [FR] (2022) Test technique lors du recrutement
 * [Swizec Teller](https://swizec.com/blog/why-null-checks-are-bad/) - (2021) Why null checks are bad
 * [Eli McGarvie](https://cult.honeypot.io/reads/13-best-tech-documentaries-for-developers/) - (2022) 13 Best Tech Documentaries For Developers | You can't go wrong with these developer documentaries...
-
-## Programming challenges
-* [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
-* [Nick Parlante](http://codingbat.com) - CodingBat : practice your programming skills (exercices in java and python)
-* [Programming Praxis](https://programmingpraxis.com/) - A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer
-* [Hacker Rank](https://www.hackerrank.com/dashboard) - coding challenges (to make yourself ready for coding interviews
-* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - programming challenges on reddit
-* [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
-* [Code Golf](https://code-golf.io/) - a game designed to let you show off your code-fu by solving problems in the least number of characters. It is written in Go and is open source, patches welcome!
-* :star: [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own ... (insert technology here)
-* [Advent of Code](https://adventofcode.com/) - is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
-* :star: [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
-* [Antonio Bello](https://www.raywenderlich.com/135789/how-to-be-a-better-developer-with-programming-challenges) - (2016) How To Be a Better Developer with Programming Challenges
-* * [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour. The annual event occurs during a week in early March.
-* [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
-* [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
-* [Hacker Rank](https://www.hackerrank.com/domains/shell) - Linux Shell challenges, funny but nothing fancy
-* [Commandline Challenge](https://cmdchallenge.com/) - Linux Shell challenges
-* [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish.
-* [Hacknet](http://www.hacknet-os.com/) - a hacking game simulator (not free), potentially boring (move to hackmud)
-* [h a c k m u d](https://www.hackmud.com/) - hackmud, a hacking game simulator (not free) with programming challenges
-* [Exercism](https://exercism.org/) - Get really good at programming. | Develop fluency in 55 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.
+* [Bohdan Balov](https://betterprogramming.pub/lead-software-engineer-roadmap-37b8fc10a93f) - (2022) The Roadmap of a Lead Software Engineer | Experience and knowledge you need to gain to become a lead software engineer
 
 > Stickers
 * [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
@@ -473,6 +452,28 @@
 * [Principles.dev](https://principles.dev/) - Open-source Software Engineering and Leadership principles | Make better decisions using principles - For Software Engineers and technical leaders who want better results.
 * [/uses](https://uses.tech/) - A list of `/uses` pages detailing developer setups, gear, software and configs.
 * [daily.dev](https://daily.dev/) - The Homepage Every Developer Deserves | daily.dev is the fastest growing online community for developers to stay updated on the best developer news. 
+
+## Programming challenges
+* [Colin Hughes](https://projecteuler.net/index.php?section=problems) - Project Euler proposes a series of challenging mathematical/computer programming problems
+* [Nick Parlante](http://codingbat.com) - CodingBat : practice your programming skills (exercices in java and python)
+* [Programming Praxis](https://programmingpraxis.com/) - A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer
+* [Hacker Rank](https://www.hackerrank.com/dashboard) - coding challenges (to make yourself ready for coding interviews
+* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) - programming challenges on reddit
+* [/r/codegolf](https://www.reddit.com/r/codegolf/) - Challenges to test your code shortening skills. Not necessarily practical, but fun!
+* [Code Golf](https://code-golf.io/) - a game designed to let you show off your code-fu by solving problems in the least number of characters. It is written in Go and is open source, patches welcome!
+* :star: [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own ... (insert technology here)
+* [Advent of Code](https://adventofcode.com/) - is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
+* :star: [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
+* [Antonio Bello](https://www.raywenderlich.com/135789/how-to-be-a-better-developer-with-programming-challenges) - (2016) How To Be a Better Developer with Programming Challenges
+* * [7DRL Challenge 2019](https://itch.io/jam/7drl-challenge-2019) - In 2005, the roguelike community established a yearly event, the 7DRL Challenge, in which developers are challenged to create a roguelike in seven days. This allows one to have the shared misery of knowing you are not the only one tracking down a bad pointer at the 167th hour. The annual event occurs during a week in early March.
+* [Dwitter.net](https://www.dwitter.net/) - is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
+* [Hacker Rank](https://www.hackerrank.com/domains/shell/grep-sed-awk) - Bash challenges (bash, grep, sed, awk ...)
+* [Hacker Rank](https://www.hackerrank.com/domains/shell) - Linux Shell challenges, funny but nothing fancy
+* [Commandline Challenge](https://cmdchallenge.com/) - Linux Shell challenges
+* [LOWREZJAM 2019](https://itch.io/jam/lowrezjam-2019) - The goal of the jam is to create a game with a resolution of 64x64 pixels or less. You can use whatever programming language or tools that you wish.
+* [Hacknet](http://www.hacknet-os.com/) - a hacking game simulator (not free), potentially boring (move to hackmud)
+* [h a c k m u d](https://www.hackmud.com/) - hackmud, a hacking game simulator (not free) with programming challenges
+* [Exercism](https://exercism.org/) - Get really good at programming. | Develop fluency in 55 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
