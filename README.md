@@ -116,6 +116,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/) - **Mastodon** : [@MorganGeek@m
   * [Productivity tips](#productivity-tips)
   * [Productivity tools](#productivity-tools)
 * [Programming](sections/programming.md#programming)
+  * [Programming challenges](sections/programming.md#programming-challenges)
   * [API](sections/programming.md#api)
   * [Assembly](sections/programming.md#assembly)
   * [C/C++](sections/programming.md#cc)
