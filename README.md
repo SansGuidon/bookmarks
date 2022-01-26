@@ -4422,6 +4422,7 @@ type `curl ident.me` to know your public ip
 * [Tim Visee](https://timvisee.com/blog/elegant-bash-conditionals/) - (2021) Elegant bash conditionals
 * [Valentin Bajrami](https://www.redhat.com/sysadmin/stupid-bash-tricks) - (2020) Stupid Bash tricks: History, reusing arguments, files and directories, functions, and more | Here are five great tips and tricks for the Bash shell that you can use at your Linux terminal today.
 * [import.sh](https://import.sh/) - import is a simple and fast module system for Bash and other Unix shells. Inspired by Go's import command, you specify the URL of the shell script, and the import function downloads the file and caches it locally, forever.
+* [Scott Robinson](https://stackabuse.com/substrings-in-bash/) - (2016) Substrings in Bash
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
