@@ -1793,6 +1793,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Unix Sheikh](https://www.unixsheikh.com/articles/how-to-write-software-than-will-keep-working-for-decades.html) - (2021) How to write software than will keep working for decades without problems
 * :fire: [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
+* [Nicolas Karolak](https://blog.karolak.fr/2019/11/25/les-raccourcis-clavier-de-bash/) - :fr: [FR] (2019) Les raccourcis clavier de Bash
 
 > Tools
 * [Devhints](https://devhints.io/) - Rico's cheatsheets | TL;DR for developer documentation
