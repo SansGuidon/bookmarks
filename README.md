@@ -3943,6 +3943,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 > To a very large extent, [your productivity is a result of what you choose to work on](https://yosefk.com/blog/10x-more-selective.html). Keep things perceived as easy out of that list. When you can't, postponing an "easy" thing can make it both "harder" and smaller.
 * [Yossi Kreinin aka wetware](https://yosefk.com/blog/10x-more-selective.html) - (2013) 10x more selective
 > So I believe, having authored a lot of code that went down the toilet, that you don't get productive by working as much as by not working – not on stuff that is likely to get thrown away.
+* [Nicolas Karolak](https://blog.karolak.fr/2019/11/25/les-raccourcis-clavier-de-bash/) - :fr: [FR] (2019) Les raccourcis clavier de Bash
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -4423,6 +4424,7 @@ type `curl ident.me` to know your public ip
 * [Valentin Bajrami](https://www.redhat.com/sysadmin/stupid-bash-tricks) - (2020) Stupid Bash tricks: History, reusing arguments, files and directories, functions, and more | Here are five great tips and tricks for the Bash shell that you can use at your Linux terminal today.
 * [import.sh](https://import.sh/) - import is a simple and fast module system for Bash and other Unix shells. Inspired by Go's import command, you specify the URL of the shell script, and the import function downloads the file and caches it locally, forever.
 * [Scott Robinson](https://stackabuse.com/substrings-in-bash/) - (2016) Substrings in Bash
+* [Nicolas Karolak](https://blog.karolak.fr/2019/11/25/les-raccourcis-clavier-de-bash/) - :fr: [FR] (2019) Les raccourcis clavier de Bash
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
