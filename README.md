@@ -1312,6 +1312,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language | TOML aims to be a minimal configuration file format that's easy to read due to obvious semantics.
 * [Cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro | Create smart AWS diagrams
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
+* [rfc.me](https://rfc.me/) - Append an RFC number to the domain and it will redirect to that RFC. Example: [rfc.me/1738](https://rfc.me/1738)
+* [rfc.fyi](https://rfc.fyi/) - Search for RFCs, Fast — When they say ‘fast’ they’re not lying. This site is amazingly nimble at helping you track down the particular RFC you want, whether you want to read the FTP spec, a protocol for controlling coffee pots, or how QUIC works.
 
 ## Onboarding
 * [Ingrid Towey](https://opensource.com/open-organization/17/9/culture-building-onboarding-buddies) - Growing your team's open culture, one buddy at a time
@@ -1974,6 +1976,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
 * [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 * [tldraw](https://www.tldraw.com/) - A tiny little drawing app.
+* [Every Noise at Once](https://everynoise.com/) - is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for `5,745 genre-shaped distinctions by Spotify as of 2022-01-26`. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier.
+* [rfc.me](https://rfc.me/) - Append an RFC number to the domain and it will redirect to that RFC. Example: [rfc.me/1738](https://rfc.me/1738)
+* [rfc.fyi](https://rfc.fyi/) - Search for RFCs, Fast — When they say ‘fast’ they’re not lying. This site is amazingly nimble at helping you track down the particular RFC you want, whether you want to read the FTP spec, a protocol for controlling coffee pots, or how QUIC works.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
