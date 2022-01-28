@@ -1198,6 +1198,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * > Poor morale
 * [Michael Lopp](https://randsinrepose.com/archives/the-old-guard/) - (2014) The Old Guard
 * [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
+* [Stéphane Deschamps](https://nota-bene.org/Les-handicapes-vous-disent-merde) - :fr: [FR] (2022) Les handicapés vous disent merde | Inclusion, piège à cons.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -1783,6 +1784,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
 * [Out.be](https://www.out.be/fr/agenda/bruxelles/list/) - 🇧🇪 🇫🇷 [BE] [FR] Que faire à Bruxelles ? | Sorties et Loisirs à Bruxelles
+* [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
 
 # Free online tools :free:
 * :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
@@ -2317,6 +2319,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
 * [Goomics](https://goomics.net/) - Comics about life at Google
 * [Cate Huston](https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job/) - (2021) 5 Signs It’s Time to Quit Your Job
+* [Trevor Haynes](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) - (2018) Dopamine, Smartphones & You: A battle for your time
+* [Johann Hari](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - (2022) Your attention didn’t collapse. It was stolen | Social media and many other facets of modern life are destroying our ability to concentrate. We need to reclaim our minds while we still can
 
 > Tools
 * [you feel like shit 💩](https://youfeellikeshit.com/) - a self care game | This game guides you through a series of questions that help you practice self care / help yourself through your shitty times.
@@ -2382,7 +2386,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Bruxelles-Properté](https://www.arp-gan.be/fr/localisation.html) - 🇧🇪 🇫🇷 [BE] [FR] Localisation des bulles à verre à Bruxelles
 * [Bruxelles Secrète](https://bruxellessecrete.com/) - 🇧🇪 🇫🇷 [BE] [FR] 💗 Confidences, inspirations, bons plans... Bruxelles Secrète fera de vous des bruxellois encore plus authentiques que vous ne l’êtes déjà ! Découvrez les secrets cachés, inspirez-vous des dernières tendances et dénichez les meilleurs plans.
 * [VivreIci](http://www.vivreici.be/article/detail_ou-trouver-les-producteurs-locaux-et-les-paniers-bio-a-bruxelles-carte-interactive?id=92770) - 🇧🇪 🇫🇷 [BE] [FR] La carte interactive des producteurs locaux et paniers bio à Bruxelles
- 
+* [be.brussels](https://be.brussels/culture-tourisme-loisirs/bruxelles-avec-des-enfants) - 🇧🇪 🇫🇷 [BE] [FR] Bruxelles avec des enfants
+* [Babytheek](https://babytheek.wordpress.com/francais/cest-quoi-la-babytheque/) - 🇫🇷 🇧🇪 [FR] [BE] La Bébéthèque offre un départ durable aux bébés bruxellois. Il s’agit d’un système pratique de prêt d’affaires pour bébés qui ne servent que très peu de temps. Que votre espace de vie soit restreint, que vous accueilliez votre petite nièce plusieurs fois par an, que votre budget soit limité ou que vous ayez décidé de consommer moins, la Bébéthèque constitue la solution idéale pour les jeunes ménages en quête de matériel de puériculture durable. 
+* [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
+
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
 * [Untappd](https://untappd.com/) - drink socially, and rate your beers :beers:
@@ -3375,7 +3382,10 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Nitzia Logothetis](https://www.seleni.org/advice-support/2018/3/16/monitoring-our-parenting) - (2018) Monitoring Our Parenting | Does tracking your child's vital signs keep him safe or drive you crazy?
 * [Nadine Descheneaux](https://www.noovomoi.ca/vivre/famille/article.la-depression-post-partum-chez-le-pere.1.9381889.html) - [FR] 🇫🇷 (2019) La dépression post-partum chez le père
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/family-2021) - 🇫🇷 🇧🇪 [FR] [BE] (2021) FAMILY'IN 2021 : Programmation d'activités pour les familles et les enfants
-
+* [Babytheek](https://babytheek.wordpress.com/francais/cest-quoi-la-babytheque/) - 🇫🇷 🇧🇪 [FR] [BE] La Bébéthèque offre un départ durable aux bébés bruxellois. Il s’agit d’un système pratique de prêt d’affaires pour bébés qui ne servent que très peu de temps. Que votre espace de vie soit restreint, que vous accueilliez votre petite nièce plusieurs fois par an, que votre budget soit limité ou que vous ayez décidé de consommer moins, la Bébéthèque constitue la solution idéale pour les jeunes ménages en quête de matériel de puériculture durable. 
+* [be.brussels](https://be.brussels/culture-tourisme-loisirs/bruxelles-avec-des-enfants) - 🇧🇪 🇫🇷 [BE] [FR] Bruxelles avec des enfants
+* [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
+ 
 # Philosophy :thought_balloon:
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
 * [Real News](http://www.realnews24.com/socrates-was-one-of-the-smartest-people-who-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read/) - some Socrates quotes worth the reading
@@ -3713,6 +3723,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Lionel Dricot aka PLOUM](https://ploum.net/1er-janvier-2022-quelques-minutes-apres-minuit/) - :fr: [FR] (2022) 1er janvier 2022, quelques minutes après minuit | PLOUM se déconnecte
 * [Johann Hari](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - (2022) Your attention didn’t collapse. It was stolen | Social media and many other facets of modern life are destroying our ability to concentrate. We need to reclaim our minds while we still can
 * [Jeff Huang](https://jeffhuang.com/productivity_text_file/) - (2020) My productivity app for the past 12 years has been a single .txt file
+* [Trevor Haynes](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) - (2018) Dopamine, Smartphones & You: A battle for your time
 
 ## Productivity tips
 * :star: [**/r/productivity**](https://www.reddit.com/r/productivity/) - productivity tips & news on reddit
@@ -4221,6 +4232,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
 * [Nadine Descheneaux](https://www.noovomoi.ca/vivre/famille/article.la-depression-post-partum-chez-le-pere.1.9381889.html) - [FR] 🇫🇷 (2019) La dépression post-partum chez le père
 * [Johann Hari](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - (2022) Your attention didn’t collapse. It was stolen | Social media and many other facets of modern life are destroying our ability to concentrate. We need to reclaim our minds while we still can
+* [Trevor Haynes](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) - (2018) Dopamine, Smartphones & You: A battle for your time
+* [Dr. A.J. Drenth](https://personalityjunkie.com/09/infps-intps-infjs-intjs-struggle-to-act/) - (2013) Why INFPs, INTPs, INFJs, & INTJs Struggle to Act
 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
@@ -5074,6 +5087,7 @@ rpm --rebuilddb
 * [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y/blob/master/topics/validators.md) - Development Testing and Validators focused on accessibility
 * [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
 * [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
+* [Stéphane Deschamps](https://nota-bene.org/Les-handicapes-vous-disent-merde) - :fr: [FR] (2022) Les handicapés vous disent merde | Inclusion, piège à cons.
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
