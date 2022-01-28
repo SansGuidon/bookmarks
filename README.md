@@ -647,6 +647,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [BX1](https://bx1.be/categories/news/declaration-dimpots-2021-voici-tout-ce-quil-faut-savoir/) - 🇧🇪 [BE] (2021) Déclaration d’impôt 2021 : voici tout ce qu’il faut savoir
 * [Petra De Rouck](https://www.lecho.be/monargent/analyse/impots/pas-de-restos-ni-de-bureau-en-2020-comment-declarer-vos-frais-professionnels/10307541.html) - 🇧🇪 [BE] (2020) Pas de restos ni de bureau en 2020: comment déclarer vos frais professionnels?
 * [DevOps Salaries](https://salaries.devops-jobs.net/) - Let's make global salaries in DevOps a bit more open and transparent
+* [Richard Dern](https://www.richard-dern.fr/blog/2016/07/27/alphabet-une-entreprise-pas-comme-les-autres/) - :fr: [FR] (2016) Alphabet, une entreprise pas comme les autres
 
 > Tools
 * [Nintendo eShop price comparator](https://eshop-prices.com/prices?currency=EUR) - Find the cheapest price for your favourite game, all prices are in Euro.
@@ -3518,6 +3519,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Aliza Vigderman & Gabe Turner](https://www.security.org/vpn/anonymity/) - (2021) How To Remain Anonymous on the Internet | Learn over 20 ways to stay as private as possible on the web.
 * [Viktor Vecsei](https://www.ivpn.net/blog/why-you-dont-need-a-vpn/) - (2020) Why you don't need a VPN
 * [web0 manifesto](https://web0.small-web.org/) - web0 is the decentralised web | In other words, web0 is web3 without all the corporate right-libertarian Silicon Valley bullshit. **See also** [Source code](https://github.com/small-tech/web0) and [Small Technology Foundation Home](https://small-tech.org/)
+* [Richard Dern](https://www.richard-dern.fr/blog/2016/07/27/alphabet-une-entreprise-pas-comme-les-autres/) - :fr: [FR] (2016) Alphabet, une entreprise pas comme les autres
 
 ## Privacy tools
 * :star: [**Privacy tools**](https://www.privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
@@ -4808,6 +4810,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Neo-Luddism](https://en.wikipedia.org/wiki/Neo-Luddism) - Neo-Luddism or new Luddism is a philosophy opposing many forms of modern technology.
 * [Framalang](https://framablog.org/2015/03/12/le-confort-ou-la-liberte/) - :fr: [FR] (2015) Le confort ou la liberté ? **See also** the original article -> [Dan Gillmor](https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd) - (2015) Why I’m Saying Goodbye to Apple, Google and Microsoft | I’m putting more trust in communities than corporations
 * [Richard Dern](https://www.richard-dern.fr/blog/2022/01/21/l-informatique-c-etait-mieux-avant/) - :fr: [FR] (2022) L'informatique, c'était mieux avant
+* [Richard Dern](https://www.richard-dern.fr/blog/2016/07/27/alphabet-une-entreprise-pas-comme-les-autres/) - :fr: [FR] (2016) Alphabet, une entreprise pas comme les autres
 
 # Sports
 * [Electric Unicycle Forum](http://forum.electricunicycle.org/) - forum for reviews and discussions related to electric unicycles
