@@ -1727,6 +1727,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** : [Explore catalogue updates by country](https://unogs.com/countrydetail)
 * [You.com](https://you.com/) - The private search engine that summarizes the best parts of the internet for you, without privacy-invading ads and with great privacy | Note that anyway they share some data with third party as mentioned in their [Privacy](https://you.com/legal/privacy) guide but they try to limit the amount of data collected, in order to offer the best of privacy and customised experienced. 
 * [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 [FR] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
+* [Every Noise at Once](https://everynoise.com/) - is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for `5,745 genre-shaped distinctions by Spotify as of 2022-01-26`. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
@@ -2924,6 +2925,7 @@ rpm --rebuilddb
 * [sebsauvage.net](https://sebsauvage.net/wiki/doku.php?id=musique) - 🇫🇷 [FR] Musique en ligne, sélections par sebsauvage
 * [Classic 21](https://www.rtbf.be/classic21/) - 🇧🇪 🇫🇷 [BE] [FR] est une station de radio belge de service public orientée vers la musique pop/rock de 1950 à nos jours. Faisant partie de la RTBF, sa création remonte au 1ᵉʳ avril 2004, date à laquelle Radio 21 a cédé la place à deux nouvelles stations : Pure FM et Classic 21.
 * [Classic 21](https://www.rtbf.be/classic21/emissions/detail_les-podcasts-de-classic-21?programId=18188) - 🇧🇪 🇫🇷 [BE] [FR] Les podcasts de Classic 21
+* [Every Noise at Once](https://everynoise.com/) - is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for `5,745 genre-shaped distinctions by Spotify as of 2022-01-26`. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier.
 
 > Tools
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
