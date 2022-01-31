@@ -1371,6 +1371,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [Faheetah](https://gist.github.com/Faheetah/e11bd0315c34ed32e681616e41279ef4) - Jenkinsfile idiosynchrasies with escaping and quotes : Examples of weirdness of Jenkinsfile / Groovy syntax
 * [Denny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-jenkins-groovy-a4) - (2018) CheatSheet: Jenkins & Groovy
 * [Groovy Docs](https://groovy-lang.org/syntax.html#_string_summary_table) - Syntax : String summary table
+* [Go Proverbs](https://go-proverbs.github.io/) - ⭐️  Go Proverbs — A collection of pithy sayings to post on your team’s wall (perhaps?) so they remember some handy principles of idiomatic Go | a set of Simple, Poetic, Pithy principles that every Go developer should keep in mind when working with the programming language. **Related** [jboursiquot/go-proverbs](https://github.com/jboursiquot/go-proverbs) 
 
 ## Haskell
 * [Miran Lipovača](http://learnyouahaskell.com/chapters) - [Book] Learn You a Haskell for Great Good! and for free
