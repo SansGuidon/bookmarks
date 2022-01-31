@@ -1354,6 +1354,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [Loris Cro](https://kristoff.it/blog/why-go-and-not-rust/) - (2019) Why Go and not Rust? | What's the role of Go in a universe where Rust exists?
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
 * [Ayooluwa Isaiah](https://freshman.tech/linting-golang/) - (2021) A guide to linting Go programs
+* [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
