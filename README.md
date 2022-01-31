@@ -351,6 +351,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Google Cloud Architecture Center](https://cloud.google.com/architecture/scalable-and-resilient-apps) - Patterns for scalable and resilient apps 
 * [tldraw](https://www.tldraw.com/) - A tiny little drawing app.
 * [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
+* [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
+* [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
 
 # Art :art:
 > News
@@ -388,6 +390,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Goomics](https://goomics.net/) - Comics about life at Google
 * [INeedCoffee](https://ineedcoffee.com/section/coffee-comics/) - Life is Coffee Comics
 * [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
+* [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
+* [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
 
 > Tools
 * [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
@@ -1423,6 +1427,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 * [Instructables](http://www.instructables.com/) - How to make anything
 * [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
+* [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
+* [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1742,6 +1748,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 [FR] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
 * [Every Noise at Once](https://everynoise.com/) - is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for `5,745 genre-shaped distinctions by Spotify as of 2022-01-26`. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier.
 * [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
+* [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
+* [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
@@ -4308,6 +4316,8 @@ See also [Machine learning](sections/programming.md#machine-learning)
 * [YourThings Scorecard](https://yourthings.info/scorecards/) - Evaluating and scoring smart-home devices to improve security! Learn how (in)secure your IoT devices are
 * [ideabot.io](https://ideabot.io/product-prediction) - Product prediction : What will they create next? GPT-3 predicts what the top makers will build based on their previous launches and these are the results
 * [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
+* [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
+* [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
 
 # Shell scripting
 See also [CLI Tools](#cli-tools)
