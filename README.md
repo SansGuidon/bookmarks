@@ -350,6 +350,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
 * [Google Cloud Architecture Center](https://cloud.google.com/architecture/scalable-and-resilient-apps) - Patterns for scalable and resilient apps 
 * [tldraw](https://www.tldraw.com/) - A tiny little drawing app.
+* [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
 
 # Art :art:
 > News
@@ -386,6 +387,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
 * [Goomics](https://goomics.net/) - Comics about life at Google
 * [INeedCoffee](https://ineedcoffee.com/section/coffee-comics/) - Life is Coffee Comics
+* [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
 
 > Tools
 * [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
@@ -648,6 +650,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Petra De Rouck](https://www.lecho.be/monargent/analyse/impots/pas-de-restos-ni-de-bureau-en-2020-comment-declarer-vos-frais-professionnels/10307541.html) - 🇧🇪 [BE] (2020) Pas de restos ni de bureau en 2020: comment déclarer vos frais professionnels?
 * [DevOps Salaries](https://salaries.devops-jobs.net/) - Let's make global salaries in DevOps a bit more open and transparent
 * [Richard Dern](https://www.richard-dern.fr/blog/2016/07/27/alphabet-une-entreprise-pas-comme-les-autres/) - :fr: [FR] (2016) Alphabet, une entreprise pas comme les autres
+* [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/) - "Bitcoin is Dead" Declared 400+ Times (2022)
+* [Bitcoin Is Dead](https://www.bitcoinisdead.org/) - The #1 Database of Notable Bitcoin Skeptics. 
+* > In fact, Bitcoin is very much alive. See the activity on the Bitcoin network - market price, average block size, transactions per day, mempool size, total circulation, market capitalization, exchange trade volume, blockchain size, average transaction per block, average payments per block, confirmation times, etc. - here.
 
 > Tools
 * [Nintendo eShop price comparator](https://eshop-prices.com/prices?currency=EUR) - Find the cheapest price for your favourite game, all prices are in Euro.
@@ -687,6 +692,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Slofile](https://slofile.com/category/Crypto) - Slack channels on cryptocurrency
 * [CSVShare](https://csvshare.com/view/Vk_tfwlTX) - Blockchain & Crypto Slack Communities
 * [WalletInvestor](https://walletinvestor.com/forecast) - Cryptocurrency Forecast (Bitcoin & Altcoin, ICO Prediction, Prognosis 2018, 2019)
+* [Bitcoin Obituaries](https://99bitcoins.com/bitcoin-obituaries/) - "Bitcoin is Dead" Declared 400+ Times (2022)
+* [Bitcoin Is Dead](https://www.bitcoinisdead.org/) - The #1 Database of Notable Bitcoin Skeptics. 
+* > In fact, Bitcoin is very much alive. See the activity on the Bitcoin network - market price, average block size, transactions per day, mempool size, total circulation, market capitalization, exchange trade volume, blockchain size, average transaction per block, average payments per block, confirmation times, etc. - here.
 
 > Learn
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
@@ -1413,6 +1421,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Matthieu Lesne aka coreight](https://coreight.com/content/trouver-des-solutions-creatives-a-ses-problemes) - 🇫🇷 [FR] (2015) 5 étapes pour trouver des solutions créatives à ses problèmes
 * [Mark Manson](https://getpocket.com/explore/item/find-what-you-love-and-let-it-kill-you) - (2014) Find What You Love and Let It Kill You : The best things in life can sometimes be ugly. If you find what you love, then you’ll also find all the pain and struggle that comes with it. | Mark Manson is the author of Everything Is F*cked: A Book About Hope.Buy the book
 * [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
+* [Instructables](http://www.instructables.com/) - How to make anything
+* [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -1731,6 +1741,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [You.com](https://you.com/) - The private search engine that summarizes the best parts of the internet for you, without privacy-invading ads and with great privacy | Note that anyway they share some data with third party as mentioned in their [Privacy](https://you.com/legal/privacy) guide but they try to limit the amount of data collected, in order to offer the best of privacy and customised experienced. 
 * [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 [FR] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
 * [Every Noise at Once](https://everynoise.com/) - is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for `5,745 genre-shaped distinctions by Spotify as of 2022-01-26`. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier.
+* [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
@@ -4296,6 +4307,7 @@ See also [Machine learning](sections/programming.md#machine-learning)
 * [Karen Hao](https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data) - (2020) A radical new technique lets AI learn with practically no data | “Less than one”-shot learning can teach a model to identify more objects than the number of examples it is trained on.
 * [YourThings Scorecard](https://yourthings.info/scorecards/) - Evaluating and scoring smart-home devices to improve security! Learn how (in)secure your IoT devices are
 * [ideabot.io](https://ideabot.io/product-prediction) - Product prediction : What will they create next? GPT-3 predicts what the top makers will build based on their previous launches and these are the results
+* [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
 
 # Shell scripting
 See also [CLI Tools](#cli-tools)
