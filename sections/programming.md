@@ -1447,7 +1447,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [Stoyan Stefanov](http://www.phpied.com/files/location-location/location-location.html) - 535 ways to reload the page with JavaScript
 * [Keith Cirkel](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - (2014) Why we should stop using Grunt & Gulp
 * [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape : embeddable Javascript engine with a focus on portability and compact footprint
-* [Una Kravets](http://youmightnotneedjs.com/) - You Might Not Need JavaScript
+* [Una Kravets](https://youmightnotneedjs.com/) - You Might Not Need JavaScript
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 * [Frederik Andersson](https://www.webcodegeeks.com/javascript/node-js/updating-maintainable-npm-module-continuous-integration/) - (2017) Updating a Maintainable NPM Module with Continuous Integration
 * [Gregg Caines](http://caines.ca/blog/2014/06/01/production-quality-node-dot-js-web-apps-part-i/) - (2014) Production-Quality Node.js Web Apps : Part I, the Basics. **Bonus** : [Part II, Detecting Defects](http://caines.ca/blog/2014/06/02/production-quality-node-dot-js-web-apps-part-ii/) + [Part III, Preventing Defects](http://caines.ca/blog/2014/06/22/production-quality-node-dot-js-web-apps-part-iii/)
