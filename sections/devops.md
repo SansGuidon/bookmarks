@@ -1112,6 +1112,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Komodor](https://komodor.com/learn/kubernetes-troubleshooting-the-complete-guide/) - Kubernetes Troubleshooting: The Complete Guide
 * [Komodor](https://komodor.com/learning-center/?category=kubernetes) - Learning resources for Kubernetes
 * [Maik Zumstrull](https://ably.com/blog/no-we-dont-use-kubernetes) - (2021) No, we don’t use Kubernetes
+* [Nelson Elhage aka nelhage](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/) - (2022) Two reasons Kubernetes is so complex
 
 > Tips
 * [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes.
