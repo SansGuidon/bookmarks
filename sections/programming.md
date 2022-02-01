@@ -428,7 +428,9 @@
 * [Eli McGarvie](https://cult.honeypot.io/reads/13-best-tech-documentaries-for-developers/) - (2022) 13 Best Tech Documentaries For Developers | You can't go wrong with these developer documentaries...
 * [Bohdan Balov](https://betterprogramming.pub/lead-software-engineer-roadmap-37b8fc10a93f) - (2022) The Roadmap of a Lead Software Engineer | Experience and knowledge you need to gain to become a lead software engineer
 * [How old is it?](https://howoldisit.glitch.me/) - How long has _react, vue, ember, etc._ existed? | This is a handy tool for tech recruiters who ask for fifteen years experience in technologies that have only existed for three months.
-
+* [Spencer Baugh](https://catern.com/change_code.html) - (2022) Prefer to change the code rather than write a workaround
+* [Spencer Baugh](https://catern.com/config.html) - (2021) Write code, not configuration
+*
 > Stickers
 * [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
 * [Zazzle](https://www.zazzle.com/software+developer+stickers) - Software Developer Stickers
@@ -846,6 +848,8 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
 * [Swizec Teller](https://swizec.com/blog/why-null-checks-are-bad/) - (2021) Why null checks are bad
 * [Steve Barnegren](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code - (2022) There’s No Such Thing as Clean Code
+* [Spencer Baugh](https://catern.com/change_code.html) - (2022) Prefer to change the code rather than write a workaround
+* [Spencer Baugh](https://catern.com/config.html) - (2021) Write code, not configuration
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
@@ -1801,6 +1805,8 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * :fire: [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 * [Nicolas Karolak](https://blog.karolak.fr/2019/11/25/les-raccourcis-clavier-de-bash/) - :fr: [FR] (2019) Les raccourcis clavier de Bash
+* [Spencer Baugh](https://catern.com/change_code.html) - (2022) Prefer to change the code rather than write a workaround
+* [Spencer Baugh](https://catern.com/config.html) - (2021) Write code, not configuration
 
 > Tools
 * [Devhints](https://devhints.io/) - Rico's cheatsheets | TL;DR for developer documentation
