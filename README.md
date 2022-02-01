@@ -5158,6 +5158,7 @@ See also [Ecology :seedling:](#ecology-seedling) && [Performance](#performance) 
 * [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
 * [Stéphane Deschamps](https://nota-bene.org/Les-handicapes-vous-disent-merde) - :fr: [FR] (2022) Les handicapés vous disent merde | Inclusion, piège à cons.
 * [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+* [a11yphant](https://a11yphant.com/) - Learning web accessibility made easy | Learn web accessibility, one step at a time, broken down into manageable pieces, called challenges. You won't need to read large amounts of text to complete those. Instead, you will learn by applying the concepts in code. Get started with your first web accessibility challenge and improve your skills.
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
@@ -5243,6 +5244,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Ecology :seedling:](#ec
 > * The light, frugal aesthetic. That’s personal, I know, but as you’ll see, I’m not alone.
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
 * [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+* [a11yphant](https://a11yphant.com/) - Learning web accessibility made easy | Learn web accessibility, one step at a time, broken down into manageable pieces, called challenges. You won't need to read large amounts of text to complete those. Instead, you will learn by applying the concepts in code. Get started with your first web accessibility challenge and improve your skills.
 
 ## Web development checklists / best practices
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
