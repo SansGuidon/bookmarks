@@ -427,6 +427,7 @@
 * [Swizec Teller](https://swizec.com/blog/why-null-checks-are-bad/) - (2021) Why null checks are bad
 * [Eli McGarvie](https://cult.honeypot.io/reads/13-best-tech-documentaries-for-developers/) - (2022) 13 Best Tech Documentaries For Developers | You can't go wrong with these developer documentaries...
 * [Bohdan Balov](https://betterprogramming.pub/lead-software-engineer-roadmap-37b8fc10a93f) - (2022) The Roadmap of a Lead Software Engineer | Experience and knowledge you need to gain to become a lead software engineer
+* [How old is it?](https://howoldisit.glitch.me/) - How long has _react, vue, ember, etc._ existed? | This is a handy tool for tech recruiters who ask for fifteen years experience in technologies that have only existed for three months.
 
 > Stickers
 * [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
@@ -1929,6 +1930,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Michael Küsters](https://docs.google.com/document/u/1/d/1-2aZP3BlctQrWP8bNpSxkVBKphypALPINUGGTn26els/mobilebasic) - (2019) The Scream Guide - A comprehensive Guide to Scream: When Scrum would require too much change! (Parodic guide to Scrum)
 * [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Gorgeous ways to exit Vim :-D (it goes beyond what you expect)
 * [RePokémon](https://cheeaun.github.io/repokemon/) - Showcase of GitHub repos with Pokémon names
+* [How old is it?](https://howoldisit.glitch.me/) - How long has _react, vue, ember, etc._ existed? | This is a handy tool for tech recruiters who ask for fifteen years experience in technologies that have only existed for three months.
 
 ## Prolog
 > News
