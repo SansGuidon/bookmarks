@@ -81,6 +81,7 @@
 * [Honeycomb Blog](https://www.honeycomb.io/blog/) - Honeycomb helps engineering teams deeply understand their own production systems through observability. Their mission : Give all software engineering teams the observability they need to eliminate toil and delight their users.
 * [DevOps Newsletters](https://devopsnewsletters.com/) - a one stop shop for the best DevOps news content from around the world.
 * [The Shipt It! Podcast](https://changelog.com/shipit - A podcast about getting your best ideas into the world and seeing what happens.
+* [Devops Weekly](https://www.devopsweekly.com/) - A weekly slice of devops news
 
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
