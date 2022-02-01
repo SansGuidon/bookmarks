@@ -104,6 +104,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/) - **Mastodon** : [@MorganGeek@m
   * [Nginx](#nginx)
   * [ServiceNow](#servicenow)
 * [Parenting :baby:](#parenting-baby)
+* [Performance](#performance)
 * [Philosophy :thought_balloon:](#philosophy-thought_balloon)
 * [Photography](#photography)
 * [Podcasts :radio:](#podcasts-radio)
@@ -353,6 +354,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
 * [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
 * [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
+* [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
 
 # Art :art:
 > News
@@ -1557,6 +1559,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Neil Patel](https://blog.hubspot.com/marketing/psychology-of-excitement) - (2015) The Psychology of Excitement: How to Better Engage Your Audience | marketing
 
 # Ecology :seedling:
+See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performance) && [Web development](#web-development)
+
 * [Cartooning for Peace](http://www.cartooningforpeace.org/cartoonotheque/) - [IMGS] Cartoons about censorship, freedom of expression, human rights, environment, inequality, war, religion, migrations, etc
 * [IRCEL - CELINE](http://www.irceline.be/en/front-page?set_language=en) - 🇧🇪 [BE] Current Air Quality Measurements of Belgian Interregional Environment Agency (IRCEL - CELINE)
 * [écoconso](https://www.ecoconso.be/fr/content/magasins-de-vrac-et-zero-dechet-de-wallonie-et-bruxelles) - 🇫🇷 🇧🇪 [FR] [BE] Magasins de vrac et zéro déchet de Wallonie et Bruxelles
@@ -1592,6 +1596,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > * Arial (11,3 pt, 3 148 caractères) 8,835 107 %
 * [Alex so yes](https://alexsoyes.com/eco-conception-web/) - :fr: [FR] (2021) Comment coder un site écologique ? Devenir un développeur green avec l’éco-conception web
 * [Unix Sheikh](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html) - (2022) Is the madness ever going to end?
+* [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
@@ -3412,6 +3417,35 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [be.brussels](https://be.brussels/culture-tourisme-loisirs/bruxelles-avec-des-enfants) - 🇧🇪 🇫🇷 [BE] [FR] Bruxelles avec des enfants
 * [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
  
+# Performance
+See also [Accessibility (a11y)](#accessibility-a11y) && [Ecology :seedling:](#ecology-seedling) && [Web development](#web-development)
+* [Karolina Szczur](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3) - (2017) The State of the Web | A guide to impactful performance improvements
+* [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
+* [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
+* [Nicolas Hoffmann, Elie Sloïm](https://openweb.eu.org/articles/le-cout-de-la-non-qualite-sur-le-web) - (2014) :fr: [FR] Le coût de la non-qualité sur le Web : 50%
+ * [Jack Lenox](https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance/) - (2019) How Improving Website Performance Can Help Save The Planet
+* [JAMstack](https://jamstack.org/) : noun `’jam-stak’` : Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. | The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
+* [Alex so yes](https://alexsoyes.com/eco-conception-web/) - :fr: [FR] (2021) Comment coder un site écologique ? Devenir un développeur green avec l’éco-conception web
+* [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+* [Unix Sheikh](https://www.unixsheikh.com/articles/javascript-malware-infested-nightmare.html) - (2021) JavaScript malware infested nightmare | some rant
+* [Ben Hoyt](https://benhoyt.com/writings/the-small-web-is-beautiful/) - (2021) The small web is beautiful
+> * Fewer moving parts. It’s easier to create more robust systems and to fix things when they do go wrong.
+> * Small software is faster. Fewer bits to download and clog your computer’s memory.
+> * Reduced power consumption. This is important on a “save the planet” scale, but also on the very local scale of increasing the battery life of your phone and laptop.
+> * The light, frugal aesthetic. That’s personal, I know, but as you’ll see, I’m not alone.
+* [John Allspaw](https://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/) - (2017) Taking Human Performance Seriously
+> A proper treatment of the human element requires the human to be the focus
+* [Ian Miell](https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/) - (2018) Why Are Enterprises So Slow?
+* [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze a website performance
+* [Socialtalents](http://loadme.socialtalents.com/Begin/New) - Loadme - cloud-based load / stress testing service for you website or API 
+* [What Does My Site Cost?](https://whatdoesmysitecost.com/) - Find out how much it costs for someone to use your site on mobile networks around the world.
+* [Daniel Miessler](https://danielmiessler.com/blog/10-ways-to-test-your-website-performance/) - 10 Ways to Test Your Website Performance
+* [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing, performance metrics, and best practices for Progressive Web Apps. **See also** : [Website](https://developers.google.com/web/tools/lighthouse)
+* [WebPagetest](https://www.webpagetest.org/) - Test a website's performance | WebPagetest is a tool that was originally developed by AOL for use internally and was open-sourced in 2008 under a BSD license. The platform is under active development on GitHub and is also packaged up periodically and available for download if you would like to run your own instance. **See also** [GitHub repository](https://github.com/WPO-Foundation/webpagetest)
+* [WebPagetest](https://www.webpagetest.org/lighthouse) - Lighthouse Test - Run a Chrome Lighthouse Test | Lighthouse Test
+Run Lighthouse on an emulated mobile device on a 3G network. Running the test will give you the top level scores for all the categories Lighthouse runs on, as well as individual level reports.
+ 
 # Philosophy :thought_balloon:
 * [The Minds Journal](https://themindsjournal.com/synchronicity-coincidences/) - Synchronicity Happens For A Reason — There Are No Accidents And No Coincidences
 * [Real News](http://www.realnews24.com/socrates-was-one-of-the-smartest-people-who-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read/) - some Socrates quotes worth the reading
@@ -4800,6 +4834,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [PrivacyTests.org](https://privacytests.org/) - is an open-source initiative that subjects popular web browsers to a suite of automated tests. These tests are designed to audit web browsers' privacy properties in an unbiased manner.
 * [web0 manifesto](https://web0.small-web.org/) - web0 is the decentralised web | In other words, web0 is web3 without all the corporate right-libertarian Silicon Valley bullshit. **See also** [Source code](https://github.com/small-tech/web0) and [Small Technology Foundation Home](https://small-tech.org/)
 * [Richard Dern](https://www.richard-dern.fr/blog/2022/01/21/l-informatique-c-etait-mieux-avant/) - :fr: [FR] (2022) L'informatique, c'était mieux avant
+* [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
 
 # Society
 * [MoveItFootballHead](https://imgur.com/gallery/3Bsf7) - A simple, yet powerful, lesson on privilege
@@ -5098,6 +5133,7 @@ rpm --rebuilddb
 * [JAMstack Themes](https://jamstackthemes.dev/ssg/) - Themes for Static Site Generators | for Hugo, Hexo, Gatsby, Eleventy (11ty), Vuepress, Pelican, Jekyll, Mkdocs, etc
 
 ## Accessibility (a11y)
+See also [Ecology :seedling:](#ecology-seedling) && [Performance](#performance) && [Web development](#web-development)
 * [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page. **See also** [GitHub repository](https://github.com/Khan/tota11y)
 * [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
   * [The A11Y Project Resources](https://a11yproject.com/resources/) - Accessibility software, books, blogs, online tools, and more
@@ -5119,6 +5155,7 @@ rpm --rebuilddb
 * [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
 * [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
 * [Stéphane Deschamps](https://nota-bene.org/Les-handicapes-vous-disent-merde) - :fr: [FR] (2022) Les handicapés vous disent merde | Inclusion, piège à cons.
+* [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
 
 ## Design Humor
 * [Jon Moore](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910) - 100 Excuses for Designers, Because sometimes you need one!
@@ -5149,6 +5186,7 @@ rpm --rebuilddb
 * [Quadd X mas](https://web.archive.org/web/20050209125208/http://www.quaddxmas.com:80/) - [FR] :fr: C'était un MMORPG et jeu de stratégie en php gratuit d'ambiance médiévale fantastique
 
 # Web development
+See also [Accessibility (a11y)](#accessibility-a11y) && [Ecology :seedling:](#ecology-seedling) && [Performance](#performance)
 > News
 * [What Web Can Do Today](https://whatwebcando.today/) - Can I rely on the Web Platform features to build my app? An overview of the device integration HTML5 APIs
 
@@ -5170,7 +5208,7 @@ rpm --rebuilddb
 * [CSS Diner](http://flukeout.github.io/) - a game to improve your knowledge of CSS selectors
 * [SEO'Brien](https://seobrien.com/writing-search-optimized-blog-posts) - (2011) Writing Search Optimized Blog Posts
 * [Matias Meno](http://www.colorglare.com/2014/11/24/stateless-html.html) - (2014) Stop writing stateful HTML
-* [Una Kravets](http://youmightnotneedjs.com/) - You Might Not Need JavaScript
+* [Una Kravets](https://youmightnotneedjs.com/) - You Might Not Need JavaScript
 * [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list of Web Security materials and resources.
 * [Ian Lurie](https://www.portent.com/blog/user-experience/code-coverage-page-speed.htm) - (2017) Code Coverage Analysis for Better Page Speed
 * [Augustin Kendall](https://www.portent.com/blog/content-strategy/user-experience-content.htm) - (2017) What Is the User Experience of Content?
@@ -5179,7 +5217,7 @@ rpm --rebuilddb
 * [Ciro S. Costa](https://ops.tips/blog/extension-to-block-websites/) - (2018) Creating a simple extension to block websites
 * [Nicolas Hoffmann, Elie Sloïm](https://openweb.eu.org/articles/le-cout-de-la-non-qualite-sur-le-web) - (2014) :fr: [FR] Le coût de la non-qualité sur le Web : 50%
 * [Karolina Szczur](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3) - (2017) The State of the Web | A guide to impactful performance improvements
-* [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading
+* [Addy Osmani](https://speakerdeck.com/addyosmani/the-browser-hackers-guide-to-instant-loading) - (2017) The Browser Hacker's Guide To Instant Loading 
 * [Paul Calvano](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) - (2018) Adoption of HTTP Security Headers on the Web
 * [Amanda Sopkin](https://dev.to/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om) - (2018) Fantastic Personal Websites and How to Make Them | tips for good portfolio
 * [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) - Awesome Creative Portfolio Websites
@@ -5202,6 +5240,7 @@ rpm --rebuilddb
 > * Reduced power consumption. This is important on a “save the planet” scale, but also on the very local scale of increasing the battery life of your phone and laptop.
 > * The light, frugal aesthetic. That’s personal, I know, but as you’ll see, I’m not alone.
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
+* [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
 
 ## Web development checklists / best practices
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
