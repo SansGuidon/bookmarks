@@ -1357,6 +1357,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. **See also** [Official Website](https://terratest.gruntwork.io/)
 * [Ayooluwa Isaiah](https://freshman.tech/linting-golang/) - (2021) A guide to linting Go programs
 * [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+* [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -1951,6 +1952,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [MorganGeek](https://gist.github.com/MorganGeek/660e55cfbb8f8e82e77d06618802ea79) - (gist) Install SWI-Prolog and Logtalk on CentOS. **Bonus** : Dockerfile provided.
 * [Mr. Bad, Crackmonkey](http://www.pigdog.org/auto/mr_bads_list/shortcolumn/1914.html) - (2001) Things to Say When You're Losing a Technical Argument
 * [/r/prolog/](https://www.reddit.com/r/prolog/) - Prolog on Reddit
+* [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
