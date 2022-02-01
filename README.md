@@ -5136,6 +5136,10 @@ rpm --rebuilddb
 
 ## Accessibility (a11y)
 See also [Ecology :seedling:](#ecology-seedling) && [Performance](#performance) && [Web development](#web-development)
+> News
+* [Access42 Blog](https://access42.net/blog) - :fr: [FR] Articles de Access42, société spécialisée en audit, conseil et formation en accessibilité numérique
+ 
+> Misc
 * [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page. **See also** [GitHub repository](https://github.com/Khan/tota11y)
 * [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
   * [The A11Y Project Resources](https://a11yproject.com/resources/) - Accessibility software, books, blogs, online tools, and more
