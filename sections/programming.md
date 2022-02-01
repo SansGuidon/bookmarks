@@ -233,7 +233,6 @@
 * [Antonio Bello](https://www.raywenderlich.com/167015/learning-techniques-programmers) - (2017) Learning Techniques for Programmers, by Programmers
 * [Antonio Bello](https://www.raywenderlich.com/120612/freelance-software-development) - (2016) Freelance Software Development: Is It For You?
 * [Antonio Bello](https://www.raywenderlich.com/122835/freelance-software-development-tips) - (2016) Freelance Software Development Tips
-* [Antonio Bello](https://www.raywenderlich.com/135789/how-to-be-a-better-developer-with-programming-challenges) - (2016) How To Be a Better Developer with Programming Challenges
 * [DZone](http://www.surveygizmo.com/s3/1883619/Developer-Personality-Test) - Developer Personality Test
 * [Sijin Joseph](http://sijinjoseph.com/programmer-competency-matrix/) - (2014) Programmer Competency Matrix
 * [Alvaro Videla](http://alvaro-videla.com/2014/09/a-programmers-role.html) - (2014) A Programmer's Role, about what clean code was like in 1967 **Bonus** : (1967) [PDF] Original publication [What Programmer Does](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf)
@@ -477,6 +476,7 @@
 * [Hacknet](http://www.hacknet-os.com/) - a hacking game simulator (not free), potentially boring (move to hackmud)
 * [h a c k m u d](https://www.hackmud.com/) - hackmud, a hacking game simulator (not free) with programming challenges
 * [Exercism](https://exercism.org/) - Get really good at programming. | Develop fluency in 55 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.
+* [a11yphant](https://a11yphant.com/) - Learning web accessibility made easy | Learn web accessibility, one step at a time, broken down into manageable pieces, called challenges. You won't need to read large amounts of text to complete those. Instead, you will learn by applying the concepts in code. Get started with your first web accessibility challenge and improve your skills.
 
 ## API
 * [Adam DuVander](https://www.programmableweb.com/news/top-10-api-worst-practices/2012/08/03) - (2012) Top 10 API Worst Practices
