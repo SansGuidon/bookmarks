@@ -2806,7 +2806,8 @@ rpm --rebuilddb
 * [Matthieu Cneude](https://thevaluable.dev/vim-expert/) - A Vim Guide For Experts
 * [Vimways](https://vimways.org/) - is a Vim-themed advent calendar. Largely inspired by the early [24ways](https://24ways.org/), their primary goal is to publish one high quality article about Vim per day during the twenty-four days before Christmas.
 * [Danilo Spinella](https://danyspin97.org/blog/fancy-vim-plugins/) - (2018) Fancy Vim Plugins
- 
+* [Rajob Raihan](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97) - (2022) Why every software engineer should use vim | Conquer the “quitting vim” fear and give it a go
+
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
 * [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
@@ -4091,6 +4092,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [n-st/view-on-archive-org.js](https://gist.github.com/n-st/0dd03b2323e7f9acd98e) - Bookmarklet to view current page on the [Internet Archive Wayback Machine](https://archive.org/)
 * [Yubnub](https://yubnub.org/) - a (social) command line for the web
 * [tldraw](https://www.tldraw.com/) - A tiny little drawing app.
+* [Rajob Raihan](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97) - (2022) Why every software engineer should use vim | Conquer the “quitting vim” fear and give it a go
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
