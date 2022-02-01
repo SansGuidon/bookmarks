@@ -845,6 +845,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [PHP The Wrong Way](https://phpthewrongway.com/) - In the world of PHP programming, a set of trends are massively being propagated by some people (in their books and on websites) as “Modern PHP” while all other approaches are frowned upon as backward, stupid, or just plain wrong. This website has been created in an attempt to present a pragmatic view on PHP programming. A view dictated by experience and practical consequence rather than popular trends, theory, or academic dogma.
 * [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
 * [Swizec Teller](https://swizec.com/blog/why-null-checks-are-bad/) - (2021) Why null checks are bad
+* [Steve Barnegren](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code - (2022) There’s No Such Thing as Clean Code
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
