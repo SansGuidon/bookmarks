@@ -683,6 +683,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [**Mozilla**](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 * [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
 * [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
+* [Key Values](https://www.keyvalues.com/culture-queries) - Culture Queries - The perfect questions to ask in your job interview. Want to stand out from other candidates and find your dream job?
+* [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
 
 ## Cryptocurrency
 > News
@@ -1216,6 +1218,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
 * [Stéphane Deschamps](https://nota-bene.org/Les-handicapes-vous-disent-merde) - :fr: [FR] (2022) Les handicapés vous disent merde | Inclusion, piège à cons.
 * [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
+* [Key Values](https://www.keyvalues.com/culture-queries) - Culture Queries - The perfect questions to ask in your job interview. Want to stand out from other candidates and find your dream job?
+* [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -2365,6 +2369,8 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 > * U – Do I have any unexpressed emotions?
 > * Y – The “yeah” factor; what brought me joy today?
 * [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
+* [Key Values](https://www.keyvalues.com/culture-queries) - Culture Queries - The perfect questions to ask in your job interview. Want to stand out from other candidates and find your dream job?
+* [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
 
 ## Remote work
 > Finding a remote job
@@ -2380,6 +2386,8 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Sick Call Excuse Generator](http://www.getodd.com/raz/sickday/sickday.html) - helpful to you in deciding the excuse for your forthcoming day off.
 * [WFH-excuses](https://us-central1-wfh-excuses-gh.cloudfunctions.net/wfh) - Working from Home excuses generator. **Bonus** : [GitHub repo](https://github.com/lnfnunes/WFH-excuses)
 * [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
+* [Key Values](https://www.keyvalues.com/culture-queries) - Culture Queries - The perfect questions to ask in your job interview. Want to stand out from other candidates and find your dream job?
+* [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
 
 > Misc
 * [Antonio Bello](https://www.raywenderlich.com/114368/staying-motivated-work-home-developer) - (2015) Staying Motivated as a Work From Home Developer
@@ -4135,6 +4143,8 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [tldraw](https://www.tldraw.com/) - A tiny little drawing app.
 * [Rajob Raihan](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97) - (2022) Why every software engineer should use vim | Conquer the “quitting vim” fear and give it a go
 * [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
+* [Key Values](https://www.keyvalues.com/culture-queries) - Culture Queries - The perfect questions to ask in your job interview. Want to stand out from other candidates and find your dream job?
+* [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
