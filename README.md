@@ -4146,6 +4146,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
 * [Key Values](https://www.keyvalues.com/culture-queries) - Culture Queries - The perfect questions to ask in your job interview. Want to stand out from other candidates and find your dream job?
 * [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
+* [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
