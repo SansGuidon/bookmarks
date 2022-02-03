@@ -2010,6 +2010,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Every Noise at Once](https://everynoise.com/) - is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for `5,745 genre-shaped distinctions by Spotify as of 2022-01-26`. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier.
 * [rfc.me](https://rfc.me/) - Append an RFC number to the domain and it will redirect to that RFC. Example: [rfc.me/1738](https://rfc.me/1738)
 * [rfc.fyi](https://rfc.fyi/) - Search for RFCs, Fast — When they say ‘fast’ they’re not lying. This site is amazingly nimble at helping you track down the particular RFC you want, whether you want to read the FTP spec, a protocol for controlling coffee pots, or how QUIC works.
+* [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -5023,6 +5024,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [CloudSkiff](https://cloudskiff.com/terraform-code-quality/) - (2020) Terraform Code Quality | Key Steps to a good quality for your Infrastructure Code. **Related** : [Original talk from Cloud Native London, 3 June 2020](https://www.youtube.com/watch?v=yX2GoXB70iA) 
 * [Raul Sevilla Canavate](https://www.openshift.com/blog/introducing-kube-burner-a-tool-to-burn-down-kubernetes-and-openshift) - (2021) Introducing kube-burner, A tool to Burn Down Kubernetes and OpenShift
 * [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+* [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
