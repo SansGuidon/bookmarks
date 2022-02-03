@@ -682,6 +682,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [vpnMentor](https://www.vpnmentor.com/coupons/) - 79 VPN Coupons, Promo Codes & Discounts - Updated Daily
 * :star: [**Mozilla**](https://foundation.mozilla.org/en/privacynotincluded/) - (2020) Privacy not included* | Be Smart. Shop Safe. | How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products.
 * [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
+* [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
 
 ## Cryptocurrency
 > News
@@ -1214,6 +1215,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Michael Lopp](https://randsinrepose.com/archives/the-old-guard/) - (2014) The Old Guard
 * [Prioritize](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
 * [Stéphane Deschamps](https://nota-bene.org/Les-handicapes-vous-disent-merde) - :fr: [FR] (2022) Les handicapés vous disent merde | Inclusion, piège à cons.
+* [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -2362,6 +2364,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 > * O – What have I done for others today?
 > * U – Do I have any unexpressed emotions?
 > * Y – The “yeah” factor; what brought me joy today?
+* [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
 
 ## Remote work
 > Finding a remote job
@@ -2376,6 +2379,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers
 * [Sick Call Excuse Generator](http://www.getodd.com/raz/sickday/sickday.html) - helpful to you in deciding the excuse for your forthcoming day off.
 * [WFH-excuses](https://us-central1-wfh-excuses-gh.cloudfunctions.net/wfh) - Working from Home excuses generator. **Bonus** : [GitHub repo](https://github.com/lnfnunes/WFH-excuses)
+* [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
 
 > Misc
 * [Antonio Bello](https://www.raywenderlich.com/114368/staying-motivated-work-home-developer) - (2015) Staying Motivated as a Work From Home Developer
@@ -4130,6 +4134,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Yubnub](https://yubnub.org/) - a (social) command line for the web
 * [tldraw](https://www.tldraw.com/) - A tiny little drawing app.
 * [Rajob Raihan](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97) - (2022) Why every software engineer should use vim | Conquer the “quitting vim” fear and give it a go
+* [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
