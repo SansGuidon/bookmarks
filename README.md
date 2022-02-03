@@ -4312,7 +4312,8 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Johann Hari](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - (2022) Your attention didn’t collapse. It was stolen | Social media and many other facets of modern life are destroying our ability to concentrate. We need to reclaim our minds while we still can
 * [Trevor Haynes](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) - (2018) Dopamine, Smartphones & You: A battle for your time
 * [Dr. A.J. Drenth](https://personalityjunkie.com/09/infps-intps-infjs-intjs-struggle-to-act/) - (2013) Why INFPs, INTPs, INFJs, & INTJs Struggle to Act
-
+* [Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases) - List of cognitive biases
+ 
 > Tips
 * [Anne-Laure Le Cunff](https://nesslabs.com/neuroproductivity) - (2019) Neuroproductivity: how to be more productive using neuroscience
 * [Mike Crittenden](https://critter.blog/2022/01/20/the-vowel-check/) - (2022) The vowel check | Run through it daily :
