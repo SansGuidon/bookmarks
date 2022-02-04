@@ -1603,6 +1603,9 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Alex so yes](https://alexsoyes.com/eco-conception-web/) - :fr: [FR] (2021) Comment coder un site écologique ? Devenir un développeur green avec l’éco-conception web
 * [Unix Sheikh](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html) - (2022) Is the madness ever going to end?
 * [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+* [KidsBox](https://www.kids-box.lu/) - 🇱🇺 🇫🇷 [FR] une location de jouets de qualité, responsables, éducatifs, innovants et certains éco-friendly. Nos jouets sont livrés dans une boîte surprise dont vous choisissez le thème parmi les 12 proposés. Fini l’accumulation et le stockage de jouets. Privilégiez la découverte pédagogique pour vos enfants dès le plus jeune âge jusqu’à 6 ans.
+* [Amélie Micoud](https://www.minimi.be/fr/idees-cadeaux-bebe-5-beaux-jouets-minimalistes-et-durables/) - 🇧🇪 🇫🇷 [BE] [FR] (2021) Idées cadeaux bébé : 5 beaux jouets minimalistes et durables
+* [BY MAEM](https://by-maem.be/collections) - beautiful, original, sustainable and above all ecologically responsible baby equipment. MAEM mission is to help you to choose your baby items consciously and thus prevent unnecessary "fast-waste". 
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
@@ -3440,6 +3443,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Les Maisons Vertes](https://lesmaisonsvertes.be/spip.php?rubrique13) - 🇧🇪 🇫🇷 [BE] [FR] Les Maisons Vertes à Bruxelles, ville multiculturelle, donnent une occasion de sortir de chez soi avec son tout-petit, pour qu’il rencontre d’autres enfants avant son entrée dans la collectivité de la crèche ou de l’école.
 * [Tiniloo](https://www.tiniloo.com/nos-offres/24-box-bebe.html) - :fr: [FR] propose des box cadeaux pour toute la famille. Livrées tous les mois par colis, ces boîtes comportent 4 à 6 produits surprises. Il peut s’agir d’articles pratiques (santé, hygiène, livres) ou plus ludiques (décoration, humour, etc.). 
 * [Amélie Micoud](https://www.minimi.be/fr/idees-cadeaux-bebe-5-beaux-jouets-minimalistes-et-durables/) - 🇧🇪 🇫🇷 [BE] [FR] (2021) Idées cadeaux bébé : 5 beaux jouets minimalistes et durables
+* [BY MAEM](https://by-maem.be/collections) - beautiful, original, sustainable and above all ecologically responsible baby equipment. MAEM mission is to help you to choose your baby items consciously and thus prevent unnecessary "fast-waste". 
 
 # Performance
 See also [Accessibility (a11y)](#accessibility-a11y) && [Ecology :seedling:](#ecology-seedling) && [Web development](#web-development)
