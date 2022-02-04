@@ -2433,6 +2433,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [be.brussels](https://be.brussels/culture-tourisme-loisirs/bruxelles-avec-des-enfants) - 🇧🇪 🇫🇷 [BE] [FR] Bruxelles avec des enfants
 * [Babytheek](https://babytheek.wordpress.com/francais/cest-quoi-la-babytheque/) - 🇫🇷 🇧🇪 [FR] [BE] La Bébéthèque offre un départ durable aux bébés bruxellois. Il s’agit d’un système pratique de prêt d’affaires pour bébés qui ne servent que très peu de temps. Que votre espace de vie soit restreint, que vous accueilliez votre petite nièce plusieurs fois par an, que votre budget soit limité ou que vous ayez décidé de consommer moins, la Bébéthèque constitue la solution idéale pour les jeunes ménages en quête de matériel de puériculture durable. 
 * [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
+* [Les Maisons Vertes](https://lesmaisonsvertes.be/spip.php?rubrique13) - 🇧🇪 🇫🇷 [BE] [FR] Les Maisons Vertes à Bruxelles, ville multiculturelle, donnent une occasion de sortir de chez soi avec son tout-petit, pour qu’il rencontre d’autres enfants avant son entrée dans la collectivité de la crèche ou de l’école.
 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -3410,6 +3411,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 # Parenting :baby:
 > News
 * [Les-Supers-Parents.com](https://www.les-supers-parents.com/) - 🇫🇷 [FR] L’objectif de ce blog est de partager avec vous nos découvertes et notre progression en termes de “Parentalité Bienveillante et Respectueuse”. Vous y trouverez sous forme  une synthèse structurée des toutes les informations que nous dénichons un peu partout… et leur mise en application.
+* [Minimi](https://www.minimi.be/fr/tout-petits/) - 🇧🇪 🇫🇷 [BE] [FR] Articles / news dédiées aux bambins
 
 > Misc
 * [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : * [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
@@ -3433,7 +3435,12 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Babytheek](https://babytheek.wordpress.com/francais/cest-quoi-la-babytheque/) - 🇫🇷 🇧🇪 [FR] [BE] La Bébéthèque offre un départ durable aux bébés bruxellois. Il s’agit d’un système pratique de prêt d’affaires pour bébés qui ne servent que très peu de temps. Que votre espace de vie soit restreint, que vous accueilliez votre petite nièce plusieurs fois par an, que votre budget soit limité ou que vous ayez décidé de consommer moins, la Bébéthèque constitue la solution idéale pour les jeunes ménages en quête de matériel de puériculture durable. 
 * [be.brussels](https://be.brussels/culture-tourisme-loisirs/bruxelles-avec-des-enfants) - 🇧🇪 🇫🇷 [BE] [FR] Bruxelles avec des enfants
 * [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
- 
+* [Amélie Micoud](https://www.minimi.be/fr/8-super-box-pour-enfants-bebes-compris/) - 🇧🇪 🇫🇷 [BE] [FR] (2021) 8 super box pour enfants (bébés compris!)
+* [KidsBox](https://www.kids-box.lu/) - 🇱🇺 🇫🇷 [FR] une location de jouets de qualité, responsables, éducatifs, innovants et certains éco-friendly. Nos jouets sont livrés dans une boîte surprise dont vous choisissez le thème parmi les 12 proposés. Fini l’accumulation et le stockage de jouets. Privilégiez la découverte pédagogique pour vos enfants dès le plus jeune âge jusqu’à 6 ans.
+* [Les Maisons Vertes](https://lesmaisonsvertes.be/spip.php?rubrique13) - 🇧🇪 🇫🇷 [BE] [FR] Les Maisons Vertes à Bruxelles, ville multiculturelle, donnent une occasion de sortir de chez soi avec son tout-petit, pour qu’il rencontre d’autres enfants avant son entrée dans la collectivité de la crèche ou de l’école.
+* [Tiniloo](https://www.tiniloo.com/nos-offres/24-box-bebe.html) - :fr: [FR] propose des box cadeaux pour toute la famille. Livrées tous les mois par colis, ces boîtes comportent 4 à 6 produits surprises. Il peut s’agir d’articles pratiques (santé, hygiène, livres) ou plus ludiques (décoration, humour, etc.). 
+* [Amélie Micoud](https://www.minimi.be/fr/idees-cadeaux-bebe-5-beaux-jouets-minimalistes-et-durables/) - 🇧🇪 🇫🇷 [BE] [FR] (2021) Idées cadeaux bébé : 5 beaux jouets minimalistes et durables
+
 # Performance
 See also [Accessibility (a11y)](#accessibility-a11y) && [Ecology :seedling:](#ecology-seedling) && [Web development](#web-development)
 * [Karolina Szczur](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3) - (2017) The State of the Web | A guide to impactful performance improvements
