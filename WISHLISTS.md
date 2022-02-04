@@ -55,6 +55,7 @@
 * [ ] a good book on coffee recipes / barista techniques (e.g : https://www.cafemag.fr/bibliotheque-cafe/)
 * [ ] a very good and unique bottle of gueuze
 * [ ] nerd socks 🤓
+* [ ] good book on beer/food recipes or pairing, https://www.club.be/p/beerstronomy-9789401449168 ? 
 
 ### Wishes fulfilled
 * [x] manual coffee grinder for espresso, french press and aeropress but I got a breville / sage barista express so not needed
