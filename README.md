@@ -1821,6 +1821,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
 * [Out.be](https://www.out.be/fr/agenda/bruxelles/list/) - 🇧🇪 🇫🇷 [BE] [FR] Que faire à Bruxelles ? | Sorties et Loisirs à Bruxelles
 * [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
+* [Le Petit Moutard](https://www.lepetitmoutard.be/place) - 🇧🇪 🇫🇷 [BE] [FR] Sorties et activités enfants en Belgique
 
 # Free online tools :free:
 * :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
@@ -2437,6 +2438,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Babytheek](https://babytheek.wordpress.com/francais/cest-quoi-la-babytheque/) - 🇫🇷 🇧🇪 [FR] [BE] La Bébéthèque offre un départ durable aux bébés bruxellois. Il s’agit d’un système pratique de prêt d’affaires pour bébés qui ne servent que très peu de temps. Que votre espace de vie soit restreint, que vous accueilliez votre petite nièce plusieurs fois par an, que votre budget soit limité ou que vous ayez décidé de consommer moins, la Bébéthèque constitue la solution idéale pour les jeunes ménages en quête de matériel de puériculture durable. 
 * [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
 * [Les Maisons Vertes](https://lesmaisonsvertes.be/spip.php?rubrique13) - 🇧🇪 🇫🇷 [BE] [FR] Les Maisons Vertes à Bruxelles, ville multiculturelle, donnent une occasion de sortir de chez soi avec son tout-petit, pour qu’il rencontre d’autres enfants avant son entrée dans la collectivité de la crèche ou de l’école.
+* [Le Petit Moutard](https://www.lepetitmoutard.be/plaine-de-jeux-couverte_16/bruxelles_1/enfant.asp) - 🇧🇪 🇫🇷 [BE] [FR] Plaines de jeux couverte à Bruxelles
 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -3444,6 +3446,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Tiniloo](https://www.tiniloo.com/nos-offres/24-box-bebe.html) - :fr: [FR] propose des box cadeaux pour toute la famille. Livrées tous les mois par colis, ces boîtes comportent 4 à 6 produits surprises. Il peut s’agir d’articles pratiques (santé, hygiène, livres) ou plus ludiques (décoration, humour, etc.). 
 * [Amélie Micoud](https://www.minimi.be/fr/idees-cadeaux-bebe-5-beaux-jouets-minimalistes-et-durables/) - 🇧🇪 🇫🇷 [BE] [FR] (2021) Idées cadeaux bébé : 5 beaux jouets minimalistes et durables
 * [BY MAEM](https://by-maem.be/collections) - beautiful, original, sustainable and above all ecologically responsible baby equipment. MAEM mission is to help you to choose your baby items consciously and thus prevent unnecessary "fast-waste". 
+* [Le Petit Moutard](https://www.lepetitmoutard.be/plaine-de-jeux-couverte_16/bruxelles_1/enfant.asp) - 🇧🇪 🇫🇷 [BE] [FR] Plaines de jeux couverte à Bruxelles
+* [Le Petit Moutard](https://www.lepetitmoutard.be/place) - 🇧🇪 🇫🇷 [BE] [FR] Sorties et activités enfants en Belgique
 
 # Performance
 See also [Accessibility (a11y)](#accessibility-a11y) && [Ecology :seedling:](#ecology-seedling) && [Web development](#web-development)
