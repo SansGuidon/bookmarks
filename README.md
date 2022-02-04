@@ -896,6 +896,9 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Blue Coffee Box](https://www.bluecoffeebox.com/subscribe/) - is a father-and-son business, frequently rated as one of the UK's best coffee subscription services
 * [OKCoffee](https://okcoffee.tips/map/) - Map of Coffee Bars
 
+> Products
+* [The Astrology Coffee](https://www.theastrologycoffee.com/) - was born out of two people’s passions. The Scorpio founder has been obsessed with Astrology and all things hidden in life- working in an office job but daydreaming of something bigger to bring their passion into reality. The Sagittarius founder was fortunate enough to befriend and apprentice under roast master and former coffee picker from Costa Rica, learning the craft from hands-on approach.
+
 # Collaboration & Problem solving
 > News
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
