@@ -5054,6 +5054,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP
 * [George Richardson](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/) - (2022) How Infrastructure as Code Should Feel
 * [George Richardson](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/) - (2021) Failing Faster with Terraform
+* [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
