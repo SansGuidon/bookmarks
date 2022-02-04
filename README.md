@@ -2449,6 +2449,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Ceci n'est pas un blog](http://cecinestpasunblog.be/coup-de-coeur-7-le-beer-pairing/) - Le « beer pairing » :beer:
 * [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - 🇧🇪 [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
 * [VivreIci.be](https://www.google.com/maps/d/u/0/viewer?mid=15OKrqD-iaTR0DorNrvRim6nClIs&ll=50.21449266425098%2C4.653385849999978&z=9) - 🇧🇪 🇫🇷 [BE] [FR] La carte des Bières et Brasserie de chez nous
+* [La voix dans ta tête](https://lavoixdanstatete.com/podcast/bieres-faits-divers/) - 🇧🇪 🇫🇷 [BE] [FR] Bières & faits divers | Boire des bières en racontant des histoires folles, étranges et drôles: la parfaite combinaison pour passer un bon moment.
 
 > [Board games 🎲](#board-games-game_die)
 
@@ -3569,6 +3570,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [The Shipt It! Podcast](https://changelog.com/shipit - A podcast about getting your best ideas into the world and seeing what happens.
 * [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 [FR] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
 * [La voix dans ta tête](https://lavoixdanstatete.com/) - :fr: [FR] ou lvdt.audio : catalogue de podcasts à écouter
+* [La voix dans ta tête](https://lavoixdanstatete.com/podcast/bieres-faits-divers/) - 🇧🇪 🇫🇷 [BE] [FR] Bières & faits divers | Boire des bières en racontant des histoires folles, étranges et drôles: la parfaite combinaison pour passer un bon moment.
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
