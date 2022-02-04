@@ -1509,6 +1509,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** : [Explore catalogue updates by country](https://unogs.com/countrydetail)
 * [Eli McGarvie](https://cult.honeypot.io/reads/13-best-tech-documentaries-for-developers/) - (2022) 13 Best Tech Documentaries For Developers | You can't go wrong with these developer documentaries...
 * [Richard Dern](https://www.richard-dern.fr/blog/2022/01/21/l-informatique-c-etait-mieux-avant/) - :fr: [FR] (2022) L'informatique, c'était mieux avant
+* [Brussels Museum](https://www.brusselsmuseums.be/fr/agenda?activityType=189806) - 🇧🇪 🇫🇷 [BE] [FR] Le calendrier des évènements des musées bruxellois.
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1822,6 +1823,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Out.be](https://www.out.be/fr/agenda/bruxelles/list/) - 🇧🇪 🇫🇷 [BE] [FR] Que faire à Bruxelles ? | Sorties et Loisirs à Bruxelles
 * [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
 * [Le Petit Moutard](https://www.lepetitmoutard.be/place) - 🇧🇪 🇫🇷 [BE] [FR] Sorties et activités enfants en Belgique
+* [Brussels Museum](https://www.brusselsmuseums.be/fr/agenda?activityType=189806) - 🇧🇪 🇫🇷 [BE] [FR] Le calendrier des évènements des musées bruxellois.
 
 # Free online tools :free:
 * :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
@@ -2439,6 +2441,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
 * [Les Maisons Vertes](https://lesmaisonsvertes.be/spip.php?rubrique13) - 🇧🇪 🇫🇷 [BE] [FR] Les Maisons Vertes à Bruxelles, ville multiculturelle, donnent une occasion de sortir de chez soi avec son tout-petit, pour qu’il rencontre d’autres enfants avant son entrée dans la collectivité de la crèche ou de l’école.
 * [Le Petit Moutard](https://www.lepetitmoutard.be/plaine-de-jeux-couverte_16/bruxelles_1/enfant.asp) - 🇧🇪 🇫🇷 [BE] [FR] Plaines de jeux couverte à Bruxelles
+* [Brussels Museum](https://www.brusselsmuseums.be/fr/agenda?activityType=189806) - 🇧🇪 🇫🇷 [BE] [FR] Le calendrier des évènements des musées bruxellois.
 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
