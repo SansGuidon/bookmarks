@@ -5469,3 +5469,4 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Repetition Detector](http://www.repetition-detector.com/?p=online) - Intelligent and user-friendly detection of repetitions
 * [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
 * [Grammica](https://grammica.com/) - You can check your English grammar with grammica, and the website provides also a lot of other tools to rework and improve your text and make it even more unique.
+* [3D Printing Marketplace](https://www.makersverse3d.com/) - (2022) 3D Printing Marketplace for 3D file sharing
