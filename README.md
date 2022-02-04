@@ -3302,7 +3302,9 @@ See also [AWS](#aws) and [Terraform](#terraform)
 > "why anyone would want to throw away 50 years of developments in computer science and language theory"
 * [Tiexin Guo](https://medium.com/4th-coffee/on-devops-9-infrastructure-as-code-clean-code-terraform-introduction-and-best-practices-5d266132c70a) - (2021) On DevOps — 9. Infrastructure as Code — Clean Code, Terraform Introduction, and Best Practices
 * [Spencer Baugh](https://catern.com/config.html) - (2021) Write code, not configuration
-
+* [George Richardson](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/) - (2022) How Infrastructure as Code Should Feel
+* [George Richardson](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/) - (2021) Failing Faster with Terraform
+ 
 ## Jira
 > News
 * [Atlassian Jira](https://jira.atlassian.com/secure/Dashboard.jspa?selectPageId=85890&utm_source=newsletter-email&utm_medium=email&utm_campaign=cops-dc-server-investment-2_EML-4343&jobid=104097550&subid=1419604548) - Jira Server and Data Center: current work and future plans dashboard.
@@ -5026,6 +5028,8 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Raul Sevilla Canavate](https://www.openshift.com/blog/introducing-kube-burner-a-tool-to-burn-down-kubernetes-and-openshift) - (2021) Introducing kube-burner, A tool to Burn Down Kubernetes and OpenShift
 * [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 * [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP
+* [George Richardson](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/) - (2022) How Infrastructure as Code Should Feel
+* [George Richardson](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/) - (2021) Failing Faster with Terraform
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
