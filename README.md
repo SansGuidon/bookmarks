@@ -1612,6 +1612,9 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [KidsBox](https://www.kids-box.lu/) - 🇱🇺 🇫🇷 [FR] une location de jouets de qualité, responsables, éducatifs, innovants et certains éco-friendly. Nos jouets sont livrés dans une boîte surprise dont vous choisissez le thème parmi les 12 proposés. Fini l’accumulation et le stockage de jouets. Privilégiez la découverte pédagogique pour vos enfants dès le plus jeune âge jusqu’à 6 ans.
 * [Amélie Micoud](https://www.minimi.be/fr/idees-cadeaux-bebe-5-beaux-jouets-minimalistes-et-durables/) - 🇧🇪 🇫🇷 [BE] [FR] (2021) Idées cadeaux bébé : 5 beaux jouets minimalistes et durables
 * [BY MAEM](https://by-maem.be/collections) - beautiful, original, sustainable and above all ecologically responsible baby equipment. MAEM mission is to help you to choose your baby items consciously and thus prevent unnecessary "fast-waste". 
+* [RTBF](https://www.rtbf.be/mot-cle/zero-dechet) - :fr: 🇧🇪 [FR] [BE] Tout le contenu Zéro déchêt 
+* [Intradel](https://www.intradel.be/zerodechet) - :fr: 🇧🇪 [FR] [BE] Séquences zéro déchet sur VivaCité
+* [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
@@ -1772,6 +1775,8 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
 * [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
 * [Librel](https://www.librel.be/) - :fr: 🇧🇪 [FR] [BE] La plus grande librairie de Belgique | Les librairies indépendantes. **See also** [Carte interactive](https://www.librel.be/map.php)
+* [RTBF](https://www.rtbf.be/archive/vivre-ici-produits-belges) - :fr: 🇧🇪 [FR] [BE] Tout le contenu made in belgium
+* [RTBF](https://www.rtbf.be/archive/vi-initiatives-locales) - :fr: 🇧🇪 [FR] [BE] Tout le contenu initiatives locales
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
@@ -3091,7 +3096,11 @@ type `curl ident.me` to know your public ip
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
 * [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
 * [follow.it](https://follow.it/) - Follow any blog or website
- 
+* [RTBF](https://www.rtbf.be/archive/vivre-ici-produits-belges) - :fr: 🇧🇪 [FR] [BE] Tout le contenu made in belgium
+* [RTBF](https://www.rtbf.be/archive/vi-initiatives-locales) - :fr: 🇧🇪 [FR] [BE] Tout le contenu initiatives locales
+* [RTBF](https://www.rtbf.be/mot-cle/zero-dechet) - :fr: 🇧🇪 [FR] [BE] Tout le contenu Zéro déchêt 
+* [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
+
 > Anderlecht / Bruxelles news
 * [Commune d'Anderlecht](https://www.anderlecht.be) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
 * [Bruxelles City News](https://bruxelles-city-news.be/cat/actualite/bruxelles/) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
@@ -3101,6 +3110,7 @@ type `curl ident.me` to know your public ip
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/family-2021) - 🇫🇷 🇧🇪 [FR] [BE] (2021) FAMILY'IN 2021 : Programmation d'activités pour les familles et les enfants. **Bonus** : [Flyer](https://www.anderlecht.be/sites/default/files/medias/Files/SolInter/Flyers%20Family'in%20-%20Derni%C3%A8re%20version%202021.pdf)
 * [Osiris](https://via.osiris.brussels/#/) - 🇫🇷 🇧🇪 [FR] [BE] Perturbations des voiries bruxelloises liées aux chantiers
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/webzines) - 🇫🇷 🇧🇪 [FR] [BE] Webzines
+* [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
 
 # Nix
 * [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
@@ -3577,6 +3587,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Des jeux et des mots](https://desjeuxetdesmots.com/) - 🇫🇷 [FR] Prendre le temps d'écouter celles et ceux qui prennent le temps d'analyser vos jeux favoris. Moteur de recherche des podcasts et vidéos qui parlent de vos jeux favoris.
 * [La voix dans ta tête](https://lavoixdanstatete.com/) - :fr: [FR] ou lvdt.audio : catalogue de podcasts à écouter
 * [La voix dans ta tête](https://lavoixdanstatete.com/podcast/bieres-faits-divers/) - 🇧🇪 🇫🇷 [BE] [FR] Bières & faits divers | Boire des bières en racontant des histoires folles, étranges et drôles: la parfaite combinaison pour passer un bon moment.
+* [Intradel](https://www.intradel.be/zerodechet) - :fr: 🇧🇪 [FR] [BE] Séquences zéro déchet sur VivaCité
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
