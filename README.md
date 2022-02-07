@@ -1273,6 +1273,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mike Crittenden](https://critter.blog/2020/08/13/clear-is-kind-unclear-is-unkind/) - (2020) Clear is kind, unclear is unkind
 * [Mike Crittenden](https://critter.blog/2021/05/03/death-to-the-word-expert/) - (2021) Death to the word “expert”
 * [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
+* [Raphael Gaschignard](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html) - (2022) Precision In Technical Discussions
+> * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
 
 ## Documentation
 > Learn
@@ -1303,6 +1305,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Graydon Hoare](https://graydon2.dreamwidth.org/193447.html) - (2014) always bet on text
 * [Justin Garrison](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - (2021) The Document Culture of Amazon
 * [Mislav Marohnić](https://mislav.net/2014/02/hidden-documentation/) - (2014) Every line of code is always documented.
+* [Raphael Gaschignard](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html) - (2022) Precision In Technical Discussions
+> * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
 
 > Tips
 * [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - because using some characters such as ╭	╮	╯╰> is useful especially for arrows : ╰>
