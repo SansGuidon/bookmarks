@@ -2019,7 +2019,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Every Noise at Once](https://everynoise.com/) - is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for `5,745 genre-shaped distinctions by Spotify as of 2022-01-26`. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier.
 * [rfc.me](https://rfc.me/) - Append an RFC number to the domain and it will redirect to that RFC. Example: [rfc.me/1738](https://rfc.me/1738)
 * [rfc.fyi](https://rfc.fyi/) - Search for RFCs, Fast — When they say ‘fast’ they’re not lying. This site is amazingly nimble at helping you track down the particular RFC you want, whether you want to read the FTP spec, a protocol for controlling coffee pots, or how QUIC works.
-* [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP
+* [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP. **See also** : [GlossaryTech for LinkedIn](https://glossarytech.com/plugin)
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -4172,7 +4172,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
 * [Key Values](https://www.keyvalues.com/culture-queries) - Culture Queries - The perfect questions to ask in your job interview. Want to stand out from other candidates and find your dream job?
 * [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
-* [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP
+* [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP. **See also** : [GlossaryTech for LinkedIn](https://glossarytech.com/plugin)
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
@@ -5051,7 +5051,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [CloudSkiff](https://cloudskiff.com/terraform-code-quality/) - (2020) Terraform Code Quality | Key Steps to a good quality for your Infrastructure Code. **Related** : [Original talk from Cloud Native London, 3 June 2020](https://www.youtube.com/watch?v=yX2GoXB70iA) 
 * [Raul Sevilla Canavate](https://www.openshift.com/blog/introducing-kube-burner-a-tool-to-burn-down-kubernetes-and-openshift) - (2021) Introducing kube-burner, A tool to Burn Down Kubernetes and OpenShift
 * [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
-* [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP
+* [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP. **See also** : [GlossaryTech for LinkedIn](https://glossarytech.com/plugin)
 * [George Richardson](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/) - (2022) How Infrastructure as Code Should Feel
 * [George Richardson](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/) - (2021) Failing Faster with Terraform
 * [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
