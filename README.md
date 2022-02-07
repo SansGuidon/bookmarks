@@ -395,6 +395,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
 * [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
 * [PARCOURS Street Art de la Ville de Bruxelles](https://parcoursstreetart.brussels/) - :fr: 🇧🇪 [FR] [BE] Vous y découvrirez toutes les fresques produites ou coproduites par le PARCOURS sur notre commune (codes postaux : 1000, 1020, 1120 et 1130). Mais aussi des informations sur les artistes, collectifs, descriptions des œuvres, nos appels à projets ou aux propriétaires ainsi que des parcours thématiques ou géographiques.
+* [Anmol Wadhwa](https://anmolwadhwa.hashnode.dev/mindblowing-3d-websites-for-inspiration) - (2022) 15 Inspiring 3D Websites
 
 > Tools
 * [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
@@ -1449,6 +1450,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
 * [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
 * [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
+* [Anmol Wadhwa](https://anmolwadhwa.hashnode.dev/mindblowing-3d-websites-for-inspiration) - (2022) 15 Inspiring 3D Websites
 
 # CRM
 * [For The Love Of The Game](http://cocopebble.com/?p=370) - Why We Left Salesforce.com For a $12 CRM Solution
@@ -5242,6 +5244,7 @@ rpm --rebuilddb
 * [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
 * [JAMstack Themes](https://jamstackthemes.dev/ssg/) - Themes for Static Site Generators | for Hugo, Hexo, Gatsby, Eleventy (11ty), Vuepress, Pelican, Jekyll, Mkdocs, etc
+* [Anmol Wadhwa](https://anmolwadhwa.hashnode.dev/mindblowing-3d-websites-for-inspiration) - (2022) 15 Inspiring 3D Websites
 
 ## Accessibility (a11y)
 See also [Ecology :seedling:](#ecology-seedling) && [Performance](#performance) && [Web development](#web-development)
@@ -5358,6 +5361,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Ecology :seedling:](#ec
 * [Jeff Huang](https://jeffhuang.com/designed_to_last/) - (2019) This Page is Designed to Last : A Manifesto for Preserving Content on the Web
 * [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
 * [a11yphant](https://a11yphant.com/) - Learning web accessibility made easy | Learn web accessibility, one step at a time, broken down into manageable pieces, called challenges. You won't need to read large amounts of text to complete those. Instead, you will learn by applying the concepts in code. Get started with your first web accessibility challenge and improve your skills.
+* [Anmol Wadhwa](https://anmolwadhwa.hashnode.dev/mindblowing-3d-websites-for-inspiration) - (2022) 15 Inspiring 3D Websites
 
 ## Web development checklists / best practices
 * [Yahoo Developer Network](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
