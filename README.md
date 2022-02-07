@@ -1275,6 +1275,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools/) - (2021) Hundreds of Ways to Get S#!+ Done—and We Still Don’t | You want to be productive. Software wants to help. But even with a glut of tools claiming to make us all into taskmasters, we almost never master our tasks. | to-do apps failed us
 * [Raphael Gaschignard](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html) - (2022) Precision In Technical Discussions
 > * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
+* [Mike Crittenden](https://critter.blog/2022/02/04/dont-expect-asymmetrical-communication/) - (2022) Don’t expect asymmetrical communication
+> You know that thing where you keep asking the new person to speak up when they need help, and they never do? You keep begging them to ask more questions, and they say they will, then nothing?
 
 ## Documentation
 > Learn
