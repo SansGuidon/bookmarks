@@ -394,6 +394,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
 * [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
 * [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
+* [PARCOURS Street Art de la Ville de Bruxelles](https://parcoursstreetart.brussels/) - :fr: 🇧🇪 [FR] [BE] Vous y découvrirez toutes les fresques produites ou coproduites par le PARCOURS sur notre commune (codes postaux : 1000, 1020, 1120 et 1130). Mais aussi des informations sur les artistes, collectifs, descriptions des œuvres, nos appels à projets ou aux propriétaires ainsi que des parcours thématiques ou géographiques.
 
 > Tools
 * [FeedArt](https://chrome.google.com/webstore/detail/feedart/glgdckpipcpcjmbkcmnponlnphnkkikn) - a chrome extension that replaces the ads you see on your Facebook feed by cool pieces of art
@@ -1521,6 +1522,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Richard Dern](https://www.richard-dern.fr/blog/2022/01/21/l-informatique-c-etait-mieux-avant/) - :fr: [FR] (2022) L'informatique, c'était mieux avant
 * [Brussels Museum](https://www.brusselsmuseums.be/fr/agenda?activityType=189806) - 🇧🇪 🇫🇷 [BE] [FR] Le calendrier des évènements des musées bruxellois.
 * [Librel](https://www.librel.be/) - :fr: 🇧🇪 [FR] [BE] La plus grande librairie de Belgique | Les librairies indépendantes. **See also** [Carte interactive](https://www.librel.be/map.php)
+* [PARCOURS Street Art de la Ville de Bruxelles](https://parcoursstreetart.brussels/) - :fr: 🇧🇪 [FR] [BE] Vous y découvrirez toutes les fresques produites ou coproduites par le PARCOURS sur notre commune (codes postaux : 1000, 1020, 1120 et 1130). Mais aussi des informations sur les artistes, collectifs, descriptions des œuvres, nos appels à projets ou aux propriétaires ainsi que des parcours thématiques ou géographiques.
+* [visit.brussels](https://visit.brussels/) - 🇧🇪 [BE] we make you love Brussels!
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1621,6 +1624,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [RTBF](https://www.rtbf.be/mot-cle/zero-dechet) - :fr: 🇧🇪 [FR] [BE] Tout le contenu Zéro déchêt 
 * [Intradel](https://www.intradel.be/zerodechet) - :fr: 🇧🇪 [FR] [BE] Séquences zéro déchet sur VivaCité
 * [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
+ * [Marion Jaumotte](https://www.rtbf.be/article/redecouvrez-bruxelles-a-pieds-a-velo-ou-en-metro-grace-aux-bb-des-balades-thematiques-originales-10913957) - (2022) 🇫🇷 🇧🇪 [FR] [BE] Redécouvrez Bruxelles à pieds, à vélo ou en métro grâce aux "BB", des balades thématiques originales
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
@@ -1843,6 +1847,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [kidsgazette](http://kidsgazette.be/kidsgazette/derniere-kidsgazette/#) - 🇧🇪 🇫🇷 [BE] [FR] En quête d’aventures bruxelloises et de sorties pour bambins de 0 à 12 ans ? kidsgazette est une initiative de bruxellois au service du jeune public et de la culture depuis 2010 : Un agenda culturel biannuel (automne/hiver & printemps/été), trilingue et gratuit.
 * [Le Petit Moutard](https://www.lepetitmoutard.be/place) - 🇧🇪 🇫🇷 [BE] [FR] Sorties et activités enfants en Belgique
 * [Brussels Museum](https://www.brusselsmuseums.be/fr/agenda?activityType=189806) - 🇧🇪 🇫🇷 [BE] [FR] Le calendrier des évènements des musées bruxellois.
+* [visit.brussels](https://visit.brussels/) - 🇧🇪 [BE] we make you love Brussels!
 
 # Free online tools :free:
 * :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
@@ -2430,6 +2435,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 # Hobbies
 
 > Anderlecht / Bruxelles news
+* [visit.brussels](https://visit.brussels/) - 🇧🇪 [BE] we make you love Brussels!
 * [Commune d'Anderlecht](https://www.anderlecht.be) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
 * [Bruxelles City News](https://bruxelles-city-news.be/cat/actualite/bruxelles/) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
 * [RTBF.be](https://www.rtbf.be/info/mot-cle_anderlecht?keyword=293643) - 🇫🇷 🇧🇪 [FR] [BE] Anderlecht : toutes les infos du mot-clé jour par jour
@@ -2461,6 +2467,10 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Les Maisons Vertes](https://lesmaisonsvertes.be/spip.php?rubrique13) - 🇧🇪 🇫🇷 [BE] [FR] Les Maisons Vertes à Bruxelles, ville multiculturelle, donnent une occasion de sortir de chez soi avec son tout-petit, pour qu’il rencontre d’autres enfants avant son entrée dans la collectivité de la crèche ou de l’école.
 * [Le Petit Moutard](https://www.lepetitmoutard.be/plaine-de-jeux-couverte_16/bruxelles_1/enfant.asp) - 🇧🇪 🇫🇷 [BE] [FR] Plaines de jeux couverte à Bruxelles
 * [Brussels Museum](https://www.brusselsmuseums.be/fr/agenda?activityType=189806) - 🇧🇪 🇫🇷 [BE] [FR] Le calendrier des évènements des musées bruxellois.
+* [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
+ * [Marion Jaumotte](https://www.rtbf.be/article/redecouvrez-bruxelles-a-pieds-a-velo-ou-en-metro-grace-aux-bb-des-balades-thematiques-originales-10913957) - (2022) 🇫🇷 🇧🇪 [FR] [BE] Redécouvrez Bruxelles à pieds, à vélo ou en métro grâce aux "BB", des balades thématiques originales
+* [PARCOURS Street Art de la Ville de Bruxelles](https://parcoursstreetart.brussels/) - :fr: 🇧🇪 [FR] [BE] Vous y découvrirez toutes les fresques produites ou coproduites par le PARCOURS sur notre commune (codes postaux : 1000, 1020, 1120 et 1130). Mais aussi des informations sur les artistes, collectifs, descriptions des œuvres, nos appels à projets ou aux propriétaires ainsi que des parcours thématiques ou géographiques.
+* [Florence Tornincasa](https://reporterontheroad.com/fr/20-choses-a-faire-dans-le-centre-de-bruxelles/) - :fr: 🇧🇪 [FR] [BE] Bruxelles: 20 Incontournables Dans Le Centre
 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -2519,6 +2529,9 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [René Rochette](http://forest12.canalblog.com/) 🇫🇷 🇧🇪 [FR] [BE] Promenades Forestoises
 * [visit.brussels](https://visit.brussels/fr/article/promenade-quartiers-anderlecht-centre) - 🇫🇷 🇧🇪 [FR] [BE] Promenade quartier : Anderlecht Centre
 * [environment.brussels](https://environnement.brussels/thematiques/espaces-verts-et-biodiversite/la-promenade-verte/parcours-meditatif) - 🇫🇷 🇧🇪 [FR] [BE] La Promenade Verte > Parcours méditatif
+* [Marion Jaumotte](https://www.rtbf.be/article/redecouvrez-bruxelles-a-pieds-a-velo-ou-en-metro-grace-aux-bb-des-balades-thematiques-originales-10913957) - (2022) 🇫🇷 🇧🇪 [FR] [BE] Redécouvrez Bruxelles à pieds, à vélo ou en métro grâce aux "BB", des balades thématiques originales
+* [PARCOURS Street Art de la Ville de Bruxelles](https://parcoursstreetart.brussels/) - :fr: 🇧🇪 [FR] [BE] Vous y découvrirez toutes les fresques produites ou coproduites par le PARCOURS sur notre commune (codes postaux : 1000, 1020, 1120 et 1130). Mais aussi des informations sur les artistes, collectifs, descriptions des œuvres, nos appels à projets ou aux propriétaires ainsi que des parcours thématiques ou géographiques.
+* [Florence Tornincasa](https://reporterontheroad.com/fr/20-choses-a-faire-dans-le-centre-de-bruxelles/) - :fr: 🇧🇪 [FR] [BE] Bruxelles: 20 Incontournables Dans Le Centre
 
 > Wordplay
 * [Gérard Villemin](http://villemin.gerard.free.fr/Humour/aaaCalem/CalembA.htm#top) - 🇫🇷 [FR] Une tonne de jeux de mots & calembours par ordre alphabétique. **Voir aussi** [Humour & Pensées - Table des matières](http://villemin.gerard.free.fr/Humour/HumouTdM.htm)
