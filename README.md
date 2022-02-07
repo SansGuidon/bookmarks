@@ -1620,6 +1620,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
 * [EcoIndex](http://www.ecoindex.fr/) - :fr: [FR] L’objectif d’EcoIndex est d’aider le plus grand nombre à prendre conscience de l’impact environnemental de l’internet et de proposer des solutions concrètes pour réduire cet impact. EcoIndex vous propose donc une analyse automatique de premier niveau pour vous aider à identifier rapidement et gratuitement des sites web / services en ligne à ausculter en priorité.
 * [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
+* [buyOrNot](https://i-buycott.org/lapplication-mobile-buyornot/#iframe_assoconnect) - :fr: [FR] L’application qui décrypte les étiquettes pour consommer éthique : pour soi, pour nous et pour la planète !
 
 # Finding content :mag:
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
@@ -1777,6 +1778,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Librel](https://www.librel.be/) - :fr: 🇧🇪 [FR] [BE] La plus grande librairie de Belgique | Les librairies indépendantes. **See also** [Carte interactive](https://www.librel.be/map.php)
 * [RTBF](https://www.rtbf.be/archive/vivre-ici-produits-belges) - :fr: 🇧🇪 [FR] [BE] Tout le contenu made in belgium
 * [RTBF](https://www.rtbf.be/archive/vi-initiatives-locales) - :fr: 🇧🇪 [FR] [BE] Tout le contenu initiatives locales
+* [buyOrNot](https://i-buycott.org/lapplication-mobile-buyornot/#iframe_assoconnect) - :fr: [FR] L’application qui décrypte les étiquettes pour consommer éthique : pour soi, pour nous et pour la planète !
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
