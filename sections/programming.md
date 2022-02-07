@@ -1370,6 +1370,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [Ayooluwa Isaiah](https://freshman.tech/linting-golang/) - (2021) A guide to linting Go programs
 * [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 * [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
+* [Ian Lance Taylor](https://go.dev/blog/why-generics) - (2019) Why Generics?
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
