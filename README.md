@@ -1524,6 +1524,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Librel](https://www.librel.be/) - :fr: 🇧🇪 [FR] [BE] La plus grande librairie de Belgique | Les librairies indépendantes. **See also** [Carte interactive](https://www.librel.be/map.php)
 * [PARCOURS Street Art de la Ville de Bruxelles](https://parcoursstreetart.brussels/) - :fr: 🇧🇪 [FR] [BE] Vous y découvrirez toutes les fresques produites ou coproduites par le PARCOURS sur notre commune (codes postaux : 1000, 1020, 1120 et 1130). Mais aussi des informations sur les artistes, collectifs, descriptions des œuvres, nos appels à projets ou aux propriétaires ainsi que des parcours thématiques ou géographiques.
 * [visit.brussels](https://visit.brussels/) - 🇧🇪 [BE] we make you love Brussels!
+* [commercelocal.brussels](https://www.commercelocal.brussels/option-b/) - :fr: 🇧🇪 [FR] [BE] Bruxelles révèle bien des surprises | Votre destination de rêve semble inaccessible ? L’option B est là pour vous surprendre, dans l’une des villes les plus inattendues de la galaxie.
+* [Magazine Stoemp de Cultures](https://escaledunord.brussels/category/stoemp/) - :fr: 🇧🇪 [FR] [BE] Le magazine bimestriel d'Escale du Nord — Centre culturel d'Anderlecht.
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1625,12 +1627,17 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Intradel](https://www.intradel.be/zerodechet) - :fr: 🇧🇪 [FR] [BE] Séquences zéro déchet sur VivaCité
 * [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
  * [Marion Jaumotte](https://www.rtbf.be/article/redecouvrez-bruxelles-a-pieds-a-velo-ou-en-metro-grace-aux-bb-des-balades-thematiques-originales-10913957) - (2022) 🇫🇷 🇧🇪 [FR] [BE] Redécouvrez Bruxelles à pieds, à vélo ou en métro grâce aux "BB", des balades thématiques originales
+* [environnement.brussels](https://environnement.brussels/thematiques/bruit/les-sources-de-bruit/bruit-de-voisinage/contre-le-bruit-peut-agir) - :fr: 🇧🇪 [FR] [BE] Contre le bruit, on peut agir. **See also** [Le bruit - Bruxelles environnement](https://environnement.brussels/thematiques/bruit)
+* [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/bonnes-adresses/parcours-decouvertes) - :fr: 🇧🇪 [FR] [BE] Partez à la découvertes d’initiatives et de projets zéro déchet près de chez vous.
+* [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/conseils/eviter-les-dechets/jevite-la-pub-et-me-desabonne) - :fr: 🇧🇪 [FR] [BE] J’évite la Pub et me désabonne
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
 * [EcoIndex](http://www.ecoindex.fr/) - :fr: [FR] L’objectif d’EcoIndex est d’aider le plus grand nombre à prendre conscience de l’impact environnemental de l’internet et de proposer des solutions concrètes pour réduire cet impact. EcoIndex vous propose donc une analyse automatique de premier niveau pour vous aider à identifier rapidement et gratuitement des sites web / services en ligne à ausculter en priorité.
 * [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 * [buyOrNot](https://i-buycott.org/lapplication-mobile-buyornot/#iframe_assoconnect) - :fr: [FR] L’application qui décrypte les étiquettes pour consommer éthique : pour soi, pour nous et pour la planète !
+* [La liste Robinson](https://www.robinson.be/) - 🇧🇪 🇫🇷 [BE] [FR] est une liste de personnes qui ne souhaitent plus recevoir de publicité adressée par la poste. N'importe qui peut s'inscrire gratuitement sur cette liste.
+* [Do Not Call Me (abrégé DNCM)](https://www.dncm.be/fr/) - 🇧🇪 🇫🇷 [BE] [FR] La liste "Ne m'appelez plus" vous assure de ne plus recevoir de publicités indésirables par téléphone. La loi oblige les entreprises et les organisations qui font des offres commerciales par téléphone à utiliser cette liste. L'association Do Not Call Me (abrégé DNCM) a été reconnu par l'arrêté royal du 28 juin 2015 en tant que gestionnaire officiel de la liste.
 
 # Finding content :mag:
 * [Reddit](https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/) - Piracy Megathread on reddit
@@ -1848,6 +1855,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Le Petit Moutard](https://www.lepetitmoutard.be/place) - 🇧🇪 🇫🇷 [BE] [FR] Sorties et activités enfants en Belgique
 * [Brussels Museum](https://www.brusselsmuseums.be/fr/agenda?activityType=189806) - 🇧🇪 🇫🇷 [BE] [FR] Le calendrier des évènements des musées bruxellois.
 * [visit.brussels](https://visit.brussels/) - 🇧🇪 [BE] we make you love Brussels!
+* [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/bonnes-adresses/parcours-decouvertes) - :fr: 🇧🇪 [FR] [BE] Partez à la découvertes d’initiatives et de projets zéro déchet près de chez vous.
 
 # Free online tools :free:
 * :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
@@ -2041,6 +2049,8 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [rfc.me](https://rfc.me/) - Append an RFC number to the domain and it will redirect to that RFC. Example: [rfc.me/1738](https://rfc.me/1738)
 * [rfc.fyi](https://rfc.fyi/) - Search for RFCs, Fast — When they say ‘fast’ they’re not lying. This site is amazingly nimble at helping you track down the particular RFC you want, whether you want to read the FTP spec, a protocol for controlling coffee pots, or how QUIC works.
 * [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP. **See also** : [GlossaryTech for LinkedIn](https://glossarytech.com/plugin)
+* [La liste Robinson](https://www.robinson.be/) - 🇧🇪 🇫🇷 [BE] [FR] est une liste de personnes qui ne souhaitent plus recevoir de publicité adressée par la poste. N'importe qui peut s'inscrire gratuitement sur cette liste.
+* [Do Not Call Me (abrégé DNCM)](https://www.dncm.be/fr/) - 🇧🇪 🇫🇷 [BE] [FR] La liste "Ne m'appelez plus" vous assure de ne plus recevoir de publicités indésirables par téléphone. La loi oblige les entreprises et les organisations qui font des offres commerciales par téléphone à utiliser cette liste. L'association Do Not Call Me (abrégé DNCM) a été reconnu par l'arrêté royal du 28 juin 2015 en tant que gestionnaire officiel de la liste.
 
 > Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
@@ -2471,6 +2481,17 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
  * [Marion Jaumotte](https://www.rtbf.be/article/redecouvrez-bruxelles-a-pieds-a-velo-ou-en-metro-grace-aux-bb-des-balades-thematiques-originales-10913957) - (2022) 🇫🇷 🇧🇪 [FR] [BE] Redécouvrez Bruxelles à pieds, à vélo ou en métro grâce aux "BB", des balades thématiques originales
 * [PARCOURS Street Art de la Ville de Bruxelles](https://parcoursstreetart.brussels/) - :fr: 🇧🇪 [FR] [BE] Vous y découvrirez toutes les fresques produites ou coproduites par le PARCOURS sur notre commune (codes postaux : 1000, 1020, 1120 et 1130). Mais aussi des informations sur les artistes, collectifs, descriptions des œuvres, nos appels à projets ou aux propriétaires ainsi que des parcours thématiques ou géographiques.
 * [Florence Tornincasa](https://reporterontheroad.com/fr/20-choses-a-faire-dans-le-centre-de-bruxelles/) - :fr: 🇧🇪 [FR] [BE] Bruxelles: 20 Incontournables Dans Le Centre
+* [environnement.brussels](https://environnement.brussels/thematiques/bruit/les-sources-de-bruit/bruit-de-voisinage/contre-le-bruit-peut-agir) - :fr: 🇧🇪 [FR] [BE] Contre le bruit, on peut agir. **See also** [Le bruit - Bruxelles environnement](https://environnement.brussels/thematiques/bruit)
+* [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/bonnes-adresses/parcours-decouvertes) - :fr: 🇧🇪 [FR] [BE] Partez à la découvertes d’initiatives et de projets zéro déchet près de chez vous.
+* [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
+* [RTBF](https://www.rtbf.be/archive/vivre-ici-produits-belges) - :fr: 🇧🇪 [FR] [BE] Tout le contenu made in belgium
+* [RTBF](https://www.rtbf.be/archive/vi-initiatives-locales) - :fr: 🇧🇪 [FR] [BE] Tout le contenu initiatives locales
+* [RTBF](https://www.rtbf.be/mot-cle/zero-dechet) - :fr: 🇧🇪 [FR] [BE] Tout le contenu Zéro déchêt 
+* [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/conseils/eviter-les-dechets/jevite-la-pub-et-me-desabonne) - :fr: 🇧🇪 [FR] [BE] J’évite la Pub et me désabonne
+* [Restaurant Guru](https://fr.restaurantguru.com/Brussels) - :fr: 🇧🇪 [FR] [BE] Restaurants à Bruxelles, avec des filtres par commune, par type de restaurant, une carte incluant les reviews, etc.
+* [commercelocal.brussels](https://www.commercelocal.brussels/option-b/) - :fr: 🇧🇪 [FR] [BE] Bruxelles révèle bien des surprises | Votre destination de rêve semble inaccessible ? L’option B est là pour vous surprendre, dans l’une des villes les plus inattendues de la galaxie.
+* [Visit Brussels](https://visit.brussels/fr/category/marches) - :fr: 🇧🇪 [FR] [BE] Marchés à Bruxelles
+* [Magazine Stoemp de Cultures](https://escaledunord.brussels/category/stoemp/) - :fr: 🇧🇪 [FR] [BE] Le magazine bimestriel d'Escale du Nord — Centre culturel d'Anderlecht.
 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -2499,6 +2520,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Eat's Local](https://www.bwbx.eatslocal.be/index.php#headerAndBoxes) - 🇧🇪 🇫🇷 [BE] [FR] Des produits de chez nous | Découvrez nos délicieux produits bio, locaux et artisanaux
 * [Apaq-W](https://www.apaqw.be/fr/recettes) - 🇧🇪 🇫🇷 [BE] [FR] Des idées de recettes avec des produits locaux !
 * [Fritmap](https://www.fritmap.com/fr/) - 🇧🇪 🇫🇷 [BE] [FR] le portail de la frite et des friteries (Fritkots, baraques à frite)
+* [Restaurant Guru](https://fr.restaurantguru.com/Brussels) - :fr: 🇧🇪 [FR] [BE] Restaurants à Bruxelles, avec des filtres par commune, par type de restaurant, une carte incluant les reviews, etc.
 
 > History
 * [Sur le champ](https://www.youtube.com/channel/UCiWrr_SnP8eK-_9yJWFzbEA) - :fr: [FR] [Videos] La tactique et la stratégie militaires ont aussi une histoire. A travers l'analyse de différentes batailles, cette chaîne Youtube vous propose de découvrir ce qui a marqué cette discipline, non pour l'exercer mais pour la comprendre.
@@ -2532,6 +2554,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Marion Jaumotte](https://www.rtbf.be/article/redecouvrez-bruxelles-a-pieds-a-velo-ou-en-metro-grace-aux-bb-des-balades-thematiques-originales-10913957) - (2022) 🇫🇷 🇧🇪 [FR] [BE] Redécouvrez Bruxelles à pieds, à vélo ou en métro grâce aux "BB", des balades thématiques originales
 * [PARCOURS Street Art de la Ville de Bruxelles](https://parcoursstreetart.brussels/) - :fr: 🇧🇪 [FR] [BE] Vous y découvrirez toutes les fresques produites ou coproduites par le PARCOURS sur notre commune (codes postaux : 1000, 1020, 1120 et 1130). Mais aussi des informations sur les artistes, collectifs, descriptions des œuvres, nos appels à projets ou aux propriétaires ainsi que des parcours thématiques ou géographiques.
 * [Florence Tornincasa](https://reporterontheroad.com/fr/20-choses-a-faire-dans-le-centre-de-bruxelles/) - :fr: 🇧🇪 [FR] [BE] Bruxelles: 20 Incontournables Dans Le Centre
+* [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/bonnes-adresses/parcours-decouvertes) - :fr: 🇧🇪 [FR] [BE] Partez à la découvertes d’initiatives et de projets zéro déchet près de chez vous.
 
 > Wordplay
 * [Gérard Villemin](http://villemin.gerard.free.fr/Humour/aaaCalem/CalembA.htm#top) - 🇫🇷 [FR] Une tonne de jeux de mots & calembours par ordre alphabétique. **Voir aussi** [Humour & Pensées - Table des matières](http://villemin.gerard.free.fr/Humour/HumouTdM.htm)
@@ -3117,10 +3140,6 @@ type `curl ident.me` to know your public ip
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
 * [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
 * [follow.it](https://follow.it/) - Follow any blog or website
-* [RTBF](https://www.rtbf.be/archive/vivre-ici-produits-belges) - :fr: 🇧🇪 [FR] [BE] Tout le contenu made in belgium
-* [RTBF](https://www.rtbf.be/archive/vi-initiatives-locales) - :fr: 🇧🇪 [FR] [BE] Tout le contenu initiatives locales
-* [RTBF](https://www.rtbf.be/mot-cle/zero-dechet) - :fr: 🇧🇪 [FR] [BE] Tout le contenu Zéro déchêt 
-* [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
 
 > Anderlecht / Bruxelles news
 * [Commune d'Anderlecht](https://www.anderlecht.be) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
@@ -3132,6 +3151,11 @@ type `curl ident.me` to know your public ip
 * [Osiris](https://via.osiris.brussels/#/) - 🇫🇷 🇧🇪 [FR] [BE] Perturbations des voiries bruxelloises liées aux chantiers
 * [Commune d'Anderlecht](https://www.anderlecht.be/fr/webzines) - 🇫🇷 🇧🇪 [FR] [BE] Webzines
 * [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
+* [RTBF](https://www.rtbf.be/archive/vivre-ici-produits-belges) - :fr: 🇧🇪 [FR] [BE] Tout le contenu made in belgium
+* [RTBF](https://www.rtbf.be/archive/vi-initiatives-locales) - :fr: 🇧🇪 [FR] [BE] Tout le contenu initiatives locales
+* [RTBF](https://www.rtbf.be/mot-cle/zero-dechet) - :fr: 🇧🇪 [FR] [BE] Tout le contenu Zéro déchêt 
+* [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
+* [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/bonnes-adresses/parcours-decouvertes) - :fr: 🇧🇪 [FR] [BE] Partez à la découvertes d’initiatives et de projets zéro déchet près de chez vous.
 
 # Nix
 * [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
@@ -4209,6 +4233,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Key Values](https://www.keyvalues.com/culture-queries) - Culture Queries - The perfect questions to ask in your job interview. Want to stand out from other candidates and find your dream job?
 * [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
 * [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP. **See also** : [GlossaryTech for LinkedIn](https://glossarytech.com/plugin)
+* [Do Not Call Me (abrégé DNCM)](https://www.dncm.be/fr/) - 🇧🇪 🇫🇷 [BE] [FR] La liste "Ne m'appelez plus" vous assure de ne plus recevoir de publicités indésirables par téléphone. La loi oblige les entreprises et les organisations qui font des offres commerciales par téléphone à utiliser cette liste. L'association Do Not Call Me (abrégé DNCM) a été reconnu par l'arrêté royal du 28 juin 2015 en tant que gestionnaire officiel de la liste.
 
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
