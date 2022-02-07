@@ -542,6 +542,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Favobooks](http://favobooks.com/) - famous people's favourite books : explore book recommendations of great thinkers, entrepreneurs, pioneers and visionaries.
 * [The Book Seer](https://bookseer.com/) - What should I read next ?
 * [Reddit Favorites](https://redditfavorites.com/books) - What are reddit's favorite Books? | From 3.5 billion comments (number from Sept. 13, 2021)
+* [Librel](https://www.librel.be/) - :fr: 🇧🇪 [FR] [BE] La plus grande librairie de Belgique | Les librairies indépendantes. **See also** [Carte interactive](https://www.librel.be/map.php)
 
 # Business & Economics
 > News
@@ -1513,6 +1514,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Eli McGarvie](https://cult.honeypot.io/reads/13-best-tech-documentaries-for-developers/) - (2022) 13 Best Tech Documentaries For Developers | You can't go wrong with these developer documentaries...
 * [Richard Dern](https://www.richard-dern.fr/blog/2022/01/21/l-informatique-c-etait-mieux-avant/) - :fr: [FR] (2022) L'informatique, c'était mieux avant
 * [Brussels Museum](https://www.brusselsmuseums.be/fr/agenda?activityType=189806) - 🇧🇪 🇫🇷 [BE] [FR] Le calendrier des évènements des musées bruxellois.
+* [Librel](https://www.librel.be/) - :fr: 🇧🇪 [FR] [BE] La plus grande librairie de Belgique | Les librairies indépendantes. **See also** [Carte interactive](https://www.librel.be/map.php)
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1769,6 +1771,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Thingiverse](https://www.thingiverse.com/) - sharing of user-created digital design files to be used for 3D printers, laser cutters, milling machines and many other technologies.
 * [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
 * [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
+* [Librel](https://www.librel.be/) - :fr: 🇧🇪 [FR] [BE] La plus grande librairie de Belgique | Les librairies indépendantes. **See also** [Carte interactive](https://www.librel.be/map.php)
 
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
