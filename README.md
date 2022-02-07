@@ -4085,6 +4085,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Yossi Kreinin aka wetware](https://yosefk.com/blog/10x-more-selective.html) - (2013) 10x more selective
 > So I believe, having authored a lot of code that went down the toilet, that you don't get productive by working as much as by not working – not on stuff that is likely to get thrown away.
 * [Nicolas Karolak](https://blog.karolak.fr/2019/11/25/les-raccourcis-clavier-de-bash/) - :fr: [FR] (2019) Les raccourcis clavier de Bash
+* [The Stripe](https://thestripe.com/a-simple-productivity-trick/) - (2022) Today I'm sharing with you a simple productivity trick that helps me when I have something urgent that I just can't motivate myself to do!
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
