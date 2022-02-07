@@ -429,7 +429,9 @@
 * [How old is it?](https://howoldisit.glitch.me/) - How long has _react, vue, ember, etc._ existed? | This is a handy tool for tech recruiters who ask for fifteen years experience in technologies that have only existed for three months.
 * [Spencer Baugh](https://catern.com/change_code.html) - (2022) Prefer to change the code rather than write a workaround
 * [Spencer Baugh](https://catern.com/config.html) - (2021) Write code, not configuration
-*
+* [Raphael Gaschignard](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html) - (2022) Precision In Technical Discussions
+> * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
+
 > Stickers
 * [DevStickers](http://devstickers.com/) - Laptop Stickers and T-shirts for Web Designers and Developers
 * [Zazzle](https://www.zazzle.com/software+developer+stickers) - Software Developer Stickers
@@ -601,6 +603,8 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [Bertrand Le Foulgoc](https://blog.octo.com/egoless-programming/) - :fr: [FR] Egoless Programming
 * [Wikipedia](https://en.wikipedia.org/wiki/Egoless_programming) - Egoless programming
 * [WikiWikiWeb](https://wiki.c2.com/?EgolessProgramming) - Egoless Programming
+* [Raphael Gaschignard](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html) - (2022) Precision In Technical Discussions
+> * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
@@ -852,6 +856,8 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Steve Barnegren](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code - (2022) There’s No Such Thing as Clean Code
 * [Spencer Baugh](https://catern.com/change_code.html) - (2022) Prefer to change the code rather than write a workaround
 * [Spencer Baugh](https://catern.com/config.html) - (2021) Write code, not configuration
+* [Raphael Gaschignard](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html) - (2022) Precision In Technical Discussions
+> * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
