@@ -2494,6 +2494,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [commercelocal.brussels](https://www.commercelocal.brussels/option-b/) - :fr: 🇧🇪 [FR] [BE] Bruxelles révèle bien des surprises | Votre destination de rêve semble inaccessible ? L’option B est là pour vous surprendre, dans l’une des villes les plus inattendues de la galaxie.
 * [Visit Brussels](https://visit.brussels/fr/category/marches) - :fr: 🇧🇪 [FR] [BE] Marchés à Bruxelles
 * [Magazine Stoemp de Cultures](https://escaledunord.brussels/category/stoemp/) - :fr: 🇧🇪 [FR] [BE] Le magazine bimestriel d'Escale du Nord — Centre culturel d'Anderlecht.
+* [Fritmap](https://www.fritmap.com/fr/classement-meilleures-friteries-bruxelles) - :fr: 🇧🇪 [FR] [BE] Envie de manger des bonnes frites près de chez vous? Voici le classement des meilleures frites belges, friteries et snacks à Bruxelles, ce classement est constitué non seulement grâce aux votes et avis des internautes mais aussi à l'estimation de l'équipe de fritmap.com qui a testé les frites de ces friteries à plusieurs reprises sur une période de 6 mois.
 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
