@@ -1528,6 +1528,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [visit.brussels](https://visit.brussels/) - 🇧🇪 [BE] we make you love Brussels!
 * [commercelocal.brussels](https://www.commercelocal.brussels/option-b/) - :fr: 🇧🇪 [FR] [BE] Bruxelles révèle bien des surprises | Votre destination de rêve semble inaccessible ? L’option B est là pour vous surprendre, dans l’une des villes les plus inattendues de la galaxie.
 * [Magazine Stoemp de Cultures](https://escaledunord.brussels/category/stoemp/) - :fr: 🇧🇪 [FR] [BE] Le magazine bimestriel d'Escale du Nord — Centre culturel d'Anderlecht.
+* [Zakoustics](https://zakoustics.wixsite.com/website) - 🇧🇪 🇫🇷 [BE] [FR] Les Zakoustics, ce sont des concerts acoustiques pour les tout-petits (0-3 ans) et leurs parents.
+* [La Tricoterie](https://www.tricoterie.be/fr/?lang=fr) -  🇧🇪 🇫🇷 [BE] [FR] se rêve en « Fabrique de liens ». Un lieu de “rencontre” où les disciplines et les publics divers se croisent, dans un esprit d’échange et d’émulation. Leur programmation culturelle (concerts, spectacles, expos…) côtoie donc une programmation “citoyenne” (débats, conférences, repair café, ateliers intergénérationnels, café-philo…). Parallèlement, des espaces sont proposés à la location et dédiés à l’organisation d’événements.
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -1858,6 +1860,8 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Brussels Museum](https://www.brusselsmuseums.be/fr/agenda?activityType=189806) - 🇧🇪 🇫🇷 [BE] [FR] Le calendrier des évènements des musées bruxellois.
 * [visit.brussels](https://visit.brussels/) - 🇧🇪 [BE] we make you love Brussels!
 * [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/bonnes-adresses/parcours-decouvertes) - :fr: 🇧🇪 [FR] [BE] Partez à la découvertes d’initiatives et de projets zéro déchet près de chez vous.
+* [Zakoustics](https://zakoustics.wixsite.com/website) - 🇧🇪 🇫🇷 [BE] [FR] Les Zakoustics, ce sont des concerts acoustiques pour les tout-petits (0-3 ans) et leurs parents.
+* [La Tricoterie](https://www.tricoterie.be/fr/?lang=fr) -  🇧🇪 🇫🇷 [BE] [FR] se rêve en « Fabrique de liens ». Un lieu de “rencontre” où les disciplines et les publics divers se croisent, dans un esprit d’échange et d’émulation. Leur programmation culturelle (concerts, spectacles, expos…) côtoie donc une programmation “citoyenne” (débats, conférences, repair café, ateliers intergénérationnels, café-philo…). Parallèlement, des espaces sont proposés à la location et dédiés à l’organisation d’événements.
 
 # Free online tools :free:
 * :star: [**BuiltWith**](https://builtwith.com/) - Find out what technology a website is built with
@@ -3046,7 +3050,8 @@ rpm --rebuilddb
 * [Classic 21](https://www.rtbf.be/classic21/) - 🇧🇪 🇫🇷 [BE] [FR] est une station de radio belge de service public orientée vers la musique pop/rock de 1950 à nos jours. Faisant partie de la RTBF, sa création remonte au 1ᵉʳ avril 2004, date à laquelle Radio 21 a cédé la place à deux nouvelles stations : Pure FM et Classic 21.
 * [Classic 21](https://www.rtbf.be/classic21/emissions/detail_les-podcasts-de-classic-21?programId=18188) - 🇧🇪 🇫🇷 [BE] [FR] Les podcasts de Classic 21
 * [Every Noise at Once](https://everynoise.com/) - is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for `5,745 genre-shaped distinctions by Spotify as of 2022-01-26`. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier.
-
+* [Zakoustics](https://zakoustics.wixsite.com/website) - 🇧🇪 🇫🇷 [BE] [FR] Les Zakoustics, ce sont des concerts acoustiques pour les tout-petits (0-3 ans) et leurs parents.
+ 
 > Tools
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
 * [Obscurify Music](https://obscurifymusic.com) - If you're on spotify, Obscurify let you learn more about your music taste and compare it to others' with Obscurify.
@@ -3159,6 +3164,7 @@ type `curl ident.me` to know your public ip
 * [RTBF](https://www.rtbf.be/mot-cle/zero-dechet) - :fr: 🇧🇪 [FR] [BE] Tout le contenu Zéro déchêt 
 * [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
 * [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/bonnes-adresses/parcours-decouvertes) - :fr: 🇧🇪 [FR] [BE] Partez à la découvertes d’initiatives et de projets zéro déchet près de chez vous.
+* [Magazine Stoemp de Cultures](https://escaledunord.brussels/category/stoemp/) - :fr: 🇧🇪 [FR] [BE] Le magazine bimestriel d'Escale du Nord — Centre culturel d'Anderlecht.
 
 # Nix
 * [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
@@ -3516,6 +3522,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [BY MAEM](https://by-maem.be/collections) - beautiful, original, sustainable and above all ecologically responsible baby equipment. MAEM mission is to help you to choose your baby items consciously and thus prevent unnecessary "fast-waste". 
 * [Le Petit Moutard](https://www.lepetitmoutard.be/plaine-de-jeux-couverte_16/bruxelles_1/enfant.asp) - 🇧🇪 🇫🇷 [BE] [FR] Plaines de jeux couverte à Bruxelles
 * [Le Petit Moutard](https://www.lepetitmoutard.be/place) - 🇧🇪 🇫🇷 [BE] [FR] Sorties et activités enfants en Belgique
+* [Zakoustics](https://zakoustics.wixsite.com/website) - 🇧🇪 🇫🇷 [BE] [FR] Les Zakoustics, ce sont des concerts acoustiques pour les tout-petits (0-3 ans) et leurs parents.
+* [La Tricoterie](https://www.tricoterie.be/fr/?lang=fr) -  🇧🇪 🇫🇷 [BE] [FR] se rêve en « Fabrique de liens ». Un lieu de “rencontre” où les disciplines et les publics divers se croisent, dans un esprit d’échange et d’émulation. Leur programmation culturelle (concerts, spectacles, expos…) côtoie donc une programmation “citoyenne” (débats, conférences, repair café, ateliers intergénérationnels, café-philo…). Parallèlement, des espaces sont proposés à la location et dédiés à l’organisation d’événements.
 
 # Performance
 See also [Accessibility (a11y)](#accessibility-a11y) && [Ecology :seedling:](#ecology-seedling) && [Web development](#web-development)
