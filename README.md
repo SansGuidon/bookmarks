@@ -355,6 +355,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [yeggi](https://www.yeggi.com/) - Search Engine for 3D printable Models
 * [Cults](https://cults3d.com/en) - Find out the best paid and free 3D models of 3D printing. Share in open source or sell your 3D print files.
 * [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+* [Brandon Rhodes](https://python-patterns.guide/) - (2018) Python Design Patterns | evolving guide to design patterns in the Python programming language.
 
 # Art :art:
 > News
