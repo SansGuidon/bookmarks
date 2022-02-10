@@ -3149,6 +3149,7 @@ type `curl ident.me` to know your public ip
 * [Newsletterest](https://newsletterest.com/) - Simple newsletter reader app to read all your newsletters in one place. Learn anything with a curated list of topics and newsletters.
 * [Subworthy](https://subworthy.com/) - Subscribe to blogs, news sites and podcasts and get it all delivered to your inbox once a day in your own personalised newsletter for free.
 * [follow.it](https://follow.it/) - Follow any blog or website
+* :star: [**daily.dev**](https://daily.dev/) - The Homepage Every Developer Deserves | daily.dev is the fastest growing online community for developers to stay updated on the best developer news. 
 
 > Anderlecht / Bruxelles news
 * [Commune d'Anderlecht](https://www.anderlecht.be) - 🇫🇷 🇧🇪 [FR] [BE] Actualités
