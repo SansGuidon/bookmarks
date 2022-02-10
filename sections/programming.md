@@ -70,7 +70,7 @@
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) - Keep track of new cool github projects
 * [The Changelog](https://changelog.com/news/top) - Top posts 
 * [Unix Sheikh](https://www.unixsheikh.com/articles.html) - Articles and thoughts about open source, BSD and GNU/Linux system administration, and programming - the pragmatic way.
-* [daily.dev](https://daily.dev/) - The Homepage Every Developer Deserves | daily.dev is the fastest growing online community for developers to stay updated on the best developer news. 
+* :star: [**daily.dev**](https://daily.dev/) - The Homepage Every Developer Deserves | daily.dev is the fastest growing online community for developers to stay updated on the best developer news. 
 
 > Learn
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange
