@@ -1177,6 +1177,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 > Everyone would have saved so much time, if only we communicated first and wrote code only after.
 * [Andy Johns](https://andyjohns.co/why-standups-are-useless-and-how-to-run-great-product-team-meetings/) - (2019) Why Standups are Useless and How to Run Great Product Team Meetings
 * [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
+* [MyMeetingTime](https://mymeetingtime.com/) - Find the best time to talk to people located in other time zones
 * [Mike Crittenden](https://critter.blog/2021/01/05/dont-bring-problems-bring-solutions-is-bull-crap/) - (2021) “Don’t bring problems, bring solutions” is bull crap
 * [Cantlin Ashrowan](https://cantl.in/blog/2020/12/11/coherent-and-complex.html) - (2020) Coherent and complex
 > - Collaboration, it turns out, gets harder in proportion to two things: the level of coherence you demand from the output, and the complexity of the processes that create it.
@@ -2022,6 +2023,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Nibbler](https://nibbler.silktide.com/) - is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology.
 * [Readable](https://www.webfx.com/tools/read-able/) - Free readability test tool | Quick and easy way to test the readability of your work (text).
 * [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
+* [MyMeetingTime](https://mymeetingtime.com/) - Find the best time to talk to people located in other time zones
 * [Cloudcraft](https://cloudcraft.co/) - Visualize your cloud architecture like a pro | Create smart AWS diagrams
 * [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
 * [Romanr.info](http://romanr.info/magnet.html) - Online BitTorrent Magnet Link Generator | Hash to Magnet link generator / converter
@@ -4219,6 +4221,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [musicForProgramming](https://musicforprogramming.net/) - Music possessing these qualities can often provide just the right amount of interest to occupy the parts of your brain that would otherwise be left free to wander and lead to distraction during your work.
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 * [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) - Need to make a call to someone far away or arrange a web or video conference across different time zones? Find the best time across time zones with this Meeting Planner.
+* [MyMeetingTime](https://mymeetingtime.com/) - Find the best time to talk to people located in other time zones
 * [KopywritingKourse](https://kopywritingkourse.com/event-name-generator/) - Event Name Generator
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * :star: [**VimAwesome**](https://vimawesome.com/) - Awesome Vim Plugins from Accross the universe
