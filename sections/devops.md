@@ -1066,6 +1066,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Komodor Blog](https://komodor.com/blog/?category=kubernetes) - Articles tagged Kubernetes
 * [The Shipt It! Podcast](https://changelog.com/shipit - A podcast about getting your best ideas into the world and seeing what happens.
 * [Changelog](https://changelog.com/topic/kubernetes) - Kubernetes news & podcasts for developers
+* [The Kubernetes Podcast](https://kubernetespodcast.com/) - (from Google) is a weekly news and interview show with insight from the Kubernetes community.
 
 > Learn
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/kubernetes) - Newest "kubernetes" Questions
