@@ -3648,6 +3648,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [La voix dans ta tête](https://lavoixdanstatete.com/) - :fr: [FR] ou lvdt.audio : catalogue de podcasts à écouter
 * [La voix dans ta tête](https://lavoixdanstatete.com/podcast/bieres-faits-divers/) - 🇧🇪 🇫🇷 [BE] [FR] Bières & faits divers | Boire des bières en racontant des histoires folles, étranges et drôles: la parfaite combinaison pour passer un bon moment.
 * [Intradel](https://www.intradel.be/zerodechet) - :fr: 🇧🇪 [FR] [BE] Séquences zéro déchet sur VivaCité
+* [The Kubernetes Podcast](https://kubernetespodcast.com/) - (from Google) is a weekly news and interview show with insight from the Kubernetes community.
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
