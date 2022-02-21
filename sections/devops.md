@@ -395,6 +395,7 @@
 * [The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - (2021) 7 Lessons From 10 Outages
 * [Kevin Riggle](https://github.com/readme/guides/incident-email) - (2021) How to write an internal production failure incident communication | What do you say when the system is down ? 
 * [DevOps Salaries](https://salaries.devops-jobs.net/) - Let's make global salaries in DevOps a bit more open and transparent
+* [mumble.org.uk](https://mumble.org.uk/blog/2022/02/02/infrastructure-in-this-post-devops-world/) - (2022) Infrastructure in this post-DevOps world ?
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
@@ -1122,6 +1123,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Komodor](https://komodor.com/learn/the-ultimate-kubectl-cheat-sheet/) - The Ultimate Kubectl Cheat Sheet
 * [Kubernetes cheatsheet](https://ibd.sh/cheatsheet-k8s) - [PDF] Memo of some useful commands using kubectl, kubectx, kubens, kubetail, … and also some manifest samples for Ingress and PersistentVolumeClaim.. **Bonus** [French version](https://ibd.sh/memo-k8s). Via
 * [Helm Quickstart Guide](https://ibd.sh/helm) - This guide covers how you can quickly get started using Helm.
+* [Pierre-Mickael Chancrin aka Piermick](https://piermick.wordpress.com/2022/01/07/guide-de-preparation-a-lexamen-ckad/) - :fr: [FR] Guide de préparation à l’examen CKAD
 
 > Tools
 * [Kubernetes on Slack](http://slack.k8s.io/) - Slack community about Kubernetes
@@ -1373,10 +1375,17 @@ See also [Infrastructure](README.md#infrastructure)
 * [Tiexin Guo](https://medium.com/4th-coffee/on-devops-9-infrastructure-as-code-clean-code-terraform-introduction-and-best-practices-5d266132c70a) - (2021) On DevOps — 9. Infrastructure as Code — Clean Code, Terraform Introduction, and Best Practices
 * [CloudSkiff](https://cloudskiff.com/terraform-code-quality/) - (2020) Terraform Code Quality | Key Steps to a good quality for your Infrastructure Code. **Related** : [Original talk from Cloud Native London, 3 June 2020](https://www.youtube.com/watch?v=yX2GoXB70iA) 
 * [George Richardson](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/) - (2022) How Infrastructure as Code Should Feel
+* [Nitin Aggarwal](https://blog.runx.dev/my-pet-peeves-with-terraform-f9bb37d94950) - (2021) My pet peeves with Terraform
+* [Rosemary Wang](https://www.hashicorp.com/blog/testing-hashicorp-terraform) - (2021) Testing HashiCorp Terraform : Learn testing strategies for HashiCorp Terraform modules and configuration, and learn how to run tests against infrastructure.
+* [craftvscruft/tfrefactor](https://github.com/craftvscruft/tfrefactor) - Automated refactoring for Terraform
+* [Pier](https://medium.com/geekculture/from-terralith-to-terraservice-with-terraform-acf990e65578) - (2021) From Terralith to Terraservice with Terraform
+* [Stéphane Robert](https://blog.stephane-robert.info/post/infra-as-code-policy-check-regula/) - :fr: [FR] (2021) Regula l’outil d’Analyse Statique pour l’Infra As Code
+* [Adarsh Shah](https://itnext.io/principles-patterns-and-practices-for-effective-infrastructure-as-code-e5f7bbe13df1) - (2020) Principles, Patterns, and Practices for Effective Infrastructure as Code | Deliver Infrastructure and Software running on it Rapidly and Reliably at Scale
 
 > Tips
 * [Henna Abbas](https://support.circleci.com/hc/en-us/articles/360034981414-How-to-Add-Temporary-AWS-Session-Tokens-in-Terraform) - (2021) How to Add Temporary AWS Session Tokens in Terraform
 * [George Richardson](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/) - (2021) Failing Faster with Terraform
+* [Pierre-Mickael Chancrin aka Piermick](https://piermick.wordpress.com/2022/01/27/se-certifier-sur-terraform/) - :fr: [FR] Se certifier sur Terraform
 
 ## Travis CI
 * [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
