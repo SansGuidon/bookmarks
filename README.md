@@ -5148,6 +5148,8 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [George Richardson](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/) - (2022) How Infrastructure as Code Should Feel
 * [George Richardson](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/) - (2021) Failing Faster with Terraform
 * [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
+* [Pierre Prinetti](https://medium.com/@pierreprinetti/a-pattern-for-go-tests-3468b51535) - (2018) A pattern for Go tests
+* [Russ Cox](https://research.swtch.com/vgo-repro) - (2018) Reproducible, Verifiable, Verified Builds (Go & Versioning, Part 5). **Related :** [Go & Versioning & other posts](https://research.swtch.com/vgo)
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
