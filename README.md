@@ -3391,7 +3391,10 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Spencer Baugh](https://catern.com/config.html) - (2021) Write code, not configuration
 * [George Richardson](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/) - (2022) How Infrastructure as Code Should Feel
 * [George Richardson](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/) - (2021) Failing Faster with Terraform
- 
+* [mumble.org.uk](https://mumble.org.uk/blog/2022/02/02/infrastructure-in-this-post-devops-world/) - (2022) Infrastructure in this post-DevOps world ?
+* [Adarsh Shah](https://itnext.io/principles-patterns-and-practices-for-effective-infrastructure-as-code-e5f7bbe13df1) - (2020) Principles, Patterns, and Practices for Effective Infrastructure as Code | Deliver Infrastructure and Software running on it Rapidly and Reliably at Scale
+* [Stéphane Robert](https://blog.stephane-robert.info/post/infra-as-code-policy-check-regula/) - :fr: [FR] (2021) Regula l’outil d’Analyse Statique pour l’Infra As Code
+
 ## Jira
 > News
 * [Atlassian Jira](https://jira.atlassian.com/secure/Dashboard.jspa?selectPageId=85890&utm_source=newsletter-email&utm_medium=email&utm_campaign=cops-dc-server-investment-2_EML-4343&jobid=104097550&subid=1419604548) - Jira Server and Data Center: current work and future plans dashboard.
