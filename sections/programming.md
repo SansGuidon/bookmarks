@@ -944,6 +944,7 @@ Containers, Clouds and Lean Business
 * [Eyar Zilberman](https://www.datree.io/resources/kubernetes-schema-validation) - (2021) A Deep Dive Into Kubernetes Schema Validation
 * [Harshit Mehndiratta](https://kubevious.io/blog/post/top-kubernetes-yaml-validation-tools) - (2021) Top Kubernetes YAML Validation Tools
 * [Amit Saha](https://learnk8s.io/validating-kubernetes-yaml) - (2020) Validating Kubernetes YAML for best practice and policies
+* [Stéphane Robert](https://blog.stephane-robert.info/post/infra-as-code-policy-check-regula/) - :fr: [FR] (2021) Regula l’outil d’Analyse Statique pour l’Infra As Code
 
 ## Database
 * [jOOQ Blog](https://blog.jooq.org/) - best practices and lessons learned about writing Java and SQL code
