@@ -1116,6 +1116,23 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Komodor](https://komodor.com/learning-center/?category=kubernetes) - Learning resources for Kubernetes
 * [Maik Zumstrull](https://ably.com/blog/no-we-dont-use-kubernetes) - (2021) No, we don’t use Kubernetes
 * [Nelson Elhage aka nelhage](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/) - (2022) Two reasons Kubernetes is so complex
+* [Wojtek Krzywiec](https://dev.to/wkrzywiec/automating-quality-checks-for-kubernetes-yamls-398) - (2021) Automating quality checks for Kubernetes YAMLs
+* [Michael Coté](https://containerjournal.com/features/a-better-kubernetes-experience-for-developers-is-key-in-2022/) - (2022) A Better Kubernetes Experience for Developers is Key in 2022
+* [Ivan Velichko](https://iximiuz.com/en/series/working-with-kubernetes-api/) - (2022) Working with Kubernetes API
+* [Stéphane Robert](https://blog.stephane-robert.info/post/kubernetes-introduction-helm/) - :fr: [FR] (2022) Introduction a Helm | Helm est le gestionnaire de paquets officiel de Kubernetes, écrit en Go, qui permet de gérer le cycle de vie d’une application au sein d’un cluster Kubernetes
+* [Stéphane Robert](https://blog.stephane-robert.info/post/kubernetes-write-first-chart-helm/) - :fr: [FR] (2022) Ecrire son premier Chart Helm
+* [Kentaro Wakayama](https://codersociety.com/blog/articles/helm-best-practices) - (2021) 13 Best Practices for using Helm | Helm is an indispensable tool for deploying applications to Kubernetes clusters. But it is only by following best practices that you’ll truly reap the benefits of Helm. Here are 13 best practices to help you create, operate, and upgrade applications using Helm.
+* [Stéphane Robert](https://blog.stephane-robert.info/post/kubernetes-start-with-manifest-writing/) - :fr: [FR] (2022) Ecrire ses premiers manifests Kubernetes
+* [Stéphane Robert](https://blog.stephane-robert.info/post/kubernetes-ecriture-manifests/) - :fr: [FR] (2021) Progresser dans l’écriture des manifests Kubernetes
+* [Kubernetes Docs](https://kubernetes.io/docs/concepts/extend-kubernetes/) - Extending Kubernetes : Kubernetes is highly configurable and extensible. As a result, there is rarely a need to fork or submit patches to the Kubernetes project code.
+* [Ivan Velichko](https://iximiuz.com/en/posts/kubernetes-operator-pattern/) - (2021) Exploring Kubernetes Operator Pattern
+* [Piotr Perzyna](https://blog.container-solutions.com/kubernetes-operators-explained) - (2020) Kubernetes Operators Explained. **Via** (2022) [A Tour of The Kubernetes Ecosystem](https://cult.honeypot.io/reads/the-kubernetes-ecosystem/)
+* [Deep Datta](https://jfrog.com/fr/blog/10-helm-tutorials-to-start-your-kubernetes-journey/) - :fr: [FR] (2021) 10 Tutoriels Helm pour Démarrer votre Parcours Kubernetes
+* [NSA](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF) - [PDF] (2021) Kubernetes Hardening Guidance
+* [Davide Benvegnù aka CoderDave] https://dev.to/n3wt0n/avoid-problems-with-kubernetes-best-practices-enforcement-with-datree-4p2f) - (2021) AVOID Problems with Kubernetes: Best Practices Enforcement with Datree
+* [Nana Janashia](https://dev.to/techworld_with_nana/how-to-enforce-kubernetes-best-practices-with-datree-4pen) - (2021) How to enforce Kubernetes Best Practices with Datree
+* [Antoine Veuiller](https://cult.honeypot.io/reads/when-to-use-kubernetes-and-when-not-to/) - (2021) When to Use Kubernetes (And When Not to) | Should you use Kubernetes for your next project?
+* [Network Policy Editor! (Tutorial)](https://editor.cilium.io/?id=ttJR49Q7byX1tfpd) - Learn How To Create Network Policies for Kubernetes : An online editor and visualisation tool, along with a built-in tutorial, for writing Kubernetes network policies.
 
 > Tips
 * [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes.
@@ -1142,6 +1159,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [instrumenta/conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language. **See also** [Official Website](https://conftest.dev)
 * [Kaspar von Grünberg](https://humanitec.com/blog/your-helm-zoo-will-kill-you) - (2020) Your Helm Zoo Will Kill You | There is a fundamental design flaw with Helm, leading to dramatic long-term consequences and you have to solve this now.
 * [Harshit Mehndiratta](https://kubevious.io/blog/post/top-kubernetes-yaml-validation-tools) - (2021) Top Kubernetes YAML Validation Tools
+* [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious : application centric Kubernetes UI and continuous assurance provider
 * [kuberhealthy/kuberhealth](https://github.com/kuberhealthy/kuberhealthy) - Kuberhealthy is an [operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) for running synthetic checks as pods. Works great with Prometheus!
 * [Amit Saha](https://learnk8s.io/validating-kubernetes-yaml) - (2020) Validating Kubernetes YAML for best practice and policies
 * [devopsspiral/KubeLibrary](https://github.com/devopsspiral/KubeLibrary) - Kubernetes library for [Robot Framework](https://robotframework.org/) | RobotFramework library for testing Kubernetes cluster
@@ -1153,6 +1171,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Jonathan Cross and Carlos Robles](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) - (2021) Conductor: Why We Migrated from Kubernetes to Nomad
 * [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator) - Explore the best instance types for your Kubernetes cluster interactively. 
 * [Vasily Marmer](https://blog.flant.com/chaos-engineering-in-kubernetes-open-source-tools/) - (2021) Open Source solutions for chaos engineering in Kubernetes
+* [Datree](https://www.libhunt.com/r/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. **See also : ** [docs](https://hub.datree.io) and [source code](https://github.com/datreeio/datree), [official website](https://datree.io/)
+* [Javier Ramos](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572) - (2021) Kubernetes Essential Tools: 2021
+* [Rajesh Kumar](https://www.devopsschool.com/blog/understanding-the-tools-sets-in-kubernetes-ecosystem/) - (2020) List of Popular Tools and Applications in Kubernetes ecosystem
+* [Kubewarden](https://www.kubewarden.io/) - a new tool for managing K8S policies, programmatically. **See also : ** [Example with mutation policy](https://docs.kubewarden.io/writing-policies/rust/05-mutation-policy.html)
+* [Antoine Veuiller](https://cult.honeypot.io/reads/the-kubernetes-ecosystem/) - (2022) A Tour of The Kubernetes Ecosystem | some tools broadly used by the community, and showcase a fully automated integration of Kubernetes.
+* [ArtifactHUB](https://artifacthub.io/) - Find, install and publish Kubernetes packages
 
 ## Microservices
 * [Bilgin Ibryam](https://thenewstack.io/introducing-microservices-hierarchy-needs/) - The Microservices Hierarchy of Needs and Where Kubernetes fits
