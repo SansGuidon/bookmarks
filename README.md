@@ -1584,6 +1584,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Réseau des GASAP](https://gasap.be/) - 🇧🇪 🇫🇷 [BE] [FR] Les GASAP (groupe d’achats solidaires de l’agriculture paysanne) proposent de la vente directe, sans intermédiaire, qui permet un lien direct et solidaire avec des fermes locales qui travaillent pour une agriculture « agroécologique », pourvoyeuse d’emplois dans nos régions. C’est bien plus qu’un panier de légumes bio, c’est une véritable alternative alimentaire. **Bonus** : [Carte des GASAP](https://gasap.be/carte/)
 * [VivreIci](http://www.vivreici.be/article/detail_ou-trouver-les-producteurs-locaux-et-les-paniers-bio-a-bruxelles-carte-interactive?id=92770) - 🇧🇪 🇫🇷 [BE] [FR] La carte interactive des producteurs locaux et paniers bio à Bruxelles
 * [JUPORTAL](https://juportal.be/moteur/formulaire) - 🇧🇪 🇫🇷 [BE] [FR] Base de données publique de la jurisprudence belge, depuis 2017.
+* [Cassie Kozyrkov](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d) - (2022) Stats Gist List: An Irreverent Statistician’s Guide to Jargon | Plain-language band-aids to fix gaps in your statistics knowledge
 
 # Digital marketing
 * [Portent Blog](https://www.portent.com/blog) - articles about analytics, copy writing, creativity, internet marketing, PPC, SEO, social media
