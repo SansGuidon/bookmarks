@@ -396,6 +396,10 @@
 * [Kevin Riggle](https://github.com/readme/guides/incident-email) - (2021) How to write an internal production failure incident communication | What do you say when the system is down ? 
 * [DevOps Salaries](https://salaries.devops-jobs.net/) - Let's make global salaries in DevOps a bit more open and transparent
 * [mumble.org.uk](https://mumble.org.uk/blog/2022/02/02/infrastructure-in-this-post-devops-world/) - (2022) Infrastructure in this post-DevOps world ?
+* [Patrick Debois](https://www.jedi.be/blog/2022/02/11/shades-of-devops-roles/) - (2022) Shades of DevOps - Related Job titles | A quick overview of the titles/roles use to related to devops related subject matter experts. 
+* > _I will stick with my definition of devops regardless of job title:_
+* > _Dev(sec)Ops: everything you do to overcome the friction created by silos … All the rest is plain engineering_
+* The evolution of job titles is definitely one lens through which you can observe devops influence. This post nicely visualises the current state of titles from development to operations.
 
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
