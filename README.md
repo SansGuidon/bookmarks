@@ -2157,6 +2157,19 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Board Game Finder](https://www.boardgamefinder.net/) - Discover your next board game in a few clicks.
 * [Board Games For Me](http://www.boardgamesfor.me/recommendations) - Find board game recommendations you'll love
 * [Board Game Recommendation Engine](https://apps.quanticfoundry.com/recommendations/tabletop/boardgame/) - Select 1 to 3 game titles you've enjoyed to get started!
+* [Andy Trattner](https://andytrattner.com/img/pdf/enjoy-chess.pdf) - [PDF] (2021) How To Enjoy Chess for Adult Beginners | Chess Minigames for Enjoyable Learning. **See also** [Coach Andy’s Chess Corner](https://andytrattner.com/chess/)
+* [365Chess.com](https://www.365chess.com) - Chess Games Database Online
+* [Wikipedia](https://en.wikipedia.org/wiki/List_of_chess_variants) - List of chess variants
+* [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_chess) - Timeline of chess
+* [Wikipedia](https://en.wikipedia.org/wiki/Joke_chess_problem) - Joke chess problem
+* [Wikipedia](https://en.wikipedia.org/wiki/History_of_chess) - History of chess. **Note for self: ** check at the bottom
+* [Wikipedia](https://en.wikipedia.org/wiki/Category:Works_about_chess) - Works about chess
+* [Wikipedia](https://en.wikipedia.org/wiki/Category:Films_about_chess) - Films about chess
+* [Wikipedia](https://en.wikipedia.org/wiki/Cheating_in_chess) - Cheating in chess
+* [Belgian Chess History](http://www.belgianchesshistory.be) - Results and games from tournaments and matches from Belgian chess history
+* [Bibliothèque nationale de France](http://classes.bnf.fr/echecs/histoire/ind_hist.htm) - :fr: [FR] Histoire du jeu d'échecs en Occident
+* [Wikipedia](https://fr.wikipedia.org/wiki/Histoire_du_jeu_d%27%C3%A9checs) - :fr: [FR] Histoire du jeu d'échecs
+* [Wikipedia](https://fr.wikipedia.org/wiki/Portail:%C3%89checs) - :fr: [FR] Portail des échecs
 
 ## Role-playing :dragon:
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
