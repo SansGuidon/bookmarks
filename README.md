@@ -4885,6 +4885,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [YourThings Scorecard](https://yourthings.info/scorecards/) - Evaluating and scoring smart-home devices to improve security! Learn how (in)secure your IoT devices are
 * [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/) - "Government is not the solution to our problem; government is the problem" **See also** [App ratings](https://www.securemessagingapps.com/ratings/)
 * [SalusaSecondus/CryptoGotchas](https://github.com/SalusaSecondus/CryptoGotchas/blob/master/GettingStarted.md) - So, you want to be a Cryptographer? | A collection of common (interesting) cryptographic mistakes and learning resources.
+* [NSA](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF) - [PDF] (2021) Kubernetes Hardening Guidance
 
 ## GPG
 * [Charles Zachary Lockhart](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) - GPG Cheat Sheet
