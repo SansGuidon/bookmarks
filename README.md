@@ -2077,7 +2077,9 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [n-st/view-on-archive-org.js](https://gist.github.com/n-st/0dd03b2323e7f9acd98e) - Bookmarklet to view current page on the [Internet Archive Wayback Machine](https://archive.org/)
 * [BugMeNot Bookmarklet](https://gist.github.com/idbrii/e00b2c62120bc002ec1d) - Find shared logins
 * [Awesome Bookmarklets](https://priyank-vaghela.github.io/Awesome-Bookmarklets/) - A curated collection of awesome bookmarkslets! 🚀 **See also** : [Source code](https://github.com/Priyank-Vaghela/Awesome-Bookmarklets)
-
+* [MorganGeek/bookmarklet_archive.js](https://gist.github.com/MorganGeek/40cab1d3c5ddf6fe622323ddab43e067) - Is the current website archived ?
+* [MorganGeek/bookmarklet_hackernews.js](https://gist.github.com/MorganGeek/12f83ac5a02cf81d4c91b6e602a88681) - Is the current article debated on hacker news ?
+ 
 # Gaming :video_game:
 > News
 * [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
