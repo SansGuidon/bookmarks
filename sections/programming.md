@@ -1381,6 +1381,7 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 * [Shalitha Suranga ](https://blog.logrocket.com/building-microservices-go-gin/) - (2022) Building microservices in Go with Gin
 * [Clavin June](https://levelup.gitconnected.com/this-is-why-you-should-learn-golang-639b646320) - (2021) This Is Why You Should Learn Golang
 * [Chewxy](https://blog.chewxy.com/2018/03/18/golang-interfaces/) - (2018) How To Use Go Interfaces
+* [Pulkit Kathuria](https://medium.com/web-developer/go-version-manager-gobrew-c8750157dfe6) - (2021) Go Version manager — gobrew | Install and manage Go versions on Mac or Linux.
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
