@@ -1856,6 +1856,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [European alternatives](https://european-alternatives.eu/) - European alternatives for digital products | find european alternatives for digital service and products, like cloud services and SAAS products.
 * [Random-ize](https://www.random-ize.com/random-website/) - Weird, Odd, Funny and Interesting Websites | Bored with the web? Think you've seen it all? Surf the web a new way with this random website generator. Bounce around thousands of crazy, pointless, funny, intereractive, informative and interesting webistes made by the most odd people online. And that says something.
 * [/uses](https://uses.tech/) - A list of `/uses` pages detailing developer setups, gear, software and configs.
+* [LibHunt](https://www.libhunt.com/) - Discover trending open-source projects and their alternatives
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
