@@ -2832,6 +2832,7 @@ rpm --rebuilddb
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 * [unixnut/scripts](https://github.com/unixnut/scripts) - Small, useful platform-agnostic scripts (mostly just for Linux) that don't justify having their own repo | Lot of cool scripts to take inspiration from.
 * [Nicolas Karolak](https://blog.karolak.fr/2019/11/25/les-raccourcis-clavier-de-bash/) - :fr: [FR] (2019) Les raccourcis clavier de Bash
+* [Ignat Korchagin](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/) - (2018) Using Go as a scripting language in Linux
 
 ## Emacs
 * [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - list of useful Emacs packages, libraries and others.
@@ -4646,6 +4647,7 @@ type `curl ident.me` to know your public ip
 * [Scott Robinson](https://stackabuse.com/substrings-in-bash/) - (2016) Substrings in Bash
 * [Nicolas Karolak](https://blog.karolak.fr/2019/11/25/les-raccourcis-clavier-de-bash/) - :fr: [FR] (2019) Les raccourcis clavier de Bash
 * [Maciej Radzikowski](https://betterdev.blog/minimal-safe-bash-script-template/) - (2020) Minimal safe Bash script template
+* [Ignat Korchagin](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/) - (2018) Using Go as a scripting language in Linux
 
 ## Shell Aliases
 See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
