@@ -3732,6 +3732,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [web0 manifesto](https://web0.small-web.org/) - web0 is the decentralised web | In other words, web0 is web3 without all the corporate right-libertarian Silicon Valley bullshit. **See also** [Source code](https://github.com/small-tech/web0) and [Small Technology Foundation Home](https://small-tech.org/)
 * [Richard Dern](https://www.richard-dern.fr/blog/2016/07/27/alphabet-une-entreprise-pas-comme-les-autres/) - :fr: [FR] (2016) Alphabet, une entreprise pas comme les autres
 * [Mallory Lebel](https://desgeeksetdeslettres.com/web/startpage-et-duckduckgo-vendus-aux-commerciaux-quelle-solution-reste-t-il) - :fr: [FR] (2022) Startpage et Duckduckgo sont-ils vendus aux commerciaux ?
+* [Kash Goudarzi](https://kg.dev/thoughts/be-anonymous) - (2022) Be anonymous
 
 ## Privacy tools
 * :star: [**Privacy tools**](https://www.privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
