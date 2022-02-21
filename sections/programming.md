@@ -1372,6 +1372,15 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 * [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
 * [Ian Lance Taylor](https://go.dev/blog/why-generics) - (2019) Why Generics?
+* [Seth Hoenig](https://sethops1.net/post/go-generics-for-the-busy-gopher/) - (2022) go generics for the busy gopher
+February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](https://www.youtube.com/watch?v=kKu9HuOvaUY)
+* [Russ Cox](https://research.swtch.com/vgo-repro) - (2018) Reproducible, Verifiable, Verified Builds (Go & Versioning, Part 5). **Related :** [Go & Versioning & other posts](https://research.swtch.com/vgo)
+* [Pierre Prinetti](https://medium.com/@pierreprinetti/a-pattern-for-go-tests-3468b51535) - (2018) A pattern for Go tests
+* [Ignat Korchagin](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/) - (2018) Using Go as a scripting language in Linux
+* [Eno Compton](https://commandercoriander.net/blog/2018/03/30/go-interfaces/) - (2018) A Note on Using Go Interfaces Well
+* [Shalitha Suranga ](https://blog.logrocket.com/building-microservices-go-gin/) - (2022) Building microservices in Go with Gin
+* [Clavin June](https://levelup.gitconnected.com/this-is-why-you-should-learn-golang-639b646320) - (2021) This Is Why You Should Learn Golang
+* [Chewxy](https://blog.chewxy.com/2018/03/18/golang-interfaces/) - (2018) How To Use Go Interfaces
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
