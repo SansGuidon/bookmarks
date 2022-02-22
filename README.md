@@ -2428,6 +2428,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Trevor Haynes](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) - (2018) Dopamine, Smartphones & You: A battle for your time
 * [Johann Hari](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) - (2022) Your attention didn’t collapse. It was stolen | Social media and many other facets of modern life are destroying our ability to concentrate. We need to reclaim our minds while we still can
 * [How old is it?](https://howoldisit.glitch.me/) - How long has _react, vue, ember, etc._ existed? | This is a handy tool for tech recruiters who ask for fifteen years experience in technologies that have only existed for three months.
+* [Gaël Thomas](https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/) - (2022) Working from Home – Tips to Help You Stay Productive
 
 > Tools
 * [you feel like shit 💩](https://youfeellikeshit.com/) - a self care game | This game guides you through a series of questions that help you practice self care / help yourself through your shitty times.
@@ -2470,6 +2471,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Ed Zitron](https://ez.substack.com/p/the-work-from-home-future-is-destroying) - (2021) The Work-From-Home Future Is Destroying Bosses' Brains | a critique of managers and business owners
 * [Justin Garrison](https://www.justingarrison.com/blog/2020-08-31-remote-onboarding/) - (2020) How to On-board New Hires Remotely
 * [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
+* [Gaël Thomas](https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/) - (2022) Working from Home – Tips to Help You Stay Productive
 
 # Hobbies
 
@@ -4166,6 +4168,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Nicolas Karolak](https://blog.karolak.fr/2019/11/25/les-raccourcis-clavier-de-bash/) - :fr: [FR] (2019) Les raccourcis clavier de Bash
 * [The Stripe](https://thestripe.com/a-simple-productivity-trick/) - (2022) Today I'm sharing with you a simple productivity trick that helps me when I have something urgent that I just can't motivate myself to do!
 * [Jakob Greenfeld](https://jakobgreenfeld.com/stay-in-touch) - (2022) The simple system I’m using to stay in touch with hundreds of people
+* [Gaël Thomas](https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/) - (2022) Working from Home – Tips to Help You Stay Productive
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
