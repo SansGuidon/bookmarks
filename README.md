@@ -826,6 +826,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Edouard Kachelmann and Anthony Pasquariello](https://aws.amazon.com/blogs/security/enhance-programmatic-access-for-iam-users-using-yubikey-for-multi-factor-authentication/) - (2020) Enhance programmatic access for IAM users using a YubiKey for multi-factor authentication
 * [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 * [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲 "awslocal" - Thin wrapper around the "aws" command line interface for use with LocalStack
+* [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 
 > JSON
 * [jq Docs](https://stedolan.github.io/jq/manual/) - online manual for jq (a lightweight and flexible command-line JSON processor)
