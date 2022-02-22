@@ -799,7 +799,6 @@ type `curl ident.me` to know your public ip
 > Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
 * [Gareth Anderson](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html) - (2006) GNU/Linux Command-Line Tools Summary
 * :star: [**sferik/t**](https://github.com/sferik/t) - A command-line power tool for Twitter
-* [jq Docs](https://stedolan.github.io/jq/manual/) - online manual for jq (a lightweight and flexible command-line JSON processor)
 * [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 * [chrisallenlane/cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. You can obviously improve the existing ones with your own content. It's also inspiring for shell aliases creation
 * :star: [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
@@ -825,8 +824,12 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Guido Socher](http://tuxgraphics.org/~guido/scripts/awk-one-liner.html) - (2015) AWK one-liner collection
 * [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
 * [Edouard Kachelmann and Anthony Pasquariello](https://aws.amazon.com/blogs/security/enhance-programmatic-access-for-iam-users-using-yubikey-for-multi-factor-authentication/) - (2020) Enhance programmatic access for IAM users using a YubiKey for multi-factor authentication
-* [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 * [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
+
+> JSON
+* [jq Docs](https://stedolan.github.io/jq/manual/) - online manual for jq (a lightweight and flexible command-line JSON processor)
+* [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+* [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 
 # Coffee :coffee:
 > News
