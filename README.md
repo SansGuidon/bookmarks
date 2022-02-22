@@ -825,6 +825,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager for multiple languages | Manage multiple runtime versions with a single CLI tool, extendable via [plugins](https://github.com/asdf-vm/asdf-plugins)
 * [Edouard Kachelmann and Anthony Pasquariello](https://aws.amazon.com/blogs/security/enhance-programmatic-access-for-iam-users-using-yubikey-for-multi-factor-authentication/) - (2020) Enhance programmatic access for IAM users using a YubiKey for multi-factor authentication
 * [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
+* [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲 "awslocal" - Thin wrapper around the "aws" command line interface for use with LocalStack
 
 > JSON
 * [jq Docs](https://stedolan.github.io/jq/manual/) - online manual for jq (a lightweight and flexible command-line JSON processor)
@@ -3401,6 +3402,7 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
 * [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+* [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲 "awslocal" - Thin wrapper around the "aws" command line interface for use with LocalStack
 * :star: [**Terraform Best Practices**](https://www.terraform-best-practices.com/) - [Book] free book with most of best-practices and recommendations for Terraform users. **Bonus** : [Source code examples](https://github.com/antonbabenko/terraform-best-practices/tree/master/examples)
 * [Terragrunt](https://terragrunt.gruntwork.io/) - Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state. | DRY and maintainable Terraform code.
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
@@ -5133,6 +5135,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Gilles Scokart](https://fr.slideshare.net/gscokart/stop-testing-start-designing) - [Slides] (2016) Stop testing start designing
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/dockrun-oneshot-quick-local-environments) - (2017) dockrun oneshot — quick local environments for testing infrastructure
 * [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+* [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲 "awslocal" - Thin wrapper around the "aws" command line interface for use with LocalStack
 * [Terratest](https://terratest.gruntwork.io/) - is a Go library that provides patterns and helper functions for testing infrastructure, with 1st-class support for Terraform, Packer, Docker, Kubernetes, AWS, GCP, and more.
 * [eerkunt/terraform-compliance](https://github.com/eerkunt/terraform-compliance) - a lightweight, security focused, BDD test framework against terraform
 * [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build time - Terraform static analysis
