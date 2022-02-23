@@ -664,6 +664,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Bitcoin Is Dead](https://www.bitcoinisdead.org/) - The #1 Database of Notable Bitcoin Skeptics. 
 * > In fact, Bitcoin is very much alive. See the activity on the Bitcoin network - market price, average block size, transactions per day, mempool size, total circulation, market capitalization, exchange trade volume, blockchain size, average transaction per block, average payments per block, confirmation times, etc. - here.
 * [Jakob Greenfeld](https://jakobgreenfeld.com/stay-in-touch) - (2022) The simple system I’m using to stay in touch with hundreds of people
+* [Mike Crittenden](https://critter.blog/2021/09/16/lose-touch-with-people/) - (2021) Lose touch with people
+* [Mike Crittenden](https://critter.blog/2021/01/21/i-schedule-my-friendships-like-i-schedule-my-meetings/) - (2021) I schedule my friendships like I schedule my meetings
 
 > Tools
 * [Nintendo eShop price comparator](https://eshop-prices.com/prices?currency=EUR) - Find the cheapest price for your favourite game, all prices are in Euro.
@@ -1235,6 +1237,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Key Values](https://www.keyvalues.com/culture-queries) - Culture Queries - The perfect questions to ask in your job interview. Want to stand out from other candidates and find your dream job?
 * [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
 * [Jakob Greenfeld](https://jakobgreenfeld.com/stay-in-touch) - (2022) The simple system I’m using to stay in touch with hundreds of people
+* [Mike Crittenden](https://critter.blog/2021/09/16/lose-touch-with-people/) - (2021) Lose touch with people
+* [Mike Crittenden](https://critter.blog/2021/01/21/i-schedule-my-friendships-like-i-schedule-my-meetings/) - (2021) I schedule my friendships like I schedule my meetings
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -1289,6 +1293,8 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mike Crittenden](https://critter.blog/2022/02/04/dont-expect-asymmetrical-communication/) - (2022) Don’t expect asymmetrical communication
 > You know that thing where you keep asking the new person to speak up when they need help, and they never do? You keep begging them to ask more questions, and they say they will, then nothing?
 * [Jakob Greenfeld](https://jakobgreenfeld.com/stay-in-touch) - (2022) The simple system I’m using to stay in touch with hundreds of people
+* [Mike Crittenden](https://critter.blog/2021/09/16/lose-touch-with-people/) - (2021) Lose touch with people
+* [Mike Crittenden](https://critter.blog/2021/01/21/i-schedule-my-friendships-like-i-schedule-my-meetings/) - (2021) I schedule my friendships like I schedule my meetings
 
 ## Documentation
 > Learn
@@ -4174,6 +4180,8 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [The Stripe](https://thestripe.com/a-simple-productivity-trick/) - (2022) Today I'm sharing with you a simple productivity trick that helps me when I have something urgent that I just can't motivate myself to do!
 * [Jakob Greenfeld](https://jakobgreenfeld.com/stay-in-touch) - (2022) The simple system I’m using to stay in touch with hundreds of people
 * [Gaël Thomas](https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/) - (2022) Working from Home – Tips to Help You Stay Productive
+* [Mike Crittenden](https://critter.blog/2021/09/16/lose-touch-with-people/) - (2021) Lose touch with people
+* [Mike Crittenden](https://critter.blog/2021/01/21/i-schedule-my-friendships-like-i-schedule-my-meetings/) - (2021) I schedule my friendships like I schedule my meetings
 
 ## Productivity tools
 * [Chris Barber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
