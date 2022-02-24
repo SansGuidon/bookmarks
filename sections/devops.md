@@ -1138,6 +1138,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Nana Janashia](https://dev.to/techworld_with_nana/how-to-enforce-kubernetes-best-practices-with-datree-4pen) - (2021) How to enforce Kubernetes Best Practices with Datree
 * [Antoine Veuiller](https://cult.honeypot.io/reads/when-to-use-kubernetes-and-when-not-to/) - (2021) When to Use Kubernetes (And When Not to) | Should you use Kubernetes for your next project?
 * [Network Policy Editor! (Tutorial)](https://editor.cilium.io/?id=ttJR49Q7byX1tfpd) - Learn How To Create Network Policies for Kubernetes : An online editor and visualisation tool, along with a built-in tutorial, for writing Kubernetes network policies.
+* [Ivan Velichko](https://iximiuz.com/en/posts/kubernetes-api-go-types-and-common-machinery/) - (2022) How To Call Kubernetes API using Go - Types and Common Machinery
 
 > Tips
 * [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes.
