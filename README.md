@@ -2945,6 +2945,7 @@ rpm --rebuilddb
 * [Rajob Raihan](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97) - (2022) Why every software engineer should use vim | Conquer the “quitting vim” fear and give it a go
 * [Preslav Mihaylov](https://pmihaylov.com/vim-for-go-development/) - (2021) How to set up Vim for Go Development
 * [Jogendra Kumar](https://jogendra.dev/using-vim-for-go-development) - (2020) Using Vim for Go Development
+* [Paschalis Tsilias](https://tpaschalis.github.io/vim-go-setup/) - (2019) My Vim IDE setup for Go.
 * [Zeynel Abidin Öztürk](https://defkey.com/nerdtree-6-shortcuts) - (2020) NerdTree 6.9.10 keyboard shortcuts
 * [Bennett Hardwick](https://bennetthardwick.com/beginner-advanced-vim-tips/) - (2019) Advanced beginner Vim tricks
 * [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
