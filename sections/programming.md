@@ -1238,6 +1238,8 @@ psql -f db.out postgres
 * [Fossil](https://fossil-scm.org/home/doc/trunk/www/quickstart.wiki) - Fossil Quick Start : This is a guide to help you get started using the Fossil Distributed Version Control System quickly and painlessly.
 * [Fossil](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki) - Fossil Versus Git | an overiew, by Fossil, of all of that similarity and interoperability aside and focus on the important differences between the two, especially those that impact the user experience.
 * [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once - Best Practices vary from environment to environment, and there is no One True Answer, but still, this represents a consensus from #git and in some cases helps you frame the discussion for the generation of your very own best practices. **Bonus** [Source code](https://github.com/SethRobertson/GitBestPractices/blob/gh-pages/index.md)
+* [vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
+* [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 
 ### Dotfiles / Aliases
 See also [Shell aliases](../README.md#shell-aliases)
@@ -1304,6 +1306,7 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 * [Chen Harel](https://dzone.com/articles/github%E2%80%99s-10000-most-popular) - GitHub’s 10,000 Most Popular Java / Ruby / JavaScript Projects: Here are the Top Libraries They Use
 * [Jesse Newland](https://githubengineering.com/kubernetes-at-github/) - Kubernetes at GitHub
+* [Danny Hermes & Thomas Tayloron](https://full-stack.blend.com/how-we-write-github-actions-in-go.html) - (2022) How We Write GitHub Actions in Go
 
 > Tips
 * [GitHub does dotfiles](https://dotfiles.github.io/) - guide and productivity tips for managing dotfiles
