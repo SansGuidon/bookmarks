@@ -2936,6 +2936,8 @@ rpm --rebuilddb
 * [Vimways](https://vimways.org/) - is a Vim-themed advent calendar. Largely inspired by the early [24ways](https://24ways.org/), their primary goal is to publish one high quality article about Vim per day during the twenty-four days before Christmas.
 * [Danilo Spinella](https://danyspin97.org/blog/fancy-vim-plugins/) - (2018) Fancy Vim Plugins
 * [Rajob Raihan](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97) - (2022) Why every software engineer should use vim | Conquer the “quitting vim” fear and give it a go
+* [Preslav Mihaylov](https://pmihaylov.com/vim-for-go-development/) - (2021) How to set up Vim for Go Development
+* [Jogendra Kumar](https://jogendra.dev/using-vim-for-go-development) - (2020) Using Vim for Go Development
 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
