@@ -1399,6 +1399,7 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 * [Eric S. Raymond aka ESR](https://developers.slashdot.org/story/17/11/27/039226/why-esr-hates-c-respects-java-and-thinks-go-but-not-rust-will-replace-c) - (2017) Why ESR Hates C++, Respects Java, and Thinks Go (But Not Rust) Will Replace C. **See also** : [The big break in computer languages](http://esr.ibiblio.org/?p=7724)
 * [Danny Hermes & Thomas Tayloron](https://full-stack.blend.com/how-we-write-github-actions-in-go.html) - (2022) How We Write GitHub Actions in Go
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html) - (2016) Ten Reasons Why I Don't Like Golang
+* [Owen Jacobson](https://web.archive.org/web/20191205031849/https://grimoire.ca/dev/go) - (2018) I Do Not Like Go
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
