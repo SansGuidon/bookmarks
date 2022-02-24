@@ -2057,3 +2057,5 @@ Raw
 * [nushell/nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 * [Loris Cro](https://kristoff.it/blog/why-go-and-not-rust/) - (2019) Why Go and not Rust? | What's the role of Go in a universe where Rust exists?
 * [Lib.rs](https://lib.rs/command-line-utilities) - Command line utilities | List of Rust applications/libraries/crates
+* [vim-racer](https://github.com/racer-rust/vim-racer) - Vim plugin with support for Racer (Rust Code Completion utility)
+* [Seena Burns](https://seenaburns.com/vim-setup-for-rust/) - (2017) Vim Setup For Rust
