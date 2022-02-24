@@ -858,6 +858,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Spencer Baugh](https://catern.com/config.html) - (2021) Write code, not configuration
 * [Raphael Gaschignard](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html) - (2022) Precision In Technical Discussions
 > * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
+* [John Arundel](https://bitfieldconsulting.com/golang/tao-of-go) - The Tao of Go
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
