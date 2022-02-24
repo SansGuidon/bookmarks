@@ -1320,6 +1320,12 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 
 ## Golang / Go
+> News
+* [freeCodeCamp.org](https://www.freecodecamp.org/news/tag/golang/) - Articles tagged with Go
+* [Gophers on Slack](https://gophersinvite.herokuapp.com/) - Group to discuss Go language
+* [John Arundel](https://bitfieldconsulting.com/golang?author=5e10bdc11264f20181591485) - Go articles by the author of the book For the Love of Go
+
+> Misc
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
 * [Go Docs](https://golang.org/pkg/flag/) - Package flag
 * [Pipat Methavanitpong](https://fulcronz27.wordpress.com/2016/03/07/setting-atom-for-golang-on-windows/) - (2016) Setting Atom for Golang on Windows
@@ -1331,7 +1337,6 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [Go Docs](https://golang.org/pkg/) - Package list and documentation
 * [Go Docs](https://golang.org/pkg/crypto/) - Package crypto
 * [Andrew Gerrand](https://talks.golang.org/2012/10things.slide#1) - (2012) 10 things you (probably) don't know about Go
-* [Gophers on Slack](https://gophersinvite.herokuapp.com/) - Group to discuss Go language
 * [Avelino/awesome-go](https://github.com/avelino/awesome-go) - curated list of awesome Go frameworks, libraries and software. See also [awesome-go.com](https://awesome-go.com/)
 * [GolangLibs](https://golanglibs.com) - inventory of go libraries an apps
 * [Checkmarx/Go-SCP](https://checkmarx.gitbooks.io/go-scp/) - Go secure coding practices for web applications. [Sources on GitHub](https://github.com/Checkmarx/Go-SCP)
@@ -1382,6 +1387,13 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 * [Clavin June](https://levelup.gitconnected.com/this-is-why-you-should-learn-golang-639b646320) - (2021) This Is Why You Should Learn Golang
 * [Chewxy](https://blog.chewxy.com/2018/03/18/golang-interfaces/) - (2018) How To Use Go Interfaces
 * [Pulkit Kathuria](https://medium.com/web-developer/go-version-manager-gobrew-c8750157dfe6) - (2021) Go Version manager — gobrew | Install and manage Go versions on Mac or Linux.
+* [John Arundel](https://bitfieldconsulting.com/golang/tao-of-go) - The Tao of Go
+* [Preslav Mihaylov](https://pmihaylov.com/vim-for-go-development/) - (2021) How to set up Vim for Go Development
+* [Jogendra Kumar](https://jogendra.dev/using-vim-for-go-development) - (2020) Using Vim for Go Development
+* [Ivan Velichko](https://iximiuz.com/en/posts/kubernetes-api-go-types-and-common-machinery/) - (2022) How To Call Kubernetes API using Go - Types and Common Machinery
+* [Eric S. Raymond aka ESR](https://developers.slashdot.org/story/17/11/27/039226/why-esr-hates-c-respects-java-and-thinks-go-but-not-rust-will-replace-c) - (2017) Why ESR Hates C++, Respects Java, and Thinks Go (But Not Rust) Will Replace C. **See also** : [The big break in computer languages](http://esr.ibiblio.org/?p=7724)
+* [Danny Hermes & Thomas Tayloron](https://full-stack.blend.com/how-we-write-github-actions-in-go.html) - (2022) How We Write GitHub Actions in Go
+* [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html) - (2016) Ten Reasons Why I Don't Like Golang
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
