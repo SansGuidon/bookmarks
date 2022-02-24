@@ -2952,7 +2952,9 @@ rpm --rebuilddb
 * [Seena Burns](https://seenaburns.com/vim-setup-for-rust/) - (2017) Vim Setup For Rust
 * [Justin M. Keyes](https://vimconf.org/2019/slides/justin.pdf) - (2019) We Can Have Nice Things | Neovim and the state of text editor art in 2019. **See also** [Video](https://www.youtube.com/watch?v=Bt-vmPC_-Ho). [Source](https://lobste.rs/s/wfj5y2/neovim_state_text_editor_art_2019)
 * [Derek Prior](https://thoughtbot.com/blog/my-life-with-neovim) - (2016) My Life with NeoVim
- 
+* [vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
+* [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
 * [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
