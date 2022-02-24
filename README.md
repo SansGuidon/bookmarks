@@ -2889,6 +2889,10 @@ rpm --rebuilddb
 * [Philippe Teuwen](http://wiki.yobi.be/wiki/Modem_BBox-2) - wiki with useful detailed information about Belgacom BBox2
 
 ## Vim
+> News
+* [vimcolorschemes](https://vimcolorschemes.com/) - Trending vim color schemes
+
+> Misc
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/2968352/linux/tricks-to-play-with-vim.html) - Tricks to play with vim
 * [Vim Tips Wiki](http://vim.wikia.com/wiki/Search_and_replace) - Search and replace in VIM
 * [zzapper](http://rayninfo.co.uk/vimtips.html) - Best of Vim Tips / compiled from 16 Years of Vi + 10+ years of Vim
@@ -2938,8 +2942,14 @@ rpm --rebuilddb
 * [Rajob Raihan](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97) - (2022) Why every software engineer should use vim | Conquer the “quitting vim” fear and give it a go
 * [Preslav Mihaylov](https://pmihaylov.com/vim-for-go-development/) - (2021) How to set up Vim for Go Development
 * [Jogendra Kumar](https://jogendra.dev/using-vim-for-go-development) - (2020) Using Vim for Go Development
-* [vimcolorschemes](https://vimcolorschemes.com/) - Trending vim color schemes
-
+* [Zeynel Abidin Öztürk](https://defkey.com/nerdtree-6-shortcuts) - (2020) NerdTree 6.9.10 keyboard shortcuts
+* [Bennett Hardwick](https://bennetthardwick.com/beginner-advanced-vim-tips/) - (2019) Advanced beginner Vim tricks
+* [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+* [vim-racer](https://github.com/racer-rust/vim-racer) - Vim plugin with support for Racer (Rust Code Completion utility)
+* [Seena Burns](https://seenaburns.com/vim-setup-for-rust/) - (2017) Vim Setup For Rust
+* [Justin M. Keyes](https://vimconf.org/2019/slides/justin.pdf) - (2019) We Can Have Nice Things | Neovim and the state of text editor art in 2019. **See also** [Video](https://www.youtube.com/watch?v=Bt-vmPC_-Ho). [Source](https://lobste.rs/s/wfj5y2/neovim_state_text_editor_art_2019)
+* [Derek Prior](https://thoughtbot.com/blog/my-life-with-neovim) - (2016) My Life with NeoVim
+ 
 # Mac
 * [Ask Different](https://apple.stackexchange.com/questions/69015/install-2-different-os-x-versions-on-the-same-machine-hdd) - Install 2 different OS X versions on the same machine/hdd
 * [Jordan Merrick](https://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192) - 40 Terminal Tips and Tricks You Never Thought You Needed
