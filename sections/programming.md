@@ -1394,6 +1394,7 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 * [John Arundel](https://bitfieldconsulting.com/golang/tao-of-go) - The Tao of Go
 * [Preslav Mihaylov](https://pmihaylov.com/vim-for-go-development/) - (2021) How to set up Vim for Go Development
 * [Jogendra Kumar](https://jogendra.dev/using-vim-for-go-development) - (2020) Using Vim for Go Development
+* [Paschalis Tsilias](https://tpaschalis.github.io/vim-go-setup/) - (2019) My Vim IDE setup for Go.
 * [Ivan Velichko](https://iximiuz.com/en/posts/kubernetes-api-go-types-and-common-machinery/) - (2022) How To Call Kubernetes API using Go - Types and Common Machinery
 * [Eric S. Raymond aka ESR](https://developers.slashdot.org/story/17/11/27/039226/why-esr-hates-c-respects-java-and-thinks-go-but-not-rust-will-replace-c) - (2017) Why ESR Hates C++, Respects Java, and Thinks Go (But Not Rust) Will Replace C. **See also** : [The big break in computer languages](http://esr.ibiblio.org/?p=7724)
 * [Danny Hermes & Thomas Tayloron](https://full-stack.blend.com/how-we-write-github-actions-in-go.html) - (2022) How We Write GitHub Actions in Go
