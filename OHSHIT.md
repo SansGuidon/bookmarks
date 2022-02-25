@@ -1,4 +1,5 @@
 As an imperfect creature, I commit mistakes, and I also try to avoid them. Here are a regular ones, I hope to not repeat them, but it seems it's hard to learn your lessons sometimes...
+See also my [How-Tos](https://gist.github.com/MorganGeek/dac6edbff15300368341b63840750260)
 
 # Git
 * Always double check the text of your commit message, before, during, and after pushing it.
