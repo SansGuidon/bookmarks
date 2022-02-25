@@ -860,6 +860,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 > * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
 * [John Arundel](https://bitfieldconsulting.com/golang/tao-of-go) - (2021) The Tao of Go
 * [John Arundel](https://bitfieldconsulting.com/golang/commandments) - (2021) Ten commandments of Go
+* [Benjamin Muschko](https://bmuschko.com/blog/jenkins-shared-libraries/) - (2019) Best practices for writing Jenkins shared libraries
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
@@ -1408,6 +1409,8 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 * [John Arundel](https://bitfieldconsulting.com/golang/how) - (2020) How to really learn Go
 * [John Arundel](https://bitfieldconsulting.com/golang/commandments) - (2021) Ten commandments of Go
 * [Go Docs](https://golang.org/doc/code.html) - (2021) How to Write Go Code | This document demonstrates the development of a simple Go package inside a module and introduces the go tool, the standard way to fetch, build, and install Go modules, packages, and commands.
+* [Benjamin Muschko](https://bmuschko.com/blog/go-testing-frameworks/) - (2018) Exploring the landscape of Go testing frameworks
+* [Benjamin Muschko](https://bmuschko.com/blog/writing-your-first-kubectl-plugin/) - (2019) Writing your first kubectl plugin with Go
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
