@@ -1049,6 +1049,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 ```
 * [MorganGeek](https://gist.github.com/MorganGeek/2958ba47630a176733e0136b42557284) - (2020) Validating Jenkinsfile in Vim and/or using CLI / terminal
 * [Jesse Glick](https://www.youtube.com/watch?v=Zeqc6--0eQw) - (2017) [Video] Jenkins World : How to Use Jenkins Less
+* [Benjamin Muschko](https://bmuschko.com/blog/jenkins-shared-libraries/) - (2019) Best practices for writing Jenkins shared libraries
 
 ### Jenkinsfile runner
 * [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
