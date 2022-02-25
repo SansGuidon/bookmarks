@@ -515,6 +515,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Hugo Matilla/Refactoring-Summary](https://github.com/HugoMatilla/Refactoring-Summary) - Summary of "Refactoring: Improving the Design of Existing Code" by Martin Fowler
 * [Bookstash](https://bookstash.io/) - Top books recommended by famous folk, in 3m or less.
 > “‘I read it on Bookstash’, or how to pretend you’re smart while actually being smart.” - Alberto Heinstein
+* [John Arundel](https://bitfieldconsulting.com/golang/alex-edwards-lets-go-further) - (2021) Review: 'Let's Go Further'
+* [John Arundel](https://bitfieldconsulting.com/golang/best-books) - (2022) Best Go books for 2022
 
 > Tools
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
