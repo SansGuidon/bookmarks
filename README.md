@@ -5203,6 +5203,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Pierre Prinetti](https://medium.com/@pierreprinetti/a-pattern-for-go-tests-3468b51535) - (2018) A pattern for Go tests
 * [Russ Cox](https://research.swtch.com/vgo-repro) - (2018) Reproducible, Verifiable, Verified Builds (Go & Versioning, Part 5). **Related :** [Go & Versioning & other posts](https://research.swtch.com/vgo)
 * [John Arundel](https://bitfieldconsulting.com/golang/tdd) - (2021) Test-driven development with Go 
+* [Benjamin Muschko](https://bmuschko.com/blog/go-testing-frameworks/) - (2018) Exploring the landscape of Go testing frameworks
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
