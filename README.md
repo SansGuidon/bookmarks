@@ -5202,6 +5202,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 * [Pierre Prinetti](https://medium.com/@pierreprinetti/a-pattern-for-go-tests-3468b51535) - (2018) A pattern for Go tests
 * [Russ Cox](https://research.swtch.com/vgo-repro) - (2018) Reproducible, Verifiable, Verified Builds (Go & Versioning, Part 5). **Related :** [Go & Versioning & other posts](https://research.swtch.com/vgo)
+* [John Arundel](https://bitfieldconsulting.com/golang/tdd) - (2021) Test-driven development with Go 
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
