@@ -858,7 +858,8 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Spencer Baugh](https://catern.com/config.html) - (2021) Write code, not configuration
 * [Raphael Gaschignard](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html) - (2022) Precision In Technical Discussions
 > * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
-* [John Arundel](https://bitfieldconsulting.com/golang/tao-of-go) - The Tao of Go
+* [John Arundel](https://bitfieldconsulting.com/golang/tao-of-go) - (2021) The Tao of Go
+* [John Arundel](https://bitfieldconsulting.com/golang/commandments) - (2021) Ten commandments of Go
 
 > Tools
 * [Clean Code Cheat Sheet v2.4](https://www.planetgeek.ch/2014/11/18/clean-code-cheat-sheet-v-2-4/) - (2014) cheat sheet for clean code
@@ -1391,7 +1392,7 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 * [Clavin June](https://levelup.gitconnected.com/this-is-why-you-should-learn-golang-639b646320) - (2021) This Is Why You Should Learn Golang
 * [Chewxy](https://blog.chewxy.com/2018/03/18/golang-interfaces/) - (2018) How To Use Go Interfaces
 * [Pulkit Kathuria](https://medium.com/web-developer/go-version-manager-gobrew-c8750157dfe6) - (2021) Go Version manager — gobrew | Install and manage Go versions on Mac or Linux.
-* [John Arundel](https://bitfieldconsulting.com/golang/tao-of-go) - The Tao of Go
+* [John Arundel](https://bitfieldconsulting.com/golang/tao-of-go) - (2021) The Tao of Go
 * [Preslav Mihaylov](https://pmihaylov.com/vim-for-go-development/) - (2021) How to set up Vim for Go Development
 * [Jogendra Kumar](https://jogendra.dev/using-vim-for-go-development) - (2020) Using Vim for Go Development
 * [Paschalis Tsilias](https://tpaschalis.github.io/vim-go-setup/) - (2019) My Vim IDE setup for Go.
@@ -1400,6 +1401,13 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 * [Danny Hermes & Thomas Tayloron](https://full-stack.blend.com/how-we-write-github-actions-in-go.html) - (2022) How We Write GitHub Actions in Go
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html) - (2016) Ten Reasons Why I Don't Like Golang
 * [Owen Jacobson](https://web.archive.org/web/20191205031849/https://grimoire.ca/dev/go) - (2018) I Do Not Like Go
+* [John Arundel](https://bitfieldconsulting.com/golang/rust-vs-go) - (2020) Rust vs Go
+* [John Arundel](https://bitfieldconsulting.com/golang/best-books) - (2022) Best Go books for 2022
+* [John Arundel](https://bitfieldconsulting.com/golang/alex-edwards-lets-go-further) - (2021) Review: 'Let's Go Further'
+* [John Arundel](https://bitfieldconsulting.com/golang/tdd) - (2021) Test-driven development with Go 
+* [John Arundel](https://bitfieldconsulting.com/golang/how) - (2020) How to really learn Go
+* [John Arundel](https://bitfieldconsulting.com/golang/commandments) - (2021) Ten commandments of Go
+* [Go Docs](https://golang.org/doc/code.html) - (2021) How to Write Go Code | This document demonstrates the development of a simple Go package inside a module and introduces the go tool, the standard way to fetch, build, and install Go modules, packages, and commands.
 
 ## Groovy
 * [Stack Overflow](https://stackoverflow.com/questions/35187151/using-groovy-how-do-you-pipe-multiple-shell-commands) - how to pipe multiple shell commands
@@ -2064,3 +2072,9 @@ Raw
 * [Lib.rs](https://lib.rs/command-line-utilities) - Command line utilities | List of Rust applications/libraries/crates
 * [vim-racer](https://github.com/racer-rust/vim-racer) - Vim plugin with support for Racer (Rust Code Completion utility)
 * [Seena Burns](https://seenaburns.com/vim-setup-for-rust/) - (2017) Vim Setup For Rust
+* [Amos Wenger](https://fasterthanli.me/articles/a-rust-match-made-in-hell) - (2022) A Rust match made in hell | an extended demonstration of how well Rust can work for you
+* [Shane Miller & Carl Lerche](https://aws.amazon.com/fr/blogs/opensource/sustainability-with-rust/) - (2022) Sustainability with Rust
+* [rust-analyzer](https://rust-analyzer.github.io/) - Bringing a great IDE experience to the Rust programming language. Rust-Analyzer is an implementation of Language Server Protocol for the Rust programming language. It provides features like completion and goto definition for many code editors, including VS Code, Emacs and [Vim](https://rust-analyzer.github.io/manual.html#vimneovim)
+* [John Arundel](https://bitfieldconsulting.com/golang/rust-vs-go) - (2020) Rust vs Go
+* [Dave Rolsky](https://blog.urth.org/2022/02/14/frontend-rust-without-node/) - (2022) Frontend Rust Without Node
+* [Eric S. Raymond aka ESR](https://developers.slashdot.org/story/17/11/27/039226/why-esr-hates-c-respects-java-and-thinks-go-but-not-rust-will-replace-c) - (2017) Why ESR Hates C++, Respects Java, and Thinks Go (But Not Rust) Will Replace C. **See also** : [The big break in computer languages](http://esr.ibiblio.org/?p=7724)
