@@ -5612,6 +5612,8 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Giles Turnbull](https://gilest.org/2021/how-to-write-like-you-speak/) - (2021) How to write like you speak
 * [Giles Turnbull](https://gilest.org/2021/how-to-be-clear/) - (2021) How to be clear
 * [Seth Godin](https://seths.blog/2021/07/folk-typography/) - (2021) Folk typography | Why is type getting so bad?
+* [Literate programming](http://www.literateprogramming.com/) - is a programming paradigm introduced by Donald Knuth in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated.
+* [Literate programming links](http://www.literateprogramming.com/links.html) - articles about literate programming
 
 > Tools
 * [Grammar Checker](https://www.grammarcheck.net/editor/) - Enter the text that you want to check for grammar, spelling, and punctuation mistakes
