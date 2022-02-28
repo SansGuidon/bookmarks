@@ -1874,6 +1874,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Random-ize](https://www.random-ize.com/random-website/) - Weird, Odd, Funny and Interesting Websites | Bored with the web? Think you've seen it all? Surf the web a new way with this random website generator. Bounce around thousands of crazy, pointless, funny, intereractive, informative and interesting webistes made by the most odd people online. And that says something.
 * [/uses](https://uses.tech/) - A list of `/uses` pages detailing developer setups, gear, software and configs.
 * [LibHunt](https://www.libhunt.com/) - Discover trending open-source projects and their alternatives
+* [MorganGeek/bookmarklet_alternativeto.js](https://gist.github.com/MorganGeek/a5fec532f55792916d757acffca5ceeb) - Is there an alternative to current service (website) ?
 
 ## Event discovery
 * [Meetup](https://www.meetup.com) - meet groups of people near you who share your interests
@@ -2096,7 +2097,8 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Awesome Bookmarklets](https://priyank-vaghela.github.io/Awesome-Bookmarklets/) - A curated collection of awesome bookmarkslets! 🚀 **See also** : [Source code](https://github.com/Priyank-Vaghela/Awesome-Bookmarklets)
 * [MorganGeek/bookmarklet_archive.js](https://gist.github.com/MorganGeek/40cab1d3c5ddf6fe622323ddab43e067) - Is the current website archived ?
 * [MorganGeek/bookmarklet_hackernews.js](https://gist.github.com/MorganGeek/12f83ac5a02cf81d4c91b6e602a88681) - Is the current article debated on hacker news ?
- 
+* [MorganGeek/bookmarklet_alternativeto.js](https://gist.github.com/MorganGeek/a5fec532f55792916d757acffca5ceeb) - Is there an alternative to current service (website) ?
+
 # Gaming :video_game:
 > News
 * [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
