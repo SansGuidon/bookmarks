@@ -45,17 +45,17 @@
 ## Different material desires ###
 
 ### Wishes 
-* [ ] hnefatafl game (see on amazon)
 * [ ] audible subscription but it's owned by amazon and [I want to move away from them 🤔](https://github.com/MorganGeek/bookmarks/projects/2)
 * [ ] lakube subscription
 * [ ] digitize my hi8 tapes before they die
 * [ ] drive a vw combi (van)
 * [ ] a good coffee scale / tamper for breville barista express (https://homeexplained.com/the-7-most-helpful-breville-barista-accesories/)
-* [ ] subscription to specialty coffee boxes (e.g : https://orcoffee.be/)
+* [ ] subscription to specialty coffee boxes (e.g : https://orcoffee.be/) or beer box https://mybeerbox.be/
 * [ ] a good book on coffee recipes / barista techniques (e.g : https://www.cafemag.fr/bibliotheque-cafe/)
-* [ ] a very good and unique bottle of gueuze
+* [ ] a very good and unique bottle of gueuze or a tour of cantillon museum in anderlecht
 * [ ] nerd socks 🤓
 * [ ] good book on beer/food recipes or pairing, https://www.club.be/p/beerstronomy-9789401449168 ? 
+* [x] hnefatafl game (see on amazon) delivered on 2022-03-09
 
 ### Wishes fulfilled
 * [x] manual coffee grinder for espresso, french press and aeropress but I got a breville / sage barista express so not needed
