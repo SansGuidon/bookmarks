@@ -55,7 +55,6 @@
 * [ ] a very good and unique bottle of gueuze or a tour of cantillon museum in anderlecht
 * [ ] nerd socks 🤓
 * [ ] good book on beer/food recipes or pairing, https://www.club.be/p/beerstronomy-9789401449168 ? 
-* [x] hnefatafl game (see on amazon) delivered on 2022-03-09
 
 ### Wishes fulfilled
 * [x] manual coffee grinder for espresso, french press and aeropress but I got a breville / sage barista express so not needed
@@ -63,3 +62,5 @@
 * [x] kindle / ebook reader
 * [x] aeropress
 * [x] breville/sage barista express
+* [x] hnefatafl game (see on amazon) delivered on 2022-03-09
+
