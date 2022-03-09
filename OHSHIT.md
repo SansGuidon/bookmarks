@@ -28,6 +28,7 @@ See also my [How-Tos](https://gist.github.com/MorganGeek/dac6edbff15300368341b63
 
 # Reading
 * Read it twice if you don't get it. Google it if you still don't get it. Try to understand what you're reading before moving to the next thing.
+* Don't keep more than you can read in the next 4 weeks on your Kindle
 
 # Caring & focus
 * Don't multitask, don't multitask, don't multitask.... 
@@ -35,3 +36,6 @@ See also my [How-Tos](https://gist.github.com/MorganGeek/dac6edbff15300368341b63
 * Family first, work last 
 * Protect your time
 * You won't have more time later, so avoid collections of "to do" or "to watch/listen" lists.
+* Don't use any read-it later app
+* Don't keep big todo lists
+* Don't keep more than you can read in the next 4 weeks on your Kindle
