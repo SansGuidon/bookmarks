@@ -31,6 +31,8 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
 * [Archiving & Backups management](#archiving--backups-management)
 * [Art :art:](#art-art)
 * [Books / Reading](#books--reading-books)
+  * [Complete books](#complete-books)
+  * [Summaries, notes and reviews](#summaries-notes-and-reviews)
 * [Business & Economics](#business--economics)
   * [Cryptocurrency](#cryptocurrency)
 * [CLI Tools](#cli-tools)
@@ -425,8 +427,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 
 # Books / Reading :books:
 * [fake o'reilly books on Google](https://www.google.co.il/search?tbm=isch&q=fake+o%27reilly+books&&cad=h) - [IMG] fake o'reilly books.
-
-> Learn
 * [Maggie Stiefvater](http://maggie-stiefvater.tumblr.com/post/166952028861/ive-decided-to-tell-you-guys-a-story-about) - a story about piracy by a book writer
 * [John Allspaw](http://www.kitchensoap.com/2017/03/06/book-suggestion-dialogue-the-art-of-thinking-together/) - (2017) Dialogue: The Art Of Thinking Together
 * [Andrew Hatch](https://medium.com/seek-blog/platform-engineering-why-we-dont-need-a-devops-team-e88c8b97cc4f) - (2017) Why We Don’t Need a DevOps Team | Rename your DevOps Team
@@ -442,7 +442,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > Picture some serious non-fiction tomes. The Selfish Gene; Thinking, Fast and Slow; Guns, Germs, and Steel; etc. Have you ever had a book like this—one you’d read—come up in conversation, only to discover that you’d absorbed what amounts to a few sentences?
 * [Robert DiYanni](https://psyche.co/guides/how-to-gain-more-from-reading-by-taking-it-all-in-more-slowly) - (2021) How to gain more from your reading | There’s more to words than meets the eye. Deepen your appreciation of literature through the art of slow, attentive reading 
 
-> Complete books
+## Complete books
 * [Project Gutenberg](https://www.gutenberg.org/) - over 54,000 free eBooks, especially older works for which copyright has expired.
 * [The Pragmatic Programmers](https://media.pragprog.com/titles/auto/PragmaticAutomationSummary.pdf) - [PDF] Pragmatic Project Automation Summary Road Map / good one-page summary of [Pragmatic Project Automation](http://www.pragprog.com/titles/auto) book
 * [Marco de Saint-Hilaire](http://www.gutenberg.org/ebooks/26488) - [FR] :fr: [Book] L'art de payer ses dettes et de satisfaire ses créanciers sans débourser un sou
@@ -488,7 +488,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [:books: **Freely available programming books**](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [Wikisource](https://wikisource.org/wiki/Main_Page) - is an online digital library of free-content textual sources on a wiki, operated by the Wikimedia Foundation. Wikisource is the name of the project as a whole and the name for each instance of that project (each instance usually representing a different language).
 
-> Summaries, notes and reviews
+## Summaries, notes and reviews
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/tree/master/books) - My own highlights of favorite - *mostly software engineering related* - books.
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
 * [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
@@ -520,6 +520,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 > “‘I read it on Bookstash’, or how to pretend you’re smart while actually being smart.” - Alberto Heinstein
 * [John Arundel](https://bitfieldconsulting.com/golang/alex-edwards-lets-go-further) - (2021) Review: 'Let's Go Further'
 * [John Arundel](https://bitfieldconsulting.com/golang/best-books) - (2022) Best Go books for 2022
+* [Derek Sivers](https://sive.rs/book/StoicJoy) - (2020) A Guide to the Good Life: The Ancient Art of Stoic Joy - by William Irvine
 
 > Tools
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
@@ -3648,11 +3649,10 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [James Somers](http://jsomers.net/blog/gettiers) - (2019) The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
 * [Mark Kingwell](https://thewalrus.ca/why-being-bored-is-good/) - (2019) Why Being Bored Is Good
 * [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
-- [ ] https://dailypositiveinfo.com/socrates-was-one-of-the-smartest-people-who-ever-lived/
-- [ ] https://exploringyourmind.com/socrates-triple-filter-test/ # Truth, goodness, and usefulness
-- [ ] https://www.philosophyissexy.fr/podcast
-- [ ] https://sive.rs/book/StoicJoy
- 
+* [Thinking Humanity](https://www.thinkinghumanity.com/2015/03/socrates-was-one-of-the-smartest-people-ever-lived-here-are-24-out-of-his-most-important-quotes-that-everyone-needs-to-read.html) - (2015) 24 Of Socrates Most Important Quotes
+* [Exploring your mind](https://exploringyourmind.com/socrates-triple-filter-test/) - (2020) Socrates' Triple Filter Test is a great life lesson that can help you deal with gossip and rumors. The triple filter test is about Truth, goodness, and usefulness.
+* [Philosophy Is Sexy](https://www.philosophyissexy.fr/podcast) - :fr: [FR] n’est pas qu’un podcast, c’est une parenthèse intime, un pas de côté, pour oser la philosophie, la désacraliser, la remettre au cœur de notre vie et se laisser inspirer. Marie Robert, auteure du best-seller traduit en quinze langues, "Kant tu ne sais plus quoi faire", de "Descartes pour les jours de doute" et "Le Voyage de Pénélope" (Flammarion-Versilio) nous interpelle de son ton complice et entrainant. La prof qu’on aurait aimé avoir, celle surtout qui va faire des philosophes nos précieux alliés.
+* [Derek Sivers](https://sive.rs/book/StoicJoy) - (2020) A Guide to the Good Life: The Ancient Art of Stoic Joy - by William Irvine
  
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
@@ -3721,6 +3721,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [La voix dans ta tête](https://lavoixdanstatete.com/podcast/bieres-faits-divers/) - 🇧🇪 🇫🇷 [BE] [FR] Bières & faits divers | Boire des bières en racontant des histoires folles, étranges et drôles: la parfaite combinaison pour passer un bon moment.
 * [Intradel](https://www.intradel.be/zerodechet) - :fr: 🇧🇪 [FR] [BE] Séquences zéro déchet sur VivaCité
 * [The Kubernetes Podcast](https://kubernetespodcast.com/) - (from Google) is a weekly news and interview show with insight from the Kubernetes community.
+* [Philosophy Is Sexy](https://www.philosophyissexy.fr/podcast) - :fr: [FR] n’est pas qu’un podcast, c’est une parenthèse intime, un pas de côté, pour oser la philosophie, la désacraliser, la remettre au cœur de notre vie et se laisser inspirer. Marie Robert, auteure du best-seller traduit en quinze langues, "Kant tu ne sais plus quoi faire", de "Descartes pour les jours de doute" et "Le Voyage de Pénélope" (Flammarion-Versilio) nous interpelle de son ton complice et entrainant. La prof qu’on aurait aimé avoir, celle surtout qui va faire des philosophes nos précieux alliés.
 
 # Prepping
 * [The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000) - Global club for chatting about prepping, survivance and SHTF
