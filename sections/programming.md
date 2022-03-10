@@ -2081,3 +2081,4 @@ Raw
 * [John Arundel](https://bitfieldconsulting.com/golang/rust-vs-go) - (2020) Rust vs Go
 * [Dave Rolsky](https://blog.urth.org/2022/02/14/frontend-rust-without-node/) - (2022) Frontend Rust Without Node
 * [Eric S. Raymond aka ESR](https://developers.slashdot.org/story/17/11/27/039226/why-esr-hates-c-respects-java-and-thinks-go-but-not-rust-will-replace-c) - (2017) Why ESR Hates C++, Respects Java, and Thinks Go (But Not Rust) Will Replace C. **See also** : [The big break in computer languages](http://esr.ibiblio.org/?p=7724)
+* [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html) - Documentation on how to use the Rust Programming Language to develop commandline applications. **See also** : [Source code](https://github.com/rust-cli/book)
