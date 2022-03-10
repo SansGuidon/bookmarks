@@ -39,7 +39,7 @@
 * [Rust](#rust)
 
 > News
-* :fire: :unicorn: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
+* :unicorn: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
 * :fire: [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
 * [InfoQ](https://www.infoq.com/) - news, videos, books for software developers
 * [SlideShare](https://www.slideshare.net/featured/category/software) - featured software related presentations on SlideShare
@@ -73,6 +73,7 @@
 * :star: [**daily.dev**](https://daily.dev/) - The Homepage Every Developer Deserves | daily.dev is the fastest growing online community for developers to stay updated on the best developer news. 
 
 > Learn
+* :fire: [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
 * [Stack Exchange](https://stackexchange.com/sites#technology) - All technology related sites on Stack Exchange
 * [Stack Exchange](https://codereview.stackexchange.com/) - Stack Exchange for code reviews
 * [Hack Reactor](http://www.hackreactor.com/blog/infographic-laurie-voss-things-everyone-knows-except-you) - Infographic of productivity tips for developers, to share with your teammates
@@ -99,7 +100,6 @@
 * :star: [**Hugo Matilla**](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and David Thomas
 * [Methods & Tools](http://www.methodsandtools.com/mt/download.php) - magazine about software development & testing with free content. See also [Partner websites](http://www.methodsandtools.com/network.php)
 * [Philip Stark](https://gist.github.com/hellerbarde/2843375) - Latency numbers every programmer should know
-* :fire: [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
 * [Vinh Quốc Nguyễn](https://betterdev.link/) - Better Dev Link collects links around the web that aims to help you learn something new
 * [Andrew Wulf](http://thecodist.com/article/the-biggest-difference-between-coding-today-and-when-i-started-in-the-80-s) - The Biggest Difference Between Coding Today and When I Started in the 80’s
 * [Andrew Wulf](http://thecodist.com/article/what_makes_a_programmer_good) - What Makes a Programmer Good?
@@ -1593,6 +1593,7 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Itamar Turner-Trauring](https://codewithoutrules.com/productivity/) - Become more productive ; articles about being more productive as programmer without necessarily working longer hours
 
 > Learn
+* :fire: [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
 * [Java Code Geeks](https://www.javacodegeeks.com/2013/06/10-productivity-tips-for-software-developers.html) - (2013) 10 Productivity tips for software developers
 * :star: [**J. B. Rainsberger**](http://blog.jbrains.ca/permalink/avoid-distractions-while-programming) - Avoiding Distractions While Programming
 * [Moran Danieli-Cohen](https://dev.to/msscohen/3-effective-ways-to-maintain-high-energy-levels-at-work-for-software-engineers) - 3 Effective Ways to Maintain High Energy Levels at Work for Software Engineers
@@ -1851,7 +1852,6 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Yossi Kreinin aka wetware](https://yosefk.com/blog/10x-more-selective.html) - (2013) 10x more selective
 > So I believe, having authored a lot of code that went down the toilet, that you don't get productive by working as much as by not working – not on stuff that is likely to get thrown away.
 * [Unix Sheikh](https://www.unixsheikh.com/articles/how-to-write-software-than-will-keep-working-for-decades.html) - (2021) How to write software than will keep working for decades without problems
-* :fire: [**Sonkeng Maldini/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Best websites programmers should visit
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 * [Nicolas Karolak](https://blog.karolak.fr/2019/11/25/les-raccourcis-clavier-de-bash/) - :fr: [FR] (2019) Les raccourcis clavier de Bash
 * [Spencer Baugh](https://catern.com/change_code.html) - (2022) Prefer to change the code rather than write a workaround
