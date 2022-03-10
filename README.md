@@ -3172,7 +3172,7 @@ type `curl ident.me` to know your public ip
 * :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
 * :star: [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
-* :star: [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
+* :fire: [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
 * :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
 * [TechCrunch](https://techcrunch.com/) - latest technology news and information on startups
 * :star: [**Le Gorafi**](http://www.legorafi.fr/) - [FR] :fr: news satire
