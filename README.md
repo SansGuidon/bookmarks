@@ -28,6 +28,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
 
 * [Anime](#anime-jp)
 * [Architecture / Design / Patterns](#architecture--design--patterns)
+* [Archiving & Backups management](#archiving--backups-management)
 * [Art :art:](#art-art)
 * [Books / Reading](#books--reading-books)
 * [Business & Economics](#business--economics)
@@ -175,7 +176,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
 * [UX / UI](#ux--ui)
   * [Accessibility (a11y)](#accessibility-a11y)
   * [Design humor](#design-humor)
-* [Web archive / nostalgia](#web-archive--nostalgia)
+* [Web oldies / Nostalgia](#web-oldies--nostalgia)
 * [Web development](#web-development)
   * [Web development checklists / best practices](#web-development-checklists--best-practices)
   * [Web development tools](#web-development-tools)
@@ -5373,17 +5374,34 @@ See also [Ecology :seedling:](#ecology-seedling) && [Performance](#performance) 
 * [Bored Elon Musk](https://twitter.com/BoredElonMusk/statuses/412994747632857089) - Modern web design explained in a simple Venn Diagram
 * [Jocelyn Caron](https://twitter.com/jocelyncaronfr/status/525558551553781760) - (2014) [IMG] a funny concept for Cars' UX
 
-# Web archive / nostalgia
+## Archiving & Backups management
 * :fire: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html) - estimate your monthly AWS bill more efficiently. Using this tool, you can add, modify and remove services from your 'bill' and it will recalculate your estimated monthly charges automatically. The calculator also shows common customer samples and their usage, such as Disaster Recovery and Backup or Web Application.
+* [Spotify Library Exporter](https://spotify-library-exporter.herokuapp.com/) - a tool to download your Spotify library as a CSV to be used elsewhere. Can also be useful to migrate from Spotify to Apple Music, backup your library to use elsewhere, keep a record offline. It doesn't matter! 🎉
+* [wikiHow](http://www.wikihow.com/Backup-and-Restore-Google-Chrome%27s-Entire-Settings) - How to Backup and Restore Google Chrome's Entire Settings
 * [Julia Geist](https://hackernoon.com/guide-to-handling-internet-archives-cdx-server-api-response-c469df5b81f4) - (2017) Guide to Handling Internet Archive’s CDX Server API Response. **Examples** :
  * `http://web.archive.org/cdx/search/cdx?limit=1&showResumeKey=true&url=<URL>`
  * `https://archive.org/wayback/available?timestamp=19010101010101&url=<URL>`
 * [internetarchive/wayback](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server) - Wayback CDX Server API - BETA | The wayback-cdx-server is a standalone HTTP servlet that serves the index that the wayback machine uses to lookup captures.
-* [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
-* [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser
 * [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 * [GH Archive](https://www.gharchive.org/) - is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis. **See also:** [GitHub repository](https://github.com/igrigorik/gharchive.org)
 * [**ArchiveBox/ArchiveBox**](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... **See also :** [Website](https://archivebox.io)
+* [InterPlanetary File System](https://ipfs.io/) - The InterPlanetary File System (IPFS) is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices. **See also :** [Wikipedia](https://en.wikipedia.org/wiki/InterPlanetary_File_System) and [GitHub](https://github.com/ipfs/ipfs)
+* [meehow/2read](https://github.com/meehow/2read) - Convert article in current tab to readable form and upload it to P2P network - IPFS. **See also** : [Offical website](https://2read.net/)
+* [Tarsnap](https://www.tarsnap.com/) - Online backups for the truly paranoid
+* [Amazon S3 Tools](https://s3tools.org/usage) - Command Line S3 Client Software and S3 Backup | AWS S3 Command Line Clients for Windows, Linux, Mac. Backup to S3, upload, retrieve, query data on Amazon S3.
+* [Luke Gloege, Ph.D.](https://betterprogramming.pub/a-guide-to-hosting-websites-on-ipfs-d2efad40ed3) - (2022) A Guide to Hosting Websites on IPFS | How to host a site on the Inter-Planetary File System
+* [Tyler](https://tylersguides.com/articles/backup-restore-openldap/) - (2016) How To Backup and Restore OpenLDAP
+* [restic](https://restic.net/) - Backups done right
+* [Risan Bagja](https://risanb.com/code/backup-restore-gpg-key/) - (2020) How to Backup and Restore Your GPG Key
+* [Nitin Venkatesh](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - (2014) PGP and SSH keys - Generate, export, backup and restore [And please use Ed25519 instead of RSA keys](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
+* [dswd/zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution
+* [Simon Sharwood](https://www.theregister.co.uk/2017/02/01/gitlab_data_loss/) - (2017) GitLab.com melts down after wrong directory deleted, backups fail
+
+# Web oldies / Nostalgia
+* :fire: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
+* [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
+* [neogeofun](http://www.neogeofun.com/?s=metal+slug) - Play Metal Slug in your browser
 * [n-st/view-on-archive-org.js](https://gist.github.com/n-st/0dd03b2323e7f9acd98e) - Bookmarklet to view current page on the [Internet Archive Wayback Machine](https://archive.org/)
 * [Richard Dern](https://www.richard-dern.fr/blog/2022/01/21/l-informatique-c-etait-mieux-avant/) - :fr: [FR] (2022) L'informatique, c'était mieux avant
 
