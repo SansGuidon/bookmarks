@@ -32,7 +32,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
 * [Art :art:](#art-art)
 * [Books / Reading](#books--reading-books)
   * [Complete books](#complete-books)
-  * [Summaries, notes and reviews](#summaries-notes-and-reviews)
+  * [Book summaries, notes and reviews](#book-summaries-notes-and-reviews)
   * [Book tools](#book-tools)
   * [Book suggestions](#book-suggestions)
 * [Business & Economics](#business--economics)
@@ -490,7 +490,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [:books: **Freely available programming books**](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [Wikisource](https://wikisource.org/wiki/Main_Page) - is an online digital library of free-content textual sources on a wiki, operated by the Wikimedia Foundation. Wikisource is the name of the project as a whole and the name for each instance of that project (each instance usually representing a different language).
 
-## Summaries, notes and reviews
+## Book summaries, notes and reviews
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/tree/master/books) - My own highlights of favorite - *mostly software engineering related* - books.
 * [WikiSummaries](http://www.wikisummaries.org/wiki/Category:Summaries) - A listing of free book summaries in English by category and alphabetically.
 * [Actionable Books](http://www.actionablebooks.com/en-ca/summaries/) - 1134 business book summaries with personality. Insights you can apply in five minutes.
