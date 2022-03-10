@@ -1827,7 +1827,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 ## App discovery
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 * :star: [**Product Hunt**](https://www.producthunt.com/) - discover new products (apps, websites, services, ...)
-* :star: [**AlternativeTo**](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
+* :fire: [**AlternativeTo**](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
 * :star: [**Privacy tools**](https://www.privacytools.io/) - knowledge, tools & tips to protect your privacy against global mass surveillance. Related : [/r/privacytoolsIO/](https://www.reddit.com/r/privacytoolsIO/)
 * [PRISM Break](https://prism-break.org/en/) - which alternative softwares help you opting out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 * [Similarsites](http://www.similarsites.com/) - easily find similar websites
@@ -3170,7 +3170,7 @@ type `curl ident.me` to know your public ip
 
 # News :exclamation:
 * :fire: :unicorn: [**Lobsters**](https://lobste.rs/) - Lobsters is a technology-focused community centered around link aggregation and discussion
-* :fire: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
+* :unicorn: [**HCKR News**](https://hckrnews.com/) - unofficial alternative hacker news interface, fixing some Hacker News UI [Issues](https://hckrnews.com/about.html)
 * :star: [**Y Combinator**](https://news.ycombinator.com/newest) - Hacker News : social news aggregator focusing on computer science and entrepreneurship. Related : [Additional news lists](https://news.ycombinator.com/lists)
 * [Y Combinator](https://news.ycombinator.com/show) - Hacker news Show : where people share their work. **Related** : :star: [**Newest Show HN**](https://news.ycombinator.com/shownew) and [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 * :fire: [**DEVURLS**](https://devurls.com/) - a developer news aggregator.
@@ -3192,7 +3192,7 @@ type `curl ident.me` to know your public ip
 * [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
 * [Lindsay Kolowich](https://blog.hubspot.com/marketing/surf-internet-websites) - (2017) The 20 Best Websites for Wasting Time on the Internet in 2018 | NSFW
 * [reddit](https://www.reddit.com/controversial/) - most controversial links
-* :fire: [**sebsauvage**](https://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
+* :unicorn: [**sebsauvage**](https://sebsauvage.net/links/) - :fr: [FR] Liens en vrac de sebsauvage
 * [Korben](https://korben.info/) - :fr: [FR] Upgrade your mind
 * [Matthieu Lesne aka coreight](https://coreight.com/) - :fr: [FR] Le blog d'infos et astuces web; high tech
 * [Post Apocalyptic Media](https://www.postapocalypticmedia.com/) - All the latest end-of-the-world trends
