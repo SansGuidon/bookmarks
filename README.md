@@ -2100,6 +2100,9 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [MorganGeek/bookmarklet_archive.js](https://gist.github.com/MorganGeek/40cab1d3c5ddf6fe622323ddab43e067) - Is the current website archived ?
 * [MorganGeek/bookmarklet_hackernews.js](https://gist.github.com/MorganGeek/12f83ac5a02cf81d4c91b6e602a88681) - Is the current article debated on hacker news ?
 * [MorganGeek/bookmarklet_alternativeto.js](https://gist.github.com/MorganGeek/a5fec532f55792916d757acffca5ceeb) - Is there an alternative to current service (website) ?
+* [The A11Y Project](https://www.a11yproject.com/resources/#bookmarklets) - Resources : Bookmarklets
+* [Adrian Roselli](https://adrianroselli.com/2019/04/reading-order-bookmarklet.html) - (2019) Reading Order Bookmarklet | When a keyboard-only user or screen reader user comes to page that uses CSS to create a layout, there is a chance that what is on the screen does not match the flow of the page.
+* [Trello](https://trello.com/en/add-card) - Create a Trello card from any webpage
 
 # Gaming :video_game:
 > News
