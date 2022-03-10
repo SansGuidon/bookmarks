@@ -33,6 +33,8 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
 * [Books / Reading](#books--reading-books)
   * [Complete books](#complete-books)
   * [Summaries, notes and reviews](#summaries-notes-and-reviews)
+  * [Book tools](#book-tools)
+  * [Book suggestions](#book-suggestions)
 * [Business & Economics](#business--economics)
   * [Cryptocurrency](#cryptocurrency)
 * [CLI Tools](#cli-tools)
@@ -522,7 +524,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [John Arundel](https://bitfieldconsulting.com/golang/best-books) - (2022) Best Go books for 2022
 * [Derek Sivers](https://sive.rs/book/StoicJoy) - (2020) A Guide to the Good Life: The Ancient Art of Stoic Joy - by William Irvine
 
-> Tools
+## Book tools
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
 * [EPUB to MOBI Converter](https://convertio.co/epub-mobi/) - Convert your epub files to mobi online & free
 * [Google Books](https://books.google.com/) - Search the world's most comprehensive index of full-text books
@@ -530,7 +532,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Bookstash](https://bookstash.io/) - Top books recommended by famous folk, in 3m or less.
 > “‘I read it on Bookstash’, or how to pretend you’re smart while actually being smart.” - Alberto Heinstein
 
-> Book Suggestions
+## Book suggestions
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
 * [Learn by Reading](https://learnbyreading.herokuapp.com/) - Discover your next favorite learnable (Non-fiction) book from Amazon Book
