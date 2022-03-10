@@ -840,6 +840,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 * [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲 "awslocal" - Thin wrapper around the "aws" command line interface for use with LocalStack
 * [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
+* [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html) - Documentation on how to use the Rust Programming Language to develop commandline applications. **See also** : [Source code](https://github.com/rust-cli/book)
 
 > JSON
 * [jq Docs](https://stedolan.github.io/jq/manual/) - online manual for jq (a lightweight and flexible command-line JSON processor)
