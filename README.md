@@ -14,6 +14,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
 ### Legend
 * :star: Resources I like so much.
 * :fire: Resources I keep revisit again and again.
+* :unicorn: Resources proving the more useful through time
 
 [![License: GPL v3][img-gpl3]][gpl3]
 
