@@ -76,6 +76,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
   * [App discovery](#app-discovery)
   * [Event discovery](#event-discovery)
 * [Free online tools :free:](#free-online-tools-free)
+  * [Bookmarklets](#bookmarklets)
 * [Gaming :video_game:](#gaming-video_game)
   * [Board games 🎲](#board-games-game_die)
   * [Role-playing :dragon:](#role-playing-dragon)
@@ -2085,7 +2086,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [La liste Robinson](https://www.robinson.be/) - 🇧🇪 🇫🇷 [BE] [FR] est une liste de personnes qui ne souhaitent plus recevoir de publicité adressée par la poste. N'importe qui peut s'inscrire gratuitement sur cette liste.
 * [Do Not Call Me (abrégé DNCM)](https://www.dncm.be/fr/) - 🇧🇪 🇫🇷 [BE] [FR] La liste "Ne m'appelez plus" vous assure de ne plus recevoir de publicités indésirables par téléphone. La loi oblige les entreprises et les organisations qui font des offres commerciales par téléphone à utiliser cette liste. L'association Do Not Call Me (abrégé DNCM) a été reconnu par l'arrêté royal du 28 juin 2015 en tant que gestionnaire officiel de la liste.
 
-> Bookmarklets
+## Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
 * [tota11y](https://khan.github.io/tota11y/) - an accessibility visualization toolkit testing accessibility (a11y) of your site + showing what is wrong in your document. Also available as a bookmarklet on the same page. **See also** [GitHub repository](https://github.com/Khan/tota11y)
 * [Akbar](http://howlowck.github.io/Akbar/) - A bookmarklet that simulates various types user experiences. It is an education tool that will hopefully educate people about web accessibility. **See also** [GitHub repository](https://github.com/howlowck/Akbar)
@@ -3647,7 +3648,12 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [James Somers](http://jsomers.net/blog/gettiers) - (2019) The three-page paper that shook philosophy : “Is Justified True Belief Knowledge?” : “the Gettier cases”
 * [Mark Kingwell](https://thewalrus.ca/why-being-bored-is-good/) - (2019) Why Being Bored Is Good
 * [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better) - It is the subjective idea that quality does not necessarily increase with functionality—that there is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
-
+- [ ] https://dailypositiveinfo.com/socrates-was-one-of-the-smartest-people-who-ever-lived/
+- [ ] https://exploringyourmind.com/socrates-triple-filter-test/ # Truth, goodness, and usefulness
+- [ ] https://www.philosophyissexy.fr/podcast
+- [ ] https://sive.rs/book/StoicJoy
+ 
+ 
 # Photography
 * [Exposure-Mat](http://expomat.tripod.com) - build yourself a free light meter that fits in your wallet.
 * [Joe L. Wroten](https://medium.com/@SharpShark28/whats-in-a-photo-e00637e9fc99) - What’s In A Photo?
