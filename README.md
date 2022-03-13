@@ -5265,6 +5265,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Atlas & Boots](https://www.atlasandboots.com/remote-work/best-cities-in-the-world-ranking/) - (2021) Ranked: 100 best cities in the world 2022
 * [LivingCost.org](https://livingcost.org/best) - 100 Best places to live in the World ranked by Quality & Cost of Living | Where the authors ranked 9294 cities in 197 countries by quality & cost of living (13 factors assessed) to find the 100 best places in the world to live and work for singles and families.
 * [versus.com](https://versus.com/en/city/expat-friendly-cities) - The most expat-friendly cities
+* [Mercer](https://mobilityexchange.mercer.com/insights/quality-of-living-rankings) - (2019) Quality of living city ranking
 
 > Tools
 * [Expatistan](https://www.expatistan.com/cost-of-living) - Compare cost of living between cities
