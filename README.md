@@ -83,7 +83,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
   * [Bookmarklets](#bookmarklets)
 * [Gaming :video_game:](#gaming-video_game)
   * [Board games 🎲](#board-games-game_die)
-    * [Chess :chess_pawn:](#chess_chess_pawn)
+    * [Chess :chess_pawn:](#chess-chess_pawn)
   * [Role-playing :dragon:](#role-playing-dragon)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
   * [Remote work](#remote-work)
@@ -2576,7 +2576,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 
 > [Board games 🎲](#board-games-game_die)
 
-> [Chess :chess_pawn:](#chess_chess_pawn)
+> [Chess :chess_pawn:](#chess-chess_pawn)
 
 > [Coffee :coffee:](#coffee-coffee)
 
