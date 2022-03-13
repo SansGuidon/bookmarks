@@ -177,6 +177,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
 * [Testing and Compliance :ok_hand:](#testing-and-compliance-ok_hand)
 * [Transportation :train2: :oncoming_automobile:](#transportation-train2-oncoming_automobile)
 * [Travel :airplane:](#travel-airplane)
+  * [Relocation & moving & living elsewhere & expating](relocation-moving-living-elsewhere-expating)
 * [Troubleshooting](#troubleshooting)
 * [UX / UI](#ux--ui)
   * [Accessibility (a11y)](#accessibility-a11y)
@@ -2552,6 +2553,8 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Visit Brussels](https://visit.brussels/fr/category/marches) - :fr: 🇧🇪 [FR] [BE] Marchés à Bruxelles
 * [Magazine Stoemp de Cultures](https://escaledunord.brussels/category/stoemp/) - :fr: 🇧🇪 [FR] [BE] Le magazine bimestriel d'Escale du Nord — Centre culturel d'Anderlecht.
 * [Fritmap](https://www.fritmap.com/fr/classement-meilleures-friteries-bruxelles) - :fr: 🇧🇪 [FR] [BE] Envie de manger des bonnes frites près de chez vous? Voici le classement des meilleures frites belges, friteries et snacks à Bruxelles, ce classement est constitué non seulement grâce aux votes et avis des internautes mais aussi à l'estimation de l'équipe de fritmap.com qui a testé les frites de ces friteries à plusieurs reprises sur une période de 6 mois.
+* [diplomatie.belgium](https://diplomatie.belgium.be/fr/Services/services_a_letranger/passeport_belge/demander_un_passeport/belge_en_belgique/prix_et_delais_livraison) - 🇧🇪 :fr: [BE] [FR] Prix et délais de livraison des passeports belges
+* [diplomatie.belgium](https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination) - 🇧🇪 :fr: [BE] [FR] Voyager à l'étranger ; Conseils par destination
 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -5239,13 +5242,36 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
-* [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - allows you to compare your home country with different countries around the world.
-* [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - 🇧🇪 [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
-* [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
-* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - 🇧🇪 [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 * [Virtual Vacation](https://virtualvacation.us/) - The website that lets you experience the world from home!
+* [Laurence Donis](http://www.elle.be/fr/186020-5-astuces-payer-billet-davion-beaucoup-cher.html) - (2019) :fr: [FR] 5 astuces pour payer son billet d'avion beaucoup moins cher
+* [Passport Index](https://www.passportindex.org/byRank.php) - Global Passport Power Rank | Passports of the world ranked by their total mobility score.
+* [diplomatie.belgium](https://diplomatie.belgium.be/fr/Services/services_a_letranger/passeport_belge/demander_un_passeport/belge_en_belgique/prix_et_delais_livraison) - 🇧🇪 :fr: [BE] [FR] Prix et délais de livraison des passeports belges
+* [diplomatie.belgium](https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination) - 🇧🇪 :fr: [BE] [FR] Voyager à l'étranger ; Conseils par destination
+* [BonsBaisersDe](https://bonsbaisersde.com/) - :fr: [FR] Blog de voyage
+* [visitlondon.com](https://www.visitlondon.com/things-to-do/whats-on/special-events/london-events-calendar) - London events calendar
+
+> Tools
+* [Radar Virtuel](https://www.radarvirtuel.com/) - :fr: [FR] Le site Radar Virtuel permet de voir le trafic aérien en temps réel avec des petits avions sur une carte Google, ça marche très bien en Europe, autour des aéroports aux États-Unis et pas du tout dans le reste du monde, c’est dommage.
+* [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - 🇧🇪 [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
+* [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - 🇧🇪 [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 * [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
 * [Rome2rio](https://www.rome2rio.com/) - Discover how to get anywhere by plane, train, bus, ferry & car
+* [Skyscanner](https://www.skyscanner.net/) - Cheap flights | Free flight comparison
+
+## Relocation & moving & living elsewhere & expating
+* [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - allows you to compare your home country with different countries around the world.
+* [Expat.com](https://www.expat.com/) - The expatriate community
+* [Lyndsey Matthews](https://www.afar.com/magazine/best-cities-in-the-world) - (2021) The World’s 25 Best Cities of 2022
+* [Atlas & Boots](https://www.atlasandboots.com/remote-work/best-cities-in-the-world-ranking/) - (2021) Ranked: 100 best cities in the world 2022
+* [LivingCost.org](https://livingcost.org/best) - 100 Best places to live in the World ranked by Quality & Cost of Living | Where the authors ranked 9294 cities in 197 countries by quality & cost of living (13 factors assessed) to find the 100 best places in the world to live and work for singles and families.
+* [versus.com](https://versus.com/en/city/expat-friendly-cities) - The most expat-friendly cities
+
+> Tools
+* [Expatistan](https://www.expatistan.com/cost-of-living) - Compare cost of living between cities
+* [Teleport](https://teleport.org/my-cities/) - Which city fits your needs best?
+* [Numbeo](https://www.numbeo.com/quality-of-life/comparison.jsp) - Quality of Life Comparison | Using this tool you can compare quality of life by city and by country basis. It uses entries from website visitors (feedback and perceptions) about cost of living, purchasing power, pollution, crime rates, climate, health system quality and traffic commute times.
+* [Shell Global](https://www.shell.com/energy-and-innovation/the-energy-future/future-cities/future-cities-quiz.html#iframe=L2VuZXJneS1hbmQtaW5ub3ZhdGlvbi90aGUtZW5lcmd5LWZ1dHVyZS9mdXR1cmUtY2l0aWVzL2Z1dHVyZS1jaXRpZXMtcXVpei9famNyX2NvbnRlbnQvcGFyL2lmcmFtZWRhcHAuc3RhdGljL2luZGV4Lmh0bWwjIS9zdGFydA) - Quiz: Which city is right for you ? Take the Shell Future Cities quiz and find out which city matches your personality.
+* [Virtual Vacation](https://virtualvacation.us/) - The website that lets you experience the world from home!
 
 # Troubleshooting
 * [Sandra Henry-Stocker](http://www.computerworld.com/article/3196138/linux/whos-hogging-the-network.html) - Who's hogging the network? Bandwidth usage on a Linux system
