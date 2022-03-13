@@ -83,6 +83,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
   * [Bookmarklets](#bookmarklets)
 * [Gaming :video_game:](#gaming-video_game)
   * [Board games 🎲](#board-games-game_die)
+    * [Chess :chess_pawn:](#chess_chess_pawn)
   * [Role-playing :dragon:](#role-playing-dragon)
 * [Health and Work-Life Balance](#health-and-work-life-balance)
   * [Remote work](#remote-work)
@@ -174,6 +175,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
   * [Web](#web)
 * [Society](#society)
 * [Sports](#sports)
+  * [Climbing](#climbing)
 * [Testing and Compliance :ok_hand:](#testing-and-compliance-ok_hand)
 * [Transportation :train2: :oncoming_automobile:](#transportation-train2-oncoming_automobile)
 * [Travel :airplane:](#travel-airplane)
@@ -1252,6 +1254,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Jakob Greenfeld](https://jakobgreenfeld.com/stay-in-touch) - (2022) The simple system I’m using to stay in touch with hundreds of people
 * [Mike Crittenden](https://critter.blog/2021/09/16/lose-touch-with-people/) - (2021) Lose touch with people
 * [Mike Crittenden](https://critter.blog/2021/01/21/i-schedule-my-friendships-like-i-schedule-my-meetings/) - (2021) I schedule my friendships like I schedule my meetings
+* [Damien Leloup](https://www.lemonde.fr/pixels/article/2019/02/23/le-grand-essor-des-jeux-de-societe-cooperatifs_5427325_4408996.html) - (2019) :fr: [FR] Festival international des jeux de Cannes : le grand essor des jeux de société coopératifs | Les jeux comme « The Mind » ou « Spirit Island », dans lesquels tous les participants gagnent ou perdent ensemble, se sont multipliés ces dernières années.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -2181,11 +2184,16 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Tric Trac](https://www.trictrac.net/) - :fr: [FR] le site de référence sur les jeux de société. Actualités, sorties de jeux, avis et notes, forums de discussions, évènements ludiques, etc.
 * [MathPickle](http://mathpickle.com/games/) - Board Games and Pencil & Paper Games | #1 job for parents: establish a culture of board gaming in the home. **Example paper game** : * [A little bit of Aggression](http://mathpickle.com/project/a-little-bit-of-aggression/) - one of the few essential games for the elementary school classroom.
 * [Cade Metz](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/) - (2016) In Two Moves, AlphaGo and Lee Sedol Redefined the Future | speaking of go board game
-* [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
 * [Boardgame Recommendations](https://larrydag.shinyapps.io/boardgame_reco/) - a board game recommendation engine built by larrydag
 * [Board Game Finder](https://www.boardgamefinder.net/) - Discover your next board game in a few clicks.
 * [Board Games For Me](http://www.boardgamesfor.me/recommendations) - Find board game recommendations you'll love
 * [Board Game Recommendation Engine](https://apps.quanticfoundry.com/recommendations/tabletop/boardgame/) - Select 1 to 3 game titles you've enjoyed to get started!
+* [Damien Leloup](https://www.lemonde.fr/pixels/article/2019/02/23/le-grand-essor-des-jeux-de-societe-cooperatifs_5427325_4408996.html) - (2019) :fr: [FR] Festival international des jeux de Cannes : le grand essor des jeux de société coopératifs | Les jeux comme « The Mind » ou « Spirit Island », dans lesquels tous les participants gagnent ou perdent ensemble, se sont multipliés ces dernières années.
+
+### Chess :chess_pawn:
+* [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
+* [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move
+* [Viking Board Game](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
 * [Andy Trattner](https://andytrattner.com/img/pdf/enjoy-chess.pdf) - [PDF] (2021) How To Enjoy Chess for Adult Beginners | Chess Minigames for Enjoyable Learning. **See also** [Coach Andy’s Chess Corner](https://andytrattner.com/chess/)
 * [365Chess.com](https://www.365chess.com) - Chess Games Database Online
 * [Wikipedia](https://en.wikipedia.org/wiki/List_of_chess_variants) - List of chess variants
@@ -2199,6 +2207,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Bibliothèque nationale de France](http://classes.bnf.fr/echecs/histoire/ind_hist.htm) - :fr: [FR] Histoire du jeu d'échecs en Occident
 * [Wikipedia](https://fr.wikipedia.org/wiki/Histoire_du_jeu_d%27%C3%A9checs) - :fr: [FR] Histoire du jeu d'échecs
 * [Wikipedia](https://fr.wikipedia.org/wiki/Portail:%C3%89checs) - :fr: [FR] Portail des échecs
+* [usefulchess](http://www.usefulchess.com/store/chess_books.html) - (2005) Chess books
 
 ## Role-playing :dragon:
 * [GoToQuiz](http://www.gotoquiz.com/classical_alignment_test_2) - Classical Alignment Test
@@ -2566,10 +2575,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 
 > [Board games 🎲](#board-games-game_die)
 
-> Chess
-* [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - curated list of assets availible on the Internet related to chess
-* [Next Chess Move](https://nextchessmove.com) - Calculate the best next Chess move
-* [Viking Board Gamee](https://www.homespunweb.co.uk/vikings/) - Play Hnefatafl in your browser. Hnefatafl is a Viking game of strategy for two players. Each player has an army of warriors and tries to out-think his or her opponent.
+> [Chess :chess_pawn:](#chess_chess_pawn)
 
 > [Coffee :coffee:](#coffee-coffee)
 
@@ -5107,6 +5113,12 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [OpenCycleMap](https://opencyclemap.org/) - :bicyclist: the OpenStreetMap Cycle Map
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
 * [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
+
+## Climbing
+* [grimpe-a-vue.com](https://web.archive.org/web/20201125105851/https://www.grimpe-a-vue.com/le-dico-du-grimpeur/) - :fr: [FR] Le dico du grimpeur | Tu trouveras ici le vocabulaire et les expressions de l'escalade, ainsi que le jargon du grimpeur 😉
+* [The Banff Mountain Film Festival](https://www.banff.be) - :be: [BE] is an international film competition featuring the world’s best footage on mountain subjects.
+The festival began in 1976 and is held annually on the first weekend in November in Banff, Alberta, Canada.
+* [grimpe-a-vue.com](https://web.archive.org/web/20180911123905/https://www.grimpe-a-vue.com/progression/conseil-force-escalade/) - :fr: [FR] NON, tu n’as PAS besoin de FORCE pour bien grimper !
 
 # Testing and Compliance :ok_hand:
 * [Aaron Maxwell](http://redsymbol.net/articles/build-test-automation-system/) - Building a Automated Testing/Quality Assurance System
