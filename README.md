@@ -5451,6 +5451,7 @@ See also [Ecology :seedling:](#ecology-seedling) && [Performance](#performance) 
 * [Nitin Venkatesh](https://2buntu.com/articles/1503/pgp-and-ssh-keys-generate-export-backup-and-restore/) - (2014) PGP and SSH keys - Generate, export, backup and restore [And please use Ed25519 instead of RSA keys](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
 * [dswd/zVault](https://github.com/dswd/zvault) - a highly efficient deduplicating backup solution
 * [Simon Sharwood](https://www.theregister.co.uk/2017/02/01/gitlab_data_loss/) - (2017) GitLab.com melts down after wrong directory deleted, backups fail
+* [Rclone](https://rclone.org/) - syncs your files to cloud storage | Users call rclone "The Swiss army knife of cloud storage", and "Technology indistinguishable from magic".
 
 # Web oldies / Nostalgia
 * :fire: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
