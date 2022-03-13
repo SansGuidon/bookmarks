@@ -5257,6 +5257,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
 * [Rome2rio](https://www.rome2rio.com/) - Discover how to get anywhere by plane, train, bus, ferry & car
 * [Skyscanner](https://www.skyscanner.net/) - Cheap flights | Free flight comparison
+* [FlightsFrom](https://www.flightsfrom.com/BRU/destinations?durationFrom=55&durationTo=180) - List of destinations (& airlines) you can reach from Brussels within 3 hours.
 
 ## Relocation & moving & living elsewhere & expating
 * [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - allows you to compare your home country with different countries around the world.
