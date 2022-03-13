@@ -526,6 +526,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [John Arundel](https://bitfieldconsulting.com/golang/alex-edwards-lets-go-further) - (2021) Review: 'Let's Go Further'
 * [John Arundel](https://bitfieldconsulting.com/golang/best-books) - (2022) Best Go books for 2022
 * [Derek Sivers](https://sive.rs/book/StoicJoy) - (2020) A Guide to the Good Life: The Ancient Art of Stoic Joy - by William Irvine
+* [usefulchess](http://www.usefulchess.com/store/chess_books.html) - (2005) Chess books
 
 ## Book tools
 * [EPUB Converter](https://www.epubconverter.com/epub-to-mobi-converter/) - Free EPUB to MOBI Converter. **Alternative** : [Convert Files](http://large.convertfiles.com/converter.php)
