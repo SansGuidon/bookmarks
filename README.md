@@ -2565,6 +2565,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Fritmap](https://www.fritmap.com/fr/classement-meilleures-friteries-bruxelles) - :fr: 🇧🇪 [FR] [BE] Envie de manger des bonnes frites près de chez vous? Voici le classement des meilleures frites belges, friteries et snacks à Bruxelles, ce classement est constitué non seulement grâce aux votes et avis des internautes mais aussi à l'estimation de l'équipe de fritmap.com qui a testé les frites de ces friteries à plusieurs reprises sur une période de 6 mois.
 * [diplomatie.belgium](https://diplomatie.belgium.be/fr/Services/services_a_letranger/passeport_belge/demander_un_passeport/belge_en_belgique/prix_et_delais_livraison) - 🇧🇪 :fr: [BE] [FR] Prix et délais de livraison des passeports belges
 * [diplomatie.belgium](https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination) - 🇧🇪 :fr: [BE] [FR] Voyager à l'étranger ; Conseils par destination
+* [Expats in Brussels](https://expatsinbrussels.be/) - The guide : settling and living in Brussels
 
 > Beers :beers:
 * [RateBeer](https://www.ratebeer.com/) - find ratings & information about beers :beers:
@@ -3246,6 +3247,7 @@ type `curl ident.me` to know your public ip
 * [environnement.brussels](https://participez.environnement.brussels/) - :fr: 🇧🇪 [FR] [BE] Participez | Découvrez les activités de Bruxelles Environnement, de ses partenaires et des collectifs de citoyens destinées au grand public et en lien avec les thématiques suivantes : alimentation, zéro déchet, compost, nature et biodiversité, énergie, mobilité, bruit, eau.
 * [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/bonnes-adresses/parcours-decouvertes) - :fr: 🇧🇪 [FR] [BE] Partez à la découvertes d’initiatives et de projets zéro déchet près de chez vous.
 * [Magazine Stoemp de Cultures](https://escaledunord.brussels/category/stoemp/) - :fr: 🇧🇪 [FR] [BE] Le magazine bimestriel d'Escale du Nord — Centre culturel d'Anderlecht.
+* [Expats in Brussels](https://expatsinbrussels.be/) - The guide : settling and living in Brussels
 
 # Nix
 * [Mattia Gheda](https://ghedam.at/15978/an-introduction-to-nix-shell) - (2020) An introduction to nix-shell | nix-shell allows you to define development environments for pretty much any language in a consistent way, it makes also easy to support different versions of the same language!
@@ -5280,6 +5282,7 @@ The festival began in 1976 and is held annually on the first weekend in November
 * [LivingCost.org](https://livingcost.org/best) - 100 Best places to live in the World ranked by Quality & Cost of Living | Where the authors ranked 9294 cities in 197 countries by quality & cost of living (13 factors assessed) to find the 100 best places in the world to live and work for singles and families.
 * [versus.com](https://versus.com/en/city/expat-friendly-cities) - The most expat-friendly cities
 * [Mercer](https://mobilityexchange.mercer.com/insights/quality-of-living-rankings) - (2019) Quality of living city ranking
+* [Expats in Brussels](https://expatsinbrussels.be/) - The guide : settling and living in Brussels
 
 > Tools
 * [Expatistan](https://www.expatistan.com/cost-of-living) - Compare cost of living between cities
