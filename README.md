@@ -79,6 +79,7 @@ by [**MorganGeek**](https://blog.morgangeek.be/)
 * [Finding content :mag:](#finding-content-mag)
   * [App discovery](#app-discovery)
   * [Event discovery](#event-discovery)
+* [Freelancing](#freelancing)
 * [Free online tools :free:](#free-online-tools-free)
   * [Bookmarklets](#bookmarklets)
 * [Gaming :video_game:](#gaming-video_game)
@@ -655,7 +656,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
 * [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html) - (2019) Is High Quality Software Worth the Cost?
 * [Freelance.tv](http://freelance.tv) - Videos about freelancing
-* [r/personalfinance/tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Personal Finance Tools : Redditor-created Spreadsheets
 * [Farnam Street](https://fs.blog/2018/10/long-game/) - (2018) The Surprising Power of The Long Game
 * [Kristijan Ristovski aka Kitze](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed) - (2019) GitHub stars won’t pay your rent
 > Solve your own problem, everything else will follow
@@ -707,6 +707,8 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values. Select your top values and find teams you'll click with.
 * [Key Values](https://www.keyvalues.com/culture-queries) - Culture Queries - The perfect questions to ask in your job interview. Want to stand out from other candidates and find your dream job?
 * [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
+* [Freelancer's Hourly Rate Calculator](https://impactbusinessawards.com/freelance-hourly-rate-calculator/) - provides an hourly rate based on your business expenses, personal expenses, billable hours and desired savings.
+* [r/personalfinance/tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Personal Finance Tools : Redditor-created Spreadsheets
 
 ## Cryptocurrency
 > News
@@ -1898,6 +1900,15 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/bonnes-adresses/parcours-decouvertes) - :fr: 🇧🇪 [FR] [BE] Partez à la découvertes d’initiatives et de projets zéro déchet près de chez vous.
 * [Zakoustics](https://zakoustics.wixsite.com/website) - 🇧🇪 🇫🇷 [BE] [FR] Les Zakoustics, ce sont des concerts acoustiques pour les tout-petits (0-3 ans) et leurs parents.
 * [La Tricoterie](https://www.tricoterie.be/fr/?lang=fr) -  🇧🇪 🇫🇷 [BE] [FR] se rêve en « Fabrique de liens ». Un lieu de “rencontre” où les disciplines et les publics divers se croisent, dans un esprit d’échange et d’émulation. Leur programmation culturelle (concerts, spectacles, expos…) côtoie donc une programmation “citoyenne” (débats, conférences, repair café, ateliers intergénérationnels, café-philo…). Parallèlement, des espaces sont proposés à la location et dédiés à l’organisation d’événements.
+
+# Freelancing
+* [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
+* [Freelance.tv](http://freelance.tv) - Videos about freelancing
+
+> Tools
+* :star: [**Xerius**](https://www.xerius.be/bnc/app/fr) - :fr: [FR] [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net / Freelance rate simulator
+* [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
+* [Freelancer's Hourly Rate Calculator](https://impactbusinessawards.com/freelance-hourly-rate-calculator/) - provides an hourly rate based on your business expenses, personal expenses, billable hours and desired savings.
 
 # Free online tools :free:
 * :fire: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
