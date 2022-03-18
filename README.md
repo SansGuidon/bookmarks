@@ -1670,6 +1670,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [environnement.brussels](https://environnement.brussels/thematiques/bruit/les-sources-de-bruit/bruit-de-voisinage/contre-le-bruit-peut-agir) - :fr: 🇧🇪 [FR] [BE] Contre le bruit, on peut agir. **See also** [Le bruit - Bruxelles environnement](https://environnement.brussels/thematiques/bruit)
 * [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/bonnes-adresses/parcours-decouvertes) - :fr: 🇧🇪 [FR] [BE] Partez à la découvertes d’initiatives et de projets zéro déchet près de chez vous.
 * [environnement.brussels](https://environnement.brussels/thematiques/zero-dechet/conseils/eviter-les-dechets/jevite-la-pub-et-me-desabonne) - :fr: 🇧🇪 [FR] [BE] J’évite la Pub et me désabonne
+* [L’asbl Réseau de Consommateurs Responsables (RCR)](http://www.asblrcr.be/carte-initiatives-bruxelles-wallonie) - 🇧🇪 🇫🇷 [BE] [FR] Carte des alternatives de consommation responsable, proposées par des groupes citoyens à Bruxelles et en Wallonie.
 
 > Tools
 * [Ecometer](http://www.ecometer.org/) - Analyse your website's ecodesign maturity
