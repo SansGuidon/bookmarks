@@ -887,6 +887,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [CoffeeGeek](https://www.coffeegeek.com/opinions/an-espresso-glossary/) - (2021) An Espresso Glossary - Originally published on CoffeeGeek back in 2003, and updated several times, this glossary has become a reference point for several books on coffee and espresso, and has been widely copied across the internet. We’re updating this for the launch of the new version of CoffeeGeek in 2021.
 * [Mark Prince](https://www.coffeegeek.com/opinions/real-espresso-myths-that-need-busting/) - (2015) Real Espresso Myths that Need Busting | Inspired (sort of) by some questionable myth busting in an espresso education series online, we tackle some real, genuine espresso myths, including caffeine levels, bold coffee and more.
 * [Brian Lam](https://www.nytimes.com/wirecutter/blog/making-espresso-at-home/) - (2020) Making Espresso at Home Is Kind of a Nightmare—But If You Insist, Here’s How to Do It Well
+* [Coffeeking.io](https://coffeeking.io/washed-vs-semi-washed-vs-unwashed-coffee/) - (2021) Which Coffee Is Better – Washed, Unwashed Or Semi-Washed?
 * [OKCoffee](https://okcoffee.tips/interviews/) - Interviews
 * [Reddit](https://www.reddit.com/r/Coffee_Recipes/) - Coffee recipes
 * [Open Culture](https://www.openculture.com/index.php?s=coffee&q=coffee) - articles about coffee
