@@ -1911,6 +1911,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * :star: [**Xerius**](https://www.xerius.be/bnc/app/fr) - :fr: [FR] [BE] Devenir indépendant : Simulez votre tarif journalier en tant qu'indépendant / Calculateur de Brut-Net / Freelance rate simulator
 * [Hourly rate calculator](https://usepastel.com/hourly-rate-calculator) - A calculator for freelancers to use as a guide to costs, billable hours and desired profit. Takes 10-15 min to complete.
 * [Freelancer's Hourly Rate Calculator](https://impactbusinessawards.com/freelance-hourly-rate-calculator/) - provides an hourly rate based on your business expenses, personal expenses, billable hours and desired savings.
+* [Calculatrice de jours ouvrés en Belgique](https://www.joursouvres.be/) -  🇧🇪 🇫🇷 [BE] [FR] Calculez le nombre de jours ouvrés et jours fériés entre deux dates en Belgique. Pratique pour double vérification calendrier au moment de faire les factures...
 
 # Free online tools :free:
 * :fire: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
