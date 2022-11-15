@@ -47,7 +47,7 @@
 ### Wishes 
 * [ ] audible subscription but it's owned by amazon and [I want to move away from them 🤔](https://github.com/MorganGeek/bookmarks/projects/2)
 * [ ] lakube subscription
-* [ ] digitize my hi8 tapes before they die
+* [x] digitize my hi8 tapes before they die
 * [ ] drive a vw combi (van)
 * [ ] a good coffee scale / tamper for breville barista express (https://homeexplained.com/the-7-most-helpful-breville-barista-accesories/)
 * [ ] subscription to specialty coffee boxes (e.g : https://orcoffee.be/) or beer box https://mybeerbox.be/
@@ -63,4 +63,3 @@
 * [x] aeropress
 * [x] breville/sage barista express
 * [x] hnefatafl game (see on amazon) delivered on 2022-03-09
-
