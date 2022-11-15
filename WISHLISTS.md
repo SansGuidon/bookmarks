@@ -52,7 +52,7 @@
 * [ ] a good coffee scale / tamper for breville barista express (https://homeexplained.com/the-7-most-helpful-breville-barista-accesories/)
 * [ ] subscription to specialty coffee boxes (e.g : https://orcoffee.be/) or beer box https://mybeerbox.be/
 * [ ] a good book on coffee recipes / barista techniques (e.g : https://www.cafemag.fr/bibliotheque-cafe/)
-* [ ] a very good and unique bottle of gueuze or a tour of cantillon museum in anderlecht
+* [x] a very good and unique bottle of gueuze or a tour of cantillon museum in anderlecht
 * [ ] nerd socks 🤓
 * [ ] good book on beer/food recipes or pairing, https://www.club.be/p/beerstronomy-9789401449168 ? 
 
