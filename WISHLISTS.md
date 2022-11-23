@@ -63,3 +63,4 @@
 * [x] aeropress
 * [x] breville/sage barista express
 * [x] hnefatafl game (see on amazon) delivered on 2022-03-09
+* [x] hnefatafl game with detailed resin pieces https://www.regencychess.co.uk/the-viking-game-hnefatafl-p-1320.html
