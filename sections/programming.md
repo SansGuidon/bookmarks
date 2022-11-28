@@ -2011,6 +2011,12 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [SWI-Prolog -- member/2](https://www.swi-prolog.org/pldoc/man?predicate=member/2)
 * [The Art of Prolog, Second Edition | Lobsters](https://lobste.rs/s/tbqtbj/art_prolog_second_edition)
 
+
+### Graph
+* [SWISH -- SWI-Prolog for SHaring](https://swish.swi-prolog.org/example/render_graphviz.swinb)
+* [shortest path prolog efficient - Google Search](https://www.google.com/search?q=shortest+path+prolog+efficient&oq=shortest+path+prolog+efficient&aqs=chrome..69i57.7476j0j7&sourceid=chrome&ie=UTF-8)
+* [How to find the unique shortest path for a weighted directed graph with SWI Prolog? - Stack Overflow](https://stackoverflow.com/questions/47778959/how-to-find-the-unique-shortest-path-for-a-weighted-directed-graph-with-swi-prol?noredirect=1&lq=1)
+
 ### Logtalk
 * [Logtalk](https://logtalk.org/) - is a declarative object-oriented logic programming language that extends and leverages the Prolog language with modern code encapsulation and code reuse mechanisms while also providing improved predicate semantics.
 * [Tools - Logtalk](https://logtalk.org/tools.html)
@@ -2018,7 +2024,12 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [Rationale - Logtalk](https://logtalk.org/rationale.html)
  * start with : [Learn Logtalk in Y Minutes](https://learnxinyminutes.com/docs/logtalk/)
 * gitter : [LogtalkDotOrg/logtalk3 - Gitter](https://gitter.im/LogtalkDotOrg/logtalk3)
+
+#### Plugin
 * [Logtalk - IntelliJ IDEs Plugin | Marketplace](https://plugins.jetbrains.com/plugin/9425-logtalk)
+
+### Tools
+* [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish) - GitHub : SWI-Prolog for SHaring: a SWI-Prolog web IDE
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
