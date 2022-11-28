@@ -2004,11 +2004,21 @@ See also [Dotfiles / Aliases](#dotfiles--aliases) and [Shell aliases](../README.
 * [StackOverflow](https://stackoverflow.com/questions/tagged/prolog) - Prolog tagged questions on StackOverflow
 * [Prolog Site](https://sites.google.com/site/prologsite/prolog-problems) - Prolog Problems : a remake of the P-99: Ninety-Nine Prolog Problems
 * [Learn Prolog Now!](https://devrant.com/feed/) - a free online introductory course to programming in Prolog
-* [Logtalk](https://logtalk.org/) - is a declarative object-oriented logic programming language that extends and leverages the Prolog language with modern code encapsulation and code reuse mechanisms while also providing improved predicate semantics.
 * [MorganGeek](https://gist.github.com/MorganGeek/660e55cfbb8f8e82e77d06618802ea79) - (gist) Install SWI-Prolog and Logtalk on CentOS. **Bonus** : Dockerfile provided.
 * [Mr. Bad, Crackmonkey](http://www.pigdog.org/auto/mr_bads_list/shortcolumn/1914.html) - (2001) Things to Say When You're Losing a Technical Argument
 * [/r/prolog/](https://www.reddit.com/r/prolog/) - Prolog on Reddit
 * [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
+* [SWI-Prolog -- member/2](https://www.swi-prolog.org/pldoc/man?predicate=member/2)
+* [The Art of Prolog, Second Edition | Lobsters](https://lobste.rs/s/tbqtbj/art_prolog_second_edition)
+
+### Logtalk
+* [Logtalk](https://logtalk.org/) - is a declarative object-oriented logic programming language that extends and leverages the Prolog language with modern code encapsulation and code reuse mechanisms while also providing improved predicate semantics.
+* [Tools - Logtalk](https://logtalk.org/tools.html)
+* [Developer Tools — The Logtalk Handbook v3.60.0 documentation](https://logtalk.org/manuals/devtools/index.html)
+* [Rationale - Logtalk](https://logtalk.org/rationale.html)
+ * start with : [Learn Logtalk in Y Minutes](https://learnxinyminutes.com/docs/logtalk/)
+* gitter : [LogtalkDotOrg/logtalk3 - Gitter](https://gitter.im/LogtalkDotOrg/logtalk3)
+* [Logtalk - IntelliJ IDEs Plugin | Marketplace](https://plugins.jetbrains.com/plugin/9425-logtalk)
 
 ## Python
 * [Nick Parlante](http://codingbat.com/python) - CodingBat : practice your python skills
