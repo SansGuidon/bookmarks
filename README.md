@@ -5624,6 +5624,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
 * [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 * [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
+* [Devpicker](https://devpicker.com/) - All free online tools for website developers, choose from the text (convert, upper, lower, reverse, alternating), random (integer, color, country, YouTube video), string (JSON decode, PHP serialize etc.) and lots more tools.
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
