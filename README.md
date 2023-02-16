@@ -5022,7 +5022,8 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Andrej](https://gist.github.com/4ndrej/4547029) - SSLPoke.java for quick validation of Java SSL configuration
 * [SSL Shopper](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html) - java keytool keystore cheatsheet
 * [Brusten Philip & Van der Velpen Jan](https://shib.kuleuven.be/docs/ssl_commands.shtml) - a few frequently used SSL commands (openssl, keytool, certutil)
-* [CheapSSLSecurity](https://cheapsslsecurity.com/blog/various-types-ssl-commands-keytool/) - SSL commands list
+* [CheapSSLSecurity](https://cheapsslsecurity.com/blog/various-types-ssl-commands-keytool/) -SSL commands list
+* [SSL Tools](https://cheapsslweb.com/ssl-tools) - SSL Certificate Tools
 * [DigiCert](https://www.digicert.com/ssl-support/pem-ssl-creation.htm) - .pem SSL creation instructions
 * [Arun GP](https://myonlineusb.wordpress.com/2011/06/19/what-are-the-differences-between-pem-der-p7bpkcs7-pfxpkcs12-certificates/) - (2011) differences between PEM, DER, P7B/PKCS#7, PFX/PKCS#12 certificates
 * [SSL Shopper](https://www.sslshopper.com/special-ssl-certificate-types.html) - Special Types of SSL Certificates
