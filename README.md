@@ -5017,7 +5017,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Chandan Kumar](https://geekflare.com/ssl-test-certificate/) - Verify your SSL, TLS & Ciphers implementation.
 * [SSL Shopper](https://www.sslshopper.com/article-most-common-openssl-commands.html) - The Most Common OpenSSL Commands
 * [SSL Shopper](https://www.sslshopper.com/ssl-converter.html) - tools & commands examples for certificates format conversion
-* [Free Online SSL Checker Tool](https://sslwiki.org/ssl-checker-tool/) - Free online SSL Checker tool verifies the information of SSL certificate on your web server that is properly installed or not. 
+* [SSLWiki SSL Checker Tool](https://sslwiki.org/ssl-checker-tool/) - Free online SSL Checker tool verifies the information of SSL certificate on your web server that is properly installed or not. 
 * [Paul Heinlein](https://www.madboa.com/geek/openssl/) - OpenSSL cookbook / command-line howto
 * [Nick Burch](http://gagravarr.org/writing/openssl-certs/others.shtml) - howtos for installing other people's certificates
 * [Andrej](https://gist.github.com/4ndrej/4547029) - SSLPoke.java for quick validation of Java SSL configuration
