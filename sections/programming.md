@@ -899,6 +899,7 @@ See also [Calm programming / Slow programming](#calm-programming--slow-programmi
 * [Jérôme Beau](https://javarome.medium.com/programming-naming-361a41c86928) - (2021) Programming: Naming | Where are you talking from?
 * [Lane Wagner](https://medium.com/qvault/naming-variables-the-right-way-12e2d7769be2) - (2021) Naming Variables the Right Way | bugs are due to the poor naming of variables way more often than you would expect.
 * [Jason Swett](https://www.codewithjason.com/variable-name-anti-patterns/) - (2018) Variable name anti-patterns
+* [Tom Benner](https://namingthings.co/) - (2023) A book about the naming things in software engineering
 
 > Tools
 * [Method Namer](http://methodnamer.com/) - Can't think of a good method name? Try this
