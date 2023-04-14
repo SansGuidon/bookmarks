@@ -2125,7 +2125,8 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [The A11Y Project](https://www.a11yproject.com/resources/#bookmarklets) - Resources : Bookmarklets
 * [Adrian Roselli](https://adrianroselli.com/2019/04/reading-order-bookmarklet.html) - (2019) Reading Order Bookmarklet | When a keyboard-only user or screen reader user comes to page that uses CSS to create a layout, there is a chance that what is on the screen does not match the flow of the page.
 * [Trello](https://trello.com/en/add-card) - Create a Trello card from any webpage
-
+* [Deque University](https://dequeuniversity.com/validator) - HTML Validator Bookmarklet (Full Current Page DOM HTML Validator) making use of the W3C HTML Validator service
+ 
 # Gaming :video_game:
 > News
 * [Game Jams on itch.io](https://itch.io/jams) - itch.io is a place for hosting and participating in game jams online. Anyone can instantly create and host a jam. 60,525 games have been created for jams hosted on itch.io.
@@ -5396,18 +5397,21 @@ rpm --rebuilddb
 * [Moritz Arendt](https://www.getopensocial.com/blog/community-management/real-users-dont-read-manuals) - (2017) Real Users Don't Read Manuals
 * [Web Design Museum](https://www.webdesignmuseum.org/) - The museum exhibits over 900 carefully selected and sorted web sites that show web design trends between the years 1995 and 2005.
 * [Gordon Brander](http://gordonbrander.com/pattern/jack-principles/) - The Jack Principles of conversational UI.
-* [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
 * [Dark Patterns](https://www.darkpatterns.org/types-of-dark-pattern) - Types of Dark Patterns
 * [Good Video Game Interface Screenshots](http://videogameinterfaces.com/) - The best collection of the most beautiful, exceptional and inspiring video game interfaces and screenshots.
 * [Lucas Fernandes da Costa](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) - (2019) How I'm still not using GUIs in 2019: A guide to the terminal. **Bonus** : [author's dotfiles](https://github.com/lucasfcosta/dotfiles)
 * [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
 * [David Gilbert](https://randomwire.com/why-japanese-web-design-is-so-different/) - (2013) Why Japanese Web Design Is So… Different
 * [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) - is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.".
-* [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
-* [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
+* [Anmol Wadhwa](https://anmolwadhwa.hashnode.dev/mindblowing-3d-websites-for-inspiration) - (2022) 15 Inspiring 3D Websites
+
+> Tools
+* [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
 * [debugCSS](https://imbrianj.github.io/debugCSS/) - (X)HTML debugging tool built with CSS | debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML. Not all "errors" are created equally, so they are color coded to highlight severity. Green is "probably not a big problem", yellow is "worth looking at" and red is "you really should fix this." **See also** [GitHub repository](https://github.com/imbrianj/debugCSS)
 * [JAMstack Themes](https://jamstackthemes.dev/ssg/) - Themes for Static Site Generators | for Hugo, Hexo, Gatsby, Eleventy (11ty), Vuepress, Pelican, Jekyll, Mkdocs, etc
-* [Anmol Wadhwa](https://anmolwadhwa.hashnode.dev/mindblowing-3d-websites-for-inspiration) - (2022) 15 Inspiring 3D Websites
+* [HTML5 Accessibility](https://html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
+* [Revenge.css](http://heydonworks.com/revenge_css_bookmarklet/) - is a CSS bookmarklet that reports bad html using pseudo content. If the page you use it with has malformed links, deprecated attributes, <div>s inside inline elements, inaccessible buttons, badly nested sections or other errors, you'll see some ugly, pink errors written in nobody's favourite font: Comic Sans. **See also** [GitHub repository](https://github.com/Heydon/REVENGE.CSS)
+* [Deque University](https://dequeuniversity.com/validator) - HTML Validator Bookmarklet (Full Current Page DOM HTML Validator) making use of the W3C HTML Validator service
 
 ## Accessibility (a11y)
 See also [Ecology :seedling:](#ecology-seedling) && [Performance](#performance) && [Web development](#web-development)
@@ -5623,6 +5627,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Web Usability Checklist](https://teamsuccess.io/UX) - Catch common usability problems before user testing
 * [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 * [namae](https://namae.dev/) - Grab a slick name for your new app | Check availability for your new app name ideas across major registries at once.
+* [Deque University](https://dequeuniversity.com/validator) - HTML Validator Bookmarklet (Full Current Page DOM HTML Validator) making use of the W3C HTML Validator service
 
 # Windows
 * [NSSM](https://nssm.cc/commands) - the Non-Sucking Service Manager
