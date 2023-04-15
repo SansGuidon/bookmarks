@@ -605,6 +605,8 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 * [WikiWikiWeb](https://wiki.c2.com/?EgolessProgramming) - Egoless Programming
 * [Raphael Gaschignard](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html) - (2022) Precision In Technical Discussions
 > * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
+* [Nikol](https://pro-wp.in.ua/stop-a-moment-slow-programming-is-a-trend-for-tired-developers/) - (2023) Stop a moment. Slow programming is a trend for tired developers
+* [Heinrich Hartmann](https://www.heinrichhartmann.com/archive/quality-time.html) - (2018) Quality Time
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
