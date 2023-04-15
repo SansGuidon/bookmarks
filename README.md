@@ -5256,6 +5256,9 @@ The festival began in 1976 and is held annually on the first weekend in November
 * [Russ Cox](https://research.swtch.com/vgo-repro) - (2018) Reproducible, Verifiable, Verified Builds (Go & Versioning, Part 5). **Related :** [Go & Versioning & other posts](https://research.swtch.com/vgo)
 * [John Arundel](https://bitfieldconsulting.com/golang/tdd) - (2021) Test-driven development with Go 
 * [Benjamin Muschko](https://bmuschko.com/blog/go-testing-frameworks/) - (2018) Exploring the landscape of Go testing frameworks
+* [Arthur Hicken](https://www.stickyminds.com/article/shift-left-approach-software-testing) - (2018) The Shift-Left Approach to Software Testing
+* [Josh Giller](https://www.stickyminds.com/article/using-decision-tables-clear-well-designed-testing) - (2018) Using Decision Tables for Clear, Well-Designed Testing
+* [Lee Copeland](https://www.stickyminds.com/article/state-transition-diagrams) - (2003) State-Transition Diagrams - Testing UML Models
 
 # Transportation :train2: :oncoming_automobile:
 > Learn
