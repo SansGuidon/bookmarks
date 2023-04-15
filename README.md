@@ -371,6 +371,9 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [The 512KB Club](https://512kb.club/) - The 512KB Club | The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days. [...] But we can make a difference - all it takes is some optimisation. [...] The 512KB Club is a collection of performance-focused web pages from across the Internet. **GitHub repository** [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
 * [Brandon Rhodes](https://python-patterns.guide/) - (2018) Python Design Patterns | evolving guide to design patterns in the Python programming language.
 
+> Tools
+* [Mermaid Live Editor](https://mermaid.live/edit) - Online FlowChart & Diagrams Editor
+
 # Art :art:
 > News
 * [Toggl Blog](https://blog.toggl.com/category/fun/) - Fun articles from Toggl, with good posters / comics
@@ -1382,6 +1385,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform
 * [rfc.me](https://rfc.me/) - Append an RFC number to the domain and it will redirect to that RFC. Example: [rfc.me/1738](https://rfc.me/1738)
 * [rfc.fyi](https://rfc.fyi/) - Search for RFCs, Fast — When they say ‘fast’ they’re not lying. This site is amazingly nimble at helping you track down the particular RFC you want, whether you want to read the FTP spec, a protocol for controlling coffee pots, or how QUIC works.
+* [Mermaid Live Editor](https://mermaid.live/edit) - Online FlowChart & Diagrams Editor
 
 ## Onboarding
 * [Ingrid Towey](https://opensource.com/open-organization/17/9/culture-building-onboarding-buddies) - Growing your team's open culture, one buddy at a time
