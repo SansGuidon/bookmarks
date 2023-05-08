@@ -5137,6 +5137,7 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [OpenCycleMap](https://opencyclemap.org/) - :bicyclist: the OpenStreetMap Cycle Map
 * [Marches Adeps](http://www.sport-adeps.be/index.php?id=5945) - :fr: [FR] Tous les dimanches et jours fériés, des marches Adeps sont organisées en Wallonie et à Bruxelles.  Des parcours de 5, 10, 20 et parfois 15km pour tous les types de randonneurs.
 * [Wikiloc](https://fr.wikiloc.com/itineraires/outdoor/belgique) - :fr: [FR] Itinéraires en Belgique | Itinéraires et randonnées du monde | Trails in belgium and in the world
+* [Pro Velo](https://www.provelo.org/) - :be: [BE] Welcome to today’s and tomorrow’s cyclists! Advice, training or service: Pro Velo makes cycling accessible to everyone in Brussels and Wallonia.
 
 ## Climbing
 * [grimpe-a-vue.com](https://web.archive.org/web/20201125105851/https://www.grimpe-a-vue.com/le-dico-du-grimpeur/) - :fr: [FR] Le dico du grimpeur | Tu trouveras ici le vocabulaire et les expressions de l'escalade, ainsi que le jargon du grimpeur 😉
@@ -5278,6 +5279,7 @@ The festival began in 1976 and is held annually on the first weekend in November
 * [WappyWap](https://www.wappywap.com) - Collaborative database for connecting car owners.
 > There are at least 100 reasons as to why you may need to contact the owner of a vehicle. And don’t forget YOU could be the owner of the vehicle in trouble... Thanks to WappyWap mobile application, downloadable on all platforms, as well as a web version, it will now be possible to contact the owner of any car, van, truck or motorcycle through its license plate.
 * [CommuteTimeMap](https://commutetimemap.com/) - Find a place to live or stay with a good commute time
+* [Waze](https://www.waze.com/en/live-map) - Driving directions, live traffic & road conditions updates
 
 # Travel :airplane:
 * [Spotted by Locals](https://www.spottedbylocals.com/) - handpicked city loving locals write about their favorite spots in their city. Insider tips, not highlights!
@@ -5297,7 +5299,8 @@ The festival began in 1976 and is held annually on the first weekend in November
 * [Rome2rio](https://www.rome2rio.com/) - Discover how to get anywhere by plane, train, bus, ferry & car
 * [Skyscanner](https://www.skyscanner.net/) - Cheap flights | Free flight comparison
 * [FlightsFrom](https://www.flightsfrom.com/BRU/destinations?durationFrom=55&durationTo=180) - List of destinations (& airlines) you can reach from Brussels within 3 hours.
-
+* [Explore World](https://www.explordle.com/map/wor) - Travel and Experience the World !
+ 
 ## Relocation & moving & living elsewhere & expating
 * [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - allows you to compare your home country with different countries around the world.
 * [Expat.com](https://www.expat.com/) - The expatriate community
