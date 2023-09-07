@@ -1261,6 +1261,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Mike Crittenden](https://critter.blog/2021/09/16/lose-touch-with-people/) - (2021) Lose touch with people
 * [Mike Crittenden](https://critter.blog/2021/01/21/i-schedule-my-friendships-like-i-schedule-my-meetings/) - (2021) I schedule my friendships like I schedule my meetings
 * [Damien Leloup](https://www.lemonde.fr/pixels/article/2019/02/23/le-grand-essor-des-jeux-de-societe-cooperatifs_5427325_4408996.html) - (2019) :fr: [FR] Festival international des jeux de Cannes : le grand essor des jeux de société coopératifs | Les jeux comme « The Mind » ou « Spirit Island », dans lesquels tous les participants gagnent ou perdent ensemble, se sont multipliés ces dernières années.
+* [Untools](https://untools.co/) - Tools for better thinking | Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 
 ## Communication
 * [Bohm Dialogue](https://en.m.wikipedia.org/wiki/Bohm_Dialogue) - (also known as Bohmian Dialogue or "Dialogue in the Spirit of David Bohm") is a freely flowing group conversation in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and nonjudgementally.[1] This can lead to new and deeper understanding. The purpose is to solve the communication crises that face society,[2] and indeed the whole of human nature and consciousness.
@@ -1317,6 +1318,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Jakob Greenfeld](https://jakobgreenfeld.com/stay-in-touch) - (2022) The simple system I’m using to stay in touch with hundreds of people
 * [Mike Crittenden](https://critter.blog/2021/09/16/lose-touch-with-people/) - (2021) Lose touch with people
 * [Mike Crittenden](https://critter.blog/2021/01/21/i-schedule-my-friendships-like-i-schedule-my-meetings/) - (2021) I schedule my friendships like I schedule my meetings
+* [Untools](https://untools.co/) - Tools for better thinking | Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 
 ## Documentation
 > Learn
