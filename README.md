@@ -496,6 +496,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Mobilism](https://forum.mobilism.me/viewforum.php?f=120) - Your Source for Apps & Books | Login available via [**BugMeNot**](http://bugmenot.com/)
 * :star: [:books: **Freely available programming books**](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [Wikisource](https://wikisource.org/wiki/Main_Page) - is an online digital library of free-content textual sources on a wiki, operated by the Wikimedia Foundation. Wikisource is the name of the project as a whole and the name for each instance of that project (each instance usually representing a different language).
+* [Open Library](https://openlibrary.org/) - is an open, editable library catalog, building towards a web page for every book ever published. Read, borrow, and discover million books for free.
 
 ## Book summaries, notes and reviews
 * [MorganGeek](https://github.com/MorganGeek/bookmarks/tree/master/books) - My own highlights of favorite - *mostly software engineering related* - books.
