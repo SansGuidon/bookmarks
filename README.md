@@ -2594,6 +2594,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Brussels for Beer Geeks](https://www.google.com/maps/d/u/0/viewer?mid=1R99-MBg6KXiPLnWk--ROWWJFX4s) - 🇧🇪 [BE] A map with bars ,shops, restos of interest for beer geeks visiting Brussels. Bars will usually have a varied selection of good Belgian and/or foreign beers. Restos will have a focus on food and beer. Via [Belgianbeergeek.be](https://belgianbeergeek.be/)
 * [VivreIci.be](https://www.google.com/maps/d/u/0/viewer?mid=15OKrqD-iaTR0DorNrvRim6nClIs&ll=50.21449266425098%2C4.653385849999978&z=9) - 🇧🇪 🇫🇷 [BE] [FR] La carte des Bières et Brasserie de chez nous
 * [La voix dans ta tête](https://lavoixdanstatete.com/podcast/bieres-faits-divers/) - 🇧🇪 🇫🇷 [BE] [FR] Bières & faits divers | Boire des bières en racontant des histoires folles, étranges et drôles: la parfaite combinaison pour passer un bon moment.
+* [Eric Steffens](https://www.vrt.be/vrtnws/fr/2023/09/08/pourquoi-la-gueuze-est-elle-appelee-le-champagne-de-bruxelles/) 🇧🇪 🇫🇷 [BE] [FR] (2023) Pourquoi la gueuze est-elle appelée le "champagne de Bruxelles" ?
 
 > [Board games 🎲](#board-games-game_die)
 
