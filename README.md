@@ -1572,6 +1572,7 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Magazine Stoemp de Cultures](https://escaledunord.brussels/category/stoemp/) - :fr: 🇧🇪 [FR] [BE] Le magazine bimestriel d'Escale du Nord — Centre culturel d'Anderlecht.
 * [Zakoustics](https://zakoustics.wixsite.com/website) - 🇧🇪 🇫🇷 [BE] [FR] Les Zakoustics, ce sont des concerts acoustiques pour les tout-petits (0-3 ans) et leurs parents.
 * [La Tricoterie](https://www.tricoterie.be/fr/?lang=fr) -  🇧🇪 🇫🇷 [BE] [FR] se rêve en « Fabrique de liens ». Un lieu de “rencontre” où les disciplines et les publics divers se croisent, dans un esprit d’échange et d’émulation. Leur programmation culturelle (concerts, spectacles, expos…) côtoie donc une programmation “citoyenne” (débats, conférences, repair café, ateliers intergénérationnels, café-philo…). Parallèlement, des espaces sont proposés à la location et dédiés à l’organisation d’événements.
+* [summarize.tech](https://www.summarize.tech/) - AI Powered video summaries
 
 # Data
 * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) - a place for visualizations that effectively convey information
@@ -3110,6 +3111,7 @@ rpm --rebuilddb
 * [uNoGS](https://unogs.com) - Unofficial Netflix Online Global Search, Search all netflix regions in one place! **Bonus** : [Explore catalogue updates by country](https://unogs.com/countrydetail)
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Your First World problems are over.
 * [Eli McGarvie](https://cult.honeypot.io/reads/13-best-tech-documentaries-for-developers/) - (2022) 13 Best Tech Documentaries For Developers | You can't go wrong with these developer documentaries...
+* [summarize.tech](https://www.summarize.tech/) - AI Powered video summaries
 
 # Music :notes:
 * [Rate Your Music](https://rateyourmusic.com/) - one of the most complete music database for cataloging, tagging and reviewing your music collection
@@ -4368,7 +4370,8 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [Andy Cook](https://tettra.com/article/company-culture-deck/) - (2018) Culture Codes: All the Best Culture Decks and How to Create One
 * [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP. **See also** : [GlossaryTech for LinkedIn](https://glossarytech.com/plugin)
 * [Do Not Call Me (abrégé DNCM)](https://www.dncm.be/fr/) - 🇧🇪 🇫🇷 [BE] [FR] La liste "Ne m'appelez plus" vous assure de ne plus recevoir de publicités indésirables par téléphone. La loi oblige les entreprises et les organisations qui font des offres commerciales par téléphone à utiliser cette liste. L'association Do Not Call Me (abrégé DNCM) a été reconnu par l'arrêté royal du 28 juin 2015 en tant que gestionnaire officiel de la liste.
-
+* [summarize.tech](https://www.summarize.tech/) - AI Powered video summaries
+  
 # Podcasts :radio:
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Player FM](https://player.fm/podcasts/Software-Development) - Software Development Podcasts
