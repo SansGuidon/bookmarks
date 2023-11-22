@@ -540,6 +540,11 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [CloudConvert](https://cloudconvert.com/epub-to-pdf) - EPUB to PDF Converter | with support for EPUB, PDF, AZW and CBZ amongst many others.
 * [Bookstash](https://bookstash.io/) - Top books recommended by famous folk, in 3m or less.
 > “‘I read it on Bookstash’, or how to pretend you’re smart while actually being smart.” - Alberto Heinstein
+* :star: [iLovePDF](https://www.ilovepdf.com/split_pdf) - Split PDF files online
+* [Converter App](https://converter.app/djvu-to-pdf/convert.php) - DjVu to PDF
+* [Online Converter](https://www.onlineconverter.com/compress-epub) - Compress EPUB File Size
+* :star: [iLovePDF](https://www.ilovepdf.com/compress_pdf) - Compress PDF file. Same PDF Quality less file size
+* :star: [iLovePDF](https://www.ilovepdf.com/edit-pdf) - Online PDF Editor and Form Filler
 
 ## Book suggestions
 * [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
@@ -2114,6 +2119,11 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [CV Scanner](https://glossarytech.com/scanner) - Recruiting tool for tech resume analysis, using NLP. **See also** : [GlossaryTech for LinkedIn](https://glossarytech.com/plugin)
 * [La liste Robinson](https://www.robinson.be/) - 🇧🇪 🇫🇷 [BE] [FR] est une liste de personnes qui ne souhaitent plus recevoir de publicité adressée par la poste. N'importe qui peut s'inscrire gratuitement sur cette liste.
 * [Do Not Call Me (abrégé DNCM)](https://www.dncm.be/fr/) - 🇧🇪 🇫🇷 [BE] [FR] La liste "Ne m'appelez plus" vous assure de ne plus recevoir de publicités indésirables par téléphone. La loi oblige les entreprises et les organisations qui font des offres commerciales par téléphone à utiliser cette liste. L'association Do Not Call Me (abrégé DNCM) a été reconnu par l'arrêté royal du 28 juin 2015 en tant que gestionnaire officiel de la liste.
+* :star: [iLovePDF](https://www.ilovepdf.com/split_pdf) - Split PDF files online
+* [Converter App](https://converter.app/djvu-to-pdf/convert.php) - DjVu to PDF
+* [Online Converter](https://www.onlineconverter.com/compress-epub) - Compress EPUB File Size
+* :star: [iLovePDF](https://www.ilovepdf.com/compress_pdf) - Compress PDF file. Same PDF Quality less file size
+* :star: [iLovePDF](https://www.ilovepdf.com/edit-pdf) - Online PDF Editor and Form Filler
 
 ## Bookmarklets
 * [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. 💩 **See also** : [Home Page](https://mourner.github.io/bullshit.js/)
