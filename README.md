@@ -2,14 +2,11 @@
 > A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) resources for geeks and software crafters :beer:
 
 - I spend a lot of time on internet, losing myself in lot of topics. I choose GitHub to list my findings and bookmarks in a central location for productivity, to avoid losing my findings, and also to share them with the world.
-- :warning: [**Full version**](https://github.com/MorganGeek/bookmarks/blob/master/README.md) :warning: I advise you to consult this very same page [here](https://github.com/MorganGeek/bookmarks/blob/master/README.md) for full content, as GitHub truncates files with a size over 500KB on main page, causing incomplete display of this list.
 
 Contributions are more than welcome. Read the [contribution guidelines](CONTRIBUTING.md).
 
-by [**MorganGeek**](https://blog.morgangeek.be/)
+by [**MorganGeek**](https://morgan.zoemp.be/)
 - **Mastodon** : [@MorganGeek@mamot.fr](https://mamot.fr/@MorganGeek)
-- **Diaspora** : morgangeek@diaspora-fr.org
-- [My favorite RSS feeds](https://subworthy.com/@morgangeek)
 
 ### Legend
 * :star: Resources I like so much.
@@ -2492,7 +2489,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Nicholas Bate](https://blog.strategicedge.co.uk/2013/03/tidy-up-as-you-go-along-be-it-cooking-diy-or-selling-your-software-solution-remember-the-small-stuff-as-it-is-big-stuf.html) - (2013) Life Tips 101
 * [Mike Crittenden](https://critter.blog/2021/06/25/treat-it-like-youre-bailing/) - (2021) Treat it like you’re bailing
 * [Mike Crittenden](https://critter.blog/2021/07/02/10-of-us-are-barely-affected-by-caffeine/) - (2021) 10% of us are barely affected by caffeine
-* [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
+* [MorganGeek](https://morgan.zoemp.be/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
 * [Goomics](https://goomics.net/) - Comics about life at Google
 * [Cate Huston](https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job/) - (2021) 5 Signs It’s Time to Quit Your Job
 * [Trevor Haynes](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) - (2018) Dopamine, Smartphones & You: A battle for your time
@@ -2540,7 +2537,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Thomas A. Limoncelli](https://queue.acm.org/detail.cfm?id=3417752) - (2020) Five Nonobvious Remote Work Technique)
 * [Ed Zitron](https://ez.substack.com/p/the-work-from-home-future-is-destroying) - (2021) The Work-From-Home Future Is Destroying Bosses' Brains | a critique of managers and business owners
 * [Justin Garrison](https://www.justingarrison.com/blog/2020-08-31-remote-onboarding/) - (2020) How to On-board New Hires Remotely
-* [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
+* [MorganGeek](https://morgan.zoemp.be/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
 * [Gaël Thomas](https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/) - (2022) Working from Home – Tips to Help You Stay Productive
 
 # Hobbies
@@ -3085,7 +3082,7 @@ rpm --rebuilddb
 * [**Tunefind**](https://www.tunefind.com/browse/tv) - Music from all popular tv shows
 * [**Tunefind**](https://www.tunefind.com/browse/tv-movie) - Music from all popular tv shows and movies
 * [My 90's TV](http://www.my90stv.com/) - Go back to the 1990's via this nostalgic TV simulator and relive the original ads, music videos, movie trailers, shows and more!
-* [MorganGeek](https://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
+* [MorganGeek](https://web.archive.org/web/20150708051842/https://www.morgangeek.be/blog) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [moviecode](https://moviecode.tumblr.com/) - Source Code in TV and Films / Images of the computer code appearing in TV and films and what they really are.
 * [/r/itsaunixsystem](https://www.reddit.com/r/itsaunixsystem/) - every satirical, embarrassing, incorrect usage of Technology in Movies, TV Shows, and Video Games!
 * [Clara Darko](https://www.youtube.com/watch?v=A1ZHl8qqg4A) - [Video] Movie montage of dystopian / utopias societies
@@ -3626,7 +3623,7 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [Keeku](https://keeku.co/) - 🇫🇷 [FR] Le coin des podcasts pour enfants | Retrouvez de belles histoires de princesses et de dragons, de la méditation ou du yoga, de l’actualité, à écouter sur la route de l’école, à la maison, dans la voiture ou pendant les vacances ! Et tout cela gratuitement !
 * [Moi, Papa](https://www.rtbf.be/auvio/emissions/detail_moi-papa?id=18794) - 🇧🇪 🇫🇷 [BE] [FR] [Videos] [Audio] Un podcast de 5 épisodes dans lequel Adrien De Vyver reçoit des experts et abordent les difficultés, les joies, le stress, les besoins des jeunes ou futurs nouveaux papas.  Les mamans ont cet instinct maternel qui les unis, après 9 mois de grossesse, à leur enfant. Mais comment aider les pères à trouver leurs plac...  Plus
 * [The Daddy Corner](https://www.nestlebaby.be/fr/daddycorner) - 🇧🇪 🇫🇷 [FR] [BE] les papas ont aussi leur espace d’information
-* [MorganGeek](https://morgangeek.be/blog/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
+* [MorganGeek](https://morgan.zoemp.be/when-working-from-home-is-toxic/) - (2021) When working from home is toxic
 * [Dr. Elaine Aron](https://hsperson.com/the-highly-sensitive-parent/) - (2005) The Highly Sensitive Parent
 * [Kelly McQuillan](https://www.todaysparent.com/family/parenting/what-its-like-to-parent-when-youre-a-highly-sensitive-person/) - (2020) What it’s like to parent when you’re a Highly Sensitive Person
 * [Felicia Schneiderhan ](https://www.realsimple.com/work-life/family/highly-sensitive-parent) - (2017) I Just Found Out I’m a Highly Sensitive Parent—And It Changed My Life
@@ -4080,7 +4077,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 > * Who has solved this already?
 * [Anthony Panozzo](http://www.panozzaj.com/blog/2016/04/03/how-to-actually-publish-more-things/) - (2016) How to Actually Publish More Things
 * [Kévin Rocher](http://www.24joursdeweb.fr/2013/productivite-habitudes-motivation-comment-tirer-le-meilleur-parti-de-votre-journee/) - (2013) [FR] :fr: Comment tirer le meilleur parti de votre journée // Productivité, Habitudes & Motivation
-* [MorganGeek](https://www.morgangeek.be/blog/index.php?d=2014/01/02/12/32/16-la-selection-naturelle-de-contenus) - (2014) [FR] :fr: La sélection naturelle de contenus
+* [MorganGeek](https://web.archive.org/web/20150708051842/https://www.morgangeek.be/blog) - (2014) [FR] :fr: La sélection naturelle de contenus
 * [Mike Davidson](https://twitter.com/iok/status/497749033918558209/photo/1) - [IMG] Wisdom : A prototype is worth a thousand meetings
 * [Jeff Atwood](https://blog.codinghorror.com/because-reading-is-fundamental-2/) - (2014) Because Reading is Fundamental / spend less time talking and more time reading
 * [Mike Veerman](https://medium.com/@mikeveerman/simple-is-the-opposite-of-easy-56d585f95039) - Simple is the opposite of easy
@@ -4302,7 +4299,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [chaconnewu/awesome-augmented](https://github.com/chaconnewu/awesome-augmented) - curated list of awesome lists
 * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - a chrome extension to switch between multiple proxies, quick & easy
 * [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar) - this Android app let you listen to or read on screen the text from other Android apps, e.g. web pages, news articles, long emails, TXT, PDF, DOC, DOCX, RTF ... useful to do multitasking specialists !!
-* [MorganGeek](https://www.morgangeek.be/blog/index.php?d=2014/01/08/09/53/46-filebot-le-couteau-suisse-du-renommage-de-films-et-series) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
+* [MorganGeek](https://web.archive.org/web/20150708051842/https://www.morgangeek.be/blog) - [FR] :fr: FileBot : le couteau suisse du renommage de films et séries
 * [Things I Learned Today](http://thingsilearnedtoday.net/2013/07/20/too-many-tabs-in-google-chrome/) - (2013) Too Many Tabs in Google Chrome? try this extension
 * [FreshRSS](https://www.freshrss.org/) - A free, self-hostable aggregator… probably the best! (in their opinion, and mine also :) ). I tested many free self hosted RSS readers, and by far this is the one I recommend the most for its flexibility and numerous options
 * [Alex Calderon](https://twitter.com/wealthbits/status/537353148965195777/photo/1) - (2014) [IMG] Are You a Boss or a Leader ?
