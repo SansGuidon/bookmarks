@@ -1528,6 +1528,21 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 * [StackShare](https://stackshare.io/javascript-ui-libraries) - popular JavaScript UI libraries on StackShare
 * [JavaScript Rising Stars](https://risingstars.js.org) - If you took a break to escape the JavaScript fatigue, you are in the right place! 
 * [Unix Sheikh](https://www.unixsheikh.com/articles/javascript-malware-infested-nightmare.html) - (2021) JavaScript malware infested nightmare | some rant
+* [Free JavaScript mine of resources](https://devdojo.com/rahulism/free-javascript-mine-of-resources)
+* [GitHub - trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
+* [GitHub - validatorjs/validator.js: String validation](https://github.com/validatorjs/validator.js)
+* [Making Greeble](https://web.archive.org/web/20190919204905/http://code.ryanmalm.com/JS13k_2017_postmortem)
+* [Kontra.js Postmortem. A postmortem about maintaining… | by Steven Lambert | js13kGames | Medium](https://medium.com/js13kgames/kontra-js-postmortem-e1290f634283)
+* [GitHub - leonardomso/33-js-concepts: 📜 33 JavaScript concepts every developer should know.](https://github.com/leonardomso/33-js-concepts)
+* [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html)
+* [Amelia Wattenberger](https://wattenberger.com/blog/d3) - (2019) How to learn D3.js
+* [Quokka - JavaScript and TypeScript playground in your editor](https://quokkajs.com)
+* [Week 6: Reading list & news to keep up-to-date with Javascript, Python, DevOps, Cloud, Serverless… | HackerNoon](https://hackernoon.com/week-6-reading-list-news-to-keep-up-to-date-with-javascript-python-devops-cloud-serverless-52ab683be8d8)
+* [Week 4: Reading list & news to keep up-to-date with Javascript, Python, DevOps, Cloud, Serverless, Blockchain, AI, Big Data, Personal Growth, Startup. | by TPT | HackerNoon.com | Medium](https://medium.com/@thangtp/week-4-reading-list-news-to-keep-up-to-date-with-javascript-python-devops-cloud-serverless-f725a12a1567)
+* [Why Python, Ruby, and Javascript are Slow - Speaker Deck](https://speakerdeck.com/alex/why-python-ruby-and-javascript-are-slow)
+* [Our favorite javascript one-liners - DEV Community](https://dev.to/everlyhealth/our-favorite-javascript-one-liners-3l7n)
+* [I’m harvesting credit card numbers and passwords from your site. Here’s how. - By ](https://web.archive.org/web/20190729100121/https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+* [Tao of Node by Alex Kondov](https://www.taoofnode.com)
 
 > Tools
 * [JSONLint](https://jsonlint.com/) - JSON validator
