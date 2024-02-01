@@ -607,6 +607,7 @@ I dedicate this section to the work I'm busy at, about how going faster in short
 > * While working with the same people in the same problem domain for a long time, it's extremely common for people to take shortcuts when describing usage of a technical system.
 * [Nikol](https://pro-wp.in.ua/stop-a-moment-slow-programming-is-a-trend-for-tired-developers/) - (2023) Stop a moment. Slow programming is a trend for tired developers
 * [Heinrich Hartmann](https://www.heinrichhartmann.com/archive/quality-time.html) - (2018) Quality Time
+* [Mike Crittenden](https://critter.blog/2020/01/28/grinders-vs-thinkers/) - (2020) Grinders vs. thinkers
 
 ## Clean code and best practices
 See also [Calm programming / Slow programming](#calm-programming--slow-programming)
