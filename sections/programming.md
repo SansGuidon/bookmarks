@@ -1531,14 +1531,12 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 
 > Tools
 * [JSONLint](https://jsonlint.com/) - JSON validator
-* [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework | Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and SPAs (single-page applications). **See also** : [Video] (2020) [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 * [BundlePhobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 * [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 * [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 * [JavaScript Rising Stars](https://risingstars.js.org) - If you took a break to escape the JavaScript fatigue, you are in the right place! 
 * [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-* [JTK](https://heyjtk.hashnode.dev/vue-vs-svelte-vs-react) - (2022) Vue vs. Svelte vs. React
 
 ## Kafka
 > News
