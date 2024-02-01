@@ -30,7 +30,7 @@
 * [Machine learning](#machine-learning)
 * [Mobile development :iphone:](#mobile-development-iphone)
 * [PHP](#php)
-* [Productivity :computer:](productivity-computer.md)
+* [Productivity :computer:](./productivity-computer.md)
 * [Programmer humor](#programmer-humor)
 * [Prolog](#prolog)
 * [Python](#python)
