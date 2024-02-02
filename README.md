@@ -2518,6 +2518,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs: Design, Programming, DevOps and more
 * [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) - Remote Developer jobs
 * [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - list of awesome remote jobs and resources
+* [OkJob](https://okjob.io/remote-4-day-work-week/) - Remote 4 day week jobs
 
 > Tools
 * [Christina Ng](http://wfh.ninja) - Excuses generator for remote workers
