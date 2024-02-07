@@ -8,8 +8,6 @@
 * [AWS](#aws)
 * [Bitbucket](#bitbucket)
 * [ChatOps](#chatops)
-* [Chef](#chef)
-* [Consul (by HashiCorp)](#consul-by-hashicorp)
 * [Containers](#containers)
 * [Gradle](#gradle)
 * [Jenkins](#jenkins)
@@ -681,14 +679,6 @@ See also [Infrastructure](README.md#infrastructure)
 * [Devops Engineers](https://devopsengineers.com/) - A group of engineers talking about devops related topics in a Slack channel
 * [DevOpsChat](https://devopschat.co/) - Get involved with the Largest DevOps Slack Community
 * [SweetOps](https://slack.cloudposse.com/) - is a collaborative DevOps community for engineers of all skill levels, sponsored by Cloud Posse.
-
-## Chef
-* [Nathen Harvey's Talks](https://speakerdeck.com/nathenharvey) - Talks / Slides by Chef's Community Director
-
-## Consul (by HashiCorp)
-* [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - (2015) Use Vault with Consul on Docker
-* [Consul Docs](https://www.consul.io/docs/agent/checks.html) - health checks / check definitions
-* [Docker Hub](https://hub.docker.com/_/consul/) - Docker Image for Consul, maintained by HashiCorp
 
 ## Containers
 > News
@@ -1461,7 +1451,6 @@ See also [Infrastructure](README.md#infrastructure)
 * [Vault Docs](https://www.vaultproject.io/intro/getting-started/deploy.html) - Deploy Vault
 * [Aun Raza](https://linoxide.com/how-tos/secure-secret-store-vault/) - How to Securely Store Passwords and Api Keys Using Vault
 * [Katacoda](https://www.katacoda.com/courses/docker-production/vault-secrets) - Interactive Course : Docker in Production - Store Secrets using HashiCorp Vault
-* [Stephane Jourdan](https://42notes.wordpress.com/2015/05/01/use-vault-with-consul-on-docker/) - (2015) Use Vault with Consul on Docker
 * [Vyacheslav Voronenko](https://www.codementor.io/slavko/how-to-install-vault-hashicorp-secure-deployment-secrets-du107xlqd) - Using Vault to Secure Your Deployment Secrets
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for HashiCorp Vault
 * [Vault Docs](https://www.vaultproject.io/docs/auth/userpass.html) - Auth Backend: Username & Password
