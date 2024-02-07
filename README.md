@@ -544,7 +544,6 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [iLovePDF](https://www.ilovepdf.com/edit-pdf) - Online PDF Editor and Form Filler
 
 ## Book suggestions
-* [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
 * [Learn by Reading](https://learnbyreading.herokuapp.com/) - Discover your next favorite learnable (Non-fiction) book from Amazon Book
 * [Gnod](http://www.gnooks.com/faves.php) - Discover new books based on what you like
@@ -1502,7 +1501,6 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 # Culture
 * :fire: [**Internet Archive: Wayback Machine**](https://web.archive.org/) - The Internet archive, bringing back old/dead pages to live
 * [TED](https://www.ted.com/) - [Videos] Ideas worth spreading, usually in the form of short, powerful talks (18 minutes or less)
-* [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
 * [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
 * [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
@@ -3075,7 +3073,6 @@ rpm --rebuilddb
 > how might we help more kids experience what math lovers experience?
 
 # Movies
-* [SC (SensCritique)](https://www.senscritique.com) - [FR] :fr: french social networking service meant for discovery, cataloging, sharing reviews and tastes in films, tv series, music, books, comics and video games
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - quality measurement for movies & tv, by creating a score based on top critics
 * [Metacritic](http://www.metacritic.com/) - similar to Rotten Tomatoes. Aggregates reviews and provides a metascore for movies, tv, games and music
 * [IMDB (Internet Movie Database)](http://www.imdb.com/) - aka IMDb, the biggest online database of info related to films and tv
