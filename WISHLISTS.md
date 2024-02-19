@@ -47,14 +47,12 @@
 ### Wishes 
 * [ ] audible subscription but it's owned by amazon and [I want to move away from them 🤔](https://github.com/MorganGeek/bookmarks/projects/2)
 * [ ] lakube subscription
-* [x] digitize my hi8 tapes before they die
 * [ ] drive a vw combi (van)
-* [ ] a good coffee scale / tamper for breville barista express (https://homeexplained.com/the-7-most-helpful-breville-barista-accesories/)
-* [ ] subscription to specialty coffee boxes (e.g : https://orcoffee.be/) or beer box https://mybeerbox.be/
 * [ ] a good book on coffee recipes / barista techniques (e.g : https://www.cafemag.fr/bibliotheque-cafe/)
-* [x] a very good and unique bottle of gueuze or a tour of cantillon museum in anderlecht
 * [ ] nerd socks 🤓
 * [ ] good book on beer/food recipes or pairing, https://www.club.be/p/beerstronomy-9789401449168 ? 
+* [ ] musical instrument (guitar, bass, piano, ... ?)
+* [ ] silent manual coffee grinder
 
 ### Wishes fulfilled
 * [x] manual coffee grinder for espresso, french press and aeropress but I got a breville / sage barista express so not needed
@@ -64,3 +62,8 @@
 * [x] breville/sage barista express
 * [x] hnefatafl game (see on amazon) delivered on 2022-03-09
 * [x] hnefatafl game with detailed resin pieces https://www.regencychess.co.uk/the-viking-game-hnefatafl-p-1320.html
+* [x] a very good and unique bottle of gueuze or a tour of cantillon museum in anderlecht
+* [x] subscription to specialty coffee boxes (e.g : https://orcoffee.be/) or beer box https://mybeerbox.be/ -> I opted for [Wide Awake Coffee](https://wideawake.coffee/) in Brussels.
+* [x] a good coffee scale / tamper for breville barista express (https://homeexplained.com/the-7-most-helpful-breville-barista-accesories/)
+* [x] digitize my hi8 tapes before they die
+
