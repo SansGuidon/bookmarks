@@ -394,7 +394,6 @@
 * [Bystroushaak](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html) - (2020) Programmer's critique of missing structure of operating systems | **Original** (2018) [Programátorova kritika chybějící struktury operačních systémů](http://blog.rfox.eu/cz/Program_torova_kritika_chyb_j_c_struktury_opera_n_.html)
 * [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
-* [The Cloud Posse Developer Hub](https://docs.cloudposse.com/) - You'll find comprehensive guides and documentation to help you start working with the Cloud Posse technology stack as quickly as possible, as well as support if you get stuck. This is also useful as a source of inspiration for your own guides and documentation repositories.
 * :star: [:books: **Freely available programming books**](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) - List of Free Learning Resources In Many Languages. **Source code** : [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [Async Manifesto](http://asyncmanifesto.org/) - (2014) Manifesto for Async Software Development | Principles of Async Software Development
 * [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf) - (2008) [PDF] Programming Paradigms for Dummies: What Every Programmer Should Know. **Bonus** :fr: [FR] [Slides in french](https://www.info.ucl.ac.be/~pvr/jussieuParadigms2008.pdf) and [Poster in English](https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf)
@@ -1103,8 +1102,6 @@ psql -f db.out postgres
 * [Nicola Paolucci](https://www.durdn.com/blog/2012/12/05/git-12-curated-git-tips-and-workflows/) - (2012) Git: Twelve Curated Tips And Workflows From The Trenches
 * [Nicola Paolucci](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/) - (2015) The power of Git subtree
 * [Nicola Paolucci](https://www.durdn.com/blog/2009/08/16/i-love-staring-at-branches-and-shuffle-reorder-and-squash-commits/) - (2009) I love staring at branches and shuffle, reorder and squash commits
-* [Kernel Docs](https://www.kernel.org/pub/software/scm/git/docs/git-push.html) - git-push
-* [Git-SCM Docs](https://git-scm.com/docs/git-diff) - git-diff
 * [Nicola Paolucci](https://www.atlassian.com/blog/git/git-submodules-workflows-tips#tip5) - Git submodules: core concept, workflows, and tips
 * [Christophe Porteneuve](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) - Mastering Git submodules
 * [Git-SCM Docs](https://git-scm.com/book/en/v2/Git-Tools-Submodules) - Submodules documentation
@@ -1149,7 +1146,6 @@ psql -f db.out postgres
 * [rtyley/BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - an alternative to git-filter-branch. [Sources on Github](https://github.com/rtyley/bfg-repo-cleaner)
 * [Sven Hofmann](https://gist.github.com/hofmannsven/6814451) - Simply git cheatsheet
 * [Markus Wein](http://nuclearsquid.com/writings/git-add/) - git add --patch and --interactive
-* [Git SCM Docs](https://git-scm.com/docs/git-archive) - git-archive
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2016/06/28/on-the-matter-of-beautiful-git-diffs/) - (2016) On the Matter of Beautiful git Diffs
 * [Hacker News](https://news.ycombinator.com/item?id=9952878) - Don't put secret keys in your repository.
 * :star: [**Seth Robertson**](https://sethrobertson.github.io/GitBestPractices/) - (2012) Git Best practices : commit often, perfect later, publish once, etc.
@@ -1369,7 +1365,6 @@ See also [Shell aliases](../README.md#shell-aliases)
 * [353Solutions](https://www.353.solutions/py2go/index.html) - Python to Go CheatSheet
 * [Nemanja Mijailovic](https://mijailovic.net/2017/07/29/go-fuzz/) - (2017) Going down the rabbit hole with go-fuzz | testing techniques
 * [Jérôme Petazzoni](https://jpetazzo.github.io/2016/09/09/go-docker/) - (2016) Go + Docker = ♥ | tips and tricks showing how Docker can be useful when working with Go code
-* [Google Developers](https://developers.google.com/protocol-buffers/docs/gotutorial) - Protocol Buffer Basics: Go
 * [Alex Ellis](https://blog.alexellis.io/5-keys-to-a-killer-go-cli/) - 5 keys to create a killer CLI in Go
 * [Go Docs](https://golang.org/doc/effective_go.html) - Effective Go
 * [Kyle Quest](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) - 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
@@ -1463,7 +1458,6 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [James Ward](http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong) - (2014) Java Doesn’t Suck – You’re Just Using it Wrong
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/java-for-everything.html) - (2014) I started to form a strange idea: That Java is the right language for all jobs.
-* [Google Developers](https://developers.google.com/protocol-buffers/docs/javatutorial) - Protocol Buffer Basics: Java
 * [Sam Atkinson](http://samatkinson.com/why-i-hate-spring/) - (2014) Why I hate Spring
 * [Javin Paul](http://javarevisited.blogspot.be/2014/10/10-java-best-practices-to-name-variables-methods-classes-packages.html) - (2014) 10 Programming Best Practices to Name Variables, Methods, Classes and Packages
 * [Javin Paul](http://javarevisited.blogspot.be/2013/03/0-exception-handling-best-practices-in-Java-Programming.html) - (2013) 10 Exception handling Best Practices in Java Programming
