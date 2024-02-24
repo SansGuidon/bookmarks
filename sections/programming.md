@@ -1334,15 +1334,12 @@ See also [Shell aliases](../README.md#shell-aliases)
 
 > Misc
 * [faiface/pixel](https://github.com/faiface/pixel) - Pixel : A hand-crafted 2D game library in Go.
-* [Go Docs](https://golang.org/pkg/flag/) - Package flag
 * [Pipat Methavanitpong](https://fulcronz27.wordpress.com/2016/03/07/setting-atom-for-golang-on-windows/) - (2016) Setting Atom for Golang on Windows
 * [Francesc Campoy Flores](https://talks.golang.org/2013/bestpractices.slide#1) - (2013) Twelve Go Best Practices
 * [Marcio Castilho](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/) - (2015) Handling 1 Million Requests per Minute with Go
 * [Marcio Castilho](http://marcio.io/2015/07/supercharging-atom-editor-for-go-development/) - (2015) Supercharging the Atom Editor for Go Development
 * [The Go Playground](https://play.golang.org/) - Useful for code snippet validation
 * [Golang](https://golang.org/src/) - Golang source code, useful for learning
-* [Go Docs](https://golang.org/pkg/) - Package list and documentation
-* [Go Docs](https://golang.org/pkg/crypto/) - Package crypto
 * [Andrew Gerrand](https://talks.golang.org/2012/10things.slide#1) - (2012) 10 things you (probably) don't know about Go
 * [Avelino/awesome-go](https://github.com/avelino/awesome-go) - curated list of awesome Go frameworks, libraries and software. See also [awesome-go.com](https://awesome-go.com/)
 * [GolangLibs](https://golanglibs.com) - inventory of go libraries an apps
