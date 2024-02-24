@@ -761,7 +761,6 @@ See also [Shell scripting](#shell-scripting)
 * [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
 * [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira, more complete than jira-node-cli
 * [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback | You are using Spotify and would love to use it via terminal / CLI tools ? try baton ;-)
- * [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/cli_reference/basic_cli_operations.html) - Developer CLI Operations
 * [Christophe Porteneuve](https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df) - 30 Git CLI options you should know about
 * [Alex Ellis](https://blog.alexellis.io/5-keys-to-a-killer-go-cli/) - 5 keys to create a killer CLI in Go
 * [Remy Sharp](https://remysharp.com/2018/08/23/cli-improved) - (2018) CLI: improved | presentation of several powerful CLI tools
@@ -825,7 +824,6 @@ type `curl ident.me` to know your public ip
 * :star: [**explainshell.com**](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
 * [koalephant/shell-script-library](https://bitbucket.org/koalephant/shell-script-library/) - Koalephant Shell Script Library | simplifies building portable command-line tools using shell scripts, and provides tools to assist with building self-contained scripts, and documentation.
 * [Paul Heinlein](https://www.madboa.com/geek/openssl/) - OpenSSL cookbook / command-line howto
-* [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
 * [command-not-found.com](https://command-not-found.com/) - Install any command on any operating system.
 * [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [Kotlin/kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Pure Kotlin implementation of a generic CLI parser.
@@ -848,7 +846,6 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 * [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲 "awslocal" - Thin wrapper around the "aws" command line interface for use with LocalStack
 * [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-* [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html) - Documentation on how to use the Rust Programming Language to develop commandline applications. **See also** : [Source code](https://github.com/rust-cli/book)
 
 > JSON
 * [jq Docs](https://stedolan.github.io/jq/manual/) - online manual for jq (a lightweight and flexible command-line JSON processor)
@@ -1342,7 +1339,6 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Hubert Sablonnière](https://www.youtube.com/watch?v=T6YJlaY0Dpw) - (2017) [Video] :fr: [FR] Documentation as Code (expliqué à mon père) | DevFest Nantes 2017 | about AsciiDoc, KISS, DRY, Quality, Collaboration
 * [PlantUML](http://plantuml.com/guide) - Drawing UML with PlantUML : PlantUML Language Reference Guide
 * [Anni Bond](https://opensource.com/article/17/9/adopting-minimalism-your-docs) - Adopting minimalism in your docs
-* [The Cloud Posse Developer Hub](https://docs.cloudposse.com/) - You'll find comprehensive guides and documentation to help you start working with the Cloud Posse technology stack as quickly as possible, as well as support if you get stuck. This is also useful as a source of inspiration for your own guides and documentation repositories.
 * [Brad Appleton](http://wiki.c2.com/?LocalityOfReferenceDocumentation) - Locality Of Reference Documentation (LoRD)
 > * Code and documentation should be kept as close as feasible, but no closer!
 > * Minimizing the amount of documentation that must be created and maintained in the first place is probably one of the most important aspects of applying LoRD (perhaps even a precursor)
@@ -1780,7 +1776,6 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [GSMArena.com](https://www.gsmarena.com/) - mobile phone reviews, news, specifications and more...
 * [Les Numériques](https://www.lesnumeriques.com/) - :fr: [FR] Test, actu, comparatif high-tech/électroménager
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - Detailed statistic for torrent downloads and distributions for your or specific IP address
-* [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver053/search-for-code-in-bitbucket-server-938022411.html) - Search for code in Bitbucket Server
 * [Opentrackers.org](https://opentrackers.org/downloading-ebooks-textbooks/) - (2017) A guide to help people find ebooks & textbooks
 * [Reddit](https://www.reddit.com/r/FreeEBOOKS/) - Free Ebooks
 * [Broadcastify](https://www.broadcastify.com/listen/coid/1) - Listen Live to Police, Fire, EMS, Aviation, and Rail Audio Feeds
@@ -2759,7 +2754,6 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Fedora](https://mirrors.fedoraproject.org/mirrorlist?repo=epel-6&arch=x86_64) - Fedora Mirrors list for EPEL-6 and arch x86_64 . see also [Fedora Mirror Manager](https://admin.fedoraproject.org/mirrormanager/)
 * [Fedora](https://dl.fedoraproject.org/pub/epel/7/x86_64/a/) - All EPEL-7 and arch x6-x64 packages
 * [Christian Stankowic](https://www.stankowic-development.net/?p=7900&lang=en) - CentOS 7 and the incorrect dist RPM macro
-* [docker-library/official-images](https://github.com/docker-library/official-images/issues/2815) - CentOS 5 has reached EOL in issues of docker-library/official-images on github
 * [Vultr](https://www.vultr.com/docs/use-dnf-to-manage-software-packages-on-centos-7) - Use DNF To Manage Software Packages On CentOS 7
 * [Server Fault](https://serverfault.com/questions/368602/how-do-i-update-a-centos-servers-time-from-an-authoritative-time-server) - How do I update a CentOS server's time from an authoritative time server?
 * [pkgs.org](https://pkgs.org/) - Linux Package Search online
@@ -2802,7 +2796,6 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [Senthil Kumar aka SK](https://www.ostechnix.com/download-rpm-package-dependencies-centos/) - (2016) How To Download A RPM Package With All Dependencies In CentOS
 * [Linux Stack Exchange](https://unix.stackexchange.com/questions/259640/how-to-use-yum-to-get-all-rpms-required-for-offline-use) - How to use yum to get all RPMs required, for offline use?
 * [Red Hat Customer Portal](https://access.redhat.com/solutions/10154) - How to use yum to download a package without installing it
-* [Fedora Project Docs](https://docs.fedoraproject.org/ro/Fedora_Draft_Documentation/0.1/html/RPM_Guide/ch08s02s04.html) - Building RPMs with the rpmbuild command
 * [Andrew Gallant](http://blog.burntsushi.net/ripgrep/) - ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
 * [Madhur Ahuja](https://dev.to/madhur/tuning-linux-servers-for-scalability) - Tuning Linux servers for scalability
 * [Calomel.org](https://calomel.org/samba_optimize.html) - Samba Optimizations and Speed Tuning for Performance
@@ -3443,7 +3436,6 @@ See also [Monitoring](#monitoring)
 * [Server Fault](https://serverfault.com/questions/567320/difference-between-default-and-in-virtualhost-context) - difference between _default_:* and *:* in VirtualHost Context
 * [Dave Child](https://www.cheatography.com/davechild/cheat-sheets/mod-rewrite/) - mod_rewrite Cheat Sheet
 * [Stack Overflow](https://stackoverflow.com/questions/11649944/apache-httpd-conf-for-redirecting-ip-to-hostname) - Apache httpd.conf for redirecting ip to hostname
-* [Apache Docs](http://httpd.apache.org/docs/2.4/mod/core.html#virtualhost) - [FR] :fr: Virtualhost directive in Apache 2.4
 * [TBS Internet](https://www.tbs-certificats.com/FAQ/fr/284.html) - [FR] :fr: Apache et VirtualHost SSL avec un wildcard ou multi-site
 * [Sebastien Lebreton](https://blog.netapsys.fr/authentification-forte-par-certificats-et-transfert-de-certificats-de-apache-vers-tomcat/) - [FR] :fr: Authentification forte par certificats et transfert de certificats de Apache vers Tomcat.
 * [phanan/htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
@@ -3458,8 +3450,6 @@ See also [Monitoring](#monitoring)
 * [Atlassian Jira](https://jira.atlassian.com/secure/Dashboard.jspa?selectPageId=85890&utm_source=newsletter-email&utm_medium=email&utm_campaign=cops-dc-server-investment-2_EML-4343&jobid=104097550&subid=1419604548) - Jira Server and Data Center: current work and future plans dashboard.
 
 > Learn
-* [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
-* [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
 * [Katrina Morales](https://www.atlassian.com/blog/add-ons/5-real-life-examples-beautiful-technical-documentation) - (2017) 5 real-life examples of beautiful technical documentation | user friendly docs on confluence
 * [Karl Tate](https:/blog.clearvision-cm.com/blog/confluence-best-practice-10-quick-and-dirty-tips-for-maintaining-your-confluence-environment/) - (2018) Confluence Best Practice: 10 Quick Tips for Maintaining Your Confluence Environment
 
@@ -3472,7 +3462,6 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Eran Chetzroni](https://blog.algolia.com/reducing-infrastructure-cost/) - (2017) Tips for reducing the cost of your infrastructure
 * [Denny Cherry](http://itknowledgeexchange.techtarget.com/sql-server/another-cloud-outage-awsdown-this-time-another-group-of-companies-show-they-dont-have-dr/) - (2017) Another Cloud Outage (#awsdown this time) Another Group of Companies Show They Don’t Have DR
 * [Subbu Allamaraju](https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b) - (2016) Don’t Build Private Clouds
-* [The OpenStack Marketplace](https://www.openstack.org/marketplace/) - [Private Clouds](https://www.openstack.org/marketplace/hosted-private-clouds/) + [Public Clouds](https://www.openstack.org/marketplace/public-clouds/)
 * [Michal Charemza](https://charemza.name/blog/posts/devops/aws/non-atomic-deployments/) - (2017) Non atomic deployments | Cron-free deferred delete of obsolete static resources | The best infrastructure is the one that doesn't exist
 * [Jonathan Block](https://medium.com/@blockjon/scaling-jenkins-bad7a4ea046f) - (2018) Scaling Jenkins | good tips for AWS, infrastructure design...
 * [Wolfram Hempel](https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/) - (2018) An introduction to medieval cities and cloud security
@@ -3512,7 +3501,6 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira) - Docker build for Atlassian Jira
 * [John Andersen](http://www.john-james-andersen.com/blog/service-now/rest-based-servicenow-jira-integration-poc.html) - REST Based ServiceNow / Jira Integration (PoC)
 * [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - (2015) JIRA ID in Git Commit Messages
-* [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
 * [Adam Boczek](https://emea.nttdata.com/blog/en/jira-workflows-from-the-trenches/) - (2016) JIRA Workflows from the Trenches | The Problem with the Standard Configuration + Some useful Practices and Rules
 * [Idalko](https://www.idalko.com/jira-workflow-best-practices/) - (2018) A guide to Jira workflow best practices (with examples)
 * [Idalko](https://www.idalko.com/worst-common-advice-for-jira/) - (2018) The worst (common) advice for Jira that is killing your productivity
@@ -3521,7 +3509,6 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver0710/project-screens-schemes-and-fields-953144607.html) - Project screens, schemes and fields
 * [Atlassian Community](https://community.atlassian.com/t5/Jira-discussions/What-would-be-your-advice-to-first-time-Jira-Software-admins/td-p/711667) - (2018) What would be your advice to first-time Jira Software admins? | good tips & tricks in answers
 * [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver071/configuring-a-custom-field-802592532.html?_ga=2.69739668.52022900.1536230565-1749018630.1466933040#Configuringacustomfield-add_schemeAddinganewcontext) - Configuring a custom field : Adding a new context | Adding a new context allows you to configure a custom field differently for different combinations of issue types and projects.
-* [Atlassian Docs](https://docs.atlassian.com/software/jira/docs/api/REST/latest) - Latest Jira documentation for REST API **Bonus** : [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)
 * [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
 * [Atlassian Docs](https://confluence.atlassian.com/jirakb/enable-dark-feature-in-jira-959286331.html) - Enable Dark Feature in Jira
 * [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
@@ -3533,7 +3520,6 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [CloudBees](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-jenkins_at_splunk.pdf) - Jenkins at Splunk and Splunking Jenkins +[Video on YouTube](https://www.youtube.com/watch?v=dlsEprySOrg)
 * [Eugen Paraschiv](https://stackify.com/9-logging-sins-java/) - 9 Logging Sins in Your Java Applications
 * [Duncan Crombie](http://www.the-art-of-web.com/system/logs/) - System: Analyzing Apache Log Files
-* [Splunk Docs](https://docs.splunk.com/Documentation/Splunk/6.4.3/SearchReference/Fields) - Splunk Search reference
 * [Tim O'Brien](https://discursive.com/2013/10/30/how-to-get-your-crazy-logs-under-control/) - (2013) 10 Steps to Get Your Crazy Logs Under Control
 * [Alex Zhitnitsky](http://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/) - (2014) 15 Tools Java Developers Should Use After a Major Release
 * [Sumit Maingi](https://cloudncode.blog/2016/12/30/what-should-you-log-in-an-application-and-how-to-avoid-having-24x7-support-looking-at-them/) - (2016) What should you log in an application and how to avoid having 24×7 support looking at them?
@@ -3548,9 +3534,6 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [John Allspaw](http://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/) - (2013) Owning Attention (Considerations for Alert Design)
 * [Server Density](https://www.serverdensity.com/monitor/linux/how-to/) - 80 Linux Monitoring Tools
 * [Andrew Wulf](http://thecodist.com/article/monitor_or_fail) - Monitor Or Fail
-* [Splunk Docs](http://docs.splunk.com/Documentation/SplunkCloud/6.6.0/AdvancedDev/ModAlertsAdvancedExample) - Splunk Web : HipChat example for custom alert actions
-* [Splunkbase](https://splunkbase.splunk.com/app/2879/) - Splunk App : HipChat Room Notification Alert
-* [Fortify8Fifty Labs](https://forty8fiftylabs.atlassian.net/wiki/display/DOCS/Configuring+Splunk+to+Send+HipChat+Notifications) - Configuring Splunk to Send HipChat Notifications
 * [BitMeter OS](https://github.com/codebox/bitmeteros) - a cross platform stupid simple and efficient bandwidth monitoring tool running locally with a web interface. [Downloads, FAQs, Docs](https://codebox.net/pages/tagged/BitMeter%20OS)
 * [monitoring-fr](https://www.monitoring-fr.org/solutions/) - [FR] :fr: Inventory of most recommended open source monitoring solutions
 * [MorganGeek](https://gist.github.com/MorganGeek/73217d0cd8435b2c02e1f17be030b04c) - (2017) monitoring solutions compared
@@ -3592,16 +3575,8 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [nginxconfig.io](https://nginxconfig.io/) - ⚙️ NGiИX config generator on steroids 💉. **Bonus** : [GitHub repository](https://github.com/digitalocean/nginxconfig.io)
 
 ## ServiceNow
-* [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - (2015) Integrating ServiceNow with HipChat
 * [ServiceNow Community](https://community.servicenow.com/thread/224468) - Benefits of integrating ServiceNow with Git
 * [John Andersen](http://www.john-james-andersen.com/blog/service-now/rest-based-servicenow-jira-integration-poc.html) - REST Based ServiceNow / Jira Integration (PoC)
-* [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) - Service Now app store
-* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=REST_API#gsc.tab=0) - REST API
-* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Encoded_Query_Strings#Creating_Encoded_Query_Strings&gsc.tab=0) - Encoded Query Strings
-* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Scripting_in_Business_Rules#gsc.tab=0) - Scripting in Business Rules
-* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Debugging_Business_Rules#gsc.tab=0) - Debugging Business Rules
-* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Fix_Scripts#Testing_Fix_Scripts&gsc.tab=0) - Fix Scripts & Testing Fix Scripts
-* [ServiceNow Docs](http://wiki.servicenow.com/index.php?title=Script_Includes#gsc.tab=0) - Script Includes. Related : [Use Script Includes](https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/server-scripting/concept/c_UseScriptIncludes.html)
 
 # Parenting :baby:
 > News
@@ -4942,7 +4917,6 @@ See also [Dotfiles / Aliases](sections/programming.md#dotfiles--aliases)
 * [Chris Hill](https://medium.com/devopslinks/security-in-the-cloud-what-i-learned-when-aws-almost-billed-me-for-29-594-in-one-day-f234cbeb8100) - (2018) Security in the Cloud: What I learned when AWS (almost) billed me for $29,594 in one day.
 * [Surveillance Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords) - (2017) Creating Strong Passwords
 * [Alexander Reelsen, Javier Fernández-Sanguino Peña](https://www.debian.org/doc/manuals/securing-debian-howto/) - [FR] Securing Debian Manual
-* [Apache Docs](https://httpd.apache.org/docs/2.4/en/misc/security_tips.html) - Security Tips for Apache HTTP server
 * [Daniel Aleksandersen](https://www.ctrl.blog/entry/migrating-to-bitwarden) - (2018) Why I migrated from LastPass to Bitwarden
 * [How Secure Is My Password?](https://howsecureismypassword.net/) - How long it would take a computer to crack your password?
 * [arminc/clair-scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan. **See also** [https://github.com/arminc/clair-local-scan](arminc/clair-local-scan)
