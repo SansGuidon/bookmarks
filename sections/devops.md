@@ -441,7 +441,6 @@
 * :star: [**Andreas Sommer**](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Ansible best practices
 * [YAML Lint](http://www.yamllint.com/) - The YAML Validator
 * [Animosity](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot%27s-introduction-to-yaml) - Complete idiot's introduction to yaml
-* [Ansible Docs](http://ansible-docs.readthedocs.io/zh/stable-2.0/rst/YAMLSyntax.html) - YAML Syntax
 * [Ansible](https://github.com/ansible/ansible-examples) - [ansible-examples] This repository contains examples and best practices for building Ansible Playbooks.
 * [Fred Alger / Mark Theunissen](https://gist.github.com/marktheunissen/2979474) - Insanely complete Ansible playbook, showing off all the options
 * [indusbox/goss-ansible](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
@@ -501,7 +500,6 @@
 * [Chris Short](https://opensource.com/article/16/12/devops-security-ansible-vault) - Improve your DevOps security game with Ansible Vault
 
 ## Argo CD
-* [ArgoCD Docs](https://argo-cd.readthedocs.io/en/stable/getting_started/) - Getting Started
 * [Hakan Kurtulus](https://cheppers.com/how-install-argocd-kubernetes-cluster) - (2021) How to install ArgoCD on Kubernetes Cluster?
 
 ## AWS
@@ -573,9 +571,6 @@ See also [Infrastructure](README.md#infrastructure)
 * [AWS Docs](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html) - Using temporary credentials with AWS resources
 
 ## Bitbucket
-* [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
-* [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver/setting-up-ssh-port-forwarding-776640364.html) - Setting up SSH port forwarding (for BitBucket or other git server)
-* [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver053/search-for-code-in-bitbucket-server-938022411.html) - Search for code in Bitbucket Server
 * [SansGuidon](cheat/bitbucket.md) - bitbucket cheatsheet / tips
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
 
@@ -882,9 +877,6 @@ See also [Infrastructure](README.md#infrastructure)
 * [Robert Sandell / James Nord](https://www.cloudbees.com/sites/default/files/2016-jenkins-world-no_you_shouldnt_do_that_lessons_from_using_pipeline.pdf) - No, You Shouldn't Do That! Lessons from Using Pipeline
 * [Wilson Mar](https://wilsonmar.github.io/jenkins2-pipeline) - Jenkins2 Pipeline jobs using Groovy code in Jenkinsfile
 * [tuxfight3r](https://gist.github.com/tuxfight3r/eca9442ff76649b057ab) - Decrypting Jenkins password
-* [Jenkins Docs](https://jenkins.io/doc/pipeline/steps/) - Pipeline Steps reference
-* [Jenkins Docs](https://jenkins.io/doc/book/pipeline/jenkinsfile/) - Using a Jenkinsfile
-* [Jenkins Docs](https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/) - Pipeline Basic Steps
 * [Jenkins Docs](https://jenkins.io/doc/pipeline/examples/) - Pipeline Examples + [Code on GitHub](https://github.com/jenkinsci/pipeline-examples)
 * [Jenkins Docs](https://jenkins.io/doc/book/pipeline/syntax/) - Pipeline syntax
 * [Jenkins Docs](https://jenkins.ci.cloudbees.com/job/core/job/acceptance-test-harness-stable/changes) - Latest builds of Jenkins acceptance-test-harness-stable. See also [The new Jenkins CI page](https://ci.jenkins.io/)
