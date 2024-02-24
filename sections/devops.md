@@ -109,7 +109,6 @@
 * [Josh @ Overseer](https://engr.overseerlabs.io/fears-and-favorites-from-100-devops-sre-surveys-84a1365a9f18) - Fears and favorites from 100+ DevOps/SRE surveys
 * :star: [**Gregg Caines**](http://caines.ca/blog/2013/03/16/release-ophobia/) - (2013) Release-ophobia
 * [Gregg Caines](http://caines.ca/blog/2012/01/03/your-team-probably-doesnt-have-the-same-dvcs-requirements-as-linus/) - (2012) Your Team Probably Doesn't Have the Same DVCS Requirements as Linus
-* [OpenStack Docs](https://docs.openstack.org/user-guide/cli-cheat-sheet.html) - OpenStack command-line interface cheat sheet
 * [Sqreen](https://devops-security-checklist.sqreen.io/) - The DevOps Security Checklist
 * [David Mytton](https://blog.serverdensity.com/humanops-server-density/) - How we do HumanOps at Server Density
 * [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
@@ -367,7 +366,6 @@
 > * Avoid using personal accounts or credentials.
 > * Automate as much as you can.
 > * Write good code.
-* [The Cloud Posse Developer Hub](https://docs.cloudposse.com/) - You'll find comprehensive guides and documentation to help you start working with the Cloud Posse technology stack as quickly as possible, as well as support if you get stuck. This is also useful as a source of inspiration for your own guides and documentation repositories.
 * [Jessica Joy Kerr aka jessitron](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/) - (2021) When costs are nonlinear, keep it small.
 > - The math of frequent rollouts.
 > - Some things, like laundry, are cheaper when you do them all at once.
@@ -402,7 +400,6 @@
 ## Ansible
 * [Ansible](https://www.ansible.com/blog) - Ansible Blog
 * [Hacker News](https://hn.algolia.com/?query=Ansible&sort=byPopularity&prefix&page=0&dateRange=pastYear&type=story) - last year ansible news
-* [Ansible Docs](http://docs.ansible.com/ansible/latest/playbooks_best_practices.html) - Best Practices
 * [enginyoyen/ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practices of how to use ansible
 * [Timothy Appnel](https://www.ansible.com/blog/ansible-best-practices-essentials) - Ansible Best Practices: The Essentials. **Bonus** : [Video](https://www.ansible.com/videos-ansible-automates-ansible-best-practices-the-essentials)
 * [Pierre Baillet](http://blog.ippon.tech/ansible-tips-and-tricks/) - 10 Ansible tips and tricks
@@ -410,10 +407,7 @@
 * [Ansible Galaxy](https://galaxy.ansible.com/list#/roles?page=1&page_size=10) - Ansible Galaxy Roles
 * [C.J. Scarlett aka Scarlz](http://www.tricksofthetrades.net/2017/03/20/ansible-adhoc-modules/) - (2017) Tricks of the Trades : Ansible - Ad Hoc Commands and Modules
 * [Ansible](https://www.ansible.com/blog/ansible-performance-tuning) - Ansible Performance Tuning (for Fun and Profit)
-* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_filters.html) - Jinja2 Filters
-* [Jinja2 Docs](http://jinja.pocoo.org/docs/dev/templates/#builtin-filters) - Templates and Builtin filters
 * [Remy van Elst](https://raymii.org/s/tutorials/Ansible_-_Only_if_a_file_exists_or_does_not_exist.html) - Ansible - Only if a file exists or does not exist
-* [Ansible Docs](http://docs.ansible.com/ansible/intro_configuration.html) - Available settings in Ansible configuration file
 * [Jens Depuydt](http://jensd.be/587/linux/tips-tricks-for-ansible) - Tips & tricks for Ansible
 * [Maxim Chernyak](http://hakunin.com/six-ansible-practices) - 6 practices for super smooth Ansible experience
 * [nickjj/RoleSpec](https://github.com/nickjj/rolespec) - A test library for testing Ansible roles
@@ -425,16 +419,9 @@
 * [Jeff Geerling](https://github.com/geerlingguy?utf8=%E2%9C%93&tab=repositories&q=ansible&type=&language=) - Lot of good ansible roles examples
 * [Maxime Thoonsen](https://www.theodo.fr/blog/2015/10/best-practices-to-build-great-ansible-playbooks/) - (2015) Best practices to build great Ansible playbooks
 * [Jon Warbrick](https://gist.github.com/andreicristianpetcu/b892338de279af9dac067891579cad7d) - (2014) An Ansible summary : Ansible Cheat Sheet (for Ansible 1.7)
-* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_lookups.html) - Lookups
-* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_variables.html) - Variables
 * [Roland Wolters](https://liquidat.wordpress.com/2016/02/29/useful-options-ansible-cli/) - (2016) Useful command line options for ansible-playbook
-* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_checkmode.html) - Check Mode ("Dry Run") - because you just want to test sometimes
-* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_roles.html#task-include-files-and-encouraging-reuse) - Playbook Roles and Include Statements
-* [Ansible Docs](http://docs.ansible.com/ansible/user_module.html) - user - Manage user accounts
-* [Ansible Docs](http://docs.ansible.com/ansible/authorized_key_module.html) - Authorized_key - Adds or removes an SSH authorized key
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible-modules/) - For a Few Ansible Modules More
 * [Joseph Kahn](https://blog.josephkahn.io/articles/ansible/) - Ansible or: How I Learned to Stop Wasting Time Setting Up My Computer and Script It
-* [Ansible Docs](http://docs.ansible.com/ansible/dev_guide/developing_modules.html#example) - Developing Modules
 * [Raphael Campardou](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Ansible (Real Life) Good Practices
 * [Deni Bertović](https://goodcode.io/articles/ansible-tips/) - Ansible tips
 * [Marlon Bernardes](http://codeheaven.io/15-things-you-should-know-about-ansible/) - 15 Things You Should Know About Ansible
@@ -448,7 +435,6 @@
 * [Łukasz Szczęsny](https://www.youtube.com/watch?v=-dofUuTIbAA) - [Video] JaaC - Jenkins as a Code
 * [Faheetah](https://gist.github.com/Faheetah/3dba8d86bb55a4e35726) - Ansible bash module boilerplate
 * [Corban Raun](https://blog.serverdensity.com/what-ive-learnt-from-using-ansible-exclusively-for-2-years/) - Lessons from using Ansible exclusively for 2 years.
-* [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
 * [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
 * [Nathan LeClaire](https://nathanleclaire.com/blog/2015/11/10/using-ansible-with-docker-machine-to-bootstrap-host-nodes/) - (2015) Using Ansible with Docker Machine to Bootstrap Host Nodes
 * [Maxim Chernyak](http://hakunin.com/six-ansible-practices#avoid-perpetually-changed-and-skipping-tasks) - Avoid perpetually “changed” and “skipping” tasks
@@ -461,7 +447,6 @@
 * [indusbox/goss-ansible](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
 * [Stack Exchange](https://devops.stackexchange.com/a/706/3072) - How to test provisioning and configuration in Ansible setup?
 * [Pedro Artino](https://velenux.wordpress.com/2017/07/31/ansible-how-to-skip-a-specific-host-or-group-in-a-playbook/) - (2017) Ansible: how to skip a specific host or group in a playbook
-* [Ansible Docs](http://docs.ansible.com/ansible/latest/list_of_all_modules.html) - All ansible modules
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/running-ansible-within-windows) - (2014) Running Ansible within Windows
 * [Jeff Geerling](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux) - (2016) Using Ansible through Windows 10's Subsystem for Linux
 * [openstack/ARA](https://github.com/openstack/ara) - ARA: Ansible Run Analysis records Ansible Playbook runs and provides intuitive interfaces to browse them
@@ -469,9 +454,7 @@
 * [ansible/awx](https://github.com/ansible/awx) - AWX provides an UI, API and task engine on top of Ansible. It is the open source upstream project for commercial Ansible Tower
 * [Serverspec](http://serverspec.org/) - RSpec tests for your servers configured by CFEngine, Puppet, Ansible, Itamae or anything else
 * [jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
-* [ansible-console](https://docs.ansible.com/ansible/latest/ansible-console.html) - a REPL that allows for running ad-hoc tasks against a chosen inventory (based [dominis/ansible-shell](https://github.com/dominis/ansible-shell))
 * [Cliffano Subagio](http://blog.cliffano.com/2014/04/06/human-readable-ansible-playbook-log-output-using-callback-plugin/) - (2014) Human-Readable Ansible Playbook Log Output Using Callback Plugin
-* [Ansible Docs](http://docs.ansible.com/ansible/latest/playbooks_intro.html#handlers-running-operations-on-change) - Handlers: Running Operations On Change + notify & listen
 * [volanja/ansible_spec](https://github.com/volanja/ansible_spec) - a ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration (or TDD).
 * [Bjoern Meier](http://reinout.vanrees.org/weblog/2017/10/26/6-ansible.html) - (2017) PyCon.de: use ansible properly or stick to your scripts. **Bonus** : [Slides in PDF](https://github.com/blue-yonder/documents/blob/master/presentations/PyCon.DE%202017/No_Compromise-Use_Ansible_properly%20_or_stick_to_your_scripts.pdf)
 * [Ansible-Semaphore](https://github.com/ansible-semaphore/semaphore) - open source Ansible UI
@@ -499,7 +482,6 @@
 * [Dmitriy Samovskiy](http://www.somic.org/2016/04/12/rise-of-new-operations/) - (2016) The Rise of New Operations
 * [Stack Exchange](https://devops.stackexchange.com/questions/98/how-to-test-provisioning-and-configuration-in-ansible-setup) - (2017) How to test provisioning and configuration in Ansible setup? Solutions : Goss, Testinfra, Serverspec, Inspec
 * [/r/devops](https://www.reddit.com/r/devops/comments/629dj3/jenkinsansible_vs_jenkinsansibleansible_tower/) - Jenkins+Ansible vs Jenkins+Ansible+Ansible Tower
-* [Ansible Docs](http://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html#variable-precedence-where-should-i-put-a-variable) - Ansible variable precedence rules
 * [Jakub Skałecki](https://rock-it.pl/managing-multiple-environments-with-ansible-best-practices/) - (2017) Managing multiple environments with Ansible - best practices
 * [Ansible](https://www.ansible.com/resources/videos/ansiblefest-london-2017) - [Videos] (2017) AnsibleFest London Videos
 * [Jonathan Lozada De La Matta (Red Hat)](https://opensource.com/article/18/7/sysadmin-tasks-ansible) - (2018) A sysadmin's guide to Ansible: How to simplify tasks
@@ -509,7 +491,6 @@
 
 ### Ansible Vault
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - Ansible role for Vault
-* [Ansible Docs](http://docs.ansible.com/ansible/playbooks_vault.html#what-can-be-encrypted-with-vault) - Ansible Vault Documentation
 * [Michael DeHaan](https://www.ansible.com/blog/2014/02/19/ansible-vault) - (2014) Introducing Ansible Vault : keeping encrypted data in Playbooks
 * [Patrice Laurent](https://www.patricelaurent.net/ansible-vault-cryptage-git/) - [FR] :fr: Ansible Vault : Automatiser le chiffrement avec Git
 * [Dan Tehranian](https://dantehranian.wordpress.com/2015/07/24/managing-secrets-with-ansible-vault-the-missing-guide-part-1-of-2/) - (2015) Managing Secrets with Ansible Vault – The Missing Guide (Part 1 of 2)
@@ -595,10 +576,8 @@ See also [Infrastructure](README.md#infrastructure)
 * [Atlassian Docs](https://developer.atlassian.com/stash/docs/latest/how-tos/updating-build-status-for-commits.html) - Updating build status for commits
 * [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver/setting-up-ssh-port-forwarding-776640364.html) - Setting up SSH port forwarding (for BitBucket or other git server)
 * [Atlassian Docs](https://confluence.atlassian.com/bitbucketserver053/search-for-code-in-bitbucket-server-938022411.html) - Search for code in Bitbucket Server
-* [MorganGeek](cheat/bitbucket.md) - bitbucket cheatsheet / tips
+* [SansGuidon](cheat/bitbucket.md) - bitbucket cheatsheet / tips
 * [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
-* [Atlassian Docs](https://developer.atlassian.com/docs/) - Product guides & APIs for Confluence, Bitbucket, Stride / Hipchat, Jira, Bamboo...
-* [MorganGeek](https://github.com/MorganGeek/bookmarks/blob/master/cheat/bitbucket.md) - My cheatsheet for Bitbucket
 
 ## ChatOps
 > Tools
@@ -612,16 +591,9 @@ See also [Infrastructure](README.md#infrastructure)
 * [Rocket.Chat](https://rocket.chat/) - your self hosted cross-platform open source chat solution as an alternative to slack. Related : [RocketChat GitHub repo](https://github.com/RocketChat/Rocket.Chat), [Integrate with Rocket.Chat !](https://github.com/RocketChat/Rocket.Chat.Ops)
 * [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat) - Rocket.Chat Hubot adapter
 * [Lita](https://www.lita.io/) - A free extensible robot companion, written in Ruby, for your company's chat room. [Plugins here](https://plugins.lita.io/)
-* [Atlassian Docs](https://confluence.atlassian.com/hipchatkb/using-bots-in-hipchat-753404057.html) - Using bots in HipChat : Lita, Hubot, Will, wobot, Err...
-* [HipChat Docs](https://developer.atlassian.com/hipchat) - HipChat developer documentation. [Rest API here](https://developer.atlassian.com/hipchat/guide/hipchat-rest-api), [Sending Messages here](https://developer.atlassian.com/hipchat/guide/sending-messages), [Send room notifications](https://www.hipchat.com/docs/apiv2/method/send_room_notification), [Send room message](https://www.hipchat.com/docs/apiv2/method/send_message), [Capabilities description](https://www.hipchat.com/docs/apiv2/capabilities)
-* [Atlassian](http://botlab.hipch.at/) - HipChat Bot Lab : ready to use bots
-* [Dan Riti](https://gist.github.com/danriti/7345074) - example of how sending messages to a HipChat room using curl and API v2
 * [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
-* [bonovoxly/ansible_snippets](https://github.com/bonovoxly/ansible_snippets/blob/master/snippets.yml) - ansible snippet to notify hipchat room from ansible
-* [hipchat/hubot-hipchat](https://github.com/hipchat/hubot-hipchat) - HipChat adapter for Hubot
 * [Jabber plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Jabber+Plugin)
 * [Cisco Spark](https://depot.ciscospark.com/integrations/categories/developer-tools) - Cisco Spark integrations with developer tools
-* [Joey Day](http://joeyday.com/2015/05/18/integrating-servicenow-with-hipchat/) - (2015) Integrating ServiceNow with HipChat
 * [bhuga/hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc) - hubot-chatops-rpc : Easily add RPC endpoints to your hubot.
 * [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
 * [Dylan Murray](https://blog.openshift.com/rocket-chat-ansible-playbook-bundle-development-deployment-tutorial/) - (2018) Rocket.Chat Ansible Playbook Bundle Development & Deployment Tutorial
@@ -629,7 +601,6 @@ See also [Infrastructure](README.md#infrastructure)
 * [Mattermost](https://about.mattermost.com/community-applications/) - Mattermost Apps and Integrations
 * [Rocket.Chat Docs](https://rocket.chat/docs/administrator-guides/integrations/) - Rocket.Chat Integrations
 * [Matrix.org Blog](https://matrix.org/blog/home/) - An open network for secure, decentralized communication.
-* [Rudolf Olah](https://sourcecontribute.com/2015/09/26/zulip-slack-hipchat-competitor/) - (2015) Zulip, an Open Source Slack competitor
 * [Rudolf Olah](https://sourcecontribute.com/2017/09/10/riot-im-0-12-is-out-yes-its-better-than-slack/) - (2017) Riot.im 0.12 is out, yes it’s better than Slack | but I see a very small number of [apps, tools and bridges](https://about.riot.im/apps-bots-and-bridges/). See also [Running your own encrypted chat service with Matrix and Riot](https://gist.github.com/attacus/cb5c8a53380ca755b10a5b37a636a0b9)
 * [Bill Doerrfeld](https://nordicapis.com/12-frameworks-to-build-chatops-bots/) - (2016) 12+ Frameworks to Build ChatOps Bots
 * [Zulip](https://zulipchat.com/integrations/) - all native integrations for Zulip
@@ -695,16 +666,10 @@ See also [Infrastructure](README.md#infrastructure)
 > Learn
 * [Derek E. Weeks](https://devops.com/21-devops-docker-reference-architectures/) - 21 DevOps and Docker Reference Architectures
 * [Deni Bertovic](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/) - Handling Permissions with Docker Volumes
-* [Docker Docs](https://docs.docker.com/engine/swarm/secrets/) - Manage sensitive data with Docker secrets
 * [Docker Store](https://store.docker.com/search?q=source%3Dverified&source=verified&type=image) - Containers from verified source
 * [Denis Gladkikh](https://www.splunk.com/blog/2015/08/24/collecting-docker-logs-and-stats-with-splunk/) - (2015) Collecting docker logs and stats with Splunk
-* [Docker Docs](https://docs.docker.com/engine/admin/logging/splunk/) - Splunk logging driver
 * [Denis Gladkikh](https://www.splunk.com/blog/2015/12/16/splunk-logging-driver-for-docker/) - (2015) Splunk Logging Driver for Docker
 * [Yohan Liyanage](http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/) - (2015) Docker – Clean Up After Yourself!
-* [Docker Docs](https://docs.docker.com/engine/reference/commandline/build/) - docker build
-* [Docker Docs](https://docs.docker.com/engine/reference/commandline/run/) - docker run
-* [Docker Docs](https://docs.docker.com/engine/reference/commandline/exec/) - docker exec
-* [Docker Docs](https://docs.docker.com/engine/reference/commandline/commit/#examples) - docker commit examples
 * [Flux7 Labs](http://blog.flux7.com/blogs/docker/docker-tutorial-series-part-9-10-docker-remote-api-commands-for-images) - 10 Docker Remote API Commands for Images
 * [Stack Overflow](https://stackoverflow.com/questions/30604846/docker-error-no-space-left-on-device) - Docker error : no space left on device
 * [James Coyle](https://www.jamescoyle.net/how-to/1512-export-and-import-a-docker-image-between-nodes) - Export and Import a Docker Image Between Nodes
@@ -987,8 +952,6 @@ See also [Infrastructure](README.md#infrastructure)
 * [Sam Gleske](https://www.youtube.com/watch?v=qaUPESDcsGg) - [Video] Jenkins World 2017: Mastering the Jenkins Script Console. **Bonus** : [demos source code](https://github.com/samrocketman/demo-jenkins-world-2017) and [source code to demo what has been learned during the video](https://github.com/samrocketman/jenkins-bootstrap-jervis)
 * [samrocketman/jenkins-script-console-scripts](https://github.com/samrocketman/jenkins-script-console-scripts) - A repository of one-off script console scripts for Jenkins.
 * [rusty-dev/jenkins-job-builder-pipeline](https://github.com/rusty-dev/jenkins-job-builder-pipeline) - Pipeline support for jenkins-job-builder
-* [OpenStack Docs](https://docs.openstack.org/infra/system-config/jjb.html) - Documentation for Jenkins Job Builder; a system for configuring Jenkins jobs using simple YAML files stored in Git.
-* [OpenStack Docs](https://docs.openstack.org/infra/jenkins-job-builder/project_pipeline.html) - Jenkins Job Builder documentation for the Pipeline Project module
 * [Hannah Inman](https://www.cloudbees.com/blog/jenkins-world-speaker-highlight-automated-software-maintenance) - (2017) Jenkins World Speaker Highlight: Automated Software Maintenance | use periodic builds for fast detection of CI/CD failures
 * [Jenkins Docs](https://jenkins.io/doc/tutorials/) - tutorials showing how to use Jenkins to cover the basics of CI/CD
 * [Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Groovy+Hook+Script) - Groovy Hook Scripts
@@ -1120,7 +1083,6 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Kentaro Wakayama](https://codersociety.com/blog/articles/helm-best-practices) - (2021) 13 Best Practices for using Helm | Helm is an indispensable tool for deploying applications to Kubernetes clusters. But it is only by following best practices that you’ll truly reap the benefits of Helm. Here are 13 best practices to help you create, operate, and upgrade applications using Helm.
 * [Stéphane Robert](https://blog.stephane-robert.info/post/kubernetes-start-with-manifest-writing/) - :fr: [FR] (2022) Ecrire ses premiers manifests Kubernetes
 * [Stéphane Robert](https://blog.stephane-robert.info/post/kubernetes-ecriture-manifests/) - :fr: [FR] (2021) Progresser dans l’écriture des manifests Kubernetes
-* [Kubernetes Docs](https://kubernetes.io/docs/concepts/extend-kubernetes/) - Extending Kubernetes : Kubernetes is highly configurable and extensible. As a result, there is rarely a need to fork or submit patches to the Kubernetes project code.
 * [Ivan Velichko](https://iximiuz.com/en/posts/kubernetes-operator-pattern/) - (2021) Exploring Kubernetes Operator Pattern
 * [Piotr Perzyna](https://blog.container-solutions.com/kubernetes-operators-explained) - (2020) Kubernetes Operators Explained. **Via** (2022) [A Tour of The Kubernetes Ecosystem](https://cult.honeypot.io/reads/the-kubernetes-ecosystem/)
 * [Deep Datta](https://jfrog.com/fr/blog/10-helm-tutorials-to-start-your-kubernetes-journey/) - :fr: [FR] (2021) 10 Tutoriels Helm pour Démarrer votre Parcours Kubernetes
@@ -1217,25 +1179,13 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [Tom Donohue](https://cleverbuilder.com/articles/openshift-nexus-docker-registry/) - (2017) Deploy and use the Nexus Docker registry in OpenShift
 
 ## OpenShift
-* [OpenShift Docs](https://ci.openshift.redhat.com/openshift-docs-master-testing/latest/welcome/index.html) - OpenShift Latest Documentation
 * [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news
 * [OpenShift](https://www.openshift.com/container-platform/features.html) - Features and Benefits of OpenShift
 * [Marek Jelen](https://blog.openshift.com/deploying-from-private-git-repositories/) - Deploying From Private Git Repositories
-* [OpenShift Docs](https://docs.openshift.org/latest/minishift/using/interacting-with-openshift.html) - Interacting with OpenShift - Using Minishift
-* [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/cli_reference/basic_cli_operations.html) - Developer CLI Operations
 * [Rafael Benevides](https://developers.redhat.com/blog/2016/10/11/four-creative-ways-to-create-an-openshiftkubernetes-dev-environment/) - (2016) Four creative ways to create an OpenShift/Kubernetes dev environment
 * [Chris Houseknecht](https://galaxy.ansible.com/chouseknecht/minishift-up-role/) - Ansible Galaxy : chouseknecht.minishift-up-role - Run OpenShift locally using minishift
-* [OpenShift Docs](https://docs.openshift.com/enterprise/3.0/admin_guide/http_proxies.html) - Working with HTTP Proxies
-* [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/build_inputs.html#using-a-proxy-for-git-cloning) - Using a Proxy for Git cloning
-* [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/index.html) - How Builds Work
-* [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/dev_guide/builds.html) - Builds
-* [OpenShift Docs](https://docs.openshift.org/latest/minishift/getting-started/installing.html) - Installing Minishift
-* [OpenShift Docs](https://docs.openshift.com/enterprise/3.1/dev_guide/deployments.html) - Deployments
-* [OpenShift Docs](https://docs.openshift.com/container-platform/3.4/install_config/persistent_storage/persistent_storage_glusterfs.html) - Persistent Storage Using GlusterFS
-* [OpenShift Docs](https://access.redhat.com/solutions/1542293) - Troubleshooting OpenShift Container Platform: Basics
 * [Red Hat Customer Portal](https://access.redhat.com/documentation/en-us/openshift_enterprise/3.1/html/cluster_administration/admin-guide-sdn-troubleshooting) - Troubleshooting OpenShift SDN
 * [openshift/debugging-openshift](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md) - Debugging / Troubleshooting OpenShift
-* [OpenShift Docs](https://docs.openshift.com/enterprise/3.0/dev_guide/new_app.html) - Creating New Applications
 * [OpenShift](https://www.openshift.com/container-platform/resources.html) - Learning Resources (webinars, datasheets, whitepapers, infographic, tools, videos...)
 * [OpenShift](https://blog.openshift.com/openshift-v3-deep-dive-docker-kubernetes/) - OpenShift V3 Deep Dive Tutorial | The Next Generation of PaaS
 * [OCTO Talks](http://blog.octo.com/openshift-3-le-paas-prive-avec-docker/) - [FR] :fr: OpenShift 3 : le PaaS privé avec Docker
@@ -1250,13 +1200,10 @@ curl --user username:password -X POST -F "jenkinsfile=<Jenkinsfile" http://jenki
 * [OpenShift](https://commons.openshift.org/videos.html) - [Videos] Watch videos from OpenShift Commons Gathering events
 * [RedHat Summit](https://www.youtube.com/playlist?list=PLEGSLwUsxfEjolewXub1rSgvILhc2OYQS) - [Videos] RedHat Summit 2017 Breakout Sessions, topics being DevOps, OpenShift, Development, OpenStack...
 * [OpenShift](https://www.openshift.com/container-platform/kubernetes.html) - OpenShift platform / Features matrix : How Does OpenShift Extend Kubernetes?
-* [OpenShift Docs](https://docs.openshift.org/latest/using_images/other_images/jenkins.html) - Using Jenkins Images in OpenShift
-* [OpenShift Docs](https://docs.openshift.org/latest/dev_guide/builds/build_strategies.html) - Build Strategy Options in OpenShift
 * [OpenShift Origin](https://github.com/openshift/origin/tree/master/examples) - OpenShift Origin examples on GitHub
 * [Curtis Yanko](http://blog.sonatype.com/nexus-in-openshift) - Nexus in Openshift
 * [Christoph Görn](http://rhelblog.redhat.com/2016/10/03/peace-in-our-time/) - (2016) Peace in Our Time: Bringing Ops and Dev Together
 * [Tom Donohue](https://cleverbuilder.com/articles/openshift-nexus-docker-registry/) - (2017) Deploy and use the Nexus Docker registry in OpenShift
-* [Red Hat Docs](https://access.redhat.com/documentation/en-us/openshift_container_platform/3.7/html/day_two_operations_guide/) - Day Two Operations Guide for OpenShift Container Platform 3.7
 * [Jorge Tudela Gonzales De Riancho](https://blog.openshift.com/oc-command-newbies/)# - (2018) The oc Command for Newbies
 * [OpenShift](https://www.openshift.com/devops-with-openshift/) - [Book] DevOps with OpenShift
 * [Tomasz Cholewa](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/) - (2019) 10 most important differences between OpenShift and Kubernetes
@@ -1453,17 +1400,11 @@ See also [Infrastructure](README.md#infrastructure)
 * [Katacoda](https://www.katacoda.com/courses/docker-production/vault-secrets) - Interactive Course : Docker in Production - Store Secrets using HashiCorp Vault
 * [Vyacheslav Voronenko](https://www.codementor.io/slavko/how-to-install-vault-hashicorp-secure-deployment-secrets-du107xlqd) - Using Vault to Secure Your Deployment Secrets
 * [brianshumate/ansible-vault](https://github.com/brianshumate/ansible-vault) - ansible-vault : Ansible role for HashiCorp Vault
-* [Vault Docs](https://www.vaultproject.io/docs/auth/userpass.html) - Auth Backend: Username & Password
 * [HashiCorp](https://www.hashicorp.com/blog/vault-0-6/) - Vault 0.6 Release announcement
 * [Sreenivas Makam](https://sreeninet.wordpress.com/2016/10/01/vault-use-cases/) - (2016) Vault – Use cases
-* [Vault Docs](https://www.vaultproject.io/docs/secrets/ssh/) - SSH Secret Backend
-* [Vault Docs](https://www.vaultproject.io/api/) - HTTP API
-* [Vault Docs](https://www.vaultproject.io/intro/getting-started/authentication.html) - Authentication
 * [Peter A. Tierno](https://wiki.jenkins-ci.org/display/JENKINS/HashiCorp+Vault+Plugin) - HashiCorp Vault Plugin for Jenkins
 * [Seth Vargo](https://www.hashicorp.com/blog/codifying-vault-policies-and-configuration/) - Codifying Vault Policies and Configuration
 * [Martin Rusev](https://web.archive.org/web/20170118081713/https://www.amon.cx/blog/managing-all-secrets-with-vault/) - (2016) Managing all your secrets with Vault - Review and Walkthrough
-* [Vault Docs](https://www.vaultproject.io/intro/getting-started/acl.html) - Access Control Policies (ACLs)
-* [Vault Docs](https://www.vaultproject.io/docs/concepts/tokens.html) - Tokens
 * [Raffaele Spazzoli](https://blog.openshift.com/managing-secrets-openshift-vault-integration/) - Managing Secrets on OpenShift – Vault Integration
 * [Armon Dadgar](https://www.hashicorp.com/blog/why-we-need-dynamic-secrets) - (2018) Why We Need Dynamic Secrets | how applications do a terrible job keeping secrets, and why we need to embrace ephemeral credentials, or "Dynamic Secrets" in Vault.
 * [Armon Dadgar](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) - [Podcast] (2017) SE-Radio Episode 311: Armon Dadgar on Secrets Management
