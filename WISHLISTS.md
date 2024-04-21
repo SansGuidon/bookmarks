@@ -20,8 +20,8 @@
 * [SensCritique](https://www.senscritique.com/liste/Envies_apocalyptiques/389265) - Apocalyptic movies
 
 #### Music
-* [RateYourMusic](https://fr.rateyourmusic.com/collection/MorganGeek/stag/to+listen/) - music to listen to
-* [RateYourMusic](https://fr.rateyourmusic.com/collection/MorganGeek/wishlist) - Wishlist (music to buy)
+* [RateYourMusic](https://fr.rateyourmusic.com/collection/SansGuidon/stag/to+listen/) - music to listen to
+* [RateYourMusic](https://fr.rateyourmusic.com/collection/SansGuidon/wishlist) - Wishlist (music to buy)
 * [SensCritique](https://www.senscritique.com/MorganGeek/collection/wish/albums/all/all/all/all/all/all/gallery/page-1) - Albums to listen to
 * [SensCritique](https://www.senscritique.com/MorganGeek/collection/wish/morceaux/all/all/all/all/all/all/gallery/page-1) - Songs to listen to 
 
@@ -44,15 +44,22 @@
 
 ## Different material desires ###
 
+### Solid wishes
+those are there for long time
+
 ### Wishes 
-* [ ] audible subscription but it's owned by amazon and [I want to move away from them 🤔](https://github.com/MorganGeek/bookmarks/projects/2)
 * [ ] lakube subscription
 * [ ] drive a vw combi (van)
-* [ ] a good book on coffee recipes / barista techniques (e.g : https://www.cafemag.fr/bibliotheque-cafe/)
 * [ ] nerd socks 🤓
 * [ ] good book on beer/food recipes or pairing, https://www.club.be/p/beerstronomy-9789401449168 ? 
-* [ ] musical instrument (guitar, bass, piano, ... ?)
+* [ ] play musical instrument (guitar, bass, piano, ... ?)
 * [ ] silent manual coffee grinder
+* [ ] a good quick solo board game apocalyptic mode
+
+### Wishes no more
+I changed my mind
+* ~~a good book on coffee recipes / barista techniques (e.g : https://www.cafemag.fr/bibliotheque-cafe/)~~
+* ~~audible subscription but it's owned by amazon and I want to move away from them 🤔~~
 
 ### Wishes fulfilled
 * [x] manual coffee grinder for espresso, french press and aeropress but I got a breville / sage barista express so not needed
