@@ -46,20 +46,21 @@
 
 ### Solid wishes
 those are there for long time
+* [ ] good book on (belgian) beer/food recipes or pairing, https://www.club.be/p/beerstronomy-9789401449168 ? 
+* [ ] play musical instrument (guitar, bass, piano, ... ?)
 
 ### Wishes 
-* [ ] lakube subscription
-* [ ] drive a vw combi (van)
 * [ ] nerd socks 🤓
-* [ ] good book on beer/food recipes or pairing, https://www.club.be/p/beerstronomy-9789401449168 ? 
-* [ ] play musical instrument (guitar, bass, piano, ... ?)
 * [ ] silent manual coffee grinder
-* [ ] a good quick solo board game apocalyptic mode
+* [ ] a good quick solo board game apocalyptic mode, even paper
+* [ ] a good brain teaser wood etc
 
 ### Wishes no more
 I changed my mind
 * ~~a good book on coffee recipes / barista techniques (e.g : https://www.cafemag.fr/bibliotheque-cafe/)~~
 * ~~audible subscription but it's owned by amazon and I want to move away from them 🤔~~
+* ~~lakube subscription~~
+* ~~drive a vw combi (van)~~
 
 ### Wishes fulfilled
 * [x] manual coffee grinder for espresso, french press and aeropress but I got a breville / sage barista express so not needed
