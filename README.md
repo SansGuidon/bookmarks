@@ -2028,7 +2028,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - List of alternative services to de-google-ify Internet and many other such services.
 * :star: [**regex101**](https://regex101.com/) - Free Online PCRE-based regular expression tester and debugger with real time explanation, error detection and highlighting for PHP, PCRE, Python, Golang and JavaScript
 * [Rextester](https://rextester.com/) - run code online
-* [JSON to YAML](https://www.json2yaml.com/) - Convert JSON to YAML online
+* [JSON to YAML](https://www.bairesdev.com/tools/json2yaml/) - Convert JSON to YAML online
 * [globtester](http://www.globtester.com/) - a little utility for testing minimatch. Can also be used as ANT Style Pattern Matcher
 * [Spotify Library Exporter](https://spotify-library-exporter.herokuapp.com/) - a tool to download your Spotify library as a CSV to be used elsewhere. Can also be useful to migrate from Spotify to Apple Music, backup your library to use elsewhere, keep a record offline. It doesn't matter! 🎉
 * [PlaylistConverter](http://www.playlist-converter.net/) - Convert your Playlist from multiple Music Services and File Format. Works for Spotify too
