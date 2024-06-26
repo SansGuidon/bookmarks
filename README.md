@@ -51,9 +51,6 @@ by [**MorganGeek**](https://morgan.zoemp.be/)
   * [Bitbucket](sections/devops.md#bitbucket)
   * [ChatOps](sections/devops.md#chatops)
   * [Containers](sections/devops.md#containers)
-  * [Gradle](sections/devops.md#gradle)
-  * [Jenkins](sections/devops.md#jenkins)
-    * [Jenkinsfile runner](sections/devops.md#jenkinsfile-runner)
   * [Kubernetes](sections/devops.md#kubernetes)
   * [Microservices](sections/devops.md#microservices)
   * [Maven](sections/devops.md#maven)
@@ -104,11 +101,9 @@ by [**MorganGeek**](https://morgan.zoemp.be/)
   * [Apache](#apache)
   * [Atlassian](#atlassian)
   * [Infrastructure](#infrastructure)
-  * [Jira](#jira)
   * [Logging](#logging)
   * [Monitoring](#monitoring)
   * [Nginx](#nginx)
-  * [ServiceNow](#servicenow)
 * [Parenting :baby:](#parenting-baby)
 * [Performance](#performance)
 * [Philosophy :thought_balloon:](#philosophy-thought_balloon)
@@ -1836,6 +1831,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [RTBF](https://www.rtbf.be/archive/vivre-ici-produits-belges) - :fr: 🇧🇪 [FR] [BE] Tout le contenu made in belgium
 * [RTBF](https://www.rtbf.be/archive/vi-initiatives-locales) - :fr: 🇧🇪 [FR] [BE] Tout le contenu initiatives locales
 * [buyOrNot](https://i-buycott.org/lapplication-mobile-buyornot/#iframe_assoconnect) - :fr: [FR] L’application qui décrypte les étiquettes pour consommer éthique : pour soi, pour nous et pour la planète !
+* [QuackQuackGo](https://quackquackgo.net/) - is a front-end UI for Google Search. No ads or tracking on QuackQuackGo. Just 10 blue links on the results page. QuackQuackGo does not need JS or cookies to function. 
 
 ## App discovery
 * :fire: [**AlternativeTo**](https://alternativeto.net/) - crowdsourced software recommendations, find alternatives to existing softwares
@@ -3489,30 +3485,6 @@ See also [AWS](#aws) and [Terraform](#terraform)
 * [Adarsh Shah](https://itnext.io/principles-patterns-and-practices-for-effective-infrastructure-as-code-e5f7bbe13df1) - (2020) Principles, Patterns, and Practices for Effective Infrastructure as Code | Deliver Infrastructure and Software running on it Rapidly and Reliably at Scale
 * [Stéphane Robert](https://blog.stephane-robert.info/post/infra-as-code-policy-check-regula/) - :fr: [FR] (2021) Regula l’outil d’Analyse Statique pour l’Infra As Code
 
-## Jira
-> News
-* [Atlassian Jira](https://jira.atlassian.com/secure/Dashboard.jspa?selectPageId=85890&utm_source=newsletter-email&utm_medium=email&utm_campaign=cops-dc-server-investment-2_EML-4343&jobid=104097550&subid=1419604548) - Jira Server and Data Center: current work and future plans dashboard.
-
-> Learn
-* [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
-* [Dan Radigan](https://www.atlassian.com/blog/jira-software/8-steps-to-jira-field-greatness) - (2013) 8 steps to Jira field greatness
-* [Dan Radigan](https://www.atlassian.com/blog/jira-software/building-workflow-awesome) - (2013) Building an awesome Jira workflow: concepts and examples
-* [tehranian/docker-atlassian-jira](https://github.com/tehranian/docker-atlassian-jira) - Docker build for Atlassian Jira
-* [John Andersen](http://www.john-james-andersen.com/blog/service-now/rest-based-servicenow-jira-integration-poc.html) - REST Based ServiceNow / Jira Integration (PoC)
-* [Maksym Grebenets](http://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages) - (2015) JIRA ID in Git Commit Messages
-* [Adam Boczek](https://emea.nttdata.com/blog/en/jira-workflows-from-the-trenches/) - (2016) JIRA Workflows from the Trenches | The Problem with the Standard Configuration + Some useful Practices and Rules
-* [Idalko](https://www.idalko.com/jira-workflow-best-practices/) - (2018) A guide to Jira workflow best practices (with examples)
-* [Idalko](https://www.idalko.com/worst-common-advice-for-jira/) - (2018) The worst (common) advice for Jira that is killing your productivity
-* [Vjaceslavs Kreidikovs](https://medium.com/chili-labs/why-workflows-are-important-in-your-work-70e4641913bd) - (2018) JIRA workflow configuration tips, explanation & examples
-* [Kim Wall](https://www.atlassian.com/blog/jira-software/human-side-scaling-jira-software-governance-custom-fields-admins) - (2017) The human side to scaling Jira software: governance, change control, and more
-* [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver0710/project-screens-schemes-and-fields-953144607.html) - Project screens, schemes and fields
-* [Atlassian Community](https://community.atlassian.com/t5/Jira-discussions/What-would-be-your-advice-to-first-time-Jira-Software-admins/td-p/711667) - (2018) What would be your advice to first-time Jira Software admins? | good tips & tricks in answers
-* [Atlassian Docs](https://confluence.atlassian.com/adminjiraserver071/configuring-a-custom-field-802592532.html?_ga=2.69739668.52022900.1536230565-1749018630.1466933040#Configuringacustomfield-add_schemeAddinganewcontext) - Configuring a custom field : Adding a new context | Adding a new context allows you to configure a custom field differently for different combinations of issue types and projects.
-* [jira-python Docs](https://jira.readthedocs.io/en/master/examples.html) - Jira-python lib usage examples
-* [Atlassian Docs](https://confluence.atlassian.com/jirakb/enable-dark-feature-in-jira-959286331.html) - Enable Dark Feature in Jira
-* [lusarz/jira-node-cli](https://github.com/lusarz/jira-node-cli) - JIRA command line interface written in NodeJS
-* [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira, more complete than jira-node-cli
-
 ## Logging
 * [Splunk Plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Splunk+Plugin+for+Jenkins)
 * [LZone](http://lzone.de/cheat-sheet/Splunk) - Splunk Cheat Sheet
@@ -3572,10 +3544,6 @@ See also [Operations / IT OPS](#operations--it-ops)
 * [oci-pronghorn/GreenLightning](https://github.com/oci-pronghorn/GreenLightning) - Small Java HTTP/s server many times faster than Netty or NGINX
 * [Cody Parker](https://codyparker.com/force-entire-site-ssl-nginx-behind-aws-load-balancer/) - (2017) How To Force HTTPS in NGINX behind a classic AWS Load Balancer
 * [nginxconfig.io](https://nginxconfig.io/) - ⚙️ NGiИX config generator on steroids 💉. **Bonus** : [GitHub repository](https://github.com/digitalocean/nginxconfig.io)
-
-## ServiceNow
-* [ServiceNow Community](https://community.servicenow.com/thread/224468) - Benefits of integrating ServiceNow with Git
-* [John Andersen](http://www.john-james-andersen.com/blog/service-now/rest-based-servicenow-jira-integration-poc.html) - REST Based ServiceNow / Jira Integration (PoC)
 
 # Parenting :baby:
 > News
