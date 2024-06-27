@@ -24,8 +24,6 @@
 * [Java](#java)
   * [Java EE](#java-ee)
 * [JavaScript](#javascript)
-* [Kafka](#kafka)
-* [Kotlin](#kotlin)
 * [Lisp](#lisp)
 * [Machine learning](#machine-learning)
 * [Mobile development :iphone:](#mobile-development-iphone)
@@ -1543,25 +1541,6 @@ February 6, 2022. **Related** : [Video] [Getting Started with Generics in Go](ht
 * [JavaScript Rising Stars](https://risingstars.js.org) - If you took a break to escape the JavaScript fatigue, you are in the right place! 
 * [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-## Kafka
-> News
-* [Confluent Blog](https://www.confluent.io/blog/) - Tutorials, Tips, and News Updates
-* [The Apache Software Foundation Blogs](https://blogs.apache.org/kafka/) - Kafka news
-
-> Learn
-* [Ruurtjan Pul](https://scribe.rip/understanding-kafka-with-factorio-74e8fc9bf181) - (2018) Understanding Kafka with Factorio
-* [Antoine Veuiller](https://hackernoon.com/the-apprentices-guide-to-apache-kafka-n31w35ef) - (2021) The Apprentice's Guide to Apache Kafka
-* [sudan](https://ssudan16.medium.com/kafka-internals-47e594e3f006) - (2019) Apache Kafka Internals
-* [Tim Berglund](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH) - [Videos] Apache Kafka® Tutorials | Kafka 101
-* [Confluent](https://kafka-tutorials.confluent.io/) - Kafka Tutorials: Learn Kafka with End-to-End Code Examples
-
-## Kotlin
-* [Kotlin Docs](https://kotlinlang.org/docs/reference/comparison-to-java.html) - Comparison to Java Programming Language
-* [Simon Wirtz](https://kotlinexpertise.com/kotlin-productivity/) - (2019) How Kotlin makes me a more productive software developer
-* [Kotlin Slack](http://kotlinlang.slack.com/) - official slack managed by jetbrains
-* [Kotlin/kotlinx.cli](https://github.com/Kotlin/kotlinx.cli) - Pure Kotlin implementation of a generic CLI parser.
-* [Clikt](https://ajalt.github.io/clikt/) - Simple, powerful command line parser for Kotlin | Clikt (pronounced “clicked”) is a Kotlin library that makes writing command line interfaces simple and intuitive. It is the “Command Line Interface for Kotlin”. | better alternative to kotlinx.cli ?
 
 ## Lisp
 * [L(λ)THW](http://learnlispthehardway.org/) - Learn Lisp The Hard Way
