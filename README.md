@@ -3426,16 +3426,6 @@ See also [Monitoring](#monitoring)
 * [AskApache](https://www.askapache.com/htaccess/) - THE Ultimate .htaccess tutorial with 100's of Examples | This is a guide for using htaccess to the fullest. **Bonus** : [Htaccess Files from Github](https://www.askapache.com/htaccess-file/)
 * [htaccess tester](https://htaccess.madewithlove.be/) - Test your htaccess rewrite rules
 
-## Atlassian
-> News
-* [Atlassian Release Notes](https://atlassianreleasenotes.tumblr.com/latestversions) - All release notes for all Atlassian products in one place!
-* [Atlassian Community](https://community.atlassian.com/t5/forums/recentpostspage) - forums recent posts
-* [Atlassian Jira](https://jira.atlassian.com/secure/Dashboard.jspa?selectPageId=85890&utm_source=newsletter-email&utm_medium=email&utm_campaign=cops-dc-server-investment-2_EML-4343&jobid=104097550&subid=1419604548) - Jira Server and Data Center: current work and future plans dashboard.
-
-> Learn
-* [Katrina Morales](https://www.atlassian.com/blog/add-ons/5-real-life-examples-beautiful-technical-documentation) - (2017) 5 real-life examples of beautiful technical documentation | user friendly docs on confluence
-* [Karl Tate](https:/blog.clearvision-cm.com/blog/confluence-best-practice-10-quick-and-dirty-tips-for-maintaining-your-confluence-environment/) - (2018) Confluence Best Practice: 10 Quick Tips for Maintaining Your Confluence Environment
-
 ## Infrastructure
 See also [AWS](#aws) and [Terraform](#terraform)
 * [HashiCorp](https://www.hashicorp.com/resources) - Resource Library | Learn how to provision, secure , connect , and run any infrastructure for any application
