@@ -3629,6 +3629,7 @@ Run Lighthouse on an emulated mobile device on a 3G network. Running the test wi
 * [eBru](https://www.ebru.be/bruxellesdantan.html) - 🇫🇷 🇧🇪 [FR] [BE] Bruxelles d'antan - Bruxelles en vieilles photos, publicités et cartes postales
 
 # Podcasts :radio:
+* [Bombo](https://podcast.ausha.co/bombo/) - 🇫🇷 🇧🇪 [FR] [BE] Venez vous inspirer avec des gens passionnés de Bon et de Beau
 * [Player FM](http://player.fm/featured/programming) - Programming podcasts
 * [Player FM](https://player.fm/podcasts/Software-Development) - Software Development Podcasts
 * [Les Cast Codeurs](https://lescastcodeurs.com/) - [FR] :fr: podcast for Java programmers
