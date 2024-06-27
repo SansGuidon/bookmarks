@@ -6,24 +6,15 @@
   * [Ansible Vault](#ansible-vault)
 * [Argo CD](#argo-cd)
 * [AWS](#aws)
-* [Bitbucket](#bitbucket)
-* [ChatOps](#chatops)
 * [Containers](#containers)
 * [Gradle](#gradle)
 * [Kubernetes](#kubernetes)
 * [Microservices](#microservices)
-* [Maven](#maven)
-* [Nexus](#nexus)
 * [OpenShift](#openshift)
-* [Packer](#packer)
 * [SecOps](#secops)
 * [Site Reliability Engineering](#site-reliability-engineering)
-* [Tekton](#tekton)
 * [Terraform](#terraform)
-* [Travis CI](#travis-ci)
-* [Vagrant](#vagrant)
 * [Vault (by HashiCorp)](#vault-by-hashicorp)
-* [VirtualBox](#virtualbox)
 
 > News
 * [HashiCorp](https://www.hashicorp.com/blog/) - HashiCorp Blog
@@ -568,82 +559,6 @@ See also [Infrastructure](README.md#infrastructure)
 * [Henna Abbas](https://support.circleci.com/hc/en-us/articles/360034981414-How-to-Add-Temporary-AWS-Session-Tokens-in-Terraform) - (2021) How to Add Temporary AWS Session Tokens in Terraform
 * [AWS Docs](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html) - Using temporary credentials with AWS resources
 
-## Bitbucket
-* [SansGuidon](cheat/bitbucket.md) - bitbucket cheatsheet / tips
-* [Atlassian Docs](https://ja.confluence.atlassian.com/jirakb/java-option-http-nonproxyhosts-does-not-work-214863640.html) - Java Option http.nonProxyHosts does not work | useful info for Jira, Confluence & BitBucket
-
-## ChatOps
-> Tools
-* [Vivek Gite](https://www.cyberciti.biz/open-source/awesome-chatops-foss-software-for-conversation-driven-development-management/) - 7 Awesome ChatOps Open Source Software For Conversation-driven Development and Management
-* [Richard Jones](https://www.metabrew.com/article/how-we-use-irc-at-lastfm) - (2009) How we use IRC at Last.fm
-* [Vinay Nadig](https://www.icicletech.com/blog/automate-your-development-activities-with-hubot) - Automate Your Development Activities with Hubot
-* [Pete Nicholls](http://hubot-script-catalog.herokuapp.com/) - Hubot Script Catalog. [Repository](https://github.com/Aupajo/hubot-script-catalog)
-* [Hubot](https://github.com/github/hubot) - Hubot repository on GitHub
-* [Hubot Docs](https://hubot.github.com/docs/) - Getting started with Hubot. See also : [Adapters for Hubot](https://hubot.github.com/docs/adapters/), [Scripting Doc](https://hubot.github.com/docs/scripting/), [Deploying on Unix](https://hubot.github.com/docs/deploying/unix/)
-* [Hubot Scripts](https://github.com/hubot-scripts) - Hubot Scripts on GitHub. Other related repo on GitHub by tag : [hubot-scripts](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot-scripts+&type=Repositories), [hubot](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ahubot+&type=Repositories), [hubot-adapter](https://github.com/search?q=topic%3Ahubot-adapter&type=Repositories)
-* [Rocket.Chat](https://rocket.chat/) - your self hosted cross-platform open source chat solution as an alternative to slack. Related : [RocketChat GitHub repo](https://github.com/RocketChat/Rocket.Chat), [Integrate with Rocket.Chat !](https://github.com/RocketChat/Rocket.Chat.Ops)
-* [RocketChat/hubot-rocketchat](https://github.com/RocketChat/hubot-rocketchat) - Rocket.Chat Hubot adapter
-* [Lita](https://www.lita.io/) - A free extensible robot companion, written in Ruby, for your company's chat room. [Plugins here](https://plugins.lita.io/)
-* [Ansible Docs](https://docs.ansible.com/ansible/list_of_notification_modules.html) - Notifications modules for Ansible : cisco spark, jabber, hipchat, mattermost, mail, rocket chat, slack, telegram, ...
-* [Jabber plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Jabber+Plugin)
-* [Cisco Spark](https://depot.ciscospark.com/integrations/categories/developer-tools) - Cisco Spark integrations with developer tools
-* [bhuga/hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc) - hubot-chatops-rpc : Easily add RPC endpoints to your hubot.
-* [StackStorm Exchange](https://exchange.stackstorm.org/) - Automate all the things you already know and use with dozens of ready-made integration packs. Cloud providers, monitoring services, lightbulbs. It’s extendable, flexible, and built with love for DevOps and ChatOps
-* [Dylan Murray](https://blog.openshift.com/rocket-chat-ansible-playbook-bundle-development-deployment-tutorial/) - (2018) Rocket.Chat Ansible Playbook Bundle Development & Deployment Tutorial
-* [Andrei Soroker](https://sameroom.io/blog/self-hosted-team-chat-options-and-alternatives/) - (2015) Self-Hosted Team Chat Options and Alternatives
-* [Mattermost](https://about.mattermost.com/community-applications/) - Mattermost Apps and Integrations
-* [Rocket.Chat Docs](https://rocket.chat/docs/administrator-guides/integrations/) - Rocket.Chat Integrations
-* [Matrix.org Blog](https://matrix.org/blog/home/) - An open network for secure, decentralized communication.
-* [Rudolf Olah](https://sourcecontribute.com/2017/09/10/riot-im-0-12-is-out-yes-its-better-than-slack/) - (2017) Riot.im 0.12 is out, yes it’s better than Slack | but I see a very small number of [apps, tools and bridges](https://about.riot.im/apps-bots-and-bridges/). See also [Running your own encrypted chat service with Matrix and Riot](https://gist.github.com/attacus/cb5c8a53380ca755b10a5b37a636a0b9)
-* [Bill Doerrfeld](https://nordicapis.com/12-frameworks-to-build-chatops-bots/) - (2016) 12+ Frameworks to Build ChatOps Bots
-* [Zulip](https://zulipchat.com/integrations/) - all native integrations for Zulip
-* [operable/cog](https://github.com/operable/cog/) - Bringing the power of the command line to chat : Via [Choosing a Chatbot:From Hubot to Yetibot, What You Need to Know](https://victorops.com/blog/choose-chatbotfrom-hubot-yetibot-need-know)
-> Cog is engineered to be more of a framework that addresses a number of concerns many teams have, such as security. With built-in access control and audit logging functionality, Cog allows teams to collaborate on sensitive tasks with higher confidence. Taking inspiration from the command-line interface, Cog has a “pipe” operator that allows users to run a command and use that output as the input for another command in a process.
-* [Internet Relay Chat](https://netsplit.de/channels/) - Search chat rooms (IRC channels) within the Internet Relay Chat and get informed about their users and topics!
-
-> Misc
-* [XKCD](https://xkcd.com/1810/) - xKCD about chat systems
-* [Sameroom.io](https://cdn.sameroom.io/chat-timeline.pdf) - a brief history of chat services from 1973 to the present day
-* [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots) - a curated list of resources for bots and chatbots
-* [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - list of Emoji / emoticons supported on GitHub, Basecamp, Trello, Slack, Dokuwiki, Bitbucket, YouTube, Mattermost, ... (list is bigger)
-* [Oded Zilinsky](https://techbeacon.com/how-use-chatops-boost-business-engagement-across-teams) - (2018) How to use ChatOps to boost business engagement across teams | Go cross-silo with chatbots
-* [Slack Help Center](https://get.slack.help/hc/en-us/articles/201727913-Connect-to-Slack-over-IRC-and-XMPP) - Connect to Slack over IRC and XMPP | slack ends XMPP / IRC support
-* [Carl Chenet](https://carlchenet.com/the-slack-threat/) - (2017) The Slack Threat | why you may need alternatives to slack
-* [Edzo Botjes](https://medium.com/ignation/time-to-replace-slack-who-will-win-mattermost-or-riot-matrix-a090e9cdc219) - (2017) Time to replace Slack! Who will win, MatterMost or Riot/Matrix? | alternatives to slack
-* [Jason Hand](https://dzone.com/articles/choosing-a-chatbot-from-hubot-to-yetibot-what-you) - (2017) Choosing a Chatbot: From Hubot to Yetibot, What You Need to Know
-* [Samuel Hulick](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea) - (2016) Slack, I’m Breaking Up with You
-* [Jan Ivar Beddari](https://sysadvent.blogspot.de/2016/12/day-25-building-team-cli-with-python.html) - (2016) Building a Team CLI with Python: One Alternative to ChatOps
-* [Duncan Bayne](https://lobste.rs/s/3ymveg/slack_s_xmpp_gateway_is_broken_they_won_t_be) - (2018) Slack's XMPP gateway is broken, and they won't be fixing it
-* [Slack](https://a.slack-edge.com/4c1ae/img/security_ent/Security_White_Paper.pdf) - [PDF] Slack’s approach to security
-* [JC Brand](https://opkode.com/blog/slacks-bait-and-switch/) - (2018) Slack's bait and switch | We all know the real reason Slack has closed off their gateways. Their business model dictates that they should. They're a typical walled garden, information silo or Siren Server
-* [Cog Book](https://github.com/operable/cog-book/blob/master/cog-book/source/appendices/designing_for_chatops.rst) - Designing ChatOps Commands
-* [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - A collection of awesome things about ChatOps.
-* [Jaikumar Vijayan](https://techbeacon.com/how-securely-scale-chatops-enterprise) - How to securely scale ChatOps in the enterprise
-* [List of All ASCII Emoticons](https://upli.st/l/list-of-all-ascii-emoticons) - A massive list of all the ASCII emoticons discovered on the interweb.
-* [dysfunc/ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential ASCII Emoji
-* [Random Emojis for Slack](https://slackmojis.com/categories/19-random-emojis) - big collection of emojis for Slack
-* [Emojipedia](https://emojipedia.org/) - 📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍 . **Example** : [Pistol Emoji](https://emojipedia.org/pistol/)
-* [Joe Casabona](https://casabona.org/2019/01/eliminating-slack-distraction/) - (2019) Eliminating Slack as a Distraction to Work Better
-* [Mike Crittenden](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/) - (2021) If it will matter after today, stop talking about it in a chat room
-* [Mike Crittenden](https://critter.blog/2020/12/29/death-to-private-chats/) - (2020) Death to private chats
-
-> Tips
-* [Dmitri Zimine](https://stackstorm.com/2015/12/10/chatops_pitfalls_and_tips/) - (2015) Chatops Pitfalls and Tips
-* [Jason Fried](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) - (2016) Is group chat making you sweat?
-* [Matt Schlicht](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - The Complete Beginner’s Guide To Chatbots / everything your need to know
-* [Zach Holman](https://zachholman.com/talk/unsucking-your-teams-development-environment/) - (2012) Unsucking Your Team's Development Environment
-* [Zach Holman](https://speakerdeck.com/holman/how-github-uses-github-to-build-github) - (2011) How GitHub Uses GitHub to Build GitHub
-* [Anders Wallgren](https://dzone.com/articles/chatops-and-devops-best-practices) - (2017) ChatOps and DevOps Best Practices
-
-> Slack communities
-* [Botmakers](https://botmakers.org/) - Slack Community of bot fans who make and share online bots for Twitter, Slack, etc.
-* [ChatBots & AI group](https://chatbotsgroup.engazify.com/) - Slack community of bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
-* [Kotlin Slack](http://kotlinlang.slack.com/) - official slack managed by jetbrains
-* [HangOps](https://signup.hangops.com/) - is a large, active DevOps slack community.
-* [Devops Engineers](https://devopsengineers.com/) - A group of engineers talking about devops related topics in a Slack channel
-* [DevOpsChat](https://devopschat.co/) - Get involved with the Largest DevOps Slack Community
-* [SweetOps](https://slack.cloudposse.com/) - is a collaborative DevOps community for engineers of all skill levels, sponsored by Cloud Posse.
-
 ## Containers
 > News
 * [Docker](http://blog.docker.com/curated/) - Docker Blog
@@ -1004,27 +919,6 @@ See also [Infrastructure](README.md#infrastructure)
 * [Zhamak Dehghani](https://www.martinfowler.com/articles/break-monolith-into-microservices.html) - (2018) How to break a Monolith into Microservices | What to decouple and when
 * [Shalitha Suranga ](https://blog.logrocket.com/building-microservices-go-gin/) - (2022) Building microservices in Go with Gin
 
-## Maven
-* [Maven Docs](https://maven.apache.org/guides/mini/guide-encryption.html#How_to_keep_the_master_password_on_removable_drive) - How to keep the master password on removable drive
-* [Lieven Doclo](https://dzone.com/articles/why-i-never-use-maven-release) - Why I Never Use the Maven Release Plugin
-* [Maxime Greau](https://www.exoplatform.com/blog/2017/05/08/how-we-used-jenkins-2-and-docker-pipeline-to-migrate-350-maven-ci-jobs-to-pipeline-as-code) - Tips & Tricks to migrate hundred maven jenkins jobs to Pipeline as code with Docker, Goss / Dgoss
-* [Viktor Farcic](https://technologyconversations.com/2014/06/18/build-tools/) - (2014) Java Build Tools: Ant vs Maven vs Gradle
-* [Spring Initializr](http://start.spring.io/) - bootstrap your application now : Generate Maven / Gradle projects with Groovy / Java / Kotlin and Spring Boot
-* [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
-* [Dustin Barnes](https://dev9.com/blog-posts/2014/9/java-release-process-with-continuous-delivery) - (2014) Java Release Process with Continuous Delivery | maven-release-plugin sucks
-* [Philipp Hauer](https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/) - (2016) Version Numbers for Continuous Delivery with Maven and Docker
-
-## Nexus
-* [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-1-maven-artifacts/) - Using Nexus 3 as Your Repository - Part 1: Maven Artifacts
-* [Rafael Eyng](http://codeheaven.io/using-nexus-3-as-your-repository-part-3-docker-images/) - Using Nexus 3 as Your Repository - Part 3: Docker Images
-* [Tim OBrien](http://blog.sonatype.com/2010/04/nexus-tip-moving-artifacts-between-nexus-repositories/) - (2010) Nexus Tip: Moving Artifacts Between Nexus Repositories
-* [Curtis Yanko](http://blog.sonatype.com/nexus-in-openshift) - Nexus in Openshift
-* [Nexus Blog](http://blog.sonatype.com/) - latest news from the makers of Nexus
-* [Michael Prescott](http://blog.sonatype.com/nexus-repository-new-beta-rest-api-for-content) - Nexus Repository: New Beta REST API for Content
-* [Michael Prescott](http://blog.sonatype.com/nexus-repository-manager-3.5) - Nexus Repository Manager 3.5: Yum Proxy Support Now Available
-* [Justin Young](http://blog.sonatype.com/shift-security-practices-left-new-nexus-plugin-for-jenkins-pipelines-1) - (2017) Shift Security Practices Left: New Nexus Plugin for Jenkins Pipelines
-* [Tom Donohue](https://cleverbuilder.com/articles/openshift-nexus-docker-registry/) - (2017) Deploy and use the Nexus Docker registry in OpenShift
-
 ## OpenShift
 * [OpenShift Blog](https://blog.openshift.com/) - OpenShift latest news
 * [OpenShift](https://www.openshift.com/container-platform/features.html) - Features and Benefits of OpenShift
@@ -1056,14 +950,6 @@ See also [Infrastructure](README.md#infrastructure)
 * [Tomasz Cholewa](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/) - (2019) 10 most important differences between OpenShift and Kubernetes
 * [Sasha Jeltuhin](https://thenewstack.io/the-challenges-of-monitoring-kubernetes-and-openshift/) - (2018) The Challenges of Monitoring Kubernetes and OpenShift
 * [Raul Sevilla Canavate](https://www.openshift.com/blog/introducing-kube-burner-a-tool-to-burn-down-kubernetes-and-openshift) - (2021) Introducing kube-burner, A tool to Burn Down Kubernetes and OpenShift
-
-## Packer
-> Learn
-* [Anna Kennedy](http://annaken.github.io/testing-packer-builds-with-serverspec) - (2017) Testing Packer builds with Serverspec
-* [Terratest](https://terratest.gruntwork.io/) - is a Go library that provides patterns and helper functions for testing infrastructure, with 1st-class support for Terraform, Packer, Docker, Kubernetes, AWS, GCP, and more | Automated tests for your infrastructure code.
-* [Gruntwork](https://gruntwork.io/devops-resources/) - A collection of blog posts, talks, books, and checklists for learning about DevOps, AWS, Terraform, Docker, Packer, and more
-* [Yevgeniy Brikman](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) - (2018) Open sourcing Terratest: a swiss army knife for testing infrastructure code | Tools to test Terraform, Packer, Docker, AWS, and much more
-* [Yevgeniy Brikman](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) - (2019) [Slides] [Video] Automated Testing for Terraform, Docker, Packer, Kubernetes, and More
 
 ## SecOps
 * [Pete Cheslock](https://blog.threatstack.com/how-to-create-a-security-minded-devops-organization-three-best-practices) - How to Create a Security-Minded DevOps Organization: Three Best Practices
@@ -1103,9 +989,6 @@ See also [Infrastructure](README.md#infrastructure)
 
 > Tools 
 * [GitHub - dastergon/postmortem-templates: A collection of postmortem templates](https://github.com/dastergon/postmortem-templates)
-
-## Tekton
-* [instrumenta/conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language. **See also** [Official Website](https://conftest.dev)
 
 ## Terraform
 See also [Infrastructure](README.md#infrastructure)
@@ -1207,38 +1090,6 @@ See also [Infrastructure](README.md#infrastructure)
 * [George Richardson](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/) - (2021) Failing Faster with Terraform
 * [Pierre-Mickael Chancrin aka Piermick](https://piermick.wordpress.com/2022/01/27/se-certifier-sur-terraform/) - :fr: [FR] Se certifier sur Terraform
 
-## Travis CI
-* [Tavis CI Docs](https://docs.travis-ci.com/user/common-build-problems/#Troubleshooting-Locally-in-a-Docker-Image) - Troubleshooting Locally in a Docker Image, useful if you have troubles with travis CI
-* [Jeff Geerling](https://www.jeffgeerling.com/blog/2016/how-i-test-ansible-configuration-on-7-different-oses-docker) - (2016) How I test Ansible configuration on 7 different OSes with Docker
-
-## Vagrant
-* [Adam Hawkins](https://semaphoreci.com/community/tutorials/getting-started-with-vagrant) - Getting Started with Vagrant
-* [Ross Tuck](http://rosstuck.com/slightly-faster-ansible-testing-with-vagrant/) - (Slightly) Faster Ansible Testing with Vagrant
-* [mitchellh/vagrant](https://github.com/mitchellh/vagrant/issues/1755) - Re-associate vagrant with vm
-* [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Connect-to-Your-Vagrant-Virtual-Machine-with-PuTTY) - Connect to Your Vagrant Virtual Machine with PuTTY
-* [HashiCorp](https://atlas.hashicorp.com/puppetlabs) - Official Puppet Vagrant boxes
-* [Willem Meints](http://fizzylogic.nl/2015/01/27/building-containerized-apps-with-vagrant/) - (2015) Building Containerized Apps With Vagrant
-* [vfarcic/ms-lifecycle](https://github.com/vfarcic/ms-lifecycle) - an interesting project of Viktor Farcic used for demonstration in book The DevOps 2.0 Toolkit, where you can learn how to use Docker, Ansible & Vagrant to create a complete infrastructure
-* [Scott Keck-Warren](http://www.thisprogrammingthing.com/2015/multiple-vagrant-vms-in-one-vagrantfile/) - (2015) Multiple Vagrant VMs in One Vagrantfile
-* [Sebastian Krysmanski](https://manski.net/2016/09/vagrant-multi-machine-tutorial/) - (2016) Vagrant Tutorial – From Nothing To Multi-Machine
-* [CoreOS Docs](https://coreos.com/os/docs/latest/booting-on-vagrant.html) - Running CoreOS Container Linux on Vagrant
-* [Stefan Wrobel](https://stefanwrobel.com/how-to-make-vagrant-performance-not-suck) - How to make Vagrant performance not suck
-* [iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
-* [emyl/vagrant-triggers](https://github.com/emyl/vagrant-triggers) - Trigger scripts execution on the host or guest before and/or after Vagrant commands.
-* [vvchik/vagrant-serverspec](https://github.com/vvchik/vagrant-serverspec) - a vagrant plugin that implements [serverspec](http://serverspec.org/) as a provisioner.
-* [miroswan/vagrant_spec](https://github.com/miroswan/vagrant_spec) - VagrantSpec : ServerSpec Testing for Clustered / Distributed Systems in Vagrant. **Bonus** : [Tutorial for VagrantSpec](https://github.com/miroswan/vagrant_spec/wiki/Welcome-to-VagrantSpec)
-* [fabriziopandini/vagrant-compose](https://github.com/fabriziopandini/vagrant-compose) - A Vagrant plugin that helps building complex scenarios with many VMs.
-* [Learnosity/vagrant-git](https://github.com/Learnosity/vagrant-git) - a Vagrant plugin to either clone or pull repositories after a VM boots (but before it's provisioned).
-* [maoueh/nugrant](https://github.com/maoueh/nugrant) - Vagrant plugin enabling user specific configuration values and handle parameters to be injected via different sources
-* [p0deje/vagrant-exec](https://github.com/p0deje/vagrant-exec) - Vagrant plugin to execute commands within the context of VM synced directory.
-* [sprotheroe/vagrant-disksize](https://github.com/sprotheroe/vagrant-disksize) - Vagrant plugin to resize disks in VirtualBox
-* [fgrehm/vagrant-notify](https://github.com/fgrehm/vagrant-notify) - Vagrant plugin that redirects `notify-send` from guest to host machine and notifies provisioning status.
-* [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Veewee is a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
-* [Anton Kalyaev](https://coderwall.com/p/17i72q/vagrant-tips) - Vagrant tips
-* [Kevin London](https://www.kevinlondon.com/2016/09/19/devops-from-scratch-pt-1.html) - (2016) DevOps from Scratch, Part 1: Vagrant & Ansible
-* [Darren Beale](https://24ways.org/2014/what-is-vagrant-and-why-should-i-care/) - (2014) What Is Vagrant and Why Should I Care?
-* [Vagrant](https://app.vagrantup.com/boxes/search) - discover vagrant boxes
-
 ## Vault (by HashiCorp)
 * [HashiCorp](https://www.hashicorp.com/blog/) - HashiCorp Blog
 * [strothj/vault/](https://hub.docker.com/r/strothj/vault/) - Vault Unofficial Docker Image
@@ -1257,8 +1108,3 @@ See also [Infrastructure](README.md#infrastructure)
 * [Armon Dadgar](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) - [Podcast] (2017) SE-Radio Episode 311: Armon Dadgar on Secrets Management
 * [Andrey Devyatkin](https://www.slideshare.net/AndreyDevyatkin/hashiconf-digital-2020-hashicorp-vault-configuration-as-code-via-hashicorp-terraform-stories-from-trenches) - (2020) [Sildes] HashiCorp Vault configuration as code via HashiCorp Terraform: Stories from Trenches (HashiConf Digital 2020)
 
-## VirtualBox
-* [LZone](http://lzone.de/cheat-sheet/VirtualBox) - VirtualBox Cheat Sheet
-* [Thomas-Krenn](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox) - Headless Mode for VirtualBox
-* [VirtualBox issues tracker](https://www.virtualbox.org/ticket/14374) - Network adapters not working after host returns from sleep Win 7 host Linux Mint 17.2 guest
-* [VirtualBox Docs](https://www.virtualbox.org/manual/) - Oracle VM VirtualBox Documentation / User manual
