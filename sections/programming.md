@@ -1,3 +1,8 @@
+---
+gitea: none
+include_toc: true
+---
+
 # Programming
 
 ## Table of contents
