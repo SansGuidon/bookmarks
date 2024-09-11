@@ -1,3 +1,9 @@
+---
+gitea: none
+include_toc: true
+---
+
+
 # DevOps / CICD
 
 ## Table of contents
