@@ -1,3 +1,8 @@
+---
+gitea: none
+include_toc: true
+---
+
 # Productivity :computer:
 See also [Dotfiles / Aliases](programming.md#dotfiles--aliases) and [Shell aliases](../README.md#shell-aliases)
 
