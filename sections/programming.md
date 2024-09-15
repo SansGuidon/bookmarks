@@ -1773,6 +1773,7 @@ See also [Robots](../README.md#robots)
 * [Alex Mitelman](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/) - (2021) Python Best Practices for a New Project in 2021
 * [pipx](https://pypa.github.io/pipx/) - Install and Run Python Applications in Isolated Environments
 * [Brandon Rhodes](https://python-patterns.guide/) - (2018) Python Design Patterns | evolving guide to design patterns in the Python programming language.
+* [Pyrexp](https://pythonium.net/regex) - Test and debug regular expressions for Python.
 
 ## Reverse engineering
 * [Bob Pan/dex2jar](https://github.com/pxb1988/dex2jar) - dex2jar : Tools to work with android .dex and java .class files and do some conversion
