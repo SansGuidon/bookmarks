@@ -5,6 +5,9 @@ See also my [How-Tos](https://gist.github.com/MorganGeek/dac6edbff15300368341b63
 * Always double check the text of your commit message, before, during, and after pushing it.
 * Always double check the diff of your commit, before the commit, and after pushing it, that way you make sure you didn't cause a mess for later.
 
+# Health & wellness
+* Sleep enough (8 hours is good for me, below that I'll ruin my day).
+
 # Writing and Communication
 * Always double check your texts via grammer checking tool before sending important communication. 
 * Always double check the message you are answering to, before making conclusions or reacting in a hurry.
