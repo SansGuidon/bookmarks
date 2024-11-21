@@ -2065,6 +2065,7 @@ See also [Accessibility (a11y)](#accessibility-a11y) && [Performance](#performan
 * [hashtomagnet.xyz](https://hashtomagnet.xyz/) -  Hash to Magnet generator + Get Seed/Leech informations
 * [DeepAI](https://deepai.org/machine-learning-model/colorizer) - Image Colorization API
 * [Sedja](https://www.sejda.com/) - Easy, pleasant and productive PDF editor
+* [PDFSimpli](https://www.pdfsimpli.com/) - Free Online PDF Editor - PDF Made Simple In Seconds
 * [Buienradar.be](https://www.buienradar.be/weer/Brussel/BE/2800866) - 🇧🇪 [BE] Current rainfall radar for Belgium, Europe, satellite images, weather reports and forecasts.
 * [htaccess tester](https://htaccess.madewithlove.be/) - Test your htaccess rewrite rules
 * [Grammar Checker](https://www.grammarcheck.net/editor/) - Enter the text that you want to check for grammar, spelling, and punctuation mistakes
