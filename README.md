@@ -527,6 +527,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * [Online Converter](https://www.onlineconverter.com/compress-epub) - Compress EPUB File Size
 * :star: [iLovePDF](https://www.ilovepdf.com/compress_pdf) - Compress PDF file. Same PDF Quality less file size
 * :star: [iLovePDF](https://www.ilovepdf.com/edit-pdf) - Online PDF Editor and Form Filler
+* [Remove Audio (free tool)](https://remove-audio.com) - Free browser-based tool to mute videos locally via WebAssembly. No uploads, no sign-up, no watermarks, batch up to 20 clips
 
 ## Book suggestions
 * [TasteKid](https://tastedive.com/) - get recommendations for music but also tv shows, films, games, books...
